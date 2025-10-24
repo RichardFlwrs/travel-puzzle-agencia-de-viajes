@@ -1,0 +1,86 @@
+// This is your Prisma schema file for MySQL
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+// User Model
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique @db.VarChar(255)
+  password  String   @db.VarChar(255)
+  name      String?  @db.VarChar(255)
+  role      Role     @default(CLIENT)
+  bookings  Booking[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// Tour Model
+model Tour {
+  id          String   @id @default(cuid())
+  title       String   @db.VarChar(255)
+  description String   @db.Text
+  destination String   @db.VarChar(255)
+  provider    String   @db.VarChar(100)
+  externalId  String   @db.VarChar(255)
+  price       Decimal  @db.Decimal(10, 2)
+  images      String   @db.Text  // JSON array stored as text
+  bookings    Booking[]
+  isActive    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// Booking Model
+model Booking {
+  id            String        @id @default(cuid())
+  userId        String
+  user          User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  tourId        String
+  tour          Tour          @relation(fields: [tourId], references: [id], onDelete: Cascade)
+  status        BookingStatus @default(PENDING)
+  paymentStatus PaymentStatus @default(PENDING)
+  totalAmount   Decimal       @db.Decimal(10, 2)
+  externalUrl   String?       @db.VarChar(500)
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+
+  @@index([userId])
+  @@index([tourId])
+  @@index([status])
+}
+
+// API Provider Model
+model ApiProvider {
+  id          String   @id @default(cuid())
+  name        String   @unique @db.VarChar(100)
+  apiKey      String   @db.Text
+  apiSecret   String?  @db.Text
+  endpoint    String   @db.VarChar(500)
+  isActive    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// Enums
+enum Role {
+  CLIENT
+  ADMIN
+}
+
+enum BookingStatus {
+  PENDING
+  CONFIRMED
+  CANCELLED
+}
+
+enum PaymentStatus {
+  PENDING
+  PAID
+  REFUNDED
+}
