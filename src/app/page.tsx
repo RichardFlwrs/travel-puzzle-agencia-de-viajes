@@ -15,7 +15,7 @@ export default function Home() {
   // Mock user for testing - change to test different states
   // const mockUser = null; // Public (not logged in)
   // const mockUser = { name: 'John Doe', email: 'john@example.com', role: 'CLIENT' as const }; // Client
-  const mockUser = { name: 'Admin User', email: 'admin@example.com', role: 'ADMIN' as const }; // Admin
+  const mockUser = { id: '1', createdAt: new Date(), name: 'Admin User', email: 'admin@example.com', role: 'ADMIN' as const }; // Admin
 
   return (
     <div className="min-h-screen bg-background">
@@ -76,13 +76,13 @@ export default function Home() {
             <h3 className="text-3xl font-bold">{t('tours.featuredTitle')}</h3>
             <Button variant="outline">{t('tours.viewAll')}</Button>
           </div>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {tours.map((tour) => (
               <Card key={tour.id} className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="aspect-video bg-muted relative">
-                  <Image 
-                    src={tour.images[0]} 
+                  <Image
+                    src={tour.images[0]}
                     alt={tour.title}
                     fill
                     className="object-cover"

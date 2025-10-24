@@ -11,13 +11,8 @@ import {
   MenuIcon,
   CloseIcon,
 } from '@/assets/svg';
+import { User } from '@/types';
 
-// Mock session - will be replaced with real NextAuth session
-interface User {
-  name: string;
-  email: string;
-  role: 'CLIENT' | 'ADMIN';
-}
 
 interface NavbarProps {
   user?: User | null;
@@ -140,7 +135,7 @@ export const Navbar = ({ user }: NavbarProps) => {
                   buttonContent={
                     <>
                       <div className="w-8 h-8 bg-primary/10 rounded-full flex items-center justify-center text-primary font-semibold">
-                        {user.name.charAt(0).toUpperCase()}
+                        {user.name?.charAt(0).toUpperCase() || ''}
                       </div>
                       <span className="hidden lg:block">{user.name}</span>
                     </>
