@@ -1,65 +1,141 @@
+'use client';
+
 import Image from "next/image";
+import { useLanguage } from "@/lib/language-context";
+import { LanguageSwitcher } from "@/components/shared/LanguageSwitcher";
+import { getMockTours } from "@/lib/mock-data";
+import { Button } from "@/components/ui/Button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/Card";
+import { Badge } from "@/components/ui/Badge";
 
 export default function Home() {
+  const { t, language } = useLanguage();
+  const tours = getMockTours(language);
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="min-h-screen bg-background">
+      {/* Simple Header */}
+      <header className="border-b border-border bg-background sticky top-0 z-50">
+        <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+          <h1 className="text-2xl font-bold text-primary">🧩 Travel Puzzle</h1>
+          <div className="flex items-center gap-4">
+            <LanguageSwitcher />
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </header>
+
+      {/* Hero Section */}
+      <section className="py-20 px-4 text-center bg-linear-to-b from-primary/5 to-background">
+        <div className="container mx-auto max-w-4xl">
+          <h2 className="text-5xl font-bold mb-6">{t('hero.title')}</h2>
+          <p className="text-xl text-muted-foreground mb-8">{t('hero.subtitle')}</p>
+          <div className="flex gap-4 justify-center">
+            <Button size="lg">{t('hero.cta.browse')}</Button>
+            <Button variant="outline" size="lg">{t('hero.cta.howItWorks')}</Button>
+          </div>
         </div>
-      </main>
+      </section>
+
+      {/* i18n Test Section */}
+      <section className="py-12 px-4 bg-muted/30">
+        <div className="container mx-auto max-w-6xl">
+          <h3 className="text-2xl font-bold mb-6 text-center">
+            ✅ i18n System Working!
+          </h3>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Current Language</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-3xl font-bold text-primary">{language.toUpperCase()}</p>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Total Tours</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-3xl font-bold text-success">{tours.length}</p>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Languages Available</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-3xl font-bold text-accent">6</p>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </section>
+
+      {/* Featured Tours */}
+      <section className="py-16 px-4">
+        <div className="container mx-auto max-w-6xl">
+          <div className="flex items-center justify-between mb-8">
+            <h3 className="text-3xl font-bold">{t('tours.featuredTitle')}</h3>
+            <Button variant="outline">{t('tours.viewAll')}</Button>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {tours.map((tour) => (
+              <Card key={tour.id} className="overflow-hidden hover:shadow-lg transition-shadow">
+                <div className="aspect-video bg-muted relative">
+                  <Image 
+                    src={tour.images[0]} 
+                    alt={tour.title}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 100vw, 50vw"
+                  />
+                  <div className="absolute top-4 right-4">
+                    {tour.price === 0 ? (
+                      <Badge variant="success">{t('tours.free')}</Badge>
+                    ) : (
+                      <Badge>{tour.currency} {tour.price}</Badge>
+                    )}
+                  </div>
+                </div>
+                <CardHeader>
+                  <CardTitle className="line-clamp-2">{tour.title}</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-sm text-muted-foreground mb-4 line-clamp-2">
+                    {tour.brief}
+                  </p>
+                  <div className="flex items-center justify-between text-sm mb-4">
+                    <span className="text-muted-foreground">
+                      {t('tours.duration')}: {tour.duration}
+                    </span>
+                    <span className="text-muted-foreground">
+                      {tour.provider}
+                    </span>
+                  </div>
+                  <div className="flex gap-2">
+                    <Button className="flex-1">{t('tours.bookNow')}</Button>
+                    <Button variant="outline">{t('tours.viewDetails')}</Button>
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="border-t border-border py-8 px-4 bg-muted/30">
+        <div className="container mx-auto max-w-6xl text-center text-sm text-muted-foreground">
+          <p>{t('footer.copyright')}</p>
+          <div className="flex gap-4 justify-center mt-4">
+            <a href="#" className="hover:text-primary">{t('footer.about')}</a>
+            <a href="#" className="hover:text-primary">{t('footer.contact')}</a>
+            <a href="#" className="hover:text-primary">{t('footer.terms')}</a>
+            <a href="#" className="hover:text-primary">{t('footer.privacy')}</a>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }

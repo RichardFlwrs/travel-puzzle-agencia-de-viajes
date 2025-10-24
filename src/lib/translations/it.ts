@@ -1,0 +1,116 @@
+export const it = {
+  // Navigation
+  'nav.home': 'Home',
+  'nav.tours': 'Tour',
+  'nav.howItWorks': 'Come Funziona',
+  'nav.login': 'Accedi',
+  'nav.signup': 'Registrati',
+  'nav.myBookings': 'Le Mie Prenotazioni',
+  'nav.profile': 'Profilo',
+  'nav.dashboard': 'Dashboard',
+  'nav.logout': 'Disconnetti',
+  
+  // Hero Section
+  'hero.title': 'Scopri la Tua Prossima Avventura',
+  'hero.subtitle': 'Prenota tour straordinari da fornitori affidabili in tutto il mondo',
+  'hero.cta.browse': 'Esplora i Tour',
+  'hero.cta.howItWorks': 'Come Funziona',
+  
+  // Tours
+  'tours.title': 'Tutti i Tour',
+  'tours.featuredTitle': 'Tour in Evidenza',
+  'tours.viewAll': 'Vedi Tutti i Tour',
+  'tours.filter.destination': 'Destinazione',
+  'tours.filter.priceRange': 'Fascia di Prezzo',
+  'tours.filter.provider': 'Fornitore',
+  'tours.filter.sortBy': 'Ordina Per',
+  'tours.filter.search': 'Cerca tour...',
+  'tours.viewDetails': 'Vedi Dettagli',
+  'tours.bookNow': 'Prenota Ora',
+  'tours.duration': 'Durata',
+  'tours.includes': 'Include',
+  'tours.meetingPoint': 'Punto di Incontro',
+  'tours.from': 'Da',
+  'tours.free': 'Gratuito',
+  'tours.noResults': 'Nessun tour trovato',
+  
+  // How It Works
+  'howItWorks.title': 'Come Funziona',
+  'howItWorks.step1.title': 'Esplora i Tour',
+  'howItWorks.step1.description': 'Scopri destinazioni e attività da fornitori affidabili',
+  'howItWorks.step2.title': 'Prenota in Sicurezza',
+  'howItWorks.step2.description': 'Scegli il tuo tour e completa la prenotazione con i nostri partner',
+  'howItWorks.step3.title': 'Goditi il Tuo Viaggio',
+  'howItWorks.step3.description': 'Ricevi la conferma e preparati per la tua avventura',
+  
+  // Booking
+  'booking.title': 'Le Mie Prenotazioni',
+  'booking.status.pending': 'In Attesa',
+  'booking.status.confirmed': 'Confermato',
+  'booking.status.cancelled': 'Annullato',
+  'booking.empty': 'Ancora nessuna prenotazione',
+  'booking.viewTour': 'Vedi Tour',
+  'booking.totalAmount': 'Importo Totale',
+  'booking.bookingDate': 'Data di Prenotazione',
+  
+  // Profile
+  'profile.title': 'Il Mio Profilo',
+  'profile.personalInfo': 'Informazioni Personali',
+  'profile.changePassword': 'Cambia Password',
+  'profile.deleteAccount': 'Elimina Account',
+  'profile.save': 'Salva Modifiche',
+  
+  // Forms
+  'form.email': 'Email',
+  'form.password': 'Password',
+  'form.name': 'Nome',
+  'form.confirmPassword': 'Conferma Password',
+  'form.oldPassword': 'Password Attuale',
+  'form.newPassword': 'Nuova Password',
+  'form.submit': 'Invia',
+  'form.cancel': 'Annulla',
+  'form.rememberMe': 'Ricordami',
+  'form.forgotPassword': 'Password dimenticata?',
+  
+  // Auth
+  'auth.loginTitle': 'Bentornato',
+  'auth.signupTitle': 'Crea Account',
+  'auth.noAccount': 'Non hai un account?',
+  'auth.haveAccount': 'Hai già un account?',
+  'auth.signupLink': 'Registrati',
+  'auth.loginLink': 'Accedi',
+  
+  // Messages
+  'messages.loginSuccess': 'Bentornato!',
+  'messages.loginError': 'Email o password non validi',
+  'messages.signupSuccess': 'Account creato con successo!',
+  'messages.signupError': "Impossibile creare l'account",
+  'messages.profileUpdated': 'Profilo aggiornato con successo',
+  'messages.profileUpdateError': 'Impossibile aggiornare il profilo',
+  'messages.passwordChanged': 'Password modificata con successo',
+  'messages.passwordChangeError': 'Impossibile modificare la password',
+  
+  // Footer
+  'footer.about': 'Chi Siamo',
+  'footer.contact': 'Contatti',
+  'footer.terms': 'Termini di Servizio',
+  'footer.privacy': 'Privacy Policy',
+  'footer.help': 'Centro Assistenza',
+  'footer.copyright': '© 2025 Travel Puzzle. Tutti i diritti riservati.',
+  'footer.quickLinks': 'Link Rapidi',
+  'footer.support': 'Supporto',
+  'footer.legal': 'Legale',
+  
+  // Common
+  'common.loading': 'Caricamento...',
+  'common.error': 'Si è verificato un errore',
+  'common.tryAgain': 'Riprova',
+  'common.close': 'Chiudi',
+  'common.save': 'Salva',
+  'common.edit': 'Modifica',
+  'common.delete': 'Elimina',
+  'common.confirm': 'Conferma',
+  'common.back': 'Indietro',
+  'common.next': 'Avanti',
+};
+

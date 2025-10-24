@@ -9,20 +9,104 @@ export interface User {
   createdAt: Date;
 }
 
-// Tour Types
-export type TourStatus = 'active' | 'inactive';
+// Multi-language support
+export type SupportedLanguage = 'en' | 'es' | 'pt' | 'de' | 'fr' | 'it';
 
+export interface MultiLangText {
+  en: string;
+  es: string;
+  pt: string;
+  de: string;
+  fr: string;
+  it: string;
+}
+
+export interface MultiLangURL {
+  en: string;
+  es: string;
+  pt: string;
+  de: string;
+  fr: string;
+  it: string;
+}
+
+// Tour Types (matching API structure)
+export interface TourPrice {
+  value: number;
+  currency: string;
+}
+
+export interface MeetingPoint {
+  title: string;
+  coordinates: string;
+  googlePlaceId: string;
+}
+
+export interface TourImage {
+  id: number;
+  URL: string;
+}
+
+export interface POI {
+  id: number;
+  title: string;
+  googlePlaceId: string;
+}
+
+// Main Tour Interface (from API)
+export interface TourAPI {
+  id: number;
+  updatedAt: string;
+  title: MultiLangText;
+  brief: MultiLangText;
+  description: MultiLangText;
+  providerTitle: string;
+  providerPhone: string;
+  URL: string;
+  URLs: MultiLangURL;
+  price: TourPrice;
+  length: string; // Duration like "4:00" or "2:45"
+  meetingPoint: MeetingPoint;
+  cityId: number;
+  countryId: number;
+  includes: string[];
+  POIs: POI[] | null;
+  titleImageURL: string;
+  categoryId: number;
+  images: TourImage[];
+  videoURL: string | null;
+  rating: number | null;
+  reviewsNumber: number;
+}
+
+// Simplified Tour for UI (our internal format after parsing API)
 export interface Tour {
   id: string;
-  title: string;
-  description: string;
+  externalId: number; // API id
+  title: string; // Current language
+  brief: string; // Current language
+  description: string; // Current language
   destination: string;
-  price: number;
-  images: string[];
   provider: string;
-  externalId: string;
+  price: number;
+  currency: string;
+  images: string[];
+  duration: string;
+  meetingPoint: MeetingPoint;
+  includes: string[];
+  rating: number | null;
+  reviewsNumber: number;
+  bookingURL: string; // Language-specific URL
   isActive: boolean;
-  createdAt: Date;
+  createdAt?: Date;
+  
+  // Keep full multilang data for language switching
+  _multilang?: {
+    title: MultiLangText;
+    brief: MultiLangText;
+    description: MultiLangText;
+    URLs: MultiLangURL;
+  };
 }
 
 // Booking Types

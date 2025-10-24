@@ -189,7 +189,7 @@ enum PaymentStatus {
 ## Development Phases
 
 ### Phase 1: Foundation Setup
-**Status**: [ ] Not Started
+**Status**: [⏳] In Progress (70% Complete)
 
 **Detailed Plan**: See `plans/phase-1-foundation-setup.plan.md` for step-by-step implementation guide
 
@@ -203,12 +203,20 @@ enum PaymentStatus {
 - Build initial landing page with hero section
 - Set up environment variables and Git repository
 
-### Phase 2: Client-Side Core
+### Phase 2: Initial Layout & Navigation
+**Status**: [ ] Not Started
 
-- Build tour listing and filtering
-- Tour detail pages
-- Basic booking flow (redirect to provider)
-- User dashboard and booking history
+**Detailed Plan**: See `plans/phase-2-initial-layout.plan.md` for complete implementation guide
+
+**High-Level Objectives**:
+- Create navigation structure based on user journey (happy path)
+- Build Navbar component with auth-aware navigation
+- Build Footer component with all links
+- Create landing page with hero, featured tours, and how it works sections
+- Implement tour listing and detail pages
+- Create login and signup pages
+- Build user dashboard (My Bookings, Profile)
+- Set up route protection middleware
 
 ### Phase 3: Admin Panel
 
@@ -288,8 +296,8 @@ NEXTAUTH_URL
 
 ### To-dos
 
-- [ ] Initialize Next.js 14+ project with TypeScript, Tailwind, and project structure
-- [ ] Set up Prisma with MySQL and create initial schema (User, Tour, Booking, ApiProvider models)
+- [✅] Initialize Next.js 14+ project with TypeScript, Tailwind, and project structure
+- [✅] Set up Prisma with MySQL and create initial schema (User, Tour, Booking, ApiProvider models)
 - [ ] Configure NextAuth.js v5 with role-based authentication (CLIENT/ADMIN)
 - [ ] Create login, signup, and protected route middleware
 - [ ] Create root layout, client layout, and admin layout with navigation

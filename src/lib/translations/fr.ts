@@ -1,0 +1,116 @@
+export const fr = {
+  // Navigation
+  'nav.home': 'Accueil',
+  'nav.tours': 'Tours',
+  'nav.howItWorks': 'Comment Ça Marche',
+  'nav.login': 'Se Connecter',
+  'nav.signup': "S'inscrire",
+  'nav.myBookings': 'Mes Réservations',
+  'nav.profile': 'Profil',
+  'nav.dashboard': 'Tableau de Bord',
+  'nav.logout': 'Se Déconnecter',
+  
+  // Hero Section
+  'hero.title': 'Découvrez Votre Prochaine Aventure',
+  'hero.subtitle': 'Réservez des tours incroyables auprès de fournisseurs de confiance dans le monde entier',
+  'hero.cta.browse': 'Explorer les Tours',
+  'hero.cta.howItWorks': 'Comment Ça Marche',
+  
+  // Tours
+  'tours.title': 'Tous les Tours',
+  'tours.featuredTitle': 'Tours en Vedette',
+  'tours.viewAll': 'Voir Tous les Tours',
+  'tours.filter.destination': 'Destination',
+  'tours.filter.priceRange': 'Gamme de Prix',
+  'tours.filter.provider': 'Fournisseur',
+  'tours.filter.sortBy': 'Trier Par',
+  'tours.filter.search': 'Rechercher des tours...',
+  'tours.viewDetails': 'Voir les Détails',
+  'tours.bookNow': 'Réserver Maintenant',
+  'tours.duration': 'Durée',
+  'tours.includes': 'Comprend',
+  'tours.meetingPoint': 'Point de Rencontre',
+  'tours.from': 'À partir de',
+  'tours.free': 'Gratuit',
+  'tours.noResults': 'Aucun tour trouvé',
+  
+  // How It Works
+  'howItWorks.title': 'Comment Ça Marche',
+  'howItWorks.step1.title': 'Explorer les Tours',
+  'howItWorks.step1.description': 'Découvrez des destinations et des activités de fournisseurs de confiance',
+  'howItWorks.step2.title': 'Réserver en Toute Sécurité',
+  'howItWorks.step2.description': 'Choisissez votre tour et complétez la réservation avec nos partenaires',
+  'howItWorks.step3.title': 'Profitez de Votre Voyage',
+  'howItWorks.step3.description': 'Recevez la confirmation et préparez-vous pour votre aventure',
+  
+  // Booking
+  'booking.title': 'Mes Réservations',
+  'booking.status.pending': 'En Attente',
+  'booking.status.confirmed': 'Confirmé',
+  'booking.status.cancelled': 'Annulé',
+  'booking.empty': 'Aucune réservation pour le moment',
+  'booking.viewTour': 'Voir le Tour',
+  'booking.totalAmount': 'Montant Total',
+  'booking.bookingDate': 'Date de Réservation',
+  
+  // Profile
+  'profile.title': 'Mon Profil',
+  'profile.personalInfo': 'Informations Personnelles',
+  'profile.changePassword': 'Changer le Mot de Passe',
+  'profile.deleteAccount': 'Supprimer le Compte',
+  'profile.save': 'Enregistrer les Modifications',
+  
+  // Forms
+  'form.email': 'E-mail',
+  'form.password': 'Mot de Passe',
+  'form.name': 'Nom',
+  'form.confirmPassword': 'Confirmer le Mot de Passe',
+  'form.oldPassword': 'Mot de Passe Actuel',
+  'form.newPassword': 'Nouveau Mot de Passe',
+  'form.submit': 'Soumettre',
+  'form.cancel': 'Annuler',
+  'form.rememberMe': 'Se souvenir de moi',
+  'form.forgotPassword': 'Mot de passe oublié?',
+  
+  // Auth
+  'auth.loginTitle': 'Bon Retour',
+  'auth.signupTitle': 'Créer un Compte',
+  'auth.noAccount': "Vous n'avez pas de compte?",
+  'auth.haveAccount': 'Vous avez déjà un compte?',
+  'auth.signupLink': 'Inscrivez-vous',
+  'auth.loginLink': 'Connectez-vous',
+  
+  // Messages
+  'messages.loginSuccess': 'Bon retour!',
+  'messages.loginError': 'E-mail ou mot de passe invalide',
+  'messages.signupSuccess': 'Compte créé avec succès!',
+  'messages.signupError': 'Impossible de créer le compte',
+  'messages.profileUpdated': 'Profil mis à jour avec succès',
+  'messages.profileUpdateError': 'Impossible de mettre à jour le profil',
+  'messages.passwordChanged': 'Mot de passe modifié avec succès',
+  'messages.passwordChangeError': 'Impossible de modifier le mot de passe',
+  
+  // Footer
+  'footer.about': 'À Propos',
+  'footer.contact': 'Contact',
+  'footer.terms': 'Conditions de Service',
+  'footer.privacy': 'Politique de Confidentialité',
+  'footer.help': "Centre d'Aide",
+  'footer.copyright': '© 2025 Travel Puzzle. Tous droits réservés.',
+  'footer.quickLinks': 'Liens Rapides',
+  'footer.support': 'Support',
+  'footer.legal': 'Légal',
+  
+  // Common
+  'common.loading': 'Chargement...',
+  'common.error': 'Une erreur est survenue',
+  'common.tryAgain': 'Réessayer',
+  'common.close': 'Fermer',
+  'common.save': 'Enregistrer',
+  'common.edit': 'Modifier',
+  'common.delete': 'Supprimer',
+  'common.confirm': 'Confirmer',
+  'common.back': 'Retour',
+  'common.next': 'Suivant',
+};
+
