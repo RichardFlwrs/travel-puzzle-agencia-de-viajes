@@ -78,7 +78,7 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {tours.map((tour) => (
+            {tours.map((tour, index) => (
               <Card key={tour.id} className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="aspect-video bg-muted relative">
                   <Image
@@ -87,6 +87,7 @@ export default function Home() {
                     fill
                     className="object-cover"
                     sizes="(max-width: 768px) 100vw, 50vw"
+                    priority={index === 0}
                   />
                   <div className="absolute top-4 right-4">
                     {tour.price === 0 ? (
