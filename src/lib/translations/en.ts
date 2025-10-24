@@ -7,8 +7,14 @@ export const en = {
   'nav.signup': 'Sign Up',
   'nav.myBookings': 'My Bookings',
   'nav.profile': 'Profile',
-  'nav.dashboard': 'Dashboard',
-  'nav.logout': 'Logout',
+  'nav.dashboard.label': 'Dashboard',
+  'nav.dashboard.overview': 'Analytics Overview',
+  'nav.dashboard.manageTours': 'Manage Tours',
+  'nav.dashboard.manageBookings': 'Manage Bookings',
+  'nav.dashboard.manageUsers': 'Manage Users',
+  'nav.dashboard.apiConfig': 'API Configuration',
+  'nav.user.profile': 'Profile Settings',
+  'nav.user.logout': 'Logout',
   
   // Hero Section
   'hero.title': 'Discover Your Next Adventure',

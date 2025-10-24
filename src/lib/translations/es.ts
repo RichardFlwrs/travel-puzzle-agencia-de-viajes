@@ -7,8 +7,14 @@ export const es = {
   'nav.signup': 'Registrarse',
   'nav.myBookings': 'Mis Reservas',
   'nav.profile': 'Perfil',
-  'nav.dashboard': 'Panel',
-  'nav.logout': 'Cerrar Sesión',
+  'nav.dashboard.label': 'Panel',
+  'nav.dashboard.overview': 'Vista General',
+  'nav.dashboard.manageTours': 'Gestionar Tours',
+  'nav.dashboard.manageBookings': 'Gestionar Reservas',
+  'nav.dashboard.manageUsers': 'Gestionar Usuarios',
+  'nav.dashboard.apiConfig': 'Configuración de API',
+  'nav.user.profile': 'Configuración de Perfil',
+  'nav.user.logout': 'Cerrar Sesión',
   
   // Hero Section
   'hero.title': 'Descubre Tu Próxima Aventura',

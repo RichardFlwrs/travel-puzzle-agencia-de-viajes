@@ -7,8 +7,14 @@ export const de = {
   'nav.signup': 'Registrieren',
   'nav.myBookings': 'Meine Buchungen',
   'nav.profile': 'Profil',
-  'nav.dashboard': 'Dashboard',
-  'nav.logout': 'Abmelden',
+  'nav.dashboard.label': 'Dashboard',
+  'nav.dashboard.overview': 'Übersicht',
+  'nav.dashboard.manageTours': 'Touren Verwalten',
+  'nav.dashboard.manageBookings': 'Buchungen Verwalten',
+  'nav.dashboard.manageUsers': 'Benutzer Verwalten',
+  'nav.dashboard.apiConfig': 'API-Konfiguration',
+  'nav.user.profile': 'Profileinstellungen',
+  'nav.user.logout': 'Abmelden',
   
   // Hero Section
   'hero.title': 'Entdecken Sie Ihr Nächstes Abenteuer',
