@@ -1,37 +1,53 @@
 'use client';
 
-import { createContext, useContext, useState, ReactNode } from 'react';
+import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import { SupportedLanguage } from '@/types';
 import { translations } from './translations';
+import { LoadingPage } from '@/components/shared/LoadingPage';
 
 interface LanguageContextType {
   language: SupportedLanguage;
   setLanguage: (lang: SupportedLanguage) => void;
   t: (key: string) => string;
+  isInitialized: boolean;
 }
 
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [language, setLanguageState] = useState<SupportedLanguage>(() => {
-    // Initialize language from localStorage on client
-    if (typeof window !== 'undefined') {
-      const savedLanguage = localStorage.getItem('preferredLanguage') as SupportedLanguage;
-      if (savedLanguage && translations[savedLanguage]) {
-        return savedLanguage;
-      }
-      // Try to detect browser language
-      const browserLang = navigator.language.split('-')[0] as SupportedLanguage;
-      if (translations[browserLang]) {
-        return browserLang;
-      }
+  // Always start with 'en' to match server-side rendering
+  const [language, setLanguageState] = useState<SupportedLanguage>('en');
+  const [isInitialized, setIsInitialized] = useState(false);
+
+  // After hydration, detect and set the correct language
+  useEffect(() => {
+    // Check localStorage first
+    const savedLanguage = localStorage.getItem('preferredLanguage') as SupportedLanguage;
+    if (savedLanguage && translations[savedLanguage]) {
+      // eslint-disable-next-line
+      setLanguageState(savedLanguage);
+      // Small delay to ensure content is ready
+      setTimeout(() => setIsInitialized(true), 100);
+      return;
     }
-    return 'en';
-  });
+
+    // Detect browser language
+    const browserLang = navigator.language.split('-')[0] as SupportedLanguage;
+    if (translations[browserLang]) {
+      setLanguageState(browserLang);
+      localStorage.setItem('preferredLanguage', browserLang);
+    }
+
+    // Mark as initialized after language detection
+    setTimeout(() => setIsInitialized(true), 100);
+  }, []);
+
   // Save language preference to localStorage
   const setLanguage = (lang: SupportedLanguage) => {
     setLanguageState(lang);
-    localStorage.setItem('preferredLanguage', lang);
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('preferredLanguage', lang);
+    }
   };
 
   // Translation function
@@ -40,7 +56,8 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   };
 
   return (
-    <LanguageContext.Provider value={{ language, setLanguage, t }}>
+    <LanguageContext.Provider value={{ language, setLanguage, t, isInitialized }}>
+      <LoadingPage isLoading={!isInitialized} />
       {children}
     </LanguageContext.Provider>
   );
