@@ -1,7 +1,6 @@
 /* Travel Puzzle Design System - Typography */
 
-/* Import Poppins from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+/* Note: Poppins font is imported in globals.css (all @import rules must be at the top) */
 
 :root {
   /* Font Families */

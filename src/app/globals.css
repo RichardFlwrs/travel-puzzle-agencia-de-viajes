@@ -1,12 +1,14 @@
-/* Box-sizing reset - Applied before Tailwind */
+/* All @import rules must come first in CSS */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+@import "../styles/design-system/index.css";
+
+/* Box-sizing reset - Applied after imports */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
-
-@import "tailwindcss";
-@import "../styles/design-system/index.css";
 
 :root {
   /* Compatibility with existing code - map to design system tokens */
