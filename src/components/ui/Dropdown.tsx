@@ -2,17 +2,20 @@
 
 import React, { useState, useRef, useEffect, ReactNode } from 'react';
 import { ChevronDownIcon } from '@/assets/svg/ChevronDownIcon';
+import { Button } from './Button';
 
 interface DropdownProps {
   buttonContent: ReactNode;
   children: ReactNode;
+  classNameWrapper?: string;
   className?: string;
   dropdownClassName?: string;
 }
 
-export const Dropdown = ({ 
-  buttonContent, 
-  children, 
+export const Dropdown = ({
+  buttonContent,
+  children,
+  classNameWrapper = '',
   className = '',
   dropdownClassName = ''
 }: DropdownProps) => {
@@ -37,17 +40,19 @@ export const Dropdown = ({
   }, [isOpen]);
 
   return (
-    <div className={`relative ${className}`} ref={dropdownRef}>
-      <button
+    <div className={`relative ${classNameWrapper}`} ref={dropdownRef}>
+      <Button
+        variant="ghost"
+        size='sm'
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-foreground hover:bg-muted rounded-md transition-colors"
+        className={`gap-2 text-white hover:bg-white/10 flex items-center ${className}`}
       >
         {buttonContent}
         <ChevronDownIcon isOpen={isOpen} />
-      </button>
+      </Button>
 
       {isOpen && (
-        <div className={`absolute right-0 mt-2 bg-background border border-border rounded-md shadow-lg overflow-hidden ${dropdownClassName}`}>
+        <div className={`absolute right-0 mt-2 bg-background border border-border rounded-md shadow-lg overflow-hidden z-50 ${dropdownClassName}`}>
           <div onClick={() => setIsOpen(false)}>
             {children}
           </div>

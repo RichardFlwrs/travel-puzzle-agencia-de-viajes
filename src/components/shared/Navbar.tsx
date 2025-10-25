@@ -49,17 +49,17 @@ export const Navbar = ({ user }: NavbarProps) => {
   const navLinks = user ? clientLinks : publicLinks;
 
   return (
-    <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur supports-backdrop-filter:bg-background/60 border-b border-border">
+    <nav className="sticky top-0 z-50 bg-tp-blue-primary border-b border-tp-blue-dark">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
 
           {/* Left: Logo + Brand */}
           <div className="flex items-center gap-2">
-            <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
-              <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-white font-bold">
+            <Link href="/" className="flex items-center gap-2 hover:opacity-90 transition-opacity">
+              <div className="w-8 h-8 bg-white/20 rounded-lg flex items-center justify-center text-white font-bold backdrop-blur-sm">
                 TP
               </div>
-              <span className="text-xl font-bold hidden sm:block">Travel Puzzle</span>
+              <span className="text-xl font-bold text-white hidden sm:block">Travel Puzzle</span>
             </Link>
           </div>
 
@@ -69,9 +69,9 @@ export const Navbar = ({ user }: NavbarProps) => {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`text-sm font-medium transition-colors hover:text-primary ${isActive(link.href)
-                  ? 'text-primary border-b-2 border-primary'
-                  : 'text-muted-foreground'
+                className={`text-sm font-medium transition-colors ${isActive(link.href)
+                  ? 'text-white border-b-2 border-white'
+                  : 'text-white/80 hover:text-white'
                   }`}
               >
                 {link.label}
@@ -106,12 +106,12 @@ export const Navbar = ({ user }: NavbarProps) => {
                 {/* Dashboard Dropdown (Admin Only) */}
                 {user.role === 'ADMIN' && (
                   <Dropdown
-                    className="hidden md:block"
+                    classNameWrapper="hidden md:block"
                     dropdownClassName="w-56"
                     buttonContent={
                       <>
-                        🎛️
-                        {t('nav.dashboard.label')}
+                        <span>🎛️</span>
+                        <span className="text-white">{t('nav.dashboard.label')}</span>
                       </>
                     }
                   >
@@ -130,14 +130,14 @@ export const Navbar = ({ user }: NavbarProps) => {
 
                 {/* User Dropdown */}
                 <Dropdown
-                  className="hidden md:block"
+                  classNameWrapper="hidden md:block py-6"
                   dropdownClassName="w-48"
                   buttonContent={
                     <>
-                      <div className="w-8 h-8 bg-primary/10 rounded-full flex items-center justify-center text-primary font-semibold">
+                      <div className="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center text-white font-semibold backdrop-blur-sm">
                         {user.name?.charAt(0).toUpperCase() || ''}
                       </div>
-                      <span className="hidden lg:block">{user.name}</span>
+                      <span className="hidden lg:block text-white">{user.name}</span>
                     </>
                   }
                 >
@@ -165,7 +165,7 @@ export const Navbar = ({ user }: NavbarProps) => {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden p-2 text-foreground hover:bg-muted rounded-md transition-colors"
+              className="md:hidden p-2 text-white hover:bg-white/10 rounded-md transition-colors"
               aria-label="Toggle menu"
             >
               {mobileMenuOpen ? <CloseIcon /> : <MenuIcon />}
@@ -175,7 +175,7 @@ export const Navbar = ({ user }: NavbarProps) => {
 
         {/* Mobile Menu */}
         {mobileMenuOpen && (
-          <div className="md:hidden py-4 border-t border-border">
+          <div className="md:hidden py-4 border-t border-tp-blue-dark">
             {/* Mobile Nav Links */}
             <div className="flex flex-col gap-2 mb-4">
               {navLinks.map((link) => (
@@ -184,8 +184,8 @@ export const Navbar = ({ user }: NavbarProps) => {
                   href={link.href}
                   onClick={() => setMobileMenuOpen(false)}
                   className={`px-4 py-2 text-sm font-medium rounded-md transition-colors ${isActive(link.href)
-                    ? 'bg-primary/10 text-primary'
-                    : 'text-muted-foreground hover:bg-muted'
+                    ? 'bg-white/20 text-white'
+                    : 'text-white/80 hover:bg-white/10 hover:text-white'
                     }`}
                 >
                   {link.label}
@@ -217,7 +217,7 @@ export const Navbar = ({ user }: NavbarProps) => {
                 {/* Mobile Dashboard Links (Admin Only) */}
                 {user.role === 'ADMIN' && (
                   <div className="px-4 mb-2">
-                    <p className="text-xs font-semibold text-muted-foreground uppercase mb-2">
+                    <p className="text-xs font-semibold text-white/60 uppercase mb-2">
                       {t('nav.dashboard.label')}
                     </p>
                     {dashboardLinks.map((link) => (
@@ -225,7 +225,7 @@ export const Navbar = ({ user }: NavbarProps) => {
                         key={link.href}
                         href={link.href}
                         onClick={() => setMobileMenuOpen(false)}
-                        className="flex items-center gap-3 px-4 py-2 text-sm hover:bg-muted rounded-md transition-colors"
+                        className="flex items-center gap-3 px-4 py-2 text-sm text-white/80 hover:bg-white/10 hover:text-white rounded-md transition-colors"
                       >
                         <span>{link.icon}</span>
                         {link.label}
@@ -236,13 +236,13 @@ export const Navbar = ({ user }: NavbarProps) => {
 
                 {/* Mobile User Links */}
                 <div className="px-4">
-                  <p className="text-xs font-semibold text-muted-foreground uppercase mb-2">
+                  <p className="text-xs font-semibold text-white/60 uppercase mb-2">
                     {user.name}
                   </p>
                   <Link
                     href="/profile"
                     onClick={() => setMobileMenuOpen(false)}
-                    className="flex items-center gap-3 px-4 py-2 text-sm hover:bg-muted rounded-md transition-colors"
+                    className="flex items-center gap-3 px-4 py-2 text-sm text-white/80 hover:bg-white/10 hover:text-white rounded-md transition-colors"
                   >
                     <span>⚙️</span>
                     {t('nav.user.profile')}
@@ -253,7 +253,7 @@ export const Navbar = ({ user }: NavbarProps) => {
                       // TODO: Implement logout
                       console.log('Logout');
                     }}
-                    className="w-full flex items-center gap-3 px-4 py-2 text-sm text-red-600 hover:bg-red-50 dark:hover:bg-red-950 rounded-md transition-colors"
+                    className="w-full flex items-center gap-3 px-4 py-2 text-sm text-white hover:bg-tp-red rounded-md transition-colors"
                   >
                     <span>🚪</span>
                     {t('nav.user.logout')}
