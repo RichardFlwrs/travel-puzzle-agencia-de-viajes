@@ -79,12 +79,24 @@ export const de = {
   'form.forgotPassword': 'Passwort vergessen?',
   
   // Auth
-  'auth.loginTitle': 'Willkommen Zurück',
-  'auth.signupTitle': 'Konto Erstellen',
-  'auth.noAccount': 'Noch kein Konto?',
-  'auth.haveAccount': 'Bereits ein Konto?',
-  'auth.signupLink': 'Registrieren',
-  'auth.loginLink': 'Anmelden',
+  'auth.email': 'E-Mail',
+  'auth.password': 'Passwort',
+  'auth.name': 'Vollständiger Name',
+  'auth.confirmPassword': 'Passwort bestätigen',
+  'auth.passwordRequirements': 'Mindestens 8 Zeichen, 1 Großbuchstabe, 1 Zahl',
+  'auth.login.title': 'Willkommen zurück',
+  'auth.login.subtitle': 'Melden Sie sich an, um fortzufahren',
+  'auth.login.button': 'Anmelden',
+  'auth.login.noAccount': 'Noch kein Konto?',
+  'auth.login.signupLink': 'Registrieren',
+  'auth.signup.title': 'Konto erstellen',
+  'auth.signup.subtitle': 'Treten Sie Travel Puzzle bei und beginnen Sie Ihr Abenteuer',
+  'auth.signup.button': 'Konto erstellen',
+  'auth.signup.hasAccount': 'Bereits ein Konto?',
+  'auth.signup.loginLink': 'Anmelden',
+  'auth.error.invalidCredentials': 'Ungültige E-Mail oder Passwort',
+  'auth.error.somethingWrong': 'Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.',
+  'auth.error.loginAfterSignup': 'Konto erstellt, aber Anmeldung fehlgeschlagen. Bitte versuchen Sie, sich manuell anzumelden.',
   
   // Messages
   'messages.loginSuccess': 'Willkommen zurück!',
@@ -118,5 +130,6 @@ export const de = {
   'common.confirm': 'Bestätigen',
   'common.back': 'Zurück',
   'common.next': 'Weiter',
+  'common.backToHome': 'Zurück zur Startseite',
 };
 

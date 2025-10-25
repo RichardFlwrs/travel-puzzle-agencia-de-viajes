@@ -79,12 +79,24 @@ export const es = {
   'form.forgotPassword': '¿Olvidaste tu contraseña?',
   
   // Auth
-  'auth.loginTitle': 'Bienvenido de Nuevo',
-  'auth.signupTitle': 'Crear Cuenta',
-  'auth.noAccount': '¿No tienes una cuenta?',
-  'auth.haveAccount': '¿Ya tienes una cuenta?',
-  'auth.signupLink': 'Regístrate',
-  'auth.loginLink': 'Inicia sesión',
+  'auth.email': 'Correo electrónico',
+  'auth.password': 'Contraseña',
+  'auth.name': 'Nombre completo',
+  'auth.confirmPassword': 'Confirmar contraseña',
+  'auth.passwordRequirements': 'Al menos 8 caracteres, 1 mayúscula, 1 número',
+  'auth.login.title': 'Bienvenido de nuevo',
+  'auth.login.subtitle': 'Inicia sesión en tu cuenta para continuar',
+  'auth.login.button': 'Iniciar sesión',
+  'auth.login.noAccount': '¿No tienes una cuenta?',
+  'auth.login.signupLink': 'Regístrate',
+  'auth.signup.title': 'Crear cuenta',
+  'auth.signup.subtitle': 'Únete a Travel Puzzle y comienza tu aventura',
+  'auth.signup.button': 'Crear cuenta',
+  'auth.signup.hasAccount': '¿Ya tienes una cuenta?',
+  'auth.signup.loginLink': 'Iniciar sesión',
+  'auth.error.invalidCredentials': 'Correo electrónico o contraseña inválidos',
+  'auth.error.somethingWrong': 'Algo salió mal. Por favor, inténtalo de nuevo.',
+  'auth.error.loginAfterSignup': 'Cuenta creada pero el inicio de sesión falló. Por favor, intenta iniciar sesión manualmente.',
   
   // Messages
   'messages.loginSuccess': '¡Bienvenido de nuevo!',
@@ -118,5 +130,6 @@ export const es = {
   'common.confirm': 'Confirmar',
   'common.back': 'Atrás',
   'common.next': 'Siguiente',
+  'common.backToHome': 'Volver al inicio',
 };
 

@@ -79,12 +79,24 @@ export const en = {
   'form.forgotPassword': 'Forgot password?',
   
   // Auth
-  'auth.loginTitle': 'Welcome Back',
-  'auth.signupTitle': 'Create Account',
-  'auth.noAccount': "Don't have an account?",
-  'auth.haveAccount': 'Already have an account?',
-  'auth.signupLink': 'Sign up',
-  'auth.loginLink': 'Log in',
+  'auth.email': 'Email',
+  'auth.password': 'Password',
+  'auth.name': 'Full Name',
+  'auth.confirmPassword': 'Confirm Password',
+  'auth.passwordRequirements': 'At least 8 characters, 1 uppercase, 1 number',
+  'auth.login.title': 'Welcome Back',
+  'auth.login.subtitle': 'Sign in to your account to continue',
+  'auth.login.button': 'Sign In',
+  'auth.login.noAccount': "Don't have an account?",
+  'auth.login.signupLink': 'Sign up',
+  'auth.signup.title': 'Create Account',
+  'auth.signup.subtitle': 'Join Travel Puzzle and start your adventure',
+  'auth.signup.button': 'Create Account',
+  'auth.signup.hasAccount': 'Already have an account?',
+  'auth.signup.loginLink': 'Sign in',
+  'auth.error.invalidCredentials': 'Invalid email or password',
+  'auth.error.somethingWrong': 'Something went wrong. Please try again.',
+  'auth.error.loginAfterSignup': 'Account created but login failed. Please try logging in manually.',
   
   // Messages
   'messages.loginSuccess': 'Welcome back!',
@@ -118,5 +130,6 @@ export const en = {
   'common.confirm': 'Confirm',
   'common.back': 'Back',
   'common.next': 'Next',
+  'common.backToHome': 'Back to Home',
 };
 

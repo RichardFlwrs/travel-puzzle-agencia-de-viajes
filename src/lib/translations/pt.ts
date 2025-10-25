@@ -79,12 +79,24 @@ export const pt = {
   'form.forgotPassword': 'Esqueceu a senha?',
   
   // Auth
-  'auth.loginTitle': 'Bem-vindo de Volta',
-  'auth.signupTitle': 'Criar Conta',
-  'auth.noAccount': 'Não tem uma conta?',
-  'auth.haveAccount': 'Já tem uma conta?',
-  'auth.signupLink': 'Registre-se',
-  'auth.loginLink': 'Entrar',
+  'auth.email': 'E-mail',
+  'auth.password': 'Senha',
+  'auth.name': 'Nome completo',
+  'auth.confirmPassword': 'Confirmar senha',
+  'auth.passwordRequirements': 'Pelo menos 8 caracteres, 1 maiúscula, 1 número',
+  'auth.login.title': 'Bem-vindo de volta',
+  'auth.login.subtitle': 'Faça login na sua conta para continuar',
+  'auth.login.button': 'Entrar',
+  'auth.login.noAccount': 'Não tem uma conta?',
+  'auth.login.signupLink': 'Registre-se',
+  'auth.signup.title': 'Criar conta',
+  'auth.signup.subtitle': 'Junte-se ao Travel Puzzle e comece sua aventura',
+  'auth.signup.button': 'Criar conta',
+  'auth.signup.hasAccount': 'Já tem uma conta?',
+  'auth.signup.loginLink': 'Entrar',
+  'auth.error.invalidCredentials': 'E-mail ou senha inválidos',
+  'auth.error.somethingWrong': 'Algo deu errado. Por favor, tente novamente.',
+  'auth.error.loginAfterSignup': 'Conta criada, mas o login falhou. Por favor, tente fazer login manualmente.',
   
   // Messages
   'messages.loginSuccess': 'Bem-vindo de volta!',
@@ -118,5 +130,6 @@ export const pt = {
   'common.confirm': 'Confirmar',
   'common.back': 'Voltar',
   'common.next': 'Próximo',
+  'common.backToHome': 'Voltar ao início',
 };
 

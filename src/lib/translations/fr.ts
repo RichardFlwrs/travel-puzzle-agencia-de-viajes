@@ -79,12 +79,24 @@ export const fr = {
   'form.forgotPassword': 'Mot de passe oublié?',
   
   // Auth
-  'auth.loginTitle': 'Bon Retour',
-  'auth.signupTitle': 'Créer un Compte',
-  'auth.noAccount': "Vous n'avez pas de compte?",
-  'auth.haveAccount': 'Vous avez déjà un compte?',
-  'auth.signupLink': 'Inscrivez-vous',
-  'auth.loginLink': 'Connectez-vous',
+  'auth.email': 'E-mail',
+  'auth.password': 'Mot de passe',
+  'auth.name': 'Nom complet',
+  'auth.confirmPassword': 'Confirmer le mot de passe',
+  'auth.passwordRequirements': 'Au moins 8 caractères, 1 majuscule, 1 chiffre',
+  'auth.login.title': 'Bienvenue',
+  'auth.login.subtitle': 'Connectez-vous à votre compte pour continuer',
+  'auth.login.button': 'Se connecter',
+  'auth.login.noAccount': "Vous n'avez pas de compte?",
+  'auth.login.signupLink': 'Inscrivez-vous',
+  'auth.signup.title': 'Créer un compte',
+  'auth.signup.subtitle': 'Rejoignez Travel Puzzle et commencez votre aventure',
+  'auth.signup.button': 'Créer un compte',
+  'auth.signup.hasAccount': 'Vous avez déjà un compte?',
+  'auth.signup.loginLink': 'Connectez-vous',
+  'auth.error.invalidCredentials': 'E-mail ou mot de passe invalide',
+  'auth.error.somethingWrong': "Quelque chose s'est mal passé. Veuillez réessayer.",
+  'auth.error.loginAfterSignup': 'Compte créé mais la connexion a échoué. Veuillez essayer de vous connecter manuellement.',
   
   // Messages
   'messages.loginSuccess': 'Bon retour!',
@@ -118,5 +130,6 @@ export const fr = {
   'common.confirm': 'Confirmer',
   'common.back': 'Retour',
   'common.next': 'Suivant',
+  'common.backToHome': "Retour à l'accueil",
 };
 

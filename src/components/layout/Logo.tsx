@@ -3,7 +3,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-type LogoSize = 'sm' | 'md' | 'lg' | number;
+type LogoSize = 'sm' | 'md' | 'lg' | 'xl' | number;
 type LogoShape = 'square' | 'circle' | 'faded';
 
 interface LogoProps {
@@ -17,6 +17,7 @@ const sizeMap: Record<string, number> = {
   sm: 32,
   md: 48,
   lg: 64,
+  xl: 128,
 };
 
 const shapeStyles: Record<LogoShape, string> = {

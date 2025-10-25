@@ -2,30 +2,34 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { usePathname } from 'next/navigation';
+import { usePathname, useRouter } from 'next/navigation';
+import { useSession, signOut } from 'next-auth/react';
 import { useLanguage } from '@/lib/language-context';
-import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
-import { Logo } from '@/components/shared/Logo';
-import { PlatformTextLogo } from '@/components/shared/PlatformTextLogo';
+import { LanguageSwitcher } from '@/components/layout/LanguageSwitcher';
+import { Logo } from '@/components/layout/Logo';
+import { PlatformTextLogo } from '@/components/layout/PlatformTextLogo';
 import { Button } from '@/components/ui/Button';
 import { Dropdown } from '@/components/ui/Dropdown';
 import {
   MenuIcon,
   CloseIcon,
 } from '@/assets/svg';
-import { User } from '@/types';
 
-
-interface NavbarProps {
-  user?: User | null;
-}
-
-export const Navbar = ({ user }: NavbarProps) => {
+export const Navbar = () => {
+  const { data: session } = useSession();
+  const user = session?.user;
   const { t } = useLanguage();
   const pathname = usePathname();
+  const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const isActive = (path: string) => pathname === path;
+
+  const handleSignOut = async () => {
+    await signOut({ redirect: false });
+    router.push('/');
+    router.refresh();
+  };
 
   // Navigation links based on auth state
   const publicLinks = [
@@ -36,8 +40,8 @@ export const Navbar = ({ user }: NavbarProps) => {
 
   const clientLinks = [
     { href: '/', label: t('nav.home') },
-    { href: '/tours', label: t('nav.tours') },
-    { href: '/bookings', label: t('nav.myBookings') },
+    { href: '/', label: t('nav.tours') },
+    { href: '/', label: t('nav.myBookings') },
   ];
 
   const dashboardLinks = [
@@ -90,7 +94,7 @@ export const Navbar = ({ user }: NavbarProps) => {
               // Public: Login + Sign Up
               <>
                 <Link href="/login" className="hidden md:block">
-                  <Button variant="ghost" size="sm">
+                  <Button variant="ghost" size="sm" className='text-white'>
                     {t('nav.login')}
                   </Button>
                 </Link>
@@ -149,10 +153,7 @@ export const Navbar = ({ user }: NavbarProps) => {
                     {t('nav.user.profile')}
                   </Link>
                   <button
-                    onClick={() => {
-                      // TODO: Implement logout with NextAuth
-                      console.log('Logout');
-                    }}
+                    onClick={handleSignOut}
                     className="w-full flex items-center gap-3 px-4 py-3 text-sm text-red-600 hover:bg-red-50 dark:hover:bg-red-950 transition-colors"
                   >
                     <span>🚪</span>
@@ -250,8 +251,7 @@ export const Navbar = ({ user }: NavbarProps) => {
                   <button
                     onClick={() => {
                       setMobileMenuOpen(false);
-                      // TODO: Implement logout
-                      console.log('Logout');
+                      handleSignOut();
                     }}
                     className="w-full flex items-center gap-3 px-4 py-2 text-sm text-white hover:bg-tp-red rounded-md transition-colors"
                   >

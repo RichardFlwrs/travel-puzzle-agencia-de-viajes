@@ -23,7 +23,7 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
       // Outline Button (inherits text color from parent, or defaults to primary)
       outline: "border-2 border-tp-blue-primary bg-transparent hover:bg-tp-blue-primary/10 text-tp-blue-primary",
       // Ghost Button
-      ghost: "hover:bg-[var(--tp-gray-100)] text-[var(--tp-text-primary)]",
+      ghost: "hover:bg-white/10 text-[var(--tp-text-primary)]",
       // Destructive/Error Button (Admin actions)
       destructive: "bg-tp-red text-white hover:bg-[var(--tp-red-hover)] shadow-[var(--tp-shadow-red)]",
       // Success/Green Button

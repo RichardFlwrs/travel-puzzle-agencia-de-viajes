@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useLanguage } from "@/lib/language-context";
-import { Navbar } from "@/components/shared/Navbar";
+import { Navbar } from "@/components/layout/Navbar";
 import { getMockTours } from "@/lib/mock-data";
 import { Button } from "@/components/ui/Button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/Card";
@@ -12,15 +12,10 @@ export default function Home() {
   const { t, language } = useLanguage();
   const tours = getMockTours(language);
 
-  // Mock user for testing - change to test different states
-  // const mockUser = null; // Public (not logged in)
-  // const mockUser = { name: 'John Doe', email: 'john@example.com', role: 'CLIENT' as const }; // Client
-  const mockUser = { id: '1', createdAt: new Date(), name: 'Admin User', email: 'admin@example.com', role: 'ADMIN' as const }; // Admin
-
   return (
     <div className="min-h-screen bg-background">
       {/* Navbar Component */}
-      <Navbar user={mockUser} />
+      <Navbar />
 
       {/* Hero Section */}
       <section className="py-20 px-4 text-center bg-linear-to-b from-primary/5 to-background">

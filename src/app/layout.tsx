@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { SessionProvider } from "next-auth/react";
 import "./globals.css";
 import { LanguageProvider } from "@/lib/language-context";
 
@@ -29,9 +30,11 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         suppressHydrationWarning
       >
-        <LanguageProvider>
-          {children}
-        </LanguageProvider>
+        <SessionProvider>
+          <LanguageProvider>
+            {children}
+          </LanguageProvider>
+        </SessionProvider>
       </body>
     </html>
   );

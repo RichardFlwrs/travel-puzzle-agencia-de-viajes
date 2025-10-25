@@ -79,12 +79,24 @@ export const it = {
   'form.forgotPassword': 'Password dimenticata?',
   
   // Auth
-  'auth.loginTitle': 'Bentornato',
-  'auth.signupTitle': 'Crea Account',
-  'auth.noAccount': 'Non hai un account?',
-  'auth.haveAccount': 'Hai già un account?',
-  'auth.signupLink': 'Registrati',
-  'auth.loginLink': 'Accedi',
+  'auth.email': 'E-mail',
+  'auth.password': 'Password',
+  'auth.name': 'Nome completo',
+  'auth.confirmPassword': 'Conferma password',
+  'auth.passwordRequirements': 'Almeno 8 caratteri, 1 maiuscola, 1 numero',
+  'auth.login.title': 'Bentornato',
+  'auth.login.subtitle': 'Accedi al tuo account per continuare',
+  'auth.login.button': 'Accedi',
+  'auth.login.noAccount': 'Non hai un account?',
+  'auth.login.signupLink': 'Registrati',
+  'auth.signup.title': 'Crea account',
+  'auth.signup.subtitle': 'Unisciti a Travel Puzzle e inizia la tua avventura',
+  'auth.signup.button': 'Crea account',
+  'auth.signup.hasAccount': 'Hai già un account?',
+  'auth.signup.loginLink': 'Accedi',
+  'auth.error.invalidCredentials': 'E-mail o password non validi',
+  'auth.error.somethingWrong': 'Qualcosa è andato storto. Per favore riprova.',
+  'auth.error.loginAfterSignup': 'Account creato ma accesso non riuscito. Per favore prova ad accedere manualmente.',
   
   // Messages
   'messages.loginSuccess': 'Bentornato!',
@@ -118,5 +130,6 @@ export const it = {
   'common.confirm': 'Conferma',
   'common.back': 'Indietro',
   'common.next': 'Avanti',
+  'common.backToHome': 'Torna alla home',
 };
 

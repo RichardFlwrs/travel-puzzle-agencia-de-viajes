@@ -3,7 +3,7 @@
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import { SupportedLanguage } from '@/types';
 import { translations } from './translations';
-import { LoadingPage } from '@/components/shared/LoadingPage';
+import { LoadingPage } from '@/components/layout/LoadingPage';
 
 interface LanguageContextType {
   language: SupportedLanguage;
