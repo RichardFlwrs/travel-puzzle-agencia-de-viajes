@@ -1,6 +1,8 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { Logo } from './Logo';
+import { PlatformTextLogo } from './PlatformTextLogo';
 
 interface LoadingPageProps {
   isLoading: boolean;
@@ -35,9 +37,8 @@ export const LoadingPage = ({ isLoading }: LoadingPageProps) => {
     >
       <div className="flex flex-col items-center gap-4">
         {/* Logo */}
-        <div className="w-16 h-16 bg-primary rounded-2xl flex items-center justify-center text-white font-bold text-2xl animate-pulse">
-          TP
-        </div>
+        <Logo size="lg" shape="circle" />
+        <PlatformTextLogo size="lg" color="text-[var(--tp-blue-primary)]" />
 
         {/* Loading spinner */}
         <div className="flex gap-2">

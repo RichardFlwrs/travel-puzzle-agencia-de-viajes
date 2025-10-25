@@ -5,6 +5,8 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useLanguage } from '@/lib/language-context';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
+import { Logo } from '@/components/shared/Logo';
+import { PlatformTextLogo } from '@/components/shared/PlatformTextLogo';
 import { Button } from '@/components/ui/Button';
 import { Dropdown } from '@/components/ui/Dropdown';
 import {
@@ -50,16 +52,14 @@ export const Navbar = ({ user }: NavbarProps) => {
 
   return (
     <nav className="sticky top-0 z-50 bg-tp-blue-primary border-b border-tp-blue-dark">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto py-2 px-4">
         <div className="flex items-center justify-between h-16">
 
           {/* Left: Logo + Brand */}
           <div className="flex items-center gap-2">
             <Link href="/" className="flex items-center gap-2 hover:opacity-90 transition-opacity">
-              <div className="w-8 h-8 bg-white/20 rounded-lg flex items-center justify-center text-white font-bold backdrop-blur-sm">
-                TP
-              </div>
-              <span className="text-xl font-bold text-white hidden sm:block">Travel Puzzle</span>
+              <Logo size="lg" shape="circle" />
+              <PlatformTextLogo size="md" color="text-white" layout='inline' className="hidden sm:block" />
             </Link>
           </div>
 

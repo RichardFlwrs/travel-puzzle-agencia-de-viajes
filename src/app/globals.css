@@ -136,14 +136,12 @@ body {
 
 @media (min-width: 1280px) {
   .container {
-    max-width: 1400px;
-    /* Increased from default 1280px */
+    max-width: 1280px;
   }
 }
 
 @media (min-width: 1536px) {
   .container {
-    max-width: 1600px;
-    /* Increased from default 1536px */
+    max-width: 1536px;
   }
 }
