@@ -202,17 +202,24 @@ export function convertAPITourToTour(apiTour: TourAPI, language: 'en' | 'es' | '
   // Handle null/undefined images array
   const additionalImages = apiTour.images?.map(img => img.URL) || [];
   
+  // Build images array, only including titleImageURL if it exists
+  const images = apiTour.titleImageURL 
+    ? [apiTour.titleImageURL, ...additionalImages.filter(img => img !== apiTour.titleImageURL)]
+    : additionalImages;
+  
   return {
     id: `tour-${apiTour.id}`,
     externalId: apiTour.id,
-    title: apiTour.title[language],
-    brief: apiTour.brief[language],
-    description: apiTour.description[language],
+    title: apiTour.title[language] || '',
+    brief: apiTour.brief[language] || null,
+    description: apiTour.description[language] || null,
     destination: apiTour.meetingPoint.title,
     provider: apiTour.providerTitle,
+    providerPhone: apiTour.providerPhone,
     price: apiTour.price.value,
     currency: apiTour.price.currency,
-    images: [apiTour.titleImageURL, ...additionalImages],
+    images,
+    titleImageURL: apiTour.titleImageURL,
     duration: apiTour.length,
     meetingPoint: apiTour.meetingPoint,
     includes: apiTour.includes,

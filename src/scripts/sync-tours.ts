@@ -1,42 +1,56 @@
 import dotenv from 'dotenv';
-import fs from 'fs/promises';
 import path from 'path';
-import { freeTourClient } from '@/lib/api/freetour-client';
+import { syncToursFromAPI } from '@/lib/db/sync/tour-sync';
 
 // Load environment variables from .env.local
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 
-const DATA_DIR = path.join(process.cwd(), 'data');
-const TOURS_FILE = path.join(DATA_DIR, 'tours.json');
+async function main() {
+  // Parse command-line arguments
+  const args = process.argv.slice(2);
+  let startPage = 1;
+  let maxPages: number | undefined = undefined;
 
-async function syncTours() {
-  console.log('Starting tour sync...');
-  const startTime = Date.now();
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === '--start-page' && args[i + 1]) {
+      startPage = parseInt(args[i + 1], 10);
+      i++;
+    } else if (args[i].startsWith('--start-page=')) {
+      startPage = parseInt(args[i].split('=')[1], 10);
+    } else if (args[i] === '--max-pages' && args[i + 1]) {
+      maxPages = parseInt(args[i + 1], 10);
+      i++;
+    } else if (args[i].startsWith('--max-pages=')) {
+      maxPages = parseInt(args[i].split('=')[1], 10);
+    }
+  }
+
+  console.log('🚀 Starting tour sync from FreeTour API to MySQL...');
+  if (startPage > 1) {
+    console.log(`📄 Resuming from page ${startPage}\n`);
+  } else {
+    console.log('');
+  }
 
   try {
-    // Fetch tours from API
-    const tours = await freeTourClient.fetchAllTours();
+    const result = await syncToursFromAPI(maxPages, startPage);
 
-    // Ensure data directory exists
-    await fs.mkdir(DATA_DIR, { recursive: true });
-
-    // Write to JSON file
-    const data = {
-      lastUpdated: new Date().toISOString(),
-      totalTours: tours.length,
-      tours,
-    };
-
-    await fs.writeFile(TOURS_FILE, JSON.stringify(data, null, 2));
-
-    const duration = ((Date.now() - startTime) / 1000).toFixed(2);
-    console.log(`✅ Sync complete! ${tours.length} tours saved in ${duration}s`);
-    console.log(`📁 File: ${TOURS_FILE}`);
+    if (result.success) {
+      console.log('\n✅ Sync completed successfully!');
+      console.log(`   Duration: ${result.duration.toFixed(2)}s`);
+      console.log(`   Tours synced: ${result.toursCount}`);
+      console.log(`   Countries: ${result.countriesCount}`);
+      console.log(`   Cities: ${result.citiesCount}`);
+      process.exit(0);
+    } else {
+      console.error('\n❌ Sync failed:', result.error);
+      process.exit(1);
+    }
   } catch (error) {
-    console.error('❌ Sync failed:', error);
+    console.error('\n❌ Unexpected error during sync:', error);
     process.exit(1);
   }
 }
 
-syncTours();
+main();
 

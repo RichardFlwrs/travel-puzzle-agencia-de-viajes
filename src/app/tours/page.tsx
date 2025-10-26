@@ -1,56 +1,51 @@
 'use client';
 
-import { useState, useEffect, useMemo } from 'react';
+import { useState } from 'react';
 import { useLanguage } from '@/lib/language-context';
-import { TourAPI } from '@/types';
-import { filterTours, TourFilters, getUniqueCountries, getUniqueCities } from '@/lib/utils/tour-search';
-import { convertAPITourToTour } from '@/lib/mock-data';
 import { Navbar } from '@/components/layout/Navbar';
 import { TourCard } from '@/components/tours/TourCard';
 import { TourFiltersPanel } from '@/components/tours/TourFiltersPanel';
 import { Loading } from '@/components/ui/Loading';
+import { useTours, useCountries, useCities, useToursMetadata } from '@/lib/queries/tours';
+import { transformDBToursToUITours, transformCountryForFilter, transformCityForFilter } from '@/lib/db/tour-transformer';
+import type { TourFilters } from '@/lib/db/repositories/tour-repository';
+import type { PaginationParams } from '@/lib/db/pagination';
 
 export default function ToursPage() {
   const { t, language } = useLanguage();
-  const [allTours, setAllTours] = useState<TourAPI[]>([]);
-  const [filteredTours, setFilteredTours] = useState<TourAPI[]>([]);
   const [filters, setFilters] = useState<TourFilters>({});
-  const [isLoading, setIsLoading] = useState(true);
-  const [lastUpdated, setLastUpdated] = useState<string | null>(null);
+  const [pagination, setPagination] = useState<PaginationParams>({
+    page: 1,
+    limit: 20,
+  });
 
-  // Fetch tours on mount
-  useEffect(() => {
-    async function fetchTours() {
-      try {
-        const response = await fetch('/api/tours');
-        const data = await response.json();
-        setAllTours(data.tours);
-        setFilteredTours(data.tours);
-        setLastUpdated(data.metadata.lastUpdated);
-      } catch (error) {
-        console.error('Failed to fetch tours:', error);
-      } finally {
-        setIsLoading(false);
-      }
-    }
-    fetchTours();
-  }, []);
+  // Fetch tours with filters and pagination
+  const { data: toursData, isLoading: isLoadingTours } = useTours(
+    { ...filters, language },
+    pagination
+  );
 
-  // Apply filters when they change
-  useEffect(() => {
-    const filtered = filterTours(allTours, filters, language);
-    setFilteredTours(filtered);
-  }, [filters, allTours, language]);
+  // Fetch countries and cities for filters
+  const { data: countriesData, isLoading: isLoadingCountries } = useCountries(language);
+  const { data: citiesData, isLoading: isLoadingCities } = useCities(filters.countryId, language);
 
-  const handleFilterChange = (newFilters: TourFilters) => {
+  // Fetch metadata
+  const { data: metadata } = useToursMetadata();
+
+  // Transform data for UI
+  const tours = toursData?.data ? transformDBToursToUITours(toursData.data, language) : [];
+  const countries = countriesData ? countriesData.map(transformCountryForFilter) : [];
+  const cities = citiesData ? citiesData.map(transformCityForFilter) : [];
+
+  const handleFilterChange = (newFilters: Partial<TourFilters>) => {
     setFilters(prev => ({ ...prev, ...newFilters }));
+    // Reset to page 1 when filters change
+    setPagination(prev => ({ ...prev, page: 1 }));
   };
 
-  // Memoize countries and cities to avoid recalculation on every render
-  const countries = useMemo(() => getUniqueCountries(allTours, language), [allTours, language]);
-  const cities = useMemo(() => getUniqueCities(allTours, filters.countryId), [allTours, filters.countryId]);
+  const isLoading = isLoadingTours || isLoadingCountries || isLoadingCities;
 
-  if (isLoading) {
+  if (isLoading && !toursData) {
     return (
       <div className="min-h-screen bg-background">
         <Navbar />
@@ -70,11 +65,11 @@ export default function ToursPage() {
         <div className="mb-8">
           <h1 className="text-4xl font-bold mb-2">{t('tours.title')}</h1>
           <p className="text-muted-foreground">
-            {filteredTours.length} {t('tours.subtitle')}
+            {toursData?.pagination.total || 0} {t('tours.subtitle')}
           </p>
-          {lastUpdated && (
+          {metadata?.lastUpdated && (
             <p className="text-xs text-muted-foreground mt-1">
-              {t('tours.lastUpdated')}: {new Date(lastUpdated).toLocaleDateString()}
+              {t('tours.lastUpdated')}: {new Date(metadata.lastUpdated).toLocaleDateString()}
             </p>
           )}
         </div>
@@ -92,17 +87,47 @@ export default function ToursPage() {
 
           {/* Tours Grid */}
           <div className="lg:col-span-3">
-            {filteredTours.length === 0 ? (
+            {isLoadingTours ? (
+              <div className="flex justify-center py-12">
+                <Loading size="md" />
+              </div>
+            ) : tours.length === 0 ? (
               <div className="text-center py-12">
                 <p className="text-muted-foreground">{t('tours.noResults')}</p>
               </div>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-                {filteredTours.map(apiTour => {
-                  const tour = convertAPITourToTour(apiTour, language);
-                  return <TourCard key={tour.id} tour={tour} />;
-                })}
-              </div>
+              <>
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+                  {tours.map(tour => (
+                    <TourCard key={tour.id} tour={tour} />
+                  ))}
+                </div>
+
+                {/* Pagination */}
+                {toursData && toursData.pagination.totalPages > 1 && (
+                  <div className="mt-8 flex justify-center items-center gap-4">
+                    <button
+                      onClick={() => setPagination(prev => ({ ...prev, page: Math.max(1, (prev.page || 1) - 1) }))}
+                      disabled={pagination.page === 1}
+                      className="px-4 py-2 border border-border rounded-md disabled:opacity-50 disabled:cursor-not-allowed hover:bg-muted"
+                    >
+                      {t('pagination.previous') || 'Previous'}
+                    </button>
+                    
+                    <span className="text-sm text-muted-foreground">
+                      Page {toursData.pagination.currentPage} of {toursData.pagination.totalPages}
+                    </span>
+                    
+                    <button
+                      onClick={() => setPagination(prev => ({ ...prev, page: (prev.page || 1) + 1 }))}
+                      disabled={pagination.page === toursData.pagination.totalPages}
+                      className="px-4 py-2 border border-border rounded-md disabled:opacity-50 disabled:cursor-not-allowed hover:bg-muted"
+                    >
+                      {t('pagination.next') || 'Next'}
+                    </button>
+                  </div>
+                )}
+              </>
             )}
           </div>
         </div>

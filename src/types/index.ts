@@ -13,12 +13,12 @@ export interface User {
 export type SupportedLanguage = 'en' | 'es' | 'pt' | 'de' | 'fr' | 'it';
 
 export interface MultiLangText {
-  en: string;
-  es: string;
-  pt: string;
-  de: string;
-  fr: string;
-  it: string;
+  en: string | undefined;
+  es: string | undefined;
+  pt: string | undefined;
+  de: string | undefined;
+  fr: string | undefined;
+  it: string | undefined;
 }
 
 export interface MultiLangURL {
@@ -61,7 +61,7 @@ export interface TourAPI {
   brief: MultiLangText;
   description: MultiLangText;
   providerTitle: string;
-  providerPhone: string;
+  providerPhone: string | null; // Can be null
   URL: string;
   URLs: MultiLangURL;
   price: TourPrice;
@@ -71,7 +71,7 @@ export interface TourAPI {
   countryId: number;
   includes: string[];
   POIs: POI[] | null;
-  titleImageURL: string;
+  titleImageURL: string | null; // Can be null
   categoryId: number;
   images: TourImage[] | null;
   videoURL: string | null;
@@ -84,13 +84,15 @@ export interface Tour {
   id: string;
   externalId: number; // API id
   title: string; // Current language
-  brief: string; // Current language
-  description: string; // Current language
+  brief: string | null; // Current language - can be null/undefined
+  description: string | null; // Current language - can be null/undefined
   destination: string;
   provider: string;
+  providerPhone: string | null; // Can be null
   price: number;
   currency: string;
   images: string[];
+  titleImageURL: string | null; // Can be null
   duration: string;
   meetingPoint: MeetingPoint;
   includes: string[];
