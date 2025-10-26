@@ -199,6 +199,9 @@ export const mockToursAPI: TourAPI[] = [
  * @param language - Current language (default: 'en')
  */
 export function convertAPITourToTour(apiTour: TourAPI, language: 'en' | 'es' | 'pt' | 'de' | 'fr' | 'it' = 'en') {
+  // Handle null/undefined images array
+  const additionalImages = apiTour.images?.map(img => img.URL) || [];
+  
   return {
     id: `tour-${apiTour.id}`,
     externalId: apiTour.id,
@@ -209,7 +212,7 @@ export function convertAPITourToTour(apiTour: TourAPI, language: 'en' | 'es' | '
     provider: apiTour.providerTitle,
     price: apiTour.price.value,
     currency: apiTour.price.currency,
-    images: [apiTour.titleImageURL, ...apiTour.images.map(img => img.URL)],
+    images: [apiTour.titleImageURL, ...additionalImages],
     duration: apiTour.length,
     meetingPoint: apiTour.meetingPoint,
     includes: apiTour.includes,

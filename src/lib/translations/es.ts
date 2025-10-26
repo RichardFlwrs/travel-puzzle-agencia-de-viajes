@@ -24,6 +24,8 @@ export const es = {
   
   // Tours
   'tours.title': 'Todos los Tours',
+  'tours.subtitle': 'tours disponibles',
+  'tours.lastUpdated': 'Última actualización',
   'tours.featuredTitle': 'Tours Destacados',
   'tours.viewAll': 'Ver Todos los Tours',
   'tours.filter.destination': 'Destino',
@@ -39,6 +41,17 @@ export const es = {
   'tours.from': 'Desde',
   'tours.free': 'Gratis',
   'tours.noResults': 'No se encontraron tours',
+  'tours.filters.title': 'Filtros',
+  'tours.filters.search': 'Buscar',
+  'tours.filters.searchPlaceholder': 'Buscar tours...',
+  'tours.filters.country': 'País',
+  'tours.filters.allCountries': 'Todos los Países',
+  'tours.filters.city': 'Ciudad',
+  'tours.filters.allCities': 'Todas las Ciudades',
+  'tours.filters.priceRange': 'Rango de Precio',
+  'tours.filters.minPrice': 'Mín',
+  'tours.filters.maxPrice': 'Máx',
+  'tours.filters.clearFilters': 'Limpiar Filtros',
   
   // How It Works
   'howItWorks.title': 'Cómo Funciona',

@@ -73,7 +73,7 @@ export interface TourAPI {
   POIs: POI[] | null;
   titleImageURL: string;
   categoryId: number;
-  images: TourImage[];
+  images: TourImage[] | null;
   videoURL: string | null;
   rating: number | null;
   reviewsNumber: number;

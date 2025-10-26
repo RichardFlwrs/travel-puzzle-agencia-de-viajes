@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "sync:tours": "tsx src/scripts/sync-tours.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.18.0",
@@ -31,6 +32,7 @@
     "eslint-config-next": "16.0.0",
     "prisma": "^6.18.0",
     "tailwindcss": "^4",
+    "tsx": "^4.19.0",
     "typescript": "^5"
   }
 }
