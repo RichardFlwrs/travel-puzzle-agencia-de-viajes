@@ -12,9 +12,14 @@ interface LanguageContextType {
   isInitialized: boolean;
 }
 
+interface LanguageProviderProps {
+  children: ReactNode;
+  onReady?: () => void;
+}
+
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
-export function LanguageProvider({ children }: { children: ReactNode }) {
+export function LanguageProvider({ children, onReady }: LanguageProviderProps) {
   // Always start with 'en' to match server-side rendering
   const [language, setLanguageState] = useState<SupportedLanguage>('en');
   const [isInitialized, setIsInitialized] = useState(false);
@@ -27,7 +32,10 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
       // eslint-disable-next-line
       setLanguageState(savedLanguage);
       // Small delay to ensure content is ready
-      setTimeout(() => setIsInitialized(true), 100);
+      setTimeout(() => {
+        setIsInitialized(true);
+        onReady?.();
+      }, 100);
       return;
     }
 
@@ -39,8 +47,11 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     }
 
     // Mark as initialized after language detection
-    setTimeout(() => setIsInitialized(true), 100);
-  }, []);
+    setTimeout(() => {
+      setIsInitialized(true);
+      onReady?.();
+    }, 100);
+  }, [onReady]);
 
   // Save language preference to localStorage
   const setLanguage = (lang: SupportedLanguage) => {

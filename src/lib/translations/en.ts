@@ -144,5 +144,9 @@ export const en = {
   'common.back': 'Back',
   'common.next': 'Next',
   'common.backToHome': 'Back to Home',
+  
+  // Pagination
+  'pagination.previous': 'Previous',
+  'pagination.next': 'Next',
 };
 

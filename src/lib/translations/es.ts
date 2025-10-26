@@ -144,5 +144,9 @@ export const es = {
   'common.back': 'Atrás',
   'common.next': 'Siguiente',
   'common.backToHome': 'Volver al inicio',
+  
+  // Pagination
+  'pagination.previous': 'Anterior',
+  'pagination.next': 'Siguiente',
 };
 

@@ -111,7 +111,7 @@ export default function ToursPage() {
                       disabled={pagination.page === 1}
                       className="px-4 py-2 border border-border rounded-md disabled:opacity-50 disabled:cursor-not-allowed hover:bg-muted"
                     >
-                      {t('pagination.previous') || 'Previous'}
+                      {t('pagination.previous')}
                     </button>
                     
                     <span className="text-sm text-muted-foreground">
@@ -123,7 +123,7 @@ export default function ToursPage() {
                       disabled={pagination.page === toursData.pagination.totalPages}
                       className="px-4 py-2 border border-border rounded-md disabled:opacity-50 disabled:cursor-not-allowed hover:bg-muted"
                     >
-                      {t('pagination.next') || 'Next'}
+                      {t('pagination.next')}
                     </button>
                   </div>
                 )}
