@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "sync:tours": "tsx src/scripts/sync-tours.ts"
+    "sync:tours": "tsx src/scripts/sync-tours.ts",
+    "fix:country-names": "tsx src/scripts/fix-country-names.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.18.0",

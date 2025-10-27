@@ -1,4 +1,4 @@
-import { freeTourClient } from '@/lib/api/freetour-client';
+import { freeTourClient, FreeTourCountry, FreeTourCity } from '@/lib/api/freetour-client';
 import { prisma } from '@/lib/prisma';
 import { TourAPI, SupportedLanguage } from '@/types';
 import { upsertCountry, upsertCountryTranslation } from '../repositories/country-repository';
@@ -6,6 +6,23 @@ import { upsertCity, upsertCityTranslation } from '../repositories/city-reposito
 import { Prisma } from '@prisma/client';
 
 const SUPPORTED_LANGUAGES: SupportedLanguage[] = ['en', 'es', 'pt', 'de', 'fr', 'it'];
+
+// Cache countries to avoid refetching
+let countriesCache: Map<number, FreeTourCountry> | null = null;
+
+async function loadCountriesData(): Promise<Map<number, FreeTourCountry>> {
+  if (countriesCache) return countriesCache;
+  
+  console.log('📥 Fetching countries data from API...');
+  const response = await freeTourClient.fetchCountries();
+  
+  countriesCache = new Map(
+    response.data.map((country: FreeTourCountry) => [country.id, country])
+  );
+  
+  console.log(`✅ Loaded ${countriesCache.size} countries`);
+  return countriesCache;
+}
 
 interface SyncResult {
   success: boolean;
@@ -211,31 +228,19 @@ async function processTourBatch(
  * Sync countries with translations
  */
 async function syncCountries(tours: TourAPI[], countryIds: number[]) {
-  // Group tours by country to extract names
-  const countryData = new Map<number, TourAPI>();
-  
-  tours.forEach((tour) => {
-    if (!countryData.has(tour.countryId)) {
-      countryData.set(tour.countryId, tour);
-    }
-  });
+  const countriesData = await loadCountriesData();
 
   for (const countryId of countryIds) {
-    const tour = countryData.get(countryId);
-    if (!tour) continue;
+    const countryInfo = countriesData.get(countryId);
+    const countryCode = countryInfo?.shortTitle?.toUpperCase() || `C${countryId}`;
+    
+    // Upsert country with proper code
+    await upsertCountry(countryId, countryCode);
 
-    // Upsert country (code will be derived from ID for now)
-    await upsertCountry(countryId, `C${countryId}`);
-
-    // Note: FreeTour API doesn't provide country names directly
-    // We'll need to use a lookup table or external service
-    // For now, using placeholder translations
+    // Use real country names from API
     for (const lang of SUPPORTED_LANGUAGES) {
-      await upsertCountryTranslation(
-        countryId,
-        lang,
-        `Country ${countryId}` // Placeholder - will be improved with actual data
-      );
+      const countryName = countryInfo?.title[lang] || `Country ${countryId}`;
+      await upsertCountryTranslation(countryId, lang, countryName);
     }
   }
 }
@@ -244,31 +249,53 @@ async function syncCountries(tours: TourAPI[], countryIds: number[]) {
  * Sync cities with translations
  */
 async function syncCities(tours: TourAPI[], cityIds: number[]) {
-  // Group tours by city to extract names
-  const cityData = new Map<number, TourAPI>();
+  // Group cities by country
+  const citiesByCountry = new Map<number, Set<number>>();
   
   tours.forEach((tour) => {
-    if (!cityData.has(tour.cityId)) {
-      cityData.set(tour.cityId, tour);
+    if (!citiesByCountry.has(tour.countryId)) {
+      citiesByCountry.set(tour.countryId, new Set());
     }
+    citiesByCountry.get(tour.countryId)!.add(tour.cityId);
   });
 
-  for (const cityId of cityIds) {
-    const tour = cityData.get(cityId);
-    if (!tour) continue;
-
-    // Upsert city
-    await upsertCity(cityId, tour.countryId);
-
-    // Note: FreeTour API doesn't provide city names directly
-    // We'll need to use a lookup table or external service
-    // For now, using placeholder translations
-    for (const lang of SUPPORTED_LANGUAGES) {
-      await upsertCityTranslation(
-        cityId,
-        lang,
-        `City ${cityId}` // Placeholder - will be improved with actual data
+  // Fetch and sync cities by country
+  for (const [countryId, cityIdsSet] of citiesByCountry) {
+    try {
+      const response = await freeTourClient.fetchCities(countryId);
+      const citiesData = new Map(
+        response.data.map((city: FreeTourCity) => [city.id, city])
       );
+
+      for (const cityId of cityIdsSet) {
+        if (!cityIds.includes(cityId)) continue;
+        
+        const cityInfo = citiesData.get(cityId);
+        const tour = tours.find(t => t.cityId === cityId);
+        if (!tour) continue;
+
+        // Upsert city
+        await upsertCity(cityId, countryId);
+
+        // Use real city names from API
+        for (const lang of SUPPORTED_LANGUAGES) {
+          const cityName = cityInfo?.title[lang] || `City ${cityId}`;
+          await upsertCityTranslation(cityId, lang, cityName);
+        }
+      }
+    } catch (error) {
+      console.warn(`  ⚠️  Could not fetch cities for country ${countryId}:`, error);
+      // If API fetch fails, sync cities without names (will use placeholders)
+      for (const cityId of cityIdsSet) {
+        if (!cityIds.includes(cityId)) continue;
+        const tour = tours.find(t => t.cityId === cityId);
+        if (!tour) continue;
+        
+        await upsertCity(cityId, countryId);
+        for (const lang of SUPPORTED_LANGUAGES) {
+          await upsertCityTranslation(cityId, lang, `City ${cityId}`);
+        }
+      }
     }
   }
 }

@@ -10,6 +10,7 @@ interface TourFiltersPanelProps {
   onFilterChange: (filters: TourFilters) => void;
   countries: Array<{ id: number; name: string }>;
   cities: Array<{ id: number; name: string }>;
+  isLoadingCities?: boolean;
 }
 
 export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
@@ -17,6 +18,7 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
   onFilterChange,
   countries,
   cities,
+  isLoadingCities = false,
 }) => {
   const { t } = useLanguage();
 
@@ -100,12 +102,19 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
             {t('tours.filters.city')}
           </label>
           <select
-            className="w-full px-3 py-2 border border-border rounded-md bg-background"
+            className="w-full px-3 py-2 border border-border rounded-md bg-background disabled:opacity-50 disabled:cursor-not-allowed"
             value={filters.cityId || ''}
             onChange={handleCityChange}
-            disabled={!filters.countryId && cities.length === 0}
+            disabled={!filters.countryId || isLoadingCities}
           >
-            <option value="">{t('tours.filters.allCities')}</option>
+            <option value="">
+              {!filters.countryId 
+                ? t('tours.filters.selectCountryFirst')
+                : isLoadingCities
+                ? t('tours.filters.loadingCities')
+                : t('tours.filters.allCities')
+              }
+            </option>
             {cities.map(city => (
               <option key={city.id} value={city.id}>
                 {city.name}

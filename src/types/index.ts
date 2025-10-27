@@ -143,3 +143,36 @@ export interface SessionUser {
   role: UserRole;
 }
 
+// Location Types with Translations
+export interface CountryTranslation {
+  id: string;
+  countryId: number;
+  language: string;
+  name: string;
+}
+
+export interface CountryWithTranslations {
+  id: number;
+  code: string;
+  translations: CountryTranslation[];
+  _count: {
+    tours: number;
+  };
+}
+
+export interface CityTranslation {
+  id: string;
+  cityId: number;
+  language: string;
+  name: string;
+}
+
+export interface CityWithTranslations {
+  id: number;
+  countryId: number;
+  translations: CityTranslation[];
+  _count: {
+    tours: number;
+  };
+}
+

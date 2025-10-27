@@ -48,6 +48,8 @@ export const es = {
   'tours.filters.allCountries': 'Todos los Países',
   'tours.filters.city': 'Ciudad',
   'tours.filters.allCities': 'Todas las Ciudades',
+  'tours.filters.selectCountryFirst': 'Selecciona un país primero',
+  'tours.filters.loadingCities': 'Cargando ciudades...',
   'tours.filters.priceRange': 'Rango de Precio',
   'tours.filters.minPrice': 'Mín',
   'tours.filters.maxPrice': 'Máx',

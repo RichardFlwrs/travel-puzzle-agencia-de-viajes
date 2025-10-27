@@ -1,13 +1,13 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useLanguage } from '@/lib/language-context';
 import { Navbar } from '@/components/layout/Navbar';
 import { TourCard } from '@/components/tours/TourCard';
 import { TourFiltersPanel } from '@/components/tours/TourFiltersPanel';
 import { Loading } from '@/components/ui/Loading';
-import { useTours, useCountries, useCities, useToursMetadata } from '@/lib/queries/tours';
-import { transformDBToursToUITours, transformCountryForFilter, transformCityForFilter } from '@/lib/db/tour-transformer';
+import { useTours, useCountries, useCitiesFromAPI, useToursMetadata } from '@/lib/queries/tours';
+import { transformDBToursToUITours, transformCountryForFilter } from '@/lib/db/tour-transformer';
 import type { TourFilters } from '@/lib/db/repositories/tour-repository';
 import type { PaginationParams } from '@/lib/db/pagination';
 
@@ -27,15 +27,19 @@ export default function ToursPage() {
 
   // Fetch countries and cities for filters
   const { data: countriesData, isLoading: isLoadingCountries } = useCountries(language);
-  const { data: citiesData, isLoading: isLoadingCities } = useCities(filters.countryId, language);
+  const { data: citiesData, isLoading: isLoadingCities } = useCitiesFromAPI(filters.countryId, language);
+
+  useEffect(() => {
+    console.log('countriesData', countriesData);
+  }, [countriesData]);
 
   // Fetch metadata
   const { data: metadata } = useToursMetadata();
 
   // Transform data for UI
-  const tours = toursData?.data ? transformDBToursToUITours(toursData.data, language) : [];
+  const tours = toursData?.data ? transformDBToursToUITours(toursData.data) : [];
   const countries = countriesData ? countriesData.map(transformCountryForFilter) : [];
-  const cities = citiesData ? citiesData.map(transformCityForFilter) : [];
+  const cities = citiesData || []; // API already returns in correct format
 
   const handleFilterChange = (newFilters: Partial<TourFilters>) => {
     setFilters(prev => ({ ...prev, ...newFilters }));
@@ -82,6 +86,7 @@ export default function ToursPage() {
               onFilterChange={handleFilterChange}
               countries={countries}
               cities={cities}
+              isLoadingCities={isLoadingCities}
             />
           </div>
 

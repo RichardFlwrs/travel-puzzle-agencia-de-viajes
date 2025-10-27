@@ -10,6 +10,7 @@ import {
   type TourFilters,
 } from '@/lib/db/repositories/tour-repository';
 import { syncToursFromAPI } from '@/lib/db/sync/tour-sync';
+import { freeTourClient } from '@/lib/api/freetour-client';
 import type { PaginationParams } from '@/lib/db/pagination';
 
 /**
@@ -115,6 +116,26 @@ export async function fetchCities(countryId?: number, language: string = 'en') {
     return JSON.parse(JSON.stringify(serialized));
   } catch (error) {
     console.error('Error fetching cities:', error);
+    throw new Error('Failed to fetch cities');
+  }
+}
+
+/**
+ * Fetch cities directly from FreeTour API
+ */
+export async function fetchCitiesFromAPI(countryId: number, language: string = 'en') {
+  try {
+    const response = await freeTourClient.fetchCities(countryId);
+    
+    // Transform to simple format with current language
+    const cities = response.data.map(city => ({
+      id: city.id,
+      name: city.title[language as keyof typeof city.title] || city.title.en,
+    }));
+    
+    return cities;
+  } catch (error) {
+    console.error('Error fetching cities from API:', error);
     throw new Error('Failed to fetch cities');
   }
 }

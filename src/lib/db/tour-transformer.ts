@@ -1,21 +1,18 @@
-import { Tour, SupportedLanguage, MeetingPoint } from '@/types';
+import { Tour, MeetingPoint, CountryWithTranslations, CityWithTranslations } from '@/types';
 import type { TourWithRelations } from './repositories/tour-repository';
 
 /**
  * Transform a database tour with relations to the UI Tour format
+ * Note: Translations should already be filtered by language in the query
  */
-export function transformDBTourToUITour(
-  dbTour: TourWithRelations,
-  language: SupportedLanguage = 'en'
-): Tour {
+export function transformDBTourToUITour(dbTour: TourWithRelations): Tour {
   // Get the first translation (should only be one for the requested language)
   const translation = dbTour.translations[0];
   const cityTranslation = dbTour.city.translations[0];
-  const countryTranslation = dbTour.country.translations[0];
 
   // Parse images from JSON
   const images = Array.isArray(dbTour.images) 
-    ? (dbTour.images as any[]).map(img => typeof img === 'string' ? img : img.URL)
+    ? (dbTour.images as Array<string | { URL: string }>).map(img => typeof img === 'string' ? img : img.URL)
     : [];
 
   // Ensure titleImageURL is first (if it exists)
@@ -57,18 +54,16 @@ export function transformDBTourToUITour(
 
 /**
  * Transform multiple DB tours to UI tours
+ * Note: Translations should already be filtered by language in the query
  */
-export function transformDBToursToUITours(
-  dbTours: TourWithRelations[],
-  language: SupportedLanguage = 'en'
-): Tour[] {
-  return dbTours.map(tour => transformDBTourToUITour(tour, language));
+export function transformDBToursToUITours(dbTours: TourWithRelations[]): Tour[] {
+  return dbTours.map(tour => transformDBTourToUITour(tour));
 }
 
 /**
  * Transform country from DB to UI format for filters
  */
-export function transformCountryForFilter(country: any) {
+export function transformCountryForFilter(country: CountryWithTranslations) {
   const translation = country.translations[0];
   return {
     id: country.id,
@@ -80,7 +75,7 @@ export function transformCountryForFilter(country: any) {
 /**
  * Transform city from DB to UI format for filters
  */
-export function transformCityForFilter(city: any) {
+export function transformCityForFilter(city: CityWithTranslations) {
   const translation = city.translations[0];
   return {
     id: city.id,

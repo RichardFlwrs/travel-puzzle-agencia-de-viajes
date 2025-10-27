@@ -24,6 +24,47 @@ interface FreeTourToursResponse {
   status: number;
 }
 
+export interface FreeTourCountry {
+  id: number;
+  title: {
+    en: string;
+    es: string;
+    pt: string;
+    de: string;
+    fr: string;
+    it: string;
+  };
+  shortTitle: string;
+  URLs: Record<string, string>;
+  image: string;
+  continent: Record<string, string>;
+}
+
+interface FreeTourCountriesResponse {
+  data: FreeTourCountry[];
+  status: number;
+}
+
+export interface FreeTourCity {
+  id: number;
+  title: {
+    en: string;
+    es: string;
+    pt: string;
+    de: string;
+    fr: string;
+    it: string;
+  };
+  URLs: Record<string, string>;
+  image: string;
+  coordinates: string;
+}
+
+interface FreeTourCitiesResponse {
+  data: FreeTourCity[];
+  status: number;
+}
+
 export class FreeTourClient {
   private baseURL = 'https://www.freetour.com/partnersAPI/v.2.0';
   private accessToken: string | null = null;
@@ -68,6 +109,40 @@ export class FreeTourClient {
 
     if (!response.ok) {
       throw new Error(`FreeTour tours fetch failed: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+
+  async fetchCountries(): Promise<FreeTourCountriesResponse> {
+    await this.ensureAuthenticated();
+
+    const response = await fetch(`${this.baseURL}/countries`, {
+      headers: {
+        'Authorization': `Bearer ${this.accessToken}`,
+        'Content-Type': 'application/json',
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`FreeTour countries fetch failed: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+
+  async fetchCities(countryId: number): Promise<FreeTourCitiesResponse> {
+    await this.ensureAuthenticated();
+
+    const response = await fetch(`${this.baseURL}/cities/${countryId}?haveActive=1`, {
+      headers: {
+        'Authorization': `Bearer ${this.accessToken}`,
+        'Content-Type': 'application/json',
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`FreeTour cities fetch failed: ${response.statusText}`);
     }
 
     return response.json();

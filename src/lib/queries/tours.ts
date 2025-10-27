@@ -7,6 +7,7 @@ import {
   fetchTourByExternalId,
   fetchCountries,
   fetchCities,
+  fetchCitiesFromAPI,
   fetchToursMetadata,
   syncTours,
 } from '@/actions/tours';
@@ -28,6 +29,8 @@ export const tourKeys = {
   cities: () => ['cities'] as const,
   citiesWithFilters: (countryId?: number, language?: string) =>
     [...tourKeys.cities(), { countryId, language }] as const,
+  citiesFromAPI: (countryId?: number, language?: string) =>
+    ['cities-api', countryId, language] as const,
 };
 
 /**
@@ -88,6 +91,18 @@ export function useCities(countryId?: number, language: string = 'en') {
     queryKey: tourKeys.citiesWithFilters(countryId, language),
     queryFn: () => fetchCities(countryId, language),
     enabled: countryId === undefined || countryId > 0, // Allow fetching all cities or by country
+    staleTime: 30 * 60 * 1000, // 30 minutes
+  });
+}
+
+/**
+ * Hook to fetch cities from FreeTour API by country
+ */
+export function useCitiesFromAPI(countryId: number | undefined, language: string = 'en') {
+  return useQuery({
+    queryKey: tourKeys.citiesFromAPI(countryId, language),
+    queryFn: () => fetchCitiesFromAPI(countryId!, language),
+    enabled: !!countryId && countryId > 0, // Only fetch when country is selected
     staleTime: 30 * 60 * 1000, // 30 minutes
   });
 }
