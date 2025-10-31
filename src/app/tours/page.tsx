@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useMemo } from 'react';
 import { useLanguage } from '@/lib/language-context';
 import { Navbar } from '@/components/layout/Navbar';
 import { TourCard } from '@/components/tours/TourCard';
@@ -19,19 +19,31 @@ export default function ToursPage() {
     limit: 20,
   });
 
+  // Ensure pagination page is always defined and valid
+  const safePagination: PaginationParams = useMemo(() => ({
+    ...pagination,
+    page: pagination.page ?? 1,
+    limit: pagination.limit ?? 20,
+  }), [pagination]);
+
   // Fetch tours with filters and pagination
   const { data: toursData, isLoading: isLoadingTours } = useTours(
     { ...filters, language },
-    pagination
+    safePagination
   );
 
   // Fetch countries and cities for filters
   const { data: countriesData, isLoading: isLoadingCountries } = useCountries(language);
   const { data: citiesData, isLoading: isLoadingCities } = useCitiesFromAPI(filters.countryId, language);
 
+  // Debug: Log pagination state
   useEffect(() => {
-    console.log('countriesData', countriesData);
-  }, [countriesData]);
+    console.log('Pagination state:', {
+      componentState: pagination,
+      safePagination,
+      responseCurrentPage: toursData?.pagination?.currentPage,
+    });
+  }, [pagination, safePagination, toursData?.pagination?.currentPage]);
 
   // Fetch metadata
   const { data: metadata } = useToursMetadata();
@@ -63,7 +75,7 @@ export default function ToursPage() {
   return (
     <div className="min-h-screen bg-background">
       <Navbar />
-      
+
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="mb-8">
@@ -112,20 +124,20 @@ export default function ToursPage() {
                 {toursData && toursData.pagination.totalPages > 1 && (
                   <div className="mt-8 flex justify-center items-center gap-4">
                     <button
-                      onClick={() => setPagination(prev => ({ ...prev, page: Math.max(1, (prev.page || 1) - 1) }))}
-                      disabled={pagination.page === 1}
+                      onClick={() => setPagination(prev => ({ ...prev, page: Math.max(1, (prev.page ?? 1) - 1) }))}
+                      disabled={(safePagination.page ?? 1) === 1}
                       className="px-4 py-2 border border-border rounded-md disabled:opacity-50 disabled:cursor-not-allowed hover:bg-muted"
                     >
                       {t('pagination.previous')}
                     </button>
-                    
+
                     <span className="text-sm text-muted-foreground">
-                      Page {toursData.pagination.currentPage} of {toursData.pagination.totalPages}
+                      Page {safePagination.page ?? 1} of {toursData.pagination.totalPages}
                     </span>
-                    
+
                     <button
-                      onClick={() => setPagination(prev => ({ ...prev, page: (prev.page || 1) + 1 }))}
-                      disabled={pagination.page === toursData.pagination.totalPages}
+                      onClick={() => setPagination(prev => ({ ...prev, page: (prev.page ?? 1) + 1 }))}
+                      disabled={(safePagination.page ?? 1) >= toursData.pagination.totalPages}
                       className="px-4 py-2 border border-border rounded-md disabled:opacity-50 disabled:cursor-not-allowed hover:bg-muted"
                     >
                       {t('pagination.next')}

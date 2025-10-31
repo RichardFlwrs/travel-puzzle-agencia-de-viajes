@@ -50,8 +50,11 @@ export async function fetchTours(
   pagination: PaginationParams = {}
 ) {
   try {
+    console.log('fetchTours', filters, pagination);
     const result = await cachedTourService.getCachedTours(filters, pagination);
+    console.log('result', result);
     const serialized = serializeDecimals(result);
+    console.log('serialized', serialized);
     // Final JSON round-trip to ensure everything is plain objects
     return JSON.parse(JSON.stringify(serialized));
   } catch (error) {

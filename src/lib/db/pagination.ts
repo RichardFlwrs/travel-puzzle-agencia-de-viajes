@@ -67,9 +67,19 @@ export async function paginatedQuery<T>(
   baseUrl: string,
   orderByMapping: Record<string, OrderByFunction> = {}
 ): Promise<PaginatedResponse<T>> {
-  const page = Math.max(1, params.page || 1);
-  const limit = Math.min(100, Math.max(1, params.limit || 20));
+  // Ensure page is always a valid positive number, defaulting to 1
+  const page = Math.max(1, params.page ?? 1);
+  const limit = Math.min(100, Math.max(1, params.limit ?? 20));
   const skip = (page - 1) * limit;
+  
+  // Debug logging to help diagnose pagination issues
+  if (params.page !== undefined && params.page !== page) {
+    console.warn('[Pagination] Page adjusted:', {
+      requested: params.page,
+      actual: page,
+      reason: params.page < 1 ? 'below minimum' : 'other',
+    });
+  }
 
   // Build orderBy
   let orderBy: Prisma.Enumerable<unknown> = { createdAt: 'desc' };
