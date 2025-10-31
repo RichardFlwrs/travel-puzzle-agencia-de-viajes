@@ -109,9 +109,14 @@ export const it = {
   'auth.signup.button': 'Crea account',
   'auth.signup.hasAccount': 'Hai già un account?',
   'auth.signup.loginLink': 'Accedi',
+  'auth.changePassword.title': 'Cambia Password',
+  'auth.changePassword.subtitle': 'Inserisci la tua email e la nuova password',
+  'auth.changePassword.button': 'Cambia Password',
+  'auth.changePassword.backToLogin': 'Torna al Login',
   'auth.error.invalidCredentials': 'E-mail o password non validi',
   'auth.error.somethingWrong': 'Qualcosa è andato storto. Per favore riprova.',
   'auth.error.loginAfterSignup': 'Account creato ma accesso non riuscito. Per favore prova ad accedere manualmente.',
+  'auth.error.userNotFound': 'Utente con questa email non trovato',
   
   // Messages
   'messages.loginSuccess': 'Bentornato!',

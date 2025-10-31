@@ -109,9 +109,14 @@ export const pt = {
   'auth.signup.button': 'Criar conta',
   'auth.signup.hasAccount': 'Já tem uma conta?',
   'auth.signup.loginLink': 'Entrar',
+  'auth.changePassword.title': 'Alterar Senha',
+  'auth.changePassword.subtitle': 'Digite seu e-mail e nova senha',
+  'auth.changePassword.button': 'Alterar Senha',
+  'auth.changePassword.backToLogin': 'Voltar ao Login',
   'auth.error.invalidCredentials': 'E-mail ou senha inválidos',
   'auth.error.somethingWrong': 'Algo deu errado. Por favor, tente novamente.',
   'auth.error.loginAfterSignup': 'Conta criada, mas o login falhou. Por favor, tente fazer login manualmente.',
+  'auth.error.userNotFound': 'Usuário com este e-mail não encontrado',
   
   // Messages
   'messages.loginSuccess': 'Bem-vindo de volta!',

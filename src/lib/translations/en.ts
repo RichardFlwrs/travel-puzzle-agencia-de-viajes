@@ -109,9 +109,14 @@ export const en = {
   'auth.signup.button': 'Create Account',
   'auth.signup.hasAccount': 'Already have an account?',
   'auth.signup.loginLink': 'Sign in',
+  'auth.changePassword.title': 'Change Password',
+  'auth.changePassword.subtitle': 'Enter your email and new password',
+  'auth.changePassword.button': 'Change Password',
+  'auth.changePassword.backToLogin': 'Back to Login',
   'auth.error.invalidCredentials': 'Invalid email or password',
   'auth.error.somethingWrong': 'Something went wrong. Please try again.',
   'auth.error.loginAfterSignup': 'Account created but login failed. Please try logging in manually.',
+  'auth.error.userNotFound': 'User with this email not found',
   
   // Messages
   'messages.loginSuccess': 'Welcome back!',

@@ -11,7 +11,7 @@ export async function middleware(request: NextRequest) {
   // const isPublicRoute = publicRoutes.some(route => pathname.startsWith(route));
 
   // Auth routes - redirect if already logged in
-  const authRoutes = ['/login', '/signup'];
+  const authRoutes = ['/login', '/signup', '/change-password'];
   if (authRoutes.includes(pathname) && session) {
     return NextResponse.redirect(new URL('/', request.url));
   }
