@@ -32,7 +32,7 @@ export async function upsertCountryTranslation(
 export async function getAllCountries(language: string = 'en') {
   return prisma.country.findMany({
     include: {
-      translations: { where: { language } },
+      CountryTranslation: { where: { language } },
     },
     orderBy: { id: 'asc' },
   });
@@ -42,7 +42,7 @@ export async function getCountryById(id: number, language: string = 'en') {
   return prisma.country.findUnique({
     where: { id },
     include: {
-      translations: { where: { language } },
+      CountryTranslation: { where: { language } },
     },
   });
 }

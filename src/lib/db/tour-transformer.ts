@@ -7,8 +7,8 @@ import type { TourWithRelations } from './repositories/tour-repository';
  */
 export function transformDBTourToUITour(dbTour: TourWithRelations): Tour {
   // Get the first translation (should only be one for the requested language)
-  const translation = dbTour.translations[0];
-  const cityTranslation = dbTour.city.translations[0];
+  const translation = dbTour.TourTranslation?.[0];
+  const cityTranslation = dbTour.City?.CityTranslation?.[0];
 
   // Parse images from JSON
   const images = Array.isArray(dbTour.images) 
@@ -64,11 +64,14 @@ export function transformDBToursToUITours(dbTours: TourWithRelations[]): Tour[] 
  * Transform country from DB to UI format for filters
  */
 export function transformCountryForFilter(country: CountryWithTranslations) {
-  const translation = country.translations[0];
+  // Handle both old format (translations array) and new format (CountryTranslation array)
+  const translations = (country as any).CountryTranslation || country.translations;
+  const translation = translations?.[0];
   return {
     id: country.id,
     name: translation?.name || `Country ${country.id}`,
-    count: country._count?.tours || 0,
+    // Handle both old format (_count.tours) and new format (_count.Tour)
+    count: (country._count as any)?.Tour || country._count?.tours || 0,
   };
 }
 
@@ -76,11 +79,14 @@ export function transformCountryForFilter(country: CountryWithTranslations) {
  * Transform city from DB to UI format for filters
  */
 export function transformCityForFilter(city: CityWithTranslations) {
-  const translation = city.translations[0];
+  // Handle both old format (translations array) and new format (CityTranslation array)
+  const translations = (city as any).CityTranslation || city.translations;
+  const translation = translations?.[0];
   return {
     id: city.id,
     name: translation?.name || `City ${city.id}`,
-    count: city._count?.tours || 0,
+    // Handle both old format (_count.tours) and new format (_count.Tour)
+    count: (city._count as any)?.Tour || city._count?.tours || 0,
   };
 }
 

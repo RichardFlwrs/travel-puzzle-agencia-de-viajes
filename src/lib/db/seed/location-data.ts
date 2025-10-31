@@ -72,6 +72,7 @@ export async function extractLocationDataFromJSON() {
     const countries = new Set<number>();
     const cities = new Set<number>();
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     data.tours.forEach((tour: any) => {
       countries.add(tour.countryId);
       cities.add(tour.cityId);

@@ -6,9 +6,9 @@ export async function middleware(request: NextRequest) {
   const session = await auth();
   const { pathname } = request.nextUrl;
 
-  // Public routes that don't require auth
-  const publicRoutes = ['/', '/tours', '/how-it-works', '/login', '/signup'];
-  const isPublicRoute = publicRoutes.some(route => pathname.startsWith(route));
+  // Public routes that don't require auth (will be used for auth)
+  // const publicRoutes = ['/', '/tours', '/how-it-works', '/login', '/signup'];
+  // const isPublicRoute = publicRoutes.some(route => pathname.startsWith(route));
 
   // Auth routes - redirect if already logged in
   const authRoutes = ['/login', '/signup'];

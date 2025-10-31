@@ -417,8 +417,8 @@ async function syncTour(apiTour: TourAPI) {
       videoURL: apiTour.videoURL,
       isActive: true,
       // Connect to existing city and country
-      city: { connect: { id: apiTour.cityId } },
-      country: { connect: { id: apiTour.countryId } },
+      City: { connect: { id: apiTour.cityId } },
+      Country: { connect: { id: apiTour.countryId } },
     },
   });
 

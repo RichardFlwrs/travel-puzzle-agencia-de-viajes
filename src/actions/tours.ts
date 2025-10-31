@@ -1,16 +1,12 @@
 'use server';
 
 import {
-  getToursWithFilters,
-  getTourById,
   getTourByExternalId,
-  getCountriesWithTourCount,
-  getCitiesWithTourCount,
-  getToursMetadata,
   type TourFilters,
 } from '@/lib/db/repositories/tour-repository';
 import { syncToursFromAPI } from '@/lib/db/sync/tour-sync';
 import { freeTourClient } from '@/lib/api/freetour-client';
+import { cachedTourService } from '@/lib/services/cached-tour-service';
 import type { PaginationParams } from '@/lib/db/pagination';
 
 /**
@@ -47,14 +43,14 @@ function serializeDecimals<T>(obj: T): T {
 }
 
 /**
- * Fetch tours with filters and pagination
+ * Fetch tours with filters and pagination (with Redis caching)
  */
 export async function fetchTours(
   filters: TourFilters = {},
   pagination: PaginationParams = {}
 ) {
   try {
-    const result = await getToursWithFilters(filters, pagination);
+    const result = await cachedTourService.getCachedTours(filters, pagination);
     const serialized = serializeDecimals(result);
     // Final JSON round-trip to ensure everything is plain objects
     return JSON.parse(JSON.stringify(serialized));
@@ -65,11 +61,11 @@ export async function fetchTours(
 }
 
 /**
- * Fetch a single tour by ID
+ * Fetch a single tour by ID (with Redis caching)
  */
 export async function fetchTourById(tourId: string, language: string = 'en') {
   try {
-    const result = await getTourById(tourId, language);
+    const result = await cachedTourService.getCachedTourById(tourId, language);
     const serialized = serializeDecimals(result);
     return JSON.parse(JSON.stringify(serialized));
   } catch (error) {
@@ -93,11 +89,11 @@ export async function fetchTourByExternalId(externalId: number, language: string
 }
 
 /**
- * Fetch countries with tour count for filters
+ * Fetch countries with tour count for filters (with Redis caching)
  */
 export async function fetchCountries(language: string = 'en') {
   try {
-    const result = await getCountriesWithTourCount(language);
+    const result = await cachedTourService.getCachedCountries(language);
     const serialized = serializeDecimals(result);
     return JSON.parse(JSON.stringify(serialized));
   } catch (error) {
@@ -107,11 +103,11 @@ export async function fetchCountries(language: string = 'en') {
 }
 
 /**
- * Fetch cities with tour count for filters
+ * Fetch cities with tour count for filters (with Redis caching)
  */
 export async function fetchCities(countryId?: number, language: string = 'en') {
   try {
-    const result = await getCitiesWithTourCount(countryId, language);
+    const result = await cachedTourService.getCachedCities(countryId, language);
     const serialized = serializeDecimals(result);
     return JSON.parse(JSON.stringify(serialized));
   } catch (error) {
@@ -141,11 +137,11 @@ export async function fetchCitiesFromAPI(countryId: number, language: string = '
 }
 
 /**
- * Get tours metadata (last sync, total count, etc.)
+ * Get tours metadata (last sync, total count, etc.) (with Redis caching)
  */
 export async function fetchToursMetadata() {
   try {
-    return await getToursMetadata();
+    return await cachedTourService.getCachedMetadata();
   } catch (error) {
     console.error('Error fetching tours metadata:', error);
     return {
@@ -159,10 +155,20 @@ export async function fetchToursMetadata() {
 /**
  * Sync tours from FreeTour API to database
  * This should be called manually or via a cron job
+ * Invalidates cache after successful sync
  */
 export async function syncTours(maxPages?: number) {
   try {
-    return await syncToursFromAPI(maxPages);
+    const result = await syncToursFromAPI(maxPages);
+    
+    // Invalidate cache after successful sync
+    if (result.success) {
+      await cachedTourService.invalidateTourCache();
+      await cachedTourService.invalidateFilterCache();
+      console.log('✅ Cache invalidated after sync');
+    }
+    
+    return result;
   } catch (error) {
     console.error('Error syncing tours:', error);
     throw new Error('Failed to sync tours');

@@ -1,3 +1,5 @@
+import type { Prisma } from '@prisma/client';
+
 export interface PaginationParams {
   page?: number;
   limit?: number;
@@ -30,7 +32,7 @@ export function buildPaginationLinks(
   params: PaginationParams,
   currentPage: number,
   totalPages: number
-): PaginatedResponse<any>['pagination']['links'] {
+): PaginatedResponse<unknown>['pagination']['links'] {
   const buildUrl = (page: number) => {
     const queryParams = new URLSearchParams();
     queryParams.set('page', page.toString());
@@ -51,20 +53,26 @@ export function buildPaginationLinks(
   };
 }
 
+// Order by mapping function type
+type OrderByFunction = (sortOrder: 'asc' | 'desc') => Prisma.Enumerable<unknown>;
+
 export async function paginatedQuery<T>(
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   model: any,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   where: any,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   include: any,
   params: PaginationParams,
   baseUrl: string,
-  orderByMapping: Record<string, any> = {}
+  orderByMapping: Record<string, OrderByFunction> = {}
 ): Promise<PaginatedResponse<T>> {
   const page = Math.max(1, params.page || 1);
   const limit = Math.min(100, Math.max(1, params.limit || 20));
   const skip = (page - 1) * limit;
 
   // Build orderBy
-  let orderBy: any = { createdAt: 'desc' };
+  let orderBy: Prisma.Enumerable<unknown> = { createdAt: 'desc' };
   if (params.sortBy && orderByMapping[params.sortBy]) {
     orderBy = orderByMapping[params.sortBy](params.sortOrder || 'asc');
   }
@@ -77,7 +85,7 @@ export async function paginatedQuery<T>(
       orderBy,
       skip,
       take: limit,
-    }),
+    }) as Promise<T[]>,
     model.count({ where }),
   ]);
 

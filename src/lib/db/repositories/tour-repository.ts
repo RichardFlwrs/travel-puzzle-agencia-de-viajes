@@ -4,9 +4,9 @@ import { Prisma } from '@prisma/client';
 
 export type TourWithRelations = Prisma.TourGetPayload<{
   include: {
-    translations: true;
-    city: { include: { translations: true } };
-    country: { include: { translations: true } };
+    TourTranslation: true;
+    City: { include: { CityTranslation: true } };
+    Country: { include: { CountryTranslation: true } };
   };
 }>;
 
@@ -42,7 +42,7 @@ export async function getToursWithFilters(
       .map((field) => {
         if (field === 'title' || field === 'brief' || field === 'description') {
           return {
-            translations: {
+            TourTranslation: {
               some: {
                 language,
                 [field]: { contains: pagination.searchValue, mode: 'insensitive' as const },
@@ -61,9 +61,9 @@ export async function getToursWithFilters(
 
   // Include relations with language filtering
   const include = {
-    translations: { where: { language } },
-    city: { include: { translations: { where: { language } } } },
-    country: { include: { translations: { where: { language } } } },
+    TourTranslation: { where: { language } },
+    City: { include: { CityTranslation: { where: { language } } } },
+    Country: { include: { CountryTranslation: { where: { language } } } },
   };
 
   // Order by mapping
@@ -90,9 +90,9 @@ export async function getTourById(tourId: string, language: string = 'en') {
   return prisma.tour.findUnique({
     where: { id: tourId },
     include: {
-      translations: { where: { language } },
-      city: { include: { translations: { where: { language } } } },
-      country: { include: { translations: { where: { language } } } },
+      TourTranslation: { where: { language } },
+      City: { include: { CityTranslation: { where: { language } } } },
+      Country: { include: { CountryTranslation: { where: { language } } } },
     },
   });
 }
@@ -102,9 +102,9 @@ export async function getTourByExternalId(externalId: number, language: string =
   return prisma.tour.findUnique({
     where: { externalId },
     include: {
-      translations: { where: { language } },
-      city: { include: { translations: { where: { language } } } },
-      country: { include: { translations: { where: { language } } } },
+      TourTranslation: { where: { language } },
+      City: { include: { CityTranslation: { where: { language } } } },
+      Country: { include: { CountryTranslation: { where: { language } } } },
     },
   });
 }
@@ -112,10 +112,10 @@ export async function getTourByExternalId(externalId: number, language: string =
 // Helper functions for dropdown filters
 export async function getCountriesWithTourCount(language: string = 'en') {
   return prisma.country.findMany({
-    where: { tours: { some: { isActive: true } } },
+    where: { Tour: { some: { isActive: true } } },
     include: {
-      translations: { where: { language } },
-      _count: { select: { tours: { where: { isActive: true } } } },
+      CountryTranslation: { where: { language } },
+      _count: { select: { Tour: { where: { isActive: true } } } },
     },
     orderBy: { id: 'asc' },
   });
@@ -125,11 +125,11 @@ export async function getCitiesWithTourCount(countryId?: number, language: strin
   return prisma.city.findMany({
     where: {
       ...(countryId && { countryId }),
-      tours: { some: { isActive: true } },
+      Tour: { some: { isActive: true } },
     },
     include: {
-      translations: { where: { language } },
-      _count: { select: { tours: { where: { isActive: true } } } },
+      CityTranslation: { where: { language } },
+      _count: { select: { Tour: { where: { isActive: true } } } },
     },
     orderBy: { id: 'asc' },
   });

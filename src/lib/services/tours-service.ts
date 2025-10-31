@@ -15,8 +15,8 @@ export async function getAllTours(): Promise<TourAPI[]> {
     const fileContent = await fs.readFile(TOURS_FILE, 'utf-8');
     const data: ToursData = JSON.parse(fileContent);
     return data.tours;
-  } catch (error) {
-    console.error('Failed to read tours file:', error);
+  } catch (err) {
+    console.error('Failed to read tours file:', err);
     return [];
   }
 }
@@ -29,7 +29,7 @@ export async function getToursMetadata() {
       lastUpdated: data.lastUpdated,
       totalTours: data.totalTours,
     };
-  } catch (error) {
+  } catch {
     return {
       lastUpdated: null,
       totalTours: 0,
