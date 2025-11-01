@@ -30,7 +30,7 @@ export function buildPaginationLinks(
   params: PaginationParams,
   currentPage: number,
   totalPages: number
-): PaginatedResponse<any>['pagination']['links'] {
+): PaginatedResponse<unknown>['pagination']['links'] {
   const buildUrl = (page: number) => {
     const queryParams = new URLSearchParams();
     queryParams.set('page', page.toString());

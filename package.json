@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
     "sync:tours": "tsx src/scripts/sync-tours.ts",
     "fix:country-names": "tsx src/scripts/fix-country-names.ts"
   },
@@ -30,8 +29,6 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.0.0",
     "prisma": "^6.18.0",
     "tailwindcss": "^4",
     "tsx": "^4.19.0",

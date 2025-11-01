@@ -40,8 +40,8 @@ export const Navbar = () => {
 
   const clientLinks = [
     { href: '/', label: t('nav.home') },
-    { href: '/', label: t('nav.tours') },
-    { href: '/', label: t('nav.myBookings') },
+    { href: '/tours', label: t('nav.tours') },
+    { href: '/bookings', label: t('nav.myBookings') },
   ];
 
   const dashboardLinks = [

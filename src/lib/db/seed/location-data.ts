@@ -8,6 +8,8 @@
  * For now, these are placeholders that should be updated with real data.
  */
 
+import { TourAPI } from '@/types';
+
 export const COUNTRY_NAMES: Record<number, { code: string; names: Record<string, string> }> = {
   // Example structure - populate with actual data
   // 1: {
@@ -72,7 +74,7 @@ export async function extractLocationDataFromJSON() {
     const countries = new Set<number>();
     const cities = new Set<number>();
 
-    data.tours.forEach((tour: any) => {
+    data.tours.forEach((tour: TourAPI) => {
       countries.add(tour.countryId);
       cities.add(tour.cityId);
     });
