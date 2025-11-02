@@ -1,10 +1,11 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import { useLanguage } from "@/lib/language-context";
 import { useCountries } from '@/lib/queries/tours';
 import { transformCountryForFilter } from '@/lib/db/tour-transformer';
 import { SearchDropdown } from '@/components/forms/SearchDropdown';
+import { DateRangePicker } from '@/components/forms';
 
 type CountryFilter = {
     id: number;
@@ -30,6 +31,14 @@ export function SearchFormPill() {
         // Handle country selection here
     };
 
+    const [startDate, setStartDate] = useState<string | undefined>(undefined);
+    const [endDate, setEndDate] = useState<string | undefined>(undefined);
+
+    const handleDateRangeChange = (startDate: string | undefined, endDate: string | undefined) => {
+        setStartDate(startDate);
+        setEndDate(endDate);
+    };
+
     return (
         <div className="v-center gap-3 bg-white/95 backdrop-blur-sm rounded-lg p-6 shadow-2xl">
             <SearchDropdown<CountryFilter>
@@ -51,7 +60,12 @@ export function SearchFormPill() {
                 className="w-full"
             />
 
-            <p>Another Input</p>
+            <DateRangePicker
+                placeholder={t('home.searchBooking.dateRangePlaceholder', 'Select date range')}
+                startDate={startDate}
+                endDate={endDate}
+                onDateRangeChange={handleDateRangeChange}
+            />
         </div>
     );
 }
