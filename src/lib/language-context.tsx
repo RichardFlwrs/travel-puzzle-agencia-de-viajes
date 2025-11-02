@@ -5,10 +5,14 @@ import { SupportedLanguage } from '@/types';
 import { translations } from './translations';
 import { LoadingPage } from '@/components/layout/LoadingPage';
 
+
 interface LanguageContextType {
   language: SupportedLanguage;
   setLanguage: (lang: SupportedLanguage) => void;
-  t: (key: string) => string;
+  t: {
+    (key: string): string;
+    (key: string, fallback: string): string;
+  };
   isInitialized: boolean;
 }
 
@@ -23,6 +27,18 @@ export function LanguageProvider({ children, onReady }: LanguageProviderProps) {
   // Always start with 'en' to match server-side rendering
   const [language, setLanguageState] = useState<SupportedLanguage>('en');
   const [isInitialized, setIsInitialized] = useState(false);
+
+  // Translation function with overloads
+  // Function overloads - declare multiple ways to call the function
+  function t(key: string): string;
+  function t(key: string, fallback: string): string;
+  // Implementation signature - must be compatible with all overloads
+  function t(key: string, fallback?: string): string {
+    if (fallback !== undefined) {
+      return translations[language]?.[key] || fallback;
+    }
+    return translations[language]?.[key] || key;
+  }
 
   // After hydration, detect and set the correct language
   useEffect(() => {
@@ -59,11 +75,6 @@ export function LanguageProvider({ children, onReady }: LanguageProviderProps) {
     if (typeof window !== 'undefined') {
       localStorage.setItem('preferredLanguage', lang);
     }
-  };
-
-  // Translation function
-  const t = (key: string): string => {
-    return translations[language][key] || key;
   };
 
   return (
