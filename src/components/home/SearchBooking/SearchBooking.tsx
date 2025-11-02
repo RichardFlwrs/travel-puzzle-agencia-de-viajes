@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useLanguage } from "@/lib/language-context";
 import { ImageCarousel } from "@/components/ui/ImageCarousel";
+import { SearchFormPill } from './SerchFormPill';
 
 export function SearchBooking() {
   const { t } = useLanguage();
@@ -26,27 +27,22 @@ export function SearchBooking() {
         overlayOpacity="bg-black/40"
         className="absolute inset-0"
         altPrefix="Search section background"
-        childrenClassName="flex flex-col items-center justify-center"
+        childrenClassName="container v-center"
       >
         {/* Content Overlay */}
-        <div className="container mx-auto max-w-6xl h-full flex flex-col items-center justify-center px-4 py-16">
+        <div className="">
+          {/* Title and Subtitle */}
           <div className="text-center mb-8">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 text-white drop-shadow-lg">
-              {t('home.searchBooking.title') || 'Search & Book Your Adventure'}
+              {t('home.searchBooking.title', 'Search & Book Your Adventure')}
             </h2>
             <p className="text-xl md:text-2xl text-white/90 drop-shadow-md">
-              {t('home.searchBooking.subtitle') || 'Plan better with 300,000+ travel experiences'}
+              {t('home.searchBooking.subtitle', 'Plan better with 300,000+ travel experiences')}
             </p>
           </div>
 
           {/* Search Form Placeholder */}
-          <div className="w-full max-w-3xl">
-            <div className="bg-white/95 backdrop-blur-sm rounded-lg p-6 shadow-2xl">
-              <p className="text-sm text-muted-foreground text-center">
-                Search form will go here
-              </p>
-            </div>
-          </div>
+          <SearchFormPill />
         </div>
       </ImageCarousel>
     </section>
