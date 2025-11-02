@@ -1,8 +1,8 @@
 'use client';
 
 import { useState, useEffect, useRef, ReactNode } from 'react';
-import { Input } from './Input';
-import { Loading } from './Loading';
+import { Input } from '../ui/Input';
+import { Loading } from '../ui/Loading';
 
 export interface SearchDropdownProps<T> {
   placeholder?: string;
