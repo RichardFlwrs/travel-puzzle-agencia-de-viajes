@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, Suspense } from 'react';
 import { signIn } from 'next-auth/react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
@@ -10,7 +10,7 @@ import { useLanguage } from '@/lib/language-context';
 import { AuthLayout, AuthHeader } from '@/components/auth';
 import { FormField } from '@/components/forms';
 
-export default function LoginPage() {
+function LoginForm() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const { t } = useLanguage();
@@ -95,5 +95,27 @@ export default function LoginPage() {
         </div>
       </form>
     </AuthLayout>
+  );
+}
+
+export default function LoginPage() {
+  return (
+    <Suspense fallback={
+      <AuthLayout>
+        <AuthHeader 
+          title="Loading..."
+          subtitle="Please wait"
+        />
+        <div className="space-y-6">
+          <div className="space-y-4">
+            <div className="h-11 bg-muted animate-pulse rounded-lg" />
+            <div className="h-11 bg-muted animate-pulse rounded-lg" />
+          </div>
+          <div className="h-11 bg-muted animate-pulse rounded-lg" />
+        </div>
+      </AuthLayout>
+    }>
+      <LoginForm />
+    </Suspense>
   );
 }

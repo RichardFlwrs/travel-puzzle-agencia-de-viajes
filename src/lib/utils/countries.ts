@@ -1,4 +1,4 @@
-import countriesData from '../../../data/countries.json';
+import countriesData from '../../../data/countires.json';
 import { SupportedLanguage } from '@/types';
 
 interface Country {
