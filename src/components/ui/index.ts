@@ -15,3 +15,6 @@ export type { AlertProps } from './Alert';
 export { Loading } from './Loading';
 export type { LoadingProps } from './Loading';
 
+export { ImageCarousel } from './ImageCarousel';
+export type { ImageCarouselProps } from './ImageCarousel';
+

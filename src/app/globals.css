@@ -107,6 +107,37 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  /* Vertical Center Utilities */
+  .v-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .v-center-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .v-center-normal {
+    display: flex;
+    justify-content: normal;
+    align-items: center;
+  }
+
+  .v-center-evenly {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .v-center-end {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
 }
 
 /* Custom container styles - removes default padding and increases max-width */
