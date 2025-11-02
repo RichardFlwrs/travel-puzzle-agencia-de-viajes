@@ -112,6 +112,10 @@ export const en = {
   'auth.error.invalidCredentials': 'Invalid email or password',
   'auth.error.somethingWrong': 'Something went wrong. Please try again.',
   'auth.error.loginAfterSignup': 'Account created but login failed. Please try logging in manually.',
+  'auth.quickSignUp.title': 'QUICK SIGN UP',
+  'auth.quickSignUp.subtitle': 'Sign up with your social account',
+  'auth.quickSignUp.google': 'Continue with Google',
+  'auth.quickSignUp.facebook': 'Continue with Facebook',
   
   // Messages
   'messages.loginSuccess': 'Welcome back!',

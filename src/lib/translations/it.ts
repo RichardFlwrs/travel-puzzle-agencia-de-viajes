@@ -112,6 +112,10 @@ export const it = {
   'auth.error.invalidCredentials': 'E-mail o password non validi',
   'auth.error.somethingWrong': 'Qualcosa è andato storto. Per favore riprova.',
   'auth.error.loginAfterSignup': 'Account creato ma accesso non riuscito. Per favore prova ad accedere manualmente.',
+  'auth.quickSignUp.title': 'REGISTRAZIONE RAPIDA',
+  'auth.quickSignUp.subtitle': 'Registrati con il tuo account social',
+  'auth.quickSignUp.google': 'Continua con Google',
+  'auth.quickSignUp.facebook': 'Continua con Facebook',
   
   // Messages
   'messages.loginSuccess': 'Bentornato!',

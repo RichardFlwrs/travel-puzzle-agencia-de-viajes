@@ -112,6 +112,10 @@ export const de = {
   'auth.error.invalidCredentials': 'Ungültige E-Mail oder Passwort',
   'auth.error.somethingWrong': 'Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.',
   'auth.error.loginAfterSignup': 'Konto erstellt, aber Anmeldung fehlgeschlagen. Bitte versuchen Sie, sich manuell anzumelden.',
+  'auth.quickSignUp.title': 'SCHNELLE REGISTRIERUNG',
+  'auth.quickSignUp.subtitle': 'Registrieren Sie sich mit Ihrem Social-Media-Konto',
+  'auth.quickSignUp.google': 'Mit Google fortfahren',
+  'auth.quickSignUp.facebook': 'Mit Facebook fortfahren',
   
   // Messages
   'messages.loginSuccess': 'Willkommen zurück!',

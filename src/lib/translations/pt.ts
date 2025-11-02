@@ -112,6 +112,10 @@ export const pt = {
   'auth.error.invalidCredentials': 'E-mail ou senha inválidos',
   'auth.error.somethingWrong': 'Algo deu errado. Por favor, tente novamente.',
   'auth.error.loginAfterSignup': 'Conta criada, mas o login falhou. Por favor, tente fazer login manualmente.',
+  'auth.quickSignUp.title': 'CADASTRO RÁPIDO',
+  'auth.quickSignUp.subtitle': 'Cadastre-se com sua conta social',
+  'auth.quickSignUp.google': 'Continuar com Google',
+  'auth.quickSignUp.facebook': 'Continuar com Facebook',
   
   // Messages
   'messages.loginSuccess': 'Bem-vindo de volta!',
