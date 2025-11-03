@@ -15,4 +15,11 @@ export { MedalIcon } from './MedalIcon';
 export { HeadphonesIcon } from './HeadphonesIcon';
 export { MapPinIcon } from './MapPinIcon';
 export { ClockIcon } from './ClockIcon';
+export { GiftIcon } from './GiftIcon';
+export { CoinsIcon } from './CoinsIcon';
+export { TrophyIcon } from './TrophyIcon';
+export { StarIcon } from './StarIcon';
+export { CircleCheckIcon } from './CircleCheckIcon';
+export { LockIcon } from './LockIcon';
+export { ArrowRightIcon } from './ArrowRightIcon';
 

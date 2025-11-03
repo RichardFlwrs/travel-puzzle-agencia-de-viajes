@@ -3,7 +3,8 @@ import {
   SearchBooking,
   WhyChooseTravelPuzzle,
   RecentReviews,
-  TopDestinations
+  TopDestinations,
+  RewardsBanner
 } from "@/components/home";
 import { QuickSignUp } from "@/components/auth";
 
@@ -19,9 +20,8 @@ export default function Home() {
       {/* Home Page Sections */}
       <SearchBooking />
       <WhyChooseTravelPuzzle />
-      <RecentReviews />
+      <RewardsBanner />
       <TopDestinations />
-
       {/* Footer */}
       <Footer />
     </div>
