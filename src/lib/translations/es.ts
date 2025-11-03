@@ -46,6 +46,12 @@ export const es = {
   'home.whyChoose.cta.planTrip': 'Planificar Mi Viaje',
   'home.whyChoose.cta.talkExpert': 'Hablar con un Experto',
   
+  // Top Destinations
+  'home.topDestinations.badge': 'Top 20 Experiencias',
+  'home.topDestinations.title': 'Las Mejores Experiencias de Viaje',
+  'home.topDestinations.subtitle': 'Descubre las experiencias más valoradas y reservadas por viajeros de todo el mundo',
+  'home.topDestinations.book': 'Reservar',
+  
   // Tours
   'tours.title': 'Todos los Tours',
   'tours.subtitle': 'tours disponibles',

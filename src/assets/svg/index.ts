@@ -22,4 +22,8 @@ export { StarIcon } from './StarIcon';
 export { CircleCheckIcon } from './CircleCheckIcon';
 export { LockIcon } from './LockIcon';
 export { ArrowRightIcon } from './ArrowRightIcon';
+export { ChevronLeftIcon } from './ChevronLeftIcon';
+export { ChevronRightIcon } from './ChevronRightIcon';
+export { ShareIcon } from './ShareIcon';
+export { EuroIcon } from './EuroIcon';
 
