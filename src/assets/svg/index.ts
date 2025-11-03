@@ -9,4 +9,10 @@ export { SettingsIcon } from './SettingsIcon';
 export { LogoutIcon } from './LogoutIcon';
 export { MenuIcon } from './MenuIcon';
 export { CloseIcon } from './CloseIcon';
+export { ShieldIcon } from './ShieldIcon';
+export { HeartIcon } from './HeartIcon';
+export { MedalIcon } from './MedalIcon';
+export { HeadphonesIcon } from './HeadphonesIcon';
+export { MapPinIcon } from './MapPinIcon';
+export { ClockIcon } from './ClockIcon';
 
