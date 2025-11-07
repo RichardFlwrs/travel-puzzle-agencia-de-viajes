@@ -1,5 +1,5 @@
 import React from 'react';
-// import Link from 'next/link';
+import Link from 'next/link';
 import Image from 'next/image';
 import { Tour } from '@/types';
 import { Card, CardContent } from '@/components/ui/Card';
@@ -14,7 +14,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
   const imageUrl = tour.images.find(img => img && img.trim() !== '');
   
   return (
-    <div>
+    <Link href={`/tours/${tour.id}`}>
       <Card className="hover:shadow-lg transition-shadow cursor-pointer h-full">
         <div className="relative h-48 w-full bg-linear-to-br from-tp-blue-primary to-tp-blue-dark">
           {imageUrl ? (
@@ -59,7 +59,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
           </div>
         </CardContent>
       </Card>
-    </div>
+    </Link>
   );
 };
 

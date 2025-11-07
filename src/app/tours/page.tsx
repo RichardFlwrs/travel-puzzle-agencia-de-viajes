@@ -29,10 +29,6 @@ export default function ToursPage() {
   const { data: countriesData, isLoading: isLoadingCountries } = useCountries(language);
   const { data: citiesData, isLoading: isLoadingCities } = useCitiesFromAPI(filters.countryId, language);
 
-  useEffect(() => {
-    console.log('countriesData', countriesData);
-  }, [countriesData]);
-
   // Fetch metadata
   const { data: metadata } = useToursMetadata();
 
@@ -46,6 +42,10 @@ export default function ToursPage() {
     // Reset to page 1 when filters change
     setPagination(prev => ({ ...prev, page: 1 }));
   };
+
+  useEffect(() => {
+    console.log('tours', tours);
+  }, [tours]);
 
   const isLoading = isLoadingTours || isLoadingCountries || isLoadingCities;
 
@@ -63,7 +63,7 @@ export default function ToursPage() {
   return (
     <div className="min-h-screen bg-background">
       <Navbar />
-      
+
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="mb-8">
@@ -118,11 +118,11 @@ export default function ToursPage() {
                     >
                       {t('pagination.previous')}
                     </button>
-                    
+
                     <span className="text-sm text-muted-foreground">
                       Page {toursData.pagination.currentPage} of {toursData.pagination.totalPages}
                     </span>
-                    
+
                     <button
                       onClick={() => setPagination(prev => ({ ...prev, page: (prev.page || 1) + 1 }))}
                       disabled={pagination.page === toursData.pagination.totalPages}
