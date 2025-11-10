@@ -28,7 +28,7 @@ export default function TourDetailPage() {
     const { data: tourFTData, isLoading: isLoadingFT, error: errorFT } = useToursFTData(tourMockData?.externalId ? tourMockData.externalId.toString() : null);
 
     // Transform DB tour to UI tour format
-    const tourDB = tourMockData ? transformDBTourToUITour(tourMockData as unknown as TourWithRelations) : null;
+    const tourDB = tourMockData ? transformDBTourToUITour(tourMockData as unknown as TourWithRelations, language) : null;
 
     const tour = useMemo<Tour | null>(() => {
         console.log('tourFTData', tourFTData);

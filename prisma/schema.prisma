@@ -35,24 +35,13 @@ model Country {
 
 // City Model
 model City {
-  id           Int               @id
+  id           Int      @id
   countryId    Int
-  country      Country           @relation(fields: [countryId], references: [id])
+  country      Country  @relation(fields: [countryId], references: [id])
+  translations Json?   // Store translations as JSON: { "en": "Paris", "es": "París", ... }
   tours        Tour[]
-  translations CityTranslation[]
 
   @@index([countryId])
-}
-
-model CityTranslation {
-  id       String @id @default(cuid())
-  cityId   Int
-  language String @db.VarChar(2)
-  name     String @db.VarChar(255)
-  city     City   @relation(fields: [cityId], references: [id], onDelete: Cascade)
-
-  @@unique([cityId, language])
-  @@index([language])
 }
 
 // Tour Model (Refactored for FreeTour API)

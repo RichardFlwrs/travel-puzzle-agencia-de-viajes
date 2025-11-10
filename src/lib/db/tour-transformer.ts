@@ -5,10 +5,13 @@ import type { TourWithRelations } from './repositories/tour-repository';
  * Transform a database tour with relations to the UI Tour format
  * Note: Translations should already be filtered by language in the query
  */
-export function transformDBTourToUITour(dbTour: TourWithRelations): Tour {
+export function transformDBTourToUITour(dbTour: TourWithRelations, language: string = 'en'): Tour {
   // Get the first translation (should only be one for the requested language)
   const translation = dbTour.translations[0];
-  const cityTranslation = dbTour.city.translations[0];
+  
+  // Extract city name from JSON translations object
+  const cityTranslations = dbTour.city.translations as Record<string, string> | null;
+  const cityName = cityTranslations?.[language] || cityTranslations?.en || `City ${dbTour.cityId}`;
 
   // Parse images from JSON
   const images = Array.isArray(dbTour.images)
@@ -34,7 +37,7 @@ export function transformDBTourToUITour(dbTour: TourWithRelations): Tour {
     title: translation?.title || '',
     brief: translation?.brief || null,
     description: translation?.description || null,
-    destination: cityTranslation?.name || `City ${dbTour.cityId}`,
+    destination: cityName,
     provider: dbTour.providerTitle,
     providerPhone: dbTour.providerPhone,
     price: Number(dbTour.priceValue),
@@ -56,8 +59,8 @@ export function transformDBTourToUITour(dbTour: TourWithRelations): Tour {
  * Transform multiple DB tours to UI tours
  * Note: Translations should already be filtered by language in the query
  */
-export function transformDBToursToUITours(dbTours: TourWithRelations[]): Tour[] {
-  return dbTours.map(tour => transformDBTourToUITour(tour));
+export function transformDBToursToUITours(dbTours: TourWithRelations[], language: string = 'en'): Tour[] {
+  return dbTours.map(tour => transformDBTourToUITour(tour, language));
 }
 
 /**
@@ -78,11 +81,14 @@ export function transformCountryForFilter(country: CountryWithTranslations, lang
 /**
  * Transform city from DB to UI format for filters
  */
-export function transformCityForFilter(city: CityWithTranslations) {
-  const translation = city.translations[0];
+export function transformCityForFilter(city: CityWithTranslations, language: string = 'en') {
+  // Extract name from JSON translations object
+  const translations = city.translations as Record<string, string> | null;
+  const name = translations?.[language] || translations?.en || `City ${city.id}`;
+  
   return {
     id: city.id,
-    name: translation?.name || `City ${city.id}`,
+    name,
     count: city._count?.tours || 0,
   };
 }

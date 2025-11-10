@@ -2,7 +2,7 @@ import { freeTourClient, FreeTourCountry, FreeTourCity } from '@/lib/api/freetou
 import { prisma } from '@/lib/prisma';
 import { TourAPI, SupportedLanguage } from '@/types';
 import { upsertCountry } from '../repositories/country-repository';
-import { upsertCity, upsertCityTranslation } from '../repositories/city-repository';
+import { upsertCity } from '../repositories/city-repository';
 import { Prisma } from '@prisma/client';
 
 const SUPPORTED_LANGUAGES: SupportedLanguage[] = ['en', 'es', 'pt', 'de', 'fr', 'it'];
@@ -277,14 +277,17 @@ async function syncCities(tours: TourAPI[], cityIds: number[]) {
         const tour = tours.find(t => t.cityId === cityId);
         if (!tour) continue;
 
-        // Upsert city
-        await upsertCity(cityId, countryId);
-
-        // Use real city names from API
+        // Build translations object from API data
+        const translations: Record<string, string> = {};
         for (const lang of SUPPORTED_LANGUAGES) {
-          const cityName = cityInfo?.title[lang] || `City ${cityId}`;
-          await upsertCityTranslation(cityId, lang, cityName);
+          const cityName = cityInfo?.title[lang];
+          if (cityName) {
+            translations[lang] = cityName;
+          }
         }
+        
+        // Upsert city with translations
+        await upsertCity(cityId, countryId, translations);
       }
     } catch (error) {
       console.warn(`  ⚠️  Could not fetch cities for country ${countryId}:`, error);
@@ -294,10 +297,13 @@ async function syncCities(tours: TourAPI[], cityIds: number[]) {
         const tour = tours.find(t => t.cityId === cityId);
         if (!tour) continue;
         
-        await upsertCity(cityId, countryId);
+        // Build placeholder translations
+        const translations: Record<string, string> = {};
         for (const lang of SUPPORTED_LANGUAGES) {
-          await upsertCityTranslation(cityId, lang, `City ${cityId}`);
+          translations[lang] = `City ${cityId}`;
         }
+        
+        await upsertCity(cityId, countryId, translations);
       }
     }
   }

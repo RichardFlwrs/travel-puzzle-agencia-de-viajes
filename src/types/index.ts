@@ -165,6 +165,7 @@ export interface CountryWithTranslations {
   };
 }
 
+// Keep CityTranslation for backward compatibility (may be used in other contexts)
 export interface CityTranslation {
   id: string;
   cityId: number;
@@ -175,7 +176,7 @@ export interface CityTranslation {
 export interface CityWithTranslations {
   id: number;
   countryId: number;
-  translations: CityTranslation[];
+  translations: Record<string, string> | null; // JSON format: { "en": "Paris", "es": "París", ... }
   _count: {
     tours: number;
   };

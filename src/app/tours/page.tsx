@@ -33,7 +33,7 @@ export default function ToursPage() {
   const { data: metadata } = useToursMetadata();
 
   // Transform data for UI
-  const tours = toursData?.data ? transformDBToursToUITours(toursData.data) : [];
+  const tours = toursData?.data ? transformDBToursToUITours(toursData.data, language) : [];
   const countries = countriesData ? countriesData.map(country => transformCountryForFilter(country, language)) : [];
   const cities = citiesData || []; // API already returns in correct format
 

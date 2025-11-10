@@ -1,30 +1,25 @@
 import { prisma } from '@/lib/prisma';
+import { Prisma } from '@prisma/client';
 
-export async function upsertCity(id: number, countryId: number) {
+export async function upsertCity(
+  id: number,
+  countryId: number,
+  translations?: Record<string, string> | null
+) {
   return prisma.city.upsert({
     where: { id },
-    update: { countryId },
-    create: { id, countryId },
-  });
-}
-
-export async function upsertCityTranslation(
-  cityId: number,
-  language: string,
-  name: string
-) {
-  return prisma.cityTranslation.upsert({
-    where: {
-      cityId_language: {
-        cityId,
-        language,
-      },
+    update: {
+      countryId,
+      ...(translations !== undefined && { 
+        translations: translations as Prisma.InputJsonValue 
+      }),
     },
-    update: { name },
     create: {
-      cityId,
-      language,
-      name,
+      id,
+      countryId,
+      ...(translations && { 
+        translations: translations as Prisma.InputJsonValue 
+      }),
     },
   });
 }
@@ -32,8 +27,7 @@ export async function upsertCityTranslation(
 export async function getAllCities(language: string = 'en') {
   return prisma.city.findMany({
     include: {
-      translations: { where: { language } },
-      country: true, // Country now has translations as JSON field
+      country: true, // Both City and Country now have translations as JSON fields
     },
     orderBy: { id: 'asc' },
   });
@@ -42,9 +36,6 @@ export async function getAllCities(language: string = 'en') {
 export async function getCitiesByCountry(countryId: number, language: string = 'en') {
   return prisma.city.findMany({
     where: { countryId },
-    include: {
-      translations: { where: { language } },
-    },
     orderBy: { id: 'asc' },
   });
 }
@@ -53,7 +44,6 @@ export async function getCityById(id: number, language: string = 'en') {
   return prisma.city.findUnique({
     where: { id },
     include: {
-      translations: { where: { language } },
       country: true, // Country now has translations as JSON field
     },
   });
