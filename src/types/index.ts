@@ -96,12 +96,14 @@ export interface Tour {
   duration: string;
   meetingPoint: MeetingPoint;
   includes: string[];
+  POIs?: POI[];
+  videoURL?: string | null;
   rating: number | null;
   reviewsNumber: number;
   bookingURL: string; // Language-specific URL
   isActive: boolean;
   createdAt?: Date;
-  
+
   // Keep full multilang data for language switching
   _multilang?: {
     title: MultiLangText;

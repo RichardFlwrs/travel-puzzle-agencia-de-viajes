@@ -1,0 +1,1 @@
+export { useToursFTData } from './useToursFTData';

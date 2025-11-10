@@ -6,6 +6,7 @@ import { prisma } from '@/lib/prisma';
 import { loginSchema } from '@/lib/validations/auth';
 
 export const authConfig: NextAuthConfig = {
+  trustHost: true, // Trust the host (fixes UntrustedHost error in development)
   providers: [
     Google({
       clientId: process.env.GOOGLE_CLIENT_ID,
@@ -71,7 +72,7 @@ export const authConfig: NextAuthConfig = {
               data: {
                 email: user.email,
                 name: userName,
-                password: null, // OAuth users don't have passwords
+                password: '', // OAuth users don't have passwords
                 role: 'CLIENT',
               },
             });

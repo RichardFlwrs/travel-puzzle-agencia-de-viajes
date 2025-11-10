@@ -13,6 +13,7 @@ import {
 } from '@/actions/tours';
 import type { TourFilters } from '@/lib/db/repositories/tour-repository';
 import type { PaginationParams } from '@/lib/db/pagination';
+import { Tour } from '@/types';
 
 // Query Keys Factory
 export const tourKeys = {
@@ -52,7 +53,7 @@ export function useTours(
  * Hook to fetch a single tour by ID
  */
 export function useTour(tourId: string, language: string = 'en') {
-  return useQuery({
+  return useQuery<Tour | null>({
     queryKey: tourKeys.detail(tourId),
     queryFn: () => fetchTourById(tourId, language),
     enabled: !!tourId,

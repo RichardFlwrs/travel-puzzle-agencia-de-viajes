@@ -13,6 +13,9 @@ import { useTour } from '@/lib/queries/tours';
 import { transformDBTourToUITour } from '@/lib/db/tour-transformer';
 import type { TourWithRelations } from '@/lib/db/repositories/tour-repository';
 import { MapPinIcon, ClockIcon, StarIcon, ShieldIcon, ChevronLeftIcon } from '@/assets/svg';
+import { useToursFTData } from '@/lib/api/hooks';
+import { useMemo } from 'react';
+import { Tour } from '@/types';
 
 export default function TourDetailPage() {
     const { id } = useParams();
@@ -21,10 +24,22 @@ export default function TourDetailPage() {
 
     const tourId = typeof id === 'string' ? id : id?.[0] || '';
 
-    const { data: tourData, isLoading, error } = useTour(tourId, language);
+    const { data: tourMockData, isLoading, error } = useTour(tourId, language);
+    const { data: tourFTData, isLoading: isLoadingFT, error: errorFT } = useToursFTData(tourMockData?.externalId ? tourMockData.externalId.toString() : null);
 
     // Transform DB tour to UI tour format
-    const tour = tourData ? transformDBTourToUITour(tourData as unknown as TourWithRelations) : null;
+    const tourDB = tourMockData ? transformDBTourToUITour(tourMockData as unknown as TourWithRelations) : null;
+
+    const tour = useMemo<Tour | null>(() => {
+        console.log('tourFTData', tourFTData);
+        if (tourDB) {
+            return tourDB;
+        }
+        if (tourFTData) {
+            return tourFTData;
+        }
+        return null;
+    }, [tourDB, tourFTData]);
 
     if (isLoading) {
         return (
