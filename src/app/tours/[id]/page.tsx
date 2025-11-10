@@ -62,8 +62,8 @@ export default function TourDetailPage() {
                         <p className="text-muted-foreground mb-6">
                             {tour ? 'Tour not found' : 'Failed to load tour details'}
                         </p>
-                        <Button onClick={() => router.push('/tours')}>
-                            {t('common.back')} to {t('tours.title')}
+                        <Button onClick={() => router.back()}>
+                            {t('common.back')} | {t('tours.title')}
                         </Button>
                     </div>
                 </div>
@@ -77,13 +77,14 @@ export default function TourDetailPage() {
 
             <div className="container mx-auto px-4 py-8">
                 {/* Back Button */}
-                <Link
-                    href="/tours"
+                <Button
+                    variant="outline"
+                    onClick={() => router.back()}
                     className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground mb-6 transition-colors"
                 >
                     <ChevronLeftIcon className="w-4 h-4" />
                     {t('common.back')} to {t('tours.title')}
-                </Link>
+                </Button>
 
                 {/* Hero Section with Image Carousel */}
                 <div className="relative w-full h-[400px] md:h-[500px] rounded-lg overflow-hidden mb-8">

@@ -39,13 +39,24 @@ export const tourKeys = {
  */
 export function useTours(
   filters: TourFilters = {},
-  pagination: PaginationParams = {}
+  pagination: PaginationParams = {},
+  options?: {
+    initialData?: any;
+    enabled?: boolean;
+  }
 ) {
   return useQuery({
     queryKey: tourKeys.list(filters, pagination),
     queryFn: () => fetchTours(filters, pagination),
-    placeholderData: keepPreviousData, // Keep previous data while fetching new page
+    // Don't use keepPreviousData - it causes stale data to show when filters change
+    // Instead, show loading state when filters change
+    placeholderData: undefined,
     staleTime: 5 * 60 * 1000, // 5 minutes
+    initialData: options?.initialData,
+    enabled: options?.enabled !== false, // Default to true if not specified
+    // Always refetch when query key changes (filters or pagination)
+    refetchOnMount: 'always',
+    refetchOnWindowFocus: false,
   });
 }
 

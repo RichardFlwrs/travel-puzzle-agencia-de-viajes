@@ -10,15 +10,15 @@ export async function upsertCity(
     where: { id },
     update: {
       countryId,
-      ...(translations !== undefined && { 
-        translations: translations as Prisma.InputJsonValue 
+      ...(translations !== undefined && {
+        translations: translations as Prisma.InputJsonValue
       }),
     },
     create: {
       id,
       countryId,
-      ...(translations && { 
-        translations: translations as Prisma.InputJsonValue 
+      ...(translations && {
+        translations: translations as Prisma.InputJsonValue
       }),
     },
   });
