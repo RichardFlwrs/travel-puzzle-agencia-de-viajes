@@ -33,7 +33,7 @@ export async function getAllCities(language: string = 'en') {
   return prisma.city.findMany({
     include: {
       translations: { where: { language } },
-      country: { include: { translations: { where: { language } } } },
+      country: true, // Country now has translations as JSON field
     },
     orderBy: { id: 'asc' },
   });
@@ -54,7 +54,7 @@ export async function getCityById(id: number, language: string = 'en') {
     where: { id },
     include: {
       translations: { where: { language } },
-      country: { include: { translations: { where: { language } } } },
+      country: true, // Country now has translations as JSON field
     },
   });
 }

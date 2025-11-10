@@ -1,3 +1,5 @@
+import { Prisma } from '@prisma/client';
+
 // User Types
 export type UserRole = 'CLIENT' | 'ADMIN';
 
@@ -146,6 +148,7 @@ export interface SessionUser {
 }
 
 // Location Types with Translations
+// Keep CountryTranslation for backward compatibility (may be used in other contexts)
 export interface CountryTranslation {
   id: string;
   countryId: number;
@@ -156,7 +159,7 @@ export interface CountryTranslation {
 export interface CountryWithTranslations {
   id: number;
   code: string;
-  translations: CountryTranslation[];
+  translations: Record<string, string> | null; // JSON format: { "en": "Hungary", "es": "Hungría", ... }
   _count: {
     tours: number;
   };

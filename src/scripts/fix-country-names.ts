@@ -3,6 +3,7 @@ import path from 'path';
 import { prisma } from '@/lib/prisma';
 import { freeTourClient, FreeTourCountry } from '@/lib/api/freetour-client';
 import { SupportedLanguage } from '@/types';
+import { upsertCountry } from '@/lib/db/repositories/country-repository';
 
 // Load environment variables from .env.local
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
@@ -21,11 +22,7 @@ async function fixCountryNames() {
   console.log(`✅ Loaded ${countriesMap.size} countries from API\n`);
 
   // Get all countries from database
-  const dbCountries = await prisma.country.findMany({
-    include: {
-      translations: true,
-    },
-  });
+  const dbCountries = await prisma.country.findMany();
 
   let updatedCount = 0;
   let skippedCount = 0;
@@ -39,38 +36,18 @@ async function fixCountryNames() {
       continue;
     }
 
-    // Update country code if needed
-    const correctCode = countryInfo.shortTitle?.toUpperCase() || country.code;
-    if (country.code !== correctCode) {
-      await prisma.country.update({
-        where: { id: country.id },
-        data: { code: correctCode },
-      });
-    }
-
-    // Update all translations
+    // Build translations object from API data
+    const translations: Record<string, string> = {};
     for (const lang of SUPPORTED_LANGUAGES) {
       const correctName = countryInfo.title[lang];
-      
-      if (!correctName) continue;
-      
-      await prisma.countryTranslation.upsert({
-        where: {
-          countryId_language: {
-            countryId: country.id,
-            language: lang,
-          },
-        },
-        update: {
-          name: correctName,
-        },
-        create: {
-          countryId: country.id,
-          language: lang,
-          name: correctName,
-        },
-      });
+      if (correctName) {
+        translations[lang] = correctName;
+      }
     }
+
+    // Update country code and translations
+    const correctCode = countryInfo.shortTitle?.toUpperCase() || country.code;
+    await upsertCountry(country.id, correctCode, translations);
 
     console.log(`  ✅ Updated country ID ${country.id}: ${countryInfo.title.en}`);
     updatedCount++;

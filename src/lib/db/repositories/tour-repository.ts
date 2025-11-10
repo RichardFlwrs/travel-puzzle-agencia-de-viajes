@@ -6,7 +6,7 @@ export type TourWithRelations = Prisma.TourGetPayload<{
   include: {
     translations: true;
     city: { include: { translations: true } };
-    country: { include: { translations: true } };
+    country: true; // Country now has translations as JSON field
   };
 }>;
 
@@ -63,7 +63,7 @@ export async function getToursWithFilters(
   const include = {
     translations: { where: { language } },
     city: { include: { translations: { where: { language } } } },
-    country: { include: { translations: { where: { language } } } },
+    country: true, // Country now has translations as JSON field
   };
 
   // Order by mapping
@@ -92,7 +92,7 @@ export async function getTourById(tourId: string, language: string = 'en') {
     include: {
       translations: { where: { language } },
       city: { include: { translations: { where: { language } } } },
-      country: { include: { translations: { where: { language } } } },
+      country: true, // Country now has translations as JSON field
     },
   });
 }
@@ -104,7 +104,7 @@ export async function getTourByExternalId(externalId: number, language: string =
     include: {
       translations: { where: { language } },
       city: { include: { translations: { where: { language } } } },
-      country: { include: { translations: { where: { language } } } },
+      country: true, // Country now has translations as JSON field
     },
   });
 }
@@ -113,8 +113,10 @@ export async function getTourByExternalId(externalId: number, language: string =
 export async function getCountriesWithTourCount(language: string = 'en') {
   return prisma.country.findMany({
     where: { tours: { some: { isActive: true } } },
-    include: {
-      translations: { where: { language } },
+    select: {
+      id: true,
+      code: true,
+      translations: true,
       _count: { select: { tours: { where: { isActive: true } } } },
     },
     orderBy: { id: 'asc' },

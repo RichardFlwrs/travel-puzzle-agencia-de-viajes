@@ -22,9 +22,9 @@ export function SearchFormPill() {
     const getCountriesPromise = useMemo(() => {
         return async (): Promise<CountryFilter[]> => {
             if (!countriesData) return [];
-            return countriesData.map(transformCountryForFilter);
+            return countriesData.map(country => transformCountryForFilter(country, language));
         };
-    }, [countriesData]);
+    }, [countriesData, language]);
 
     const handleCountrySelect = (country: CountryFilter) => {
         console.log('Selected country:', country);

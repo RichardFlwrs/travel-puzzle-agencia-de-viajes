@@ -34,7 +34,7 @@ export default function ToursPage() {
 
   // Transform data for UI
   const tours = toursData?.data ? transformDBToursToUITours(toursData.data) : [];
-  const countries = countriesData ? countriesData.map(transformCountryForFilter) : [];
+  const countries = countriesData ? countriesData.map(country => transformCountryForFilter(country, language)) : [];
   const cities = citiesData || []; // API already returns in correct format
 
   const handleFilterChange = (newFilters: Partial<TourFilters>) => {
@@ -42,10 +42,6 @@ export default function ToursPage() {
     // Reset to page 1 when filters change
     setPagination(prev => ({ ...prev, page: 1 }));
   };
-
-  useEffect(() => {
-    console.log('tours', tours);
-  }, [tours]);
 
   const isLoading = isLoadingTours || isLoadingCountries || isLoadingCities;
 

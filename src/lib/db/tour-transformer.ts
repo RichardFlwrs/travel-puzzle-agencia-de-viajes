@@ -63,11 +63,14 @@ export function transformDBToursToUITours(dbTours: TourWithRelations[]): Tour[] 
 /**
  * Transform country from DB to UI format for filters
  */
-export function transformCountryForFilter(country: CountryWithTranslations) {
-  const translation = country.translations[0];
+export function transformCountryForFilter(country: CountryWithTranslations, language: string = 'en') {
+  // Extract name from JSON translations object
+  const translations = country.translations as Record<string, string> | null;
+  const name = translations?.[language] || translations?.en || `Country ${country.id}`;
+  
   return {
     id: country.id,
-    name: translation?.name || `Country ${country.id}`,
+    name,
     count: country._count?.tours || 0,
   };
 }

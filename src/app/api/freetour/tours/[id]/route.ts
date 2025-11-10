@@ -24,7 +24,7 @@ export async function GET(
   } catch (error) {
     console.error('FreeTour API proxy error:', error);
     return NextResponse.json(
-      { 
+      {
         error: 'Failed to fetch tour from FreeTour API',
         details: error instanceof Error ? error.message : 'Unknown error'
       },

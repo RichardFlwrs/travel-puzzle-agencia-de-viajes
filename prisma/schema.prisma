@@ -26,22 +26,11 @@ model User {
 
 // Country Model
 model Country {
-  id           Int                   @id
-  code         String                @unique @db.VarChar(10)
+  id           Int      @id
+  code         String   @unique @db.VarChar(10)
+  translations Json?    // Store translations as JSON: { "en": "Hungary", "es": "Hungría", ... }
   cities       City[]
   tours        Tour[]
-  translations CountryTranslation[]
-}
-
-model CountryTranslation {
-  id        String  @id @default(cuid())
-  countryId Int
-  language  String  @db.VarChar(2)
-  name      String  @db.VarChar(255)
-  country   Country @relation(fields: [countryId], references: [id], onDelete: Cascade)
-
-  @@unique([countryId, language])
-  @@index([language])
 }
 
 // City Model

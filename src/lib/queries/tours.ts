@@ -13,7 +13,7 @@ import {
 } from '@/actions/tours';
 import type { TourFilters } from '@/lib/db/repositories/tour-repository';
 import type { PaginationParams } from '@/lib/db/pagination';
-import { Tour } from '@/types';
+import { Tour, CountryWithTranslations } from '@/types';
 
 // Query Keys Factory
 export const tourKeys = {
@@ -77,7 +77,7 @@ export function useTourByExternalId(externalId: number, language: string = 'en')
  * Hook to fetch countries for filters
  */
 export function useCountries(language: string = 'en') {
-  return useQuery({
+  return useQuery<CountryWithTranslations[]>({
     queryKey: tourKeys.countriesWithLang(language),
     queryFn: () => fetchCountries(language),
     staleTime: 30 * 60 * 1000, // 30 minutes - countries don't change often

@@ -1,7 +1,7 @@
 import { freeTourClient, FreeTourCountry, FreeTourCity } from '@/lib/api/freetour-client';
 import { prisma } from '@/lib/prisma';
 import { TourAPI, SupportedLanguage } from '@/types';
-import { upsertCountry, upsertCountryTranslation } from '../repositories/country-repository';
+import { upsertCountry } from '../repositories/country-repository';
 import { upsertCity, upsertCityTranslation } from '../repositories/city-repository';
 import { Prisma } from '@prisma/client';
 
@@ -234,14 +234,17 @@ async function syncCountries(tours: TourAPI[], countryIds: number[]) {
     const countryInfo = countriesData.get(countryId);
     const countryCode = countryInfo?.shortTitle?.toUpperCase() || `C${countryId}`;
     
-    // Upsert country with proper code
-    await upsertCountry(countryId, countryCode);
-
-    // Use real country names from API
+    // Build translations object from API data
+    const translations: Record<string, string> = {};
     for (const lang of SUPPORTED_LANGUAGES) {
-      const countryName = countryInfo?.title[lang] || `Country ${countryId}`;
-      await upsertCountryTranslation(countryId, lang, countryName);
+      const countryName = countryInfo?.title[lang];
+      if (countryName) {
+        translations[lang] = countryName;
+      }
     }
+    
+    // Upsert country with code and translations
+    await upsertCountry(countryId, countryCode, translations);
   }
 }
 
