@@ -11,7 +11,7 @@ export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElemen
 const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
   ({ className, variant = "primary", size = "md", isLoading, pill = false, children, disabled, ...props }, ref) => {
     // Using Travel Puzzle design system classes
-    const baseStyles = "inline-flex items-center justify-center font-medium tp-transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50";
+    const baseStyles = "inline-flex items-center justify-center font-medium tp-transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 cursor-pointer";
 
     const variants = {
       // Primary Blue Button (Main CTAs)

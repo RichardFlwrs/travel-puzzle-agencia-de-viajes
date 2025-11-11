@@ -22,7 +22,8 @@ export const tourKeys = {
   list: (filters: TourFilters, pagination: PaginationParams) =>
     [...tourKeys.lists(), { filters, pagination }] as const,
   details: () => [...tourKeys.all, 'detail'] as const,
-  detail: (id: string) => [...tourKeys.details(), id] as const,
+  detail: (id: string, language?: string) => 
+    [...tourKeys.details(), id, language || 'en'] as const,
   detailByExternalId: (externalId: number) => [...tourKeys.details(), 'external', externalId] as const,
   metadata: () => [...tourKeys.all, 'metadata'] as const,
   countries: () => ['countries'] as const,
@@ -63,12 +64,19 @@ export function useTours(
 /**
  * Hook to fetch a single tour by ID
  */
-export function useTour(tourId: string, language: string = 'en') {
+export function useTour(
+  tourId: string,
+  language: string = 'en',
+  options?: {
+    initialData?: any;
+  }
+) {
   return useQuery<Tour | null>({
-    queryKey: tourKeys.detail(tourId),
+    queryKey: tourKeys.detail(tourId, language),
     queryFn: () => fetchTourById(tourId, language),
     enabled: !!tourId,
     staleTime: 10 * 60 * 1000, // 10 minutes
+    initialData: options?.initialData,
   });
 }
 
