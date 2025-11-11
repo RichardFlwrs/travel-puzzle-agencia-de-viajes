@@ -78,8 +78,16 @@ export function SearchDropdown<T>({
     };
   }, [isOpen]);
 
+  // Sync controlled value to internal state when it changes externally
+  useEffect(() => {
+    if (controlledValue !== undefined) {
+      setSearchValue(controlledValue);
+    }
+  }, [controlledValue]);
+
   // Handle controlled vs uncontrolled value
-  const displayValue = controlledValue !== undefined ? controlledValue : searchValue;
+  // Use searchValue for display to allow typing, but sync with controlledValue when it changes
+  const displayValue = searchValue;
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const newValue = e.target.value;
@@ -104,13 +112,31 @@ export function SearchDropdown<T>({
     setIsOpen(false);
   };
 
-  // Filter items based on search value
+  // Helper function to remove accents from a string
+  const removeAccents = (str: string): string => {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  };
+
+  // Filter items based on search value using RegExp with accent-insensitive matching
   const filteredItems = filterFunction
     ? filterFunction(items, searchValue)
-    : items.filter((item) => {
-        const label = getItemLabel(item).toLowerCase();
-        return label.includes(searchValue.toLowerCase());
-      });
+    : (() => {
+        if (!searchValue.trim()) {
+          return items;
+        }
+        
+        // Normalize search value (remove accents and convert to lowercase)
+        const normalizedSearch = removeAccents(searchValue.toLowerCase());
+        // Escape special regex characters and create a pattern
+        const escapedSearch = normalizedSearch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const searchRegex = new RegExp(escapedSearch, 'i');
+        
+        return items.filter((item) => {
+          const label = getItemLabel(item);
+          const normalizedLabel = removeAccents(label);
+          return searchRegex.test(normalizedLabel);
+        });
+      })();
 
   const isReallyLoading = externalLoading !== undefined ? externalLoading : isLoading;
 

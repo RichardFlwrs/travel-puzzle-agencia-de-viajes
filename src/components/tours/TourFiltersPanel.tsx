@@ -4,6 +4,7 @@ import { TourFilters } from '@/lib/utils/tour-search';
 import { Input } from '@/components/ui/Input';
 import { Button } from '@/components/ui/Button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/Card';
+import { SearchDropdown } from '@/components/forms/SearchDropdown';
 
 interface TourFiltersPanelProps {
   filters: TourFilters;
@@ -26,13 +27,16 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
     onFilterChange({ search: e.target.value });
   };
 
-  const handleCountryChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    const value = e.target.value;
+  const handleCountryChange = (country: { id: number; name: string } | null) => {
     onFilterChange({
-      countryId: value ? parseInt(value) : undefined,
+      countryId: country?.id,
       cityId: undefined, // Reset city when country changes
     });
   };
+
+  // Get selected country name for display
+  const selectedCountry = countries.find(c => c.id === filters.countryId);
+  const selectedCountryName = selectedCountry?.name || '';
 
   const handleCityChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const value = e.target.value;
@@ -82,18 +86,23 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
           <label className="block text-sm font-medium mb-2">
             {t('tours.filters.country')}
           </label>
-          <select
-            className="w-full px-3 py-2 border border-border rounded-md bg-background"
-            value={filters.countryId || ''}
-            onChange={handleCountryChange}
-          >
-            <option value="">{t('tours.filters.allCountries')}</option>
-            {countries.map(country => (
-              <option key={country.id} value={country.id}>
-                {country.name}
-              </option>
-            ))}
-          </select>
+          <SearchDropdown
+            placeholder={t('tours.filters.allCountries')}
+            value={selectedCountryName || undefined}
+            onValueChange={(value) => {
+              // Clear filter when input is cleared
+              if (!value && filters.countryId) {
+                handleCountryChange(null);
+              }
+            }}
+            onSelect={(country) => handleCountryChange(country)}
+            dataPromise={async () => countries}
+            renderItem={(country) => (
+              <span>{country.name}</span>
+            )}
+            getItemLabel={(country) => country.name}
+            className="w-full"
+          />
         </div>
 
         {/* City */}
