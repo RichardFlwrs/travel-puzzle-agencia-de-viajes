@@ -45,7 +45,7 @@ export async function getToursWithFilters(
             translations: {
               some: {
                 language,
-                [field]: { contains: pagination.searchValue, mode: 'insensitive' as const },
+                [field]: { contains: pagination.searchValue },
               },
             },
           };
