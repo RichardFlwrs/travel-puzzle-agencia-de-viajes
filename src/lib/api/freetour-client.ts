@@ -70,6 +70,18 @@ interface FreeTourCitiesResponse {
   status: number;
 }
 
+export interface TourEvent {
+  id: number;
+  tourId: number;
+  language: string;
+  date: string; // Format: "YYYY-MM-DD HH:mm:ss"
+}
+
+interface FreeTourEventsResponse {
+  data: TourEvent[];
+  status: number;
+}
+
 export class FreeTourClient {
   private baseURL = 'https://www.freetour.com/partnersAPI/v.2.0';
   private accessToken: string | null = null;
@@ -130,7 +142,9 @@ export class FreeTourClient {
     });
 
     if (!response.ok) {
-      throw new Error(`FreeTour tour fetch failed: ${response.statusText}`);
+      const error = new Error(`FreeTour tour fetch failed: ${response.statusText}`);
+      (error as any).status = response.status;
+      throw error;
     }
 
     return response.json();
@@ -165,6 +179,25 @@ export class FreeTourClient {
 
     if (!response.ok) {
       throw new Error(`FreeTour cities fetch failed: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+
+  async fetchEventsByTourId(tourId: string | number): Promise<FreeTourEventsResponse> {
+    await this.ensureAuthenticated();
+
+    const response = await fetch(`${this.baseURL}/tours/${tourId}/events`, {
+      headers: {
+        'Authorization': `Bearer ${this.accessToken}`,
+        'Content-Type': 'application/json',
+      },
+    });
+
+    if (!response.ok) {
+      const error = new Error(`FreeTour events fetch failed: ${response.statusText}`);
+      (error as any).status = response.status;
+      throw error;
     }
 
     return response.json();

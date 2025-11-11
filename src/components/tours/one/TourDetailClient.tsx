@@ -8,7 +8,7 @@ import { ChevronLeftIcon } from '@/assets/svg';
 import { useTour } from '@/lib/queries/tours';
 import { transformDBTourToUITour } from '@/lib/db/tour-transformer';
 import { useToursFTData } from '@/lib/api/hooks';
-import { useMemo } from 'react';
+import { useEffect, useMemo } from 'react';
 import { Tour, SupportedLanguage } from '@/types';
 import type { TourWithRelations } from '@/lib/db/repositories/tour-repository';
 import { TourErrorState } from './TourErrorState';
@@ -17,6 +17,7 @@ import { TourDescription } from './TourDescription';
 import { TourIncludes } from './TourIncludes';
 import { TourMeetingPoint } from './TourMeetingPoint';
 import { TourSidebar } from './TourSidebar';
+import { useEventsByTourFTData } from '@/lib/api/hooks/useEventsByTourFTData';
 
 interface TourDetailClientProps {
     tourId: string;
@@ -65,6 +66,8 @@ export function TourDetailClient({
         }
         return null;
     }, [tourDB, tourFTData, initialTour, language, initialLanguage]);
+
+    const { data: eventsFTData, isLoading: isLoadingEvents } = useEventsByTourFTData(tour?.externalId?.toString() || null);
 
     if (isLoading && !tour) {
         return (
@@ -119,7 +122,11 @@ export function TourDetailClient({
 
                     {/* Sidebar */}
                     <div className="lg:col-span-1">
-                        <TourSidebar tour={tour} />
+                        <TourSidebar 
+                            tour={tour} 
+                            events={eventsFTData || []} 
+                            isLoadingEvents={isLoadingEvents}
+                        />
                     </div>
                 </div>
             </div>

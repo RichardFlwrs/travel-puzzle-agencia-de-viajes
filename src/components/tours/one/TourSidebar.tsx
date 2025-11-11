@@ -1,16 +1,21 @@
 'use client';
 
 import { useLanguage } from '@/lib/language-context';
-import { Card, CardContent } from '@/components/ui/Card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
 import { ClockIcon, MapPinIcon, ShieldIcon, StarIcon } from '@/assets/svg';
 import { Tour } from '@/types';
+import { TourEvent } from '@/lib/api/freetour-client';
+import { TourAvailabilityCalendar } from './TourAvailabilityCalendar';
+import { TourAvailabilityCalendarSkeleton } from './TourAvailabilityCalendarSkeleton';
 
 interface TourSidebarProps {
     tour: Tour;
+    events?: TourEvent[];
+    isLoadingEvents?: boolean;
 }
 
-export function TourSidebar({ tour }: TourSidebarProps) {
+export function TourSidebar({ tour, events = [], isLoadingEvents = false }: TourSidebarProps) {
     const { t } = useLanguage();
 
     const handleBooking = () => {
@@ -50,6 +55,30 @@ export function TourSidebar({ tour }: TourSidebarProps) {
                 >
                     {t('tours.bookNow')}
                 </Button>
+
+                {/* Availability Calendar */}
+                {tour.externalId && (
+                    <div className="mb-6 border-t pt-6">
+                        <Card>
+                            <CardHeader>
+                                <CardTitle className="text-lg">
+                                    {t('tours.availability')}
+                                </CardTitle>
+                            </CardHeader>
+                            <CardContent className="p-4">
+                                {isLoadingEvents ? (
+                                    <TourAvailabilityCalendarSkeleton />
+                                ) : events.length > 0 ? (
+                                    <TourAvailabilityCalendar events={events} />
+                                ) : (
+                                    <div className="text-center py-8 text-muted-foreground">
+                                        {t('tours.noAvailability')}
+                                    </div>
+                                )}
+                            </CardContent>
+                        </Card>
+                    </div>
+                )}
 
                 {/* Tour Details */}
                 <div className="space-y-4 border-t pt-6">

@@ -117,11 +117,11 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
             disabled={!filters.countryId || isLoadingCities}
           >
             <option value="">
-              {!filters.countryId 
+              {!filters.countryId
                 ? t('tours.filters.selectCountryFirst')
                 : isLoadingCities
-                ? t('tours.filters.loadingCities')
-                : t('tours.filters.allCities')
+                  ? t('tours.filters.loadingCities')
+                  : t('tours.filters.allCities')
               }
             </option>
             {cities.map(city => (

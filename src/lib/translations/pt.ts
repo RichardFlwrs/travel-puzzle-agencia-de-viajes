@@ -74,6 +74,8 @@ export const pt = {
   'tours.description': 'Descrição',
   'tours.destination': 'Destino',
   'tours.provider': 'Provedor',
+  'tours.availability': 'Disponibilidade e Idioma',
+  'tours.noAvailability': 'Não há disponibilidade no momento',
   'tours.filters.title': 'Filtros',
   'tours.filters.search': 'Procurar',
   'tours.filters.searchPlaceholder': 'Procurar tours...',
