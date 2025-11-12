@@ -47,14 +47,14 @@ export function TourSidebar({ tour, events = [], isLoadingEvents = false }: Tour
                 </div>
 
                 {/* Booking Button */}
-                <Button
+                {events.length > 0 && <Button
                     variant="accent"
                     size="lg"
                     className="w-full mb-6"
                     onClick={handleBooking}
                 >
                     {t('tours.bookNow')}
-                </Button>
+                </Button>}
 
                 {/* Availability Calendar */}
                 {tour.externalId && (

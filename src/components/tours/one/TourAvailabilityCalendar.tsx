@@ -196,10 +196,16 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
                     const isSelected = selectedDate === dateInfo.fullDate;
                     const hasEvents = dateInfo.hasEvents;
 
+                    const handleDateClick = () => {
+                        if (hasEvents) {
+                            setSelectedDate(dateInfo.fullDate);
+                        }
+                    };
+
                     return (
                         <button
                             key={index}
-                            onClick={() => hasEvents && setSelectedDate(dateInfo.fullDate)}
+                            onClick={handleDateClick}
                             disabled={!hasEvents}
                             className={`
                                 aspect-square rounded-full text-sm font-medium transition-all
@@ -242,6 +248,7 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
                                     {langEvents.map((event, idx) => (
                                         <button
                                             key={event.id}
+                                            onClick={() => console.log('Event ID:', event.id)}
                                             className="px-3 py-1.5 bg-muted rounded-full text-sm font-medium hover:bg-tp-blue-primary/10 transition-colors"
                                         >
                                             {formatTime(event.date)}
