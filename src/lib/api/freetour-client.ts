@@ -336,7 +336,7 @@ export class FreeTourClient {
       throw new Error('FreeTour authentication failed: No access token available');
     }
 
-    const response = await fetch(`${this.baseURL}/events/${eventId}`, {
+    const response = await fetch(`${this.baseURL}/event/${eventId}`, {
       headers: {
         'Authorization': `Bearer ${this.accessToken}`,
         'Content-Type': 'application/json',
@@ -356,7 +356,7 @@ export class FreeTourClient {
         }
 
         // Retry the request once
-        const retryResponse = await fetch(`${this.baseURL}/events/${eventId}`, {
+        const retryResponse = await fetch(`${this.baseURL}/event/${eventId}`, {
           headers: {
             'Authorization': `Bearer ${this.accessToken}`,
             'Content-Type': 'application/json',
