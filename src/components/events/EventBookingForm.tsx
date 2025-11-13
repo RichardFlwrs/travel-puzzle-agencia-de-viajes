@@ -2,6 +2,8 @@
 
 import { Input } from '@/components/ui/Input';
 import { Button } from '@/components/ui/Button';
+import { useLanguage } from '@/lib/language-context';
+import { CalendarAvailabilityService } from '@/lib/services/calendar/CalendarAvailabilityService';
 import { PeopleSelector } from './PeopleSelector';
 
 interface EventDetailData {
@@ -32,26 +34,6 @@ interface EventBookingFormProps {
   onSubmit: (e: React.FormEvent) => void;
 }
 
-// Format date for display
-const formatDateDisplay = (dateStr: string): string => {
-  const date = new Date(dateStr + 'T00:00:00');
-  const MONTHS = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December',
-  ];
-  return `${MONTHS[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`;
-};
-
 export function EventBookingForm({
   language,
   languageDisplayName,
@@ -69,6 +51,9 @@ export function EventBookingForm({
   error,
   onSubmit,
 }: EventBookingFormProps) {
+  // Get the current language from context (reads from localStorage)
+  const { language: currentLanguage } = useLanguage();
+
   return (
     <div className="bg-gray-50 p-6 rounded-lg border-2 border-orange-500">
       {error && (
@@ -95,7 +80,7 @@ export function EventBookingForm({
             <label className="block text-sm font-medium mb-2">Fecha del tour</label>
             <div className="flex items-center gap-2 px-4 py-2 bg-white border border-gray-300 rounded-md">
               <span>📅</span>
-              <span>{formatDateDisplay(date)}</span>
+              <span className='capitalize'>{CalendarAvailabilityService.formatDateDisplay(date, currentLanguage)}</span>
             </div>
           </div>
 
