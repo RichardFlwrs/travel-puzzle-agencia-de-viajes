@@ -69,7 +69,7 @@ export function TourSidebar({ tour, events = [], isLoadingEvents = false }: Tour
                                 {isLoadingEvents ? (
                                     <TourAvailabilityCalendarSkeleton />
                                 ) : events.length > 0 ? (
-                                    <TourAvailabilityCalendar events={events} />
+                                    <TourAvailabilityCalendar events={events} tourId={tour.id} />
                                 ) : (
                                     <div className="text-center py-8 text-muted-foreground">
                                         {t('tours.noAvailability')}

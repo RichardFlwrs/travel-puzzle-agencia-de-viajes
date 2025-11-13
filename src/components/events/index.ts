@@ -1,0 +1,2 @@
+export { EventDetailClient } from './EventDetailClient';
+

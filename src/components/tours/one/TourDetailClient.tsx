@@ -122,9 +122,9 @@ export function TourDetailClient({
 
                     {/* Sidebar */}
                     <div className="lg:col-span-1">
-                        <TourSidebar 
-                            tour={tour} 
-                            events={eventsFTData || []} 
+                        <TourSidebar
+                            tour={tour}
+                            events={eventsFTData || []}
                             isLoadingEvents={isLoadingEvents}
                         />
                     </div>

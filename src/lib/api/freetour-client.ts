@@ -1,4 +1,5 @@
 import { TourAPI } from '@/types';
+import { IzFTEventDetail } from './schemas/FTEvent.Schema';
 
 interface FreeTourAuthResponse {
   data: {
@@ -82,6 +83,11 @@ interface FreeTourEventsResponse {
   status: number;
 }
 
+export interface FreeTourEventDetailResponse {
+  data: IzFTEventDetail;
+  status: number;
+}
+
 export class FreeTourClient {
   private baseURL = 'https://www.freetour.com/partnersAPI/v.2.0';
   private accessToken: string | null = null;
@@ -118,11 +124,11 @@ export class FreeTourClient {
     const data: FreeTourAuthResponse = await response.json();
     this.accessToken = data.data.token.accessToken;
     this.tokenExpiresAt = new Date(data.data.token.expiresAt);
-    
+
     // Add a 5-minute buffer before expiration to avoid edge cases
     const bufferTime = 5 * 60 * 1000; // 5 minutes in milliseconds
     this.tokenExpiresAt = new Date(this.tokenExpiresAt.getTime() - bufferTime);
-    
+
     console.log('[FreeTourClient] Authentication successful. Token expires at:', this.tokenExpiresAt);
   }
 
@@ -200,7 +206,7 @@ export class FreeTourClient {
         this.accessToken = null;
         this.tokenExpiresAt = null;
         await this.ensureAuthenticated();
-        
+
         if (!this.accessToken) {
           throw new Error('FreeTour authentication failed after retry: No access token available');
         }
@@ -293,7 +299,7 @@ export class FreeTourClient {
         this.accessToken = null;
         this.tokenExpiresAt = null;
         await this.ensureAuthenticated();
-        
+
         if (!this.accessToken) {
           throw new Error('FreeTour authentication failed after retry: No access token available');
         }
@@ -321,6 +327,59 @@ export class FreeTourClient {
     }
 
     return response.json();
+  }
+
+  async fetchEventDetailById(eventId: string | number): Promise<FreeTourEventDetailResponse> {
+    await this.ensureAuthenticated();
+
+    if (!this.accessToken) {
+      throw new Error('FreeTour authentication failed: No access token available');
+    }
+
+    const response = await fetch(`${this.baseURL}/events/${eventId}`, {
+      headers: {
+        'Authorization': `Bearer ${this.accessToken}`,
+        'Content-Type': 'application/json',
+      },
+    });
+
+    if (!response.ok) {
+      // If we get a 401, try to re-authenticate once
+      if (response.status === 401) {
+        console.log('[FreeTourClient] Received 401, re-authenticating...');
+        this.accessToken = null;
+        this.tokenExpiresAt = null;
+        await this.ensureAuthenticated();
+
+        if (!this.accessToken) {
+          throw new Error('FreeTour authentication failed after retry: No access token available');
+        }
+
+        // Retry the request once
+        const retryResponse = await fetch(`${this.baseURL}/events/${eventId}`, {
+          headers: {
+            'Authorization': `Bearer ${this.accessToken}`,
+            'Content-Type': 'application/json',
+          },
+        });
+
+        if (!retryResponse.ok) {
+          const error = new Error(`FreeTour event detail fetch failed: ${retryResponse.statusText}`);
+          (error as any).status = retryResponse.status;
+          throw error;
+        }
+
+        const retryData = await retryResponse.json();
+        return retryData;
+      }
+
+      const error = new Error(`FreeTour event detail fetch failed: ${response.statusText}`);
+      (error as any).status = response.status;
+      throw error;
+    }
+
+    const data = await response.json();
+    return data;
   }
 
   async fetchAllTours(maxPages?: number): Promise<TourAPI[]> {

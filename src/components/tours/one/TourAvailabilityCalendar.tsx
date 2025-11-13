@@ -1,13 +1,18 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
+import { useRouter } from 'next/navigation';
 import { useLanguage } from '@/lib/language-context';
 import { ChevronLeftIcon, ChevronRightIcon, ClockIcon } from '@/assets/svg';
 import { TourEvent } from '@/lib/api/freetour-client';
 import { EventsService } from '@/lib/services/events-service';
+import { useStoreSelectedDatesLS } from './hooks/useStoreSelectedDatesLS';
+import { LS_KEYS } from '@/globals';
+import { ILSSelectedDate } from '@/types/ILocalStorageTypes';
 
 interface TourAvailabilityCalendarProps {
     events: TourEvent[];
+    tourId: string;
 }
 
 const DAYS_OF_WEEK = ['Lu', 'Ma', 'Mi', 'Ju', 'Vi', 'Sá', 'Do'];
@@ -34,10 +39,15 @@ const LANGUAGE_NAMES: Record<string, string> = {
     'Italian': 'Italiano',
 };
 
-export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarProps) {
+export function TourAvailabilityCalendar({ events, tourId }: TourAvailabilityCalendarProps) {
+    const router = useRouter();
     const { t, language } = useLanguage();
     const [selectedDate, setSelectedDate] = useState<string | null>(null);
     const [currentMonth, setCurrentMonth] = useState(new Date());
+    const hasLoadedFromLS = useRef(false);
+    const loadedDateFromLS = useRef(false);
+    const isUserInteraction = useRef(false);
+    const isInitialized = useRef(false);
 
     // Group events by date
     const eventsByDate = useMemo(() => {
@@ -49,6 +59,41 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
         return Object.keys(eventsByDate).sort();
     }, [eventsByDate]);
 
+    // Reset flags when tourId changes
+    useEffect(() => {
+        hasLoadedFromLS.current = false;
+        loadedDateFromLS.current = false;
+        isUserInteraction.current = false;
+        isInitialized.current = false;
+    }, [tourId]);
+
+    // Load selected date from localStorage on mount (after availableDates is ready)
+    useEffect(() => {
+        // Only load once when availableDates is ready and we haven't loaded yet
+        if (availableDates.length > 0 && !hasLoadedFromLS.current) {
+            try {
+                const stored = localStorage.getItem(LS_KEYS.selectedDates);
+                if (stored) {
+                    const parsed: ILSSelectedDate | null = JSON.parse(stored);
+                    // Only use stored date if it matches the current tourId, is not null, and exists in available dates
+                    if (parsed && parsed.tourId === tourId && parsed.date && availableDates.includes(parsed.date)) {
+                        // Set both state updates together to ensure they're in sync
+                        const dateObj = new Date(parsed.date + 'T00:00:00');
+                        setCurrentMonth(dateObj);
+                        setSelectedDate(parsed.date);
+                        loadedDateFromLS.current = true;
+                        // Mark as initialized since we loaded a date
+                        isInitialized.current = true;
+                    }
+                }
+            } catch (error) {
+                console.error('Error loading selected date from localStorage:', error);
+            }
+            // Mark as attempted even if no valid date was found
+            hasLoadedFromLS.current = true;
+        }
+    }, [tourId, availableDates]);
+
     // Get dates for current month view (full calendar grid)
     const monthDates = useMemo(() => {
         const year = currentMonth.getFullYear();
@@ -57,12 +102,12 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
         const lastDay = new Date(year, month + 1, 0);
         const daysInMonth = lastDay.getDate();
         const startDayOfWeek = firstDay.getDay();
-        
+
         // Adjust start day (Monday = 0, Sunday = 6)
         const adjustedStartDay = startDayOfWeek === 0 ? 6 : startDayOfWeek - 1;
 
         const dates: Array<{ date: number; fullDate: string; hasEvents: boolean }> = [];
-        
+
         // Add empty cells for days before month starts
         for (let i = 0; i < adjustedStartDay; i++) {
             dates.push({ date: 0, fullDate: '', hasEvents: false });
@@ -117,7 +162,7 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
         today.setHours(0, 0, 0, 0);
         const dateOnly = new Date(date);
         dateOnly.setHours(0, 0, 0, 0);
-        
+
         if (dateOnly.getTime() === today.getTime()) {
             return `Hoy, ${date.getDate()} ${MONTHS[date.getMonth()]} ${date.getFullYear()}`;
         }
@@ -137,12 +182,26 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
         });
     };
 
-    // Auto-select first available date if none selected
+    // Auto-select first available date if none selected (only after localStorage load attempt)
+    // Only run if we didn't load a date from localStorage
     useEffect(() => {
-        if (!selectedDate && availableDates.length > 0) {
+        // Only auto-select if we've attempted to load from LS, no date is selected, we didn't load from LS, and dates are available
+        if (hasLoadedFromLS.current && !selectedDate && !loadedDateFromLS.current && availableDates.length > 0) {
             setSelectedDate(availableDates[0]);
+            // Mark as initialized after auto-select
+            isInitialized.current = true;
+        } else if (hasLoadedFromLS.current && selectedDate && !isInitialized.current) {
+            // Mark as initialized if we have a date but haven't initialized yet (shouldn't happen, but safety check)
+            isInitialized.current = true;
         }
     }, [availableDates, selectedDate]);
+
+    // Store selected date in localStorage when it changes (only after initialization and user interaction)
+    // Don't save auto-selected dates on initial mount
+    const selectedDateForLS: ILSSelectedDate | null = selectedDate && isInitialized.current && isUserInteraction.current
+        ? { date: selectedDate, tourId }
+        : null;
+    useStoreSelectedDatesLS(selectedDateForLS);
 
     const currentMonthName = MONTHS[currentMonth.getMonth()];
     const currentYear = currentMonth.getFullYear();
@@ -158,7 +217,7 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
                 >
                     <ChevronLeftIcon className="w-5 h-5" />
                 </button>
-                
+
                 <div className="flex items-center gap-2 px-4 py-2 bg-muted rounded-full">
                     <span className="font-medium text-sm">
                         {currentMonthName} {currentYear}
@@ -198,6 +257,7 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
 
                     const handleDateClick = () => {
                         if (hasEvents) {
+                            isUserInteraction.current = true;
                             setSelectedDate(dateInfo.fullDate);
                         }
                     };
@@ -212,8 +272,8 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
                                 ${isSelected
                                     ? 'bg-tp-blue-primary text-white'
                                     : hasEvents
-                                    ? 'bg-muted text-foreground hover:bg-tp-blue-primary/10 border-b-2 border-tp-blue-primary cursor-pointer'
-                                    : 'text-muted-foreground/30 cursor-not-allowed'
+                                        ? 'bg-muted text-foreground hover:bg-tp-blue-primary/10 border-b-2 border-tp-blue-primary cursor-pointer'
+                                        : 'text-muted-foreground/30 cursor-not-allowed'
                                 }
                             `}
                         >
@@ -248,8 +308,8 @@ export function TourAvailabilityCalendar({ events }: TourAvailabilityCalendarPro
                                     {langEvents.map((event, idx) => (
                                         <button
                                             key={event.id}
-                                            onClick={() => console.log('Event ID:', event.id)}
-                                            className="px-3 py-1.5 bg-muted rounded-full text-sm font-medium hover:bg-tp-blue-primary/10 transition-colors"
+                                            onClick={() => router.push(`/events/${event.id}?language=${encodeURIComponent(lang)}&date=${encodeURIComponent(selectedDate)}&time=${encodeURIComponent(formatTime(event.date))}`)}
+                                            className="px-3 py-1.5 bg-muted rounded-full text-sm font-medium hover:bg-tp-blue-primary/10 transition-colors cursor-pointer"
                                         >
                                             {formatTime(event.date)}
                                         </button>
