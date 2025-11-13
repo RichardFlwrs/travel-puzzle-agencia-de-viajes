@@ -1,210 +1,85 @@
 'use client';
 
-import { useState, useMemo, useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { useLanguage } from '@/lib/language-context';
 import { ChevronLeftIcon, ChevronRightIcon, ClockIcon } from '@/assets/svg';
-import { TourEvent } from '@/lib/api/freetour-client';
-import { EventsService } from '@/lib/services/events-service';
-import { useStoreSelectedDatesLS } from './hooks/useStoreSelectedDatesLS';
-import { LS_KEYS } from '@/globals';
-import { ILSSelectedDate } from '@/types/ILocalStorageTypes';
-
-interface TourAvailabilityCalendarProps {
-    events: TourEvent[];
-    tourId: string;
-}
-
-const DAYS_OF_WEEK = ['Lu', 'Ma', 'Mi', 'Ju', 'Vi', 'Sá', 'Do'];
-const MONTHS = [
-    'Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio',
-    'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'
-];
-
-const LANGUAGE_FLAGS: Record<string, string> = {
-    'English': '🇬🇧',
-    'Spanish': '🇪🇸',
-    'Portuguese': '🇵🇹',
-    'German': '🇩🇪',
-    'French': '🇫🇷',
-    'Italian': '🇮🇹',
-};
-
-const LANGUAGE_NAMES: Record<string, string> = {
-    'English': 'Inglés',
-    'Spanish': 'Español',
-    'Portuguese': 'Portugués',
-    'German': 'Alemán',
-    'French': 'Francés',
-    'Italian': 'Italiano',
-};
+import { TourAvailabilityCalendarProps } from '@/types/ICalendarTypes';
+import { CalendarAvailabilityService } from '@/lib/services/calendar';
+import { SupportedLanguage } from '@/types';
+import {
+    useCalendarMonth,
+    useSelectedDate,
+    useEventsGrouping,
+    useEventsByLanguage,
+    useStoreSelectedDatesLS,
+} from './hooks';
 
 export function TourAvailabilityCalendar({ events, tourId }: TourAvailabilityCalendarProps) {
     const router = useRouter();
-    const { t, language } = useLanguage();
-    const [selectedDate, setSelectedDate] = useState<string | null>(null);
-    const [currentMonth, setCurrentMonth] = useState(new Date());
-    const hasLoadedFromLS = useRef(false);
-    const loadedDateFromLS = useRef(false);
-    const isUserInteraction = useRef(false);
-    const isInitialized = useRef(false);
+    const { language } = useLanguage();
 
-    // Group events by date
-    const eventsByDate = useMemo(() => {
-        return EventsService.groupEventsByDate(events);
-    }, [events]);
+    // Group events and get available dates
+    const { eventsByDate, availableDates } = useEventsGrouping(events);
 
-    // Get available dates (dates that have events)
-    const availableDates = useMemo(() => {
-        return Object.keys(eventsByDate).sort();
-    }, [eventsByDate]);
+    // Handle date selection with localStorage
+    const { selectedDate, setSelectedDate, selectedDateForLS } = useSelectedDate({
+        tourId,
+        availableDates,
+    });
 
-    // Reset flags when tourId changes
-    useEffect(() => {
-        hasLoadedFromLS.current = false;
-        loadedDateFromLS.current = false;
-        isUserInteraction.current = false;
-        isInitialized.current = false;
-    }, [tourId]);
-
-    // Load selected date from localStorage on mount (after availableDates is ready)
-    useEffect(() => {
-        // Only load once when availableDates is ready and we haven't loaded yet
-        if (availableDates.length > 0 && !hasLoadedFromLS.current) {
-            try {
-                const stored = localStorage.getItem(LS_KEYS.selectedDates);
-                if (stored) {
-                    const parsed: ILSSelectedDate | null = JSON.parse(stored);
-                    // Only use stored date if it matches the current tourId, is not null, and exists in available dates
-                    if (parsed && parsed.tourId === tourId && parsed.date && availableDates.includes(parsed.date)) {
-                        // Set both state updates together to ensure they're in sync
-                        const dateObj = new Date(parsed.date + 'T00:00:00');
-                        setCurrentMonth(dateObj);
-                        setSelectedDate(parsed.date);
-                        loadedDateFromLS.current = true;
-                        // Mark as initialized since we loaded a date
-                        isInitialized.current = true;
-                    }
-                }
-            } catch (error) {
-                console.error('Error loading selected date from localStorage:', error);
-            }
-            // Mark as attempted even if no valid date was found
-            hasLoadedFromLS.current = true;
-        }
-    }, [tourId, availableDates]);
-
-    // Get dates for current month view (full calendar grid)
-    const monthDates = useMemo(() => {
-        const year = currentMonth.getFullYear();
-        const month = currentMonth.getMonth();
-        const firstDay = new Date(year, month, 1);
-        const lastDay = new Date(year, month + 1, 0);
-        const daysInMonth = lastDay.getDate();
-        const startDayOfWeek = firstDay.getDay();
-
-        // Adjust start day (Monday = 0, Sunday = 6)
-        const adjustedStartDay = startDayOfWeek === 0 ? 6 : startDayOfWeek - 1;
-
-        const dates: Array<{ date: number; fullDate: string; hasEvents: boolean }> = [];
-
-        // Add empty cells for days before month starts
-        for (let i = 0; i < adjustedStartDay; i++) {
-            dates.push({ date: 0, fullDate: '', hasEvents: false });
-        }
-
-        // Add all days of the month
-        for (let day = 1; day <= daysInMonth; day++) {
-            const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-            dates.push({
-                date: day,
-                fullDate: dateStr,
-                hasEvents: availableDates.includes(dateStr),
-            });
-        }
-
-        return dates;
-    }, [currentMonth, availableDates]);
-
-    // Get events for selected date
-    const selectedDateEvents = useMemo(() => {
-        if (!selectedDate) return [];
-        return eventsByDate[selectedDate] || [];
-    }, [selectedDate, eventsByDate]);
-
-    // Group events by language for selected date
-    const eventsByLanguage = useMemo(() => {
-        const grouped: Record<string, TourEvent[]> = {};
-        selectedDateEvents.forEach(event => {
-            if (!grouped[event.language]) {
-                grouped[event.language] = [];
-            }
-            grouped[event.language].push(event);
-        });
-        return grouped;
-    }, [selectedDateEvents]);
-
-    // Format time from date string
-    const formatTime = (dateStr: string): string => {
-        const timePart = dateStr.split(' ')[1];
-        if (!timePart) return '';
-        const [hours, minutes] = timePart.split(':');
-        const hour = parseInt(hours);
-        const ampm = hour >= 12 ? 'PM' : 'AM';
-        const displayHour = hour % 12 || 12;
-        return `${displayHour}:${minutes} ${ampm}`;
-    };
-
-    // Format date for display
-    const formatDateDisplay = (dateStr: string): string => {
-        const date = new Date(dateStr + 'T00:00:00');
-        const today = new Date();
-        today.setHours(0, 0, 0, 0);
-        const dateOnly = new Date(date);
-        dateOnly.setHours(0, 0, 0, 0);
-
-        if (dateOnly.getTime() === today.getTime()) {
-            return `Hoy, ${date.getDate()} ${MONTHS[date.getMonth()]} ${date.getFullYear()}`;
-        }
-        return `${date.getDate()} ${MONTHS[date.getMonth()]} ${date.getFullYear()}`;
-    };
-
-    // Navigate months
-    const navigateMonth = (direction: 'prev' | 'next') => {
-        setCurrentMonth(prev => {
-            const newDate = new Date(prev);
-            if (direction === 'prev') {
-                newDate.setMonth(prev.getMonth() - 1);
-            } else {
-                newDate.setMonth(prev.getMonth() + 1);
-            }
-            return newDate;
-        });
-    };
-
-    // Auto-select first available date if none selected (only after localStorage load attempt)
-    // Only run if we didn't load a date from localStorage
-    useEffect(() => {
-        // Only auto-select if we've attempted to load from LS, no date is selected, we didn't load from LS, and dates are available
-        if (hasLoadedFromLS.current && !selectedDate && !loadedDateFromLS.current && availableDates.length > 0) {
-            setSelectedDate(availableDates[0]);
-            // Mark as initialized after auto-select
-            isInitialized.current = true;
-        } else if (hasLoadedFromLS.current && selectedDate && !isInitialized.current) {
-            // Mark as initialized if we have a date but haven't initialized yet (shouldn't happen, but safety check)
-            isInitialized.current = true;
-        }
-    }, [availableDates, selectedDate]);
-
-    // Store selected date in localStorage when it changes (only after initialization and user interaction)
-    // Don't save auto-selected dates on initial mount
-    const selectedDateForLS: ILSSelectedDate | null = selectedDate && isInitialized.current && isUserInteraction.current
-        ? { date: selectedDate, tourId }
-        : null;
+    // Store selected date in localStorage
     useStoreSelectedDatesLS(selectedDateForLS);
 
-    const currentMonthName = MONTHS[currentMonth.getMonth()];
-    const currentYear = currentMonth.getFullYear();
+    // Handle calendar month navigation and date calculations
+    const {
+        currentMonth,
+        navigateMonth,
+        setMonthFromDate,
+        monthDates,
+        currentMonthName,
+        currentYear,
+        daysOfWeek,
+    } = useCalendarMonth({ availableDates });
+
+    // Sync currentMonth when selectedDate is loaded from localStorage
+    const hasSyncedMonth = useRef(false);
+    useEffect(() => {
+        // Reset when tourId changes
+        hasSyncedMonth.current = false;
+    }, [tourId]);
+
+    useEffect(() => {
+        if (selectedDate && !hasSyncedMonth.current) {
+            // Check if selectedDate is in a different month than currentMonth
+            const selectedDateObj = new Date(selectedDate + 'T00:00:00');
+            const selectedMonth = selectedDateObj.getMonth();
+            const selectedYear = selectedDateObj.getFullYear();
+            const currentMonthValue = currentMonth.getMonth();
+            const currentYearValue = currentMonth.getFullYear();
+
+            if (selectedMonth !== currentMonthValue || selectedYear !== currentYearValue) {
+                setMonthFromDate(selectedDate);
+            }
+            hasSyncedMonth.current = true;
+        }
+    }, [selectedDate, currentMonth, setMonthFromDate]);
+
+    // Get events grouped by language for selected date
+    const { eventsByLanguage } = useEventsByLanguage({
+        selectedDate,
+        eventsByDate,
+    });
+
+    // Format time helper
+    const formatTime = (dateStr: string): string => {
+        return CalendarAvailabilityService.formatTime(dateStr);
+    };
+
+    // Format date display helper
+    const formatDateDisplay = (dateStr: string): string => {
+        return CalendarAvailabilityService.formatDateDisplay(dateStr, language as SupportedLanguage);
+    };
 
     return (
         <div className="space-y-4">
@@ -219,7 +94,7 @@ export function TourAvailabilityCalendar({ events, tourId }: TourAvailabilityCal
                 </button>
 
                 <div className="flex items-center gap-2 px-4 py-2 bg-muted rounded-full">
-                    <span className="font-medium text-sm">
+                    <span className="font-medium text-sm capitalize">
                         {currentMonthName} {currentYear}
                     </span>
                 </div>
@@ -235,7 +110,7 @@ export function TourAvailabilityCalendar({ events, tourId }: TourAvailabilityCal
 
             {/* Days of Week Header */}
             <div className="grid grid-cols-7 gap-1 mb-2">
-                {DAYS_OF_WEEK.map((day, index) => (
+                {daysOfWeek.map((day, index) => (
                     <div
                         key={index}
                         className="text-center text-xs font-medium text-muted-foreground py-2"
@@ -257,7 +132,6 @@ export function TourAvailabilityCalendar({ events, tourId }: TourAvailabilityCal
 
                     const handleDateClick = () => {
                         if (hasEvents) {
-                            isUserInteraction.current = true;
                             setSelectedDate(dateInfo.fullDate);
                         }
                     };
@@ -298,14 +172,16 @@ export function TourAvailabilityCalendar({ events, tourId }: TourAvailabilityCal
                         {Object.entries(eventsByLanguage).map(([lang, langEvents]) => (
                             <div key={lang} className="space-y-2">
                                 <div className="flex items-center gap-2">
-                                    <span className="text-lg">{LANGUAGE_FLAGS[lang] || '🌐'}</span>
+                                    <span className="text-lg">
+                                        {CalendarAvailabilityService.LANGUAGE_FLAGS[lang] || '🌐'}
+                                    </span>
                                     <span className="text-sm font-medium">
-                                        {LANGUAGE_NAMES[lang] || lang}
+                                        {CalendarAvailabilityService.LANGUAGE_NAMES[lang] || lang}
                                     </span>
                                 </div>
                                 <div className="flex items-center gap-2 flex-wrap">
                                     <ClockIcon className="w-4 h-4 text-muted-foreground" />
-                                    {langEvents.map((event, idx) => (
+                                    {langEvents.map((event) => (
                                         <button
                                             key={event.id}
                                             onClick={() => router.push(`/events/${event.id}?language=${encodeURIComponent(lang)}&date=${encodeURIComponent(selectedDate)}&time=${encodeURIComponent(formatTime(event.date))}`)}
@@ -326,4 +202,3 @@ export function TourAvailabilityCalendar({ events, tourId }: TourAvailabilityCal
         </div>
     );
 }
-
