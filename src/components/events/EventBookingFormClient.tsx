@@ -49,6 +49,12 @@ export function EventBookingFormClient({
         setSelectedKeys(new Set(['1']));
     };
 
+    const titleElement = (text: string) => (
+        <div className='v-center-normal gap-3 text-lg font-semibold cursor-pointer hover:bg-gray-100 rounded-lg p-2'>
+            <span className='text-tp-blue-primary'>{text}</span>
+        </div>
+    )
+
     return (
         <BookingFormProvider eventId={eventId}>
             <Accordion
@@ -59,7 +65,7 @@ export function EventBookingFormClient({
             >
                 <AccordionItem
                     key="1"
-                    title="1. Detalles de la reserva"
+                    title={titleElement('1. Detalles de la reserva')}
                     aria-label="Step 1: Booking Details"
                 >
                     <EventBookingForm
@@ -76,7 +82,7 @@ export function EventBookingFormClient({
                 </AccordionItem>
                 <AccordionItem
                     key="2"
-                    title="2. Pago"
+                    title={titleElement('2. Pago')}
                     aria-label="Step 2: Payment"
                 >
                     <EventBookingPayment onBack={handleBack} />

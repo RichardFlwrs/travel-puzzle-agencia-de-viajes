@@ -28,4 +28,5 @@ export type UseFormBuilderReturn<T> = {
     resetForm: () => void;
     isFormValid: () => boolean;
     labels?: Partial<Record<keyof ExtractForm<T>, string>>;
+    isReady: boolean;
 };

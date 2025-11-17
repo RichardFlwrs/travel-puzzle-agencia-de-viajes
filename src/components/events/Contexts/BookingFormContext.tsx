@@ -19,6 +19,7 @@ interface BookingFormContextValue {
     submitBooking: () => Promise<void>;
     isSubmitting: boolean;
     submitError: string | null;
+    isReady: boolean;
 }
 
 const BookingFormContext = createContext<BookingFormContextValue | undefined>(undefined);
@@ -40,6 +41,7 @@ export function BookingFormProvider({ children, eventId }: BookingFormProviderPr
         isFormValid,
         resetForm,
         labels,
+        isReady,
     } = useFormBuilder({ builderService });
 
     const [isSubmitting, setIsSubmitting] = useState(false);
@@ -117,6 +119,7 @@ export function BookingFormProvider({ children, eventId }: BookingFormProviderPr
         submitBooking,
         isSubmitting,
         submitError,
+        isReady,
     };
 
     return (

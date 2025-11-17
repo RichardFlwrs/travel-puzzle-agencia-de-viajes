@@ -42,9 +42,20 @@ export function EventBookingForm({
 }: EventBookingFormProps) {
   // Get the current language from context (reads from localStorage)
   const { language: currentLanguage } = useLanguage();
-  
+
   // Get form state and handlers from booking context
-  const { form, errors, handlers, isFormValid, submitError } = useBookingForm();
+  const { form, errors, handlers, isFormValid, submitError, isReady } = useBookingForm();
+
+  // Don't render form until it's ready
+  if (!isReady) {
+    return (
+      <div className="bg-gray-50 p-6 rounded-lg border-2 border-orange-500">
+        <div className="flex items-center justify-center py-8">
+          <div className="text-gray-500">Cargando formulario...</div>
+        </div>
+      </div>
+    );
+  }
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -119,7 +130,7 @@ export function EventBookingForm({
             <div>
               <Input
                 type="text"
-                label="Nombre"
+                label={'Nombre'}
                 value={form.customer.firstName}
                 onChange={(e) => handlers.customer.firstName(e.target.value)}
                 error={errors.customer?.firstName}

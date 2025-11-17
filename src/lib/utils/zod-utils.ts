@@ -107,23 +107,48 @@ function getDefaultValue(zodDefault: z.ZodDefault<any>): any {
     return typeof defaultValue === 'function' ? defaultValue() : defaultValue;
 }
 
+/**
+ * Recursively gets default values from a Zod schema, handling nested objects
+ */
+function getDefaultValueForField(fieldSchema: any): any {
+    // Unwrap optional, nullable, default wrappers
+    let unwrapped = fieldSchema;
+    while (unwrapped?._def) {
+        if (unwrapped instanceof z.ZodOptional || unwrapped?._def?.typeName === 'ZodOptional') {
+            unwrapped = unwrapped._def.innerType;
+        } else if (unwrapped instanceof z.ZodNullable || unwrapped?._def?.typeName === 'ZodNullable') {
+            unwrapped = unwrapped._def.innerType;
+        } else if (unwrapped instanceof z.ZodDefault || unwrapped?._def?.typeName === 'ZodDefault') {
+            return getDefaultValue(unwrapped);
+        } else {
+            break;
+        }
+    }
+
+    // Handle nested objects recursively
+    if (unwrapped instanceof z.ZodObject) {
+        return getDefaults(unwrapped);
+    }
+
+    // Handle arrays
+    if (unwrapped instanceof z.ZodArray) {
+        return [];
+    }
+
+    // Handle primitives
+    if (unwrapped instanceof z.ZodString) return '';
+    if (unwrapped instanceof z.ZodNumber) return 0;
+    if (unwrapped instanceof z.ZodBoolean) return false;
+    
+    return undefined;
+}
+
 export function getDefaults<T, Schema extends z.ZodObject<any, any> = any>(schema: Schema): T {
     const res = Object.fromEntries(
         Object.entries(schema.shape).map(([key, value]) => {
-            if (value instanceof z.ZodDefault) return [key, getDefaultValue(value)]
-            if (value instanceof z.ZodString) return [key, '']
-            if (value instanceof z.ZodNumber) return [key, 0]
-            if (value instanceof z.ZodNullable) {
-                const DEFAULT = value._def.innerType;
-                if (DEFAULT instanceof z.ZodDefault) {
-                    return [key, getDefaultValue(DEFAULT)]
-                } else {
-                    return [key, null]
-                }
-            }
-            return [key, undefined]
+            return [key, getDefaultValueForField(value)];
         })
-    )
+    );
     return res as T;
 }
 

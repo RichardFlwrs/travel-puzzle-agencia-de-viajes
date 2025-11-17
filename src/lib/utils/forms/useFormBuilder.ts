@@ -1,7 +1,7 @@
 import { IFormAndErrorMap } from "@/types/IFormAndErrorMap"
 import { ExtractErrors, ExtractForm, ExtractHandlers, UseFormBuilderArgs, UseFormBuilderReturn } from "@/types/IFormAndErrorMap";
 import { isEmpty } from "lodash";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 // import { toast } from "react-toastify";
 
 export function useFormBuilder<T extends IFormAndErrorMap<any, any, any>>(
@@ -12,8 +12,15 @@ export function useFormBuilder<T extends IFormAndErrorMap<any, any, any>>(
     type Handlers = ExtractHandlers<T>;
 
     const [form, setForm] = useState<Form>(builderService.form);
-    const [errors, setErrors] = useState<Errors>(builderService.error)
+    const [errors, setErrors] = useState<Errors>(builderService.error);
+    const [isReady, setIsReady] = useState(false);
     const handlers: Handlers = builderService.handlers(setForm, setErrors);
+
+    // Mark form as ready after initialization
+    // This ensures all nested objects are properly initialized before rendering
+    useEffect(() => {
+        setIsReady(true);
+    }, []);
 
     const isFormValid = (): boolean => {
         if (builderService.validateForm) {
@@ -49,5 +56,6 @@ export function useFormBuilder<T extends IFormAndErrorMap<any, any, any>>(
         isFormValid,
         labels: builderService.labels,
         resetForm,
+        isReady,
     }
 }
