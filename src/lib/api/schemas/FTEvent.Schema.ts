@@ -1,7 +1,5 @@
+import { numericBoolean } from "@/lib/utils/zod-utils";
 import z from "zod";
-
-// Helper to transform numeric booleans (0/1) to JavaScript booleans
-const numericBoolean = z.union([z.literal(0), z.literal(1)]).transform((val) => val === 1);
 
 export const zFTEventDetail = z.object({
     id: z.number(),

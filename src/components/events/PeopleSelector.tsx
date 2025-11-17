@@ -72,18 +72,17 @@ export function PeopleSelector({
                     type="button"
                     onClick={() => !isDisabled && setIsPeopleDropdownOpen(!isPeopleDropdownOpen)}
                     disabled={isDisabled}
-                    className={`w-full flex items-center justify-between px-4 py-2 bg-white border border-gray-300 rounded-md ${
-                        isDisabled
-                            ? 'opacity-50 cursor-not-allowed'
-                            : 'hover:bg-gray-50'
-                    }`}
+                    className={`w-full flex items-center justify-between px-4 py-2 bg-white border border-gray-300 rounded-md ${isDisabled
+                        ? 'opacity-50 cursor-not-allowed'
+                        : 'hover:bg-gray-50'
+                        }`}
                 >
                     <span>
                         {isLoading
                             ? 'Cargando...'
                             : eventDetailData
-                            ? `${value} personas`
-                            : 'Seleccionar personas'}
+                                ? `${value} personas`
+                                : 'Seleccionar personas'}
                     </span>
                     <ChevronDownIcon isOpen={isPeopleDropdownOpen} className="w-4 h-4" />
                 </button>
@@ -100,9 +99,8 @@ export function PeopleSelector({
                                     onChange(num);
                                     setIsPeopleDropdownOpen(false);
                                 }}
-                                className={`w-full text-left px-4 py-2 hover:bg-gray-100 transition-colors ${
-                                    value === num ? 'bg-blue-50 font-medium' : ''
-                                }`}
+                                className={`w-full text-left px-4 py-2 hover:bg-gray-100 transition-colors ${value === num ? 'bg-blue-50 font-medium' : ''
+                                    }`}
                             >
                                 {num} personas
                             </button>

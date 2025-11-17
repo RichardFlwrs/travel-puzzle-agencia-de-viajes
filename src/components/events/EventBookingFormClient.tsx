@@ -1,8 +1,11 @@
 'use client';
 
 import { useState } from 'react';
+import { Accordion, AccordionItem } from '@heroui/react';
 import { useEventDetailFTData } from '@/lib/api/hooks';
 import { EventBookingForm } from './EventBookingForm';
+import { EventBookingPayment } from './EventBookingPayment';
+import { BookingFormProvider } from './Contexts';
 
 interface EventDetailData {
     id: number;
@@ -32,43 +35,54 @@ export function EventBookingFormClient({
     time,
 }: EventBookingFormClientProps) {
     const { data: eventDetailFTData, isLoading, error } = useEventDetailFTData(eventId);
-    const [numberOfPeople, setNumberOfPeople] = useState<number>(2);
-    const [name, setName] = useState('');
-    const [email, setEmail] = useState('');
+    const [selectedKeys, setSelectedKeys] = useState<Set<string>>(new Set(['1']));
 
     const eventDetailData: EventDetailData | undefined = eventDetailFTData?.data;
 
-    const handleSubmit = (e: React.FormEvent) => {
-        e.preventDefault();
-        // Handle form submission here
-        console.log('Form submitted:', {
-            language,
-            date,
-            time,
-            numberOfPeople,
-            name,
-            email,
-        });
+    const handleNext = () => {
+        // Close current step (1) and open next step (2)
+        setSelectedKeys(new Set(['2']));
+    };
+
+    const handleBack = () => {
+        // Close current step (2) and open previous step (1)
+        setSelectedKeys(new Set(['1']));
     };
 
     return (
-        <EventBookingForm
-            language={language}
-            languageDisplayName={languageDisplayName}
-            languageFlag={languageFlag}
-            date={date}
-            time={time}
-            numberOfPeople={numberOfPeople}
-            onNumberOfPeopleChange={setNumberOfPeople}
-            name={name}
-            onNameChange={setName}
-            email={email}
-            onEmailChange={setEmail}
-            eventDetailData={eventDetailData}
-            isLoading={isLoading}
-            error={error}
-            onSubmit={handleSubmit}
-        />
+        <BookingFormProvider eventId={eventId}>
+            <Accordion
+                selectedKeys={selectedKeys}
+                onSelectionChange={(keys) => setSelectedKeys(keys as Set<string>)}
+                selectionMode="single"
+                variant="bordered"
+            >
+                <AccordionItem
+                    key="1"
+                    title="1. Detalles de la reserva"
+                    aria-label="Step 1: Booking Details"
+                >
+                    <EventBookingForm
+                        language={language}
+                        languageDisplayName={languageDisplayName}
+                        languageFlag={languageFlag}
+                        date={date}
+                        time={time}
+                        eventDetailData={eventDetailData}
+                        isLoading={isLoading}
+                        error={error}
+                        onNext={handleNext}
+                    />
+                </AccordionItem>
+                <AccordionItem
+                    key="2"
+                    title="2. Pago"
+                    aria-label="Step 2: Payment"
+                >
+                    <EventBookingPayment onBack={handleBack} />
+                </AccordionItem>
+            </Accordion>
+        </BookingFormProvider>
     );
 }
 

@@ -1,7 +1,9 @@
+'use client';
+
 import { Navbar } from '@/components/layout/Navbar';
 import { SupportedLanguage } from '@/types';
 import { CalendarAvailabilityService } from '@/lib/services/calendar/CalendarAvailabilityService';
-import { translations } from '@/lib/translations';
+import { useLanguage } from '@/lib/language-context';
 import { EventBackButton } from './EventBackButton';
 import { EventBookingFormClient } from './EventBookingFormClient';
 
@@ -20,14 +22,17 @@ export function EventDetailClient({
     date: eventDate,
     time: eventTime,
 }: EventDetailClientProps) {
+    // Get current language from context
+    const { t } = useLanguage();
+
     // Get language display name and flag
     const languageDisplayName =
         CalendarAvailabilityService.LANGUAGE_NAMES[eventLanguage] || eventLanguage;
     const languageFlag =
         CalendarAvailabilityService.LANGUAGE_FLAGS[eventLanguage] || '🌐';
 
-    // Get translation for back button
-    const backText = translations[initialLanguage]?.['common.back'] || 'Back';
+    // Get translation for back button using current language
+    const backText = t('common.back', 'Back');
 
     return (
         <div className="min-h-screen bg-background">
