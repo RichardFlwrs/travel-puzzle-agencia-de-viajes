@@ -11,14 +11,14 @@ export async function upsertCity(
     update: {
       countryId,
       ...(translations !== undefined && {
-        translations: translations as Prisma.InputJsonValue
+        translations: translations as Prisma.JsonValue
       }),
     },
     create: {
       id,
       countryId,
       ...(translations && {
-        translations: translations as Prisma.InputJsonValue
+        translations: translations as Prisma.JsonValue
       }),
     },
   });

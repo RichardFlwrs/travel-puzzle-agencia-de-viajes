@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "postinstall": "prisma generate",
     "sync:tours": "tsx src/scripts/sync-tours.ts",
     "fix:country-names": "tsx src/scripts/fix-country-names.ts"
   },
