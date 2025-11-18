@@ -11,14 +11,14 @@ export async function upsertCountry(
     update: {
       code,
       ...(translations !== undefined && { 
-        translations: translations as Prisma.JsonValue 
+        translations: translations === null ? Prisma.JsonNull : (translations as unknown as Prisma.InputJsonValue)
       }),
     },
     create: {
       id,
       code,
       ...(translations && { 
-        translations: translations as Prisma.JsonValue 
+        translations: translations as unknown as Prisma.InputJsonValue
       }),
     },
   });

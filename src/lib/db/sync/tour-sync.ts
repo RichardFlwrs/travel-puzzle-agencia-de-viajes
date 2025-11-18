@@ -380,10 +380,10 @@ async function saveProgress(
  */
 async function syncTour(apiTour: TourAPI) {
   // Serialize JSON fields properly for Prisma
-  const meetingPointJson = apiTour.meetingPoint as unknown as Prisma.JsonValue;
-  const includesJson = apiTour.includes as unknown as Prisma.JsonValue;
-  const poisJson = (apiTour.POIs || null) as unknown as Prisma.JsonValue;
-  const imagesJson = (apiTour.images || []) as unknown as Prisma.JsonValue;
+  const meetingPointJson = apiTour.meetingPoint as unknown as Prisma.InputJsonValue;
+  const includesJson = apiTour.includes as unknown as Prisma.InputJsonValue;
+  const poisJson = apiTour.POIs ? (apiTour.POIs as unknown as Prisma.InputJsonValue) : Prisma.JsonNull;
+  const imagesJson = apiTour.images as unknown as Prisma.InputJsonValue;
 
   // Upsert tour with proper relation handling
   const tour = await prisma.tour.upsert({
