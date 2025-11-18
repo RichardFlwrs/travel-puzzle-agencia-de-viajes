@@ -427,6 +427,28 @@ export class FreeTourClient {
     console.log(`✅ Fetched ${allTours.length} tours successfully`);
     return allTours;
   }
+
+
+  async getBooking(bookingId: string | number) {
+    await this.ensureAuthenticated();
+
+    if (!this.accessToken) {
+      throw new Error('FreeTour authentication failed: No access token available');
+    }
+
+    const response = await fetch(`${this.baseURL}/booking/${bookingId}`, {
+      headers: {
+        'Authorization': `Bearer ${this.accessToken}`,
+        'Content-Type': 'application/json',
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`FreeTour booking fetch failed: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
 }
 
 export const freeTourClient = new FreeTourClient();
