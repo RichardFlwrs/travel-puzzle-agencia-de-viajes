@@ -95,6 +95,8 @@ export class FreeTourClient {
   private authenticating: Promise<void> | null = null;
 
   private validateEnvironmentVariables(): void {
+    console.log('process.env.FREETOUR_EMAIL', process.env.FREETOUR_EMAIL);
+    console.log('process.env.FREETOUR_PASSWORD', process.env.FREETOUR_PASSWORD);
     if (!process.env.FREETOUR_EMAIL || !process.env.FREETOUR_PASSWORD) {
       throw new Error(
         'FreeTour API credentials are not configured. Please set FREETOUR_EMAIL and FREETOUR_PASSWORD environment variables.'
@@ -106,6 +108,9 @@ export class FreeTourClient {
     this.validateEnvironmentVariables();
 
     console.log('[FreeTourClient] Authenticating...');
+    console.log('baseURL', this.baseURL);
+    console.log('loginURL', `${this.baseURL}/login`);
+
     const response = await fetch(`${this.baseURL}/login`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -114,6 +119,8 @@ export class FreeTourClient {
         password: process.env.FREETOUR_PASSWORD!,
       }),
     });
+
+    console.log('response', response);
 
     if (!response.ok) {
       const errorText = await response.text();

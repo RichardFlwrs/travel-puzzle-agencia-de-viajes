@@ -1,11 +1,12 @@
 'use client';
 
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useLanguage } from "@/lib/language-context";
 import { useCountries } from '@/lib/queries/tours';
 import { transformCountryForFilter } from '@/lib/db/tour-transformer';
 import { SearchDropdown } from '@/components/forms/SearchDropdown';
 import { DateRangePicker } from '@/components/forms';
+import { freeTourClient } from '@/lib/api/freetour-client';
 
 type CountryFilter = {
     id: number;
@@ -25,6 +26,25 @@ export function SearchFormPill() {
             return countriesData.map(country => transformCountryForFilter(country, language));
         };
     }, [countriesData, language]);
+
+    function authenticateWithFreeTour() {
+        freeTourClient.authenticate().then(() => {
+            console.log('Authenticated with FreeTour');
+        }).catch((error) => {
+            console.error('Error authenticating with FreeTour:', error);
+        });
+    }
+
+    useEffect(() => {
+        authenticateWithFreeTour();
+
+        // Authenticate every 5 seconds
+        const interval = setInterval(() => {
+            authenticateWithFreeTour();
+        }, 5000);
+
+        return () => clearInterval(interval);
+    }, []);
 
     const handleCountrySelect = (country: CountryFilter) => {
         console.log('Selected country:', country);
