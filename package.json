@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "postinstall": "prisma generate",
+    "postinstall": "DATABASE_URL=\"mysql://user:password@localhost:3306/db\" prisma generate",
     "sync:tours": "tsx src/scripts/sync-tours.ts",
     "fix:country-names": "tsx src/scripts/fix-country-names.ts"
   },
