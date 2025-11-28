@@ -33,7 +33,7 @@ export function ProfileSidebar({ activeSection, onSectionChange }: ProfileSideba
   ];
 
   return (
-    <nav className="w-full lg:w-64 flex-shrink-0">
+    <nav className="w-full lg:w-64 shrink-0">
       <div className="space-y-2">
         {sections.map((section) => {
           const isActive = activeSection === section.id;
