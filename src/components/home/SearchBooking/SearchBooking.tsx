@@ -18,14 +18,14 @@ export function SearchBooking() {
   }, []);
 
   return (
-    <section className="relative h-[600px] md:h-[700px] overflow-hidden bg-linear-to-br from-blue-900 to-blue-700">
+    <section className="relative h-screen overflow-hidden bg-linear-to-br from-blue-900 to-blue-700">
       <ImageCarousel
         images={images}
         autoRotateInterval={5000}
         showDots={true}
         showOverlay={true}
         overlayOpacity="bg-black/40"
-        className="absolute inset-0"
+        className="absolute inset-0 h-full"
         altPrefix="Search section background"
         childrenClassName="container v-center"
       >

@@ -46,3 +46,7 @@ next-env.d.ts
 # data cache
 /data
 .env*.local
+
+
+#cursor
+.cursor

@@ -46,6 +46,12 @@ export const fr = {
   'home.whyChoose.cta.planTrip': 'Planifier Mon Voyage',
   'home.whyChoose.cta.talkExpert': 'Parler à un Expert',
   
+  // Search Booking
+  'home.searchBooking.title': 'Recherchez & Réservez Votre Aventure',
+  'home.searchBooking.subtitle': 'Planifiez mieux avec plus de 300 000 expériences de voyage',
+  'home.searchBooking.searchPlaceholder': 'Rechercher un pays...',
+  'home.searchBooking.dateRangePlaceholder': 'Sélectionner une plage de dates',
+  
   // Top Destinations
   'home.topDestinations.badge': 'Top 20 Expériences',
   'home.topDestinations.title': 'Les Meilleures Expériences de Voyage',

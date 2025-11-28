@@ -17,6 +17,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Travel Puzzle - Discover Your Next Adventure",
   description: "Book amazing tours from trusted providers worldwide. Explore destinations and create unforgettable memories.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
