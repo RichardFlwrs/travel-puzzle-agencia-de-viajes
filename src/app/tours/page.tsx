@@ -23,9 +23,10 @@ export default async function ToursPage({ searchParams }: ToursPageProps) {
   const params = await searchParams;
   
   // Build filters from URL params
+  // Default to Mexico (countryId=99) if no countryId is provided
   const filters: TourFilters = {
     language,
-    countryId: params.countryId ? parseInt(params.countryId, 10) : undefined,
+    countryId: params.countryId ? parseInt(params.countryId, 10) : 99,
     cityId: params.cityId ? parseInt(params.cityId, 10) : undefined,
     minPrice: params.minPrice ? parseFloat(params.minPrice) : undefined,
     maxPrice: params.maxPrice ? parseFloat(params.maxPrice) : undefined,

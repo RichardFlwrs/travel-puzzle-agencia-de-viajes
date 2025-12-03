@@ -55,7 +55,8 @@ export function ToursPageClient({
         const search = searchParams.get('search');
         const page = searchParams.get('page');
 
-        if (countryId) filters.countryId = parseInt(countryId, 10);
+        // Default to Mexico (countryId=99) if no countryId is provided
+        filters.countryId = countryId ? parseInt(countryId, 10) : 99;
         if (cityId) filters.cityId = parseInt(cityId, 10);
         if (minPrice) filters.minPrice = parseFloat(minPrice);
         if (maxPrice) filters.maxPrice = parseFloat(maxPrice);
@@ -103,7 +104,7 @@ export function ToursPageClient({
     // The server component reads URL params, so if URL has params, initialData matches those params
     // We need to check if current state matches the initial server-fetched data
     const serverFilters = {
-        countryId: searchParams.get('countryId') ? parseInt(searchParams.get('countryId')!, 10) : undefined,
+        countryId: searchParams.get('countryId') ? parseInt(searchParams.get('countryId')!, 10) : 99, // Default to 99 (Mexico)
         cityId: searchParams.get('cityId') ? parseInt(searchParams.get('cityId')!, 10) : undefined,
         minPrice: searchParams.get('minPrice') ? parseFloat(searchParams.get('minPrice')!) : undefined,
         maxPrice: searchParams.get('maxPrice') ? parseFloat(searchParams.get('maxPrice')!) : undefined,
@@ -152,7 +153,10 @@ export function ToursPageClient({
             const params = new URLSearchParams();
 
             // Add filter params
-            if (filters.countryId) params.set('countryId', filters.countryId.toString());
+            // countryId is now always required (defaults to 99 for Mexico)
+            if (filters.countryId !== undefined) {
+                params.set('countryId', filters.countryId.toString());
+            }
             if (filters.cityId) params.set('cityId', filters.cityId.toString());
             if (filters.minPrice !== undefined) params.set('minPrice', filters.minPrice.toString());
             if (filters.maxPrice !== undefined) params.set('maxPrice', filters.maxPrice.toString());
@@ -178,13 +182,17 @@ export function ToursPageClient({
     useEffect(() => {
         if (isInitialMount.current) {
             isInitialMount.current = false;
+            // On initial mount, ensure URL has countryId=99 if it's missing
+            if (!searchParams.get('countryId')) {
+                updateUrlParams(uiFilters, pagination);
+            }
             return;
         }
         if (isUpdatingFromUrl.current) {
             return;
         }
         updateUrlParams(uiFilters, pagination);
-    }, [uiFilters, pagination, updateUrlParams]);
+    }, [uiFilters, pagination, updateUrlParams, searchParams]);
 
     // Update state when URL params change (e.g., browser back/forward)
     useEffect(() => {

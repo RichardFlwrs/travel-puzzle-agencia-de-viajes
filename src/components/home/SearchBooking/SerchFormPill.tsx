@@ -17,14 +17,21 @@ export function SearchFormPill() {
     const { t, language } = useLanguage();
     const { data: countriesData, isLoading: isLoadingCountries } = useCountries(language);
 
-    // Create a promise function that returns the filtered countries
-    // Use useMemo to ensure it has access to the latest countriesData
+    // Transform countries data using the same logic as ToursPageClient
+    const transformedCountries = useMemo(() => {
+        if (!countriesData) return [];
+        return countriesData.map(country =>
+            transformCountryForFilter(country, language)
+        );
+    }, [countriesData, language]);
+
+    // Create a promise function that returns the transformed countries
+    // Use the same pattern as ToursPageClient - transform synchronously when data is available
     const getCountriesPromise = useMemo(() => {
         return async (): Promise<CountryFilter[]> => {
-            if (!countriesData) return [];
-            return countriesData.map(country => transformCountryForFilter(country, language));
+            return transformedCountries;
         };
-    }, [countriesData, language]);
+    }, [transformedCountries]);
 
     const handleCountrySelect = (country: CountryFilter) => {
         console.log('Selected country:', country);
