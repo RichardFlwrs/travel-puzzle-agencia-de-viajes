@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 import path from 'path';
-import { syncToursFromAPI } from '@/lib/db/sync/tour-sync';
+import { syncToursFromAPI } from '@/lib/db/sync/json-tour-sync';
 
 // Load environment variables from .env.local
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
@@ -25,7 +25,7 @@ async function main() {
     }
   }
 
-  console.log('🚀 Starting tour sync from FreeTour API to MySQL...');
+  console.log('🚀 Starting tour sync from FreeTour API to JSON files...');
   if (startPage > 1) {
     console.log(`📄 Resuming from page ${startPage}\n`);
   } else {

@@ -1,0 +1,637 @@
+[
+  {
+    "id": 4907,
+    "updatedAt": "2025-12-01 03:32:39",
+    "title": {
+      "en": "Free Tour of Tiraspol",
+      "es": "Visita gratuita a Tiraspol",
+      "pt": "Visita gratuita a Tiraspol",
+      "de": "Kostenlose Besichtigung von Tiraspol",
+      "fr": "Visite libre de Tiraspol",
+      "it": "Visita libera di Tiraspol"
+    },
+    "brief": {
+      "de": "Genießen Sie den kostenlosen Rundgang durch die Hauptstadt von Transnistrien, der zweitgrößten Stadt Moldawiens. Gehen Sie durch die sowjetischen Straßen, lernen Sie die Geschichte kennen und vieles mehr.",
+      "en": "Enjoy the free walking tour in the capital of Transnistria, which is the second-biggest city in Moldova. Walk the Soviet streets, know the history and more.",
+      "es": "Disfrute de la visita gratuita a pie por la capital de Transnistria, que es la segunda ciudad más grande de Moldavia. Pasea por las calles soviéticas, conoce la historia y mucho más.",
+      "fr": "Profitez d'une visite à pied gratuite dans la capitale de la Transnistrie, qui est la deuxième plus grande ville de Moldavie. Promenez-vous dans les rues soviétiques, découvrez l'histoire et bien plus encore.",
+      "it": "Godetevi il tour gratuito a piedi nella capitale della Transnistria, che è la seconda città più grande della Moldavia. Passeggiate per le strade sovietiche, conoscete la storia e molto altro ancora.",
+      "pt": "Desfrute de um passeio a pé gratuito na capital da Transnístria, que é a segunda maior cidade da Moldávia. Passeie pelas ruas soviéticas, conheça a história e muito mais."
+    },
+    "description": {
+      "de": "Urbaner Skizzenzeichner und Sightseeing-Jäger, ich mache Postkarten mit meinen Zeichnungen und Touren durch Pridnestrowien.  Kostenlose Spaziergang ist etwas, das ich vor vielen Jahren begonnen, jetzt habe ich eine Familie und vor allem endlich ein Auto. \r\n\r\nFreunde, bitte schaut euch andere Angebote an, ich halte diese Tour hier nur für eine Chance, dass ihr meine richtigen Touren bemerkt. Es gibt zwei Vorgaben hier auf der Website, um es einfach zu machen, aber im wirklichen Leben bestimmen zwei Faktoren jede Tour: erstens, Ihr maximal glückliches Budget und zweitens, am wichtigsten, was Sie am Reisen inspiriert, und genau - warum wollen Sie in \"das Land, das es nicht gibt\" reisen? \r\n\r\nUnd diese beiden Faktoren werden die Tour bestimmen. Ehrlich gesagt, kann ich die Malediven nicht zu meinem Land machen, denn es sind nicht die Malediven. Aber ich kann eine unvergessliche Reise durch alle Kontraste dessen machen, was es wirklich ist - wunderschöne Panoramen und beeindruckende sowjetische Relikte, rohe ungeschliffene Geschichte und das heutige Leben in einem unbekannten Land, das klassische Spaziergänge mit Streifzügen für echte Entdecker und Abenteurer verbindet\r\n\r\nWillkommen in Pridnestrowien - an der Grenze, wo Sie vom Touristen zum Reisenden werden! Kein Reiseführer und Kunden, kein \"Tourist\" und Reiseführer. Nur Kameraden, nur Freunde. Keine Tournee. Nur das Leben selbst.",
+      "en": "Urban sketcher and sightseeing hunter, I do postcards with my drawings and tours of Pridnestrovie.  Free walking tour is something I started with many many years ago, now I have a family and most important finally have a car. \r\n\r\nFriends, please check other listings, I keep this tour here only for a chance that you might notice my proper tours. There are two defaults here on the website to make it simple but in real life two factors shape each tour: first, your maximum happy budget and second, most important, what inspires you in traveling, and exactly - why do you wish to travel to «the country that doesn’t exist»? \r\n\r\nAnd these two factors will shape the tour. Honestly, I can’t make Maldives of my country, because it is not Maldives. But i can make an unforgettable journey through all contrasts of what it really is - beautiful panoramas and impressive soviet relics, raw uncut history and nowadays life in unrecognised country, combining classic walk with forays for true explorers and adventurers\r\n\r\nWelcome to Pridnestrovie - the borderline, where you turn from tourist into traveler! No guide and clients, no “tourist” and guide. Just comrades, just friends. No tour. Just life itself.",
+      "es": "Dibujante urbano y cazador de lugares de interés, hago postales con mis dibujos y recorridos por Pridnestrovie.  Free walking tour es algo con lo que empecé hace muchos muchos años, ahora tengo una familia y lo más importante finalmente tener un coche. \r\n\r\nAmigos, por favor, comprueben otros listados, mantengo este tour aquí sólo por la posibilidad de que se fijen en mis tours propiamente dichos. Hay dos valores por defecto aquí en el sitio web para que sea sencillo, pero en la vida real dos factores dan forma a cada viaje: en primer lugar, su presupuesto máximo feliz y en segundo lugar, lo más importante, lo que le inspira en los viajes, y exactamente - ¿por qué desea viajar a \"el país que no existe\"? \r\n\r\nY estos dos factores darán forma al viaje. Sinceramente, no puedo hacer de Maldivas mi país, porque no es Maldivas. Pero puedo hacer un viaje inolvidable a través de todos los contrastes de lo que realmente es - hermosos panoramas e impresionantes reliquias soviéticas, cruda historia sin cortar y hoy en día la vida en el país no reconocido, la combinación de paseo clásico con incursiones para los verdaderos exploradores y aventureros\r\n\r\nBienvenido a Pridnestrovie, la frontera donde el turista se convierte en viajero Nada de guía y clientes, nada de \"turista\" y guía. Sólo camaradas, sólo amigos. No hay tour. Sólo la vida misma.",
+      "fr": "Dessinateur urbain et chasseur de curiosités, je réalise des cartes postales avec mes dessins et des visites de Pridnestrovie.  J'ai commencé à faire des visites gratuites à pied il y a de nombreuses années, maintenant j'ai une famille et surtout j'ai enfin une voiture. \r\n\r\nMes amis, veuillez consulter d'autres listes, je garde cette visite ici uniquement pour que vous puissiez remarquer mes propres visites. Il y a deux paramètres par défaut sur le site pour simplifier les choses, mais en réalité, deux facteurs déterminent chaque circuit : premièrement, votre budget maximum et deuxièmement, le plus important, ce qui vous inspire à voyager, et exactement - pourquoi souhaitez-vous voyager dans \" le pays qui n'existe pas \" ? \r\n\r\nCe sont ces deux facteurs qui détermineront le circuit. Honnêtement, je ne peux pas faire des Maldives mon pays, car ce ne sont pas les Maldives. Mais je peux vous proposer un voyage inoubliable à travers tous les contrastes de ce qu'elles sont vraiment : des panoramas magnifiques et des vestiges soviétiques impressionnants, l'histoire brute et la vie d'aujourd'hui dans un pays méconnu, en combinant des promenades classiques avec des incursions pour les vrais explorateurs et les aventuriers\r\n\r\nBienvenue à Pridnestrovie - la frontière où l'on passe du statut de touriste à celui de voyageur ! Pas de guide et de clients, pas de \"touriste\" et de guide. Juste des camarades, des amis. Pas de circuit. Juste la vie elle-même.",
+      "it": "Disegnatore urbano e cacciatore di turisti, faccio cartoline con i miei disegni e tour della Pridnestrovie.  Il free walking tour è qualcosa che ho iniziato a fare molti anni fa, ora ho una famiglia e soprattutto ho finalmente una macchina. \r\n\r\nAmici, per favore controllate gli altri annunci, tengo questo tour qui solo per avere la possibilità di farvi notare i miei tour veri e propri. Ci sono due impostazioni predefinite qui sul sito web per semplificare le cose, ma nella vita reale sono due i fattori che determinano ogni tour: primo, il vostro budget massimo e felice e secondo, più importante, cosa vi ispira nel viaggiare, ed esattamente - perché desiderate viaggiare nel \"Paese che non esiste\"? \r\n\r\nE questi due fattori daranno forma al tour. Onestamente, non posso fare delle Maldive il mio Paese, perché non sono le Maldive. Ma posso fare un viaggio indimenticabile attraverso tutti i contrasti di ciò che è realmente - panorami bellissimi e impressionanti reliquie sovietiche, storia grezza e vita odierna in un paese non riconosciuto, combinando una passeggiata classica con incursioni per veri esploratori e avventurieri\r\n\r\nBenvenuti in Pridnestrovie - la linea di confine, dove ci si trasforma da turisti in viaggiatori! Niente guida e clienti, niente \"turista\" e guida. Solo compagni, solo amici. Nessun tour. Solo la vita stessa.",
+      "pt": "Desenhador urbano e caçador de paisagens, faço postais com os meus desenhos e visitas guiadas a Pridnestrovie.  Os passeios a pé gratuitos são algo que comecei a fazer há muitos anos, agora tenho uma família e, mais importante, finalmente tenho um carro. \r\n\r\nAmigos, por favor consultem outras listas, mantenho esta visita aqui apenas para terem a oportunidade de reparar nas minhas próprias visitas. Há duas predefinições no site para simplificar, mas na vida real há dois factores que determinam cada viagem: em primeiro lugar, o seu orçamento máximo e, em segundo lugar, o mais importante, o que o inspira a viajar, e exatamente - por que razão deseja viajar para \"o país que não existe\"? \r\n\r\nE são estes dois factores que irão moldar a viagem. Sinceramente, não posso fazer das Maldivas o meu país, porque não são as Maldivas. Mas posso fazer uma viagem inesquecível através de todos os contrastes do que realmente são - belos panoramas e impressionantes relíquias soviéticas, história crua e sem cortes e a vida atual num país não reconhecido, combinando passeios clássicos com incursões para verdadeiros exploradores e aventureiros\r\n\r\nBem-vindo a Pridnestrovie - a fronteira, onde se passa de turista a viajante! Sem guia e clientes, sem \"turista\" e guia. Só camaradas, só amigos. Não há excursões. Apenas a própria vida."
+    },
+    "providerTitle": "Dendemarchenko",
+    "providerPhone": "37377805004",
+    "URL": "https://www.freetour.com/tiraspol/free-walking-tour-tiraspol?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/tiraspol/free-walking-tour-tiraspol?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/tiraspol/free-walking-tour-tiraspol?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/tiraspol/free-walking-tour-tiraspol?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/tiraspol/free-walking-tour-tiraspol?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/tiraspol/free-walking-tour-tiraspol?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/tiraspol/free-walking-tour-tiraspol?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:00",
+    "meetingPoint": {
+      "title": "Strada Rosa Luxemburg 66, Tiraspol 3300",
+      "coordinates": "46.8375668,29.6243976",
+      "googlePlaceId": "ChIJS6IUxfMCyUARwN8ysV9lKg4"
+    },
+    "cityId": 2990,
+    "countryId": 101,
+    "includes": [
+      "KVINT Wine & Cognac Distillery",
+      "Tiraspol Commerce College",
+      "Tiraspol"
+    ],
+    "POIs": [
+      {
+        "id": 166,
+        "title": "KVINT Wine & Cognac Distillery",
+        "googlePlaceId": "ChIJ_wnOkO8CyUARrTtXLoRVKjc"
+      },
+      {
+        "id": 2159,
+        "title": "Tiraspol Commerce College",
+        "googlePlaceId": "ChIJ99xDkfUCyUARVlhQ66vY_1Y"
+      },
+      {
+        "id": 12417,
+        "title": "Tiraspol",
+        "googlePlaceId": "ChIJzV5HIfECyUART265eRIF8TU"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/4907/free-walking-tour-tiraspol-05.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 47707,
+        "URL": "https://www.freetour.com/images/tours/4907/free-walking-tour-tiraspol-05.jpg"
+      },
+      {
+        "id": 47708,
+        "URL": "https://www.freetour.com/images/tours/4907/free-walking-tour-tiraspol-06.jpg"
+      },
+      {
+        "id": 47709,
+        "URL": "https://www.freetour.com/images/tours/4907/free-walking-tour-tiraspol-07.jpg"
+      },
+      {
+        "id": 47710,
+        "URL": "https://www.freetour.com/images/tours/4907/free-walking-tour-tiraspol-08.jpg"
+      },
+      {
+        "id": 48171,
+        "URL": "https://www.freetour.com/images/tours/4907/free-walking-tour-tiraspol-09.jpg"
+      }
+    ],
+    "videoURL": "https://youtube.com/shorts/gQ_JMFC2854?si=0c5E-Jj6HX-3hZcf",
+    "rating": 4.74,
+    "reviewsNumber": 16
+  },
+  {
+    "id": 9372,
+    "updatedAt": "2025-12-01 01:03:52",
+    "title": {
+      "en": "Pridnestrovie Full Day Tour - to Tiraspol and Beyond!",
+      "es": "Excursión de un día a Pridnestrovie: ¡a Tiraspol y más allá!",
+      "pt": "Excursão de dia inteiro a Pridnestrovie - para Tiraspol e mais além!",
+      "de": "Pridnestrowien Ganztagestour - nach Tiraspol und darüber hinaus!",
+      "fr": "Excursion d'une journée à Pridnestrovie - jusqu'à Tiraspol et au-delà !",
+      "it": "Tour di Pridnestrovie di un'intera giornata - a Tiraspol e oltre!"
+    },
+    "brief": {
+      "de": "Transnistrien Ganztagestour zum Besuch von 3 Städten - Tiraspol, Kitskany und Bendery. Entdecken Sie die Kontraste des Ortes, seine Artefakte und seine Menschen. Essen Sie wie in der UdSSR zu Mittag und hören Sie einige Mythen über diesen Ort.",
+      "en": "Transnistria Full Day Tour to visit 3 towns - Tiraspol, Kitskany and Bendery. Discover the contrasts of the place, its artifacts, and its people. Have USSR-like lunch and hear some myths about the place.",
+      "es": "¡Explora Transnistria con Anton Dendemarchenko, dibujante urbano y cazador de excursiones! <br /> Las principales atracciones y gemas ocultas, la historia y hoy en día, ¡descubra Transnistria ahora!",
+      "fr": "Excursion d'une journée en Transnistrie pour visiter 3 villes - Tiraspol, Kitskany et Bendery. Découvrez les contrastes du lieu, ses objets et ses habitants. Déjeunez comme en URSS et écoutez quelques mythes sur la région.",
+      "it": "Tour di un'intera giornata in Transnistria per visitare 3 città: Tiraspol, Kitskany e Bendery. Scoprite i contrasti del luogo, i suoi manufatti e la sua gente. Pranzo in stile URSS e ascolto di alcuni miti del luogo.",
+      "pt": "Excursão de dia inteiro à Transnístria para visitar 3 cidades - Tiraspol, Kitskany e Bendery. Descubra os contrastes do local, os seus artefactos e as suas gentes. Almoce ao estilo da URSS e ouça alguns mitos sobre o local."
+    },
+    "description": {
+      "de": "Erkunden Sie Pridnestrowien mit Anton Dendemarchenko, einem urbanen Skizzenzeichner und Sightseeing-Jäger und Gründer der Free Walking Tour in Tiraspol, der Hauptstadt des Landes, das es nicht gibt! Top-Sehenswürdigkeiten und versteckte Juwelen, Geschichte und Gegenwart, entdecken Sie jetzt PMR!\r\nEine ganztägige Tour durch drei Städte an einem Tag. Tiraspol, Kitskany und Bendery sind jetzt verfügbar!\r\n\r\nÜberreste vergangener Zeiten und Highlights, Kontraste zwischen Stadt und Land, sowjetische Artefakte und urbane Stadtbilder, authentische Küche und ein Mittagessen wie in der UdSSR, multinationale Einheimische, die in Freundschaft und Frieden leben - dies ist keine Tour, dies ist eine Reise, die tiefstmögliche Reise, die transparenteste Tour aller Möglichkeiten, denn es bleibt Zeit, nicht nur zu sehen, sondern auch über alle Mythen und Wahrheiten zu sprechen, in denen das Land verstrickt ist. \r\nTransfer von Chisinău und zurück ist möglich.\r\n\r\nSetzen Sie sich im Voraus oder in letzter Minute mit uns in Verbindung, um Zeit, Ort, Details und Budget zu klären! Die durchschnittliche Tour dauert von 11 bis 16 Uhr, aber die Dauer kann nach Absprache variieren. Bitte vergewissern Sie sich immer, dass Ihre Buchung den Reiseleiter erreicht hat. Wenn Sie keine Antwort erhalten, dass Ihre Buchung eingegangen ist, schreiben Sie dem Fremdenführer über das kostenlose Konto.",
+      "en": "Go explore Pridnestrovie with Anton Dendemarchenko, an urban sketcher and sightseeing hunter, and founder of Free Walking Tour in Tiraspol, the capital of the country that doesn't exist! Top attractions and hidden gems, history, and nowadays, discover PMR now!\r\nA full-day tour through three towns in one day. Tiraspol, Kitskany, and Bendery are available now!\r\n\r\nRemnants of gone era and highlights, contrasts of city and rural, soviet artifacts and urban cityscapes, authentic cuisine, and USSR-like lunch, multinational locals living in friendship and peace, this is not a tour, this is a journey, the deepest possible trip, the most transparent tour of all possibilities for there is time not only to see but to talk about any myths and truths in which the country is tangled. \r\nTransfer from Chisinău and back is possible.\r\n\r\nContact us in advance or at the last minute to join and check the meeting time, place, details, and budget! The average tour is 11 am-4 pm, but the duration may vary upon agreement. Please always check that your booking has reached the guide. If you don’t get an answer that your booking has been received, write to the guide through the free account.",
+      "es": "Vaya a explorar Pridnestrovie con Anton Dendemarchenko, dibujante urbano y cazador de lugares de interés, y fundador de Free Walking Tour en Tiraspol, ¡la capital del país que no existe! Atracciones principales y joyas ocultas, historia y actualidad, ¡descúbralas ahora!\r\nUna excursión de día completo por tres ciudades en una sola jornada. Tiraspol, Kitskany y Bendery ¡ya está disponible!\r\n\r\nRestos de épocas pasadas y lo más destacado, contrastes entre la ciudad y el campo, artefactos soviéticos y paisajes urbanos, cocina auténtica y almuerzos similares a los de la URSS, lugareños multinacionales que viven en amistad y paz, esto no es un tour, es un viaje, el viaje más profundo posible, el tour más transparente de todas las posibilidades ya que hay tiempo no sólo para ver sino para hablar de todos los mitos y verdades en los que el país está enredado. \r\nEs posible el traslado de ida y vuelta desde Chisinău.\r\n\r\nPóngase en contacto con nosotros con antelación o en el último momento para apuntarse y comprobar la hora de encuentro, el lugar, los detalles y el presupuesto El recorrido medio es de 11 a 16 h, pero la duración puede variar previo acuerdo. Compruebe siempre que su reserva ha llegado al guía. Si no recibe respuesta de que su reserva ha sido recibida, escriba al guía a través de la cuenta gratuita.",
+      "fr": "Partez à la découverte de Pridnestrovie avec Anton Dendemarchenko, dessinateur urbain et chasseur de curiosités, et fondateur de Free Walking Tour à Tiraspol, la capitale du pays qui n'existe pas ! Principales attractions et joyaux cachés, histoire, et de nos jours, découvrez la PMR maintenant !\r\nUne excursion d'une journée complète à travers trois villes en une seule journée. Tiraspol, Kitskany et Bendery sont disponibles dès maintenant !\r\n\r\nDes vestiges d'une époque révolue et des moments forts, des contrastes entre la ville et la campagne, des objets soviétiques et des paysages urbains, une cuisine authentique et un déjeuner digne de l'URSS, des habitants multinationaux vivant dans l'amitié et la paix, ce n'est pas un tour, c'est un voyage, le voyage le plus profond possible, le plus transparent de tous les possibles, car il y a du temps non seulement pour voir mais aussi pour parler des mythes et des vérités dans lesquels le pays est enchevêtré. \r\nUn transfert depuis Chisinău et retour est possible.\r\n\r\nContactez-nous à l'avance ou à la dernière minute pour vous inscrire et vérifier l'heure de rendez-vous, le lieu, les détails et le budget ! La durée moyenne d'une visite est de 11 heures à 16 heures, mais elle peut varier en fonction de l'accord conclu. Veuillez toujours vérifier que votre réservation est bien parvenue au guide. Si vous ne recevez pas de réponse indiquant que votre réservation a été reçue, écrivez au guide via le compte gratuit.",
+      "it": "Esplorate la Pridnestrovie con Anton Dendemarchenko, disegnatore urbano e cacciatore di attrazioni, nonché fondatore del Free Walking Tour di Tiraspol, la capitale del Paese che non esiste! Le principali attrazioni e gemme nascoste, la storia e i giorni nostri, scoprite subito PMR!\r\nUn tour di un'intera giornata attraverso tre città in un solo giorno. Tiraspol, Kitskany e Bendery sono disponibili ora!\r\n\r\nResti di un'epoca passata e punti salienti, contrasti tra città e campagna, manufatti sovietici e paesaggi urbani, cucina autentica e pranzi simili a quelli dell'URSS, abitanti multinazionali che vivono in amicizia e in pace: questo non è un tour, è un viaggio, il viaggio più profondo possibile, il tour più trasparente di tutte le possibilità, perché c'è tempo non solo per vedere ma anche per parlare di tutti i miti e le verità in cui il Paese è invischiato. \r\nÈ possibile il trasferimento da Chisinău e ritorno.\r\n\r\nContattateci in anticipo o all'ultimo minuto per partecipare e verificare l'orario di incontro, il luogo, i dettagli e il budget! La durata media del tour è dalle 11.00 alle 16.00, ma può variare in base agli accordi. Verificate sempre che la vostra prenotazione sia arrivata alla guida. Se non ricevete risposta che la vostra prenotazione è stata ricevuta, scrivete alla guida attraverso l'account gratuito.",
+      "pt": "Explore Pridnestrovie com Anton Dendemarchenko, um desenhador urbano e caçador de paisagens, e fundador do Free Walking Tour em Tiraspol, a capital do país que não existe! Atracções de topo e jóias escondidas, história e hoje em dia, descubra PMR agora!\r\nUm passeio de dia inteiro por três cidades num só dia. Tiraspol, Kitskany e Bendery já estão disponíveis!\r\n\r\nRemanescentes da era passada e destaques, contrastes de cidade e rural, artefatos soviéticos e paisagens urbanas, culinária autêntica e almoço semelhante à URSS, moradores multinacionais que vivem em amizade e paz, isso não é um passeio, é uma jornada, a viagem mais profunda possível, o passeio mais transparente de todas as possibilidades, pois há tempo não apenas para ver, mas para falar sobre quaisquer mitos e verdades em que o país está emaranhado. \r\nÉ possível a transferência de Chisinău e de volta.\r\n\r\nContacte-nos com antecedência ou no último minuto para participar e verificar a hora do encontro, o local, os detalhes e o orçamento! A excursão média é das 11h às 16h, mas a duração pode variar mediante acordo. Por favor, verifique sempre se a sua reserva chegou ao guia. Se não receber uma resposta de que a sua reserva foi recebida, escreva para o guia através da conta gratuita."
+    },
+    "providerTitle": "Dendemarchenko",
+    "providerPhone": "37377805004",
+    "URL": "https://www.freetour.com/tiraspol/transnistria-full-day-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/tiraspol/transnistria-full-day-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/tiraspol/transnistria-full-day-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/tiraspol/transnistria-full-day-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/tiraspol/transnistria-full-day-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/tiraspol/transnistria-full-day-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/tiraspol/transnistria-full-day-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 99,
+      "currency": "EUR"
+    },
+    "length": "5:00",
+    "meetingPoint": {
+      "title": "Tourist Information Centre in Tiraspol ",
+      "coordinates": "46.8421344,29.624413600000025",
+      "googlePlaceId": "ChIJm8tSE_ACyUARdaH_gnmPE70"
+    },
+    "cityId": 2990,
+    "countryId": 101,
+    "includes": [
+      "Tiraspol",
+      "Memorial Complex Kitskany Bridgehead",
+      "Central Market",
+      "Tourist Information Centre",
+      "Chisinau Railway Station",
+      "Soviet legacy",
+      "Urban secrets",
+      "History",
+      "Real life"
+    ],
+    "POIs": [
+      {
+        "id": 12417,
+        "title": "Tiraspol",
+        "googlePlaceId": "ChIJzV5HIfECyUART265eRIF8TU"
+      },
+      {
+        "id": 8019,
+        "title": "Memorial Complex Kitskany Bridgehead",
+        "googlePlaceId": "ChIJoTBdLt0ByUARYczr-DS49ak"
+      },
+      {
+        "id": 2770,
+        "title": "Central Market",
+        "googlePlaceId": "ChIJB5O3M6AGyUARS-kyRH7CuHI"
+      },
+      {
+        "id": 2550,
+        "title": "Tourist Information Centre",
+        "googlePlaceId": "ChIJARx2imUDyUARjJvGoP0mHyY"
+      },
+      {
+        "id": 685,
+        "title": "Chisinau Railway Station",
+        "googlePlaceId": "ChIJ1dcbvhB8yUARVH89zNNaGLo"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-04.jpg",
+    "categoryId": 4,
+    "images": [
+      {
+        "id": 48160,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-04.jpg"
+      },
+      {
+        "id": 48161,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-05.jpg"
+      },
+      {
+        "id": 48162,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-06.jpg"
+      },
+      {
+        "id": 48163,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-07.jpg"
+      },
+      {
+        "id": 48164,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-08.jpg"
+      },
+      {
+        "id": 48165,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-09.jpg"
+      },
+      {
+        "id": 48166,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-10.jpg"
+      },
+      {
+        "id": 48167,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-11.jpg"
+      },
+      {
+        "id": 48168,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-12.jpg"
+      },
+      {
+        "id": 48169,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-13.jpg"
+      },
+      {
+        "id": 48170,
+        "URL": "https://www.freetour.com/images/tours/9372/transnistria-full-day-tour-14.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 1
+  },
+  {
+    "id": 38710,
+    "updatedAt": "2025-12-01 01:07:19",
+    "title": {
+      "en": "Tiraspol Must-See Tour ",
+      "es": "Visita obligada a Tiraspol ",
+      "pt": "Visita guiada obrigatória a Tiraspol ",
+      "de": "Tiraspol muss man gesehen haben ",
+      "fr": "Tournée des incontournables de Tiraspol ",
+      "it": "Tour imperdibile di Tiraspol "
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf diesem wunderbaren Abenteuer durch Tiraspol, lernen Sie den von der UdSSR geprägten Teil und den neuen Teil kennen und erfahren Sie etwas über die große Geschichte und die Kultur, die dieses wunderbare Reiseziel umgibt.",
+      "en": "Come and join us in this wonderful adventure through Tiraspol, get to know the part influenced by the USSR and its new part, and learn a little about its great history and all the culture that surrounds this wonderful destination.",
+      "es": "Ven y acompáñanos en esta maravillosa aventura por Tiraspol, conoce la parte influenciada por la URSS y su parte nueva, y aprende un poco sobre su gran historia y toda la cultura que rodea a este maravilloso destino.",
+      "fr": "Venez nous rejoindre dans cette merveilleuse aventure à travers Tiraspol, découvrez la partie influencée par l'URSS et sa nouvelle partie, et apprenez un peu de sa grande histoire et de toute la culture qui entoure cette merveilleuse destination.",
+      "it": "Unitevi a noi in questa meravigliosa avventura attraverso Tiraspol, conoscete la parte influenzata dall'URSS e la sua nuova parte, e imparate un po' della sua grande storia e di tutta la cultura che circonda questa meravigliosa destinazione.",
+      "pt": "Junte-se a nós nesta maravilhosa aventura por Tiraspol, conheça a parte influenciada pela URSS e a sua nova parte, e aprenda um pouco sobre a sua grande história e toda a cultura que envolve este maravilhoso destino."
+    },
+    "description": {
+      "de": "Die Tour dauert 2,5 Stunden, aber Pridnestrowien verdient mindestens eine Woche. Es ist kein Stalinismus; wir sind sehr wankelmütig, wohin wir gehen und was wir tun sollen, aber die Standardroute deckt die wichtigsten Sehenswürdigkeiten aus der UdSSR-Zeit und die modernen Teile von Tiraspol ab, sowie meine Lieblingsplätze und Ecken, die ich beim Zeichnen entdeckt habe. \r\n\r\nIch fertige Postkarten mit meinen Zeichnungen und preisgünstige Touren zu den wichtigsten Sehenswürdigkeiten und versteckten Juwelen Pridnestrowiens an. Ich kann eine unvergessliche Reise durch alle Kontraste machen, die es gibt - schöne Panoramen und beeindruckende sowjetische Relikte, kuriose Geschichte und das heutige Leben im Land, das es nicht gibt, wobei ich den klassischen Spaziergang mit Streifzügen für echte Entdecker und Abenteurer kombiniere. \r\n\r\nDie Reise wird nicht anstrengend sein, überhaupt nicht langweilig, und wir werden Zeit haben, über alle Besonderheiten der Vergangenheit und Gegenwart von Transnistrien, mein richtiger Name ist Pridnestrowien, zu sprechen.\r\n\r\nSie werden keinen Reiseführer treffen, sondern einen Freund.\r\n\r\nEin Transfer von Chisinău und zurück ist als zusätzliche Option möglich.",
+      "en": "The tour takes 2,5 hours, though Pridnestrovie deserves at least a week. It is not Stalinism; we are very volatile about where to go and what to do, but the default route covers must-see USSR era and modern bits of Tiraspol, plus my favorite nooks and crannies that I discovered doing my sketches. \r\n\r\nI do postcards with my drawings and budget tours to top attractions and hidden gems of Pridnestrovie. I can make an unforgettable journey through all the contrasts of what it is - beautiful panoramas and impressive soviet relics, curious history, and nowadays life in the country that doesn't exist, combining the classic walk with forays for true explorers and adventurers. \r\n\r\nThe trip won’t be exhausting, not boring at all, and we will have time to talk about all the peculiarities of the past and present of Transnistria, my real name is Pridnestrovie.\r\n\r\nYou won’t be meeting a guide, you will be meeting a friend.\r\n\r\nTransfer from Chisinău and back is possible as an extra option.",
+      "es": "El recorrido dura 2,5 horas, aunque Pridnestrovie merece al menos una semana. No es estalinismo; somos muy volubles a la hora de decidir adónde ir y qué hacer, pero la ruta por defecto cubre lugares imprescindibles de la época de la URSS y zonas modernas de Tiraspol, además de mis rincones favoritos que descubrí haciendo mis dibujos. \r\n\r\nHago postales con mis dibujos y excursiones económicas a las principales atracciones y joyas ocultas de Pridnestrovie. Puedo hacer un viaje inolvidable por todos los contrastes de lo que es - hermosos panoramas e impresionantes reliquias soviéticas, curiosa historia y vida actual en el país que no existe, combinando el paseo clásico con incursiones para verdaderos exploradores y aventureros. \r\n\r\nEl viaje no será agotador, para nada aburrido, y tendremos tiempo para hablar de todas las peculiaridades del pasado y el presente de Transnistria, mi verdadero nombre es Pridnestrovie.\r\n\r\nNo conocerás a un guía, sino a un amigo.\r\n\r\nTraslado desde Chisinău y de vuelta es posible como una opción extra.",
+      "fr": "La visite dure 2,5 heures, bien que Pridnestrovie mérite au moins une semaine. Ce n'est pas du stalinisme ; nous sommes très volatiles quant aux endroits où aller et aux choses à faire, mais l'itinéraire par défaut couvre les incontournables de l'époque de l'URSS et les parties modernes de Tiraspol, ainsi que mes coins et recoins préférés que j'ai découverts en faisant mes croquis. \r\n\r\nJe réalise des cartes postales avec mes dessins et des visites guidées à petit prix des principales attractions et des joyaux cachés de Pridnestrovie. Je peux faire un voyage inoubliable à travers tous les contrastes de ce qu'elle est - de magnifiques panoramas et d'impressionnantes reliques soviétiques, une histoire curieuse et la vie actuelle dans un pays qui n'existe pas, en combinant la promenade classique avec des incursions pour les vrais explorateurs et aventuriers. \r\n\r\nLe voyage ne sera pas épuisant, pas du tout ennuyeux, et nous aurons le temps de parler de toutes les particularités du passé et du présent de la Transnistrie, mon vrai nom est Pridnestrovie.\r\n\r\nVous ne rencontrerez pas un guide, mais un ami.\r\n\r\nLe transfert depuis Chisinău et retour est possible en option.",
+      "it": "Il tour dura 2,5 ore, anche se Pridnestrovie merita almeno una settimana. Non si tratta di stalinismo; siamo molto volubili su dove andare e cosa fare, ma l'itinerario predefinito copre i luoghi imperdibili dell'epoca dell'URSS e le parti moderne di Tiraspol, oltre ai miei angoli preferiti che ho scoperto facendo i miei schizzi. \r\n\r\nRealizzo cartoline con i miei disegni e tour economici alle principali attrazioni e alle gemme nascoste della Pridnestrovie. Posso fare un viaggio indimenticabile attraverso tutti i contrasti di ciò che è - bellissimi panorami e impressionanti reliquie sovietiche, storia curiosa e vita odierna nel paese che non esiste, combinando la classica passeggiata con incursioni per veri esploratori e avventurieri. \r\n\r\nIl viaggio non sarà faticoso, non sarà affatto noioso e avremo tempo per parlare di tutte le particolarità del passato e del presente della Transnistria, il mio vero nome è Pridnestrovie.\r\n\r\nNon incontrerete una guida, ma un amico.\r\n\r\nIl trasferimento da Chisinău e ritorno è possibile come opzione extra.",
+      "pt": "A visita dura 2,5 horas, embora Pridnestrovie mereça pelo menos uma semana. Não se trata de estalinismo; somos muito voláteis quanto ao que fazer e onde ir, mas o itinerário predefinido abrange as partes de Tiraspol da era da URSS e as partes modernas que não podem deixar de ser vistas, para além dos meus cantos e recantos preferidos que descobri ao fazer os meus desenhos. \r\n\r\nFaço postais com os meus desenhos e visitas económicas às principais atracções e jóias escondidas de Pridnestrovie. Posso fazer uma viagem inesquecível através de todos os contrastes do que é - belos panoramas e impressionantes relíquias soviéticas, história curiosa e a vida atual no país que não existe, combinando o passeio clássico com incursões para verdadeiros exploradores e aventureiros. \r\n\r\nA viagem não será cansativa, nem aborrecida, e teremos tempo para falar sobre todas as peculiaridades do passado e do presente da Transnístria, o meu nome verdadeiro é Pridnestrovie.\r\n\r\nNão estará a conhecer um guia, estará a conhecer um amigo.\r\n\r\nA transferência de Chisinău e de volta é possível como uma opção extra."
+    },
+    "providerTitle": "Dendemarchenko",
+    "providerPhone": "37377805004",
+    "URL": "https://www.freetour.com/tiraspol/tiraspol-the-wonderful-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/tiraspol/tiraspol-the-wonderful-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/tiraspol/tiraspol-the-wonderful-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/tiraspol/tiraspol-the-wonderful-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/tiraspol/tiraspol-the-wonderful-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/tiraspol/tiraspol-the-wonderful-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/tiraspol/tiraspol-the-wonderful-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 35,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Strada Rosa Luxemburg 66, Tiraspol 3300",
+      "coordinates": "46.83714705089648,29.62454313038961",
+      "googlePlaceId": "ChIJS6IUxfMCyUARwN8ysV9lKg4"
+    },
+    "cityId": 2990,
+    "countryId": 101,
+    "includes": [
+      "Primăria mun. Tiraspol",
+      "Transnistrian Government",
+      "The Christmas/Nativity Cathedral",
+      "Monument to Suvorov",
+      "Green Market",
+      "City House of Culture",
+      "Tank Monument",
+      "Пешеходный и автомобильный мост"
+    ],
+    "POIs": [
+      {
+        "id": 3702,
+        "title": "Primăria mun. Tiraspol",
+        "googlePlaceId": "ChIJdTTKhfECyUARArIdlyG_GvQ"
+      },
+      {
+        "id": 7044,
+        "title": "Transnistrian Government",
+        "googlePlaceId": "ChIJm53nD_8CyUARmiXENDwbs2g"
+      },
+      {
+        "id": 5613,
+        "title": "The Christmas/Nativity Cathedral",
+        "googlePlaceId": "ChIJifrF7fsCyUARwihNxwxGhbQ"
+      },
+      {
+        "id": 1701,
+        "title": "Monument to Suvorov",
+        "googlePlaceId": "ChIJ6TxYLvkCyUARoP-CRgs4p3A"
+      },
+      {
+        "id": 10787,
+        "title": "Green Market",
+        "googlePlaceId": "ChIJvRRMGvwCyUARu5mhZ_ftwKU"
+      },
+      {
+        "id": 5772,
+        "title": "City House of Culture",
+        "googlePlaceId": "ChIJizecQfkCyUAR6P2NLeFmESE"
+      },
+      {
+        "id": 1712,
+        "title": "Tank Monument",
+        "googlePlaceId": "ChIJ6wNcNf8CyUARa62A6FkEMd0"
+      },
+      {
+        "id": 4026,
+        "title": "Пешеходный и автомобильный мост",
+        "googlePlaceId": "ChIJefgvofgCyUARPO0e5pEfnmk"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/38710/tiraspol-must-see-tour-01.jpg",
+    "categoryId": 9,
+    "images": [
+      {
+        "id": 125434,
+        "URL": "https://www.freetour.com/images/tours/38710/tiraspol-must-see-tour-01.jpg"
+      },
+      {
+        "id": 125435,
+        "URL": "https://www.freetour.com/images/tours/38710/tiraspol-must-see-tour-02.jpg"
+      },
+      {
+        "id": 125436,
+        "URL": "https://www.freetour.com/images/tours/38710/tiraspol-must-see-tour-03.jpg"
+      },
+      {
+        "id": 125437,
+        "URL": "https://www.freetour.com/images/tours/38710/tiraspol-must-see-tour-04.jpg"
+      },
+      {
+        "id": 125438,
+        "URL": "https://www.freetour.com/images/tours/38710/tiraspol-must-see-tour-05.jpg"
+      },
+      {
+        "id": 139192,
+        "URL": "https://www.freetour.com/images/tours/38710/tiraspol-the-wonderful-tour-01.jpg"
+      }
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=Ub2Zj0kVXJk",
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 54174,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Chisinau City Tour & Visit Milesti Mici Winery",
+      "es": "Visita de Chisinau y Bodega Milesti Mici",
+      "pt": "Visita à cidade de Chisinau e à adega Milesti Mici",
+      "de": "Chisinau Stadtrundfahrt &amp; Besuch Milesti Mici Weingut",
+      "fr": "Visite de la ville de Chisinau et du vignoble Milesti Mici",
+      "it": "Tour della città di Chisinau e visita alla cantina Milesti Mici"
+    },
+    "brief": {
+      "de": "Erforschen Sie diese erstaunliche Stadt! Liebe alle, die die Republik Moldau besuchen möchten, diese Tour beginnt in der Hauptstadt der Republik Moldau, Chisinau Stadt. Genießen Sie diese wunderbare Tour mit unserem Team.",
+      "en": "Explore this amazing city! Dear all who desire to visit Moldova,  this tour starts from the capital of Moldova, Chisinau city. Enjoy this wonderful tour with our team.",
+      "es": "¡Explore esta increíble ciudad! Queridos todos los que desean visitar Moldavia, este tour comienza desde la capital de Moldavia, la ciudad de Chisinau. Disfrute de este maravilloso tour con nuestro equipo.",
+      "fr": "Explorez cette ville étonnante ! Chers tous ceux qui souhaitent visiter la Moldavie, ce circuit part de la capitale de la Moldavie, la ville de Chisinau. Profitez de cette merveilleuse visite avec notre équipe.",
+      "it": "Esplorate questa città straordinaria! Per tutti coloro che desiderano visitare la Moldavia, questo tour parte dalla capitale della Moldavia, la città di Chisinau. Godetevi questo meraviglioso tour con il nostro team.",
+      "pt": "Explore esta cidade fantástica! Caros amigos que desejam visitar a Moldávia, esta excursão começa na capital da Moldávia, a cidade de Chisinau. Desfrutem deste maravilhoso passeio com a nossa equipa."
+    },
+    "description": {
+      "de": "Die Stadt Chisinau, die Hauptstadt der Republik Moldau, liegt auf sieben Hügeln in der Nähe des Flusses Bull. Dieses Gebiet ist seit der Altsteinzeit besiedelt. Zu den bedeutendsten archäologischen Funden gehören jene aus den Kulturen der Geto-Daker (4.-1. Jahrhundert v. Chr.) und der Chernyakhov-Santana de Mures (3.-4. Jahrhundert v. Chr.).\r\n\r\nAm Morgen machen wir einen Stadtrundgang durch Chișinău, nehmen Sie den Stress aus der Navigation, wie Ihr Führer führt Sie zu den beeindruckendsten Sehenswürdigkeiten und Denkmäler nach der Stadtrundfahrt in einem komfortablen Auto fahren wir zu Milesti Mici \"unterirdischen Kellern, hier genießen Weinkeller Ausflug.\r\n\r\nDeshalb ist Chisinau so vielfältig in Architektur und Kultur, vom russischen Klassizismus bis hin zu Gebäuden im asiatischen Stil - alles an einem Ort.\r\n\r\n Genießen Sie diese wunderbare Tour mit unserem Team.",
+      "en": "The city of Chisinau, the capital of the Republic of Moldova, is located on seven hills, near the Bull River. This area has been inhabited since Paleolithic times, among the most significant archaeological finds are those dating back to the Geto-Dacian (4th-1st centuries BC) and Chernyakhov-Santana de Mures (3rd-4th centuries BC) AD) cultures.\r\n\r\nIn the morning we will do a walking city tour of Chișinău, take the stress out of navigating as your guide leads you to the most impressive sights and monuments after the city tour in a comfortable car we drive to Milesti Mici “underground Cellars, here will enjoy winery excursion.\r\n\r\nThat's why Chisinau is so diverse in architecture and culture, ranging from Russian Classicist Style and ending with Asian style buildings - all in one place.\r\n\r\n Enjoy this wonderful tour with our team.",
+      "es": "La ciudad de Chisinau, capital de la República de Moldavia, está situada sobre siete colinas, cerca del río Bull. Esta zona ha estado habitada desde el Paleolítico; entre los hallazgos arqueológicos más significativos se encuentran los que datan de las culturas Geto-Daciana (siglos IV-I a.C.) y Chernyakhov-Santana de Mures (siglos III-IV a.C.) d.C.).\r\n\r\nPor la mañana vamos a hacer un recorrido a pie por la ciudad de Chișinău, tomar el estrés de la navegación como su guía le lleva a los lugares más impresionantes y monumentos después de la visita de la ciudad en un coche cómodo nos dirigimos a Milesti Mici \"Bodegas subterráneas, aquí podrá disfrutar de excursión bodega.\r\n\r\nEs por eso que Chisinau es tan diversa en arquitectura y cultura, que van desde el estilo clasicista ruso y terminando con edificios de estilo asiático - todo en un solo lugar.\r\n\r\n Disfrute de esta maravillosa excursión con nuestro equipo.",
+      "fr": "La ville de Chisinau, capitale de la République de Moldavie, est située sur sept collines, près de la rivière Bull. Cette région est habitée depuis le paléolithique. Parmi les découvertes archéologiques les plus importantes, on peut citer celles qui remontent aux cultures Geto-Dacienne (4e-1er siècle av. J.-C.) et Chernyakhov-Santana de Mures (3e-4e siècle av. J.-C.).\r\n\r\nLe matin, nous ferons une visite à pied de la ville de Chișinău, où votre guide vous conduira vers les sites et monuments les plus impressionnants. Après la visite de la ville, nous nous rendrons dans une voiture confortable aux \"caves souterraines\" Milesti Mici, où nous ferons une excursion dans une cave à vin.\r\n\r\nC'est pourquoi Chisinau est si diversifiée en termes d'architecture et de culture, allant du style classique russe aux bâtiments de style asiatique - le tout en un seul endroit.\r\n\r\n Profitez de cette merveilleuse visite avec notre équipe.",
+      "it": "La città di Chisinau, capitale della Repubblica di Moldova, è situata su sette colline, vicino al fiume Toro. Quest'area è stata abitata fin dal Paleolitico; tra i reperti archeologici più significativi vi sono quelli risalenti alle culture Geto-Dacica (IV-I secolo a.C.) e Chernyakhov-Santana de Mures (III-IV secolo a.C.) d.C.).\r\n\r\nIn mattinata faremo un tour a piedi della città di Chișinău, per evitare lo stress della navigazione mentre la guida vi condurrà ai luoghi e ai monumenti più impressionanti. Dopo il tour della città, a bordo di una comoda auto, ci dirigeremo verso le \"Cantine sotterranee Milesti Mici\" e qui faremo un'escursione in cantina.\r\n\r\nEcco perché Chisinau è così varia nell'architettura e nella cultura, spaziando dallo stile classicista russo fino agli edifici in stile asiatico - tutto in un unico luogo.\r\n\r\n Godetevi questo meraviglioso tour con il nostro team.",
+      "pt": "A cidade de Chisinau, capital da República da Moldávia, está situada em sete colinas, perto do rio Bull. Esta área tem sido habitada desde os tempos paleolíticos, entre os achados arqueológicos mais significativos estão os que datam das culturas Geto-Dacian (séculos IV-XI aC) e Chernyakhov-Santana de Mures (séculos III-XIV aC) AD).\r\n\r\nDe manhã, faremos um passeio a pé pela cidade de Chișinău, aliviaremos o estresse de navegar enquanto seu guia o leva aos pontos turísticos e monumentos mais impressionantes após o passeio pela cidade em um carro confortável, dirigimos para Milesti Mici \"Caves subterrâneas, aqui desfrutaremos de uma excursão à vinícola.\r\n\r\nÉ por isso que Chisinau é tão diversificada em termos de arquitetura e cultura, variando entre o estilo classicista russo e terminando com edifícios de estilo asiático - tudo num só lugar.\r\n\r\n Desfrute deste maravilhoso passeio com a nossa equipa."
+    },
+    "providerTitle": "lilia",
+    "providerPhone": "+37378085312",
+    "URL": "https://www.freetour.com/chisinau/chisinau-city-tour-visit-milesti-mici-winery?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/chisinau/chisinau-city-tour-visit-milesti-mici-winery?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/chisinau/chisinau-city-tour-visit-milesti-mici-winery?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/chisinau/chisinau-city-tour-visit-milesti-mici-winery?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/chisinau/chisinau-city-tour-visit-milesti-mici-winery?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/chisinau/chisinau-city-tour-visit-milesti-mici-winery?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/chisinau/chisinau-city-tour-visit-milesti-mici-winery?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 209,
+      "currency": "EUR"
+    },
+    "length": "4:30",
+    "meetingPoint": {
+      "title": "City park hotel ",
+      "coordinates": "47.02726730000001,28.8365485",
+      "googlePlaceId": "ChIJ49RTr2B8yUAREBpUlE6RgTQ"
+    },
+    "cityId": 2984,
+    "countryId": 101,
+    "includes": [
+      "City Park Hotel",
+      "Entrance tickets",
+      "Guide",
+      "Round trip transportation"
+    ],
+    "POIs": [
+      {
+        "id": 21140,
+        "title": "City Park Hotel",
+        "googlePlaceId": "ChIJFw6-6jV8yUARrrNIxBwdll8"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-02.jpg",
+    "categoryId": 9,
+    "images": [
+      {
+        "id": 185590,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-02.jpg"
+      },
+      {
+        "id": 185591,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-03.jpg"
+      },
+      {
+        "id": 185592,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-04.jpg"
+      },
+      {
+        "id": 185593,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-05.jpg"
+      },
+      {
+        "id": 185594,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-06.jpg"
+      },
+      {
+        "id": 185595,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-07.jpg"
+      },
+      {
+        "id": 185596,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-08.jpg"
+      },
+      {
+        "id": 185597,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-09.jpg"
+      },
+      {
+        "id": 185598,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-10.jpg"
+      },
+      {
+        "id": 185601,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-12.jpg"
+      },
+      {
+        "id": 298905,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-01.jpg"
+      },
+      {
+        "id": 298906,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-11.jpg"
+      },
+      {
+        "id": 298907,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-13.jpg"
+      },
+      {
+        "id": 298908,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-14.jpg"
+      },
+      {
+        "id": 298909,
+        "URL": "https://www.freetour.com/images/tours/54174/chisinau-city-tour-visit-milesti-mici-winery-15.jpg"
+      }
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=6Na2PBdgtiU",
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 83914,
+    "updatedAt": "2025-12-01 03:32:46",
+    "title": {
+      "en": "Free Walking Tour around Chisinau",
+      "es": "Paseo gratuito por Chisinau",
+      "pt": "Passeio a pé gratuito por Chisinau",
+      "de": "Kostenloser Spaziergang durch Chisinau",
+      "fr": "Visite à pied gratuite de Chisinau",
+      "it": "Tour gratuito a piedi intorno a Chisinau"
+    },
+    "brief": {
+      "de": "Nehmen Sie an einem kostenlosen Rundgang durch Chisinau teil! Entdecken Sie das Stadtzentrum, erkunden Sie die architektonischen Juwelen und erfahren Sie mehr über die Geschichte der pulsierenden Hauptstadt Moldawiens auf diesem unvergesslichen Spaziergang. Verpassen Sie es nicht!",
+      "en": "Join a free walking tour of Chisinau! Discover the city center, explore its architectural gems, and uncover the stories behind Moldova’s vibrant capital on this engaging and memorable stroll. Don't miss it!",
+      "es": "Únase a un recorrido gratuito a pie por Chisinau Descubra el centro de la ciudad, explore sus joyas arquitectónicas y descubra las historias que se esconden tras la vibrante capital de Moldavia en este atractivo y memorable paseo. ¡No se lo pierda!",
+      "fr": "Participez à une visite à pied gratuite de Chisinau ! Découvrez le centre-ville, explorez ses joyaux architecturaux et découvrez les histoires qui se cachent derrière la vibrante capitale de la Moldavie au cours de cette promenade captivante et mémorable. À ne pas manquer !",
+      "it": "Partecipate a un tour a piedi gratuito di Chisinau! Scoprite il centro della città, esplorate i suoi gioielli architettonici e scoprite le storie che si celano dietro la vibrante capitale della Moldavia in questa passeggiata coinvolgente e memorabile. Da non perdere!",
+      "pt": "Participe num passeio a pé gratuito por Chisinau! Descubra o centro da cidade, explore as suas jóias arquitectónicas e descubra as histórias por detrás da vibrante capital da Moldávia neste passeio envolvente e memorável. Não perca!"
+    },
+    "description": {
+      "de": "Liebe Chisinau-Gäste! Ich lade Sie zu einem Rundgang durch das Stadtzentrum von Chisinau ein. Auf unserem Spaziergang werden Sie viel über die Geschichte von Chisinau und Moldawien erfahren. Ich werde Ihnen interessante Informationen über das frühere und heutige Moldawien, seine Kultur und Traditionen vermitteln und Sie mit lokalen Tipps versorgen.",
+      "en": "Dear Chisinau-guests! I invite you to the walking tour in the city center of Chisinau. On our walk, you will find out a lot about the history of Chisinau and Moldova. I will share with you interesting information about past and present-day Moldova, its culture, traditions, and provide you with local tips.",
+      "es": "Estimados visitantes de Chisinau Les invito al recorrido a pie por el centro de la ciudad de Chisinau. En nuestro paseo descubrirán muchas cosas sobre la historia de Chisinau y de Moldavia. Compartiré con ustedes información interesante sobre el pasado y el presente de Moldavia, su cultura, tradiciones, y les daré consejos locales.",
+      "fr": "Chers invités de Chisinau ! Je vous invite à une promenade dans le centre ville de Chisinau. Au cours de notre promenade, vous découvrirez beaucoup de choses sur l'histoire de Chisinau et de la Moldavie. Je partagerai avec vous des informations intéressantes sur la Moldavie d'hier et d'aujourd'hui, sa culture, ses traditions, et je vous donnerai des conseils sur la vie locale.",
+      "it": "Cari ospiti di Chisinau! Vi invito al tour a piedi nel centro della città di Chisinau. Durante la nostra passeggiata, scoprirete molte cose sulla storia di Chisinau e della Moldavia. Condividerò con voi informazioni interessanti sulla Moldavia di ieri e di oggi, sulla sua cultura, sulle sue tradizioni e vi fornirò consigli locali.",
+      "pt": "Caros hóspedes de Chisinau! Convido-vos para um passeio a pé no centro da cidade de Chisinau. Durante o nosso passeio, ficarão a saber muito sobre a história de Chisinau e da Moldávia. Partilharei convosco informações interessantes sobre a Moldávia do passado e do presente, a sua cultura e tradições, e dar-vos-ei dicas locais."
+    },
+    "providerTitle": "Anastasia Creciun",
+    "providerPhone": "+37379283468",
+    "URL": "https://www.freetour.com/chisinau/free-walking-tour-around-chisinau?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/chisinau/free-walking-tour-around-chisinau?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/chisinau/free-walking-tour-around-chisinau?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/chisinau/free-walking-tour-around-chisinau?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/chisinau/free-walking-tour-around-chisinau?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/chisinau/free-walking-tour-around-chisinau?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/chisinau/free-walking-tour-around-chisinau?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Organ Hall, between the lion statues.",
+      "coordinates": "47.0223328,28.8352526",
+      "googlePlaceId": "ChIJv87ZVDB8yUAROKLUglzCV1U"
+    },
+    "cityId": 2984,
+    "countryId": 101,
+    "includes": [
+      "Eugen Doga Pedestrian Street",
+      "Gheorghe Asachi Romanian-French Theoretical Lyceum",
+      "Parliament of Moldova",
+      "National Museum of Fine Arts of Moldova",
+      "National Library of Moldova",
+      "Mihai Eminescu National Theatre",
+      "Organ Hall",
+      "Greek church",
+      "Stephen the Great Central Park",
+      "Metropolitan Cathedral of Christ's Nativity"
+    ],
+    "POIs": [
+      {
+        "id": 34177,
+        "title": "Eugen Doga Pedestrian Street",
+        "googlePlaceId": "ChIJ1Z8xoSx9yUAR3Xy0TnJHB8Q"
+      },
+      {
+        "id": 34171,
+        "title": "Gheorghe Asachi Romanian-French Theoretical Lyceum",
+        "googlePlaceId": "ChIJBUUxHzJ8yUARzBxFKY5dDa4"
+      },
+      {
+        "id": 34175,
+        "title": "Parliament of Moldova",
+        "googlePlaceId": "ChIJG59Ybct9yUARD4M7EpqMqp4"
+      },
+      {
+        "id": 34172,
+        "title": "National Museum of Fine Arts of Moldova",
+        "googlePlaceId": "ChIJi1fOSTJ8yUARRwk8RatgrBA"
+      },
+      {
+        "id": 34173,
+        "title": "National Library of Moldova",
+        "googlePlaceId": "ChIJJbUtrzN8yUARBMUVQ3KcG9g"
+      },
+      {
+        "id": 34169,
+        "title": "Mihai Eminescu National Theatre",
+        "googlePlaceId": "ChIJKacQGzF8yUAREr5hLyW3xVc"
+      },
+      {
+        "id": 34168,
+        "title": "Organ Hall",
+        "googlePlaceId": "ChIJmTwbazF8yUARoJYUwLwVJsQ"
+      },
+      {
+        "id": 34170,
+        "title": "Greek church",
+        "googlePlaceId": "ChIJoRWUFQB9yUAR3te4eHkNSzc"
+      },
+      {
+        "id": 34174,
+        "title": "Stephen the Great Central Park",
+        "googlePlaceId": "ChIJtz5tUzN8yUARTXkgw9DMPg0"
+      },
+      {
+        "id": 34176,
+        "title": "Metropolitan Cathedral of Christ's Nativity",
+        "googlePlaceId": "ChIJW2JQSTR8yUARYT7apI1_7cY"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/83914/free-walking-tour-around-chisinau-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 290198,
+        "URL": "https://www.freetour.com/images/tours/83914/free-walking-tour-around-chisinau-01.jpg"
+      },
+      {
+        "id": 290199,
+        "URL": "https://www.freetour.com/images/tours/83914/free-walking-tour-around-chisinau-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.93,
+    "reviewsNumber": 17
+  }
+]

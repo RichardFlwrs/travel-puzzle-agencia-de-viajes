@@ -1,0 +1,474 @@
+[
+  {
+    "id": 5745,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Kazan 3-Hour Special Tour",
+      "es": "Kazan Tour Especial de 3 Horas",
+      "pt": "Visita especial de 3 horas a Kazan",
+      "de": "Kasan 3-Stunden-Spezial-Tour",
+      "fr": "Visite spéciale de 3 heures à Kazan",
+      "it": "Tour speciale di Kazan di 3 ore"
+    },
+    "brief": {
+      "de": "Nehmen Sie an dieser Tour teil und entdecken Sie den alten und neuen Teil der Stadt Kasan. Das kulturelle Zusammentreffen von slawischen und tatarischen Kulturen macht Kasan zu einer ganz besonderen Stadt.",
+      "en": "Join this tour and discover the old and new part of the Kazan city. Understanding the cultural confluence of Slavic and Tatar cultures, makes Kazan a very special city.",
+      "es": "Descubra la parte antigua de la ciudad y moderno. Lugar, que tiene el conflujo cultural de las culturas eslava y tártara hace que Kazan sea una ciudad muy especial.",
+      "fr": "Participez à cette visite et découvrez les parties anciennes et nouvelles de la ville de Kazan. Comprendre la confluence des cultures slave et tatare fait de Kazan une ville très spéciale.",
+      "it": "Partecipate a questo tour e scoprite la parte vecchia e nuova della città di Kazan. La comprensione della confluenza culturale delle culture slave e tatare rende Kazan una città molto speciale.",
+      "pt": "Participe nesta excursão e descubra a parte antiga e a parte nova da cidade de Kazan. Compreender a confluência cultural das culturas eslava e tártara faz de Kazan uma cidade muito especial."
+    },
+    "description": {
+      "de": "Zweistündige Tour mit 3 strategischen Stopps, bei denen wir die Ikone der Gottesmutter von Kasan, die Tartarenstadt und das Kukol-Theater besuchen werden",
+      "en": "Two hours of tour with 3 strategic stops in which we will visit the icon of our lady of Kazan, the tartar city and the Kukol theater",
+      "es": "Dos horas de grabación con 3 paradas estratégicas en las que visitaremos el icono de nuestra señora de Kazán, la ciudad tartara y el teatro Kukol",
+      "fr": "Deux heures de visite avec 3 arrêts stratégiques au cours desquels nous visiterons l'icône de Notre-Dame de Kazan, la ville tartare et le théâtre Kukol",
+      "it": "Due ore di tour con 3 tappe strategiche in cui visiteremo l'icona di Nostra Signora di Kazan, la città tartara e il teatro Kukol",
+      "pt": "Duas horas de passeio com 3 paragens estratégicas nas quais visitaremos o ícone de nossa senhora de Kazan, a cidade tártara e o teatro Kukol"
+    },
+    "providerTitle": "Hugo Bautista",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/kazan/kazan-tour-especial-de--horas?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/kazan/kazan-tour-especial-de--horas?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/kazan/kazan-tour-especial-de--horas?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/kazan/kazan-tour-especial-de--horas?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/kazan/kazan-tour-especial-de--horas?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/kazan/kazan-tour-especial-de--horas?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/kazan/kazan-tour-especial-de--horas?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 25,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "bauman street",
+      "coordinates": "55.83063800000001,49.06646009999997",
+      "googlePlaceId": "ChIJabvWasBSWUERdt-baBQU_y4"
+    },
+    "cityId": 3539,
+    "countryId": 129,
+    "includes": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/5745/guia-turistico-01.jpg",
+    "categoryId": 2,
+    "images": [
+      {
+        "id": 36165,
+        "URL": "https://www.freetour.com/images/tours/5745/guia-turistico-01.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 5822,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "The Hermitage and Winter Palace Tour Petersburg",
+      "es": "El Hermitage y el Palacio de Invierno Tour Petersburgo",
+      "pt": "Visita ao Hermitage e ao Palácio de Inverno de Petersburgo",
+      "de": "Die Eremitage und der Winterpalast Tour Petersburg",
+      "fr": "Visite de l'Ermitage et du Palais d'Hiver à Pétersbourg",
+      "it": "Tour dell'Ermitage e del Palazzo d'Inverno di Pietroburgo"
+    },
+    "brief": {
+      "de": "Entdecken Sie die unglaublichen künstlerischen Meisterwerke im wunderschönen Eremitage-Museum an der Newa, einer der größten und renommiertesten Institutionen der Welt, die unglaubliche Werke beherbergt, die man gesehen haben muss.",
+      "en": "Discover the incredible artistic masterpieces at the beautiful Hermitage museum on the Neva River, one of the world's largest and most renowned institutions housing incredible must-see works.",
+      "es": "El museo del Hermitage es uno de los más grandes del mundo y su área se compone de seis magníficos edificios situados a lo largo del río Neva. Explora las obras maestras del genio del arte.",
+      "fr": "Découvrez les incroyables chefs-d'œuvre artistiques du magnifique musée de l'Ermitage sur la Neva, l'une des institutions les plus importantes et les plus renommées au monde, qui abrite des œuvres incroyables à ne pas manquer.",
+      "it": "Scoprite gli incredibili capolavori artistici del bellissimo museo Hermitage sul fiume Neva, una delle istituzioni più grandi e rinomate al mondo che ospita incredibili opere da non perdere.",
+      "pt": "Descubra as incríveis obras-primas artísticas do belo museu Hermitage, no rio Neva, uma das maiores e mais famosas instituições do mundo, que alberga incríveis obras imperdíveis."
+    },
+    "description": {
+      "de": "Die Staatliche Eremitage ist eines der größten Museen der Welt und besteht aus sechs prächtigen Gebäuden, die sich am Ufer der Newa befinden. Es würde 15 Jahre dauern, um alle Exponate der Eremitage zu sehen. Wir schlagen Ihnen vor, die Perlen der Sammlung zu bewundern. \r\nIm Laufe der Exkursion werden Sie mit den Meisterwerken herausragender Künstler aus Italien, Spanien, Holland, Flandern, Frankreich, England, Deutschland und anderen westeuropäischen Ländern vertraut gemacht. Zu sehen sind Werke von großen Meistern wie Leonardo da Vinci, Raffael, Giorgione, Tizian, Michelangelo, Francisco de Goya, Renoir, Picasso und vielen anderen. Die Liebhaber der Kunst der Impressionisten und Postimpressionisten werden sich an den Werken von Degas, Renoir, Pissarro, Van Gogh, Gauguin und anderen Künstlern erfreuen. \r\nWir hoffen, dass Sie Ihren Besuch in der Staatlichen Eremitage als eine der besten Erfahrungen Ihres Lebens in Erinnerung behalten werden.",
+      "en": "One of the largest museums in the world, the State Hermitage occupies six magnificent buildings situated along the embankment of the Neva River. It would take 15 years to see all the exhibits treasured in the Hermitage. We suggest you to admire the gems of the collection. \r\nIn the course of the excursion you will be familiarized with masterpieces by outstanding artists from Italy, Spain, Holland, Flanders, France, England, Germany, and other Western European countries. On display there are works by such great masters as Leonardo da Vinci, Raphael, Giorgione, Titian, Michelangelo, Francisco de Goya, Renoir, Picasso and many others. The lovers of the art of impressionists and postimpressionists will definitely enjoy works by Degas, Renoir, Pissarro, Van Gogh, Gauguin and other artists. \r\nWe hope that you will remember your visit to the State Hermitage museum as one of the best experiences of your life.",
+      "es": "Uno de los museos más grandes del mundo, el Hermitage del Estado ocupa seis magníficos edificios situados a lo largo del terraplén del río Neva. Tomaría 15 años para ver todas las exhibiciones atesoradas en el Hermitage. Sugerimos que admire las gemas de la colección. <br /> En el transcurso de la excursión, se familiarizará con obras maestras de destacados artistas de Italia, España, Holanda, Flandes, Francia, Inglaterra, Alemania y otros países de Europa Occidental. En la exhibición hay obras de grandes maestros como Leonardo da Vinci, Rafael, Giorgione, Tiziano, Miguel Ángel, Francisco de Goya, Renoir, Picasso y muchos otros. Los amantes del arte de los impresionistas y postimpresionistas definitivamente disfrutarán de obras de Degas, Renoir, Pissarro, Van Gogh, Gauguin y otros artistas. <br /> Esperamos que recuerde su visita al Museo Estatal del Hermitage como una de las mejores experiencias de su vida.",
+      "fr": "L'un des plus grands musées du monde, l'Ermitage d'État occupe six magnifiques bâtiments situés le long de la rive de la Neva. Il faudrait 15 ans pour voir toutes les pièces conservées à l'Ermitage. Nous vous proposons d'admirer les joyaux de la collection. \r\nAu cours de l'excursion, vous vous familiariserez avec les chefs-d'œuvre de grands artistes italiens, espagnols, hollandais, flamands, français, anglais, allemands et d'autres pays d'Europe occidentale. Des œuvres de grands maîtres tels que Léonard de Vinci, Raphaël, Giorgione, Titien, Michel-Ange, Francisco de Goya, Renoir, Picasso et bien d'autres sont exposées. Les amateurs d'art impressionniste et postimpressionniste apprécieront certainement les œuvres de Degas, Renoir, Pissarro, Van Gogh, Gauguin et d'autres artistes. \r\nNous espérons que vous vous souviendrez de votre visite au musée de l'Ermitage comme de l'une des meilleures expériences de votre vie.",
+      "it": "Uno dei più grandi musei del mondo, l'Ermitage di Stato occupa sei magnifici edifici situati lungo l'argine del fiume Neva. Ci vorrebbero 15 anni per vedere tutti i reperti custoditi all'Ermitage. Vi suggeriamo di ammirare le gemme della collezione. \r\nNel corso dell'escursione conoscerete i capolavori di artisti di spicco provenienti da Italia, Spagna, Olanda, Fiandre, Francia, Inghilterra, Germania e altri Paesi dell'Europa occidentale. Sono esposte opere di grandi maestri come Leonardo da Vinci, Raffaello, Giorgione, Tiziano, Michelangelo, Francisco de Goya, Renoir, Picasso e molti altri. Gli amanti dell'arte degli impressionisti e dei postimpressionisti apprezzeranno sicuramente le opere di Degas, Renoir, Pissarro, Van Gogh, Gauguin e altri artisti. \r\nVi auguriamo di ricordare la vostra visita al Museo statale dell'Ermitage come una delle migliori esperienze della vostra vita.",
+      "pt": "Um dos maiores museus do mundo, o Hermitage ocupa seis magníficos edifícios situados ao longo da margem do rio Neva. Seriam necessários 15 anos para ver todas as exposições guardadas no Hermitage. Sugerimos-lhe que admire as jóias da colecção. \r\nNo decurso da excursão, ficará familiarizado com obras-primas de artistas notáveis de Itália, Espanha, Holanda, Flandres, França, Inglaterra, Alemanha e outros países da Europa Ocidental. Em exposição estão obras de grandes mestres como Leonardo da Vinci, Rafael, Giorgione, Ticiano, Miguel Ângelo, Francisco de Goya, Renoir, Picasso e muitos outros. Os amantes da arte impressionista e pós-impressionista irão certamente apreciar as obras de Degas, Renoir, Pissarro, Van Gogh, Gauguin e outros artistas. \r\nEsperamos que recorde a sua visita ao museu Hermitage como uma das melhores experiências da sua vida."
+    },
+    "providerTitle": "Kitchentobook",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/st-petersburg/the-hermitage-and-winter-palace-tour-petersburg?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/st-petersburg/the-hermitage-and-winter-palace-tour-petersburg?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/st-petersburg/the-hermitage-and-winter-palace-tour-petersburg?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/st-petersburg/the-hermitage-and-winter-palace-tour-petersburg?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/st-petersburg/the-hermitage-and-winter-palace-tour-petersburg?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/st-petersburg/the-hermitage-and-winter-palace-tour-petersburg?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/st-petersburg/the-hermitage-and-winter-palace-tour-petersburg?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 220,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "Upon Arrival",
+      "coordinates": "59.93574,30.3257701",
+      "googlePlaceId": "ChIJO2M5hg4xlkYRiSBRrkqA_dI"
+    },
+    "cityId": 3559,
+    "countryId": 129,
+    "includes": null,
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/5822/the-hermitage-and-winter-palace-tour-petersburg-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 41236,
+        "URL": "https://www.freetour.com/images/tours/5822/the-hermitage-and-winter-palace-tour-petersburg-01.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 6947,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Moscow City Center Walking Tour",
+      "es": "Centro de la Ciudad de Moscú",
+      "pt": "Passeio a pé pelo centro da cidade de Moscovo",
+      "de": "Moskau Stadtzentrum Rundgang",
+      "fr": "Visite à pied du centre ville de Moscou",
+      "it": "Tour a piedi del centro di Mosca"
+    },
+    "brief": {
+      "de": "Erleben Sie einen unvergesslichen Tag im Herzen der russischen Hauptstadt! Beginnen Sie Ihren Urlaub in Moskau mit unserer Tour, und wir sorgen dafür, dass Ihre Reise noch lange nach Ihrer Abreise in Erinnerung bleibt.",
+      "en": "Have an unforgettable day exploring the heart of the Russian capital! Start your vacation in Moscow with our tour, and we'll make sure your trip burns brightly in your memory long after you've left.",
+      "es": "¡Pasa un día inolvidable explorando el corazón de la capital de Rusia! Comienza tus vacaciones en Moscú con nuestro tour, y nos aseguraremos de que tu viaje brille intensamente en tu memoria mucho después de que te hayas ido.",
+      "fr": "Passez une journée inoubliable au cœur de la capitale russe ! Commencez vos vacances à Moscou avec notre circuit, et nous ferons en sorte que votre voyage reste gravé dans votre mémoire longtemps après votre départ.",
+      "it": "Trascorrete una giornata indimenticabile esplorando il cuore della capitale russa! Iniziate la vostra vacanza a Mosca con il nostro tour e faremo in modo che il vostro viaggio rimanga impresso nella vostra memoria anche dopo la partenza.",
+      "pt": "Passe um dia inesquecível a explorar o coração da capital russa! Comece as suas férias em Moscovo com a nossa visita guiada e nós faremos com que a sua viagem fique bem gravada na sua memória muito depois de ter partido."
+    },
+    "description": {
+      "de": "Auf dieser aufregenden Tour werden wir die wunderbare Stadt Moskau erkunden. Es gibt viele Sehenswürdigkeiten in der russischen Hauptstadt zu entdecken, aber die wichtigsten Wahrzeichen und andere berühmte Bauwerke, die Sie mit uns sehen werden, dürfen Sie auf keinen Fall verpassen.\r\n\r\nDie Tour beginnt am National Hotel, dann spazieren wir die malerische Twerskaja Straße entlang, besuchen den einzigartigen Supermarkt \"Eliseevsky\" und genießen den Spaziergang durch die bemerkenswerte historische Innenstadt. Sie werden von der fabelhaften Aussicht auf die Stadt verzaubert sein, das prächtige Bolschoi-Theater sehen, eine der symbolträchtigsten Attraktionen Moskaus, das KGB-Gebäude, und natürlich den Roten Platz erkunden und GUM besuchen - das größte Einkaufszentrum Moskaus.",
+      "en": "On this exciting tour, we'll walk around the marvelous city of Moscow. There are plenty of sights to discover in the Russian capital, however, you definitely can't miss its main landmarks and other famous pieces of architecture you'll see with us.\r\n\r\nThe tour will start from the National Hotel, then we'll walk along the picturesque Tverskaya street, visit the unique supermarket \"Eliseevsky\", enjoy the stroll around the remarkable historic downtown. You will be enchanted with the fabulous city views, see the magnificent Bolshoi Theatre, one of Moscow's most symbolic attractions, the KGB building, and, of course, explore the Red Square and visit GUM - the largest shopping mall in Moscow.",
+      "es": "En este emocionante recorrido, caminaremos por la maravillosa ciudad de Moscú. Hay muchos lugares por descubrir en la capital rusa, sin embargo, definitivamente no puedes perderte sus principales monumentos y las piezas de arquitectura famosas que verás con nosotros.\r\nEl recorrido comenzará desde el Hotel Nacional, luego caminaremos por la pintoresca calle Tverskaya, visitaremos el exclusivo supermercado \"Eliseevsky\", disfrutaremos de un paseo por el impresionante centro histórico. Quedarás encantado con las fabulosas vistas de la ciudad, verás el magnífico Teatro Bolshoi, una de las atracciones más simbólicas de Moscú, el edificio KGB y, por supuesto, explorarás la Plaza Roja y visitarás GUM, el centro comercial más grande de Moscú.\r\n",
+      "fr": "Au cours de cette visite passionnante, nous nous promènerons dans la merveilleuse ville de Moscou. Il y a beaucoup de choses à découvrir dans la capitale russe, mais vous ne pouvez certainement pas manquer ses principaux points de repère et d'autres pièces d'architecture célèbres que vous verrez avec nous.\r\n\r\nLa visite commencera à l'hôtel National, puis nous marcherons le long de la pittoresque rue Tverskaya, visiterons l'unique supermarché \"Eliseevsky\", et profiterons de la promenade dans le remarquable centre-ville historique. Vous serez enchantés par les fabuleuses vues de la ville, vous verrez le magnifique théâtre Bolchoï, l'une des attractions les plus symboliques de Moscou, le bâtiment du KGB, et, bien sûr, vous explorerez la Place Rouge et visiterez le GUM - le plus grand centre commercial de Moscou.",
+      "it": "In questo emozionante tour, cammineremo per la meravigliosa città di Mosca. La capitale russa è ricca di attrazioni da scoprire, ma non potete assolutamente perdervi i suoi principali punti di riferimento e altre famose opere architettoniche che vedrete con noi.\r\n\r\nIl tour partirà dall'Hotel National, poi cammineremo lungo la pittoresca via Tverskaya, visiteremo l'esclusivo supermercato \"Eliseevsky\" e ci godremo la passeggiata nel notevole centro storico. Rimarrete incantati dai favolosi panorami della città, vedrete il magnifico Teatro Bolshoi, una delle attrazioni più simboliche di Mosca, l'edificio del KGB e, naturalmente, esplorerete la Piazza Rossa e visiterete il GUM - il più grande centro commerciale di Mosca.",
+      "pt": "Nesta excitante excursão, percorreremos a maravilhosa cidade de Moscovo. Há muitos pontos turísticos para descobrir na capital russa, no entanto, não pode perder os seus principais marcos e outras peças de arquitectura famosas que verá connosco.\r\n\r\nA excursão começará no Hotel Nacional, depois caminharemos ao longo da pitoresca rua Tverskaya, visitaremos o supermercado único \"Eliseevsky\" e desfrutaremos de um passeio pelo notável centro histórico da cidade. Ficará encantado com as fabulosas vistas da cidade, verá o magnífico Teatro Bolshoi, uma das atracções mais simbólicas de Moscovo, o edifício do KGB e, claro, explorará a Praça Vermelha e visitará o GUM - o maior centro comercial de Moscovo."
+    },
+    "providerTitle": "Darya Alekseeva",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/moscow/moscow-city-center?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/moscow/moscow-city-center?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/moscow/moscow-city-center?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/moscow/moscow-city-center?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/moscow/moscow-city-center?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/moscow/moscow-city-center?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/moscow/moscow-city-center?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 50,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "The entrance of the National Hotel",
+      "coordinates": "55.75671,37.61409800000001",
+      "googlePlaceId": "ChIJmdG7aUVKtUYRMftl2JKz9bU"
+    },
+    "cityId": 3545,
+    "countryId": 129,
+    "includes": [
+      "Red Square",
+      "GUM",
+      "Bolshoi Theatre",
+      "KGB building",
+      "Eliseevsky supermarket",
+      "Tverskaya street"
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/6947/moscow-city-center-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 40277,
+        "URL": "https://www.freetour.com/images/tours/6947/moscow-city-center-01.jpg"
+      },
+      {
+        "id": 40278,
+        "URL": "https://www.freetour.com/images/tours/6947/moscow-city-center-02.jpg"
+      },
+      {
+        "id": 40279,
+        "URL": "https://www.freetour.com/images/tours/6947/moscow-city-center-03.jpg"
+      },
+      {
+        "id": 40280,
+        "URL": "https://www.freetour.com/images/tours/6947/moscow-city-center-04.jpg"
+      },
+      {
+        "id": 40281,
+        "URL": "https://www.freetour.com/images/tours/6947/moscow-city-center-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 6948,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Top-7 Moscow Metro Stations Tour",
+      "es": "Tour por las 7 Mejores Estaciones de Metro de Moscú",
+      "pt": "Visita às 7 principais estações de metro de Moscovo",
+      "de": "Top-7 Moskauer Metro-Stationen Tour",
+      "fr": "Visite des 7 premières stations de métro de Moscou",
+      "it": "Tour delle 7 principali stazioni della metropolitana di Mosca"
+    },
+    "brief": {
+      "de": "Erkunden Sie den unterirdischen Palast von Moskau, das schönste und ungewöhnlichste U-Bahn-System. Erhalten Sie einen einzigartigen Einblick in die Geschichte der UdSSR, während Sie diesen magischen Ort mit einem freundlichen Führer entdecken.",
+      "en": "Explore the underground palace of Moscow, the most beautiful and unusual metro system. Get a unique insight into the history of the USSR while discovering this magical place with a friendly guide.",
+      "es": "Explora el palacio subterráneo de Moscú, el sistema de metro más hermoso e inusual. Obtén una visión única de la historia de la URSS mientras descubres este lugar mágico con un guía amigable.",
+      "fr": "Explorez le palais souterrain de Moscou, le plus beau et le plus insolite des réseaux de métro. Vous aurez un aperçu unique de l'histoire de l'URSS tout en découvrant ce lieu magique avec un guide sympathique.",
+      "it": "Esplorate il palazzo sotterraneo di Mosca, il sistema di metropolitana più bello e insolito. Scoprite la storia dell'URSS e questo luogo magico con una guida esperta.",
+      "pt": "Explore o palácio subterrâneo de Moscovo, o mais belo e invulgar sistema de metro. Obtenha uma visão única da história da URSS enquanto descobre este lugar mágico com um guia amigável."
+    },
+    "description": {
+      "de": "Die Metro in Moskau ist unser unterirdischer Palast, und das ist keine Übertreibung - sie hat wirklich ihre eigene Kultur, ihren eigenen Stil und ihren eigenen Geist. Sie ist ein großes und tiefes verwirrendes System mit über 200 Stationen. Einige von ihnen sind als Kulturgüter ausgewiesen, aber jede Station ist ein einzigartiges und erstaunliches Stück Kunst und Architektur. Auf dieser Tour sehen Sie die TOP-7-Bahnhöfe und erfahren mehr über ihre Geschichte und ihre modernen Geschichten.",
+      "en": "The metro in Moscow is our underground palace and it is not an exaggeration - it really has its own culture, style, and spirit. It is a large and deep confusing system of over 200 stations. Some of them are exposed as objects of cultural heritage, but each station is a unique and amazing piece of art and architecture. On this tour, you will see the TOP-7 stations and learn about their history and their modern stories.",
+      "es": "El metro en Moscú es nuestro palacio subterráneo y no es una exageración, tiene su propia cultura, estilo y espíritu. Es un sistema amplio y confuso de más de 200 estaciones. Algunas de ellas están expuestas como objetos de patrimonio cultural, pero cada estación es una pieza única y sorprendente de arte y arquitectura. En este recorrido, verás las estaciones TOP-7 y aprenderás sobre su historia antigua y las historias modernas.",
+      "fr": "Le métro de Moscou est notre palais souterrain et ce n'est pas une exagération - il a vraiment sa propre culture, son propre style et son propre esprit. Il s'agit d'un système vaste et profond de plus de 200 stations. Certaines d'entre elles sont exposées en tant qu'objets du patrimoine culturel, mais chaque station est une pièce d'art et d'architecture unique et étonnante. Cette visite vous permettra de découvrir les stations du TOP-7 et d'en apprendre davantage sur leur histoire et leur modernité.",
+      "it": "La metropolitana di Mosca è il nostro palazzo sotterraneo e non è un'esagerazione: ha davvero una cultura, uno stile e uno spirito propri. Si tratta di un sistema ampio e confuso di oltre 200 stazioni. Alcune di esse sono esposte come oggetti del patrimonio culturale, ma ogni stazione è un pezzo unico e sorprendente di arte e architettura. In questo tour, vedrete le stazioni TOP-7 e conoscerete la loro storia e le loro storie moderne.",
+      "pt": "O metro de Moscovo é o nosso palácio subterrâneo e não é um exagero - tem realmente a sua própria cultura, estilo e espírito. É um sistema confuso, grande e profundo, com mais de 200 estações. Algumas delas estão expostas como objectos de património cultural, mas cada estação é uma peça de arte e arquitectura única e surpreendente. Nesta excursão, verá as estações TOP-7 e ficará a conhecer a sua história e as suas histórias modernas."
+    },
+    "providerTitle": "Darya Alekseeva",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/moscow/top--moscow-metro-stations-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/moscow/top--moscow-metro-stations-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/moscow/top--moscow-metro-stations-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/moscow/top--moscow-metro-stations-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/moscow/top--moscow-metro-stations-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/moscow/top--moscow-metro-stations-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/moscow/top--moscow-metro-stations-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 40,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "National Hotel",
+      "coordinates": "55.75681509999999,37.61402820000001",
+      "googlePlaceId": "ChIJmdG7aUVKtUYRMftl2JKz9bU"
+    },
+    "cityId": 3545,
+    "countryId": 129,
+    "includes": [
+      "Metro stations",
+      "Tickets"
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/6948/moscow-metro-05.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 40282,
+        "URL": "https://www.freetour.com/images/tours/6948/moscow-metro-05.jpg"
+      },
+      {
+        "id": 40283,
+        "URL": "https://www.freetour.com/images/tours/6948/moscow-metro-06.jpg"
+      },
+      {
+        "id": 40284,
+        "URL": "https://www.freetour.com/images/tours/6948/moscow-metro-07.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 17775,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Hermitage Museum Tour",
+      "es": "Visita al Museo del Hermitage",
+      "pt": "Visita ao Museu Hermitage",
+      "de": "Eremitage Museum Tour",
+      "fr": "Visite du musée de l'Ermitage",
+      "it": "Tour del Museo dell'Ermitage"
+    },
+    "brief": {
+      "de": "Die Eremitage ist nicht nur eines der prächtigsten Museen der Welt, sondern auch eines der größten. sie beherbergt 3 Millionen Exponate, die nur von anderen großen Museen wie dem Prado, dem Louvre, dem Metropolitan und der Nationalgalerie übertroffen werden können.",
+      "en": "The Hermitage is not only one of the most magnificent museums in the world, but also one of the vastest. 3mln exhibits which could only be ranked amount other greatest such as the Prado, the Louvre, the Metropolitan and the National Gallery.",
+      "es": "El Hermitage es uno de los museos más grandes del mundo. Se encuentra entre los mejores museos del mundo, como el Louvre, el Prado, el Metropolitan y la National Gallery de Londres. 3mln exhibiciones.",
+      "fr": "L'Ermitage n'est pas seulement l'un des plus magnifiques musées du monde, mais aussi l'un des plus vastes. il compte 3 millions d'objets exposés qui ne peuvent être classés qu'au même niveau que d'autres grands musées tels que le Prado, le Louvre, le Metropolitan et la National Gallery.",
+      "it": "L'Hermitage non è solo uno dei musei più magnifici del mondo, ma anche uno dei più vasti. 3 milioni di reperti che possono essere classificati solo come i più grandi come il Prado, il Louvre, il Metropolitan e la National Gallery.",
+      "pt": "O Hermitage não é apenas um dos mais magníficos museus do mundo, mas também um dos mais vastos. 3 milhões de peças expostas que só poderiam estar ao nível de outros grandes museus como o Prado, o Louvre, o Metropolitan e a National Gallery."
+    },
+    "description": {
+      "de": "Der allgemeine Rundgang durch die Eremitage umfasst die Staats- und Privatgemächer des Winterpalastes und die Höhepunkte der westeuropäischen Kunstsammlungen, darunter die italienische Kunst mit den Werken von Leonardo da Vinci, Raffael und Michelangelo, die spanische Sammlung mit den Gemälden von Goya, Velasquez und El Greco sowie die sehr umfangreiche niederländische Sammlung mit 24 Gemälden von Rembrandt.",
+      "en": "The general tour of the Hermitage includes the state and the private apartments of the Winter Palace and the highlights of West European art collections including Italian art with the works by Leonardo da Vinci, Raphael and Michelangelo, Spanish collection with the paintings by Goya, Velasquez and El Greco, very rich Dutch collection including 24 paintings by Rembrandt.\r\n",
+      "es": "El recorrido general del Hermitage incluye el estado y los apartamentos privados del Palacio de Invierno y los aspectos más destacados de las colecciones de arte de Europa occidental, incluido el arte italiano con las obras de Leonardo da Vinci, Rafael y Miguel Ángel, la colección española con las pinturas de Goya, Velásquez y El Greco, colección holandesa muy rica que incluye 24 pinturas de Rembrandt. <br />",
+      "fr": "La visite générale de l'Ermitage comprend les appartements d'État et les appartements privés du Palais d'hiver, ainsi que les points forts des collections d'art d'Europe occidentale, notamment l'art italien avec les œuvres de Léonard de Vinci, Raphaël et Michel-Ange, la collection espagnole avec les peintures de Goya, Velasquez et El Greco, la très riche collection hollandaise comprenant 24 peintures de Rembrandt.",
+      "it": "La visita generale dell'Ermitage comprende gli appartamenti statali e privati del Palazzo d'Inverno e i punti salienti delle collezioni d'arte dell'Europa occidentale, tra cui l'arte italiana con le opere di Leonardo da Vinci, Raffaello e Michelangelo, la collezione spagnola con i dipinti di Goya, Velasquez ed El Greco, la ricchissima collezione olandese con 24 dipinti di Rembrandt.",
+      "pt": "A visita geral ao Hermitage inclui os apartamentos estatais e privados do Palácio de Inverno e os destaques das colecções de arte da Europa Ocidental, incluindo a arte italiana com as obras de Leonardo da Vinci, Rafael e Miguel Ângelo, a colecção espanhola com as pinturas de Goya, Velasquez e El Greco, a riquíssima colecção holandesa com 24 pinturas de Rembrandt."
+    },
+    "providerTitle": "Olesya",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/st-petersburg/hermitage-museum-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/st-petersburg/hermitage-museum-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/st-petersburg/hermitage-museum-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/st-petersburg/hermitage-museum-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/st-petersburg/hermitage-museum-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/st-petersburg/hermitage-museum-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/st-petersburg/hermitage-museum-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 70,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "General stuff building , under the arch ",
+      "coordinates": "59.937839229694895,30.317711250754087",
+      "googlePlaceId": "ChIJSTbmyRoxlkYRRDG7sMi3pyQ"
+    },
+    "cityId": 3559,
+    "countryId": 129,
+    "includes": [
+      "Winter palace",
+      "Small hermitage ",
+      "New hermitage",
+      "Old hermitage ",
+      "Palace square ",
+      "Alexander’s column ",
+      "Entrance fee"
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/17775/hermitage-museum-tour-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 66839,
+        "URL": "https://www.freetour.com/images/tours/17775/hermitage-museum-tour-01.jpg"
+      },
+      {
+        "id": 66840,
+        "URL": "https://www.freetour.com/images/tours/17775/hermitage-museum-tour-02.jpg"
+      },
+      {
+        "id": 66841,
+        "URL": "https://www.freetour.com/images/tours/17775/hermitage-museum-tour-03.jpg"
+      },
+      {
+        "id": 66842,
+        "URL": "https://www.freetour.com/images/tours/17775/hermitage-museum-tour-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 20825,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "\"Northern Venice\" - City Tour",
+      "es": "\"Venecia del Norte\" - Tour por la Ciudad",
+      "pt": "\"Veneza do Norte\" - Visita à cidade",
+      "de": "\"Venedig Nord\" - Stadtrundfahrt",
+      "fr": "\"Venise du Nord\" - Tour de ville",
+      "it": "\"Venezia Nord\" - Tour della città"
+    },
+    "brief": {
+      "de": "Reisen wir zurück ins 18. Jahrhundert, um zu sehen, wie alles begann. Wer hat St. Petersburg gegründet und warum? Wir erkunden die reiche Geschichte des \"Fensters zu Europa\", erfahren von großen Kaisern und Kaiserinnen, Palastputschen, Revolutionen und lokalen Legenden.",
+      "en": "Let's travel back to 18th century to see how it all began. Who founded St. Petersburg and why? Will explore rich history of \"the window to Europe\", will learn about great emperors and empresses, palace coups, revolutions and local legends.\r\n",
+      "es": "Vuelve al siglo XVIII para ver cómo todo comenzó. ¿Quién fundó San Petersburgo y por qué? ¿Explorarás la rica historia de \"la ventana a Europa\", aprenderás sobre grandes emperadores y emperatrices, golpes de estado, revoluciones y leyendas.",
+      "fr": "Remontons au XVIIIe siècle pour voir comment tout a commencé. Qui a fondé Saint-Pétersbourg et pourquoi ? Nous explorerons la riche histoire de \"la fenêtre sur l'Europe\", nous apprendrons à connaître les grands empereurs et impératrices, les coups de force des palais, les révolutions et les légendes locales.",
+      "it": "Torniamo indietro al XVIII secolo per vedere come tutto ebbe inizio. Chi ha fondato San Pietroburgo e perché? Esploreremo la ricca storia della \"finestra sull'Europa\", impareremo a conoscere grandi imperatori e imperatrici, colpi di stato, rivoluzioni e leggende locali.",
+      "pt": "Vamos viajar até ao século XVIII para ver como tudo começou. Quem fundou São Petersburgo e porquê? Exploraremos a rica história da \"janela para a Europa\", conheceremos os grandes imperadores e imperatrizes, os golpes palacianos, as revoluções e as lendas locais."
+    },
+    "description": {
+      "de": "Wir beginnen unseren Rundgang auf dem Schlossplatz, dem Platz, der Zeuge fast aller entscheidenden Ereignisse in der Geschichte der Hauptstadt des russischen Reiches war. Wir werden versuchen, uns vorzustellen, wie das Leben in St. Petersburg am Anfang war und wie es dazu kam, dass es die europäischste Stadt Russlands wurde. Am Ende der Tour werden Sie wissen, warum es so lange gedauert hat, die Isaakskathedrale zu bauen, warum St. Petersburg mehr mit Amsterdam als mit Venedig gemeinsam hat und wo Sie die besten russischen Donuts (Piroschki) probieren können.",
+      "en": "We will begin our tour on the Palace square, the square which witnessed almost all of the crucial events in the history of the capital of the Russian Empire. Will try to imagine what life was like in St. Petersburg at the beginning and how it happened to become the most European city in Russia. By the end of the tour, you will know why it took them so long to build St. Isaac's Cathedral, and why St. Petersburg has more in common with Amsterdam than with Venice, and where you can try the best Russian donuts (piroshki).",
+      "es": "Comenzaremos nuestro recorrido por la plaza del Palacio, la plaza que fue testigo de casi todos los eventos cruciales en la historia de la capital del Imperio ruso. Trataré darte una imagen de cómo era la vida en San Petersburgo al principio y cómo se convirtió en la ciudad más europea de Rusia. Al final del recorrido, sabrás por qué les tomó tanto tiempo construir la catedral de San Isaac o por qué San Petersburgo tiene más en común con Amsterdam que con Venecia ... y dónde puedes probar las mejores rosquillas rusas (piroshki).",
+      "fr": "Nous commencerons notre visite par la place du Palais, la place qui a été le témoin de presque tous les événements cruciaux de l'histoire de la capitale de l'Empire russe. Nous essaierons d'imaginer ce qu'était la vie à Saint-Pétersbourg au début et comment elle est devenue la ville la plus européenne de Russie. À la fin de la visite, vous saurez pourquoi la construction de la cathédrale Saint-Isaac a pris tant de temps, pourquoi Saint-Pétersbourg a plus en commun avec Amsterdam qu'avec Venise, et où vous pourrez déguster les meilleurs beignets russes (piroshki).",
+      "it": "Inizieremo il nostro tour dalla Piazza del Palazzo, la piazza che è stata testimone di quasi tutti gli eventi cruciali della storia della capitale dell'Impero russo. Cercheremo di immaginare com'era la vita a San Pietroburgo all'inizio e come è successo che sia diventata la città più europea della Russia. Alla fine del tour, saprete perché ci è voluto così tanto tempo per costruire la Cattedrale di Sant'Isacco, perché San Pietroburgo ha più cose in comune con Amsterdam che con Venezia e dove potrete assaggiare le migliori ciambelle russe (piroshki).",
+      "pt": "Começaremos a nossa visita na praça do Palácio, a praça que testemunhou quase todos os acontecimentos cruciais da história da capital do Império Russo. Tentaremos imaginar como era a vida em S. Petersburgo no início e como se tornou a cidade mais europeia da Rússia. No final da visita, saberá por que razão demoraram tanto tempo a construir a Catedral de Santo Isaac, por que razão São Petersburgo tem mais em comum com Amesterdão do que com Veneza e onde poderá provar os melhores donuts russos (piroshki)."
+    },
+    "providerTitle": "Kata",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/st-petersburg/northern-venice-city-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/st-petersburg/northern-venice-city-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/st-petersburg/northern-venice-city-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/st-petersburg/northern-venice-city-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/st-petersburg/northern-venice-city-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/st-petersburg/northern-venice-city-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/st-petersburg/northern-venice-city-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 12,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Palace square, Alexander column",
+      "coordinates": "59.938942,30.3149875",
+      "googlePlaceId": "ChIJSTbmyRoxlkYRRDG7sMi3pyQ"
+    },
+    "cityId": 3559,
+    "countryId": 129,
+    "includes": [
+      "St. Isaac's Cathedral",
+      "Palace Square",
+      "Palace square",
+      "Hermitage",
+      "Winter Palace",
+      "Palace bridge",
+      "St. Isaac's cathedral",
+      "Saviour on spilled blood cathedral",
+      "Art's square",
+      "Anichkov bridge",
+      "Nevsky prospect",
+      "Monument to Catherine the Great",
+      "Alexander column"
+    ],
+    "POIs": [
+      {
+        "id": 9643,
+        "title": "St. Isaac's Cathedral",
+        "googlePlaceId": "ChIJSTp6hhsxlkYR6SV9tFJytR0"
+      },
+      {
+        "id": 10928,
+        "title": "Palace Square",
+        "googlePlaceId": "ChIJVXxqaBAxlkYRhOhIV7EPlaI"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/20825/northern-venice-city-tour-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 74350,
+        "URL": "https://www.freetour.com/images/tours/20825/northern-venice-city-tour-01.jpg"
+      },
+      {
+        "id": 108968,
+        "URL": "https://www.freetour.com/images/tours/20825/northern-venice-city-tour-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

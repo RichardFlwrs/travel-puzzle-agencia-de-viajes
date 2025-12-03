@@ -1,0 +1,820 @@
+[
+  {
+    "id": 49660,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "City Tour of Algiers",
+      "es": "Visita a la ciudad de Argel",
+      "pt": "Visita à cidade de Argel",
+      "de": "Stadtrundfahrt in Algier",
+      "fr": "Visite de la ville d'Alger",
+      "it": "Visita della città di Algeri"
+    },
+    "brief": {
+      "de": "Lassen Sie Ihren inneren Abenteurer frei und begleiten Sie uns auf diesem aufregenden Rundgang durch die Stadt Algier. Erleben Sie die Leidenschaft, die ich für diese kulturell reiche und historisch bedeutende Stadt hege. Verpassen Sie nicht dieses faszinierende Abenteuer. Jetzt anmelden.",
+      "en": "Release your inner adventurer and join us on this exciting walking tour of the city of Algiers. Experience the passion I have for this culturally rich and historically significant city. Don't miss this immersive adventure. Join now.",
+      "es": "Libere al aventurero que lleva dentro y únase a nosotros en este emocionante recorrido a pie por la ciudad de Argel. Experimente la pasión que siento por esta ciudad de gran riqueza cultural e importancia histórica. No se pierda esta aventura envolvente. Inscríbase ahora.",
+      "fr": "Libérez l'aventurier qui sommeille en vous et rejoignez-nous pour cette passionnante visite à pied de la ville d'Alger. Découvrez la passion que j'ai pour cette ville culturellement riche et historiquement importante. Ne manquez pas cette aventure immersive. Rejoignez-nous maintenant.",
+      "it": "Liberate l'avventuriero che è in voi e unitevi a noi in questo emozionante tour a piedi della città di Algeri. Provate la passione che ho per questa città culturalmente ricca e storicamente significativa. Non perdetevi questa avventura coinvolgente. Iscrivetevi ora.",
+      "pt": "Liberte o seu aventureiro interior e junte-se a nós neste excitante passeio a pé pela cidade de Argel. Experimente a paixão que tenho por esta cidade culturalmente rica e historicamente significativa. Não perca esta aventura imersiva. Inscreva-se agora."
+    },
+    "description": {
+      "de": "Bevor ich als Ihr Reiseführer fungiere, möchte ich Ihnen mitteilen, dass ich genau wie Sie ein begeisterter Reisender bin. Ich habe bereits 24 Länder auf der ganzen Welt erkundet und möchte denjenigen, die neugierig darauf sind, mein eigenes Land zeigen. Aufgrund meiner vielfältigen Reiseerfahrungen, insbesondere in Algerien, spreche ich fließend Arabisch, Englisch und Französisch.\r\n\r\nMit echter Leidenschaft werde ich Ihnen Algier vorstellen, eine Stadt voller Kultur und Geschichte. Gemeinsam werden wir erkunden:\r\n\r\n-Die bezaubernde Kasbah\r\n-Das faszinierende Museum Bastion 23\r\n-Die ehrfurchtgebietende Basilika Notre Dame d'Afrique\r\n-Das ergreifende Märtyrer-Denkmal mit seinen zwei interessanten Museen\r\n\r\nIhr Besuch in Algier verspricht ein unvergessliches Erlebnis zu werden, an das Sie sich ein Leben lang erinnern werden.",
+      "en": "Before serving as your guide, allow me to share that, much like you, I am a dedicated traveler. Having explored 24 countries worldwide, I am eager to showcase my own country to those with a curiosity to discover it. Drawing from my diverse travel experiences, particularly in Algeria, I am fluent in Arabic, English, and French.\r\n\r\nWith genuine passion, I will introduce you to Algiers, a city steeped in culture and history. Together, we will explore:\r\n\r\n-The enchanting Casbah\r\n-The intriguing Museum Bastion 23\r\n-The awe-inspiring Basilica Notre Dame d'Afrique\r\n-The poignant Memorial of Martyr, accompanied by its two compelling museums\r\n\r\nYour visit to Algiers promises to be an unforgettable experience, creating cherished memories that will last a lifetime.",
+      "es": "Antes de servirle de guía, permítame decirle que, al igual que usted, soy un viajero empedernido. Tras haber explorado 24 países de todo el mundo, estoy deseoso de mostrar mi propio país a quienes sientan curiosidad por descubrirlo. Gracias a mis diversas experiencias de viaje, especialmente en Argelia, hablo con fluidez árabe, inglés y francés.\r\n\r\nCon auténtica pasión, le presentaré Argel, una ciudad impregnada de cultura e historia. Juntos exploraremos\r\n\r\n-La encantadora Casbah\r\n-El intrigante Museo Bastión 23\r\n-La impresionante Basílica de Notre Dame d'Afrique\r\n-El conmovedor Memorial de los Mártires, acompañado de sus dos apasionantes museos\r\n\r\nSu visita a Argel promete ser una experiencia inolvidable que le dejará recuerdos para toda la vida.",
+      "fr": "Avant de vous servir de guide, permettez-moi de vous dire que, tout comme vous, je suis un voyageur passionné. Ayant exploré 24 pays à travers le monde, je suis impatient de présenter mon propre pays à ceux qui ont la curiosité de le découvrir. Forte de mes diverses expériences de voyage, notamment en Algérie, je parle couramment l'arabe, l'anglais et le français.\r\n\r\nC'est avec une véritable passion que je vous ferai découvrir Alger, une ville chargée de culture et d'histoire. Ensemble, nous explorerons\r\n\r\n-La Casbah enchanteresse\r\n-L'intrigant musée du Bastion 23\r\n-L'impressionnante Basilique Notre Dame d'Afrique\r\n-Le poignant Mémorial du Martyr, accompagné de ses deux musées fascinants\r\n\r\nVotre visite à Alger promet d'être une expérience inoubliable, créant des souvenirs chers qui dureront toute une vie.",
+      "it": "Prima di farvi da guida, permettetemi di dirvi che, proprio come voi, sono una viaggiatrice convinta. Avendo esplorato 24 Paesi in tutto il mondo, sono ansioso di mostrare il mio Paese a chi è curioso di scoprirlo. Grazie alle mie diverse esperienze di viaggio, in particolare in Algeria, parlo correntemente arabo, inglese e francese.\r\n\r\nCon autentica passione, vi farò conoscere Algeri, una città ricca di cultura e di storia. Insieme, esploreremo:\r\n\r\n-L'incantevole Casbah\r\n-L'intrigante Museo Bastione 23\r\n-L'imponente Basilica Notre Dame d'Afrique\r\n-Lo struggente Memoriale del Martire, accompagnato dai suoi due avvincenti musei\r\n\r\nLa vostra visita ad Algeri promette di essere un'esperienza indimenticabile e di creare ricordi che dureranno per tutta la vita.",
+      "pt": "Antes de vos servir de guia, permitam-me que vos diga que, tal como vós, sou um viajante dedicado. Tendo explorado 24 países em todo o mundo, estou ansioso por mostrar o meu próprio país àqueles que têm curiosidade em o descobrir. Com base nas minhas diversas experiências de viagem, nomeadamente na Argélia, sou fluente em árabe, inglês e francês.\r\n\r\nCom uma paixão genuína, apresentá-lo-ei a Argel, uma cidade rica em cultura e história. Juntos, vamos explorar:\r\n\r\n-A encantadora Casbah\r\n-O intrigante Museu Bastião 23\r\n-A imponente Basílica de Notre Dame d'Afrique\r\n-O pungente Memorial do Mártir, acompanhado pelos seus dois museus\r\n\r\nA sua visita a Argel promete ser uma experiência inesquecível, criando memórias que durarão para toda a vida."
+    },
+    "providerTitle": "Nad",
+    "providerPhone": "+213790630758",
+    "URL": "https://www.freetour.com/algiers/walking-algiers-city-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/algiers/walking-algiers-city-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/algiers/walking-algiers-city-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/algiers/walking-algiers-city-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/algiers/walking-algiers-city-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/algiers/walking-algiers-city-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/algiers/walking-algiers-city-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 39,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Métro Place  Martyrs",
+      "coordinates": "36.78586211778948,3.062780946493149",
+      "googlePlaceId": "ChIJtxG6J_6yjxIRLf-sqIsln-U"
+    },
+    "cityId": 5034,
+    "countryId": 261,
+    "includes": [
+      "Church of Notre Dame of Africa",
+      "Great Mosque of Algiers",
+      "Algiers Central Post Office",
+      "Martyr's Memorial",
+      "Casbah"
+    ],
+    "POIs": [
+      {
+        "id": 18402,
+        "title": "Church of Notre Dame of Africa",
+        "googlePlaceId": "ChIJu0874LuzjxIRZw7ZrxzdAz8"
+      },
+      {
+        "id": 26703,
+        "title": "Great Mosque of Algiers",
+        "googlePlaceId": "ChIJbcKe3X1SjhIRBoSa6JtXOrE"
+      },
+      {
+        "id": 10738,
+        "title": "Algiers Central Post Office",
+        "googlePlaceId": "ChIJVdH_r_eyjxIRL-Nwynfanx8"
+      },
+      {
+        "id": 10759,
+        "title": "Martyr's Memorial",
+        "googlePlaceId": "ChIJVes1dZ2yjxIRPKvH9FziPJM"
+      },
+      {
+        "id": 28827,
+        "title": "Casbah",
+        "googlePlaceId": "ChIJx9ZWUwCzjxIRF0qOxlexqS8"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-03.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 166910,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-03.jpg"
+      },
+      {
+        "id": 166908,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-01.jpg"
+      },
+      {
+        "id": 166909,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-02.jpg"
+      },
+      {
+        "id": 166911,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-04.jpg"
+      },
+      {
+        "id": 166912,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-05.jpg"
+      },
+      {
+        "id": 166913,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-06.jpg"
+      },
+      {
+        "id": 166914,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-07.jpg"
+      },
+      {
+        "id": 166915,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-08.jpg"
+      },
+      {
+        "id": 166916,
+        "URL": "https://www.freetour.com/images/tours/49660/walking-algiers-city-tour-09.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.88,
+    "reviewsNumber": 5
+  },
+  {
+    "id": 63783,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Explore Algeria's Hidden Gem of Natural Beauty",
+      "es": "Explore la belleza natural oculta de Argelia",
+      "pt": "Explore a joia escondida de beleza natural da Argélia",
+      "de": "Entdecken Sie Algeriens versteckte Naturschönheiten",
+      "fr": "Explorez le joyau caché de la beauté naturelle de l'Algérie",
+      "it": "Esplorate la gemma nascosta della bellezza naturale dell'Algeria"
+    },
+    "brief": {
+      "de": "Entdecken Sie mit uns die atemberaubende Schönheit der westlichen Stadt Algeriens! Erkunden Sie atemberaubende Landschaften und tauchen Sie ein in den ursprünglichen Charme der Natur. Sie werden sich in dieses versteckte Juwel verlieben. Lassen Sie sich dieses unvergessliche Erlebnis nicht entgehen!",
+      "en": "Join us to discover the stunning beauty of Algeria’s western city! Explore breathtaking landscapes and immerse yourself in nature's original charm. You’ll fall in love with this hidden gem. Don’t miss out on this unforgettable experience!",
+      "es": "Únase a nosotros para descubrir la impresionante belleza de la ciudad occidental de Argelia Explore paisajes sobrecogedores y sumérjase en el encanto original de la naturaleza. Se enamorará de esta joya escondida. ¡No se pierda esta experiencia inolvidable!",
+      "fr": "Rejoignez-nous pour découvrir la beauté époustouflante de la ville occidentale de l'Algérie ! Explorez des paysages à couper le souffle et imprégnez-vous du charme original de la nature. Vous tomberez amoureux de ce joyau caché. Ne manquez pas cette expérience inoubliable !",
+      "it": "Unitevi a noi per scoprire la bellezza mozzafiato della città occidentale dell'Algeria! Esplorate paesaggi mozzafiato e immergetevi nel fascino originale della natura. Vi innamorerete di questa gemma nascosta. Non perdetevi questa esperienza indimenticabile!",
+      "pt": "Junte-se a nós para descobrir a beleza deslumbrante da cidade ocidental da Argélia! Explore paisagens de cortar a respiração e mergulhe no encanto original da natureza. Vai apaixonar-se por esta joia escondida. Não perca esta experiência inesquecível!"
+    },
+    "description": {
+      "de": "Begleiten Sie uns auf eine unvergessliche Reise durch Oran! Beginnen Sie am Place du 1er Novembre, wo Sie wunderschöne Brunnen bewundern und in das pulsierende Leben der Stadt eintauchen können. Lassen Sie sich in einem nahe gelegenen Restaurant mit traditioneller algerischer Küche verwöhnen und erkunden Sie anschließend die beeindruckende Architektur des Le Théâtre.\r\n\r\nSpazieren Sie entlang der Corniche und genießen Sie den atemberaubenden Blick auf die Küste, und besuchen Sie das Fort Santa Cruz, von dem aus Sie einen Panoramablick über die Stadt haben. Entdecken Sie die reiche Geschichte der Abdelhamid-Ben-Badis-Moschee, und besuchen Sie dann das Museum der Schönen Künste, wo Sie lokale Kunst und historische Exponate bewundern können.\r\n\r\nVerpassen Sie nicht den Gare d'Oran, der für seine beeindruckende Architektur und historische Bedeutung bekannt ist. Besuchen Sie schließlich einen lokalen Markt, um einzigartige Souvenirs zu finden und bleibende Erinnerungen zu schaffen. Begleiten Sie uns und erleben Sie das Herz von Oran!",
+      "en": "Join us for an unforgettable journey through Oran! Start at Place du 1er Novembre, where you can admire beautiful fountains and immerse yourself in the vibrant local life. Indulge in traditional Algerian cuisine at a nearby restaurant, then explore the stunning architecture of Le Théâtre.\r\n\r\nTake a leisurely stroll along the Corniche for breathtaking views of the coast, and visit Fort Santa Cruz for panoramic vistas of the city. Discover the rich history of the Abdelhamid Ben Badis Mosque, then head to the Museum of Fine Arts to appreciate local art and historical exhibits.\r\n\r\nDon’t miss La Gare d'Oran, renowned for its impressive architecture and historical significance. Finally, visit a local market to find unique souvenirs and create lasting memories. Join us and experience the heart of Oran!",
+      "es": "Acompáñenos en un viaje inolvidable por Orán Comience en la Place du 1er Novembre, donde podrá admirar hermosas fuentes y sumergirse en la vibrante vida local. Deléitese con la cocina tradicional argelina en un restaurante cercano y, a continuación, explore la impresionante arquitectura de Le Théâtre.\r\n\r\nDé un tranquilo paseo por la Corniche para disfrutar de impresionantes vistas de la costa, y visite el Fuerte Santa Cruz para contemplar vistas panorámicas de la ciudad. Descubra la rica historia de la Mezquita Abdelhamid Ben Badis y diríjase al Museo de Bellas Artes para apreciar el arte local y las exposiciones históricas.\r\n\r\nNo se pierda La Gare d'Oran, famosa por su impresionante arquitectura y su importancia histórica. Por último, visite un mercado local para encontrar recuerdos únicos y crear memorias duraderas. Únase a nosotros y viva el corazón de Orán",
+      "fr": "Rejoignez-nous pour un voyage inoubliable à travers Oran ! Commencez par la Place du 1er Novembre, où vous pourrez admirer de magnifiques fontaines et vous immerger dans la vie locale animée. Savourez la cuisine algérienne traditionnelle dans un restaurant voisin, puis explorez l'architecture étonnante du Théâtre.\r\n\r\nPromenez-vous tranquillement le long de la Corniche pour admirer la côte à couper le souffle, et visitez le Fort Santa Cruz pour des vues panoramiques de la ville. Découvrez la riche histoire de la mosquée Abdelhamid Ben Badis, puis rendez-vous au musée des beaux-arts pour apprécier l'art local et les expositions historiques.\r\n\r\nNe manquez pas la Gare d'Oran, réputée pour son architecture impressionnante et son importance historique. Enfin, visitez un marché local pour trouver des souvenirs uniques et créer des souvenirs inoubliables. Rejoignez-nous et découvrez le cœur d'Oran !",
+      "it": "Unitevi a noi in un viaggio indimenticabile attraverso Orano! Iniziate da Place du 1er Novembre, dove potrete ammirare splendide fontane e immergervi nella vivace vita locale. Assaggiate la cucina tradizionale algerina in un ristorante vicino, quindi esplorate la splendida architettura del Théâtre.\r\n\r\nPasseggiate lungo la Corniche per godere di una vista mozzafiato sulla costa e visitate il Forte Santa Cruz per ammirare la città. Scoprite la ricca storia della Moschea Abdelhamid Ben Badis, quindi recatevi al Museo delle Belle Arti per apprezzare l'arte locale e le mostre storiche.\r\n\r\nNon perdete la Gare d'Oran, rinomata per la sua impressionante architettura e il suo significato storico. Infine, visitate un mercato locale per trovare souvenir unici e creare ricordi indelebili. Unitevi a noi e vivete il cuore di Orano!",
+      "pt": "Junte-se a nós para uma viagem inesquecível por Oran! Comece na Place du 1er Novembre, onde poderá admirar as belas fontes e mergulhar na vibrante vida local. Delicie-se com a cozinha tradicional argelina num restaurante próximo, depois explore a arquitetura deslumbrante do Le Théâtre.\r\n\r\nDê um passeio ao longo da Corniche para desfrutar de vistas deslumbrantes sobre a costa e visite o Forte de Santa Cruz para obter vistas panorâmicas da cidade. Descubra a rica história da Mesquita Abdelhamid Ben Badis e depois dirija-se ao Museu de Belas Artes para apreciar a arte local e as exposições históricas.\r\n\r\nNão perca La Gare d'Oran, conhecida pela sua impressionante arquitetura e significado histórico. Finalmente, visite um mercado local para encontrar lembranças únicas e criar memórias duradouras. Junte-se a nós e conheça o coração de Oran!"
+    },
+    "providerTitle": "Salim",
+    "providerPhone": "+213674538319",
+    "URL": "https://www.freetour.com/oran/explore-algerias-hidden-gem-of-natural-beauty?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/oran/explore-algerias-hidden-gem-of-natural-beauty?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/oran/explore-algerias-hidden-gem-of-natural-beauty?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/oran/explore-algerias-hidden-gem-of-natural-beauty?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/oran/explore-algerias-hidden-gem-of-natural-beauty?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/oran/explore-algerias-hidden-gem-of-natural-beauty?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/oran/explore-algerias-hidden-gem-of-natural-beauty?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 100,
+      "currency": "EUR"
+    },
+    "length": "5:00",
+    "meetingPoint": {
+      "title": "Oran",
+      "coordinates": "35.716831140259,-0.6102561950683594",
+      "googlePlaceId": "ChIJQ6vu5yKIfg0RbcWxH9Pl-Lg"
+    },
+    "cityId": 5063,
+    "countryId": 261,
+    "includes": [
+      "Abdelhamid Ben Badis Mosque",
+      "La gare d'oran",
+      "Corniche Oranaise"
+    ],
+    "POIs": [
+      {
+        "id": 17986,
+        "title": "Abdelhamid Ben Badis Mosque",
+        "googlePlaceId": "ChIJCYrTfSuIfg0RU_cL4QLByow"
+      },
+      {
+        "id": 26756,
+        "title": "La gare d'oran",
+        "googlePlaceId": "ChIJdzdzWwCJfg0RHktPx0JSSA8"
+      },
+      {
+        "id": 26755,
+        "title": "Corniche Oranaise",
+        "googlePlaceId": "ChIJi5ZCrFuFfg0R0Prgr32Ik6Y"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/63783/constantine-01.jpg",
+    "categoryId": 2,
+    "images": [
+      {
+        "id": 222635,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-01.jpg"
+      },
+      {
+        "id": 222636,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-02.jpg"
+      },
+      {
+        "id": 222637,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-03.jpg"
+      },
+      {
+        "id": 222638,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-04.jpg"
+      },
+      {
+        "id": 222639,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-05.jpg"
+      },
+      {
+        "id": 222640,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-06.jpg"
+      },
+      {
+        "id": 222641,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-07.jpg"
+      },
+      {
+        "id": 222642,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-08.jpg"
+      },
+      {
+        "id": 222643,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-09.jpg"
+      },
+      {
+        "id": 222644,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-10.jpg"
+      },
+      {
+        "id": 222645,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-11.jpg"
+      },
+      {
+        "id": 222646,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-12.jpg"
+      },
+      {
+        "id": 222647,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-13.jpg"
+      },
+      {
+        "id": 222648,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-14.jpg"
+      },
+      {
+        "id": 222649,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-15.jpg"
+      },
+      {
+        "id": 222650,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-16.jpg"
+      },
+      {
+        "id": 222651,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-17.jpg"
+      },
+      {
+        "id": 222652,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-18.jpg"
+      },
+      {
+        "id": 222653,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-19.jpg"
+      },
+      {
+        "id": 222654,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-20.jpg"
+      },
+      {
+        "id": 222655,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-21.jpg"
+      },
+      {
+        "id": 222656,
+        "URL": "https://www.freetour.com/images/tours/63783/constantine-22.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 63784,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Explore the Wonders of Algiers",
+      "es": "Explore las Maravillas de Argel",
+      "pt": "Explorar as maravilhas de Argel",
+      "de": "Entdecken Sie die Wunder von Algier",
+      "fr": "Explorer les merveilles d'Alger",
+      "it": "Esplora le meraviglie di Algeri"
+    },
+    "brief": {
+      "de": "Entdecken Sie mit uns die Wunder von Algier! Entdecken Sie die Geschichte und die atemberaubende Architektur der algerischen Hauptstadt, während wir die antiken Stätten und die pulsierende Kultur erkunden. Verpassen Sie nicht die Gelegenheit, die Wunder dieser fesselnden Stadt zu erleben!",
+      "en": "Join us to uncover the wonders of Algiers! Discover the history and stunning architecture of Algeria's capital as we explore its ancient sites and vibrant culture. Don't miss this chance to experience the wonders of this captivating city!",
+      "es": "Únase a nosotros para descubrir las maravillas de Argel Descubra la historia y la impresionante arquitectura de la capital de Argelia mientras exploramos sus lugares antiguos y su vibrante cultura. No se pierda la oportunidad de conocer las maravillas de esta cautivadora ciudad",
+      "fr": "Rejoignez-nous pour découvrir les merveilles d'Alger ! Découvrez l'histoire et l'architecture étonnante de la capitale de l'Algérie en explorant ses sites anciens et sa culture vibrante. Ne manquez pas cette occasion de découvrir les merveilles de cette ville captivante !",
+      "it": "Unitevi a noi per scoprire le meraviglie di Algeri! Scoprite la storia e la splendida architettura della capitale algerina esplorando i suoi antichi siti e la sua vibrante cultura. Non perdete l'occasione di scoprire le meraviglie di questa affascinante città!",
+      "pt": "Junte-se a nós para descobrir as maravilhas de Argel! Descubra a história e a arquitetura deslumbrante da capital da Argélia enquanto exploramos os seus locais antigos e a sua cultura vibrante. Não perca esta oportunidade de conhecer as maravilhas desta cidade cativante!"
+    },
+    "description": {
+      "de": "Stunde 1: Kasbah von Algier\r\nBeginnen Sie Ihren Tag in der historischen Kasbah. Schlendern Sie durch die engen, verwinkelten Gassen, bewundern Sie die traditionelle Architektur und besuchen Sie den Place des Martyrs, um einen Einblick in das lokale Leben zu bekommen.\r\n\r\nStunde 2: Märtyrer-Denkmal\r\nMachen Sie sich auf den Weg zum Märtyrer-Denkmal (Maqam Echahid). Dieses ikonische Denkmal erinnert an die Kämpfer für die Unabhängigkeit Algeriens und bietet einen herrlichen Blick über die Stadt.\r\n\r\nStunde 3: Das Nationalmuseum der Schönen Künste\r\nBesuchen Sie das Nationale Museum der Schönen Künste, das eine Sammlung algerischer und internationaler Kunst zeigt. Die Architektur des Museums und der umliegende Park sind ebenfalls einen Spaziergang wert.\r\n\r\nStunde 4: Stadtzentrum und Mittagessen\r\nMachen Sie sich auf den Weg ins Stadtzentrum und genießen Sie Ihr Mittagessen in einem lokalen Restaurant. Probieren Sie traditionelle Gerichte wie Couscous oder Tajine.\r\n\r\nStunde 5: Jardin d'Essai\r\nNach dem Mittagessen entspannen Sie sich im Jardin d'Essai, einem wunderschönen botanischen Garten. Genießen Sie einen ruhigen Spaziergang inmitten seiner vielfältigen Pflanzen und Blumen.\r\n\r\nStunde 6: Die Große Moschee von Algier\r\nSchließen Sie Ihre Tour mit einem Besuch der Großen Moschee von Algier (Djamaa el Djazaïr) ab. Erkunden Sie ihre beeindruckende Architektur und, wenn es die Zeit erlaubt, auch die Umgebung.",
+      "en": "Hour 1: Kasbah of Algiers\r\nStart your day in the historic Kasbah. Wander through its narrow, winding streets, admire the traditional architecture, and visit Place des Martyrs for a glimpse of local life.\r\n\r\nHour 2: Martyrs' Memorial\r\nHead to the Martyrs' Memorial (Maqam Echahid). This iconic monument honors those who fought for Algeria's independence and offers great views of the city.\r\n\r\nHour 3: The National Museum of Fine Arts\r\nVisit the National Museum of Fine Arts to explore a collection of Algerian and international art. The museum’s architecture and surrounding park are also worth a stroll.\r\n\r\nHour 4: City Center and Lunch\r\nMake your way to the city center and enjoy lunch at a local restaurant. Try traditional dishes like couscous or tajine.\r\n\r\nHour 5: Jardin d'Essai\r\nAfter lunch, relax at the Jardin d'Essai, a beautiful botanical garden. Enjoy a peaceful walk amidst its diverse plants and flowers.\r\n\r\nHour 6: The Great Mosque of Algiers\r\nConclude your tour with a visit to the Great Mosque of Algiers (Djamaa el Djazaïr). Explore its impressive architecture and, if time permits, the surrounding area.",
+      "es": "Hora 1: Kasbah de Argel\r\nComience el día en la histórica Kasbah. Pasee por sus estrechas y sinuosas calles, admire la arquitectura tradicional y visite la Plaza de los Mártires para conocer la vida local.\r\n\r\nHora 2: Memorial de los Mártires\r\nDiríjase al Monumento a los Mártires (Maqam Echahid). Este emblemático monumento rinde homenaje a los que lucharon por la independencia de Argelia y ofrece magníficas vistas de la ciudad.\r\n\r\nHora 3: Museo Nacional de Bellas Artes\r\nVisite el Museo Nacional de Bellas Artes para explorar una colección de arte argelino e internacional. También merece la pena pasear por la arquitectura del museo y el parque que lo rodea.\r\n\r\nHora 4: Centro de la ciudad y almuerzo\r\nDiríjase al centro de la ciudad y disfrute de un almuerzo en un restaurante local. Pruebe platos tradicionales como el cuscús o el tajine.\r\n\r\nHora 5: Jardín de Essai\r\nDespués de comer, relájese en el Jardin d'Essai, un hermoso jardín botánico. Disfrute de un tranquilo paseo entre sus diversas plantas y flores.\r\n\r\nHora 6: La Gran Mezquita de Argel\r\nConcluya su recorrido con una visita a la Gran Mezquita de Argel (Djamaa el Djazaïr). Explore su impresionante arquitectura y, si el tiempo lo permite, los alrededores.",
+      "fr": "Heure 1 : Kasbah d'Alger\r\nCommencez votre journée dans la Casbah historique. Promenez-vous dans ses rues étroites et sinueuses, admirez l'architecture traditionnelle et visitez la Place des Martyrs pour avoir un aperçu de la vie locale.\r\n\r\nHeure 2 : Mémorial des Martyrs\r\nRendez-vous au Mémorial des martyrs (Maqam Echahid). Ce monument emblématique rend hommage à ceux qui ont combattu pour l'indépendance de l'Algérie et offre une vue imprenable sur la ville.\r\n\r\nHeure 3 : Musée national des beaux-arts\r\nVisite du Musée national des beaux-arts pour découvrir une collection d'œuvres d'art algériennes et internationales. L'architecture du musée et le parc qui l'entoure méritent également une promenade.\r\n\r\nHeure 4 : Centre ville et déjeuner\r\nRejoignez le centre-ville et déjeunez dans un restaurant local. Essayez les plats traditionnels comme le couscous ou le tajine.\r\n\r\nHeure 5 : Jardin d'Essai\r\nAprès le déjeuner, détendez-vous au Jardin d'Essai, un magnifique jardin botanique. Profitez d'une promenade paisible au milieu de la diversité des plantes et des fleurs.\r\n\r\nHeure 6 : Grande Mosquée d'Alger\r\nLa visite de la Grande Mosquée d'Alger (Djamaa el Djazaïr) clôturera votre périple. Découvrez son architecture impressionnante et, si le temps le permet, les environs.",
+      "it": "Ora 1: Kasbah di Algeri\r\nIniziate la giornata nella storica Kasbah. Passeggiate per le sue strade strette e tortuose, ammirate l'architettura tradizionale e visitate la Place des Martyrs per uno sguardo alla vita locale.\r\n\r\nOra 2: Memoriale dei Martiri\r\nRecatevi al Memoriale dei Martiri (Maqam Echahid). Questo monumento iconico rende omaggio a coloro che hanno combattuto per l'indipendenza dell'Algeria e offre una splendida vista sulla città.\r\n\r\nOra 3: Museo nazionale delle Belle Arti\r\nVisitate il Museo Nazionale delle Belle Arti per esplorare una collezione di arte algerina e internazionale. Anche l'architettura del museo e il parco circostante meritano una passeggiata.\r\n\r\nOra 4: centro città e pranzo\r\nRaggiungete il centro città e gustate il pranzo in un ristorante locale. Assaggiate piatti tradizionali come il couscous o il tajine.\r\n\r\nOra 5: Giardino d'Essai\r\nDopo pranzo, rilassatevi al Jardin d'Essai, un bellissimo giardino botanico. Godetevi una tranquilla passeggiata tra le sue diverse piante e fiori.\r\n\r\nOra 6: Grande Moschea di Algeri\r\nConcludete il tour con una visita alla Grande Moschea di Algeri (Djamaa el Djazaïr). Esplorate la sua impressionante architettura e, se il tempo a disposizione lo permette, l'area circostante.",
+      "pt": "Hora 1: Kasbah de Argel\r\nComece o seu dia no histórico Kasbah. Passeie pelas suas ruas estreitas e sinuosas, admire a arquitetura tradicional e visite a Place des Martyrs para ter um vislumbre da vida local.\r\n\r\nHora 2: Memorial dos Mártires\r\nDirija-se ao Memorial dos Mártires (Maqam Echahid). Este monumento icónico homenageia aqueles que lutaram pela independência da Argélia e oferece excelentes vistas da cidade.\r\n\r\nHora 3: O Museu Nacional de Belas Artes\r\nVisite o Museu Nacional de Belas Artes para explorar uma coleção de arte argelina e internacional. A arquitetura do museu e o parque circundante também merecem um passeio.\r\n\r\nHora 4: Centro da cidade e almoço\r\nDirija-se ao centro da cidade e desfrute de um almoço num restaurante local. Experimente pratos tradicionais como o cuscuz ou o tajine.\r\n\r\nHora 5: Jardin d'Essai\r\nDepois do almoço, relaxe no Jardin d'Essai, um belo jardim botânico. Desfrute de um passeio tranquilo no meio das suas diversas plantas e flores.\r\n\r\nHora 6: A Grande Mesquita de Argel\r\nTermine o seu passeio com uma visita à Grande Mesquita de Argel (Djamaa el Djazaïr). Explore a sua impressionante arquitetura e, se o tempo o permitir, a área circundante."
+    },
+    "providerTitle": "Salim",
+    "providerPhone": "+213674538319",
+    "URL": "https://www.freetour.com/algiers/explore-the-wonders-of-algiers?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/algiers/explore-the-wonders-of-algiers?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/algiers/explore-the-wonders-of-algiers?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/algiers/explore-the-wonders-of-algiers?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/algiers/explore-the-wonders-of-algiers?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/algiers/explore-the-wonders-of-algiers?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/algiers/explore-the-wonders-of-algiers?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 85,
+      "currency": "EUR"
+    },
+    "length": "6:00",
+    "meetingPoint": {
+      "title": "Algiers ",
+      "coordinates": "36.6997294,3.0576199",
+      "googlePlaceId": "ChIJebukObWJfg0RAMZkMTimJGU"
+    },
+    "cityId": 5034,
+    "countryId": 261,
+    "includes": [
+      "Botanical Garden Hamma",
+      "Great Mosque of Algiers",
+      "Museum of Fine Arts",
+      "Martyr's Memorial"
+    ],
+    "POIs": [
+      {
+        "id": 2000,
+        "title": "Botanical Garden Hamma",
+        "googlePlaceId": "ChIJ8du20ZiyjxIRLqnQ7p7GxYA"
+      },
+      {
+        "id": 26703,
+        "title": "Great Mosque of Algiers",
+        "googlePlaceId": "ChIJbcKe3X1SjhIRBoSa6JtXOrE"
+      },
+      {
+        "id": 26702,
+        "title": "Museum of Fine Arts",
+        "googlePlaceId": "ChIJbzZuJJyyjxIRSEWBr_Y6jhk"
+      },
+      {
+        "id": 10759,
+        "title": "Martyr's Memorial",
+        "googlePlaceId": "ChIJVes1dZ2yjxIRPKvH9FziPJM"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/63784/discover-algiers-06.jpg",
+    "categoryId": 2,
+    "images": [
+      {
+        "id": 222662,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-06.jpg"
+      },
+      {
+        "id": 222658,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-02.jpg"
+      },
+      {
+        "id": 222660,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-04.jpg"
+      },
+      {
+        "id": 222664,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-08.jpg"
+      },
+      {
+        "id": 222665,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-09.jpg"
+      },
+      {
+        "id": 222666,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-10.jpg"
+      },
+      {
+        "id": 222668,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-12.jpg"
+      },
+      {
+        "id": 222669,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-13.jpg"
+      },
+      {
+        "id": 222670,
+        "URL": "https://www.freetour.com/images/tours/63784/discover-algiers-14.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 70801,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Tipaza Ancient Ruins Day Trip",
+      "es": "Excursión de un día a las Antiguas Ruinas de Tipaza",
+      "pt": "Excursão de um dia às Ruínas Antigas de Tipaza",
+      "de": "Tipaza Antike Ruinen Tagesausflug",
+      "fr": "Excursion d'une journée aux anciennes ruines de Tipaza",
+      "it": "Gita di un giorno alle antiche rovine di Tipaza"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf eine Reise durch die Zeit in Tipaza! Entdecken Sie beeindruckende römische Ruinen, atemberaubende Ausblicke auf die Küste und ein reiches historisches Erbe. Spazieren Sie durch alte Straßen, erkunden Sie faszinierende Orte und erleben Sie die Vergangenheit Algeriens in einem unvergesslichen Abenteuer!",
+      "en": "Join us on a journey through time in Tipaza! Discover stunning Roman ruins, breathtaking coastal views, and a rich historical legacy. Walk among ancient streets, explore fascinating sites, and experience Algeria’s past in an unforgettable adventure!",
+      "es": "¡Acompáñenos en un viaje a través del tiempo en Tipaza! Descubra impresionantes ruinas romanas, sobrecogedoras vistas de la costa y un rico legado histórico. Camine entre antiguas calles, explore lugares fascinantes y viva el pasado de Argelia en una aventura inolvidable",
+      "fr": "Rejoignez-nous pour un voyage dans le temps à Tipaza ! Découvrez des ruines romaines étonnantes, des vues côtières à couper le souffle et un riche héritage historique. Marchez dans les rues anciennes, explorez des sites fascinants et découvrez le passé de l'Algérie au cours d'une aventure inoubliable !",
+      "it": "Unitevi a noi in un viaggio nel tempo a Tipaza! Scoprite splendide rovine romane, panorami costieri mozzafiato e una ricca eredità storica. Camminate tra le antiche strade, esplorate siti affascinanti e vivete il passato dell'Algeria in un'avventura indimenticabile!",
+      "pt": "Junte-se a nós numa viagem através do tempo em Tipaza! Descubra deslumbrantes ruínas romanas, vistas costeiras de cortar a respiração e um rico legado histórico. Passeie por ruas antigas, explore locais fascinantes e viva o passado da Argélia numa aventura inesquecível!"
+    },
+    "description": {
+      "de": "Entdecken Sie Tipaza, ein UNESCO-gelistetes Küstenjuwel, das für seine römischen Ruinen, seine atemberaubende Landschaft und seinen mediterranen Charme bekannt ist. Entdecken Sie die reiche Geschichte und die atemberaubende Aussicht.\r\n\r\nHöhepunkte der Tour : \r\n- Archäologische Stätte von Tipaza: Wandern Sie durch die antiken römischen Ruinen, darunter ein Amphitheater, Bäder und Villen, und entdecken Sie das römische Erbe Nordafrikas.\r\n- Tipaza-Museum: Bewundern Sie Mosaike, Skulpturen und Artefakte aus der römischen und phönizischen Epoche.\r\n- Grabmal des Christen: Besuchen Sie dieses majestätische Mausoleum, das als Ruhestätte der Königin Kleopatra Selene II. gilt und einen Panoramablick auf das Meer bietet.\r\n- Mittagessen am Meer: Genießen Sie ein frisches, gegrilltes Fischgericht mit herrlichem Blick aufs Meer.\r\n- Spaziergang am Hafen und an der Uferpromenade: Beenden Sie Ihre Tour mit einem entspannten Spaziergang am Hafen, bewundern Sie die Fischerboote und die Meeresbrise.",
+      "en": "Discover Tipaza, a UNESCO-listed coastal gem famous for its Roman ruins, stunning landscapes, and Mediterranean charm. Explore its rich history and breathtaking views.\r\n\r\nTour Highlights : \r\n- Archaeological Site of Tipaza: Walk through ancient Roman ruins, including an amphitheater, baths, and villas, while uncovering North Africa’s Roman legacy.\r\n- Tipaza Museum: Admire mosaics, sculptures, and artifacts from the Roman and Phoenician eras.\r\n- Tomb of the Christian: Visit this majestic mausoleum, believed to be Queen Cleopatra Selene II’s resting place, offering panoramic sea views.\r\n- Seaside Lunch: Enjoy a fresh grilled fish meal with a beautiful sea view.\r\n- Port & Waterfront Stroll: End your tour with a relaxing walk by the port, admiring fishing boats and the sea breeze.",
+      "es": "Descubra Tipaza, una joya costera declarada Patrimonio de la Humanidad por la UNESCO y famosa por sus ruinas romanas, sus impresionantes paisajes y su encanto mediterráneo. Explore su rica historia y sus impresionantes vistas.\r\n\r\nLo más destacado : \r\n- Yacimiento arqueológico de Tipaza: Pasee por las antiguas ruinas romanas, que incluyen un anfiteatro, baños y villas, mientras descubre el legado romano del norte de África.\r\n- Museo de Tipaza: Admire mosaicos, esculturas y artefactos de las épocas romana y fenicia.\r\n- Tumba del Cristiano: Visite este majestuoso mausoleo, que se cree que es el lugar de descanso de la reina Cleopatra Selene II, y que ofrece vistas panorámicas del mar.\r\n- Almuerzo junto al mar: Disfrute de un plato de pescado fresco a la parrilla con una hermosa vista al mar.\r\n- Paseo por el puerto y el paseo marítimo: Termine su visita con un relajante paseo por el puerto, admirando los barcos de pesca y la brisa marina.",
+      "fr": "Découvrez Tipaza, un joyau côtier classé par l'UNESCO et célèbre pour ses ruines romaines, ses paysages époustouflants et son charme méditerranéen. Explorez sa riche histoire et ses vues à couper le souffle.\r\n\r\nPoints forts de la visite : \r\n- Site archéologique de Tipaza : Marchez à travers les ruines romaines antiques, y compris un amphithéâtre, des bains et des villas, tout en découvrant l'héritage romain de l'Afrique du Nord.\r\n- Musée de Tipaza : Admirez les mosaïques, les sculptures et les objets des époques romaine et phénicienne.\r\n- Tombeau de la Chrétienne : Visitez ce majestueux mausolée, considéré comme le lieu de repos de la reine Cléopâtre Séléné II, qui offre des vues panoramiques sur la mer.\r\n- Déjeuner en bord de mer : Savourez un repas de poisson frais grillé avec une vue magnifique sur la mer.\r\n- Promenade dans le port et sur le front de mer : Terminez votre visite par une promenade relaxante sur le port, en admirant les bateaux de pêche et la brise marine.",
+      "it": "Scoprite Tipaza, un gioiello costiero classificato dall'UNESCO, famoso per le sue rovine romane, i suoi paesaggi mozzafiato e il suo fascino mediterraneo. Esplorate la sua ricca storia e i suoi panorami mozzafiato.\r\n\r\nPunti salienti del tour: \r\n- Sito archeologico di Tipaza: Passeggiate tra le antiche rovine romane, tra cui un anfiteatro, terme e ville, scoprendo l'eredità romana del Nord Africa.\r\n- Museo di Tipaza: Ammirate mosaici, sculture e manufatti di epoca romana e fenicia.\r\n- Tomba del Cristiano: Visitate questo maestoso mausoleo, ritenuto il luogo di riposo della regina Cleopatra Selene II, che offre una vista panoramica sul mare.\r\n- Pranzo in riva al mare: Gustate un pasto a base di pesce fresco alla griglia con una splendida vista sul mare.\r\n- Passeggiata sul porto e sul lungomare: Concludete il vostro tour con una rilassante passeggiata al porto, ammirando le barche da pesca e la brezza marina.",
+      "pt": "Descubra Tipaza, uma joia costeira classificada pela UNESCO, famosa pelas suas ruínas romanas, paisagens deslumbrantes e encanto mediterrânico. Explore a sua rica história e as suas vistas de cortar a respiração.\r\n\r\nDestaques da viagem : \r\n- Sítio Arqueológico de Tipaza: Caminhe pelas antigas ruínas romanas, incluindo um anfiteatro, banhos e vilas, enquanto descobre o legado romano do Norte de África.\r\n- Museu de Tipaza: Admire mosaicos, esculturas e artefactos das eras romana e fenícia.\r\n- Túmulo do Cristão: Visite este majestoso mausoléu, que se crê ser o local de descanso da Rainha Cleópatra Selene II, com vistas panorâmicas sobre o mar.\r\n- Almoço à beira-mar: Desfrute de uma refeição de peixe fresco grelhado com uma bela vista para o mar.\r\n- Passeio pelo porto e pela orla marítima: Termine a sua visita com um passeio relaxante pelo porto, admirando os barcos de pesca e a brisa do mar."
+    },
+    "providerTitle": "Nad",
+    "providerPhone": "+213790630758",
+    "URL": "https://www.freetour.com/tipaza/tipaza-ancient-ruins-day-trip?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/tipaza/tipaza-ancient-ruins-day-trip?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/tipaza/tipaza-ancient-ruins-day-trip?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/tipaza/tipaza-ancient-ruins-day-trip?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/tipaza/tipaza-ancient-ruins-day-trip?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/tipaza/tipaza-ancient-ruins-day-trip?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/tipaza/tipaza-ancient-ruins-day-trip?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 59,
+      "currency": "EUR"
+    },
+    "length": "6:00",
+    "meetingPoint": {
+      "title": "Martyrs' Square Metro Station",
+      "coordinates": "36.78665480000001,3.062463799999999",
+      "googlePlaceId": "ChIJtxG6J_6yjxIRLf-sqIsln-U"
+    },
+    "cityId": 5199,
+    "countryId": 261,
+    "includes": [
+      "Martyrs' Square Metro Station",
+      "Archeological Public Museum of Cherchell"
+    ],
+    "POIs": [
+      {
+        "id": 29732,
+        "title": "Martyrs' Square Metro Station",
+        "googlePlaceId": "ChIJpURGEPyzjxIReFuYvCajrQQ"
+      },
+      {
+        "id": 12352,
+        "title": "Archeological Public Museum of Cherchell",
+        "googlePlaceId": "ChIJzew9_Zh1hRIRrSG5kX8uom8"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/70801/draft-22-01.jpg",
+    "categoryId": 4,
+    "images": [
+      {
+        "id": 247494,
+        "URL": "https://www.freetour.com/images/tours/70801/draft-22-01.jpg"
+      },
+      {
+        "id": 247495,
+        "URL": "https://www.freetour.com/images/tours/70801/draft-22-02.jpg"
+      },
+      {
+        "id": 247496,
+        "URL": "https://www.freetour.com/images/tours/70801/draft-22-03.jpg"
+      },
+      {
+        "id": 247497,
+        "URL": "https://www.freetour.com/images/tours/70801/draft-22-04.jpg"
+      },
+      {
+        "id": 247498,
+        "URL": "https://www.freetour.com/images/tours/70801/draft-22-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 1
+  },
+  {
+    "id": 77792,
+    "updatedAt": "2025-12-01 03:32:45",
+    "title": {
+      "en": "Explore the Heart of Algiers",
+      "es": "Explore el Corazón de Argel",
+      "pt": "Explorar o coração de Argel",
+      "de": "Entdecken Sie das Herz von Algier",
+      "fr": "Explorer le cœur d'Alger",
+      "it": "Esplorate il cuore di Algeri"
+    },
+    "brief": {
+      "de": "Entdecken Sie den Charme von Algier mit seiner historischen Kasbah, der atemberaubenden Mittelmeerküste, den pulsierenden Märkten und den berühmten Wahrzeichen wie dem Märtyrerdenkmal und Notre Dame d'Afrique. Erleben Sie die perfekte Mischung aus Kultur.",
+      "en": "Discover Algiers’ charm, with its historic Kasbah, stunning Mediterranean coastline, vibrant markets, and iconic landmarks, including the Martyrs’ Memorial and Notre Dame d’Afrique. Experience the perfect blend of culture.",
+      "es": "Descubra el encanto de Argel, con su histórica Kasbah, su impresionante costa mediterránea, sus vibrantes mercados y sus lugares emblemáticos, como el Monumento a los Mártires y Notre Dame d'Afrique. Experimente la mezcla perfecta de cultura.",
+      "fr": "Découvrez le charme d'Alger, avec sa casbah historique, son magnifique littoral méditerranéen, ses marchés animés et ses sites emblématiques, notamment le Mémorial des Martyrs et Notre Dame d'Afrique. Faites l'expérience d'un mélange parfait de cultures.",
+      "it": "Scoprite il fascino di Algeri, con la sua storica Kasbah, la splendida costa mediterranea, i vivaci mercati e i luoghi simbolo, come il Memoriale dei Martiri e Notre Dame d'Afrique. Sperimentate il perfetto mix di cultura.",
+      "pt": "Descubra o encanto de Argel, com o seu Kasbah histórico, a deslumbrante costa mediterrânica, mercados vibrantes e marcos icónicos, incluindo o Memorial dos Mártires e Notre Dame d'Afrique. Experimente a mistura perfeita de cultura."
+    },
+    "description": {
+      "de": "Algerien entdecken: Wo Geschichte auf Abenteuer trifft\r\nErkunden Sie die reiche Vielfalt der alten Städte Algeriens, die atemberaubenden Wüsten der Sahara und die lebendige Kultur. Von der majestätischen Kasbah von Algier bis zu den atemberaubenden Dünen der Sahara bieten unsere fachkundig geführten Touren authentische Erlebnisse, eine reibungslose Logistik und unvergessliche Erinnerungen. \r\n\r\nGanz gleich, ob Sie ein Geschichtsfan, ein Abenteurer oder ein Kulturliebhaber sind, Algerien bietet Ihnen all das - unverfälscht, ehrlich und bemerkenswert.",
+      "en": "Discover Algeria: Where History Meets Adventure\r\nExplore the rich tapestry of Algeria’s ancient cities, stunning Sahara deserts, and vibrant culture. From the majestic Kasbah of Algiers to the breathtaking Sahara dunes, our expertly guided tours offer authentic experiences, seamless logistics, and unforgettable memories. \r\n\r\nWhether you’re a history buff, adventure seeker, or culture lover, Algeria delivers it all, raw, honest, and remarkable.",
+      "es": "Descubrir Argelia: Donde la historia se une a la aventura\r\nExplore el rico tapiz de ciudades antiguas, impresionantes desiertos del Sáhara y vibrante cultura de Argelia. Desde la majestuosa Kasbah de Argel hasta las impresionantes dunas del Sáhara, nuestros viajes guiados por expertos ofrecen experiencias auténticas, una logística perfecta y recuerdos inolvidables. \r\n\r\nTanto si es un aficionado a la historia, un aventurero o un amante de la cultura, Argelia se lo ofrece todo, crudo, honesto y extraordinario.",
+      "fr": "Découvrez l'Algérie : Là où l'histoire rencontre l'aventure\r\nExplorez la riche tapisserie des villes anciennes de l'Algérie, les magnifiques déserts du Sahara et la culture vibrante. De la majestueuse casbah d'Alger aux époustouflantes dunes du Sahara, nos circuits guidés par des experts offrent des expériences authentiques, une logistique sans faille et des souvenirs inoubliables. \r\n\r\nQue vous soyez féru d'histoire, d'aventure ou de culture, l'Algérie vous offre tout cela, de manière brute, honnête et remarquable.",
+      "it": "Scoprire l'Algeria: Dove la storia incontra l'avventura\r\nEsplorate il ricco arazzo delle antiche città algerine, gli splendidi deserti del Sahara e la vibrante cultura. Dalla maestosa Kasbah di Algeri alle dune mozzafiato del Sahara, i nostri tour guidati da esperti offrono esperienze autentiche, una logistica impeccabile e ricordi indimenticabili. \r\n\r\nChe siate appassionati di storia, amanti dell'avventura o della cultura, l'Algeria vi offre tutto questo, in modo crudo, onesto e straordinario.",
+      "pt": "Descobrir a Argélia: Onde a história se encontra com a aventura\r\nExplore a rica tapeçaria das cidades antigas da Argélia, os deslumbrantes desertos do Saara e a cultura vibrante. Desde o majestoso Kasbah de Argel até às deslumbrantes dunas do Sara, as nossas excursões guiadas por especialistas oferecem experiências autênticas, uma logística perfeita e memórias inesquecíveis. \r\n\r\nQuer seja um aficionado da história, um aventureiro ou um amante da cultura, a Argélia oferece tudo isto, de forma crua, honesta e notável."
+    },
+    "providerTitle": "Copyfly",
+    "providerPhone": "+213552630294",
+    "URL": "https://www.freetour.com/algiers/explore-the-heart-of-algiers?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/algiers/explore-the-heart-of-algiers?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/algiers/explore-the-heart-of-algiers?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/algiers/explore-the-heart-of-algiers?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/algiers/explore-the-heart-of-algiers?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/algiers/explore-the-heart-of-algiers?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/algiers/explore-the-heart-of-algiers?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "9:00",
+    "meetingPoint": {
+      "title": "Martyrs' Square",
+      "coordinates": "36.78458,3.0624425",
+      "googlePlaceId": "ChIJtYbo9v6yjxIR-1t8J3VC1Lw"
+    },
+    "cityId": 5034,
+    "countryId": 261,
+    "includes": [
+      "Martyrs' Square"
+    ],
+    "POIs": [
+      {
+        "id": 463,
+        "title": "Martyrs' Square",
+        "googlePlaceId": "ChIJ0aNHCv6yjxIRwOCawOfbpo0"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/77792/explore-the-heart-of-algiers-01.jpg",
+    "categoryId": 9,
+    "images": [
+      {
+        "id": 269672,
+        "URL": "https://www.freetour.com/images/tours/77792/explore-the-heart-of-algiers-01.jpg"
+      },
+      {
+        "id": 269673,
+        "URL": "https://www.freetour.com/images/tours/77792/explore-the-heart-of-algiers-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 79859,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "Authentic Algiers: Culture, Streets & Stories",
+      "es": "El Auténtico Argel: Cultura, Calles e Historias",
+      "pt": "Argel autêntica: Cultura, Ruas e Histórias",
+      "de": "Authentisches Algier: Kultur, Straßen und Geschichten",
+      "fr": "Alger authentique : Culture, rues et histoires",
+      "it": "Algeri autentica: Cultura, strade e storie"
+    },
+    "brief": {
+      "de": "Entdecken Sie mit uns das wahre Algier! Schlendern Sie durch die pulsierenden Straßen, probieren Sie die lokalen Köstlichkeiten, erkunden Sie versteckte Ecken und entdecken Sie die reiche Geschichte und das tägliche Leben in Algerien jenseits der Touristenorte. Eine Reise voller Kultur, Geschichten und Überraschungen!",
+      "en": "Join us to discover the real Algiers! Wander vibrant streets, taste local flavors, explore hidden corners, and uncover the rich history and daily life of Algeria beyond the tourist spots. A journey full of culture, stories, and surprises!",
+      "es": "Únase a nosotros para descubrir la verdadera Argel Deambule por calles vibrantes, pruebe los sabores locales, explore rincones ocultos y descubra la rica historia y la vida cotidiana de Argelia más allá de los lugares turísticos. Un viaje lleno de cultura, historias y sorpresas",
+      "fr": "Rejoignez-nous pour découvrir le véritable Alger ! Parcourez les rues animées, goûtez aux saveurs locales, explorez les recoins cachés et découvrez la riche histoire et la vie quotidienne de l'Algérie au-delà des sites touristiques. Un voyage plein de culture, d'histoires et de surprises !",
+      "it": "Unitevi a noi per scoprire la vera Algeri! Passeggiate per strade vivaci, assaggiate i sapori locali, esplorate angoli nascosti e scoprite la ricca storia e la vita quotidiana dell'Algeria al di là dei luoghi turistici. Un viaggio pieno di cultura, storie e sorprese!",
+      "pt": "Junte-se a nós para descobrir a verdadeira Argel! Passeie por ruas vibrantes, prove os sabores locais, explore recantos escondidos e descubra a rica história e a vida quotidiana da Argélia para além dos pontos turísticos. Uma viagem cheia de cultura, histórias e surpresas!"
+    },
+    "description": {
+      "de": "1. Sie beginnen am Märtyrerplatz, sehen die Ketchaoua-Moschee und Djamaa El Djadid und probieren die Deglet Nour-Datteln, die angeblich die leckersten der Welt sind!\r\n\r\n2. Umgeben von beeindruckender muslimischer Architektur besuchen Sie das historische Qasr El Ryas Museum.\r\n\r\n3. Anschließend genießen Sie ein traditionelles Mittagessen mit gegrillten Meeresfrüchten, würzigen lokalen Gerichten oder Karantita für Vegetarier am Meer.\r\n\r\n4. Machen Sie einen Spaziergang entlang der Uferpromenade mit Blick auf die Bucht von Algier und den berühmten Hafenplatz von Said.\r\n\r\n5. Schlendern Sie die Emir Abdelkader Street hinunter zum Grand Post Office und halten Sie bei Bedarf in Geschäften mit handgefertigtem Schmuck und traditionellem Kunsthandwerk.\r\n\r\n6. Fahren Sie mit der Seilbahn, um am Märtyrerdenkmal und im Revolutionsmuseum die inspirierende Geschichte der algerischen Befreiung zu erkunden.\r\n\r\n7. Beenden Sie den Tag mit einem ruhigen Besuch des Botanischen Gartens von Algier.\r\n\r\nHinweis zum Freitag: Freitag ist in Algerien ein Wochenendtag. Einige Geschäfte können während der Freitagsgebete (etwa zwei Stunden) schließen, aber die Museen bleiben geöffnet.",
+      "en": "1. You’ll start at Martyr Square, see the Ketchaoua Mosque and Djamaa El Djadid, and taste Deglet Nour dates—said to be the tastiest in the world!\r\n\r\n2. Surrounded by stunning Muslim architecture, you’ll visit the historic Qasr El Ryas Museum.\r\n\r\n3. Next, enjoy a traditional lunch of BBQ seafood, spicy local dishes, or Karantita for vegetarians by the sea.\r\n\r\n4. Take a walk along the waterfront with views of Algiers Bay and the iconic Said Port Square.\r\n\r\n5. Stroll down Emir Abdelkader Street to the Grand Post Office, with optional stops at shops selling handmade jewelry and traditional crafts.\r\n\r\n6. Ride the cable car to explore Algeria’s inspiring liberation history at the Martyr Monument and the Revolution Museum.\r\n\r\n7. End the day with a peaceful visit to the Algiers Botanical Garden.\r\n\r\nFriday Note: Friday is a weekend day in Algeria. Some shops may close during Friday prayers (about two hours), but museums remain open.",
+      "es": "1. Comenzará en la Plaza de los Mártires, visitará la Mezquita de Ketchaoua y Djamaa El Djadid, y degustará los dátiles Deglet Nour, ¡según dicen los más sabrosos del mundo!\r\n\r\n2. Rodeado de una impresionante arquitectura musulmana, visitará el histórico Museo Qasr El Ryas.\r\n\r\n3. A continuación, disfrute de un almuerzo tradicional a base de marisco a la barbacoa, platos locales picantes o Karantita para vegetarianos junto al mar.\r\n\r\n4. Dé un paseo por el paseo marítimo con vistas a la bahía de Argel y a la emblemática plaza del puerto de Said.\r\n\r\n5. Pasee por la calle Emir Abdelkader hasta la Gran Oficina de Correos, con paradas opcionales en tiendas de joyería hecha a mano y artesanía tradicional.\r\n\r\n6. Suba al teleférico para explorar la inspiradora historia de la liberación de Argelia en el Monumento a los Mártires y el Museo de la Revolución.\r\n\r\n7. Termine el día con una tranquila visita al Jardín Botánico de Argel.\r\n\r\nViernes Nota: En Argelia, el viernes es fin de semana. Algunas tiendas pueden cerrar durante la oración del viernes (unas dos horas), pero los museos permanecen abiertos.",
+      "fr": "1. Vous commencerez par la place des Martyrs, vous verrez la mosquée Ketchaoua et Djamaa El Djadid, et vous dégusterez les dattes Deglet Nour, réputées pour être les plus savoureuses du monde !\r\n\r\n2. Entouré d'une architecture musulmane étonnante, vous visiterez le musée historique Qasr El Ryas.\r\n\r\n3. Ensuite, vous dégusterez un déjeuner traditionnel composé de fruits de mer au barbecue, de plats locaux épicés ou de Karantita pour les végétariens en bord de mer.\r\n\r\n4. Promenez-vous le long du front de mer pour admirer la baie d'Alger et l'emblématique place du port de Saïd.\r\n\r\n5. Promenez-vous dans la rue Emir Abdelkader jusqu'à la Grande Poste, avec des arrêts facultatifs dans des boutiques vendant des bijoux faits à la main et de l'artisanat traditionnel.\r\n\r\n6. Prenez le téléphérique pour explorer l'histoire inspirante de la libération de l'Algérie au Monument du Martyr et au Musée de la Révolution.\r\n\r\n7. La journée se termine par une visite paisible du jardin botanique d'Alger.\r\n\r\nVendredi Note : Le vendredi est un jour de week-end en Algérie. Certains magasins peuvent fermer pendant les prières du vendredi (environ deux heures), mais les musées restent ouverts.",
+      "it": "1. Inizierete da Piazza del Martire, vedrete la Moschea di Ketchaoua e Djamaa El Djadid, e assaggerete i datteri Deglet Nour, che si dice siano i più gustosi del mondo!\r\n\r\n2. Circondati da una splendida architettura musulmana, visiterete lo storico Museo Qasr El Ryas.\r\n\r\n3. Poi, godetevi un pranzo tradizionale a base di frutti di mare al barbecue, piatti locali speziati o Karantita per i vegetariani in riva al mare.\r\n\r\n4. Passeggiate sul lungomare con vista sulla baia di Algeri e sull'iconica piazza del porto di Said.\r\n\r\n5. Passeggiate lungo Emir Abdelkader Street fino al Grand Post Office, con soste facoltative nei negozi di gioielli fatti a mano e di artigianato tradizionale.\r\n\r\n6. Salite sulla funivia per esplorare la storia della liberazione dell'Algeria presso il Monumento al Martire e il Museo della Rivoluzione.\r\n\r\n7. Concludete la giornata con una tranquilla visita al Giardino Botanico di Algeri.\r\n\r\nVenerdì Nota: il venerdì è un giorno di fine settimana in Algeria. Alcuni negozi possono chiudere durante le preghiere del venerdì (circa due ore), ma i musei rimangono aperti.",
+      "pt": "1. Começará na Praça dos Mártires, verá a Mesquita de Ketchaoua e Djamaa El Djadid, e provará as tâmaras Deglet Nour, que se diz serem as mais saborosas do mundo!\r\n\r\n2. Rodeado por uma deslumbrante arquitetura muçulmana, visitará o histórico Museu Qasr El Ryas.\r\n\r\n3. De seguida, desfrute de um almoço tradicional de marisco grelhado, pratos locais picantes ou Karantita para vegetarianos à beira-mar.\r\n\r\n4. Dê um passeio à beira-mar com vista para a Baía de Argel e a icónica Praça do Porto de Said.\r\n\r\n5. Passeie pela Rua Emir Abdelkader até à Grande Estação de Correios, com paragens opcionais em lojas que vendem jóias feitas à mão e artesanato tradicional.\r\n\r\n6. Suba no teleférico para explorar a inspiradora história da libertação da Argélia no Monumento dos Mártires e no Museu da Revolução.\r\n\r\n7. Termine o dia com uma visita tranquila ao Jardim Botânico de Argel.\r\n\r\nSexta-feira Nota: Sexta-feira é um dia de fim de semana na Argélia. Algumas lojas podem fechar durante as orações de sexta-feira (cerca de duas horas), mas os museus permanecem abertos."
+    },
+    "providerTitle": "yusra",
+    "providerPhone": "+213699543712",
+    "URL": "https://www.freetour.com/algiers/authentic-algiers-culture-streets-stories?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/algiers/authentic-algiers-culture-streets-stories?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/algiers/authentic-algiers-culture-streets-stories?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/algiers/authentic-algiers-culture-streets-stories?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/algiers/authentic-algiers-culture-streets-stories?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/algiers/authentic-algiers-culture-streets-stories?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/algiers/authentic-algiers-culture-streets-stories?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "5:00",
+    "meetingPoint": {
+      "title": "Djamaa El Djedid Mosque",
+      "coordinates": "36.7849248,3.0631179",
+      "googlePlaceId": "ChIJtYbo9v6yjxIR-1t8J3VC1Lw"
+    },
+    "cityId": 5034,
+    "countryId": 261,
+    "includes": [
+      "Botanical Garden Hamma",
+      "Bab el oued",
+      "Ketchaoua Mosque",
+      "Restaurant el bahri",
+      "Djemaa El Djedid",
+      "Port of Algiers",
+      "Algiers Central Post Office",
+      "Martyr's Memorial"
+    ],
+    "POIs": [
+      {
+        "id": 2000,
+        "title": "Botanical Garden Hamma",
+        "googlePlaceId": "ChIJ8du20ZiyjxIRLqnQ7p7GxYA"
+      },
+      {
+        "id": 32860,
+        "title": "Bab el oued",
+        "googlePlaceId": "ChIJa1HKvsmzjxIRswYdxOq-USg"
+      },
+      {
+        "id": 4927,
+        "title": "Ketchaoua Mosque",
+        "googlePlaceId": "ChIJgXehOv6yjxIRRwuxjEdaDvU"
+      },
+      {
+        "id": 32859,
+        "title": "Restaurant el bahri",
+        "googlePlaceId": "ChIJR76zNgCzjxIRTRBj98SDm3A"
+      },
+      {
+        "id": 14217,
+        "title": "Djemaa El Djedid",
+        "googlePlaceId": "ChIJU1zj5P2yjxIRI6skzUmXqUw"
+      },
+      {
+        "id": 32861,
+        "title": "Port of Algiers",
+        "googlePlaceId": "ChIJUx6Y4_myjxIRnlxWvylUp40"
+      },
+      {
+        "id": 10738,
+        "title": "Algiers Central Post Office",
+        "googlePlaceId": "ChIJVdH_r_eyjxIRL-Nwynfanx8"
+      },
+      {
+        "id": 10759,
+        "title": "Martyr's Memorial",
+        "googlePlaceId": "ChIJVes1dZ2yjxIRPKvH9FziPJM"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-09.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 276445,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-09.jpg"
+      },
+      {
+        "id": 276437,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-01.jpg"
+      },
+      {
+        "id": 276441,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-05.jpg"
+      },
+      {
+        "id": 276440,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-04.jpg"
+      },
+      {
+        "id": 276442,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-06.jpg"
+      },
+      {
+        "id": 276443,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-07.jpg"
+      },
+      {
+        "id": 276444,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-08.jpg"
+      },
+      {
+        "id": 276446,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-10.jpg"
+      },
+      {
+        "id": 276447,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-11.jpg"
+      },
+      {
+        "id": 276448,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-12.jpg"
+      },
+      {
+        "id": 276449,
+        "URL": "https://www.freetour.com/images/tours/79859/an-authentic-experience-like-no-other-13.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 2
+  },
+  {
+    "id": 80425,
+    "updatedAt": "2025-12-01 03:32:46",
+    "title": {
+      "en": "Algiers: Street Photography Walk with a Local Artist",
+      "es": "Argel: Paseo de Fotografía Callejera con un Artista Local",
+      "pt": "Argel: Passeio fotográfico de rua com um artista local",
+      "de": "Algier: Straßenfotografie-Spaziergang mit einem lokalen Künstler",
+      "fr": "Alger : Promenade photographique avec un artiste local",
+      "it": "Algeri: Passeggiata fotografica di strada con un artista locale"
+    },
+    "brief": {
+      "de": "Nehmen Sie an einem kreativen Fotospaziergang durch Algier mit einem lokalen Künstler teil! Entdecken Sie die Seele der Stadt, fangen Sie lebendige Straßenszenen ein und entdecken Sie versteckte Schätze in einem einzigartigen 2,5-stündigen Erlebnis für Reisende und Fotoliebhaber.",
+      "en": "Join a creative photo walk through Algiers with a local artist! Discover the city’s soul, capture vibrant street scenes, and explore hidden gems in a unique 2.5-hour experience made for travelers and photography lovers.",
+      "es": "Únase a un creativo paseo fotográfico por Argel con un artista local Descubra el alma de la ciudad, capture vibrantes escenas callejeras y explore joyas ocultas en una experiencia única de 2,5 horas hecha para viajeros y amantes de la fotografía.",
+      "fr": "Participez à une promenade photographique créative à travers Alger avec un artiste local ! Découvrez l'âme de la ville, capturez des scènes de rue vibrantes et explorez des joyaux cachés au cours d'une expérience unique de 2,5 heures conçue pour les voyageurs et les amateurs de photographie.",
+      "it": "Partecipate a una passeggiata fotografica creativa ad Algeri con un artista locale! Scoprite l'anima della città, catturate le vibranti scene di strada ed esplorate le gemme nascoste in un'esperienza unica di 2,5 ore fatta per i viaggiatori e gli amanti della fotografia.",
+      "pt": "Participe num passeio fotográfico criativo por Argel com um artista local! Descubra a alma da cidade, capte cenas de rua vibrantes e explore jóias escondidas numa experiência única de 2,5 horas feita para viajantes e amantes da fotografia."
+    },
+    "description": {
+      "de": "Entdecken Sie die Seele von Algier durch Ihre Linse.\r\n\r\nDies ist nicht nur ein Spaziergang, sondern ein kreatives und kulturelles Eintauchen in das Herz der Stadt. Unter der Leitung eines lokalen Fotografen und Geschichtenerzählers erkunden Sie die wichtigsten Viertel in der Innenstadt von Algier, entdecken versteckte Winkel und lernen, die Stadt durch eine neue visuelle Linse zu sehen.\r\n\r\nEgal, ob Sie Anfänger oder Fotoenthusiast sind, Sie erhalten Tipps zu Komposition, Licht und Ethik der Straßenfotografie, während Sie gleichzeitig etwas über die vielschichtige Geschichte, das pulsierende Straßenleben und das vielfältige Erbe der Stadt erfahren.\r\n\r\nUnser Spaziergang beginnt in der Nähe der kultigen La Grande Poste und führt durch fotogene Straßen voller Charakter, Architektur und Geschichten, die darauf warten, festgehalten zu werden.\r\n\r\nWarum mitmachen?\r\nLernen Sie die Grundlagen der Straßenfotografie in einer freundlichen Atmosphäre\r\nEntdecken Sie unbekannte Geschichten und kulturelle Symbole in der Stadt\r\nSie erhalten Tipps zum visuellen Geschichtenerzählen und einen kreativen Überraschungsbonus am Ende\r\nPerfekt für Reisende, Kreative und alle, die neugierig auf Algier sind\r\n\r\nBringen Sie Ihre Kamera oder Ihr Smartphone mit, tragen Sie bequeme Schuhe und machen Sie sich bereit, die Geschichte der Stadt zu erzählen - Bild für Bild.",
+      "en": "Discover the soul of Algiers through your lens.\r\n\r\nThis isn’t just a walking tour, it’s a creative and cultural dive into the heart of the city. Guided by a local photographer and storyteller, you’ll explore key neighborhoods in downtown Algiers, uncover hidden angles, and learn how to see the city through a new visual lens.\r\n\r\nWhether you’re a beginner or a photo enthusiast, you’ll gain tips on composition, light, and street photography ethics, all while learning about the city’s layered history, vibrant street life, and diverse heritage.\r\n\r\nOur walk begins near the iconic La Grande Poste and continues through photogenic streets full of character, architecture, and stories waiting to be captured.\r\n\r\nWhy join?\r\nLearn the basics of street photography in a friendly atmosphere\r\nDiscover untold stories and cultural symbols around the city\r\nReceive visual storytelling tips and a surprise creative bonus at the end\r\nPerfect for travelers, creatives, or anyone curious about Algiers\r\n\r\nBring your camera or smartphone, wear comfy shoes, and get ready to tell the city’s story, one frame at a time.",
+      "es": "Descubra el alma de Argel a través de su objetivo.\r\n\r\nNo se trata sólo de un recorrido a pie, sino de una inmersión creativa y cultural en el corazón de la ciudad. Guiado por un fotógrafo y narrador local, explorará barrios clave del centro de Argel, descubrirá ángulos ocultos y aprenderá a ver la ciudad a través de una nueva lente visual.\r\n\r\nTanto si es un principiante como un entusiasta de la fotografía, obtendrá consejos sobre composición, luz y ética de la fotografía callejera, a la vez que aprende sobre la compleja historia de la ciudad, su vibrante vida callejera y su diverso patrimonio.\r\n\r\nNuestro paseo comienza cerca de la emblemática La Grande Poste y continúa por calles fotogénicas llenas de carácter, arquitectura e historias que esperan ser capturadas.\r\n\r\n¿Por qué participar?\r\nAprenda los fundamentos de la fotografía callejera en un ambiente agradable\r\nDescubra historias desconocidas y símbolos culturales de la ciudad\r\nRecibirá consejos para contar historias visuales y una sorpresa creativa al final\r\nPerfecto para viajeros, creativos o cualquier persona que sienta curiosidad por Argel\r\n\r\nTrae tu cámara o smartphone, ponte zapatos cómodos y prepárate para contar la historia de la ciudad, fotograma a fotograma.",
+      "fr": "Découvrez l'âme d'Alger à travers votre objectif.\r\n\r\nIl ne s'agit pas d'une simple visite à pied, mais d'une plongée créative et culturelle au cœur de la ville. Guidé par un photographe et conteur local, vous explorerez les quartiers clés du centre-ville d'Alger, découvrirez des angles cachés et apprendrez à voir la ville à travers un nouvel objectif visuel.\r\n\r\nQue vous soyez débutant ou passionné de photo, vous obtiendrez des conseils sur la composition, la lumière et l'éthique de la photographie de rue, tout en découvrant les multiples facettes de l'histoire de la ville, l'animation de ses rues et la diversité de son patrimoine.\r\n\r\nNotre promenade commence près de l'emblématique La Grande Poste et se poursuit dans des rues photogéniques pleines de caractère, d'architecture et d'histoires qui n'attendent qu'à être capturées.\r\n\r\nPourquoi s'inscrire ?\r\nApprendre les bases de la photographie de rue dans une atmosphère conviviale\r\nDécouvrir des histoires inédites et des symboles culturels dans la ville\r\nRecevez des conseils sur la narration visuelle et un bonus créatif surprise à la fin\r\nParfait pour les voyageurs, les créatifs ou toute personne curieuse d'Alger\r\n\r\nApportez votre appareil photo ou votre smartphone, portez des chaussures confortables et préparez-vous à raconter l'histoire de la ville, une image à la fois.",
+      "it": "Scoprite l'anima di Algeri attraverso il vostro obiettivo.\r\n\r\nNon si tratta di un semplice tour a piedi, ma di un'immersione creativa e culturale nel cuore della città. Guidati da un fotografo e narratore locale, esplorerete i quartieri chiave del centro di Algeri, scoprirete angoli nascosti e imparerete a vedere la città attraverso un nuovo obiettivo visivo.\r\n\r\nChe siate principianti o appassionati di fotografia, otterrete consigli sulla composizione, sulla luce e sull'etica della fotografia di strada, imparando al contempo a conoscere la storia stratificata della città, la vivace vita di strada e il suo patrimonio variegato.\r\n\r\nLa nostra passeggiata inizia vicino all'iconica La Grande Poste e continua attraverso strade fotogeniche piene di carattere, architettura e storie che aspettano di essere catturate.\r\n\r\nPerché partecipare?\r\nImparare le basi della fotografia di strada in un'atmosfera amichevole\r\nScoprire storie inedite e simboli culturali della città\r\nRicevere consigli per la narrazione visiva e un bonus creativo a sorpresa alla fine del corso\r\nPerfetto per viaggiatori, creativi o chiunque sia curioso di Algeri\r\n\r\nPortate la vostra macchina fotografica o il vostro smartphone, indossate scarpe comode e preparatevi a raccontare la storia della città, un fotogramma alla volta.",
+      "pt": "Descubra a alma de Argel através da sua objetiva.\r\n\r\nEste não é apenas um passeio a pé, é um mergulho criativo e cultural no coração da cidade. Guiado por um fotógrafo e contador de histórias local, irá explorar os principais bairros da baixa de Argel, descobrir ângulos escondidos e aprender a ver a cidade através de uma nova lente visual.\r\n\r\nQuer seja um principiante ou um entusiasta da fotografia, obterá dicas sobre composição, luz e ética da fotografia de rua, ao mesmo tempo que aprenderá sobre a história multifacetada da cidade, a vida vibrante nas ruas e o património diversificado.\r\n\r\nO nosso passeio começa perto do icónico La Grande Poste e continua por ruas fotogénicas cheias de carácter, arquitetura e histórias à espera de serem captadas.\r\n\r\nPorquê participar?\r\nAprender os princípios básicos da fotografia de rua num ambiente amigável\r\nDescobrir histórias não contadas e símbolos culturais em toda a cidade\r\nReceba dicas para contar histórias visuais e um bónus criativo surpresa no final\r\nPerfeito para viajantes, criativos ou qualquer pessoa curiosa sobre Argel\r\n\r\nTraga a sua câmara ou smartphone, calce sapatos confortáveis e prepare-se para contar a história da cidade, uma imagem de cada vez."
+    },
+    "providerTitle": "Zoralium",
+    "providerPhone": "+213541292328",
+    "URL": "https://www.freetour.com/algiers/algiers-street-photography-walk-with-a-local-artist?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/algiers/algiers-street-photography-walk-with-a-local-artist?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/algiers/algiers-street-photography-walk-with-a-local-artist?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/algiers/algiers-street-photography-walk-with-a-local-artist?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/algiers/algiers-street-photography-walk-with-a-local-artist?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/algiers/algiers-street-photography-walk-with-a-local-artist?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/algiers/algiers-street-photography-walk-with-a-local-artist?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "La Grande Poste",
+      "coordinates": "36.77301609999999,3.0592964",
+      "googlePlaceId": "ChIJVdH_r_eyjxIRL-Nwynfanx8"
+    },
+    "cityId": 5034,
+    "countryId": 261,
+    "includes": [
+      "Algiers Central Post Office"
+    ],
+    "POIs": [
+      {
+        "id": 10738,
+        "title": "Algiers Central Post Office",
+        "googlePlaceId": "ChIJVdH_r_eyjxIRL-Nwynfanx8"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/80425/algiers-street-photography-walk-with-a-local-artist-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 278371,
+        "URL": "https://www.freetour.com/images/tours/80425/algiers-street-photography-walk-with-a-local-artist-01.jpg"
+      },
+      {
+        "id": 278372,
+        "URL": "https://www.freetour.com/images/tours/80425/algiers-street-photography-walk-with-a-local-artist-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

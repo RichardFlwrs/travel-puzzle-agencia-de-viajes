@@ -1,0 +1,305 @@
+[
+  {
+    "id": 35759,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Walking Tour of Bagan",
+      "es": "Visita a pie de Bagan",
+      "pt": "Passeio a pé por Bagan",
+      "de": "Rundgang durch Bagan",
+      "fr": "Visite à pied de Bagan",
+      "it": "Tour a piedi di Bagan"
+    },
+    "brief": {
+      "de": "Schließen Sie sich unserer kostenlosen Tour an, um die charmante Stadt Bagan zu erkunden, und gehen Sie mit einem professionellen Führer durch die engen Gassen, um den Charakter, die Geschichte, die wichtigsten Sehenswürdigkeiten und die versteckten Schätze dieses bemerkenswerten Viertels zu entdecken.",
+      "en": "Join our free tour to explore the charming city of Bagan, and take to the narrow streets with a professional guide to discover the character, history, must-sees, and hidden gems of this remarkable neighborhood.",
+      "es": "Únase a nuestro recorrido gratuito para explorar la encantadora ciudad de Bagan y recorra las calles estrechas con un guía profesional para descubrir el carácter, la historia, las visitas obligadas y las gemas ocultas de este extraordinario vecindario.",
+      "fr": "Participez à notre visite gratuite pour explorer la charmante ville de Bagan, et empruntez les rues étroites avec un guide professionnel pour découvrir le caractère, l'histoire, les sites incontournables et les joyaux cachés de ce quartier remarquable.",
+      "it": "Unitevi al nostro tour gratuito per esplorare l'affascinante città di Bagan e percorrete le stradine con una guida professionale per scoprire il carattere, la storia, i luoghi imperdibili e le gemme nascoste di questo straordinario quartiere.",
+      "pt": "Junte-se à nossa excursão gratuita para explorar a encantadora cidade de Bagan e percorra as ruas estreitas com um guia profissional para descobrir o carácter, a história, os locais de visita obrigatória e as jóias escondidas deste bairro notável."
+    },
+    "description": {
+      "de": "\"Sie werden Zeuge der architektonischen Vielfalt, die die Stadt mit ihren Palästen, Kirchen, Synagogen und anderen Gebäuden im Herzen der Stadt Bagan bewahrt hat. Sie ist von majestätischen Gebäuden umgeben, die von einer langjährigen Architekturgeschichte zeugen. \r\n\r\nWir werden die versteckten Orte entdecken und ihre Geschichte kennenlernen",
+      "en": "\"You will witness the architectural variety that the city preserves in its palaces, churches, synagogues, and other buildings in the heart of the city of Bagan. It is surrounded by majestic buildings that bear witness to a lot of years of architectural history. \r\n\r\nWe will discover the hidden places and will learn its history\"",
+      "es": "&quot;Serás testigo de la variedad arquitectónica que la ciudad conserva en sus palacios, iglesias, sinagogas y otros edificios en el corazón de la ciudad de Bagan. Está rodeada de majestuosos edificios que dan testimonio de muchos años de historia arquitectónica.<br /><br /> Descubriremos los lugares escondidos y aprenderemos su historia&quot;",
+      "fr": "\"Vous serez témoin de la variété architecturale que la ville conserve dans ses palais, églises, synagogues et autres bâtiments au cœur de la ville de Bagan. Elle est entourée de bâtiments majestueux qui témoignent de nombreuses années d'histoire architecturale. \r\n\r\nNous découvrirons les endroits cachés et apprendrons son histoire\"",
+      "it": "\"Sarete testimoni della varietà architettonica che la città conserva nei suoi palazzi, chiese, sinagoghe e altri edifici nel cuore della città di Bagan. È circondata da edifici maestosi che testimoniano molti anni di storia architettonica. \r\n\r\nScopriremo i luoghi nascosti e impareremo la sua storia\"",
+      "pt": "\"No coração da cidade de Bagan, testemunhará a variedade arquitectónica que a cidade preserva nos seus palácios, igrejas, sinagogas e outros edifícios. Está rodeada de edifícios majestosos que testemunham muitos anos de história arquitectónica. \r\n\r\nDescobriremos os lugares escondidos e aprenderemos a sua história\""
+    },
+    "providerTitle": "Javier Rio",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/bagan/free-walking-tour-of-bagan?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/bagan/free-walking-tour-of-bagan?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/bagan/free-walking-tour-of-bagan?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/bagan/free-walking-tour-of-bagan?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/bagan/free-walking-tour-of-bagan?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/bagan/free-walking-tour-of-bagan?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/bagan/free-walking-tour-of-bagan?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 100,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Old Bagan",
+      "coordinates": "21.1717944819015,94.85849248863532",
+      "googlePlaceId": "ChIJh9j21wPltTARmeHpj81TWBU"
+    },
+    "cityId": 3043,
+    "countryId": 107,
+    "includes": [
+      "Bagan Nyaung-U Airport",
+      "Bagan View Hotel",
+      "Bagan Umbra Hotel",
+      "Bagan Thande Hotel",
+      "Bagan Hotel"
+    ],
+    "POIs": [
+      {
+        "id": 8286,
+        "title": "Bagan Nyaung-U Airport",
+        "googlePlaceId": "ChIJp8k3Mff6tTARccnKACPoDSU"
+      },
+      {
+        "id": 2446,
+        "title": "Bagan View Hotel",
+        "googlePlaceId": "ChIJacWa447ktTARUKSsH6boiUk"
+      },
+      {
+        "id": 11579,
+        "title": "Bagan Umbra Hotel",
+        "googlePlaceId": "ChIJXfgZLzfltTARLL0ieK7Eut0"
+      },
+      {
+        "id": 1311,
+        "title": "Bagan Thande Hotel",
+        "googlePlaceId": "ChIJ4SzbIgLltTAR5uWIwPgVwUw"
+      },
+      {
+        "id": 5138,
+        "title": "Bagan Hotel",
+        "googlePlaceId": "ChIJh9j21wPltTARmeHpj81TWBU"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/35759/free-walking-tour-of-bagan-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 115357,
+        "URL": "https://www.freetour.com/images/tours/35759/free-walking-tour-of-bagan-01.jpg"
+      },
+      {
+        "id": 115358,
+        "URL": "https://www.freetour.com/images/tours/35759/free-walking-tour-of-bagan-02.jpg"
+      },
+      {
+        "id": 115359,
+        "URL": "https://www.freetour.com/images/tours/35759/free-walking-tour-of-bagan-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 62082,
+    "updatedAt": "2025-12-01 03:32:43",
+    "title": {
+      "en": "Free Walking Tour Around Yangon",
+      "es": "Visita Gratuita a Pie por Yangón",
+      "pt": "Passeio a pé gratuito por Yangon",
+      "de": "Kostenlose Stadtrundfahrt durch Yangon",
+      "fr": "Visite à pied gratuite autour de Yangon",
+      "it": "Tour a piedi gratuito nei dintorni di Yangon"
+    },
+    "brief": {
+      "de": "Entdecken Sie das pulsierende Stadtzentrum von Yangon bei einem kostenlosen Rundgang! Vertreten Sie sich die Beine und entdecken Sie in nur zwei Stunden die versteckten Schätze und die reiche Geschichte der britischen Kolonialzeit. Begleiten Sie uns auf ein einzigartiges Abenteuer!",
+      "en": "Discover Yangon's vibrant downtown on a free walking tour! Stretch your legs and explore in just two hours, uncovering the hidden gems and rich history of the British colonial era. Join us for a unique adventure!",
+      "es": "Descubra el vibrante centro de Yangon en un recorrido gratuito a pie Estire las piernas y explore en sólo dos horas, descubriendo las joyas ocultas y la rica historia de la época colonial británica. Únase a nosotros en una aventura única",
+      "fr": "Découvrez le centre-ville animé de Yangon lors d'une visite à pied gratuite ! Dégourdissez-vous les jambes et explorez en seulement deux heures les joyaux cachés et la riche histoire de l'ère coloniale britannique. Rejoignez-nous pour une aventure unique !",
+      "it": "Scoprite il vivace centro di Yangon con un tour a piedi gratuito! Sgranchitevi le gambe ed esplorate in sole due ore, scoprendo le gemme nascoste e la ricca storia dell'epoca coloniale britannica. Unitevi a noi per un'avventura unica!",
+      "pt": "Descubra o vibrante centro da cidade de Yangon num passeio a pé gratuito! Estique as pernas e explore em apenas duas horas, descobrindo as jóias escondidas e a rica história da era colonial britânica. Junte-se a nós para uma aventura única!"
+    },
+    "description": {
+      "de": "Begleiten Sie uns auf einen kostenlosen Spaziergang, der für diejenigen gedacht ist, die sich die Beine vertreten und die Innenstadt von Yangon erkunden möchten. Die Fahrt dauert etwa zwei Stunden und bietet einen faszinierenden Einblick in die britische Kolonialzeit. Stellen Sie sich vor, Sie reisen in das späte 19. Jahrhundert zurück und genießen mit uns eine unterhaltsame, historische Erfahrung.\r\n\r\nWonderful Myanmar ist ein Team von professionellen, lizenzierten Reiseleitern, die sich für unsere geliebte Stadt begeistern. Wir werden unser tiefes Wissen über Yangon und Myanmar mit Ihnen teilen.\r\n\r\nWährend dieser kostenlosen Tour werden Sie nicht nur eine Vielzahl von großartigen, beeindruckenden Kolonialgebäuden im viktorianischen, Queen Anne-, Art Deco- und britisch-burmesischen neoklassischen Stil erkunden, sondern auch die lokale Lebensweise kennenlernen. Auf Ihrem Spaziergang werden Sie viele Gelegenheiten haben, fotogene Ansichten einzufangen.\r\n\r\nSie werden einheimischen Händlern begegnen, die vielleicht Betelwein oder andere Waren verkaufen. Vor allem aber werden Sie ein tieferes Verständnis dafür entwickeln, was Yangon so besonders macht, und Sie werden verstehen, warum wir diese Stadt lieben.\r\n\r\n Wir beginnen die Tour erst, wenn sich zwei Personen angemeldet haben, und wenn Sie die Tour buchen, benötigen wir eine zweite Bestätigung.",
+      "en": "Join us for a free walking tour designed for those who want to stretch their legs and discover the downtown areas of Yangon. The journey takes about two hours and offers a fascinating glimpse into the British colonial era. Imagine traveling back in the late 19th century and enjoying a fun, historical experience with us.\r\n\r\nWonderful Myanmar is a team of professional, licensed tour guides passionate about our beloved city. We'll share our deep knowledge of Yangon and Myanmar with you.\r\n\r\nDuring this free tour, you'll not only explore a variety of grand, impressive colonial buildings in Victorian, Queen Anne, Art Deco, and British-Burmese neoclassical styles, but you'll also experience the local way of life. You'll have plenty of opportunities to capture photogenic views on your walk.\r\n\r\nYou'll encounter local vendors, perhaps selling betel vine or other goods. Most importantly, you'll gain a deeper appreciation and understanding of what makes Yangon truly special, and you'll understand why we LOVE this city.\r\n\r\n We only start tbe tour as soon as two people sign up and if you book the tour, we require second confirmation.",
+      "es": "Acompáñenos en un recorrido a pie gratuito diseñado para quienes deseen estirar las piernas y descubrir las zonas céntricas de Yangon. El recorrido dura unas dos horas y ofrece una fascinante visión de la época colonial británica. Imagínese viajar a finales del siglo XIX y disfrutar con nosotros de una divertida experiencia histórica.\r\n\r\nWonderful Myanmar es un equipo de guías turísticos profesionales con licencia apasionados por nuestra querida ciudad. Compartiremos con usted nuestro profundo conocimiento de Yangon y Myanmar.\r\n\r\nDurante este recorrido gratuito, no sólo explorará una gran variedad de impresionantes edificios coloniales de estilo victoriano, Reina Ana, Art Decó y neoclásico británico-birmano, sino que también experimentará el modo de vida local. Tendrá muchas oportunidades de capturar vistas fotogénicas durante su paseo.\r\n\r\nEncontrará vendedores locales, quizá de vid de betel u otros productos. Y lo que es más importante, apreciará y comprenderá mejor lo que hace que Yangon sea realmente especial, y entenderá por qué AMAMOS esta ciudad.\r\n\r\n Sólo empezamos la excursión cuando se inscriben dos personas y, si reserva la excursión, necesitamos una segunda confirmación.",
+      "fr": "Rejoignez-nous pour une visite à pied gratuite conçue pour ceux qui veulent se dégourdir les jambes et découvrir les quartiers du centre-ville de Yangon. Le trajet dure environ deux heures et offre un aperçu fascinant de l'époque coloniale britannique. Imaginez que vous voyagiez à la fin du XIXe siècle et que vous viviez avec nous une expérience historique amusante.\r\n\r\nWonderful Myanmar est une équipe de guides professionnels agréés, passionnés par notre ville bien-aimée. Nous partagerons avec vous notre connaissance approfondie de Yangon et du Myanmar.\r\n\r\nAu cours de cette visite gratuite, vous découvrirez non seulement une variété de grands et impressionnants bâtiments coloniaux de style victorien, Queen Anne, Art déco et néoclassique britannico-birman, mais vous ferez également l'expérience du mode de vie local. Vous aurez de nombreuses occasions de capturer des vues photogéniques au cours de votre promenade.\r\n\r\nVous rencontrerez des vendeurs locaux, qui vendront peut-être de la vigne de bétel ou d'autres produits. Mais surtout, vous comprendrez mieux ce qui fait la particularité de Yangon et vous comprendrez pourquoi nous ADORONS cette ville.\r\n\r\n Nous ne commençons l'excursion que si deux personnes s'inscrivent et si vous réservez l'excursion, nous demandons une deuxième confirmation.",
+      "it": "Unitevi a noi in un tour a piedi gratuito pensato per chi vuole sgranchirsi le gambe e scoprire le zone del centro di Yangon. Il viaggio dura circa due ore e offre uno sguardo affascinante sull'epoca coloniale britannica. Immaginate di viaggiare alla fine del XIX secolo e di vivere con noi un'esperienza storica e divertente.\r\n\r\nWonderful Myanmar è un team di guide turistiche professionali e autorizzate, appassionate della nostra amata città. Condivideremo con voi la nostra profonda conoscenza di Yangon e del Myanmar.\r\n\r\nDurante questo tour gratuito, non solo esplorerete una varietà di grandiosi edifici coloniali in stile vittoriano, Queen Anne, Art Deco e neoclassico britannico-birmano, ma sperimenterete anche lo stile di vita locale. Durante la passeggiata non mancheranno le occasioni per immortalare scorci fotogenici.\r\n\r\nIncontrerete venditori locali, che magari vendono la vite di betel o altri prodotti. Soprattutto, acquisirete un apprezzamento e una comprensione più profondi di ciò che rende Yangon davvero speciale e capirete perché amiamo questa città.\r\n\r\n Il tour inizia solo se si iscrivono due persone e se si prenota il tour, è necessaria una seconda conferma.",
+      "pt": "Junte-se a nós para um passeio a pé gratuito concebido para aqueles que querem esticar as pernas e descobrir as zonas da baixa de Yangon. A viagem dura cerca de duas horas e oferece um vislumbre fascinante da era colonial britânica. Imagine viajar até ao final do século XIX e desfrutar de uma experiência divertida e histórica connosco.\r\n\r\nWonderful Myanmar é uma equipa de guias turísticos profissionais e licenciados, apaixonados pela nossa querida cidade. Partilharemos consigo o nosso profundo conhecimento de Rangum e de Myanmar.\r\n\r\nDurante esta excursão gratuita, não só explorará uma variedade de grandes e impressionantes edifícios coloniais nos estilos vitoriano, Rainha Ana, Art Deco e neoclássico britânico-birmanês, como também conhecerá o modo de vida local. Terá muitas oportunidades para captar imagens fotogénicas durante o seu passeio.\r\n\r\nEncontrará vendedores locais, talvez vendendo cipó de betel ou outros produtos. O mais importante é que irá apreciar e compreender melhor o que torna Rangum verdadeiramente especial e perceberá por que razão ADORAMOS esta cidade.\r\n\r\n Só começamos a excursão quando duas pessoas se inscrevem e, se reservar a excursão, pedimos uma segunda confirmação."
+    },
+    "providerTitle": "Wonderful Myanmar",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/yangon/free-walking-tour-around-yangon?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/yangon/free-walking-tour-around-yangon?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/yangon/free-walking-tour-around-yangon?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/yangon/free-walking-tour-around-yangon?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/yangon/free-walking-tour-around-yangon?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/yangon/free-walking-tour-around-yangon?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/yangon/free-walking-tour-around-yangon?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:45",
+    "meetingPoint": {
+      "title": "122 Maha Bandula Park St Yangon Myanmar  ",
+      "coordinates": "16.773125608109247,96.15947306156158",
+      "googlePlaceId": "ChIJayTgL4fswTARYg0OQvkz3Pg"
+    },
+    "cityId": 4839,
+    "countryId": 107,
+    "includes": [
+      "Maha Bandula Park",
+      "Myanmar Plaza"
+    ],
+    "POIs": [
+      {
+        "id": 6095,
+        "title": "Maha Bandula Park",
+        "googlePlaceId": "ChIJjx8Ui33swTARVk4r4tOcK_8"
+      },
+      {
+        "id": 12815,
+        "title": "Myanmar Plaza",
+        "googlePlaceId": "ChIJt7hUwNuTwTARXHWPUPlo0JQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/62082/yangon-free-walking-tour-1-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 216201,
+        "URL": "https://www.freetour.com/images/tours/62082/yangon-free-walking-tour-1-01.jpg"
+      },
+      {
+        "id": 216202,
+        "URL": "https://www.freetour.com/images/tours/62082/yangon-free-walking-tour-1-02.jpg"
+      },
+      {
+        "id": 216203,
+        "URL": "https://www.freetour.com/images/tours/62082/yangon-free-walking-tour-1-03.jpg"
+      },
+      {
+        "id": 216204,
+        "URL": "https://www.freetour.com/images/tours/62082/yangon-free-walking-tour-1-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 69864,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Exploring the Hidden Gems of Yangon on a Private Tour",
+      "es": "Explora las Joyas Ocultas de Yangón en un Viaje Privado",
+      "pt": "Explorando as jóias escondidas de Yangon numa excursão privada",
+      "de": "Entdecken Sie die versteckten Juwelen von Yangon auf einer privaten Tour",
+      "fr": "Explorer les joyaux cachés de Yangon lors d'une visite privée",
+      "it": "Esplorare le gemme nascoste di Yangon con un tour privato"
+    },
+    "brief": {
+      "de": "Begeben Sie sich auf eine Reise jenseits von Yangon und entdecken Sie den versteckten Charme von Dala! Überqueren Sie den Fluss mit einer Fähre, fahren Sie mit einer Trishaw durch ruhige Dörfer und lernen Sie die Einheimischen kennen, um einen authentischen Einblick in ihr tägliches Leben zu erhalten.",
+      "en": "Join a journey beyond Yangon and discover the hidden charm of Dala! Cross the river by ferry, ride a trishaw through serene villages, and connect with locals for an authentic glimpse into their daily lives.",
+      "es": "Únase a un viaje más allá de Yangón y descubra el encanto oculto de Dala Cruce el río en ferry, pasee en trishaw por tranquilas aldeas y conecte con los lugareños para conocer de cerca su vida cotidiana.",
+      "fr": "Participez à un voyage au-delà de Yangon et découvrez le charme caché de Dala ! Traversez la rivière en ferry, prenez un trishaw pour traverser des villages sereins et rencontrez les habitants pour avoir un aperçu authentique de leur vie quotidienne.",
+      "it": "Unitevi a un viaggio oltre Yangon e scoprite il fascino nascosto di Dala! Attraversate il fiume con il traghetto, andate in trishaw attraverso villaggi tranquilli e entrate in contatto con la gente del posto per avere uno sguardo autentico sulla loro vita quotidiana.",
+      "pt": "Faça uma viagem para além de Yangon e descubra o encanto escondido de Dala! Atravesse o rio de ferry, passeie de trishaw por aldeias serenas e contacte com os habitantes locais para ter uma visão autêntica da sua vida quotidiana."
+    },
+    "description": {
+      "de": "Ihr Reiseleiter begrüßt Sie im Mahabandoola-Park, dem perfekten Ausgangspunkt für eine Reise jenseits der üblichen Sehenswürdigkeiten der Stadt. Auf dem Weg zur Pansodan-Anlegestelle erhalten Sie eine lebendige Einführung in die reiche Geschichte und das Alltagsleben von Yangon. An der Anlegestelle gehen Sie an Bord einer lokalen Fähre, wo Verkäufer, Fährarbeiter und Pendler für eine lebhafte Atmosphäre sorgen. Plaudern Sie mit Einheimischen, fangen Sie die Energie ein oder genießen Sie einfach die Fahrt über den Yangon River nach Dala. \r\n\r\nDala empfängt Sie mit einem friedlichen, entspannten Charme. Anstelle von Autos und Verkehr schlängeln sich Trishaws unter schattigen Bäumen durch die ruhigen Dorfstraßen. Steigen Sie auf eine Trishaw und erkunden Sie das Dorf, treffen Sie freundliche Einheimische, Handwerker und Kleinunternehmer, die ihre Traditionen aufrechterhalten. Besuchen Sie eine Werkstatt zur Herstellung von Frühlingsrollen, in der geschickte Hände die delikaten Blätter herstellen, die für lokale Snacks verwendet werden. \r\n\r\nWenn wir Glück haben, werden wir Zeuge eines Festes oder einer traditionellen Hochzeit, die uns einen Einblick in den Gemeinschaftsgeist Myanmars geben. Am Ende des Tages nehmen wir die Fähre zurück nach Yangon und verlassen das Land mit herzlichen Begegnungen, unvergesslichen Geschichten und einer tieferen Wertschätzung für die einfache Schönheit von Dala. Unsere private Tour mit Dala-Erlebnis endet am Ausgangspunkt.",
+      "en": "Your guide welcomes you at Mahabandoola Park, the perfect starting point for a journey beyond the usual city sights. As we head to Pansodan Jetty, get a lively introduction to Yangon’s rich history and everyday life. At the jetty, board a local ferry, where vendors, ferry workers, and commuters create a vibrant atmosphere. Chat with locals, capture the energy, or simply enjoy the ride across the Yangon River to Dala. \r\n\r\nDala welcomes you with a peaceful, laid-back charm. Instead of cars and traffic, trishaws weave through quiet village roads under shady trees. Hop on one and explore, meeting friendly locals, artisans, and small business owners keeping traditions alive. Visit a spring roll sheet-making workshop, where skilled hands craft delicate sheets used in local snacks. \r\n\r\nIf we're lucky, we might witness a festival or traditional wedding, offering a glimpse into Myanmar’s community spirit. As the day winds down, we take the ferry back to Yangon, leaving with warm encounters, unforgettable stories, and a deeper appreciation for Dala’s simple beauty. Our private tour with Dala experience ends at the starting point.",
+      "es": "Su guía le da la bienvenida en el Parque Mahabandoola, el punto de partida perfecto para un viaje más allá de los lugares de interés habituales de la ciudad. Mientras nos dirigimos al embarcadero de Pansodan, conocerá la rica historia y la vida cotidiana de Yangon. En el embarcadero, suba a bordo de un ferry local, donde vendedores, trabajadores del ferry y viajeros crean un ambiente vibrante. Charle con los lugareños, capte la energía o simplemente disfrute del trayecto por el río Yangon hasta Dala. \r\n\r\nDala le da la bienvenida con un encanto tranquilo y relajado. En lugar de coches y tráfico, los trishaws serpentean por las tranquilas carreteras del pueblo bajo la sombra de los árboles. Súbase a uno y explore, conociendo a amables lugareños, artesanos y pequeños empresarios que mantienen vivas las tradiciones. Visite un taller de fabricación de rollitos de primavera, donde manos expertas elaboran las delicadas hojas que se utilizan en los aperitivos locales. \r\n\r\nSi tenemos suerte, asistiremos a un festival o a una boda tradicional, lo que nos permitirá conocer el espíritu comunitario de Myanmar. Al final del día, tomaremos el ferry de regreso a Yangon, y nos iremos con cálidos encuentros, historias inolvidables y una mayor apreciación de la sencilla belleza de Dala. Nuestra excursión privada con experiencia en Dala termina en el punto de partida.",
+      "fr": "Votre guide vous accueille au parc Mahabandoola, point de départ idéal pour un voyage au-delà des sites habituels de la ville. En route vers la jetée de Pansodan, vous découvrirez la riche histoire et la vie quotidienne de Yangon. À l'embarcadère, montez à bord d'un ferry local, où les vendeurs, les travailleurs du ferry et les navetteurs créent une atmosphère animée. Discutez avec les habitants, captez l'énergie ou profitez simplement de la traversée de la rivière Yangon jusqu'à Dala. \r\n\r\nDala vous accueille avec un charme paisible et décontracté. Au lieu des voitures et de la circulation, les trishaws se faufilent à travers les routes tranquilles des villages, sous les arbres ombragés. Montez à bord et partez à la découverte des habitants, des artisans et des petits commerçants qui perpétuent les traditions. Visitez un atelier de fabrication de rouleaux de printemps, où des mains habiles confectionnent des feuilles délicates utilisées dans les collations locales. \r\n\r\nAvec un peu de chance, nous pourrons assister à un festival ou à un mariage traditionnel, ce qui nous donnera un aperçu de l'esprit communautaire du Myanmar. À la fin de la journée, nous reprenons le ferry pour Yangon, repartant avec des rencontres chaleureuses, des histoires inoubliables et une appréciation plus profonde de la beauté simple de Dala. Notre visite privée avec l'expérience de Dala se termine au point de départ.",
+      "it": "La guida vi dà il benvenuto al Parco Mahabandoola, il punto di partenza perfetto per un viaggio al di là delle solite attrazioni della città. Mentre ci dirigiamo verso il molo di Pansodan, vi verrà presentata una vivace introduzione alla ricca storia e alla vita quotidiana di Yangon. Al molo, salite a bordo di un traghetto locale, dove venditori, lavoratori del traghetto e pendolari creano un'atmosfera vivace. Chiacchierate con la gente del posto, catturate l'energia o semplicemente godetevi il viaggio attraverso il fiume Yangon fino a Dala. \r\n\r\nDala vi accoglie con un fascino tranquillo e rilassato. Al posto delle auto e del traffico, i trishaw percorrono le tranquille strade dei villaggi sotto gli alberi ombrosi. Salite su uno di essi ed esploratelo, incontrando la gente del posto, artigiani e piccoli imprenditori che mantengono vive le tradizioni. Visitate un laboratorio di produzione di involtini primavera, dove mani esperte realizzano i delicati fogli utilizzati per gli spuntini locali. \r\n\r\nSe siamo fortunati, possiamo assistere a un festival o a un matrimonio tradizionale, che ci offre uno sguardo sullo spirito comunitario del Myanmar. Quando la giornata volge al termine, prendiamo il traghetto per tornare a Yangon e ce ne andiamo con incontri calorosi, storie indimenticabili e un più profondo apprezzamento per la semplice bellezza di Dala. Il nostro tour privato con esperienza a Dala termina al punto di partenza.",
+      "pt": "O seu guia dá-lhe as boas-vindas no Parque Mahabandoola, o ponto de partida perfeito para uma viagem para além dos pontos turísticos habituais da cidade. Enquanto nos dirigimos para o cais de Pansodan, terá uma introdução animada à rica história e à vida quotidiana de Yangon. No cais, embarque num ferry local, onde vendedores, trabalhadores do ferry e passageiros criam uma atmosfera vibrante. Converse com os habitantes locais, capte a energia ou simplesmente desfrute da viagem através do rio Yangon até Dala. \r\n\r\nDala dá-lhe as boas-vindas com um encanto pacífico e descontraído. Em vez de carros e trânsito, os trishaws percorrem as estradas tranquilas das aldeias debaixo de árvores frondosas. Suba a bordo de um deles e explore, conhecendo os simpáticos habitantes locais, os artesãos e os proprietários de pequenas empresas que mantêm vivas as tradições. Visite uma oficina de fabrico de folhas de rolinhos primavera, onde mãos habilidosas criam folhas delicadas utilizadas nos petiscos locais. \r\n\r\nSe tivermos sorte, poderemos assistir a um festival ou a um casamento tradicional, o que nos dará um vislumbre do espírito comunitário de Myanmar. No final do dia, apanhamos o ferry de regresso a Yangon, partindo com encontros calorosos, histórias inesquecíveis e uma apreciação mais profunda da beleza simples de Dala. A nossa excursão privada com experiência em Dala termina no ponto de partida."
+    },
+    "providerTitle": "Wonderful Myanmar",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/yangon/exploring-the-hidden-gems-of-yangon-on-a-private-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/yangon/exploring-the-hidden-gems-of-yangon-on-a-private-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/yangon/exploring-the-hidden-gems-of-yangon-on-a-private-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/yangon/exploring-the-hidden-gems-of-yangon-on-a-private-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/yangon/exploring-the-hidden-gems-of-yangon-on-a-private-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/yangon/exploring-the-hidden-gems-of-yangon-on-a-private-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/yangon/exploring-the-hidden-gems-of-yangon-on-a-private-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 79,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "Mahabandoola Park",
+      "coordinates": "16.7731216,96.15947659999999",
+      "googlePlaceId": "ChIJayTgL4fswTARYg0OQvkz3Pg"
+    },
+    "cityId": 4839,
+    "countryId": 107,
+    "includes": [
+      "dala",
+      "Yangon City Hall",
+      "Maha Bandula Park",
+      "Ferry ticket to Dala ",
+      "Knowledge English-speaking guide",
+      "Trishaw ride through the village",
+      "Tea at a local tea shop",
+      "All activities as mentioned"
+    ],
+    "POIs": [
+      {
+        "id": 29383,
+        "title": "dala",
+        "googlePlaceId": "ChIJA_2n056TwTARCJVFhIJbq2k"
+      },
+      {
+        "id": 10285,
+        "title": "Yangon City Hall",
+        "googlePlaceId": "ChIJu8NMEYfswTARH6ZKmO8RIzA"
+      },
+      {
+        "id": 6095,
+        "title": "Maha Bandula Park",
+        "googlePlaceId": "ChIJjx8Ui33swTARVk4r4tOcK_8"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/69864/exploring-the-hidden-gems-of-yangon-on-a-private-tour-with-your-guide-01.jpg",
+    "categoryId": 4,
+    "images": [
+      {
+        "id": 244646,
+        "URL": "https://www.freetour.com/images/tours/69864/exploring-the-hidden-gems-of-yangon-on-a-private-tour-with-your-guide-01.jpg"
+      },
+      {
+        "id": 244647,
+        "URL": "https://www.freetour.com/images/tours/69864/exploring-the-hidden-gems-of-yangon-on-a-private-tour-with-your-guide-02.jpg"
+      },
+      {
+        "id": 244648,
+        "URL": "https://www.freetour.com/images/tours/69864/exploring-the-hidden-gems-of-yangon-on-a-private-tour-with-your-guide-03.jpg"
+      },
+      {
+        "id": 244649,
+        "URL": "https://www.freetour.com/images/tours/69864/exploring-the-hidden-gems-of-yangon-on-a-private-tour-with-your-guide-04.jpg"
+      },
+      {
+        "id": 244651,
+        "URL": "https://www.freetour.com/images/tours/69864/exploring-the-hidden-gems-of-yangon-on-a-private-tour-with-your-guide-06.jpg"
+      },
+      {
+        "id": 244652,
+        "URL": "https://www.freetour.com/images/tours/69864/exploring-the-hidden-gems-of-yangon-on-a-private-tour-with-your-guide-07.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

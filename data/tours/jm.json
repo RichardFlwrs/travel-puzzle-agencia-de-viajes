@@ -1,0 +1,475 @@
+[
+  {
+    "id": 16552,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Blue Mountain Coffee Tour",
+      "es": "Tour del café Blue Mountain",
+      "pt": "Tour do café Blue Mountain",
+      "de": "Blauer Berg Kaffee Tour",
+      "fr": "Tournée du café Blue Mountain",
+      "it": "Tour del caffè Blue Mountain"
+    },
+    "brief": {
+      "de": "Blue Mountain ist bekannt für den besten Kaffee der Welt. Auf dieser exklusiven Tour können Sie eine aktive Kaffeefarm, ein militärisches Ausbildungslager und das Devon House für Eiscreme besuchen. Sie können auch eine Wanderung zu einem Wasserfall unternehmen. Ein Muss!",
+      "en": "Blue Mountain is known for the best coffee around the world, this exclusive tour allows you to visit an active coffee farm, a military training camp, Devon House for ice cream. You may also opt to hike to a waterfall too. A Must do!",
+      "es": "Blue Mountain es conocido por el mejor café del mundo, este recorrido exclusivo le permite visitar una granja de café activa, un campo de entrenamiento militar, Devon House para tomar un helado. También puede optar por caminar a una cascada también. A debe hacer!",
+      "fr": "Blue Mountain est connu pour le meilleur café du monde. Ce circuit exclusif vous permet de visiter une exploitation de café en activité, un camp d'entraînement militaire et la Devon House pour y déguster une glace. Vous pouvez également opter pour une randonnée jusqu'à une cascade. À ne pas manquer !",
+      "it": "Blue Mountain è nota per il miglior caffè del mondo; questo tour esclusivo consente di visitare una fattoria di caffè attiva, un campo di addestramento militare, Devon House per il gelato. Si può anche scegliere di fare un'escursione a una cascata. Un must!",
+      "pt": "Blue Mountain é conhecida pelo melhor café do mundo. Esta excursão exclusiva permite-lhe visitar uma quinta de café activa, um campo de treino militar e a Devon House para comer gelado. Também pode optar por uma caminhada até uma cascata. Um must do!"
+    },
+    "description": {
+      "de": "Blue Mountain ist bekannt für den besten Kaffee der Welt. Besuchen Sie dieses UNESCO-Weltkulturerbe und erleben Sie eine erfrischende Umgebung, malerische Aussichten und einen schönen Tag im Blue Mountain National Park. Sie können auch eine Wanderung zu einem Wasserfall unternehmen.\r\n\r\nDer Tag beginnt mit einer Blue-Mountain-Kaffee-Tour auf einer aktiven Kaffeefarm, bei der Sie alles über Kaffee erfahren und den einen oder anderen Schluck nehmen können. Die gesamte Tour findet im Blue Mountain National Park statt. Nach der Farmtour fahren wir tiefer in den Park, um einige Sehenswürdigkeiten zu besichtigen, darunter einen Aussichtspunkt, ein militärisches Ausbildungslager und eine optionale Wanderung bei Holywell zum Wasserfall. Zum Mittagessen werden wir einheimische jamaikanische Gerichte essen. Unser letzter Halt ist das Devon House, wo wir Blue-Mountain-Kaffee-Eis oder Ihre Lieblingssorte und Gebäck essen. Dies ist ein Muss auf Jamaika.",
+      "en": "Blue Mountain is known for the best coffee around the world, visit this UNESCO World Heritage Site, experience refreshing environment, scenic views, and a beautiful day in the Blue Mountain National Park. Opt to hike to a waterfall too.\r\n\r\nThe day begins with a Blue Mountain coffee tour on an active coffee farm, learn all about coffee, and take a sip or few. The entire tour takes place in the Blue Mountain National Park. After the farm tour, we head deeper in the park for some sightseeing, places include a lookout point, a military training camp and an optional hike at Holywell to the waterfall. For lunch, we will have local Jamaican food. Our final stop will be at Devon House, to have blue mountain coffee ice cream or your favorite flavor and pastry. This is a must-do in Jamaica.",
+      "es": "Blue Mountain es conocido por el mejor café del mundo, visite este sitio del Patrimonio Mundial de la UNESCO, experimente un ambiente refrescante, vistas panorámicas y un hermoso día en el Parque Nacional Blue Mountain. Opta por caminar a una cascada también. <br /><br /> El día comienza con un recorrido por el café Blue Mountain en una granja de café activa, aprende todo sobre el café y toma un sorbo o algunos. Todo el recorrido se lleva a cabo en el Parque Nacional Blue Mountain. Después del recorrido por la granja, nos adentramos más en el parque para hacer turismo, los lugares incluyen un mirador, un campo de entrenamiento militar y una caminata opcional en Holywell hasta la cascada. Para el almuerzo, tendremos comida jamaicana local. Nuestra última parada será en Devon House, para tomar un helado de café de montaña azul o su sabor y repostería favoritos. Esto es algo que debe hacer en Jamaica.",
+      "fr": "Blue Mountain est connu pour le meilleur café du monde. Visitez ce site classé au patrimoine mondial de l'UNESCO et profitez d'un environnement rafraîchissant, de vues panoramiques et d'une belle journée dans le parc national de Blue Mountain. Vous pouvez également faire une randonnée jusqu'à une chute d'eau.\r\n\r\nLa journée commence par une visite guidée du café Blue Mountain dans une ferme de café en activité, pour apprendre tout ce qu'il faut savoir sur le café et en boire quelques gorgées. L'ensemble de la visite se déroule dans le parc national de Blue Mountain. Après la visite de la ferme, nous nous enfonçons dans le parc pour visiter un point de vue, un camp d'entraînement militaire et une randonnée facultative à Holywell jusqu'à la chute d'eau. Pour le déjeuner, nous mangerons des plats locaux jamaïcains. Notre dernier arrêt se fera à Devon House, pour déguster une glace au café Blue Mountain ou votre parfum préféré, ainsi qu'une pâtisserie. Il s'agit d'une activité incontournable en Jamaïque.",
+      "it": "La Blue Mountain è nota per il miglior caffè del mondo; visitate questo sito dichiarato Patrimonio dell'Umanità dall'UNESCO, sperimentate un ambiente rinfrescante, viste panoramiche e una bella giornata nel Parco Nazionale della Blue Mountain. È possibile anche fare un'escursione a una cascata.\r\n\r\nLa giornata inizia con un tour del caffè Blue Mountain in una fattoria attiva, per imparare tutto sul caffè e bere qualche sorso. L'intero tour si svolge nel Parco nazionale delle Blue Mountain. Dopo la visita alla fattoria, ci addentriamo nel parco per visitare alcuni luoghi, tra cui un punto di osservazione, un campo di addestramento militare e un'escursione facoltativa a Holywell fino alla cascata. Per il pranzo, si mangerà cibo giamaicano locale. La nostra ultima tappa sarà alla Devon House, per gustare il gelato al caffè Blue Mountain o il vostro gusto preferito e i pasticcini. È un'esperienza da non perdere in Giamaica.",
+      "pt": "A Montanha Azul é conhecida pelo melhor café do mundo. Visite este Património Mundial da UNESCO, experimente um ambiente refrescante, vistas panorâmicas e um belo dia no Parque Nacional da Montanha Azul. Opte também por fazer uma caminhada até uma cascata.\r\n\r\nO dia começa com uma excursão ao café Blue Mountain numa quinta de café activa, aprenda tudo sobre o café e beba um ou alguns goles. Toda a excursão tem lugar no Parque Nacional Blue Mountain. Depois da visita à quinta, entramos no parque para visitar alguns locais, incluindo um miradouro, um campo de treino militar e uma caminhada opcional em Holywell até à cascata. Para o almoço, teremos comida jamaicana local. A nossa última paragem será na Devon House, para tomar um gelado de café da montanha azul ou o seu sabor e pastelaria preferidos. Esta é uma paragem obrigatória na Jamaica."
+    },
+    "providerTitle": "Cheryl Sherwood",
+    "providerPhone": "8763891487",
+    "URL": "https://www.freetour.com/kingston/blue-mountain-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/kingston/blue-mountain-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/kingston/blue-mountain-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/kingston/blue-mountain-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/kingston/blue-mountain-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/kingston/blue-mountain-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/kingston/blue-mountain-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 179,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "In front the large freedom stature at the entrance of the park",
+      "coordinates": "18.0029838,-76.78979040000002",
+      "googlePlaceId": "ChIJgTqUWqQ_244Rr6eRzb-t-hY"
+    },
+    "cityId": 2672,
+    "countryId": 76,
+    "includes": [
+      "Blue Mountains National Park",
+      "Park Fee",
+      "Local Lunch",
+      "Tour Guide"
+    ],
+    "POIs": [
+      {
+        "id": 13007,
+        "title": "Blue Mountains National Park",
+        "googlePlaceId": "ChIJVXe9J2R5EmsRoMPy-Wh9AQ8"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/16552/blue-mountain-tour-01.jpg",
+    "categoryId": 4,
+    "images": [
+      {
+        "id": 63604,
+        "URL": "https://www.freetour.com/images/tours/16552/blue-mountain-tour-01.jpg"
+      },
+      {
+        "id": 63605,
+        "URL": "https://www.freetour.com/images/tours/16552/blue-mountain-tour-02.jpg"
+      },
+      {
+        "id": 63607,
+        "URL": "https://www.freetour.com/images/tours/16552/blue-mountain-tour-03.jpg"
+      },
+      {
+        "id": 63608,
+        "URL": "https://www.freetour.com/images/tours/16552/blue-mountain-tour-04.jpg"
+      },
+      {
+        "id": 63610,
+        "URL": "https://www.freetour.com/images/tours/16552/blue-mountain-tour-06.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 46999,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Dunns River Waterfall Climb",
+      "es": "Escalada a la cascada del río Dunns",
+      "pt": "Subida à cascata do rio Dunns",
+      "de": "Aufstieg zum Dunns River Wasserfall",
+      "fr": "Escalade de la cascade de la rivière Dunns",
+      "it": "Salita alla cascata del fiume Dunns"
+    },
+    "brief": {
+      "de": "Genießen Sie das lustige Abenteuer, den berühmtesten Wasserfall der Welt zu erklimmen. Der Dunns River Falls ist etwa 700 Fuß hoch und besteht aus natürlichen Kaskaden, die von der Natur geformt wurden. Halten Sie sich an den Händen und machen Sie sich vom Strand aus auf den Weg nach oben.",
+      "en": "Enjoy the fun adventure of climbing the world's most famous waterfall. The Dunns River Falls is about 700 ft, with natural cascading falls sculptured by nature. Hold hands with everybody and make your way to the top from the beach.",
+      "es": "Disfrute de la divertida aventura de escalar la cascada más famosa del mundo. Las Dunns River Falls miden unos 700 pies, con cascadas naturales esculpidas por la naturaleza. Tómese de la mano con todo el mundo y diríjase a la cima desde la playa.",
+      "fr": "Profitez de l'aventure amusante que représente l'ascension de la chute d'eau la plus célèbre du monde. Les chutes de la rivière Dunns s'élèvent à environ 700 pieds, avec des cascades naturelles sculptées par la nature. Tenez la main de tout le monde et rejoignez le sommet depuis la plage.",
+      "it": "Godetevi la divertente avventura di scalare la cascata più famosa del mondo. Le cascate del fiume Dunns si estendono per circa 700 metri, con cascate naturali scolpite dalla natura. Tenetevi per mano e raggiungete la cima dalla spiaggia.",
+      "pt": "Desfrute da divertida aventura de escalar a cascata mais famosa do mundo. A cascata do rio Dunns tem cerca de 700 pés, com quedas naturais em cascata esculpidas pela natureza. Dê as mãos a toda a gente e suba até ao topo a partir da praia."
+    },
+    "description": {
+      "de": "Gönnen Sie sich ein unvergessliches Abenteuer, während Ihr erfahrener Fahrer Sie auf einer malerischen und sorgfältig geführten Tour zu den fesselnden Dunn's River Falls im bezaubernden Ocho Rios, Jamaika, entführt. \r\n\r\nTauchen Sie ein in die kühle, erfrischende Atmosphäre, während Sie die atemberaubenden Wasserfälle durchqueren, umgeben von einem lebendigen Wandteppich aus einheimischen tropischen Bäumen und Pflanzen. \r\n\r\nNachdem Sie die Schönheit und die Aufregung dieses Naturwunders genossen haben, treffen Sie sich mit Ihrem aufmerksamen Fahrer auf dem Parkplatz. Zum Abschluss Ihres aufregenden Erlebnisses haben Sie die Möglichkeit, optionale Einkaufs- und Restaurantbesuche zu unternehmen, um die Essenz dieses außergewöhnlichen Reiseziels weiter zu genießen.",
+      "en": "Indulge in an unforgettable adventure as your expert driver whisks you away on a picturesque and meticulously guided tour to the captivating Dunn's River Falls in the enchanting destination of Ocho Rios, Jamaica. \r\n\r\nImmerse yourself in the cool, refreshing atmosphere as you traverse the breathtaking waterfalls, surrounded by a vibrant tapestry of local tropical trees and plants. \r\n\r\nOnce you have soaked in the beauty and excitement of this natural wonder, conveniently reunite with your attentive driver in the car park. As you conclude your exhilarating experience, take the opportunity to explore optional shopping and dining ventures, allowing you to further savor the essence of this extraordinary destination.",
+      "es": "Disfrute de una aventura inolvidable mientras su experto chófer le lleva en una pintoresca excursión meticulosamente guiada a las cautivadoras cataratas del río Dunn, en el encantador destino de Ocho Ríos, Jamaica. \r\n\r\nSumérjase en el ambiente fresco y refrescante mientras atraviesa las impresionantes cataratas, rodeado de un vibrante tapiz de árboles y plantas tropicales locales. \r\n\r\nUna vez que se haya empapado de la belleza y la emoción de esta maravilla natural, reúnase cómodamente con su atento conductor en el aparcamiento. Para concluir su emocionante experiencia, aproveche la oportunidad de explorar las opciones de compras y restaurantes, que le permitirán saborear aún más la esencia de este extraordinario destino.",
+      "fr": "Laissez-vous tenter par une aventure inoubliable, tandis que votre chauffeur expert vous emmène pour une visite pittoresque et méticuleusement guidée des captivantes chutes de Dunn's River, dans la destination enchanteresse d'Ocho Rios, en Jamaïque. \r\n\r\nImmergez-vous dans l'atmosphère fraîche et rafraîchissante en traversant les chutes d'eau à couper le souffle, entouré d'une tapisserie vibrante d'arbres et de plantes tropicales locales. \r\n\r\nUne fois que vous vous êtes imprégné de la beauté et de l'excitation de cette merveille naturelle, vous retrouvez votre chauffeur attentif sur le parking. Au terme de cette expérience exaltante, profitez-en pour explorer les possibilités de shopping et de restauration, ce qui vous permettra de mieux savourer l'essence de cette destination extraordinaire.",
+      "it": "Concedetevi un'avventura indimenticabile quando il vostro autista esperto vi condurrà in un tour pittoresco e meticolosamente guidato alle affascinanti cascate di Dunn's River nell'incantevole destinazione di Ocho Rios, in Giamaica. \r\n\r\nImmergetevi nell'atmosfera fresca e rinfrescante mentre attraversate le cascate mozzafiato, circondati da un vibrante arazzo di alberi e piante tropicali locali. \r\n\r\nDopo aver assaporato la bellezza e l'emozione di questa meraviglia naturale, ricongiungetevi con il vostro attento autista nel parcheggio. Al termine della vostra esaltante esperienza, cogliete l'occasione per esplorare le possibilità di shopping e di ristorazione che vi permetteranno di assaporare ulteriormente l'essenza di questa straordinaria destinazione.",
+      "pt": "Delicie-se com uma aventura inesquecível enquanto o seu motorista especializado o leva numa excursão pitoresca e meticulosamente guiada às cativantes Dunn's River Falls, no encantador destino de Ocho Rios, na Jamaica. \r\n\r\nMergulhe na atmosfera fresca e refrescante enquanto atravessa as cascatas de cortar a respiração, rodeado por uma tapeçaria vibrante de árvores e plantas tropicais locais. \r\n\r\nDepois de ter absorvido a beleza e a emoção desta maravilha natural, reúna-se convenientemente com o seu atencioso motorista no parque de estacionamento. Ao concluir a sua experiência emocionante, aproveite a oportunidade para explorar as opções de compras e restaurantes, permitindo-lhe saborear ainda mais a essência deste destino extraordinário."
+    },
+    "providerTitle": "Travel Jamaica Trips",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/ocho-rios/dunns-river-waterfall-climb?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/ocho-rios/dunns-river-waterfall-climb?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/ocho-rios/dunns-river-waterfall-climb?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/ocho-rios/dunns-river-waterfall-climb?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/ocho-rios/dunns-river-waterfall-climb?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/ocho-rios/dunns-river-waterfall-climb?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/ocho-rios/dunns-river-waterfall-climb?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 176,
+      "currency": "EUR"
+    },
+    "length": "5:00",
+    "meetingPoint": {
+      "title": "Dunns river ",
+      "coordinates": "18.4148331,-77.13484650000001",
+      "googlePlaceId": "ChIJCRsGdlj-2o4R8SXXRD0KY4A"
+    },
+    "cityId": 2675,
+    "countryId": 76,
+    "includes": [
+      "The World Famous Dunn's River Falls & Park",
+      "Admission ",
+      "Air Conditionined vehicle ",
+      "Local driver/guide ",
+      "Beverages",
+      "Round trip transportation "
+    ],
+    "POIs": [
+      {
+        "id": 15626,
+        "title": "The World Famous Dunn's River Falls & Park",
+        "googlePlaceId": "ChIJCRsGdlj-2o4R8SXXRD0KY4A"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/46999/dunns-river-waterfall-climb-07.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 155285,
+        "URL": "https://www.freetour.com/images/tours/46999/dunns-river-waterfall-climb-07.jpg"
+      },
+      {
+        "id": 155279,
+        "URL": "https://www.freetour.com/images/tours/46999/dunns-river-waterfall-climb-01.jpg"
+      },
+      {
+        "id": 155282,
+        "URL": "https://www.freetour.com/images/tours/46999/dunns-river-waterfall-climb-04.jpg"
+      },
+      {
+        "id": 155283,
+        "URL": "https://www.freetour.com/images/tours/46999/dunns-river-waterfall-climb-05.jpg"
+      },
+      {
+        "id": 155280,
+        "URL": "https://www.freetour.com/images/tours/46999/dunns-river-waterfall-climb-02.jpg"
+      },
+      {
+        "id": 155284,
+        "URL": "https://www.freetour.com/images/tours/46999/dunns-river-waterfall-climb-06.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 81423,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Great River Bamboo Rafting",
+      "es": "Rafting en Bambú por el Gran Río",
+      "pt": "Rafting em bambu no Grande Rio",
+      "de": "Great River Bambus-Rafting",
+      "fr": "Great River Bamboo Rafting",
+      "it": "Rafting sul bambù del Grande Fiume"
+    },
+    "brief": {
+      "de": "Nehmen Sie an einem privaten Bambus-Rafting-Abenteuer auf dem Fluss teil! Entspannen Sie sich an Bord mit optionalen Fußmassagen, legen Sie Ihre eigene Stimmung mit Musik fest und entdecken Sie versteckte Orte entlang des Weges. Perfekt, um zu entspannen und die Natur in Ihrem eigenen Tempo zu genießen.",
+      "en": "Join a private bamboo rafting adventure along the river! Relax on board with optional foot massages, set your own vibe with music, and discover hidden spots along the way. Perfect for unwinding and enjoying nature at your own pace.",
+      "es": "Únase a una aventura privada de rafting en bambú por el río Relájese a bordo con masajes de pies opcionales, cree su propio ambiente con música y descubra rincones escondidos por el camino. Perfecto para relajarse y disfrutar de la naturaleza a su ritmo.",
+      "fr": "Participez à une aventure privée de rafting en bambou le long de la rivière ! Détendez-vous à bord grâce aux massages des pieds proposés en option, mettez de la musique à votre goût et découvrez des endroits cachés le long du parcours. Idéal pour se détendre et profiter de la nature à son propre rythme.",
+      "it": "Partecipate a un'avventura privata di bambù rafting lungo il fiume! Rilassatevi a bordo con massaggi ai piedi opzionali, create la vostra atmosfera con la musica e scoprite i luoghi nascosti lungo il percorso. Perfetto per rilassarsi e godersi la natura al proprio ritmo.",
+      "pt": "Participe numa aventura privada de rafting em bambu ao longo do rio! Relaxe a bordo com massagens opcionais aos pés, crie o seu próprio ambiente com música e descubra locais escondidos ao longo do caminho. Perfeito para descontrair e apreciar a natureza ao seu próprio ritmo."
+    },
+    "description": {
+      "de": "Ganz gleich, ob Sie einen besonderen Anlass feiern oder einfach nur einen lustigen Ausflug auf Jamaika machen möchten: Wenn Sie ein privates Bambusfloß buchen, können Sie den Lethe-Fluss auf Ihre Weise hinunterfahren. Wenn nur Ihre Gruppe auf dem Floß ist, wählen Sie die Musik und bestimmen die Stimmung. Entspannen Sie sich bei einer Fußmassage mit Kalkstein an Bord. Frauen erhalten eine kostenlose Fußmassage. \r\n\r\nSie können in ganz Jamaika abgeholt werden, damit die Fahrt reibungslos verläuft. Machen Sie Fotos oder bezahlen Sie für professionelle Fotos mit sofortiger digitaler Lieferung. Als Upgrade können Sie den Besuch einer örtlichen Naturfarm in Ihr Paket aufnehmen. Wenn Sie möchten, können Sie zusätzliche Stopps zwischen Ihrem Hotel und dem Raftingplatz einlegen.",
+      "en": "Whether you're celebrating a special occasion or simply want a fun excursion while in Jamaica, booking a private bamboo raft means you'll cruise down the Lethe River your way. With only your group on the raft, you choose the music and set the vibe. Relax with a limestone foot massage on board. Women get complimentary foot massages. \r\n\r\nPickup options are available around Jamaica for a seamless experience. Take photos or pay for professional ones with instant digital delivery. Upgrade to include a visit to a local nature farm in your package. Make additional stops if you like, between your hotel and the rafting site.",
+      "es": "Tanto si celebra una ocasión especial como si simplemente desea una excursión divertida durante su estancia en Jamaica, reservar una balsa de bambú privada significa que navegará por el río Leteo a su manera. Con sólo su grupo en la balsa, usted elige la música y establece el ambiente. Relájese con un masaje de pies con piedra caliza a bordo. Las mujeres reciben masajes de pies gratuitos. \r\n\r\nHay opciones de recogida en Jamaica para que la experiencia sea perfecta. Hágase fotos o pague por unas profesionales con entrega digital instantánea. Incluya en su paquete una visita a una granja natural local. Haga paradas adicionales si lo desea, entre su hotel y el lugar del rafting.",
+      "fr": "Que vous célébriez une occasion spéciale ou que vous souhaitiez simplement faire une excursion amusante pendant votre séjour en Jamaïque, la réservation d'un radeau en bambou privé vous permettra de descendre la rivière Lethe à votre façon. Avec votre seul groupe à bord du radeau, vous choisissez la musique et créez l'ambiance. Détendez-vous avec un massage des pieds au calcaire à bord. Les femmes bénéficient d'un massage des pieds gratuit. \r\n\r\nDes options de prise en charge sont disponibles autour de la Jamaïque pour une expérience sans faille. Prenez des photos ou payez pour des photos professionnelles avec livraison numérique instantanée. Surclassez votre forfait pour y inclure la visite d'une ferme naturelle locale. Faites des arrêts supplémentaires si vous le souhaitez, entre votre hôtel et le site de rafting.",
+      "it": "Sia che stiate festeggiando un'occasione speciale o che vogliate semplicemente fare un'escursione divertente in Giamaica, prenotando una zattera privata in bambù potrete navigare lungo il fiume Lethe a modo vostro. Con solo il vostro gruppo sulla zattera, sarete voi a scegliere la musica e a stabilire l'atmosfera. Rilassatevi con un massaggio ai piedi alla pietra calcarea a bordo. Le donne ricevono un massaggio ai piedi in omaggio. \r\n\r\nSono disponibili opzioni di prelievo in tutta la Giamaica per un'esperienza senza interruzioni. Scattate foto o pagate per averne di professionali con consegna digitale immediata. Il pacchetto include una visita a una fattoria naturale locale. Se lo desiderate, potete fare altre soste tra il vostro hotel e il sito di rafting.",
+      "pt": "Quer esteja a celebrar uma ocasião especial ou queira simplesmente fazer uma excursão divertida na Jamaica, reservar uma jangada de bambu privada significa que irá descer o rio Lethe à sua maneira. Com apenas o seu grupo na jangada, pode escolher a música e definir o ambiente. Relaxe com uma massagem de calcário nos pés a bordo. As mulheres recebem massagens nos pés de cortesia. \r\n\r\nEstão disponíveis opções de recolha em toda a Jamaica para uma experiência perfeita. Tire fotografias ou pague por fotografias profissionais com entrega digital instantânea. Faça um upgrade para incluir uma visita a uma quinta natural local no seu pacote. Faça paragens adicionais, se desejar, entre o seu hotel e o local do rafting."
+    },
+    "providerTitle": "Jovan harvey",
+    "providerPhone": "+18767775504",
+    "URL": "https://www.freetour.com/montego-bay/great-river-bamboo-rafting?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montego-bay/great-river-bamboo-rafting?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montego-bay/great-river-bamboo-rafting?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montego-bay/great-river-bamboo-rafting?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montego-bay/great-river-bamboo-rafting?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montego-bay/great-river-bamboo-rafting?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montego-bay/great-river-bamboo-rafting?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 100,
+      "currency": "EUR"
+    },
+    "length": "1:45",
+    "meetingPoint": {
+      "title": "Montego Bay",
+      "coordinates": "18.4713814,-77.9228676",
+      "googlePlaceId": "ChIJbzkQNXkq2o4RqcTE7s5nF_k"
+    },
+    "cityId": 2673,
+    "countryId": 76,
+    "includes": [
+      "Lethe Estate",
+      "Montego Bay Airport Transportation",
+      "Tax’s on fees ",
+      "Air-conditioned vehicle",
+      "Private transportation "
+    ],
+    "POIs": [
+      {
+        "id": 33345,
+        "title": "Lethe Estate",
+        "googlePlaceId": "ChIJDWVXpNR_2Y4Rlwws1-QnsRs"
+      },
+      {
+        "id": 33376,
+        "title": "Montego Bay Airport Transportation",
+        "googlePlaceId": "ChIJs8KgLHiB2Y4RY98bhOz8qiQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/81423/great-river-bamboo-rafting-01.jpg",
+    "categoryId": 13,
+    "images": [
+      {
+        "id": 282004,
+        "URL": "https://www.freetour.com/images/tours/81423/great-river-bamboo-rafting-01.jpg"
+      },
+      {
+        "id": 282006,
+        "URL": "https://www.freetour.com/images/tours/81423/great-river-bamboo-rafting-03.jpg"
+      },
+      {
+        "id": 282007,
+        "URL": "https://www.freetour.com/images/tours/81423/great-river-bamboo-rafting-04.jpg"
+      },
+      {
+        "id": 282008,
+        "URL": "https://www.freetour.com/images/tours/81423/great-river-bamboo-rafting-05.jpg"
+      },
+      {
+        "id": 282010,
+        "URL": "https://www.freetour.com/images/tours/81423/great-river-bamboo-rafting-07.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 81463,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "ATV, Jet Ski, Bamboo Rafting Montego Bay Guided Tour",
+      "es": "Excursión guiada en quad, moto acuática y balsa de bambú por Montego Bay",
+      "pt": "Passeio guiado por ATV, Jet Ski, Bamboo Rafting Montego Bay",
+      "de": "ATV, Jet Ski, Bamboo Rafting Montego Bay Geführte Tour",
+      "fr": "ATV, Jet Ski, Bamboo Rafting Montego Bay Visite guidée",
+      "it": "Tour guidato di ATV, moto d'acqua e bambù a Montego Bay"
+    },
+    "brief": {
+      "de": "Genießen Sie eine Montego Bay Kombi-Tour mit ATV, Reiten und Schwimmen sowie Bambus-Rafting. Erkunden Sie an einem Tag die Landschaften Jamaikas von Offroad-Pfaden bis hin zu ruhigen Flüssen - die perfekte Mischung aus Abenteuer und Entspannung.",
+      "en": "Enjoy a Montego Bay combo tour with ATV, horseback ride and swim, plus bamboo rafting. In one day, explore Jamaica’s landscapes from off-road trails to tranquil rivers for the perfect mix of adventure and relaxation.",
+      "es": "Disfrute de un recorrido combinado por Montego Bay con ATV, paseo a caballo y baño, además de rafting en bambú. En un solo día, explore los paisajes de Jamaica desde senderos todoterreno hasta tranquilos ríos para disfrutar de la mezcla perfecta de aventura y relax.",
+      "fr": "Profitez d'une excursion combinée à Montego Bay avec VTT, équitation et baignade, ainsi que du rafting en bambou. En une journée, explorez les paysages de la Jamaïque, des pistes tout-terrain aux rivières tranquilles, pour un mélange parfait d'aventure et de détente.",
+      "it": "Godetevi un tour combinato di Montego Bay con ATV, passeggiate a cavallo e nuotate, oltre al rafting sul bambù. In un solo giorno, esplorate i paesaggi della Giamaica, dai percorsi fuoristrada ai fiumi tranquilli, per un mix perfetto di avventura e relax.",
+      "pt": "Desfrute de uma excursão combinada em Montego Bay com ATV, passeio a cavalo e natação, além de rafting em bambu. Num só dia, explore as paisagens da Jamaica, desde trilhos todo-o-terreno a rios tranquilos, para uma mistura perfeita de aventura e relaxamento."
+    },
+    "description": {
+      "de": "Unsere Jet-Ski-Tour ist für Abenteuerlustige, die gerne mit einem Jet-Ski durch die Karibik fahren und im Meer planschen möchten. Ihre erfahrenen Guides geben Ihnen eine Einweisung, um Ihre Sicherheit zu gewährleisten und die Tour in vollen Zügen genießen zu können. Die 1-stündige Fahrt beginnt am wunderschönen Privatstrand und führt Sie durch die malerische Landschaft, vorbei an den ruhigen Feldern der in der Nähe lebenden Einheimischen. Das herrliche Karibische Meer. Das Meer ist kristallklar und der weiße Sand lädt zum Schwimmen und Fotografieren ein.",
+      "en": "Our Jet Ski tour is for the adventurous who is intrigued by spending time riding along the and splashing in the ocean with a Jet Ski will take you in the Caribbean Sea. Your experienced guides will provide an introductory session to ensure your safety and full enjoyment of the tour. The 1-hour ride commences from the private and beautiful beach area and you are taken through the scenic countryside, passing tranquil farmlands of the locals living close by. The magnificent Caribbean Sea. The sea is crystal clear and white sands allow for great swimming and picture-taking opportunities.",
+      "es": "Nuestra excursión en moto acuática es para los aventureros a los que les intriga pasar tiempo paseando por el y chapoteando en el océano con una moto acuática le llevará por el mar Caribe. Sus experimentados guías le ofrecerán una sesión introductoria para garantizar su seguridad y el pleno disfrute de la excursión. El paseo, de una hora de duración, comienza en una hermosa playa privada y le llevará a través del pintoresco campo, pasando por las tranquilas granjas de los lugareños que viven cerca. El magnífico mar Caribe. El mar es cristalino y la arena blanca permite nadar y hacer fotos.",
+      "fr": "Notre excursion en jet-ski s'adresse aux aventuriers intrigués par l'idée de passer du temps à rouler le long de la mer et à barboter dans l'océan avec un jet-ski. Vos guides expérimentés vous donneront une séance d'introduction pour assurer votre sécurité et vous permettre de profiter pleinement de l'excursion. La balade d'une heure commence sur une belle plage privée et vous emmène à travers la campagne pittoresque, en passant devant les fermes tranquilles des habitants qui vivent à proximité. La magnifique mer des Caraïbes. La mer est cristalline et le sable blanc permet de se baigner et de prendre des photos.",
+      "it": "Il nostro tour in moto d'acqua è dedicato agli avventurosi che desiderano trascorrere del tempo cavalcando e sguazzando nell'oceano con una moto d'acqua che vi porterà nel Mar dei Caraibi. Le vostre guide esperte vi forniranno una sessione introduttiva per garantire la vostra sicurezza e il pieno godimento del tour. Il giro di un'ora inizia dall'area privata e bellissima della spiaggia e vi porterà attraverso la campagna panoramica, passando per i tranquilli terreni agricoli degli abitanti del luogo. Il magnifico Mar dei Caraibi. Il mare è cristallino e le sabbie bianche permettono di nuotare e scattare foto.",
+      "pt": "A nossa excursão de Jet Ski é para os aventureiros que estão intrigados com o facto de passarem algum tempo a andar ao longo do mar e a salpicar o oceano com um Jet Ski que o levará ao Mar das Caraíbas. Os seus guias experientes farão uma sessão introdutória para garantir a sua segurança e o pleno gozo da excursão. O passeio de 1 hora começa na bela e privada área da praia e é levado através da paisagem rural, passando pelas tranquilas terras agrícolas dos habitantes locais que vivem nas proximidades. O magnífico Mar das Caraíbas. O mar é cristalino e as areias brancas permitem nadar e tirar fotografias."
+    },
+    "providerTitle": "Jovan harvey",
+    "providerPhone": "+18767775504",
+    "URL": "https://www.freetour.com/montego-bay/combo-tour-montego-bay?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montego-bay/combo-tour-montego-bay?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montego-bay/combo-tour-montego-bay?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montego-bay/combo-tour-montego-bay?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montego-bay/combo-tour-montego-bay?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montego-bay/combo-tour-montego-bay?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montego-bay/combo-tour-montego-bay?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 300,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "Montego ",
+      "coordinates": "51.4780,0.0015",
+      "googlePlaceId": "ChIJp9ypjCqo2EcRAoQcRV-yqzE"
+    },
+    "cityId": 2673,
+    "countryId": 76,
+    "includes": [
+      "Tallawah Outpost",
+      "Great River Bamboo Rafting At Lethe",
+      "Tax’s on fees ",
+      "Bottle water ",
+      "Private transportation ",
+      "Complimentary shopping "
+    ],
+    "POIs": [
+      {
+        "id": 33358,
+        "title": "Tallawah Outpost",
+        "googlePlaceId": "ChIJ59sSbQCB2Y4RBLf_GnFchUY"
+      },
+      {
+        "id": 33359,
+        "title": "Great River Bamboo Rafting At Lethe",
+        "googlePlaceId": "ChIJYzFzzwR_2Y4RhU8MkxUkTes"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/81463/combo-experience-03.jpg",
+    "categoryId": 13,
+    "images": [
+      {
+        "id": 282042,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-03.jpg"
+      },
+      {
+        "id": 282043,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-04.jpg"
+      },
+      {
+        "id": 282044,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-05.jpg"
+      },
+      {
+        "id": 282050,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-11.jpg"
+      },
+      {
+        "id": 282052,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-13.jpg"
+      },
+      {
+        "id": 282054,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-15.jpg"
+      },
+      {
+        "id": 283011,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-01.jpg"
+      },
+      {
+        "id": 283012,
+        "URL": "https://www.freetour.com/images/tours/81463/combo-experience-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 81823,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Private Airport Transfer To Riu Montego Bay",
+      "es": "Traslado privado del aeropuerto al Riu Montego Bay ",
+      "pt": "Transporte privado do aeroporto para o Riu Montego Bay ",
+      "de": "Privater Flughafentransfer zum Riu Montego Bay ",
+      "fr": "Transfert privé de l'aéroport au Riu Montego Bay ",
+      "it": "Trasferimento privato dall'aeroporto a Riu Montego Bay "
+    },
+    "brief": {
+      "de": "Privater Flughafentransfer mit Abholung am Ankunftsort. Entspannen Sie sich bei Erfrischungen in Ihrem Fahrzeug, während Ihr Fahrer Sie direkt zu Ihrem Resort bringt, einschließlich Riu Montego Bay, Riu Reggae und anderen nahe gelegenen Zielen.",
+      "en": "Private airport transfer with pickup at arrivals. Relax with refreshments in your vehicle as your driver takes you directly to your resort, including Riu Montego Bay, Riu Reggae, and other nearby destinations.",
+      "es": "Traslado privado al aeropuerto con recogida a la llegada. Relájese con refrescos en su vehículo mientras su conductor le lleva directamente a su resort, incluyendo Riu Montego Bay, Riu Reggae y otros destinos cercanos.",
+      "fr": "Transfert aéroport privé avec prise en charge à l'arrivée. Détendez-vous avec des rafraîchissements dans votre véhicule pendant que votre chauffeur vous conduit directement à votre lieu de villégiature, y compris Riu Montego Bay, Riu Reggae, et d'autres destinations proches.",
+      "it": "Trasferimento privato dall'aeroporto con prelievo all'arrivo. Rilassatevi con un rinfresco nel vostro veicolo mentre l'autista vi porta direttamente al vostro resort, tra cui Riu Montego Bay, Riu Reggae e altre destinazioni vicine.",
+      "pt": "Transporte privado do aeroporto com recolha à chegada. Relaxe com bebidas no seu veículo enquanto o seu motorista o leva diretamente para o seu resort, incluindo o Riu Montego Bay, o Riu Reggae e outros destinos próximos."
+    },
+    "description": {
+      "de": "Beim privaten Flughafentransfer holt Sie Ihr Fahrer im Ankunftsbereich ab und bringt Sie dann zum Fahrzeug, wo einige Erfrischungen auf Sie warten. Anschließend bringt er Sie zu Ihrem Resort, das Riu Montego Bay, Riu Reggae oder Riu Place heißt, und Sie können auf dem Weg vom Flughafen zu Ihrem Resort jeden beliebigen Stopp einlegen.",
+      "en": "Private airport transfer is where your driver will be picking you up at the arrival area and then take you to the vehicle where some refreshments will be waiting for you and the take you to your resort which is Riu Montego Bay, Riu Reggae or Riu Place also you can make any stop you want to make and your way from the airport to your resort destination.",
+      "es": "Traslado privado desde el aeropuerto es donde su conductor le recogerá en la zona de llegadas y luego le llevará al vehículo donde algunos refrescos se espera para usted y el que le llevará a su complejo que es Riu Montego Bay, Riu Reggae o Riu Place también se puede hacer cualquier parada que desea hacer y su camino desde el aeropuerto a su destino turístico.",
+      "fr": "Le transfert aéroport privé consiste à ce que votre chauffeur vienne vous chercher dans l'aire d'arrivée et vous conduise au véhicule où des rafraîchissements vous attendent, puis à votre lieu de villégiature (Riu Montego Bay, Riu Reggae ou Riu Place). Vous pouvez également faire tous les arrêts que vous souhaitez sur le chemin entre l'aéroport et votre lieu de villégiature.",
+      "it": "Il trasferimento aeroportuale privato prevede che l'autista venga a prendervi all'area di arrivo e vi conduca al veicolo dove vi aspetteranno alcuni rinfreschi e vi porti al vostro resort, che sia Riu Montego Bay, Riu Reggae o Riu Place, e che possiate fare tutte le soste che desiderate e il vostro percorso dall'aeroporto alla destinazione del vostro resort.",
+      "pt": "O transfer privado do aeroporto é quando o seu motorista o vai buscar à área de chegada e depois o leva para o veículo onde algumas bebidas estarão à sua espera e o leva para o seu resort, que é o Riu Montego Bay, Riu Reggae ou Riu Place, e também pode fazer qualquer paragem que queira fazer no caminho do aeroporto para o destino do seu resort."
+    },
+    "providerTitle": "Jovan harvey",
+    "providerPhone": "+18767775504",
+    "URL": "https://www.freetour.com/montego-bay/private-airport-transfer-to-riu-montego-bay?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montego-bay/private-airport-transfer-to-riu-montego-bay?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montego-bay/private-airport-transfer-to-riu-montego-bay?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montego-bay/private-airport-transfer-to-riu-montego-bay?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montego-bay/private-airport-transfer-to-riu-montego-bay?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montego-bay/private-airport-transfer-to-riu-montego-bay?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montego-bay/private-airport-transfer-to-riu-montego-bay?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 30,
+      "currency": "EUR"
+    },
+    "length": "0:45",
+    "meetingPoint": {
+      "title": "Sangster international airport ",
+      "coordinates": "18.5032913,-77.914198",
+      "googlePlaceId": "ChIJTS_Wexoq2o4RwZmTiztki70"
+    },
+    "cityId": 2673,
+    "countryId": 76,
+    "includes": [
+      "Sangster International Airport",
+      "Round trip transfer ",
+      "Complimentary drinks "
+    ],
+    "POIs": [
+      {
+        "id": 15630,
+        "title": "Sangster International Airport",
+        "googlePlaceId": "ChIJTS_Wexoq2o4RwZmTiztki70"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/81823/-01.jpg",
+    "categoryId": 13,
+    "images": [
+      {
+        "id": 283015,
+        "URL": "https://www.freetour.com/images/tours/81823/-01.jpg"
+      },
+      {
+        "id": 283016,
+        "URL": "https://www.freetour.com/images/tours/81823/-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

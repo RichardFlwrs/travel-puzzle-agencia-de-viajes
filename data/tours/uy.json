@@ -1,0 +1,1143 @@
+[
+  {
+    "id": 1452,
+    "updatedAt": "2025-12-01 03:32:38",
+    "title": {
+      "en": "Free Tour Ciudad Vieja de Montevideo",
+      "es": "Free Tour Ciudad Vieja de Montevideo",
+      "pt": "Free Tour Ciudad Vieja de Montevideo",
+      "de": "Kostenlose Tour Ciudad Vieja de Montevideo",
+      "fr": "Visite libre de la ville de Montevideo",
+      "it": "Visita libera della Ciudad Vieja di Montevideo"
+    },
+    "brief": {
+      "de": "Ein kostenloser Rundgang durch die Altstadt von Montevideo mit Führern, die ihre Stadt lieben. Es gibt keine festen Kosten; jeder zahlt, was er für das Erlebnis für wert hält.",
+      "en": "A free walking tour of the Old City of Montevideo by guides who love their city. It has no fixed cost; everyone pays what they think is worth the experience.",
+      "es": "Recorrido gratuito a pie por la Ciudad Vieja de Montevideo de la mano de guías que aman su ciudad. No tiene un costo fijo; cada uno paga lo que cree que vale la experiencia.",
+      "fr": "Une visite à pied gratuite de la vieille ville de Montevideo par des guides qui aiment leur ville. Il n'y a pas de coût fixe ; chacun paie ce qu'il estime valoir l'expérience.",
+      "it": "Un tour a piedi gratuito del centro storico di Montevideo, realizzato da guide che amano la loro città. Non c'è un costo fisso: ognuno paga quello che ritiene valga la pena di fare.",
+      "pt": "Um passeio a pé gratuito pela Cidade Velha de Montevidéu com guias que amam sua cidade. Não tem um custo fixo; cada um paga o que acha que vale a pena a experiência."
+    },
+    "description": {
+      "de": "Nehmen Sie an diesem kostenlosen Rundgang durch die Altstadt von Montevideo teil, bei dem Sie die Geschichte, die Bräuche und Tipps für die Aktivitäten bei Tag und bei Nacht kennenlernen. Kommen Sie und entdecken Sie die Geheimnisse der Hauptstadt von Mate, Asado, Fußball und Candombe!\r\n\r\nDie Tour beginnt an der Plaza Independencia, vor dem Ciudadela-Tor. Halten Sie Ausschau nach unseren Führern mit himmelblauen T-Shirts und einem Regenschirm!",
+      "en": "Join this amazing free walking tour through the Old City of Montevideo in which the tourists will be able to know the history, customs, and tips about what to do at both day and night. Come and discover the secrets of the capital of mate, asado, football, and candombe!\r\n\r\nThe tour starts at Plaza Independencia, in front of the Ciudadela Gate. Look for our guides with sky blue t-shirts and an umbrella!",
+      "es": "Únase a este increíble recorrido a pie gratuito por la Ciudad Vieja de Montevideo en el que los turistas podrán conocer la historia, las costumbres y consejos sobre qué hacer tanto de día como de noche. Venga y descubra los secretos de la capital del mate, el asado, el fútbol y el candombe\r\n\r\nEl tour comienza en la Plaza Independencia, frente a la Puerta de la Ciudadela. Busque a nuestros guías con camisetas celestes y un paraguas",
+      "fr": "Participez à cette étonnante visite à pied gratuite de la vieille ville de Montevideo, au cours de laquelle les touristes pourront connaître l'histoire, les coutumes et les conseils sur ce qu'il faut faire de jour comme de nuit. Venez découvrir les secrets de la capitale du maté, de l'asado, du football et du candombe !\r\n\r\nLa visite commence sur la Plaza Independencia, devant la porte de Ciudadela. Cherchez nos guides avec des t-shirts bleu ciel et un parapluie !",
+      "it": "Partecipate a questo fantastico tour gratuito a piedi attraverso la Città Vecchia di Montevideo in cui i turisti potranno conoscere la storia, le usanze e i consigli su cosa fare sia di giorno che di notte. Venite a scoprire i segreti della capitale del mate, dell'asado, del calcio e del candombe!\r\n\r\nIl tour inizia in Plaza Independencia, di fronte alla Porta Ciudadela. Cercate le nostre guide con magliette celesti e ombrello!",
+      "pt": "Junte-se a este incrível passeio a pé gratuito pela Cidade Velha de Montevidéu, no qual os turistas poderão conhecer a história, os costumes e dicas sobre o que fazer tanto de dia quanto de noite. Venha descobrir os segredos da capital do mate, do asado, do futebol e do candombe!\r\n\r\nO passeio começa na Plaza Independencia, em frente ao Portão da Ciudadela. Procurem os nossos guias com t-shirts azul-celeste e um guarda-chuva!"
+    },
+    "providerTitle": "Curioso Free Tour",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/montevideo/curioso-free-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montevideo/curioso-free-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montevideo/curioso-free-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montevideo/curioso-free-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montevideo/curioso-free-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montevideo/curioso-free-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montevideo/curioso-free-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Plaza Independencia close to the Ciudadela Gate",
+      "coordinates": "-34.9065596,-56.19968399999999",
+      "googlePlaceId": "ChIJi_7gU4F_n5URc-JxhfCuVT4"
+    },
+    "cityId": 4553,
+    "countryId": 163,
+    "includes": [
+      "Independence Square",
+      "Gateway of the Citadel",
+      "Peatonal Sarandí",
+      "Constitution Plaza",
+      "Puerto Market",
+      "Zabala Square",
+      "Solis Theater",
+      "Montevideo Metropolitan Cathedral",
+      "Casa Rivera | Museo Histórico Nacional",
+      "Plaza de la Diversidad",
+      "Café Brasilero",
+      "History",
+      "Curiosities",
+      "Architecture "
+    ],
+    "POIs": [
+      {
+        "id": 270,
+        "title": "Independence Square",
+        "googlePlaceId": "ChIJ-8nyCSuAn5URJ3I2_Bz89EA"
+      },
+      {
+        "id": 1268,
+        "title": "Gateway of the Citadel",
+        "googlePlaceId": "ChIJ4c4Q_iqAn5URxUfoPSBGWLk"
+      },
+      {
+        "id": 6513,
+        "title": "Peatonal Sarandí",
+        "googlePlaceId": "ChIJKxVvgIB_n5URSCOeSgiQKW4"
+      },
+      {
+        "id": 6164,
+        "title": "Constitution Plaza",
+        "googlePlaceId": "ChIJJZtpeCqAn5URk_M-SDCzH7U"
+      },
+      {
+        "id": 12239,
+        "title": "Puerto Market",
+        "googlePlaceId": "ChIJZ6KpWIR_n5UR0liGhdCsA6s"
+      },
+      {
+        "id": 4457,
+        "title": "Zabala Square",
+        "googlePlaceId": "ChIJFTFraYF_n5URMQ-rf2qA3i8"
+      },
+      {
+        "id": 11771,
+        "title": "Solis Theater",
+        "googlePlaceId": "ChIJy-0n3yqAn5URih5a8wS4zek"
+      },
+      {
+        "id": 3497,
+        "title": "Montevideo Metropolitan Cathedral",
+        "googlePlaceId": "ChIJD43JjoB_n5URxnqgwhAcHSA"
+      },
+      {
+        "id": 7071,
+        "title": "Casa Rivera | Museo Histórico Nacional",
+        "googlePlaceId": "ChIJM76NOYF_n5URzYrs3BWBqrc"
+      },
+      {
+        "id": 18648,
+        "title": "Plaza de la Diversidad",
+        "googlePlaceId": "ChIJV2NSEJqBn5URCYI1ydZoXYA"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-14.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 4246,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-14.jpg"
+      },
+      {
+        "id": 4247,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-12.jpg"
+      },
+      {
+        "id": 4248,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-03.jpg"
+      },
+      {
+        "id": 4249,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-04.jpg"
+      },
+      {
+        "id": 4250,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-09.jpg"
+      },
+      {
+        "id": 4251,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-10.jpg"
+      },
+      {
+        "id": 4252,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-11.jpg"
+      },
+      {
+        "id": 4253,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-13.jpg"
+      },
+      {
+        "id": 4254,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-15.jpg"
+      },
+      {
+        "id": 4255,
+        "URL": "https://www.freetour.com/images/tours/1452/curioso-free-tour-16.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.92,
+    "reviewsNumber": 815
+  },
+  {
+    "id": 6585,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Montevideo Shopping Tour",
+      "es": "Montevideo Shopping Tour",
+      "pt": "Tour de compras em Montevidéu",
+      "de": "Montevideo Einkaufstour",
+      "fr": "Tour de shopping à Montevideo",
+      "it": "Tour dello shopping a Montevideo"
+    },
+    "brief": {
+      "de": "Nutzen Sie die Vorteile einer aufregenden Shoppingtour im schönen Montevideo und besuchen Sie die wichtigsten Geschäfte im Stadtzentrum, um die besten Angebote, Deals und Rabatte zu erhalten.",
+      "en": "Take advantage of an exciting shopping tour in beautiful Montevideo and visit the most prolific stores in the city center for the best offers, deals, and discounts.",
+      "es": "Aproveche una emocionante excursión de compras por la hermosa Montevideo y visite las tiendas más prolíficas del centro de la ciudad para disfrutar de las mejores ofertas, gangas y descuentos.",
+      "fr": "Profitez d'une excursion shopping passionnante dans la belle ville de Montevideo et visitez les magasins les plus prolifiques du centre ville pour profiter des meilleures offres, des meilleures affaires et des meilleures réductions.",
+      "it": "Approfittate di un emozionante tour di shopping nella bellissima Montevideo e visitate i negozi più prolifici del centro città per trovare le migliori offerte, i migliori affari e gli sconti.",
+      "pt": "Aproveite um emocionante passeio de compras na bela Montevidéu e visite as lojas mais prolíficas no centro da cidade para obter as melhores ofertas, promoções e descontos."
+    },
+    "description": {
+      "de": "Persönliche Shoppingtour mit mir in den Geschäften von Montevideo.\r\nIch bin ein persönlicher Einkäufer. Ich habe Erfahrung in der Suche nach Geschäften mit Angeboten und Rabatten.\r\n\r\nUnsere Tour beginnt mit einem Spaziergang durch die Altstadt von Montevideo, sehen wichtige Gebäude, Denkmäler der Stadt und dann weiter mit dem Besuch der verschiedenen Geschäfte.",
+      "en": "Personal shopping tour with me in the shops of Montevideo.\r\nI am a personal shopper. I have experience in finding stores with deals and discounts.\r\n\r\nOur tour begins with a walk through the old city of Montevideo, seeing important buildings, monuments of the city and then continue with the visit to the different shops.",
+      "es": "Tour de compras personal conmigo en las tiendas de Montevideo.\r\nSoy personal shopper. Tengo experiencia en encontrar tiendas con ofertas y descuentos.\r\n\r\nNuestro tour comienza con un paseo por la ciudad vieja de Montevideo, viendo edificios importantes, monumentos de la ciudad y luego continuar con la visita a las diferentes tiendas.",
+      "fr": "Tour de shopping personnel avec moi dans les boutiques de Montevideo.\r\nJe suis un personal shopper. J'ai de l'expérience dans la recherche de magasins avec des offres et des réductions.\r\n\r\nNotre visite commence par une promenade dans la vieille ville de Montevideo, pour voir les bâtiments importants, les monuments de la ville et ensuite continuer avec la visite des différents magasins.",
+      "it": "Tour di shopping personale con me nei negozi di Montevideo.\r\nSono una personal shopper. Ho esperienza nel trovare negozi con offerte e sconti.\r\n\r\nIl nostro tour inizia con una passeggiata nel centro storico di Montevideo, per vedere gli edifici importanti, i monumenti della città e poi proseguire con la visita ai diversi negozi.",
+      "pt": "Tour de compras pessoal comigo nas lojas de Montevideo.\r\nSou personal shopper. Tenho experiência em encontrar lojas com ofertas e descontos.\r\n\r\nNosso passeio começa com uma caminhada pela cidade velha de Montevidéu, vendo edifícios importantes, monumentos da cidade e, em seguida, continuar com a visita às diferentes lojas."
+    },
+    "providerTitle": "Vicky",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/montevideo/montevideo-shopping-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montevideo/montevideo-shopping-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montevideo/montevideo-shopping-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montevideo/montevideo-shopping-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montevideo/montevideo-shopping-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montevideo/montevideo-shopping-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montevideo/montevideo-shopping-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 10,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Catedral De Montevideo",
+      "coordinates": "-34.9067051623384,-56.2039577244675",
+      "googlePlaceId": "ChIJcxxm939_n5UR29ZafzvgVjQ"
+    },
+    "cityId": 4553,
+    "countryId": 163,
+    "includes": [
+      "Montevideo Metropolitan Cathedral",
+      "Punta Carretas Shopping",
+      "brief city tour",
+      "spanish and english guide",
+      "bus ticket"
+    ],
+    "POIs": [
+      {
+        "id": 3497,
+        "title": "Montevideo Metropolitan Cathedral",
+        "googlePlaceId": "ChIJD43JjoB_n5URxnqgwhAcHSA"
+      },
+      {
+        "id": 13606,
+        "title": "Punta Carretas Shopping",
+        "googlePlaceId": "ChIJ0w-gb52Bn5URUTcMjFGJQ7I"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/6585/montevideo-shopping-tour-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 38724,
+        "URL": "https://www.freetour.com/images/tours/6585/montevideo-shopping-tour-01.jpg"
+      },
+      {
+        "id": 149564,
+        "URL": "https://www.freetour.com/images/tours/6585/montevideo-shopping-tour-02.jpg"
+      },
+      {
+        "id": 149565,
+        "URL": "https://www.freetour.com/images/tours/6585/montevideo-shopping-tour-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 7133,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Montevideo Private Tour",
+      "es": "Montevideo Tour Privado",
+      "pt": "Tour Privado Montevideo",
+      "de": "Montevideo Private Tour",
+      "fr": "Visite privée de Montevideo",
+      "it": "Tour privato di Montevideo"
+    },
+    "brief": {
+      "de": "Bekommen Sie einen Einblick in das Leben der Einheimischen in der historischen Stadt, während Sie Ihrem freundlichen Reiseleiter durch Uruguays Hauptstadt Montevideo folgen. Entdecken Sie auf unserer privaten Tour die spannenden Geheimnisse und das reiche Erbe der Architektur.",
+      "en": "Get a glimpse of local life in the historic city as you follow your friendly guide through Uruguay's capital, Montevideo. Discover thrilling secrets and rich heritage through its architecture on our Private Tour.",
+      "es": "Echa un vistazo a la vida local en la ciudad histórica mientras sigues a tu guía local a través de la capital de Uruguay, Montevideo. Descubre secretos emocionantes y un rico patrimonio a través de su arquitectura en nuestro tour privado.",
+      "fr": "Découvrez la vie locale dans la ville historique en suivant votre sympathique guide à travers la capitale de l'Uruguay, Montevideo. Découvrez des secrets passionnants et un riche patrimoine à travers son architecture lors de notre visite privée.",
+      "it": "Scoprite la vita locale nella città storica seguendo la vostra guida amichevole attraverso la capitale dell'Uruguay, Montevideo. Scoprite gli emozionanti segreti e il ricco patrimonio architettonico del nostro tour privato.",
+      "pt": "Conheça a vida local na cidade histórica enquanto segue seu simpático guia pela capital do Uruguai, Montevidéu. Descubra os segredos emocionantes e o rico património através da sua arquitectura no nosso Tour Privado."
+    },
+    "description": {
+      "de": "Wir besichtigen die Altstadt mit ihren schönsten Denkmälern und Gebäuden: die Kathedrale, das Cabildo, den Unabhängigkeitsplatz, das Teatro Solís, den Palacio Salvo, die Avenida 18 de Julio und die Hauptgeschäftsstraße mit ihren verschiedenen architektonischen Stilen (Art déco, Eklektizismus, Jugendstil) und kommen dann am beeindruckenden Obelisken vorbei. Weiter geht es zum wunderschönen Parque Batlle y Ordoñez, um das \"Estadio Centenario\" zu sehen. In der Nähe des Stadions halten wir an, um das Monument La Carreta zu besichtigen, eine spektakuläre Eisenskulptur. Wir kommen am Mercado Agricola und dem Legislativpalast vorbei, der mit seinem herrlichen Marmorbau eines der architektonischen Meisterwerke Montevideos ist. Von dort aus geht es zu den Sandstränden von Montevideo. Außerdem erkunden Sie das Viertel Carrasco mit seinem herrlichen Strand und seinen Gärten. Am Ende bringen wir Sie zurück zu Ihrem Hotel.",
+      "en": "Visit the old city discovering its best monuments and buildings - the Cathedral, the Cabildo, Independence Square, Teatro Solís, Palacio Salvo, the avenue “18 de Julio”, and the main commercial central street, with its multiple architectonic styles (art déco, eclectic, art nouveau), then pass by the stunning Obelisc. We will continue towards the beautiful Parque Batlle y Ordoñez, to see the “Estadio Centenario”. Near the Estadio, we will stop to see the monument of La Carreta, a spectacular iron sculpture. We’ll pass the local Mercado Agricola and the Legislative Palace with its superb marble structure, that is one of the architectural masterpieces of Montevideo. From there we will go to visit sandy beaches of Montevideo. Also, you'll explore the Carrasco neighborhood, with its gorgeous beach and gardens. At the end, we will leave you back at your hotel.",
+      "es": "Visita la ciudad vieja y descubre sus mejores monumentos y edificios: la Catedral, el Cabildo, la Plaza de la Independencia, el Teatro Solís, el Palacio Salvo, la avenida \"18 de Julio\" y la principal calle comercial central, con sus múltiples estilos arquitectónicos (art déco, ecléctico, art nouveau), luego pasa por el impresionante Obelisco. Continuaremos hacia el hermoso Parque Batlle y Ordoñez, para ver el \"Estadio Centenario\". Cerca del Estadio, nos detendremos para ver el monumento de La Carreta, una espectacular escultura de hierro. Pasaremos por el Mercado Agrícola local y el Palacio Legislativo con su magnífica estructura de mármol, que es una de las obras maestras arquitectónicas de Montevideo. Desde allí iremos a visitar las playas de arena de Montevideo. Además, explorarás el barrio de Carrasco, con sus hermosas playas y jardines. Al final, te dejaremos en tu hotel.",
+      "fr": "Visite de la vieille ville à la découverte de ses meilleurs monuments et bâtiments - la cathédrale, le Cabildo, la place de l'Indépendance, le Teatro Solís, le Palacio Salvo, l'avenue \"18 de Julio\", et la principale rue commerciale centrale, avec ses multiples styles architecturaux (art déco, éclectique, art nouveau), puis passage devant l'impressionnant Obélisque. Nous continuerons vers le magnifique Parque Batlle y Ordoñez, pour voir le \"Estadio Centenario\". Près du stade, nous nous arrêterons pour voir le monument de La Carreta, une spectaculaire sculpture en fer. Nous passerons devant le Mercado Agricola local et le Palais législatif avec sa superbe structure en marbre, qui est l'un des chefs-d'œuvre architecturaux de Montevideo. De là, nous irons visiter les plages de sable de Montevideo. Vous explorerez également le quartier de Carrasco, avec sa magnifique plage et ses jardins. A la fin, nous vous laisserons à votre hôtel.",
+      "it": "Visita della città vecchia alla scoperta dei suoi migliori monumenti ed edifici - la Cattedrale, il Cabildo, la Piazza dell'Indipendenza, il Teatro Solís, il Palacio Salvo, il viale \"18 de Julio\" e la principale via centrale commerciale, con i suoi molteplici stili architettonici (art déco, eclettico, art nouveau), per poi passare davanti allo splendido Obelisc. Proseguiremo verso il bellissimo Parque Batlle y Ordoñez, per vedere lo \"Estadio Centenario\". Nei pressi dell'Estadio, ci fermeremo a vedere il monumento de La Carreta, una spettacolare scultura in ferro. Passeremo davanti al locale Mercado Agricola e al Palazzo Legislativo, con la sua superba struttura in marmo, che è uno dei capolavori architettonici di Montevideo. Da lì andremo a visitare le spiagge sabbiose di Montevideo. Inoltre, esplorerete il quartiere di Carrasco, con la sua splendida spiaggia e i suoi giardini. Al termine, vi lasceremo al vostro hotel.",
+      "pt": "Visita à cidade velha descobrindo os seus melhores monumentos e edifícios - a Catedral, o Cabildo, a Praça da Independência, o Teatro Solís, o Palácio Salvo, a avenida \"18 de Julio\" e a principal rua comercial central, com os seus múltiplos estilos arquitectónicos (art déco, eclético, art nouveau), passando depois pelo impressionante Obelisco. Continuaremos em direcção ao belo Parque Batlle y Ordoñez, para ver o \"Estadio Centenario\". Perto do Estádio, pararemos para ver o monumento de La Carreta, uma espectacular escultura de ferro. Passaremos pelo Mercado Agrícola local e pelo Palácio Legislativo com a sua soberba estrutura de mármore, que é uma das obras-primas da arquitectura de Montevideu. De lá, iremos visitar as praias arenosas de Montevidéu. Também, exploraremos o bairro de Carrasco, com sua linda praia e jardins. No final, deixá-lo-emos no seu hotel."
+    },
+    "providerTitle": "ANA MARIA",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/montevideo/montevideo-private-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montevideo/montevideo-private-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montevideo/montevideo-private-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montevideo/montevideo-private-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montevideo/montevideo-private-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montevideo/montevideo-private-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montevideo/montevideo-private-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 350,
+      "currency": "EUR"
+    },
+    "length": "3:30",
+    "meetingPoint": {
+      "title": "Pick up from your place",
+      "coordinates": "-34.9011127,-56.16453139999999",
+      "googlePlaceId": "ChIJhZ1DI6yBn5URAeM3bQ9FB6E"
+    },
+    "cityId": 4553,
+    "countryId": 163,
+    "includes": [
+      "Independence Square",
+      "Puerto Market",
+      "Old City Sport y Vestir",
+      "Palacio Legislativo",
+      "Pick up/Drop off"
+    ],
+    "POIs": [
+      {
+        "id": 270,
+        "title": "Independence Square",
+        "googlePlaceId": "ChIJ-8nyCSuAn5URJ3I2_Bz89EA"
+      },
+      {
+        "id": 12239,
+        "title": "Puerto Market",
+        "googlePlaceId": "ChIJZ6KpWIR_n5UR0liGhdCsA6s"
+      },
+      {
+        "id": 1302,
+        "title": "Old City Sport y Vestir",
+        "googlePlaceId": "ChIJ4RUmCiqAn5URq_cHSn5sB1E"
+      },
+      {
+        "id": 8000,
+        "title": "Palacio Legislativo",
+        "googlePlaceId": "ChIJoRmJ2zuAn5URgMiZplJ0ES4"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/7133/montevideo-private-tour-01.jpg",
+    "categoryId": 9,
+    "images": [
+      {
+        "id": 13223,
+        "URL": "https://www.freetour.com/images/tours/7133/montevideo-private-tour-01.jpg"
+      },
+      {
+        "id": 13224,
+        "URL": "https://www.freetour.com/images/tours/7133/uruana-06.jpg"
+      },
+      {
+        "id": 13225,
+        "URL": "https://www.freetour.com/images/tours/7133/uruana-02.jpg"
+      },
+      {
+        "id": 13226,
+        "URL": "https://www.freetour.com/images/tours/7133/uruana-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 34507,
+    "updatedAt": "2025-12-01 18:00:14",
+    "title": {
+      "en": "We Walk Free Tour Punta del Este",
+      "es": "Caminamos Gratis Tour Punta del Este ",
+      "pt": "We Walk Free Tour Punta del Este ",
+      "de": "Wir gehen frei Tour Punta del Este ",
+      "fr": "We Walk Free Tour Punta del Este ",
+      "it": "Camminiamo gratis a Punta del Este "
+    },
+    "brief": {
+      "de": "Wir sind die erste kostenlose Stadtführung in Punta del Este, die 2016 gestartet wurde! Unsere Leidenschaft ist es, Ihnen alles zu zeigen, was Sie wissen müssen, um Ihren Besuch in Punta del Este so gut wie möglich zu gestalten!",
+      "en": "We are Punta del Este's first free walking tour, started in 2016! It is really our passion to show you all you need to know to make tour visit here the best one possible!",
+      "es": "Somos el primer free walking tour de Punta del Este, ¡comenzamos en 2016! Es realmente nuestra pasión mostrarte todo lo que necesitas saber para que tu visita sea la mejor posible",
+      "fr": "Nous sommes la première visite guidée gratuite de Punta del Este, lancée en 2016 ! C'est vraiment notre passion de vous montrer tout ce que vous avez besoin de savoir pour faire de votre visite ici la meilleure possible !",
+      "it": "Siamo il primo tour a piedi gratuito di Punta del Este, iniziato nel 2016! La nostra passione è proprio quella di mostrarvi tutto quello che c'è da sapere per rendere la vostra visita qui la migliore possibile!",
+      "pt": "Somos o primeiro passeio a pé gratuito de Punta del Este, iniciado em 2016! É realmente nossa paixão mostrar tudo o que você precisa saber para tornar a sua visita aqui a melhor possível!"
+    },
+    "description": {
+      "de": "Punta del Este, oft als das \"Miami\" oder \"Saint-Tropez\" Südamerikas bezeichnet, ist mehr als nur ein glamouröses Sommerreiseziel. Wir schätzen ihre Ursprünge und die Reise, die sie zu der ikonischen Stadt gemacht hat, die sie heute ist. Als Uruguays meistbesuchte Stadt hat Punta del Este Geheimnisse, die sie zur Königin des Río de la Plata gemacht haben, und wir möchten sie mit Ihnen teilen.\r\n\r\nDiese 2,5-stündige Tour, die am ikonischen \"La Mano\"-Denkmal beginnt, führt Sie zu den Highlights der Stadt und zeigt Ihnen die Essenz der uruguayischen Kultur. Ob im Sommer oder im Winter, Punta del Este ist das ganze Jahr über ein Juwel.\r\n\r\nWir besuchen Wahrzeichen wie:\r\n\r\nLa Mano\r\nPaseo de las Américas\r\nMuseum La Vista\r\nPlaza de los 100 Años\r\nCalle Gorlero\r\nPlaza de los Artesanos\r\nAntiguo Palace Hotel\r\nIglesia de la Candelaria\r\nEl Faro\r\nMeteorologische Anstalt (Estación Meteorológica)\r\nEsquina de los 4 Mares\r\nPlaza de los Ingleses\r\nPunta Salinas\r\nHafen von Punta del Este\r\n\r\nJeder Ort erzählt eine Geschichte, birgt ein Geheimnis und trägt ein Stück der Seele von Punta del Este in sich. Begleiten Sie uns und erleben Sie den Zauber dieser unglaublichen Stadt!",
+      "en": "Punta del Este, often called the \"Miami\" or \"Saint-Tropez\" of South America, is more than just a glamorous summer destination. We cherish its origins and the journey that transformed it into the iconic city it is today. As Uruguay's most visited city, Punta del Este has secrets that made it the queen of the Río de la Plata, and we want to share them with you.\r\n\r\nThis 2.5-hour tour, starting at the iconic \"La Mano\" monument, takes you through the city’s highlights and reveals the essence of Uruguayan culture. Whether in summer or winter, Punta del Este is a year-round gem.\r\n\r\nWe’ll visit landmarks like:\r\n\r\nLa Mano\r\nPaseo de las Américas\r\nMuseo La Vista\r\nPlaza de los 100 Años\r\nCalle Gorlero\r\nPlaza de los Artesanos\r\nAntiguo Palace Hotel\r\nIglesia de la Candelaria\r\nEl Faro\r\nEstación Meteorológica\r\nEsquina de los 4 Mares\r\nPlaza de los Ingleses\r\nPunta Salinas\r\nPuerto de Punta del Este\r\n\r\nEach site tells a story, holds a secret, and carries a piece of Punta del Este’s soul. Join us and experience the magic of this incredible city!",
+      "es": "Punta del Este, a menudo llamada la \"Miami\" o la \"Saint-Tropez\" de Sudamérica, es algo más que un glamuroso destino veraniego. Apreciamos sus orígenes y el viaje que la transformó en la ciudad emblemática que es hoy. Siendo la ciudad más visitada de Uruguay, Punta del Este tiene secretos que la convirtieron en la reina del Río de la Plata, y queremos compartirlos con usted.\r\n\r\nEste recorrido de 2,5 horas, que comienza en el emblemático monumento de \"La Mano\", le llevará por los lugares más destacados de la ciudad y le revelará la esencia de la cultura uruguaya. Tanto en verano como en invierno, Punta del Este es una joya durante todo el año.\r\n\r\nVisitaremos lugares emblemáticos como\r\n\r\nLa Mano\r\nPaseo de las Américas\r\nMuseo La Vista\r\nPlaza de los 100 Años\r\nCalle Gorlero\r\nPlaza de los Artesanos\r\nAntiguo Palace Hotel\r\nIglesia de la Candelaria\r\nEl Faro\r\nEstación Meteorológica\r\nEsquina de los 4 Mares\r\nPlaza de los Ingleses\r\nPunta Salinas\r\nPuerto de Punta del Este\r\n\r\nCada sitio cuenta una historia, guarda un secreto y lleva un pedazo del alma de Punta del Este. Únase a nosotros y experimente la magia de esta increíble ciudad",
+      "fr": "Punta del Este, souvent appelée le \"Miami\" ou le \"Saint-Tropez\" de l'Amérique du Sud, est plus qu'une simple destination estivale glamour. Nous chérissons ses origines et le parcours qui l'a transformée en la ville emblématique qu'elle est aujourd'hui. Ville la plus visitée d'Uruguay, Punta del Este a des secrets qui en ont fait la reine du Río de la Plata, et nous voulons les partager avec vous.\r\n\r\nCette visite de 2,5 heures, qui commence au monument emblématique \"La Mano\", vous fait découvrir les points forts de la ville et l'essence de la culture uruguayenne. Que ce soit en été ou en hiver, Punta del Este est un joyau tout au long de l'année.\r\n\r\nNous visiterons des monuments tels que\r\n\r\nLa Mano\r\nPaseo de las Américas\r\nMuseo La Vista\r\nPlaza de los 100 Años\r\nCalle Gorlero\r\nPlaza de los Artesanos\r\nAntiguo Palace Hotel\r\nIglesia de la Candelaria\r\nEl Faro\r\nEstación Meteorológica\r\nEsquina de los 4 Mares\r\nPlaza de los Ingleses\r\nPunta Salinas\r\nPuerto de Punta del Este\r\n\r\nChaque site raconte une histoire, renferme un secret et porte un morceau de l'âme de Punta del Este. Rejoignez-nous et découvrez la magie de cette ville incroyable !",
+      "it": "Punta del Este, spesso chiamata la \"Miami\" o la \"Saint-Tropez\" del Sud America, è molto più di una destinazione estiva di grande fascino. Noi ne ricordiamo le origini e il percorso che l'ha trasformata nella città simbolo che è oggi. Come città più visitata dell'Uruguay, Punta del Este ha dei segreti che l'hanno resa la regina del Río de la Plata, e noi vogliamo condividerli con voi.\r\n\r\nQuesto tour di 2,5 ore, con partenza dall'iconico monumento \"La Mano\", vi condurrà attraverso i punti salienti della città e vi svelerà l'essenza della cultura uruguaiana. Sia in estate che in inverno, Punta del Este è un gioiello tutto l'anno.\r\n\r\nVisiteremo punti di riferimento come:\r\n\r\nLa Mano\r\nPaseo de las Américas\r\nMuseo La Vista\r\nPlaza de los 100 Años\r\nCalle Gorlero\r\nPlaza de los Artesanos\r\nAlbergo Antiguo Palace\r\nChiesa della Candelaria\r\nEl Faro\r\nStazione meteorologica\r\nPiazza dei 4 mari\r\nPlaza de los Ingleses\r\nPunta Salinas\r\nPorto di Punta del Este\r\n\r\nOgni sito racconta una storia, custodisce un segreto e porta con sé un pezzo dell'anima di Punta del Este. Unitevi a noi e vivete la magia di questa incredibile città!",
+      "pt": "Punta del Este, muitas vezes chamada de \"Miami\" ou \"Saint-Tropez\" da América do Sul, é mais do que apenas um destino de verão glamoroso. Valorizamos as suas origens e a viagem que a transformou na cidade icónica que é hoje. Como a cidade mais visitada do Uruguai, Punta del Este tem segredos que a tornaram a rainha do Rio da Prata, e nós queremos compartilhá-los com você.\r\n\r\nEste passeio de 2,5 horas, que começa no icónico monumento \"La Mano\", leva-o através dos destaques da cidade e revela a essência da cultura uruguaia. Seja no verão ou no inverno, Punta del Este é uma joia durante todo o ano.\r\n\r\nVisitaremos pontos de referência como:\r\n\r\nLa Mano\r\nPaseo de las Américas\r\nMuseu La Vista\r\nPlaza de los 100 Años\r\nCalle Gorlero\r\nPraça dos Artesãos\r\nAntiguo Palace Hotel\r\nIgreja da Candelária\r\nEl Faro\r\nEstação Meteorológica\r\nEsquina dos 4 Mares\r\nPlaza de los Ingleses\r\nPunta Salinas\r\nPorto de Punta del Este\r\n\r\nCada lugar conta uma história, guarda um segredo e carrega um pedaço da alma de Punta del Este. Junte-se a nós e experimente a magia desta cidade incrível!"
+    },
+    "providerTitle": "German Pereira",
+    "providerPhone": "+59899979714",
+    "URL": "https://www.freetour.com/punta-del-este/free-walking-tour-punta-del-este?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/punta-del-este/free-walking-tour-punta-del-este?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/punta-del-este/free-walking-tour-punta-del-este?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/punta-del-este/free-walking-tour-punta-del-este?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/punta-del-este/free-walking-tour-punta-del-este?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/punta-del-este/free-walking-tour-punta-del-este?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/punta-del-este/free-walking-tour-punta-del-este?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Sidewalk in front of the hand monument. Playa brava stop 1",
+      "coordinates": "-34.9571402,-54.9366037",
+      "googlePlaceId": "ChIJ4YBCL20FdZURhRGBBaEWNI4"
+    },
+    "cityId": 4555,
+    "countryId": 163,
+    "includes": [
+      "Brava Beach",
+      "Mansa Beach Hostel",
+      "Our Lady of the Candelaria",
+      "Puerto de punta del este",
+      "Faro de Punta del Este",
+      "The Fingers of Punta del Este",
+      "Punta de la Salina",
+      "Plaza de los Artesanos",
+      "Walking",
+      "Sightseeing",
+      "Historic information"
+    ],
+    "POIs": [
+      {
+        "id": 6882,
+        "title": "Brava Beach",
+        "googlePlaceId": "ChIJLxfhW4T3n5URulBM4n8gCSM"
+      },
+      {
+        "id": 238,
+        "title": "Mansa Beach Hostel",
+        "googlePlaceId": "ChIJ-4_GCm4QdZUR4eyA7ghkisY"
+      },
+      {
+        "id": 821,
+        "title": "Our Lady of the Candelaria",
+        "googlePlaceId": "ChIJ27Tu5nkFdZURjJ2QDfvu2tw"
+      },
+      {
+        "id": 17812,
+        "title": "Puerto de punta del este",
+        "googlePlaceId": "ChIJCwW9hDIFdZURGzcBohRpJk4"
+      },
+      {
+        "id": 17814,
+        "title": "Faro de Punta del Este",
+        "googlePlaceId": "ChIJdy_-9HkFdZURreaCGc2puJI"
+      },
+      {
+        "id": 17813,
+        "title": "The Fingers of Punta del Este",
+        "googlePlaceId": "ChIJfZ2g7RIFdZUR7vqjH95LJLY"
+      },
+      {
+        "id": 17815,
+        "title": "Punta de la Salina",
+        "googlePlaceId": "ChIJOUtzSRsFdZUR_-XpQ2Hmra4"
+      },
+      {
+        "id": 17811,
+        "title": "Plaza de los Artesanos",
+        "googlePlaceId": "ChIJtap7MHIFdZUR1YS4Tzjrn0I"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-05.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 166010,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-05.jpg"
+      },
+      {
+        "id": 166011,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-06.jpg"
+      },
+      {
+        "id": 166012,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-07.jpg"
+      },
+      {
+        "id": 166014,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-09.jpg"
+      },
+      {
+        "id": 166015,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-10.jpg"
+      },
+      {
+        "id": 166016,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-11.jpg"
+      },
+      {
+        "id": 166017,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-12.jpg"
+      },
+      {
+        "id": 166019,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-14.jpg"
+      },
+      {
+        "id": 166029,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-01.jpg"
+      },
+      {
+        "id": 166030,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-15.jpg"
+      },
+      {
+        "id": 166032,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-17.jpg"
+      },
+      {
+        "id": 166033,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-18.jpg"
+      },
+      {
+        "id": 166034,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-19.jpg"
+      },
+      {
+        "id": 166035,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-20.jpg"
+      },
+      {
+        "id": 166039,
+        "URL": "https://www.freetour.com/images/tours/34507/free-walking-tour-punta-del-este-24.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.82,
+    "reviewsNumber": 67
+  },
+  {
+    "id": 43384,
+    "updatedAt": "2025-12-01 03:32:41",
+    "title": {
+      "en": "Montevideo: Historical & Diverse Free Tour",
+      "es": "Montevideo: Histórico y Diverso Free Tour",
+      "pt": "Montevidéu: Tour gratuito histórico e diversificado",
+      "de": "Montevideo: Historische und abwechslungsreiche kostenlose Tour",
+      "fr": "Montevideo : Visite libre historique et diversifiée",
+      "it": "Montevideo: Tour gratuito storico e diversificato"
+    },
+    "brief": {
+      "de": "Nehmen Sie an der vollständigsten Tour durch die Stadt Montevideo teil. Wir werden Ihnen die Geschichte der Stadt erzählen, um in die verschiedenen Attraktionen der Stadt eintauchen zu können und alles, was wir sehen, besser zu verstehen. Willkommen.",
+      "en": "Join the most complete tour of the city of Montevideo, we will start telling the history of the city, in order to immerse ourselves in the various attractions of the city and better understand everything we see. Welcome.",
+      "es": "Únete al tour más completo de la ciudad de Montevideo, comenzaremos contando la historia de la ciudad, para poder sumergirnos en los distintos atractivos de la ciudad y comprender mejor todo lo que veamos. Bienvenidos.",
+      "fr": "Rejoignez la visite la plus complète de la ville de Montevideo, nous commencerons à raconter l'histoire de la ville, pour pouvoir nous immerger dans les différentes attractions de la ville et mieux comprendre tout ce que nous voyons. Bienvenue à tous.",
+      "it": "Partecipate al tour più completo della città di Montevideo, inizieremo a raccontare la storia della città, per poterci immergere nelle diverse attrazioni della città e comprendere meglio tutto ciò che vediamo. Benvenuti.",
+      "pt": "Junte-se ao passeio mais completo da cidade de Montevidéu, vamos começar a contar a história da cidade, para ser capaz de mergulhar nas diferentes atracções da cidade e entender melhor tudo o que vemos. Bem-vindo."
+    },
+    "description": {
+      "de": "Der Treffpunkt ist auf der Plaza Independencia, am Kiosk vor dem Palacio Salvo. Erkennen Sie den Führer an den weißen und dunkelblauen Regenschirmen. \r\n\r\nDer Spaziergang beginnt pünktlich, die maximale Wartezeit beträgt 5 Minuten und die Tour beginnt. Das durchschnittliche Trinkgeld liegt zwischen 10 und 15 Dollar pro Person, da dies die einzige Einnahmequelle des Führers ist. \r\n\r\nCiudad Vieja ist ein obligatorischer Halt, wenn Sie Montevideo besuchen. Sie ist ein Zeuge der Anfänge der Stadt. Eine Tour mit historischen Fakten, allgemeiner Kultur, Kunst und architektonischen Sehenswürdigkeiten, die Sie diese Stadt genießen lassen. \r\n\r\nListe der Orte:\r\n- Platz der Unabhängigkeit.\r\n- Mausoleum von José Gervasio Artigas.\r\n- Tor der Zitadelle.\r\n- Estévez-Palast (außen).\r\n- Salvo-Palast (außen).\r\n- Solís-Theater.\r\n- Fußgängerzone Sarandí.\r\n- Callejón de la Diversidad Sexual (LGBT) (Allee der sexuellen Vielfalt)\r\n- Matriz-Platz.\r\n- Kathedrale von Montevideo.\r\n- Kabinett von Montevideo.\r\n- Zabala-Platz.\r\n\r\n- Wir beenden die Tour am Mercado del Puerto (10 Uhr und 14 Uhr), wo Sie Souvenirs und Alfajores kaufen können und ich empfehle Ihnen ein tolles Restaurant, in dem Sie ein Geschenk von mir bekommen. \r\nich freue mich darauf, Sie zu sehen!",
+      "en": "The meeting point will be at Independence Square, at the kiosk in front of the Palacio Salvo. Identify the guide with white and dark blue umbrellas. \r\n\r\nThe walk starts on time, the maximum waiting time is 5 minutes and the tour begins. The average tip is between 10 and 15 dollars per person, remember that it is the only income that the guide receives. \r\n\r\nCiudad Vieja is a mandatory stop if you visit Montevideo. It is a witness of the beginnings of the city. A tour that has historical facts, general culture, art and architectural sites that will make you enjoy this city. \r\n\r\nList of places:\r\n- Independence Square.\r\n- Mausoleum of José Gervasio Artigas.\r\n- Gate of the Citadel.\r\n- Estévez Palace (exterior).\r\n- Salvo Palace (exterior).\r\n- Solis Theater.\r\n- Pedestrian Sarandí.\r\n- Alley of the Sexual Diversity (LGBT)\r\n- Matriz Square.\r\n- Cathedral of Montevideo.\r\n- Cabildo of Montevideo.\r\n- Zabala Square.\r\n\r\n- We finish at the Mercado del Puerto (10 am and 2 pm tour) which is a place where you can buy souvenirs, alfajores and also I suggest a great restaurant where you have a present coming from me. \r\ni look forward to seeing you!",
+      "es": "El punto de encuentro será en la plaza Independencia, en el kiosco que se encuentra frente al Palacio Salvo. Identifica al guía con paraguas blanco y azul oscuro. \r\n\r\nLa caminata comienza a la hora, la espera máxima es de 5 min y se comienza el paseo. El valor promedio de la propina va entre 10 y 15 dólares por persona, recuerde que es el único ingreso que recibe el guía. \r\n\r\nCiudad Vieja es una parada obligatoria si visitas Montevideo. Es testigo de los inicios de la Ciudad. Un recorrido que cuenta con hechos históricos, cultura general, arte y lugares arquitectónicos que los harán disfrutar de esta ciudad. \r\n\r\nLista de lugares:\r\n- Plaza de la Independencia.\r\n- Mausoleo de José Gervasio Artigas.\r\n- Puerta de la Ciudadela.\r\n- Palacio Estévez (exterior).\r\n- Palacio Salvo (exterior).\r\n- Teatro Solís.\r\n- Peatonal Sarandí.\r\n- Callejón de la Diversidad Sexual (LGBT)\r\n- Plaza Matriz.\r\n- Catedral de Montevideo.\r\n- Cabildo de Montevideo.\r\n- Plaza Zabala.\r\n\r\n- Terminamos en el Mercado del Puerto (tour de las 10 y las 14 h) que es un lugar donde se pueden comprar recuerdos, alfajores y además les sugiero un restaurante genial donde tienen un presente viniendo de mi parte. \r\n¡Los espero!",
+      "fr": "Le point de rencontre se situe sur la Plaza Independencia, au kiosque situé en face du Palacio Salvo. Identifiez le guide avec les parapluies blanc et bleu foncé. \r\n\r\nLa promenade commence à l'heure, le temps d'attente maximum est de 5 minutes et la visite commence. Le pourboire moyen se situe entre 10 et 15 dollars par personne, n'oubliez pas que c'est le seul revenu du guide. \r\n\r\nCiudad Vieja est un arrêt obligatoire si vous visitez Montevideo. Elle témoigne des débuts de la ville. Une visite qui comprend des faits historiques, de la culture générale, de l'art et des sites architecturaux qui vous feront apprécier cette ville. \r\n\r\nListe des lieux :\r\n- Place de l'Indépendance.\r\n- Mausolée de José Gervasio Artigas.\r\n- Porte de la Citadelle.\r\n- Palais Estévez (extérieur).\r\n- Palais Salvo (extérieur).\r\n- Théâtre Solís.\r\n- Piéton de Sarandí.\r\n- Callejón de la Diversidad Sexual (LGBT) (Allée de la diversité sexuelle)\r\n- Place Matriz.\r\n- Cathédrale de Montevideo.\r\n- Cabildo de Montevideo.\r\n- Place Zabala.\r\n\r\n- Nous terminons par le Mercado del Puerto (visite à 10 heures et à 14 heures) qui est un endroit où vous pouvez acheter des souvenirs, des alfajores et je vous suggère un grand restaurant où vous aurez un cadeau de ma part. \r\nj'ai hâte de vous voir !",
+      "it": "Il punto d'incontro sarà in Plaza Independencia, presso il chiosco di fronte al Palacio Salvo. Identificare la guida con ombrelli bianchi e blu scuro. \r\n\r\nLa passeggiata inizia in orario, il tempo massimo di attesa è di 5 minuti e il tour ha inizio. La mancia media è compresa tra i 10 e i 15 dollari a persona, ricordando che questo è l'unico reddito che la guida riceve. \r\n\r\nLa Ciudad Vieja è una tappa obbligatoria se si visita Montevideo. È una testimonianza degli inizi della città. Un tour che presenta fatti storici, cultura generale, arte e siti architettonici che vi faranno apprezzare questa città. \r\n\r\nElenco dei luoghi:\r\n- Piazza dell'Indipendenza.\r\n- Mausoleo di José Gervasio Artigas.\r\n- Porta della Cittadella.\r\n- Palazzo Estévez (esterno).\r\n- Palazzo Salvo (esterno).\r\n- Teatro Solís.\r\n- Sarandí pedonale.\r\n- Callejón de la Diversidad Sexual (LGBT) (Vicolo della diversità sessuale)\r\n- Piazza Matriz.\r\n- Cattedrale di Montevideo.\r\n- Cabildo di Montevideo.\r\n- Piazza Zabala.\r\n\r\n- Terminiamo al Mercado del Puerto (tour delle 10.00 e delle 14.00) che è un luogo dove potrete acquistare souvenir, alfajores e vi suggerisco un ottimo ristorante dove avrete un regalo da parte mia. \r\nnon vedo l'ora di vedervi!",
+      "pt": "O ponto de encontro será na Plaza Independencia, no quiosque em frente ao Palácio Salvo. Identificar o guia com guarda-chuvas brancos e azuis escuros. \r\n\r\nO passeio começa à hora marcada, o tempo máximo de espera é de 5 minutos e a excursão começa. A gorjeta média é entre 10 e 15 dólares por pessoa, lembre-se que este é o único rendimento que o guia recebe. \r\n\r\nCiudad Vieja é uma paragem obrigatória se visitar Montevideo. É uma testemunha dos primórdios da cidade. Um passeio que tem factos históricos, cultura geral, arte e locais arquitectónicos que o farão desfrutar desta cidade. \r\n\r\nLista de lugares:\r\n- Praça da Independência.\r\n- Mausoléu de José Gervasio Artigas.\r\n- Porta da Cidadela.\r\n- Palácio Estévez (exterior).\r\n- Palácio Salvo (exterior).\r\n- Teatro Solís.\r\n- Sarandí pedonal.\r\n- Callejón de la Diversidad Sexual (LGBT) (Beco da Diversidade Sexual)\r\n- Praça da Matriz.\r\n- Catedral de Montevidéu.\r\n- Cabildo de Montevidéu.\r\n- Praça Zabala.\r\n\r\n- Terminamos no Mercado del Puerto (tour das 10h e 14h) que é um lugar onde se pode comprar lembranças, alfajores e sugiro um ótimo restaurante onde tem um presente vindo de mim. \r\nespero vê-los!"
+    },
+    "providerTitle": "Matias Leivas",
+    "providerPhone": "+59895225951",
+    "URL": "https://www.freetour.com/montevideo/free-walking-tour-por-montevideo-historico-diverso?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montevideo/free-walking-tour-por-montevideo-historico-diverso?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montevideo/free-walking-tour-por-montevideo-historico-diverso?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montevideo/free-walking-tour-por-montevideo-historico-diverso?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montevideo/free-walking-tour-por-montevideo-historico-diverso?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montevideo/free-walking-tour-por-montevideo-historico-diverso?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montevideo/free-walking-tour-por-montevideo-historico-diverso?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Plaza independencia",
+      "coordinates": "-34.906561655365955,-56.19882383384848",
+      "googlePlaceId": "ChIJs0ZxnCuAn5URnYdq7aihWEw"
+    },
+    "cityId": 4553,
+    "countryId": 163,
+    "includes": [
+      "Mausoleo de Artigas",
+      "Salvo Palace",
+      "Palacio Estevez | Museo de la Casa de Gobierno",
+      "Torre Ejecutiva - Presidencia de la República",
+      "Gateway of the Citadel",
+      "Peatonal Sarandí",
+      "Solis Theater",
+      "Museo Histórico Cabildo de Montevideo",
+      "Constitution Plaza",
+      "Montevideo Metropolitan Cathedral",
+      "Puerto Market",
+      "Independence Square"
+    ],
+    "POIs": [
+      {
+        "id": 2972,
+        "title": "Mausoleo de Artigas",
+        "googlePlaceId": "ChIJbWYJaSuAn5URgc3oY8DaOk4"
+      },
+      {
+        "id": 5557,
+        "title": "Salvo Palace",
+        "googlePlaceId": "ChIJIbJTZyuAn5URpgUPhjnrVzI"
+      },
+      {
+        "id": 12273,
+        "title": "Palacio Estevez | Museo de la Casa de Gobierno",
+        "googlePlaceId": "ChIJZ8ufPyuAn5URCnlcme-GzWs"
+      },
+      {
+        "id": 11386,
+        "title": "Torre Ejecutiva - Presidencia de la República",
+        "googlePlaceId": "ChIJX0cUGCuAn5URcNTd2fYUSzA"
+      },
+      {
+        "id": 1268,
+        "title": "Gateway of the Citadel",
+        "googlePlaceId": "ChIJ4c4Q_iqAn5URxUfoPSBGWLk"
+      },
+      {
+        "id": 6513,
+        "title": "Peatonal Sarandí",
+        "googlePlaceId": "ChIJKxVvgIB_n5URSCOeSgiQKW4"
+      },
+      {
+        "id": 11771,
+        "title": "Solis Theater",
+        "googlePlaceId": "ChIJy-0n3yqAn5URih5a8wS4zek"
+      },
+      {
+        "id": 3509,
+        "title": "Museo Histórico Cabildo de Montevideo",
+        "googlePlaceId": "ChIJD4Y8eiqAn5URHVbwCywsNMA"
+      },
+      {
+        "id": 6164,
+        "title": "Constitution Plaza",
+        "googlePlaceId": "ChIJJZtpeCqAn5URk_M-SDCzH7U"
+      },
+      {
+        "id": 3497,
+        "title": "Montevideo Metropolitan Cathedral",
+        "googlePlaceId": "ChIJD43JjoB_n5URxnqgwhAcHSA"
+      },
+      {
+        "id": 12239,
+        "title": "Puerto Market",
+        "googlePlaceId": "ChIJZ6KpWIR_n5UR0liGhdCsA6s"
+      },
+      {
+        "id": 3133,
+        "title": "Independence Square",
+        "googlePlaceId": "ChIJC46ViHtZ4joRCya8Jp8IxcE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-04.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 141519,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-04.jpg"
+      },
+      {
+        "id": 141520,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-05.jpg"
+      },
+      {
+        "id": 141521,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-06.jpg"
+      },
+      {
+        "id": 141527,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-12.jpg"
+      },
+      {
+        "id": 141528,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-13.jpg"
+      },
+      {
+        "id": 225625,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-01.jpg"
+      },
+      {
+        "id": 225626,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-02.jpg"
+      },
+      {
+        "id": 225627,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-03.jpg"
+      },
+      {
+        "id": 225628,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-14.jpg"
+      },
+      {
+        "id": 225629,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-15.jpg"
+      },
+      {
+        "id": 225630,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-16.jpg"
+      },
+      {
+        "id": 225631,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-09.jpg"
+      },
+      {
+        "id": 225632,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-08.jpg"
+      },
+      {
+        "id": 225633,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-07.jpg"
+      },
+      {
+        "id": 225634,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-10.jpg"
+      },
+      {
+        "id": 225635,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-11.jpg"
+      },
+      {
+        "id": 225636,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-17.jpg"
+      },
+      {
+        "id": 225637,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-18.jpg"
+      },
+      {
+        "id": 225638,
+        "URL": "https://www.freetour.com/images/tours/43384/free-walking-tour-por-montevideo-historico-diverso-19.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 206
+  },
+  {
+    "id": 45377,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Free Tour - Historical Fray Bentos",
+      "es": "Free Tour - Fray Bentos Historico",
+      "pt": "Visita gratuita - Fray Bentos histórico",
+      "de": "Kostenlose Führung - Historische Fray Bentos",
+      "fr": "Visite gratuite - Fray Bentos historique",
+      "it": "Visita gratuita - Storico Fray Bentos"
+    },
+    "brief": {
+      "de": "Gehen Sie mit uns über den Hargain-Platz, das Junge Theater, das Solari-Museum, den Platz der Verfassung und Stella de Italia. Entdecken Sie die Ursprünge von Fray Bentos und seine ersten Siedler auf dieser brandneuen, urheberrechtsfreien Tour - lassen Sie sich auf das Abenteuer ein!",
+      "en": "Walk with us through Hargain Square, Young Theater, Solari Museum, Constitution Square and Stella de Italia. Discover the origins of Fray Bentos and its first settlers on this brand new, no-copyright tour, join the adventure!",
+      "es": "Recorre con nosotros Plaza Hargain, Teatro Young, Museo Solari, Plaza Constitución y Stella de Italia. Descubre los orígenes de Fray Bentos y sus primeros pobladores en este totalmente nuevo tour sin copyright. ¡Únete a la aventura!",
+      "fr": "Marchez avec nous à travers la place Hargain, le théâtre Young, le musée Solari, la place de la Constitution et la Stella de Italia. Découvrez les origines de Fray Bentos et de ses premiers colons grâce à cette toute nouvelle visite libre de droits - participez à l'aventure !",
+      "it": "Passeggiate con noi attraverso Piazza Hargain, il Teatro Young, il Museo Solari, Piazza della Costituzione e Stella de Italia. Scoprite le origini di Fray Bentos e dei suoi primi coloni in questo nuovissimo tour senza copyright: unitevi all'avventura!",
+      "pt": "Caminhe connosco pela Praça Hargain, Teatro Jovem, Museu Solari, Praça da Constituição e Stella de Italia. Descubra as origens de Fray Bentos e dos seus primeiros colonos nesta nova excursão sem direitos de autor - junte-se à aventura!"
+    },
+    "description": {
+      "de": "Tauchen Sie auf einer spannenden Tour in die reiche Geschichte und Kultur von Fray Bentos ein. Von der Gründung bis zu den verwickelten Geschichten der ersten Siedler und dem ehrgeizigen Immobilienprojekt. Betreten Sie das majestätische Miguel-Young-Theater bei einer exklusiven Führung und erkunden Sie seine historischen Ecken. \r\n\r\nDie Plaza Constitución erwartet Sie mit ihrem ikonischen Charme, während das Stella de Italia-Gebäude seine Geschichte in einer fesselnden Führung enthüllt. Und nicht zu vergessen das Solari-Museum, dessen verborgene Schätze Sie bei einer Führung entdecken können. Nehmen Sie an dieser bereichernden Erfahrung teil und entdecken Sie das Erbe von Fray Bentos auf Schritt und Tritt.",
+      "en": "Immerse yourself in the rich history and culture of Fray Bentos in an exciting tour. From its foundation to the intricate stories of the first settlers and the ambitious real estate project. Delve into the majestic Miguel Young Theater with an exclusive guided tour, exploring its historical nooks and crannies. \r\n\r\nPlaza Constitución awaits you with its iconic charm, while the Stella de Italia Building unveils its history in a captivating tour. And we can't forget the Solari Museum, where a guided tour will reveal its hidden treasures. Join this enriching experience and discover the legacy of Fray Bentos every step of the way.",
+      "es": "Sumérgete en la rica historia y cultura de Fray Bentos en un apasionante recorrido. Desde su fundación hasta los intrincados relatos de los primeros colonos y el ambicioso proyecto inmobiliario. Adéntrate en el majestuoso Teatro Miguel Young con una visita guiada exclusiva, explorando sus rincones históricos. \r\n\r\nLa Plaza Constitución te espera con su encanto icónico, mientras que el Edificio Stella de Italia desvela su historia en un recorrido cautivador. Y no podemos olvidar el Museo Solari, donde una visita guiada te revelará sus tesoros ocultos. Únete a esta experiencia enriquecedora y descubre el legado de Fray Bentos en cada paso del camino.",
+      "fr": "Plongez dans la riche histoire et la culture de Fray Bentos au cours d'une visite passionnante. De sa fondation aux récits complexes des premiers colons et de l'ambitieux projet immobilier. Entrez dans le majestueux théâtre Miguel Young lors d'une visite guidée exclusive, à la découverte de ses recoins historiques. \r\n\r\nLa Plaza Constitución vous attend avec son charme emblématique, tandis que le bâtiment Stella de Italia vous dévoile son histoire au cours d'une visite captivante. Sans oublier le musée Solari, où une visite guidée vous dévoilera ses trésors cachés. Participez à cette expérience enrichissante et découvrez l'héritage de Fray Bentos à chaque étape.",
+      "it": "Immergetevi nella ricca storia e cultura di Fray Bentos con un tour emozionante. Dalla sua fondazione alle intricate vicende dei primi coloni e dell'ambizioso progetto immobiliare. Entrate nel maestoso Teatro Miguel Young con una visita guidata esclusiva, esplorando i suoi angoli storici. \r\n\r\nLa Plaza Constitución vi aspetta con il suo fascino iconico, mentre l'edificio Stella de Italia vi svela la sua storia in un tour accattivante. E non possiamo dimenticare il Museo Solari, dove una visita guidata vi svelerà i suoi tesori nascosti. Partecipate a questa esperienza arricchente e scoprite l'eredità di Fray Bentos ad ogni passo.",
+      "pt": "Mergulhe na rica história e cultura de Fray Bentos num passeio emocionante. Desde a sua fundação até aos intrincados contos dos primeiros colonos e ao ambicioso projeto imobiliário. Entre no majestoso Teatro Miguel Young com uma visita guiada exclusiva, explorando os seus recantos históricos. \r\n\r\nA Plaza Constitución espera por si com o seu encanto icónico, enquanto o Edifício Stella de Italia revela a sua história numa visita cativante. E não podemos esquecer o Museu Solari, onde uma visita guiada revelará os seus tesouros escondidos. Participe desta experiência enriquecedora e descubra o legado de Fray Bentos a cada passo do caminho."
+    },
+    "providerTitle": "Cristian Rosas Linale SRL",
+    "providerPhone": "+59899525000",
+    "URL": "https://www.freetour.com/fray-bentos/free-tour-fray-bentos-historico?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/fray-bentos/free-tour-fray-bentos-historico?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/fray-bentos/free-tour-fray-bentos-historico?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/fray-bentos/free-tour-fray-bentos-historico?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/fray-bentos/free-tour-fray-bentos-historico?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/fray-bentos/free-tour-fray-bentos-historico?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/fray-bentos/free-tour-fray-bentos-historico?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 5,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Plaza Hargain, fray Bentos",
+      "coordinates": "-33.1139525,-58.31011549999999",
+      "googlePlaceId": "ChIJAcI7kIhNpZUR_ypXPDM6rHk"
+    },
+    "cityId": 5045,
+    "countryId": 163,
+    "includes": [
+      "Teatro Miguel Young",
+      "Edificio Stella D'Italia",
+      "Museo Solari",
+      "Visita guiada al Teatro Young ",
+      "Visita guiada al Museo Solari",
+      "Visita guiada a Edificio Stella de Italia."
+    ],
+    "POIs": [
+      {
+        "id": 14137,
+        "title": "Teatro Miguel Young",
+        "googlePlaceId": "ChIJ7ST3L4lNpZURvp_3qCI1reY"
+      },
+      {
+        "id": 14158,
+        "title": "Edificio Stella D'Italia",
+        "googlePlaceId": "ChIJb8TCBBRNpZURZ7mCtIDIB1M"
+      },
+      {
+        "id": 14139,
+        "title": "Museo Solari",
+        "googlePlaceId": "ChIJI5GWvohNpZURL4AhRYlXB7w"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/45377/freetour-fray-bentos-historico-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 148882,
+        "URL": "https://www.freetour.com/images/tours/45377/freetour-fray-bentos-historico-01.jpg"
+      },
+      {
+        "id": 148978,
+        "URL": "https://www.freetour.com/images/tours/45377/free-tour-fray-bentos-historico-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 58833,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Tour of the Historic District of Colonia Del Sacramento",
+      "es": "Tour por el Barrio Histórico de Colonia Del Sacramento",
+      "pt": "Visita ao bairro histórico de Colonia Del Sacramento",
+      "de": "Rundgang durch den historischen Bezirk Colonia Del Sacramento",
+      "fr": "Visite du quartier historique de Colonia Del Sacramento",
+      "it": "Visita del quartiere storico di Colonia Del Sacramento"
+    },
+    "brief": {
+      "de": "kommen Sie mit auf einen Rundgang durch die historische Stadt Colonia del Sacramento! Entdecken Sie die Highlights mit einem lokalen Führer und erkunden Sie diese Weltkulturerbestätte und entdecken Sie den Charme und die Geschichte von Colonia!",
+      "en": "join us for a walking tour of the historic city of Colonia del Sacramento! Discover its highlights with a local guide and explore this World Heritage Site - discover the charm and history of Colonia!",
+      "es": "¡Únase a nosotros para un paseo por la histórica ciudad de Colonia del Sacramento! Descubra sus aspectos más destacados con un guía local y explore este sitio declarado Patrimonio de la Humanidad. ¡Descubre el encanto y la historia de Colonia!",
+      "fr": "rejoignez-nous pour une visite à pied de la ville historique de Colonia del Sacramento ! Découvrez les points forts avec un guide local et explorez ce site classé au patrimoine mondial et découvrez le charme et l'histoire de Colonia !",
+      "it": "unitevi a noi per un tour a piedi della città storica di Colonia del Sacramento! Scoprite i punti salienti con una guida locale ed esplorate questo sito Patrimonio dell'Umanità e scoprite il fascino e la storia di Colonia!",
+      "pt": "junte-se a nós para um passeio a pé pela cidade histórica de Colonia del Sacramento! Descubra os pontos altos com um guia local e explore este Património Mundial e descubra o encanto e a história de Colónia!"
+    },
+    "description": {
+      "de": "Spüren Sie die Atmosphäre der Kolonialzeit, wenn Sie durch die charmanten Straßen des historischen Zentrums inmitten der spanischen und portugiesischen Architektur schlendern. Machen Sie einen entspannten Spaziergang auf dieser Stadttour in Begleitung eines lokalen Gastgebers, der Sie in die Vergangenheit entführt. Lernen Sie die lokalen Bräuche kennen und entdecken Sie die charakteristischen Legenden und mystischen Geschichten des Ortes\r\n\r\nEntdecken Sie die Stadt Colonia del Sacramento, die im Dezember 1995 zum Weltkulturerbe erklärt wurde. Die unregelmäßigen Steinpflaster, die breiten Granitsteinmauern, die Kolonialhäuser mit Ziegeldächern und der Blick auf den Rio de la Plata versetzen Sie in die Kolonialzeit zurück.\r\n\r\nNehmen Sie an dieser Tour teil und erleben Sie einen unglaublichen Tag, an dem Sie die Geschichte, Kultur, Natur und Architektur dieses wunderschönen und einzigartigen Ortes entdecken.",
+      "en": "Feel the ambiance of the colonial era as you stroll through the charming streets of the historic center amidst the Spanish and Portuguese architecture. Take a relaxing stroll on this city tour accompanied by a local host who will take you back in time. Learn about local customs and discover the most characteristic legends and mystical stories of the place\r\n\r\nDiscover the city of Colonia del Sacramento, declared a World Heritage Site in December 1995. As the tour progresses, the irregular stone sidewalks, the wide granite stone walls, the colonial houses with tile roofs and the views of the Rio de la Plata will transport you back to colonial times.\r\n\r\nJoin this tour and experience an incredible day discovering the history, culture, nature and architecture of this beautiful and unique place.",
+      "es": "Siente el ambiente de la época colonial mientras paseas por las encantadoras calles del centro histórico entre la arquitectura española y portuguesa. Da un relajante paseo en este tour por la ciudad acompañado por un anfitrión local que te hará retroceder en el tiempo. Conoce las costumbres locales y descubre las leyendas e historias místicas más características del lugar\r\n\r\nDescubre la ciudad de Colonia del Sacramento declarada Patrimonio de la Humanidad desde diciembre de 1995. A medida que avanza el recorrido, las aceras irregulares de piedra, los anchos muros de piedra de granito, las casas coloniales con tejados de tejas y las vistas del Río de la Plata te transportarán a la época colonial.\r\n\r\nÚnete a este recorrido y vive un día increíble descubriendo la historia, la cultura, la naturaleza y la arquitectura de este lugar hermoso y único.",
+      "fr": "Retrouvez l'atmosphère de l'époque coloniale en vous promenant dans les charmantes rues du centre historique au milieu de l'architecture espagnole et portugaise. Cette visite de la ville, accompagnée d'un hôte local qui vous fera remonter le temps, vous permettra de vous détendre. Apprenez les coutumes locales et découvrez les légendes et les histoires mystiques les plus caractéristiques du lieu\r\n\r\nDécouvrez la ville de Colonia del Sacramento, déclarée site du patrimoine mondial en décembre 1995. Au fil de la visite, les trottoirs irréguliers en pierre, les larges murs en pierre de granit, les maisons coloniales aux toits de tuiles et les vues sur le Rio de la Plata vous transporteront à l'époque coloniale.\r\n\r\nParticipez à cette visite et vivez une journée incroyable à la découverte de l'histoire, de la culture, de la nature et de l'architecture de ce lieu magnifique et unique.",
+      "it": "Sentite l'atmosfera dell'epoca coloniale mentre passeggiate per le affascinanti strade del centro storico tra l'architettura spagnola e portoghese. Fate una passeggiata rilassante in questo tour della città accompagnati da un ospite locale che vi riporterà indietro nel tempo. Imparate a conoscere le usanze locali e scoprite le leggende e le storie mistiche più caratteristiche del luogo\r\n\r\nScoprite la città di Colonia del Sacramento, dichiarata Patrimonio dell'Umanità nel dicembre 1995. Man mano che il tour procede, i marciapiedi irregolari in pietra, gli ampi muri in granito, le case coloniali con i tetti in tegole e la vista sul Rio de la Plata vi trasporteranno all'epoca coloniale.\r\n\r\nPartecipate a questo tour e vivete una giornata incredibile alla scoperta della storia, della cultura, della natura e dell'architettura di questo luogo bellissimo e unico.",
+      "pt": "Sinta a atmosfera da era colonial enquanto passeia pelas encantadoras ruas do centro histórico entre a arquitetura espanhola e portuguesa. Passeie descontraidamente nesta visita à cidade acompanhado por um anfitrião local que o fará recuar no tempo. Conheça os costumes locais e descubra as lendas e histórias místicas mais características do lugar\r\n\r\nDescubra a cidade de Colonia del Sacramento, declarada Património da Humanidade em dezembro de 1995. À medida que o passeio avança, as calçadas irregulares de pedra, os largos muros de pedra de granito, as casas coloniais com telhados de telha e as vistas do Rio de la Plata transportá-lo-ão de volta aos tempos coloniais.\r\n\r\nJunte-se a este passeio e viva um dia incrível descobrindo a história, a cultura, a natureza e a arquitetura deste lugar belo e único."
+    },
+    "providerTitle": "Colonia Experiences Tours",
+    "providerPhone": "+59892663927",
+    "URL": "https://www.freetour.com/colonia-del-sacramento/walking-tour-al-barrio-historico-colonia-del-sacramento?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/colonia-del-sacramento/walking-tour-al-barrio-historico-colonia-del-sacramento?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/colonia-del-sacramento/walking-tour-al-barrio-historico-colonia-del-sacramento?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/colonia-del-sacramento/walking-tour-al-barrio-historico-colonia-del-sacramento?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/colonia-del-sacramento/walking-tour-al-barrio-historico-colonia-del-sacramento?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/colonia-del-sacramento/walking-tour-al-barrio-historico-colonia-del-sacramento?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/colonia-del-sacramento/walking-tour-al-barrio-historico-colonia-del-sacramento?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 25,
+      "currency": "EUR"
+    },
+    "length": "1:00",
+    "meetingPoint": {
+      "title": "Basilica del Santisimo Sacramento",
+      "coordinates": "-34.4711056,-57.85082500000001",
+      "googlePlaceId": "ChIJ9UuJkl0So5URUg2TBka5PwQ"
+    },
+    "cityId": 4549,
+    "countryId": 163,
+    "includes": [
+      "Basilica of the Blessed Sacrament",
+      "Tour guiado grupal en el casco historico ",
+      "Guia profesional "
+    ],
+    "POIs": [
+      {
+        "id": 2945,
+        "title": "Basilica of the Blessed Sacrament",
+        "googlePlaceId": "ChIJBV2c_lwSo5URDiLh8do_S9o"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/58833/walking-tour-barrio-historico-colonia-del-sacramento-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 203508,
+        "URL": "https://www.freetour.com/images/tours/58833/walking-tour-barrio-historico-colonia-del-sacramento-01.jpg"
+      },
+      {
+        "id": 203511,
+        "URL": "https://www.freetour.com/images/tours/58833/walking-tour-barrio-historico-colonia-del-sacramento-04.jpg"
+      },
+      {
+        "id": 203512,
+        "URL": "https://www.freetour.com/images/tours/58833/walking-tour-barrio-historico-colonia-del-sacramento-05.jpg"
+      },
+      {
+        "id": 203513,
+        "URL": "https://www.freetour.com/images/tours/58833/walking-tour-barrio-historico-colonia-del-sacramento-06.jpg"
+      },
+      {
+        "id": 203515,
+        "URL": "https://www.freetour.com/images/tours/58833/walking-tour-barrio-historico-colonia-del-sacramento-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 65195,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "La Paloma: Uruguay Surf and Nature",
+      "es": "La Paloma: Uruguay Surf y Naturaleza",
+      "pt": "La Paloma: Uruguai Surf e Natureza",
+      "de": "La Paloma: Surfen und Natur in Uruguay",
+      "fr": "La Paloma : Uruguay Surf et Nature",
+      "it": "La Paloma: Uruguay Surf e Natura"
+    },
+    "brief": {
+      "de": "Entdecken Sie das Abenteuer an unserer atemberaubenden Surfküste! Begleiten Sie uns zum Surfen, Trekking und zu atemberaubenden Naturerlebnissen. Je nach Jahreszeit sehen Sie vielleicht Wale, Pinguine oder Seelöwen. Lassen Sie sich dieses unvergessliche Erlebnis nicht entgehen!",
+      "en": "Discover adventure on our stunning surf coast! Join us for surfing, trekking, and breathtaking nature views. You might spot whales, penguins, or sea lions, depending on the season. Don't miss this unforgettable experience!",
+      "es": "Descubra la aventura en nuestra impresionante costa surfera Únase a nosotros para practicar surf, senderismo y disfrutar de impresionantes vistas de la naturaleza. Es posible que vea ballenas, pingüinos o leones marinos, dependiendo de la temporada. No se pierda esta experiencia inolvidable",
+      "fr": "Découvrez l'aventure sur notre magnifique côte de surf ! Rejoignez-nous pour faire du surf, du trekking et admirer la nature à couper le souffle. Vous pourrez peut-être apercevoir des baleines, des pingouins ou des lions de mer, selon la saison. Ne manquez pas cette expérience inoubliable !",
+      "it": "Scoprite l'avventura sulla nostra splendida costa da surf! Unitevi a noi per praticare surf, trekking e panorami naturali mozzafiato. Potreste avvistare balene, pinguini o leoni marini, a seconda della stagione. Non perdetevi questa esperienza indimenticabile!",
+      "pt": "Descubra a aventura na nossa deslumbrante costa de surf! Junte-se a nós para surfar, fazer trekking e desfrutar de vistas deslumbrantes da natureza. Poderá avistar baleias, pinguins ou leões-marinhos, dependendo da época. Não perca esta experiência inesquecível!"
+    },
+    "description": {
+      "de": "Wir beginnen unser Abenteuer am Leuchtturm und begeben uns dann auf einen malerischen 30-minütigen Spaziergang durch den üppigen Wald zum Strand La Aguada. Hier werden wir ca. 2 Stunden am Strand verbringen, wo wir bei gutem Wetter die Wellen genießen können. \r\n\r\nDanach können wir mit dem Taxi nach Ensenada fahren, wo wir bei einem Naturspaziergang die einheimische Tierwelt, darunter eine Vielzahl von Vögeln, Säugetieren und Reptilien, beobachten werden. \r\n\r\nErleben Sie mit uns einen unvergesslichen Tag in der Natur, in der Tierwelt und an der schönen Küste!",
+      "en": "We’ll start our adventure at the lighthouse, then embark on a scenic 30-minute walk through lush forest to reach La Aguada Beach. Here, we’ll enjoy about 2 hours on the shore, perfect for soaking up the waves if the swell is right. \r\n\r\nAfterward, we can catch a cab to Ensenada for a nature walk, where we’ll look for local wildlife, including a variety of birds, mammals, and reptiles. \r\n\r\nJoin us for an unforgettable day of nature, wildlife, and coastal beauty!",
+      "es": "Comenzaremos nuestra aventura en el faro y luego nos embarcaremos en un pintoresco paseo de 30 minutos a través de un frondoso bosque hasta llegar a la playa de La Aguada. Aquí disfrutaremos de unas 2 horas en la orilla, perfectas para disfrutar de las olas si el oleaje es bueno. \r\n\r\nDespués, podemos coger un taxi a Ensenada para dar un paseo por la naturaleza, donde buscaremos fauna local, incluyendo una gran variedad de aves, mamíferos y reptiles. \r\n\r\nAcompáñenos en un día inolvidable de naturaleza, vida salvaje y belleza costera",
+      "fr": "Nous commencerons notre aventure au phare, puis nous nous embarquerons pour une marche pittoresque de 30 minutes à travers une forêt luxuriante pour atteindre la plage de La Aguada. Nous passerons environ deux heures sur le rivage, ce qui nous permettra de profiter des vagues si la houle est favorable. \r\n\r\nEnsuite, nous pourrons prendre un taxi jusqu'à Ensenada pour une promenade dans la nature, où nous pourrons observer la faune locale, notamment une variété d'oiseaux, de mammifères et de reptiles. \r\n\r\nRejoignez-nous pour une journée inoubliable de nature, de faune et de beauté côtière !",
+      "it": "Inizieremo la nostra avventura al faro, poi ci imbarcheremo in una passeggiata panoramica di 30 minuti attraverso la foresta lussureggiante per raggiungere la spiaggia di La Aguada. Qui potremo godere di circa 2 ore di spiaggia, perfetta per prendere il largo se le onde sono giuste. \r\n\r\nIn seguito, possiamo prendere un taxi per Ensenada per una passeggiata nella natura, dove cercheremo la fauna locale, tra cui una varietà di uccelli, mammiferi e rettili. \r\n\r\nUnitevi a noi per una giornata indimenticabile all'insegna della natura, della fauna e della bellezza costiera!",
+      "pt": "Começaremos a nossa aventura no farol, depois embarcaremos num passeio panorâmico de 30 minutos através de uma floresta luxuriante para chegar à praia de La Aguada. Aqui, desfrutaremos de cerca de 2 horas na costa, perfeitas para apanhar as ondas se a ondulação for boa. \r\n\r\nDepois, podemos apanhar um táxi para Ensenada para um passeio pela natureza, onde procuraremos a vida selvagem local, incluindo uma variedade de aves, mamíferos e répteis. \r\n\r\nJunte-se a nós para um dia inesquecível de natureza, vida selvagem e beleza costeira!"
+    },
+    "providerTitle": "Andrei Salcedo Grebechov",
+    "providerPhone": "+573124161344",
+    "URL": "https://www.freetour.com/la-paloma/la-paloma-uruguay-surf-nature?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/la-paloma/la-paloma-uruguay-surf-nature?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/la-paloma/la-paloma-uruguay-surf-nature?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/la-paloma/la-paloma-uruguay-surf-nature?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/la-paloma/la-paloma-uruguay-surf-nature?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/la-paloma/la-paloma-uruguay-surf-nature?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/la-paloma/la-paloma-uruguay-surf-nature?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "4:45",
+    "meetingPoint": {
+      "title": "Faro de Cabo de Santa María",
+      "coordinates": "-34.66826,-54.1528532",
+      "googlePlaceId": "ChIJ17aQY7ScdJUR3mmWB4rY02Q"
+    },
+    "cityId": 4551,
+    "countryId": 163,
+    "includes": [
+      "El Faro del Cabo Santa Maria",
+      "Ensenada",
+      "Beach trekking, surfing, fauna watching"
+    ],
+    "POIs": [
+      {
+        "id": 27349,
+        "title": "El Faro del Cabo Santa Maria",
+        "googlePlaceId": "ChIJ0R7P1rScdJURUmes2V2po_E"
+      },
+      {
+        "id": 27350,
+        "title": "Ensenada",
+        "googlePlaceId": "ChIJPVi7_yJNpZURLa724-CT0lQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/65195/la-paloma-uruguay-surf-and-nature-03.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 227471,
+        "URL": "https://www.freetour.com/images/tours/65195/la-paloma-uruguay-surf-and-nature-03.jpg"
+      },
+      {
+        "id": 227472,
+        "URL": "https://www.freetour.com/images/tours/65195/la-paloma-uruguay-surf-and-nature-04.jpg"
+      },
+      {
+        "id": 227473,
+        "URL": "https://www.freetour.com/images/tours/65195/la-paloma-uruguay-surf-and-nature-05.jpg"
+      },
+      {
+        "id": 227474,
+        "URL": "https://www.freetour.com/images/tours/65195/la-paloma-uruguay-surf-and-nature-06.jpg"
+      },
+      {
+        "id": 227475,
+        "URL": "https://www.freetour.com/images/tours/65195/la-paloma-uruguay-surf-and-nature-07.jpg"
+      },
+      {
+        "id": 227476,
+        "URL": "https://www.freetour.com/images/tours/65195/la-paloma-uruguay-surf-and-nature-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 83469,
+    "updatedAt": "2025-12-01 03:32:46",
+    "title": {
+      "en": "Montevideo: History, Sand and Beach",
+      "es": "Montevideo: Historia, Arena y Playa",
+      "pt": "Montevidéu: História, areia e praia",
+      "de": "Montevideo: Geschichte, Sand und Strand",
+      "fr": "Montevideo : Histoire, sable et plage",
+      "it": "Montevideo: Storia, sabbia e spiaggia"
+    },
+    "brief": {
+      "de": "Nehmen Sie an dieser Tour in Montevideo teil und entdecken Sie die Geschichte, das pulsierende Stadtzentrum und die Strände. Spazieren Sie durch Straßen voller Kultur und genießen Sie ein erfrischendes Bad im Rio de la Plata - erleben Sie die Stadt in vollen Zügen!",
+      "en": "Join this tour in Montevideo and discover its history, vibrant downtown and beaches. Walk through streets full of culture and enjoy a refreshing dip in the Rio de la Plata, experience the city to the fullest!",
+      "es": "Únete a este tour en Montevideo y descubre su historia, su vibrante centro y sus playas. Camina por calles llenas de cultura y disfruta de un refrescante chapuzón en el Río de la Plata. ¡Vive la ciudad al máximo!",
+      "fr": "Participez à ce circuit à Montevideo et découvrez son histoire, son centre-ville animé et ses plages. Promenez-vous dans des rues pleines de culture et profitez d'une baignade rafraîchissante dans le Rio de la Plata - vivez la ville à fond !",
+      "it": "Partecipate a questo tour a Montevideo e scoprite la sua storia, il vivace centro città e le sue spiagge. Passeggiate per strade ricche di cultura e godetevi un tuffo rinfrescante nel Rio de la Plata: vivete la città al massimo!",
+      "pt": "Junte-se a esta excursão em Montevidéu e descubra a sua história, o vibrante centro da cidade e as suas praias. Passeie por ruas cheias de cultura e desfrute de um mergulho refrescante no Rio de la Plata - viva a cidade ao máximo!"
+    },
+    "description": {
+      "de": "Wir beginnen unseren Rundgang auf der Plaza Matriz in der Altstadt, wo wir die Ursprünge Montevideos und die Geschichten, die seine Mauern seit der Kolonialzeit erzählen, kennenlernen werden. Wir werden historische Sehenswürdigkeiten wie die Kathedrale von Montevideo, das Cabildo, die Puerta de la Ciudadela und das majestätische Solis-Theater besuchen.\r\n\r\nWir schlendern durch die Fußgängerzone Sarandí, wo Geschichte auf Moderne trifft, und erreichen die Plaza Independencia, wo wir den Wandel Montevideos von einer befestigten Stadt zu einer pulsierenden Metropole erleben.\r\n\r\nAber das ist noch nicht alles: Wie es sich für eine Stadt gehört, fahren wir mit dem Bus zur berühmten Rambla de Pocitos. \r\nHier können Sie spektakuläre Ausblicke genießen, tolle Fotos schießen und, wenn Sie möchten, am Strand von Pocitos entspannen. \r\nDer Strand von Pocitos liegt im gleichnamigen Viertel, einem der modernsten Viertel der Stadt. \r\nEin 2 km langer, weißer Sandstrand, der zum Baden geeignet ist, am Ufer des Rio de la Plata.\r\n\r\nviel mehr als eine Besichtigung, ein echtes Eintauchen in das Leben von Montevideo!\r\n\r\nDie Fahrkarten für die öffentlichen Verkehrsmittel zum und vom Strand sind nicht inbegriffen (ca. USD 3,10).",
+      "en": "We begin our tour in the Plaza Matriz, in the Old City, where we will unveil the origins of Montevideo and the stories that its walls hold since colonial times. We will visit historical landmarks such as the Cathedral of Montevideo, the Cabildo, the Gate of the Citadel and the majestic Solis Theater.\r\n\r\nWe will stroll along the Sarandí pedestrian street, where history meets modernity, and arrive at Plaza Independencia to discover Montevideo's transition from a fortified city to a vibrant metropolis.\r\n\r\nBut the experience does not end there: in true local style, we will take a bus to the famous Rambla de Pocitos. \r\nHere you can enjoy spectacular views, capture amazing photos and if you wish, relax on Pocitos beach. \r\nPocitos beach is located in the neighborhood of the same name, one of the most modern neighborhoods of the city. \r\nA beach of 2km long, white sand and suitable for bathing, on the banks of the Rio de la Plata.\r\n\r\nmuch more than a tour, a real immersion in Montevideo life!\r\n\r\nPublic transport tickets to and from the beach are not included (approx. USD 3,10).",
+      "es": "Comenzamos nuestro recorrido en la Plaza Matriz, en la Ciudad Vieja, donde desvelaremos los orígenes de Montevideo y las historias que sus muros guardan desde la época colonial. Visitaremos hitos históricos imprescindibles como la Catedral de Montevideo, el Cabildo, la Puerta de la Ciudadela y el majestuoso Teatro Solís.\r\n\r\nPasearemos por la Peatonal Sarandí, donde la historia se encuentra con la modernidad, y llegaremos a la Plaza Independencia para descubrir la transición de Montevideo, de ciudad fortificada a vibrante metrópolis.\r\n\r\nPero la experiencia no termina allí: al más puro estilo local, tomaremos un ómnibus para llegar a la famosa Rambla de Pocitos. \r\nAquí podrás disfrutar de vistas espectaculares, capturar fotos increíbles y si lo deseas, relajarte en la playa Pocitos. \r\nLa playa Pocitos está ubicada en el barrio que lleva el mismo nombre, uno de los barrios más modernos de la ciudad. \r\nUna playa de 2km de extensión, de arenas blancas y apta para baños, a orillas del Río de la Plata.\r\n\r\n¡Mucho más que un tour, una verdadera inmersión en la vida montevideana!\r\n\r\nLos boletos de transporte público ida y vuelta a la playa no están incluidos (aprox. USD 3,10).",
+      "fr": "Nous commencerons notre visite par la Plaza Matriz, dans la vieille ville, où nous découvrirons les origines de Montevideo et les histoires que ses murs renferment depuis l'époque coloniale. Nous visiterons des sites historiques tels que la cathédrale de Montevideo, le Cabildo, la Puerta de la Ciudadela et le majestueux théâtre Solis.\r\n\r\nNous nous promènerons dans la rue piétonne Sarandí, où l'histoire rencontre la modernité, et nous arriverons à la Plaza Independencia pour découvrir la transition de Montevideo d'une ville fortifiée à une métropole dynamique.\r\n\r\nMais l'expérience ne s'arrête pas là : dans le plus pur style local, nous prendrons un bus pour nous rendre sur la célèbre Rambla de Pocitos. \r\nVous pourrez y admirer des vues spectaculaires, prendre des photos étonnantes et, si vous le souhaitez, vous détendre sur la plage de Pocitos. \r\nLa plage de Pocitos est située dans le quartier du même nom, l'un des plus modernes de la ville. \r\nUne plage de sable blanc de 2 km de long, propice à la baignade, sur les rives du Rio de la Plata.\r\n\r\nbien plus qu'une visite, une véritable immersion dans la vie de Montevideo !\r\n\r\nLes billets de transport public pour se rendre à la plage et en revenir ne sont pas inclus (environ 3,10 USD).",
+      "it": "Inizieremo il nostro tour da Plaza Matriz, nella Città Vecchia, dove scopriremo le origini di Montevideo e le storie che le sue mura custodiscono fin dall'epoca coloniale. Visiteremo monumenti storici come la Cattedrale di Montevideo, il Cabildo, la Puerta de la Ciudadela e il maestoso Teatro Solis.\r\n\r\nPasseggeremo lungo la via pedonale Sarandí, dove la storia incontra la modernità, e arriveremo a Plaza Independencia per scoprire la transizione di Montevideo da città fortificata a vivace metropoli.\r\n\r\nMa l'esperienza non finisce qui: in pieno stile locale, prenderemo un autobus per raggiungere la famosa Rambla de Pocitos. \r\nQui potrete godere di viste spettacolari, scattare foto incredibili e, se lo desiderate, rilassarvi sulla spiaggia di Pocitos. \r\nLa spiaggia di Pocitos si trova nell'omonimo quartiere, uno dei più moderni della città. \r\nUna spiaggia di sabbia bianca lunga 2 km, adatta alla balneazione, sulle rive del Rio de la Plata.\r\n\r\nmolto più di un tour, una vera e propria immersione nella vita di Montevideo!\r\n\r\nI biglietti per il trasporto pubblico da e per la spiaggia non sono inclusi (circa 3,10 USD).",
+      "pt": "Começamos o nosso passeio na Plaza Matriz, na Cidade Velha, onde desvendaremos as origens de Montevidéu e as histórias que as suas paredes guardam desde os tempos coloniais. Visitaremos marcos históricos como a Catedral de Montevidéu, o Cabildo, a Puerta de la Ciudadela e o majestoso Teatro Solis.\r\n\r\nPassearemos pela rua pedonal Sarandí, onde a história se encontra com a modernidade, e chegaremos à Plaza Independencia para descobrir a transição de Montevideu de uma cidade fortificada para uma metrópole vibrante.\r\n\r\nMas a experiência não acaba aqui: ao verdadeiro estilo local, apanharemos um autocarro para a famosa Rambla de Pocitos. \r\nAqui poderá desfrutar de vistas espectaculares, tirar fotografias incríveis e, se desejar, relaxar na praia de Pocitos. \r\nA praia de Pocitos está localizada no bairro com o mesmo nome, um dos bairros mais modernos da cidade. \r\nUma praia de 2 km de comprimento, de areia branca, própria para banhos, nas margens do Rio de la Plata.\r\n\r\nmuito mais do que um passeio, uma verdadeira imersão na vida de Montevidéu!\r\n\r\nOs bilhetes de transporte público de ida e volta para a praia não estão incluídos (aprox. 3,10 USD)."
+    },
+    "providerTitle": "Marine Gomez",
+    "providerPhone": "+59894706469",
+    "URL": "https://www.freetour.com/montevideo/montevideo-historia-arena-playa?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/montevideo/montevideo-historia-arena-playa?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/montevideo/montevideo-historia-arena-playa?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/montevideo/montevideo-historia-arena-playa?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/montevideo/montevideo-historia-arena-playa?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/montevideo/montevideo-historia-arena-playa?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/montevideo/montevideo-historia-arena-playa?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Cabildo de Montevideo",
+      "coordinates": "-34.9065819,-56.2028414",
+      "googlePlaceId": "ChIJcxxm939_n5UR29ZafzvgVjQ"
+    },
+    "cityId": 4553,
+    "countryId": 163,
+    "includes": [
+      "Gateway of the Citadel",
+      "Plaza Independencia",
+      "Museo Histórico Cabildo de Montevideo",
+      "Salvo Palace",
+      "Playa Pocitos",
+      "Fuente De La Plaza Matriz",
+      "Solis Theater"
+    ],
+    "POIs": [
+      {
+        "id": 1268,
+        "title": "Gateway of the Citadel",
+        "googlePlaceId": "ChIJ4c4Q_iqAn5URxUfoPSBGWLk"
+      },
+      {
+        "id": 19182,
+        "title": "Plaza Independencia",
+        "googlePlaceId": "ChIJ6fw_AE6Bn5UR5esE0k4llW8"
+      },
+      {
+        "id": 3509,
+        "title": "Museo Histórico Cabildo de Montevideo",
+        "googlePlaceId": "ChIJD4Y8eiqAn5URHVbwCywsNMA"
+      },
+      {
+        "id": 5557,
+        "title": "Salvo Palace",
+        "googlePlaceId": "ChIJIbJTZyuAn5URpgUPhjnrVzI"
+      },
+      {
+        "id": 34020,
+        "title": "Playa Pocitos",
+        "googlePlaceId": "ChIJJ_udc3KBn5UR-nZQA2S63pY"
+      },
+      {
+        "id": 34019,
+        "title": "Fuente De La Plaza Matriz",
+        "googlePlaceId": "ChIJlwZDeCqAn5UR19RqKphsn_w"
+      },
+      {
+        "id": 11771,
+        "title": "Solis Theater",
+        "googlePlaceId": "ChIJy-0n3yqAn5URih5a8wS4zek"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/83469/-374-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 288091,
+        "URL": "https://www.freetour.com/images/tours/83469/-374-01.jpg"
+      },
+      {
+        "id": 288092,
+        "URL": "https://www.freetour.com/images/tours/83469/-374-02.jpg"
+      },
+      {
+        "id": 288094,
+        "URL": "https://www.freetour.com/images/tours/83469/-374-04.jpg"
+      },
+      {
+        "id": 288095,
+        "URL": "https://www.freetour.com/images/tours/83469/-374-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

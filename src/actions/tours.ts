@@ -7,44 +7,11 @@ import {
   getCountriesWithTourCount,
   getCitiesWithTourCount,
   getToursMetadata,
-  type TourFilters,
-} from '@/lib/db/repositories/tour-repository';
-import { syncToursFromAPI } from '@/lib/db/sync/tour-sync';
+} from '@/lib/db/repositories/json-tour-repository';
+import type { TourFilters } from '@/lib/db/json-pagination';
+import { syncToursFromAPI } from '@/lib/db/sync/json-tour-sync';
 import { freeTourClient } from '@/lib/api/freetour-client';
 import type { PaginationParams } from '@/lib/db/pagination';
-
-/**
- * Serialize Prisma Decimals and Dates to plain values for client components
- */
-function serializeDecimals<T>(obj: T): T {
-  if (obj === null || obj === undefined) return obj;
-  
-  // Check if it's a Decimal by looking for toNumber method
-  if (typeof obj === 'object' && 'toNumber' in obj && typeof obj.toNumber === 'function') {
-    return obj.toNumber() as T;
-  }
-  
-  // Convert Date to ISO string
-  if (obj instanceof Date) {
-    return obj.toISOString() as T;
-  }
-  
-  if (Array.isArray(obj)) {
-    return obj.map(serializeDecimals) as T;
-  }
-  
-  if (typeof obj === 'object') {
-    const serialized: Record<string, unknown> = {};
-    for (const key in obj) {
-      if (Object.prototype.hasOwnProperty.call(obj, key)) {
-        serialized[key] = serializeDecimals(obj[key]);
-      }
-    }
-    return serialized as T;
-  }
-  
-  return obj;
-}
 
 /**
  * Fetch tours with filters and pagination
@@ -55,9 +22,8 @@ export async function fetchTours(
 ) {
   try {
     const result = await getToursWithFilters(filters, pagination);
-    const serialized = serializeDecimals(result);
-    // Final JSON round-trip to ensure everything is plain objects
-    return JSON.parse(JSON.stringify(serialized));
+    // JSON data is already serialized, just ensure it's plain objects
+    return JSON.parse(JSON.stringify(result));
   } catch (error) {
     console.error('Error fetching tours:', error);
     throw new Error('Failed to fetch tours');
@@ -70,8 +36,7 @@ export async function fetchTours(
 export async function fetchTourById(tourId: string, language: string = 'en') {
   try {
     const result = await getTourById(tourId, language);
-    const serialized = serializeDecimals(result);
-    return JSON.parse(JSON.stringify(serialized));
+    return result ? JSON.parse(JSON.stringify(result)) : null;
   } catch (error) {
     console.error('Error fetching tour:', error);
     throw new Error('Failed to fetch tour');
@@ -84,8 +49,7 @@ export async function fetchTourById(tourId: string, language: string = 'en') {
 export async function fetchTourByExternalId(externalId: number, language: string = 'en') {
   try {
     const result = await getTourByExternalId(externalId, language);
-    const serialized = serializeDecimals(result);
-    return JSON.parse(JSON.stringify(serialized));
+    return result ? JSON.parse(JSON.stringify(result)) : null;
   } catch (error) {
     console.error('Error fetching tour by external ID:', error);
     throw new Error('Failed to fetch tour');
@@ -98,8 +62,7 @@ export async function fetchTourByExternalId(externalId: number, language: string
 export async function fetchCountries(language: string = 'en') {
   try {
     const result = await getCountriesWithTourCount(language);
-    const serialized = serializeDecimals(result);
-    return JSON.parse(JSON.stringify(serialized));
+    return JSON.parse(JSON.stringify(result));
   } catch (error) {
     console.error('Error fetching countries:', error);
     throw new Error('Failed to fetch countries');
@@ -112,8 +75,7 @@ export async function fetchCountries(language: string = 'en') {
 export async function fetchCities(countryId?: number, language: string = 'en') {
   try {
     const result = await getCitiesWithTourCount(countryId, language);
-    const serialized = serializeDecimals(result);
-    return JSON.parse(JSON.stringify(serialized));
+    return JSON.parse(JSON.stringify(result));
   } catch (error) {
     console.error('Error fetching cities:', error);
     throw new Error('Failed to fetch cities');
@@ -157,7 +119,7 @@ export async function fetchToursMetadata() {
 }
 
 /**
- * Sync tours from FreeTour API to database
+ * Sync tours from FreeTour API to JSON files
  * This should be called manually or via a cron job
  */
 export async function syncTours(maxPages?: number) {

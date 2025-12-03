@@ -1,0 +1,174 @@
+[
+  {
+    "id": 52565,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Mbabane City Tour",
+      "es": "Visita a la ciudad de Mbabane",
+      "pt": "Visita à cidade de Mbabane",
+      "de": "Mbabane Stadtrundfahrt",
+      "fr": "Visite de la ville de Mbabane",
+      "it": "Tour della città di Mbabane"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf einen fesselnden Spaziergang durch die Hauptstadt des Königreichs Eswatini! Entdecken Sie die reiche Geschichte der Stadt, probieren Sie die lokale Küche und entdecken Sie Kunst und Handwerk. Lassen Sie uns gemeinsam die Schätze entdecken.",
+      "en": "Join us for a captivating stroll through the capital city of the Kingdom of Eswatini! Discover its rich history, savor local cuisine, and explore arts and crafts. Let's uncover the treasures together.",
+      "es": "Acompáñenos en un cautivador paseo por la capital del Reino de Eswatini Descubra su rica historia, saboree la gastronomía local y explore su artesanía. Descubramos juntos sus tesoros.",
+      "fr": "Rejoignez-nous pour une promenade captivante dans la capitale du Royaume d'Eswatini ! Découvrez sa riche histoire, savourez la cuisine locale et explorez l'art et l'artisanat. Découvrons ensemble les trésors de la ville.",
+      "it": "Unitevi a noi in un'affascinante passeggiata nella capitale del Regno di Eswatini! Scoprite la sua ricca storia, assaporate la cucina locale ed esplorate le arti e i mestieri. Scopriamo insieme i suoi tesori.",
+      "pt": "Junte-se a nós para um passeio cativante pela capital do Reino de Eswatini! Descubra a sua rica história, saboreie a gastronomia local e explore as artes e ofícios. Vamos descobrir os tesouros juntos."
+    },
+    "description": {
+      "de": "Dies ist eine halbtägige Tour, bei der man nicht nur die Stadt selbst sieht, sondern auch die Menschen kennenlernt. \r\n\r\nSpazieren Sie durch die Stadt, besuchen Sie das Einkaufszentrum, die Bushaltestelle, die traditionelle Swazi-Apotheke und das Zentrum für Kunsthandwerk und setzen Sie sich dann zu einem leckeren Frühstück der Swazi-Küche. Nachdem Sie die Stadt erkundet haben, nehmen Sie ein Taxi zu einem nahe gelegenen Township und machen dort einen Spaziergang.",
+      "en": "This is a half a day tour where not only does one get to see the city it self but meet the people at the same time. \r\n\r\nWalk around the city in the mall, bus rank, Swazi traditional pharmacy, and arts and crafts center, and then sit for a nice breakfast of Swazi cuisine. After all.is done in the city, retake a local taxi to a nearby township and have a walk there.",
+      "es": "Se trata de una excursión de medio día en la que no sólo se ve la ciudad en sí, sino que al mismo tiempo se conoce a su gente. \r\n\r\nPasee por el centro comercial, la parada de autobús, la farmacia tradicional suazi y el centro de artesanía, y después disfrute de un buen desayuno de cocina suazi. Una vez hecho todo en la ciudad, tomar un taxi local hasta un municipio cercano y dar un paseo por allí.",
+      "fr": "Il s'agit d'une excursion d'une demi-journée qui permet non seulement de découvrir la ville, mais aussi de rencontrer ses habitants. \r\n\r\nPromenez-vous dans le centre commercial, la gare routière, la pharmacie traditionnelle swazie et le centre d'art et d'artisanat, puis prenez un bon petit-déjeuner de cuisine swazie. Après avoir fait le tour de la ville, prenez un taxi local pour vous rendre dans un township voisin et allez vous y promener.",
+      "it": "Si tratta di un tour di mezza giornata in cui non solo si può vedere la città in sé, ma anche incontrare la gente. \r\n\r\nPasseggiate per la città nel centro commerciale, nella stazione degli autobus, nella farmacia tradizionale swazi e nel centro di arti e mestieri, e poi sedetevi per una bella colazione a base di cucina swazi. Una volta terminata la visita della città, prendete un taxi locale per raggiungere una vicina township e fate una passeggiata.",
+      "pt": "Esta é uma excursão de meio dia onde não só se pode ver a cidade em si, mas também conhecer as pessoas ao mesmo tempo. \r\n\r\nPasseie pela cidade, pelo centro comercial, pela paragem de autocarros, pela farmácia tradicional suazi e pelo centro de artes e ofícios, e depois sente-se para tomar um bom pequeno-almoço de cozinha suazi. Depois de tudo o que foi feito na cidade, apanhe um táxi local para um município vizinho e dê um passeio até lá."
+    },
+    "providerTitle": "Mkhonta Lu",
+    "providerPhone": "0026879603019",
+    "URL": "https://www.freetour.com/mbabane/mbabane-city-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mbabane/mbabane-city-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mbabane/mbabane-city-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mbabane/mbabane-city-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mbabane/mbabane-city-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mbabane/mbabane-city-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mbabane/mbabane-city-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 20,
+      "currency": "EUR"
+    },
+    "length": "3:30",
+    "meetingPoint": {
+      "title": "Mbabane market parking lot",
+      "coordinates": "-26.3268184,31.14369409999999",
+      "googlePlaceId": "ChIJtULQEunO6B4RKMQwafdqhz0"
+    },
+    "cityId": 5025,
+    "countryId": 149,
+    "includes": [
+      "Mbabane Craft Market",
+      "Guided tour",
+      "Food tasting ",
+      "Local taxi transportation "
+    ],
+    "POIs": [
+      {
+        "id": 20235,
+        "title": "Mbabane Craft Market",
+        "googlePlaceId": "ChIJF2_6wujO6B4RfDJARYUhYhU"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/52565/mbabane-city-tour-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 179703,
+        "URL": "https://www.freetour.com/images/tours/52565/mbabane-city-tour-02.jpg"
+      },
+      {
+        "id": 179704,
+        "URL": "https://www.freetour.com/images/tours/52565/mbabane-city-tour-03.jpg"
+      },
+      {
+        "id": 179705,
+        "URL": "https://www.freetour.com/images/tours/52565/mbabane-city-tour-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 60224,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Hiking Malolotja for Less than an Hour",
+      "es": "Senderismo por Malolotja en Menos de una Hora",
+      "pt": "Caminhada em Malolotja em menos de uma hora",
+      "de": "Wandern in Malolotja in weniger als einer Stunde",
+      "fr": "Randonnée à Malolotja en moins d'une heure",
+      "it": "Escursione a Malolotja in meno di un'ora"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf einer einstündigen Tour durch den Malolotja-Nationalpark! Entdecken Sie die Ngwenya-Mine, den Malolotja-See, die Ngwenya-Löwenhöhle und die atemberaubenden Malolotja-Berge. Entdecken Sie die Schönheit und Geschichte dieses unglaublichen Parks. Verpassen Sie es nicht!",
+      "en": "Join us for a one-hour tour of Malolotja National Park! Discover the Ngwenya Mine, Malolotja Lake, Ngwenya Lion Cave, and the stunning Malolotja mountains. Uncover the beauty and history of this incredible park. Don't miss it!",
+      "es": "Acompáñenos en una excursión de una hora por el Parque Nacional de Malolotja Descubra la mina Ngwenya, el lago Malolotja, la cueva del león Ngwenya y las impresionantes montañas Malolotja. Descubra la belleza y la historia de este increíble parque. ¡No se lo pierda!",
+      "fr": "Rejoignez-nous pour une visite d'une heure du parc national de Malolotja ! Découvrez la mine de Ngwenya, le lac Malolotja, la grotte du lion de Ngwenya et les magnifiques montagnes de Malolotja. Découvrez la beauté et l'histoire de ce parc incroyable. À ne pas manquer !",
+      "it": "Unitevi a noi in un tour di un'ora del Parco Nazionale di Malolotja! Scoprite la miniera di Ngwenya, il lago Malolotja, la grotta del leone di Ngwenya e le splendide montagne di Malolotja. Scoprite la bellezza e la storia di questo incredibile parco. Da non perdere!",
+      "pt": "Junte-se a nós para uma excursão de uma hora ao Parque Nacional de Malolotja! Descubra a Mina de Ngwenya, o Lago Malolotja, a Gruta do Leão de Ngwenya e as deslumbrantes montanhas de Malolotja. Descubra a beleza e a história deste incrível parque. Não perca!"
+    },
+    "description": {
+      "de": "Wir beginnen mit der Besichtigung von Ngwenya Glass.\r\nWir werden dann bergauf von Ngwenya Glas in Richtung Malolotja National Park etwa 10 Minuten oder weniger zu Fuß gehen.\r\nWir werden dann Malolotja National Park eingeben. Spaziergang durch den Park \r\nDann treffen wir auf die Ngwenya-Mine, in der wir natürliche Kohlesteine sehen werden.\r\nDanach sehen wir den Malolotja-See und einige schöne Kohleberge.\r\nDanach geht es weiter zur Ngwenya Löwenhöhle\r\nZum Abschluss sehen wir uns die schöne Berglandschaft rund um die Höhle an.",
+      "en": "We will start with touring Ngwenya glass.\r\nWe will then walk uphill from Ngwenya Glass towards Malolotja National Park about a 10-minute or less walk.\r\nWe will then enter Malolotja National Park. Walk through it \r\nWe will then encounter the Ngwenya mine where we will see natural coal stones.\r\nWe will then proceed to see the Malolotja lake and some beautiful mountains of coal.\r\nWe will then proceed again to see the Ngwenya Lion cave\r\nAnd we will close by looking at the beautiful mountain landscape around the cave.",
+      "es": "Empezaremos recorriendo Ngwenya Glass.\r\nA continuación, caminaremos cuesta arriba desde Ngwenya Glass hacia el Parque Nacional de Malolotja, unos 10 minutos o menos.\r\nA continuación entraremos en el Parque Nacional de Malolotja. Caminaremos por él \r\nA continuación nos encontraremos con la mina de Ngwenya, donde veremos piedras de carbón natural.\r\nA continuación veremos el lago Malolotja y unas hermosas montañas de carbón.\r\nVolveremos a ver la cueva del león de Ngwenya\r\nY terminaremos contemplando el hermoso paisaje montañoso que rodea la cueva.",
+      "fr": "Nous commencerons par visiter le verre de Ngwenya.\r\nNous monterons ensuite de Ngwenya Glass vers le parc national de Malolotja, ce qui représente une marche d'environ 10 minutes.\r\nNous entrerons ensuite dans le parc national de Malolotja. Traverser le parc \r\nNous rencontrerons ensuite la mine de Ngwenya, où nous verrons des pierres de charbon naturelles.\r\nNous verrons ensuite le lac Malolotja et quelques belles montagnes de charbon.\r\nNous irons ensuite voir la grotte du lion de Ngwenya\r\nEt nous terminerons en regardant le magnifique paysage montagneux autour de la grotte.",
+      "it": "Inizieremo con la visita al Ngwenya Glass.\r\nDa Ngwenya Glass saliremo poi verso il Parco nazionale di Malolotja, con una passeggiata di circa 10 minuti.\r\nEntreremo quindi nel Parco nazionale di Malolotja. Attraversarlo a piedi \r\nIncontreremo poi la miniera di Ngwenya, dove vedremo pietre di carbone naturale.\r\nProseguiremo poi per vedere il lago Malolotja e alcune belle montagne di carbone.\r\nProseguiremo poi per vedere la grotta dei leoni di Ngwenya\r\nE chiuderemo osservando il bellissimo paesaggio montano intorno alla grotta.",
+      "pt": "Começaremos por visitar o vidro Ngwenya.\r\nDepois, subiremos a colina de Ngwenya Glass em direção ao Parque Nacional de Malolotja, numa caminhada de cerca de 10 minutos ou menos.\r\nEm seguida, entraremos no Parque Nacional de Malolotja. Caminhar através dele \r\nDe seguida, encontraremos a mina de Ngwenya, onde veremos pedras de carvão naturais.\r\nDe seguida, veremos o lago Malolotja e algumas belas montanhas de carvão.\r\nEm seguida, prosseguiremos novamente para ver a caverna do Leão de Ngwenya\r\nE terminaremos com uma bela paisagem montanhosa à volta da gruta."
+    },
+    "providerTitle": "Michael",
+    "providerPhone": "+27651095591",
+    "URL": "https://www.freetour.com/mbabane/hiking-malolotja-for-less-than-an-hour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mbabane/hiking-malolotja-for-less-than-an-hour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mbabane/hiking-malolotja-for-less-than-an-hour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mbabane/hiking-malolotja-for-less-than-an-hour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mbabane/hiking-malolotja-for-less-than-an-hour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mbabane/hiking-malolotja-for-less-than-an-hour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mbabane/hiking-malolotja-for-less-than-an-hour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 25,
+      "currency": "EUR"
+    },
+    "length": "1:00",
+    "meetingPoint": {
+      "title": "Ngwenya Glass Eswatini",
+      "coordinates": "-26.222058,31.0311897",
+      "googlePlaceId": "ChIJP-Qj-ILb6B4Ro0REA22jr3A"
+    },
+    "cityId": 5025,
+    "countryId": 149,
+    "includes": [
+      "Lion Cavern Ngwenya",
+      "Ngwenya Glass - Eswatini",
+      "Malolotja Nature Reserve",
+      "Entrance ticket "
+    ],
+    "POIs": [
+      {
+        "id": 24819,
+        "title": "Lion Cavern Ngwenya",
+        "googlePlaceId": "ChIJbyTHLF7c6B4R33K6HCfLJ5M"
+      },
+      {
+        "id": 24794,
+        "title": "Ngwenya Glass - Eswatini",
+        "googlePlaceId": "ChIJP-Qj-ILb6B4Ro0REA22jr3A"
+      },
+      {
+        "id": 24818,
+        "title": "Malolotja Nature Reserve",
+        "googlePlaceId": "ChIJp9tfRJPD6B4RJoC7qykbL1A"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/60224/hiking-malolotja-for-less-than-an-hour-03.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 209000,
+        "URL": "https://www.freetour.com/images/tours/60224/hiking-malolotja-for-less-than-an-hour-03.jpg"
+      },
+      {
+        "id": 209002,
+        "URL": "https://www.freetour.com/images/tours/60224/hiking-malolotja-for-less-than-an-hour-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

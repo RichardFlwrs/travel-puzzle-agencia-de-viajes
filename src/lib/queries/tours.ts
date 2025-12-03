@@ -11,7 +11,7 @@ import {
   fetchToursMetadata,
   syncTours,
 } from '@/actions/tours';
-import type { TourFilters } from '@/lib/db/repositories/tour-repository';
+import type { TourFilters } from '@/lib/db/json-pagination';
 import type { PaginationParams } from '@/lib/db/pagination';
 import { Tour, CountryWithTranslations } from '@/types';
 

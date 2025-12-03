@@ -1,0 +1,683 @@
+[
+  {
+    "id": 44210,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Welcome to Bejuma",
+      "es": "Bienvenidos a Bejuma",
+      "pt": "Bem-vindo a Bejuma",
+      "de": "Willkommen bei Bejuma",
+      "fr": "Bienvenue à Bejuma",
+      "it": "Benvenuti a Bejuma"
+    },
+    "brief": {
+      "de": "Erkunden und genießen Sie Bejuma und seine Umgebung mit unserem umfassenden Reiseführer. Entdecken, kaufen Sie Souvenirs und entspannen Sie sich in dieser charmanten Stadt. Treffen Sie einheimische Persönlichkeiten und knüpfen Sie unvergessliche Freundschaften.",
+      "en": "Explore and enjoy Bejuma and its surroundings with our complete guide. Discover, buy souvenirs and relax in this charming town. Meet local personalities and forge unforgettable friendships.",
+      "es": "Explora y disfruta de Bejuma y sus alrededores con nuestra completa guía. Descubre, compra souvenirs y relájate en este encantador pueblo. Conoce a personalidades locales y forja amistades inolvidables.",
+      "fr": "Explorez et appréciez Bejuma et ses environs grâce à notre guide complet. Découvrez, achetez des souvenirs et détendez-vous dans cette charmante ville. Rencontrez des personnalités locales et nouez des amitiés inoubliables.",
+      "it": "Esplorate e godetevi Bejuma e i suoi dintorni con la nostra guida completa. Scoprite, acquistate souvenir e rilassatevi in questa affascinante città. Incontrate personalità locali e stringete amicizie indimenticabili.",
+      "pt": "Explore e desfrute de Bejuma e dos seus arredores com o nosso guia completo. Descubra, compre lembranças e relaxe nesta cidade encantadora. Conheça as personalidades locais e faça amizades inesquecíveis."
+    },
+    "description": {
+      "de": "Tauchen Sie in neue Kulturen ein und schließen Sie Freundschaften, die ein Leben lang halten werden. Genießen Sie gemütliche Spaziergänge und atmen Sie die frische Luft ein, während Sie in einem angenehmen Klima schwelgen, das Sie fesseln und entspannen wird. \r\n\r\nAußerdem bieten wir Touren mit Virtual-Reality-Brillen an und passen uns Ihren Bedürfnissen an. Auch wenn Sie wenig Zeit haben, kommen Sie und entdecken Sie mit uns eine Welt voller unvergesslicher Erlebnisse.",
+      "en": "Immerse yourself in new cultures and forge friendships that will last a lifetime. Enjoy leisurely strolls and breathe in the fresh air as you delight in a pleasant climate that will captivate and relax you. \r\n\r\nIn addition, we offer tours with virtual reality glasses and we adapt to your needs, even if you are short on time, come and discover a world of unforgettable experiences with us.",
+      "es": "Sumérgete en nuevas culturas y forja amistades que perdurarán toda la vida. Disfruta de paseos tranquilos y respira el aire fresco mientras te deleitas con un clima agradable que te cautivará y relajará. \r\n\r\nAdemás, ofrecemos tours con lentes de realidad virtual y nos adaptamos a tus necesidades, incluso si tienes poco tiempo. ¡Ven y descubre un mundo de experiencias inolvidables con nosotros.",
+      "fr": "Immergez-vous dans de nouvelles cultures et forgez des amitiés qui dureront toute votre vie. Profitez de promenades tranquilles et respirez l'air frais en vous délectant d'un climat agréable qui vous captivera et vous détendra. \r\n\r\nDe plus, nous proposons des visites avec des lunettes de réalité virtuelle et nous nous adaptons à vos besoins, même si vous manquez de temps, venez découvrir avec nous un monde d'expériences inoubliables.",
+      "it": "Immergetevi in nuove culture e stringete amicizie che dureranno per tutta la vita. Godetevi le passeggiate e respirate l'aria fresca in un clima piacevole che vi affascinerà e vi rilasserà. \r\n\r\nInoltre, offriamo tour con occhiali per la realtà virtuale e ci adattiamo alle vostre esigenze, anche se avete poco tempo, venite a scoprire con noi un mondo di esperienze indimenticabili.",
+      "pt": "Mergulhe em novas culturas e forje amizades que durarão para toda a vida. Desfrute de passeios de lazer e respire o ar fresco enquanto desfruta de um clima agradável que o vai cativar e relaxar. \r\n\r\nOferecemos também passeios com óculos de realidade virtual e adaptamo-nos às suas necessidades, mesmo que tenha pouco tempo, venha descobrir connosco um mundo de experiências inesquecíveis."
+    },
+    "providerTitle": "Josmer tour",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/caracas/bienvenidos-a-bejuma?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/caracas/bienvenidos-a-bejuma?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/caracas/bienvenidos-a-bejuma?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/caracas/bienvenidos-a-bejuma?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/caracas/bienvenidos-a-bejuma?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/caracas/bienvenidos-a-bejuma?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/caracas/bienvenidos-a-bejuma?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 5,
+      "currency": "EUR"
+    },
+    "length": "1:00",
+    "meetingPoint": {
+      "title": "Bejuma",
+      "coordinates": "10.1771427,-68.2594012",
+      "googlePlaceId": "ChIJ5YNSeIqMgI4Rjr9NmlMuo9I"
+    },
+    "cityId": 4710,
+    "countryId": 168,
+    "includes": [
+      "bejuma",
+      "Water, snacks"
+    ],
+    "POIs": [
+      {
+        "id": 12849,
+        "title": "bejuma",
+        "googlePlaceId": "ChIJr5pY0TZjgI4RcVK2qWi4m3g"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/44210/welcome-to-bejuma-bienvenidos-a-bejuma-01.jpg",
+    "categoryId": 13,
+    "images": [
+      {
+        "id": 144250,
+        "URL": "https://www.freetour.com/images/tours/44210/welcome-to-bejuma-bienvenidos-a-bejuma-01.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 49408,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Get to Know Pampatar",
+      "es": "Conoce Pampatar",
+      "pt": "Conhecer o Pampatar",
+      "de": "Lernen Sie Pampatar kennen",
+      "fr": "Connaître Pampatar",
+      "it": "Conoscere Pampatar"
+    },
+    "brief": {
+      "de": "Begeben Sie sich auf eine einzigartige Tour durch die Stadt Pampatar. Entdecken Sie die charmante Burg über der Bucht, bewundern Sie das kristallklare Wasser von einem Hügel aus und besuchen Sie den imposanten Leuchtturm von Punta Ballena. Begleiten Sie uns und erleben Sie ein unvergessliches Erlebnis.",
+      "en": "Embark on a unique tour of the city of Pampatar. Discover its charming castle overlooking the bay, admire the crystal-clear waters from a hill, and visit the imposing Punta Ballena Lighthouse. Join us and live an unforgettable experience.",
+      "es": "Embárcate en un recorrido único por la ciudad de Pampatar. Descubre su encantador castillo con vista a la bahía, admira las aguas cristalinas desde un cerro y visita el imponente Faro de Punta Ballena. Únete a nosotros ahora.",
+      "fr": "Embarquez pour une visite unique de la ville de Pampatar. Découvrez son charmant château surplombant la baie, admirez les eaux cristallines depuis une colline et visitez l'imposant phare de Punta Ballena. Rejoignez-nous et vivez une expérience inoubliable.",
+      "it": "Partite per un tour unico della città di Pampatar. Scoprite il suo affascinante castello che domina la baia, ammirate le acque cristalline da una collina e visitate l'imponente Faro di Punta Ballena. Unitevi a noi e vivete un'esperienza indimenticabile.",
+      "pt": "Embarque num passeio único pela cidade de Pampatar. Descubra o seu encantador castelo com vista para a baía, admire as águas cristalinas a partir de uma colina e visite o imponente Farol de Punta Ballena. Junte-se a nós e viva uma experiência inesquecível."
+    },
+    "description": {
+      "de": "Begeben Sie sich auf eine faszinierende Reise, um die historischen Schätze der Insel Margarita zu entdecken. Beginnen Sie mit der Erkundung der majestätischen Burg San Carlos de Borromeo, einem Zeugnis vergangener Epochen. Bewundern Sie die Schönheit der Christuskirche von Buen Viaje, eine spirituelle Enklave, die Sie in den kulturellen Reichtum der Insel eintauchen lässt.\r\n\r\nAnschließend erklimmen Sie einen Hügel, um eine beeindruckende Kanonenbatterie zu sehen, die strategisch zur Verteidigung der Stadt aufgestellt wurde. Bestaunen Sie die Größe des Leuchtturms von Punta Ballena, der mit seinen 30 Metern Höhe beeindruckt. Von diesem Punkt aus haben Sie einen 360-Grad-Panoramablick bis zum östlichen Ende der Insel Margarita.\r\n\r\nJeder Winkel erzählt eine Geschichte, und dieses Erlebnis lässt Sie in die Vergangenheit eintauchen, während Sie die natürliche Schönheit der Insel bewundern. Verpassen Sie nicht die Gelegenheit, diese symbolträchtigen Orte zu erkunden, die Margarita zu einem unvergesslichen Reiseziel machen.",
+      "en": "Embark on a fascinating journey to discover the historical treasures of Margarita Island. Begin by exploring the majestic San Carlos de Borromeo Castle, a witness to bygone eras. Admire the beauty of the Church of Christ of Buen Viaje, a spiritual enclave that will immerse you in the cultural wealth of the island.\r\n\r\nNext, climb a hill to find an impressive battery of cannons strategically positioned for the defense of the city. Contemplate the grandeur of the Punta Ballena Lighthouse, with its imposing 30 meters high. From this point, enjoy a 360-degree panoramic view, reaching the eastern end of Margarita Island.\r\n\r\nEvery corner tells a story, and this experience will allow you to immerse yourself in the past while marveling at the natural beauty of the island. Don't miss the opportunity to explore these emblematic places that make Margarita an unforgettable destination.",
+      "es": "Embárquese en un viaje fascinante para descubrir los tesoros históricos de la Isla de Margarita. Comience explorando el majestuoso Castillo de San Carlos de Borromeo, testigo de épocas pasadas. Admira la belleza de la Iglesia del Cristo del Buen Viaje, un enclave espiritual que te sumergirá en la riqueza cultural de la isla.\r\n\r\nA continuación, sube una colina para encontrar una impresionante batería de cañones estratégicamente ubicados para la defensa de la ciudad. Contempla la grandeza del Faro de Punta Ballena, con sus imponentes 30 metros de altura. Desde este punto, disfrute de una vista panorámica de 360 grados, llegando al extremo oriental de la Isla de Margarita.\r\n\r\nCada rincón cuenta una historia, y esta experiencia te permitirá sumergirte en el pasado mientras te maravillas con la belleza natural de la isla. No pierdas la oportunidad de explorar estos lugares emblemáticos que hacen de Margarita un destino inolvidable.",
+      "fr": "Embarquez pour un voyage fascinant à la découverte des trésors historiques de l'île de Margarita. Commencez par explorer le majestueux château de San Carlos de Borromeo, témoin d'époques révolues. Admirez la beauté de l'église du Christ du Buen Viaje, une enclave spirituelle qui vous plongera dans la richesse culturelle de l'île.\r\n\r\nGravissez ensuite une colline pour découvrir une impressionnante batterie de canons stratégiquement positionnée pour la défense de la ville. Contemplez la grandeur du phare de Punta Ballena, avec son imposante hauteur de 30 mètres. De là, vous pourrez profiter d'une vue panoramique à 360 degrés, jusqu'à l'extrémité orientale de l'île de Margarita.\r\n\r\nChaque recoin raconte une histoire, et cette expérience vous permettra de vous plonger dans le passé tout en vous émerveillant de la beauté naturelle de l'île. Ne manquez pas l'occasion d'explorer ces lieux emblématiques qui font de Margarita une destination inoubliable.",
+      "it": "Intraprendete un viaggio affascinante alla scoperta dei tesori storici dell'isola di Margarita. Iniziate esplorando il maestoso Castello di San Carlos de Borromeo, testimone di epoche passate. Ammirate la bellezza della Chiesa di Cristo del Buen Viaje, un'enclave spirituale che vi farà immergere nella ricchezza culturale dell'isola.\r\n\r\nSalite poi su una collina per trovare un'impressionante batteria di cannoni posizionati strategicamente per la difesa della città. Ammirate l'imponenza del Faro di Punta Ballena, con i suoi 30 metri di altezza. Da questo punto si gode di una vista panoramica a 360 gradi, che raggiunge l'estremità orientale dell'isola di Margarita.\r\n\r\nOgni angolo racconta una storia e questa esperienza vi permetterà di immergervi nel passato ammirando le bellezze naturali dell'isola. Non perdete l'occasione di esplorare questi luoghi emblematici che fanno di Margarita una destinazione indimenticabile.",
+      "pt": "Embarque numa viagem fascinante para descobrir os tesouros históricos da Ilha Margarita. Comece por explorar o majestoso Castelo de San Carlos de Borromeo, uma testemunha de eras passadas. Admire a beleza da Igreja de Cristo de Buen Viaje, um enclave espiritual que o mergulhará na riqueza cultural da ilha.\r\n\r\nEm seguida, suba uma colina para encontrar uma impressionante bateria de canhões estrategicamente posicionados para a defesa da cidade. Contemplar a grandeza do Farol de Punta Ballena, com os seus imponentes 30 metros de altura. Deste ponto, desfruta-se de uma vista panorâmica de 360 graus, alcançando o extremo oriental da Ilha Margarita.\r\n\r\nCada canto conta uma história, e esta experiência permitir-lhe-á mergulhar no passado enquanto se maravilha com a beleza natural da ilha. Não perca a oportunidade de conhecer estes lugares emblemáticos que fazem de Margarita um destino inesquecível."
+    },
+    "providerTitle": "Victor Rebolledo",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/margarita-island/get-to-know-pampatar?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/margarita-island/get-to-know-pampatar?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/margarita-island/get-to-know-pampatar?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/margarita-island/get-to-know-pampatar?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/margarita-island/get-to-know-pampatar?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/margarita-island/get-to-know-pampatar?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/margarita-island/get-to-know-pampatar?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 10,
+      "currency": "EUR"
+    },
+    "length": "1:00",
+    "meetingPoint": {
+      "title": "Sambil",
+      "coordinates": "10.9965679,-63.8124103",
+      "googlePlaceId": "ChIJgyHup3Fg140RPLGkGAJqPnA"
+    },
+    "cityId": 4714,
+    "countryId": 168,
+    "includes": [
+      "San Carlos de Borromeo Fortress(Castillo de Pampatar)",
+      "Punta Ballena",
+      "Santuario del Santisimo \"Cristo del Buen Viaje\"",
+      "C.C Sambil (Margarita)",
+      "Traslado en auto"
+    ],
+    "POIs": [
+      {
+        "id": 17792,
+        "title": "San Carlos de Borromeo Fortress(Castillo de Pampatar)",
+        "googlePlaceId": "ChIJf3Q7r7yPMYwRJz1cvQpiwPY"
+      },
+      {
+        "id": 17797,
+        "title": "Punta Ballena",
+        "googlePlaceId": "ChIJPSd94o6PMYwRqWqiEg05bB0"
+      },
+      {
+        "id": 17793,
+        "title": "Santuario del Santisimo \"Cristo del Buen Viaje\"",
+        "googlePlaceId": "ChIJUUFvWLuPMYwR3GPa7ArP10o"
+      },
+      {
+        "id": 17807,
+        "title": "C.C Sambil (Margarita)",
+        "googlePlaceId": "ChIJSYTrwa2PMYwRIT5RtEdxaQY"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-03.jpg",
+    "categoryId": 9,
+    "images": [
+      {
+        "id": 165941,
+        "URL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-03.jpg"
+      },
+      {
+        "id": 165944,
+        "URL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-06.jpg"
+      },
+      {
+        "id": 165946,
+        "URL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-08.jpg"
+      },
+      {
+        "id": 165945,
+        "URL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-07.jpg"
+      },
+      {
+        "id": 165942,
+        "URL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-04.jpg"
+      },
+      {
+        "id": 165943,
+        "URL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-05.jpg"
+      },
+      {
+        "id": 165956,
+        "URL": "https://www.freetour.com/images/tours/49408/conoce-pampatar-09.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 52135,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "Free Tour through the Historic Center of Caracas",
+      "es": "Free Tour por el Centro Histórico de Caracas",
+      "pt": "Visita gratuita ao centro histórico de Caracas",
+      "de": "Kostenlose Führung durch das historische Zentrum von Caracas",
+      "fr": "Visite gratuite du centre historique de Caracas",
+      "it": "Visita gratuita del centro storico di Caracas"
+    },
+    "brief": {
+      "de": "Kommen Sie mit mir, um die Geheimnisse des historischen Zentrums von Caracas zu entdecken.\r\nSie werden von einem spezialisierten Führer aus lokaler Sicht geführt, der Ihnen die Geschichte, die Legenden und die wichtigsten Fakten der Stadt näherbringt.\r\n\r\n",
+      "en": "Come with me to discover the secrets of the historic center of Caracas.\r\nWe will take you by the hand of a specialized guide from a more local point of view, reviewing the history, legends and highlights of the city.\r\n\r\n",
+      "es": "Ven conmigo a descubrir los secretos que guarda el centro histórico de Caracas.\r\nTe llevaremos de la mano de una guía especializada desde un punto de vista más local, repasando la historia, leyendas y hechos más destacados de la ciudad.\r\n\r\n",
+      "fr": "Venez avec moi découvrir les secrets du centre historique de Caracas.\r\nVous serez guidé par un guide spécialisé d'un point de vue plus local, qui vous parlera de l'histoire, des légendes et des faits les plus importants de la ville.\r\n\r\n",
+      "it": "Venite con me a scoprire i segreti del centro storico di Caracas.\r\nSarete accompagnati da una guida specializzata da un punto di vista più locale, che vi illustrerà la storia, le leggende e i fatti più importanti della città.\r\n\r\n",
+      "pt": "Venha comigo descobrir os segredos do centro histórico de Caracas.\r\nSerá guiado por um guia especializado, de um ponto de vista mais local, que lhe dará a conhecer a história, as lendas e os factos mais importantes da cidade.\r\n\r\n"
+    },
+    "description": {
+      "de": "Tauchen Sie ein in die reiche Geschichte von Caracas mit unserer geführten Tour durch das historische Zentrum. Der fachkundige Führer nimmt Sie mit auf eine bereichernde Reise zu den Ereignissen, aus denen die Stadt in der Kolonialzeit hervorging. Diese Führung ist ein einzigartiges Erlebnis aus historischer, architektonischer und denkmalpflegerischer Sicht. \r\nTreffpunkt: Nationales Pantheon\r\nRoute: San Carlos Kaserne, Mausoleum des Befreiers und Nationales Pantheon, Esq. de Jesuitas a Veroes, Av. Urdaneta, Plaza Bolivar, Museum von Caracas, Bundesgesetzgebungspalast, Plaza San Jacinto.\r\n\r\nP.S.: Sehr geehrte Kundin, sehr geehrter Kunde, aufgrund der Sicherheitsanforderungen einiger der Orte, die wir besuchen werden, bitten wir Sie, uns Ihren vollständigen Namen und die Nummer Ihres Reisepasses oder Personalausweises mitzuteilen. Wir danken Ihnen",
+      "en": "Immerse yourself in the rich history of Caracas with our guided tour of the Historic Center. The expert guide will take you on an enriching journey, exploring the events that gave birth to the city in colonial times. This tour includes a unique experience from the historical, architectural and patrimonial point of view. \r\nMeeting Point: National Pantheon\r\nRoute: San Carlos Barracks, Mausoleum of the Liberator and National Pantheon, Esq. de Jesuitas a Veroes, Urdaneta Avenue, Bolivar Square, Museum of Caracas, Federal Legislative Palace, San Jacinto Square.\r\n\r\nP.S.: Dear client, due to the security demands of some of the sites we will visit, we request your kind cooperation in providing us with your full name and passport or identity card number. Thank you",
+      "es": "Sumérjase en la riqueza histórica de Caracas con nuestro tour guiado por el Centro Histórico. La guía experta de llevar en un viaje enriquecedor, explorando los sucesos que dieron origen a la ciudad en la época colonial. Este paseo incluye una experiencia única desde el punto de vista histórico, arquitectónico y patrimonial. \r\nPunto de encuentro: Panteón Nacional\r\nRuta del Recorrido: Cuartel San Carlos, Complejo Mausoleo del Libertador y Panteón Nacional, Esq. de Jesuitas a Veroes, av. Urdaneta, Plaza Bolívar, Museo de Caracas, Palacio Federal Legislativo, Plaza San Jacinto.\r\n\r\nP.D: estimado cliente atendiendo a las demandas de seguridad de algunos de los sitios que visitaremos, solicitamos su amable colaboración en proporcionarnos su nombre completo, y su número de pasaporte o documento de identidad. Gracias",
+      "fr": "Plongez dans la riche histoire de Caracas grâce à notre visite guidée du centre historique. Le guide expert vous emmènera dans un voyage enrichissant, à la découverte des événements qui ont donné naissance à la ville à l'époque coloniale. Cette visite comprend une expérience unique d'un point de vue historique, architectural et patrimonial. \r\nPoint de rencontre : Panthéon national\r\nItinéraire : Caserne San Carlos, Mausolée du Libérateur et Panthéon National, Esq. de Jesuitas a Veroes, Av. Urdaneta, Plaza Bolivar, Musée de Caracas, Palais Législatif Fédéral, Plaza San Jacinto.\r\n\r\nP.S. : Cher client, en raison des exigences de sécurité de certains des sites que nous visiterons, nous vous demandons de bien vouloir nous fournir votre nom complet, votre numéro de passeport ou de carte d'identité. Nous vous remercions de votre collaboration",
+      "it": "Immergetevi nella ricca storia di Caracas con la nostra visita guidata del Centro Storico. La guida esperta vi condurrà in un viaggio arricchente, esplorando gli eventi che hanno dato vita alla città in epoca coloniale. Questa visita comprende un'esperienza unica dal punto di vista storico, architettonico e patrimoniale. \r\nPunto di incontro: Pantheon Nazionale\r\nItinerario: Caserma San Carlos, Mausoleo del Liberatore e Pantheon Nazionale, Esq. de Jesuitas a Veroes, Av. Urdaneta, Plaza Bolivar, Museo di Caracas, Palazzo Legislativo Federale, Plaza San Jacinto.\r\n\r\nP.S.: Gentile cliente, a causa delle esigenze di sicurezza di alcuni dei siti che visiteremo, le chiediamo di collaborare fornendoci il suo nome completo, il numero di passaporto o di carta d'identità. Grazie",
+      "pt": "Mergulhe na rica história de Caracas com a nossa visita guiada ao Centro Histórico. O guia especializado levá-lo-á numa viagem enriquecedora, explorando os acontecimentos que deram origem à cidade na época colonial. Esta visita inclui uma experiência única do ponto de vista histórico, arquitetónico e patrimonial. \r\nPonto de encontro: Panteão Nacional\r\nPercurso: Quartel de San Carlos, Mausoléu do Libertador e Panteão Nacional, Esq. de Jesuitas a Veroes, Av. Urdaneta, Plaza Bolivar, Museu de Caracas, Palácio Legislativo Federal, Plaza San Jacinto.\r\n\r\nP.S.: Caro cliente, devido às exigências de segurança de alguns dos sítios que iremos visitar, pedimos a sua colaboração para nos fornecer o seu nome completo e o número do seu passaporte ou bilhete de identidade. Agradecemos a vossa colaboração"
+    },
+    "providerTitle": "Legatum Guía Tour",
+    "providerPhone": "+584127113853",
+    "URL": "https://www.freetour.com/caracas/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/caracas/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/caracas/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/caracas/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/caracas/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/caracas/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/caracas/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "3:30",
+    "meetingPoint": {
+      "title": "Panteón Nacional, Caracas Venezuela",
+      "coordinates": "10.511712672870217,-66.9130467319261",
+      "googlePlaceId": "ChIJiVzo3s5eKowRnW3fGxIdI44"
+    },
+    "cityId": 4710,
+    "countryId": 168,
+    "includes": [
+      "entradas"
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-11.jpg",
+    "categoryId": 4,
+    "images": [
+      {
+        "id": 236682,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-11.jpg"
+      },
+      {
+        "id": 177828,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-01.jpg"
+      },
+      {
+        "id": 177829,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-02.jpg"
+      },
+      {
+        "id": 177830,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-03.jpg"
+      },
+      {
+        "id": 177831,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-04.jpg"
+      },
+      {
+        "id": 177832,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-05.jpg"
+      },
+      {
+        "id": 177833,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-06.jpg"
+      },
+      {
+        "id": 177834,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-07.jpg"
+      },
+      {
+        "id": 177835,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-08.jpg"
+      },
+      {
+        "id": 177836,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-09.jpg"
+      },
+      {
+        "id": 177837,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-10.jpg"
+      },
+      {
+        "id": 240014,
+        "URL": "https://www.freetour.com/images/tours/52135/paseo-patrimonial-por-el-centro-historico-de-caracas-venezuela-14.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.9,
+    "reviewsNumber": 4
+  },
+  {
+    "id": 52233,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Ciudad Bolivar: Where Venezuela, Colombia, Ecuador & Panamá Were Born",
+      "es": "Ciudad Bolívar: Donde nacieron Venezuela, Colombia, Ecuador y Panamá",
+      "pt": "Ciudad Bolivar: Onde nasceram Venezuela, Colômbia, Equador e Panamá",
+      "de": "Ciudad Bolivar: Wo Venezuela, Kolumbien, Ecuador und Panamá geboren wurden",
+      "fr": "Ciudad Bolivar : Le lieu de naissance du Venezuela, de la Colombie, de l'Équateur et de Panamá",
+      "it": "Ciudad Bolivar: Dove sono nati Venezuela, Colombia, Ecuador e Panamá"
+    },
+    "brief": {
+      "de": "Nehmen Sie an der Besichtigung der historischen Stätten von Ciudad Bolívar teil, wo der Befreier seine berühmte Angostura-Rede hielt. Entdecken Sie diese Rede, die als eine frühe Einführung in den Sozialismus vor Marx und Engels gilt. Das sollten Sie nicht verpassen.",
+      "en": "Join the tour of the historical sites of Ciudad Bolívar, where The Liberator gave his famous Angostura Speech. Discover this speech, which is considered an early introduction to socialism before Marx and Engels. Do not miss it.",
+      "es": "Únase al recorrido por los lugares históricos de Ciudad Bolívar, donde El Libertador pronunció su famoso Discurso de Angostura. Descubra este discurso, considerado una de las primeras introducciones al socialismo antes de Marx y Engels. No se lo pierda.",
+      "fr": "Participez à la visite des sites historiques de Ciudad Bolívar, où le Libérateur a prononcé son célèbre discours d'Angostura. Découvrez ce discours, considéré comme une introduction au socialisme avant Marx et Engels. À ne pas manquer.",
+      "it": "Partecipate alla visita dei siti storici di Ciudad Bolívar, dove il Liberatore pronunciò il suo famoso Discorso di Angostura. Scoprite questo discorso, considerato una prima introduzione al socialismo prima di Marx ed Engels. Da non perdere.",
+      "pt": "Participe na visita aos locais históricos de Ciudad Bolívar, onde o Libertador proferiu o seu famoso Discurso de Angostura. Descubra este discurso, que é considerado uma das primeiras introduções ao socialismo antes de Marx e Engels. A não perder."
+    },
+    "description": {
+      "de": "Die Tour beinhaltet den Besuch der berühmten Casa Congreso de Angostura, der Kathedrale (ein wunderschöner Ort auf der Spitze eines Berges), der Plaza und berühmter Straßen in der Gegend sowie einen Spaziergang entlang des Orinoco-Flusses im Paseo, einem wunderschönen Park, in dem die Angostura-Braut (eine Brücke im Stil eines goldenen Tores) in großartigen Bildern und Szenen festgehalten werden kann. Viele Touristen ziehen es in Betracht, hier Fotos zu machen, nachdem sie die überwältigende Majestät der Landschaft gesehen haben. \r\n\r\nCiudad Bolivar ist eine Stadt, die in der Vergangenheit ein wichtiger Punkt für den Besuch von Touristen war, und wir möchten sie Ihnen in einer sicheren Umgebung zeigen, in der Polizisten und Polizistinnen ständig patrouillieren, um Ausländer zu schützen und die historischen Orte zu bewahren. \r\n\r\nDie Venezolaner sind von Natur aus freundlich, und wir glauben, dass wir Ihnen an diesem Ort wunderbare Erinnerungen schaffen können. Trotz der Wirtschaftskrise und der Rezession, die das Land vor 9 Jahren erschütterten, ist Venezuela, das Tor zu Südamerika, jetzt bereit, Sie auf die bestmögliche Weise zu empfangen. Sie können mich kontaktieren. Ich spreche sowohl Spanisch als auch Englisch.",
+      "en": "The tour includes visiting the famous Casa Congreso de Angostura, the Cathedral (a beautiful place on the top of a mountain), the Plaza, and famous streets in the area, as well as walking alongside the Orinoco River in the Paseo, a beautiful park where the Angostura Bride (a golden gate style bridge) can be captured in great pictures and scenes. Many tourists consider taking pictures here after seeing the overwhelming majesty of the landscape. \r\n\r\nCiudad Bolivar is a city that in the past was a key point in the tourists' visits to the city, and we would like to show it to you in a secure environment where policemen and women are always patrolling the area, protecting foreigners and protecting the historic places. \r\n\r\nVenezuelan people are kind by nature, and we believe we can create wonderful memories for you in this place. Despite the economic crisis and the recession that smashed the country 9 years ago, Venezuela, the gateway of South America, is now ready to receive you in the best way possible. You can contact me. I speak both Spanish and English.",
+      "es": "El recorrido incluye la visita a la famosa Casa Congreso de Angostura, la Catedral (un hermoso lugar en la cima de una montaña), la Plaza, y calles famosas de la zona, así como caminar junto al río Orinoco en el Paseo, un hermoso parque donde la Novia de Angostura (un puente estilo puerta de oro) puede ser capturado en grandes fotos y escenas. Muchos turistas se plantean fotografiarse aquí tras contemplar la sobrecogedora majestuosidad del paisaje. \r\n\r\nCiudad Bolívar es una ciudad que en el pasado fue un punto clave en las visitas de los turistas a la ciudad, y nos gustaría mostrársela en un entorno seguro en el que siempre hay policías patrullando la zona, protegiendo a los extranjeros y protegiendo los lugares históricos. \r\n\r\nLos venezolanos son amables por naturaleza, y creemos que podemos crear recuerdos maravillosos para usted en este lugar. A pesar de la crisis económica y la recesión que asolaron el país hace 9 años, Venezuela, la puerta de Sudamérica, está preparada para recibirle de la mejor manera posible. Puedes ponerte en contacto conmigo. Hablo español e inglés.",
+      "fr": "Le circuit comprend la visite de la célèbre Casa Congreso de Angostura, de la cathédrale (un lieu magnifique situé au sommet d'une montagne), de la Plaza et des rues célèbres de la région, ainsi qu'une promenade le long de l'Orénoque dans le Paseo, un parc magnifique où le pont Angostura (un pont de style porte d'or) peut être capturé dans de superbes photos et scènes. De nombreux touristes envisagent de prendre des photos ici après avoir vu la majesté écrasante du paysage. \r\n\r\nCiudad Bolivar est une ville qui, dans le passé, était un point clé dans les visites touristiques de la ville, et nous aimerions vous la montrer dans un environnement sécurisé où des policiers et des femmes patrouillent en permanence dans la zone, protégeant les étrangers et les lieux historiques. \r\n\r\nLes Vénézuéliens sont gentils par nature, et nous pensons pouvoir vous créer de merveilleux souvenirs dans cet endroit. Malgré la crise économique et la récession qui ont frappé le pays il y a 9 ans, le Venezuela, la porte d'entrée de l'Amérique du Sud, est maintenant prêt à vous recevoir de la meilleure façon possible. Vous pouvez me contacter. Je parle espagnol et anglais.",
+      "it": "Il tour comprende la visita alla famosa Casa Congreso de Angostura, alla Cattedrale (un bellissimo luogo in cima a una montagna), alla Plaza e alle famose strade della zona, oltre a una passeggiata lungo il fiume Orinoco nel Paseo, un bellissimo parco dove la Sposa di Angostura (un ponte in stile golden gate) può essere immortalata in splendide foto e scene. Molti turisti decidono di scattare foto qui dopo aver visto l'imponente maestosità del paesaggio. \r\n\r\nCiudad Bolivar è una città che in passato era un punto chiave nelle visite dei turisti alla città, e vorremmo mostrarvela in un ambiente sicuro dove poliziotti e donne sono sempre di pattuglia, proteggendo gli stranieri e tutelando i luoghi storici. \r\n\r\nIl popolo venezuelano è gentile per natura e crediamo di poter creare per voi dei ricordi meravigliosi in questo luogo. Nonostante la crisi economica e la recessione che ha colpito il Paese 9 anni fa, il Venezuela, porta del Sud America, è ora pronto ad accogliervi nel migliore dei modi. Potete contattarmi. Parlo sia spagnolo che inglese.",
+      "pt": "A excursão inclui a visita à famosa Casa Congreso de Angostura, à Catedral (um belo local no cimo de uma montanha), à Plaza e às famosas ruas da zona, bem como um passeio ao longo do rio Orinoco no Paseo, um belo parque onde a Noiva de Angostura (uma ponte em estilo de portão dourado) pode ser captada em grandes fotografias e cenas. Muitos turistas consideram tirar fotos aqui depois de ver a majestade esmagadora da paisagem. \r\n\r\nCiudad Bolivar é uma cidade que no passado foi um ponto-chave nas visitas dos turistas à cidade, e gostaríamos de lha mostrar num ambiente seguro onde polícias e mulheres estão sempre a patrulhar a área, protegendo os estrangeiros e protegendo os locais históricos. \r\n\r\nO povo venezuelano é amável por natureza, e acreditamos que podemos criar memórias maravilhosas para si neste lugar. Apesar da crise económica e da recessão que assolou o país há 9 anos, a Venezuela, a porta de entrada da América do Sul, está agora pronta para o receber da melhor forma possível. Pode contactar-me. Falo espanhol e inglês."
+    },
+    "providerTitle": "Oziel",
+    "providerPhone": "+584128321791",
+    "URL": "https://www.freetour.com/ciudad-bolivar/ciudad-bolivar-where-venezuela-colombia-ecuador-panama-were-born?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/ciudad-bolivar/ciudad-bolivar-where-venezuela-colombia-ecuador-panama-were-born?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/ciudad-bolivar/ciudad-bolivar-where-venezuela-colombia-ecuador-panama-were-born?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/ciudad-bolivar/ciudad-bolivar-where-venezuela-colombia-ecuador-panama-were-born?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/ciudad-bolivar/ciudad-bolivar-where-venezuela-colombia-ecuador-panama-were-born?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/ciudad-bolivar/ciudad-bolivar-where-venezuela-colombia-ecuador-panama-were-born?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/ciudad-bolivar/ciudad-bolivar-where-venezuela-colombia-ecuador-panama-were-born?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 10,
+      "currency": "EUR"
+    },
+    "length": "1:00",
+    "meetingPoint": {
+      "title": "Ciudad Bolívar Aero Puerto Tomas de Heres",
+      "coordinates": "8.126233156396772,-63.53794813156128",
+      "googlePlaceId": "ChIJO3TEWwGHzo0RlnCWA6oW-NQ"
+    },
+    "cityId": 4711,
+    "countryId": 168,
+    "includes": [
+      "Ciudad Bolivar Cathedral",
+      "Angostura Congress House",
+      "Tomas de Heres Airport",
+      "All visits to Museums and places are Free"
+    ],
+    "POIs": [
+      {
+        "id": 20025,
+        "title": "Ciudad Bolivar Cathedral",
+        "googlePlaceId": "ChIJ8WrMCj6Hzo0RidALYRGr1MY"
+      },
+      {
+        "id": 20042,
+        "title": "Angostura Congress House",
+        "googlePlaceId": "ChIJHZVAaz6Hzo0Rx4yq3LSohDE"
+      },
+      {
+        "id": 20041,
+        "title": "Tomas de Heres Airport",
+        "googlePlaceId": "ChIJl7SrhwCHzo0RoIi90AOhGCA"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/52233/ciudad-bolivar-where-venezuela-colombia-ecuador-and-panama-were-born-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 178246,
+        "URL": "https://www.freetour.com/images/tours/52233/ciudad-bolivar-where-venezuela-colombia-ecuador-and-panama-were-born-01.jpg"
+      },
+      {
+        "id": 178247,
+        "URL": "https://www.freetour.com/images/tours/52233/ciudad-bolivar-where-venezuela-colombia-ecuador-and-panama-were-born-02.jpg"
+      },
+      {
+        "id": 178248,
+        "URL": "https://www.freetour.com/images/tours/52233/ciudad-bolivar-where-venezuela-colombia-ecuador-and-panama-were-born-03.jpg"
+      },
+      {
+        "id": 178250,
+        "URL": "https://www.freetour.com/images/tours/52233/ciudad-bolivar-where-venezuela-colombia-ecuador-and-panama-were-born-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 66782,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Hiking in The National Park in Caracas",
+      "es": "Senderismo en el Parque Nacional de Caracas",
+      "pt": "Caminhadas no Parque Nacional de Caracas",
+      "de": "Wandern im Nationalpark in Caracas",
+      "fr": "Randonnée dans le parc national de Caracas",
+      "it": "Escursioni nel Parco Nazionale di Caracas"
+    },
+    "brief": {
+      "de": "Erkunden Sie mit uns die atemberaubenden Sehenswürdigkeiten und die wilde Natur im nördlichen Teil der Stadt! Atmen Sie die frische Luft ein, beobachten Sie eine Vielzahl von Vögeln und treiben Sie ein wenig Sport. Lasst uns gemeinsam den Parque Miranda und die Cueva del Indio entdecken!",
+      "en": "Join us as we explore the stunning sights and wild nature in the northern part of the city! Breathe in the fresh air, spot a variety of birds, and get some exercise. Let's discover Parque Miranda and Cueva del Indio together!",
+      "es": "Acompáñenos a explorar las impresionantes vistas y la naturaleza salvaje de la parte norte de la ciudad Respire aire puro, observe una gran variedad de aves y haga algo de ejercicio. Descubramos juntos el Parque Miranda y la Cueva del Indio",
+      "fr": "Rejoignez-nous pour explorer les paysages époustouflants et la nature sauvage de la partie nord de la ville ! Respirez l'air frais, observez une variété d'oiseaux et faites de l'exercice. Découvrons ensemble le Parque Miranda et la Cueva del Indio !",
+      "it": "Unitevi a noi nell'esplorazione delle bellezze e della natura selvaggia della zona nord della città! Respirate l'aria fresca, avvistate una varietà di uccelli e fate un po' di esercizio fisico. Scopriamo insieme il Parque Miranda e la Cueva del Indio!",
+      "pt": "Junte-se a nós enquanto exploramos as paisagens deslumbrantes e a natureza selvagem na parte norte da cidade! Respire o ar fresco, observe uma variedade de pássaros e faça algum exercício. Vamos descobrir juntos o Parque Miranda e a Cueva del Indio!"
+    },
+    "description": {
+      "de": "Die Idee ist, einen moderaten Spaziergang innerhalb der Grenzen des Waraira-Repano-Nationalparks zu machen, der für die meisten Touristen, die Venezuela besucht haben, ein verstecktes Juwel ist. Lassen Sie sich die Chance nicht entgehen, einen unberührten Wald in unmittelbarer Nähe einer geschäftigen Stadt zu erkunden.\r\n\r\nIn der Gegend gibt es mehrere Miradores\" (Aussichtspunkte), an denen Sie unvergessliche Fotos von Ihrer Reise machen können. Wir werden genügend Zeit haben, um einen Imbiss mit Aussicht zu genießen, oder, wenn Sie es vorziehen, können wir Ihnen authentische lokale Speisen anbieten, die Sie probieren können. Die Wanderung kann so lang sein, wie Sie möchten, mit verschiedenen Wegen unterschiedlicher Schwierigkeitsgrade. Die von mir empfohlene Route führt bis zur Seilbahn, so dass wir anschließend absteigen können.",
+      "en": "The idea is to take a moderate walk within the limits of the Waraira Repano National Park, a hidden gem for most tourists who have visited Venezuela. Don't miss the chance to explore a pristine forest right next to a bustling city.\r\n\r\nThe area features several \"Miradores\" (viewpoints) where you can capture memorable photos of your journey. We’ll have enough time to enjoy a snack with a view, or, if you prefer, we can offer some authentic local food for you to taste. The walk can be as long as you'd like, with different paths of varying difficulty levels. My recommended route leads to the cable car, allowing us to descend afterward.",
+      "es": "Se trata de dar un paseo moderado dentro de los límites del Parque Nacional Waraira Repano, una joya oculta para la mayoría de los turistas que han visitado Venezuela. No se pierda la oportunidad de explorar un bosque virgen justo al lado de una bulliciosa ciudad.\r\n\r\nLa zona cuenta con varios \"miradores\" donde podrá capturar fotos memorables de su viaje. Tendremos tiempo suficiente para disfrutar de un tentempié con vistas o, si lo prefiere, podemos ofrecerle auténtica comida local para que la deguste. El paseo puede ser tan largo como desee, con diferentes senderos de distintos niveles de dificultad. Mi ruta recomendada lleva hasta el teleférico, lo que nos permite descender después.",
+      "fr": "L'idée est de faire une promenade modérée dans les limites du parc national Waraira Repano, un joyau caché pour la plupart des touristes qui ont visité le Venezuela. Ne manquez pas l'occasion d'explorer une forêt vierge juste à côté d'une ville animée.\r\n\r\nLa région compte plusieurs \"Miradores\" (points de vue) où vous pourrez prendre des photos mémorables de votre voyage. Nous aurons suffisamment de temps pour prendre un en-cas avec vue ou, si vous le préférez, nous pouvons vous proposer des plats locaux authentiques à déguster. La promenade peut être aussi longue que vous le souhaitez, avec différents chemins de différents niveaux de difficulté. L'itinéraire que je recommande mène au téléphérique, ce qui nous permet de redescendre ensuite.",
+      "it": "L'idea è quella di fare una passeggiata moderata entro i limiti del Parco Nazionale Waraira Repano, una gemma nascosta per la maggior parte dei turisti che hanno visitato il Venezuela. Non perdete l'occasione di esplorare una foresta incontaminata proprio accanto a una città vivace.\r\n\r\nL'area presenta diversi \"Miradores\" (punti panoramici) dove è possibile scattare foto memorabili del viaggio. Avremo tempo a sufficienza per gustare uno spuntino con vista o, se preferite, possiamo offrirvi dell'autentico cibo locale da assaggiare. La passeggiata può essere lunga quanto volete, con percorsi diversi e di vari livelli di difficoltà. Il percorso da me consigliato conduce alla funivia, consentendoci di scendere successivamente.",
+      "pt": "A ideia é fazer um passeio moderado dentro dos limites do Parque Nacional Waraira Repano, uma joia escondida para a maioria dos turistas que visitaram a Venezuela. Não perca a oportunidade de explorar uma floresta intocada mesmo ao lado de uma cidade movimentada.\r\n\r\nA área possui vários \"Miradores\" (pontos de vista) onde pode tirar fotografias memoráveis da sua viagem. Teremos tempo suficiente para desfrutar de um lanche com vista ou, se preferir, podemos oferecer-lhe comida local autêntica para provar. A caminhada pode ser tão longa quanto desejar, com diferentes caminhos de diferentes níveis de dificuldade. O meu percurso recomendado vai até ao teleférico, permitindo-nos descer de seguida."
+    },
+    "providerTitle": "Coromoto Jaraba",
+    "providerPhone": "+584241590333",
+    "URL": "https://www.freetour.com/caracas/hiking-in-the-national-park-in-caracas?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/caracas/hiking-in-the-national-park-in-caracas?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/caracas/hiking-in-the-national-park-in-caracas?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/caracas/hiking-in-the-national-park-in-caracas?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/caracas/hiking-in-the-national-park-in-caracas?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/caracas/hiking-in-the-national-park-in-caracas?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/caracas/hiking-in-the-national-park-in-caracas?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 5,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "Metro Bellas Artes.",
+      "coordinates": "10.5015637,-66.9017106",
+      "googlePlaceId": "ChIJH6yEzdJeKowROYAGBJar4wM"
+    },
+    "cityId": 4710,
+    "countryId": 168,
+    "includes": [
+      "Guidance",
+      "Entry"
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/66782/hiking-in-the-national-park-in-caracas-03.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 233228,
+        "URL": "https://www.freetour.com/images/tours/66782/hiking-in-the-national-park-in-caracas-03.jpg"
+      },
+      {
+        "id": 233229,
+        "URL": "https://www.freetour.com/images/tours/66782/hiking-in-the-national-park-in-caracas-04.jpg"
+      },
+      {
+        "id": 233230,
+        "URL": "https://www.freetour.com/images/tours/66782/hiking-in-the-national-park-in-caracas-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 67603,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Visiting National Museums of Art",
+      "es": "Visitando los Museos Nacionales de Arte",
+      "pt": "Visitar os Museus Nacionais de Arte",
+      "de": "Besuch der Nationalen Kunstmuseen",
+      "fr": "Visiter les musées nationaux d'art",
+      "it": "Visita ai Musei nazionali d'arte"
+    },
+    "brief": {
+      "de": "Begeben Sie sich auf eine Reise durch die pulsierende Kunstszene Venezuelas! Entdecken Sie Meisterwerke von Warhol, Monet, Calder und einheimischen Talenten. Erforschen Sie vergangene Meister, zeitgenössische Kunst und aufstrebende Künstler in den Nationalen Kunstmuseen. Lassen Sie sich dieses kulturelle Abenteuer nicht entgehen!",
+      "en": "Join a journey through Venezuela’s vibrant art scene! Discover masterpieces by Warhol, Monet, Calder, and local talent. Explore past masters, contemporary art, and emerging artists in the National Museums of Art. Don’t miss this cultural adventure!",
+      "es": "Únase a un viaje por la vibrante escena artística de Venezuela Descubra obras maestras de Warhol, Monet, Calder y talentos locales. Explore a los maestros del pasado, el arte contemporáneo y los artistas emergentes en los Museos Nacionales de Arte. No se pierda esta aventura cultural",
+      "fr": "Participez à un voyage à travers la scène artistique vibrante du Venezuela ! Découvrez des chefs-d'œuvre de Warhol, Monet, Calder et des talents locaux. Explorez les anciens maîtres, l'art contemporain et les artistes émergents dans les musées nationaux d'art. Ne manquez pas cette aventure culturelle !",
+      "it": "Unitevi a un viaggio attraverso la vivace scena artistica del Venezuela! Scoprite i capolavori di Warhol, Monet, Calder e dei talenti locali. Esplorate i maestri del passato, l'arte contemporanea e gli artisti emergenti nei Musei Nazionali d'Arte. Non perdetevi questa avventura culturale!",
+      "pt": "Participe numa viagem pela vibrante cena artística da Venezuela! Descubra obras-primas de Warhol, Monet, Calder e talentos locais. Explore os mestres do passado, a arte contemporânea e os artistas emergentes nos Museus Nacionais de Arte. Não perca esta aventura cultural!"
+    },
+    "description": {
+      "de": "Diese Tour im Stadtzentrum von Caracas umfasst einen 1,5 km langen Spaziergang durch den beeindruckenden Gebäudekomplex Central Park und das Viertel Bellas Artes. Auf dem Weg dorthin werden Sie vier unglaubliche Museen erkunden:\r\n\r\n1. Nationale Kunstgalerie: Hier wird das reiche künstlerische Erbe Venezuelas präsentiert.\r\n2. Museum für zeitgenössische Kunst in Caracas: Zeigt moderne und avantgardistische Werke von lokalen und internationalen Künstlern.\r\n3. Museum Bellas Artes: Eine Fundgrube für klassische und zeitgenössische Werke.\r\n4. Design- und Briefmarkenmuseum Carlos Cruz-Diez: Hier werden die ikonischen Werke des berühmten venezolanischen kinetischen Künstlers und vieles mehr gefeiert.\r\n\r\nEntdecken Sie das Herz von Caracas durch seine pulsierende Kunst und Kultur!",
+      "en": "Located in downtown Caracas, this tour includes a 1-mile walk through the stunning Central Park building complex and the Bellas Artes zone. Along the way, you'll explore four incredible museums:\r\n\r\n1. National Art Gallery: Showcasing Venezuela's rich artistic heritage.\r\n2. Caracas Contemporary Art Museum: Featuring modern and avant-garde works from local and international artists.\r\n3. Bellas Artes Museum: A treasure trove of classical and contemporary pieces.\r\n4. Design and Stamp Museum Carlos Cruz-Diez: Celebrating the iconic works of Venezuela's renowned kinetic artist and more.\r\n\r\nDiscover the heart of Caracas through its vibrant art and culture!",
+      "es": "Situado en el centro de Caracas, este recorrido incluye un paseo de 1 milla por el impresionante complejo de edificios de Parque Central y la zona de Bellas Artes. Por el camino, explorarás cuatro increíbles museos:\r\n\r\n1. Galería de Arte Nacional: Muestra del rico patrimonio artístico de Venezuela.\r\n2. Museo de Arte Contemporáneo de Caracas: Presenta obras modernas y vanguardistas de artistas locales e internacionales.\r\n3. Museo de Bellas Artes: Un tesoro de piezas clásicas y contemporáneas.\r\n4. Museo del Diseño y el Sello Carlos Cruz-Diez: Celebrando las obras icónicas del renombrado artista cinético de Venezuela y mucho más.\r\n\r\nDescubra el corazón de Caracas a través de su vibrante arte y cultura",
+      "fr": "Située dans le centre de Caracas, cette visite comprend une promenade d'un kilomètre à travers l'étonnant complexe immobilier Central Park et la zone Bellas Artes. En chemin, vous découvrirez quatre musées incroyables :\r\n\r\n1. La Galerie nationale d'art : Elle présente le riche patrimoine artistique du Venezuela.\r\n2. Musée d'art contemporain de Caracas : Il présente des œuvres modernes et d'avant-garde d'artistes locaux et internationaux.\r\n3. Musée Bellas Artes : Un trésor de pièces classiques et contemporaines.\r\n4. Musée du design et du timbre Carlos Cruz-Diez : Célébration des œuvres emblématiques du célèbre artiste cinétique vénézuélien, et bien plus encore.\r\n\r\nDécouvrez le cœur de Caracas à travers son art et sa culture vibrants !",
+      "it": "Situato nel centro di Caracas, questo tour comprende una passeggiata di un chilometro attraverso lo splendido complesso di edifici Central Park e la zona di Bellas Artes. Lungo il percorso, esplorerete quattro incredibili musei:\r\n\r\n1. Galleria d'Arte Nazionale: Mostra del ricco patrimonio artistico del Venezuela.\r\n2. Museo d'arte contemporanea di Caracas: Presenta opere moderne e d'avanguardia di artisti locali e internazionali.\r\n3. Museo Bellas Artes: Un tesoro di opere classiche e contemporanee.\r\n4. Museo del Design e del Timbro Carlos Cruz-Diez: Celebra le opere iconiche del famoso artista cinetico venezuelano e molto altro ancora.\r\n\r\nScoprite il cuore di Caracas attraverso la sua vibrante arte e cultura!",
+      "pt": "Localizado no centro de Caracas, este passeio inclui uma caminhada de 1,6 km através do impressionante complexo de edifícios Central Park e da zona de Bellas Artes. Ao longo do caminho, você vai explorar quatro museus incríveis:\r\n\r\n1. Galeria Nacional de Arte: Apresentando o rico património artístico da Venezuela.\r\n2. Museu de Arte Contemporânea de Caracas: Apresenta obras modernas e de vanguarda de artistas locais e internacionais.\r\n3. Museu de Bellas Artes: Um tesouro de peças clássicas e contemporâneas.\r\n4. Museu do Desenho e do Carimbo Carlos Cruz-Diez: Celebrando as obras icónicas do famoso artista cinético da Venezuela e muito mais.\r\n\r\nDescubra o coração de Caracas através da sua arte e cultura vibrantes!"
+    },
+    "providerTitle": "David Herrera",
+    "providerPhone": "+584242897285",
+    "URL": "https://www.freetour.com/caracas/visiting-national-museums-of-art?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/caracas/visiting-national-museums-of-art?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/caracas/visiting-national-museums-of-art?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/caracas/visiting-national-museums-of-art?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/caracas/visiting-national-museums-of-art?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/caracas/visiting-national-museums-of-art?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/caracas/visiting-national-museums-of-art?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 10,
+      "currency": "EUR"
+    },
+    "length": "6:00",
+    "meetingPoint": {
+      "title": "Metro Bellas Artes",
+      "coordinates": "10.5015637,-66.9017106",
+      "googlePlaceId": "ChIJH6yEzdJeKowROYAGBJar4wM"
+    },
+    "cityId": 4710,
+    "countryId": 168,
+    "includes": [
+      "Metro Bellas Artes. Esquina Puente Brion",
+      "Museum of Fine Arts",
+      "National Art Gallery",
+      "Contemporary Art Museum"
+    ],
+    "POIs": [
+      {
+        "id": 28515,
+        "title": "Metro Bellas Artes. Esquina Puente Brion",
+        "googlePlaceId": "ChIJ63BRYStZKowReZJdaFUkj1k"
+      },
+      {
+        "id": 28518,
+        "title": "Museum of Fine Arts",
+        "googlePlaceId": "ChIJIdytizNZKowRBWrNwVtEt0A"
+      },
+      {
+        "id": 28516,
+        "title": "National Art Gallery",
+        "googlePlaceId": "ChIJjU8OOCtZKowR05PW-ERSsJ8"
+      },
+      {
+        "id": 28517,
+        "title": "Contemporary Art Museum",
+        "googlePlaceId": "ChIJK-jAlCpZKowRAaA-Bv0lVjs"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 236313,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-01.jpg"
+      },
+      {
+        "id": 236316,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-04.jpg"
+      },
+      {
+        "id": 236317,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-05.jpg"
+      },
+      {
+        "id": 236318,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-06.jpg"
+      },
+      {
+        "id": 236319,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-07.jpg"
+      },
+      {
+        "id": 236320,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-08.jpg"
+      },
+      {
+        "id": 236321,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-09.jpg"
+      },
+      {
+        "id": 236322,
+        "URL": "https://www.freetour.com/images/tours/67603/visiting-national-museums-of-art-10.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 73032,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Caracas in Bites: History, Culture and Flavor",
+      "es": "Caracas a Mordiscos: Historia, Cultura y Sabor",
+      "pt": "Caracas em mordidas: história, cultura e sabor",
+      "de": "Caracas in Häppchen: Geschichte, Kultur und Geschmack",
+      "fr": "Caracas en bouchées : histoire, culture et saveurs",
+      "it": "Caracas a morsi: storia, cultura e sapori"
+    },
+    "brief": {
+      "de": "schließen Sie sich Caracas a Mordiscos an und entdecken Sie die versteckte Seite der Stadt! Erforschen Sie die Geschichte, die Kultur und die einzigartigen Aromen der Stadt auf einer exklusiven Tour, die nur für Neugierige gedacht ist",
+      "en": "Join Caracas a Mordiscos and discover the hidden side of the city! Explore its history, culture, and unique flavors in an exclusive tour, only for the most curious. Feel the city like never before through its best-kept secrets!",
+      "es": "¡Únete a Caracas a Mordiscos y descubre lo oculto de la ciudad! Recorre su historia, cultura y sabores únicos en un tour exclusivo, solo para los más curiosos. ¡Siente la ciudad como nunca antes a través de sus secretos mejor guardados!",
+      "fr": "rejoignez Caracas a Mordiscos et découvrez la face cachée de la ville ! Explorez son histoire, sa culture et ses saveurs uniques dans le cadre d'une visite exclusive, réservée aux plus curieux, et découvrez la ville comme jamais auparavant à travers ses secrets les mieux gardés !",
+      "it": "unitevi a Caracas a Mordiscos e scoprite il lato nascosto della città! Esplorate la sua storia, la sua cultura e i suoi sapori unici in un tour esclusivo, riservato ai più curiosi, per vivere la città come mai prima d'ora attraverso i suoi segreti meglio custoditi!",
+      "pt": "junte-se a Caracas a Mordiscos e descubra o lado oculto da cidade! Explore a sua história, cultura e sabores únicos num passeio exclusivo, só para os mais curiosos, viva a cidade como nunca antes através dos seus segredos mais bem guardados!"
+    },
+    "description": {
+      "de": "Erster Halt: \r\nEl Archivo Perdido: An einem vergessenen Ort im historischen Zentrum verbirgt sich ein Ort, der Fragmente unserer Geschichte bewahrt, die die Zeit auslöschen wollte. Hier werden wir zwischen jahrhundertealten Dokumenten und Gegenständen Geschichten entdecken, die es nie in die Geschichtsbücher geschafft haben.\r\n\r\nZweite Station: \r\nDas Mantuan-Bankett: Ein Herrenhaus aus der Kolonialzeit öffnet seine Türen für ein geheimes Festmahl. Ein Chefkoch verrät uns fast vergessene Rezepte, die aus den ersten Kochbüchern des Landes gerettet wurden. Jeder Bissen erzählt eine Geschichte, hinter jedem Geschmack verbirgt sich eine faszinierende Vergangenheit.\r\n \r\nDritter Halt: \r\nEl Punto de Encuentro: Im Herzen der Stadt, unter den Augen von Zeugen aus Mauer und Stein, werden wir verborgene Details eines Ortes enthüllen, der Schauplatz von Verschwörungen, Schwüren und Treffen war, die den Lauf Venezuelas veränderten.\r\n\r\nVierter Halt: \r\nLa Última Copa: Wir werden eine Ecke betreten, die uns in eine andere Zeit versetzt. Hier stoßen wir zwischen Geschichten und dem Geflüster berühmter Persönlichkeiten mit Tapas und Aromen aus fernen Ländern an, die Vergangenheit und Gegenwart in einem einzigen Moment vereinen.",
+      "en": "First Stop: \r\nEl Archivo Perdido: In a forgotten place in the historic center hides a place that shelters fragments of our history that time wanted to erase. Here, among centuries-old documents and objects, we will discover stories that never made it into the history books.\r\n\r\nSecond Stop: \r\nThe Banquet of the Mantuanos: A colonial mansion opens its doors for a secret feast. A chef will reveal almost forgotten recipes, rescued from the first cookbooks of the country. Each bite tells a story, and each flavor hides a fascinating past.\r\n \r\nThird Stop: \r\nEl Punto de Encuentro: In the heart of the city, under the gaze of wall and stone witnesses, we will reveal hidden details of a place that has been the scene of conspiracies, oaths, and meetings that changed the course of Venezuela.\r\n\r\nFourth Stop: \r\nLa Última Copa: We will enter a corner that transports us to another era. Here, among stories and whispers of illustrious characters, we will toast with tapas and flavors of distant lands, uniting in a single instant the past and the present.",
+      "es": "Primera Parada: \r\nEl Archivo Perdido: En un sitio olvidado del centro histórico se esconde un lugar que resguarda fragmentos de nuestra historia que el tiempo quiso borrar. Aquí, entre documentos y objetos centenarios, descubriremos relatos que nunca llegaron a los libros de historia.\r\n\r\nSegunda Parada: \r\nEl Banquete de los Mantuanos: Una casona colonial nos abre sus puertas para un festín secreto. Un chef nos revelará recetas casi olvidadas, rescatadas de los primeros libros de cocina del país. Cada bocado cuenta una historia, cada sabor esconde un pasado fascinante.\r\n \r\nTercera Parada: \r\nEl Punto de Encuentro: En el corazón de la ciudad, bajo la mirada de los testigos de tapia y piedra, revelaremos detalles ocultos de un lugar que ha sido escenario de conspiraciones, juramentos y encuentros que cambiaron el rumbo de Venezuela.\r\n\r\nCuarta Parada: \r\nLa Última Copa: Nos adentraremos en un rincón que transporta a otra época. Aquí, entre historias y susurros de personajes ilustres, brindaremos con tapas y sabores de tierras lejanas, uniendo en un solo instante el pasado y el presente.",
+      "fr": "Première étape : \r\nEl Archivo Perdido : dans un endroit oublié du centre historique se cache un lieu qui garde des fragments de notre histoire que le temps a voulu effacer. Ici, parmi des documents et des objets vieux de plusieurs siècles, nous découvrirons des histoires qui ne sont jamais entrées dans les livres d'histoire.\r\n\r\nDeuxième étape : \r\nLe banquet du Mantouan : une demeure coloniale ouvre ses portes pour un festin secret. Un chef nous dévoilera des recettes presque oubliées, tirées des premiers livres de cuisine du pays. Chaque bouchée raconte une histoire, chaque goût cache un passé fascinant.\r\n \r\nTroisième étape : \r\nEl Punto de Encuentro : au cœur de la ville, sous le regard des témoins de murs et de pierres, nous révélerons les détails cachés d'un lieu qui a été le théâtre de conspirations, de serments et de réunions qui ont changé le cours du Venezuela.\r\n\r\nQuatrième étape : \r\nLa Última Copa : nous entrerons dans un coin qui nous transporte dans une autre époque. Ici, parmi les histoires et les chuchotements d'illustres personnages, nous trinquerons avec des tapas et des saveurs de pays lointains, unissant en un seul moment le passé et le présent.",
+      "it": "Prima tappa: \r\nEl Archivo Perdido: in un luogo dimenticato del centro storico si nasconde un luogo che custodisce frammenti della nostra storia che il tempo ha voluto cancellare. Qui, tra documenti e oggetti secolari, scopriremo storie che non sono mai entrate nei libri di storia.\r\n\r\nSeconda tappa: \r\nIl banchetto mantovano: una dimora coloniale apre le sue porte per un banchetto segreto. Uno chef ci svelerà ricette quasi dimenticate, recuperate dai primi libri di cucina del Paese. Ogni boccone racconta una storia, ogni sapore nasconde un passato affascinante.\r\n \r\nTerza tappa: \r\nEl Punto de Encuentro: nel cuore della città, sotto lo sguardo di testimoni di muro e pietra, sveleremo dettagli nascosti di un luogo che è stato teatro di cospirazioni, giuramenti e incontri che hanno cambiato il corso del Venezuela.\r\n\r\nQuarta tappa: \r\nLa Última Copa: entreremo in un angolo che ci trasporta in un'altra epoca. Qui, tra storie e sussurri di personaggi illustri, brinderemo con tapas e sapori di terre lontane, unendo il passato e il presente in un unico momento.",
+      "pt": "Primeira paragem: \r\nEl Archivo Perdido: Num lugar esquecido do centro histórico esconde-se um lugar que guarda fragmentos da nossa história que o tempo quis apagar. Aqui, entre documentos e objectos centenários, descobriremos histórias que nunca chegaram aos livros de História.\r\n\r\nSegunda paragem: \r\nO Banquete Mantuano: Um casarão colonial abre suas portas para um banquete secreto. Um chef revelará receitas quase esquecidas, resgatadas dos primeiros livros de culinária do país. Cada mordida conta uma história, cada sabor esconde um passado fascinante.\r\n \r\nTerceira paragem: \r\nEl Punto de Encuentro: No coração da cidade, sob o olhar de testemunhas de parede e pedra, revelaremos detalhes escondidos de um lugar que foi palco de conspirações, juramentos e reuniões que mudaram o curso da Venezuela.\r\n\r\nQuarta paragem: \r\nLa Última Copa: Entraremos numa esquina que nos transporta para outra época. Aqui, entre histórias e sussurros de personagens ilustres, brindaremos com tapas e sabores de terras distantes, unindo num só momento o passado e o presente."
+    },
+    "providerTitle": "Legatum Guía Tour",
+    "providerPhone": "+584127113853",
+    "URL": "https://www.freetour.com/caracas/caracas-a-mordiscos-historia-cultura-sabor?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/caracas/caracas-a-mordiscos-historia-cultura-sabor?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/caracas/caracas-a-mordiscos-historia-cultura-sabor?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/caracas/caracas-a-mordiscos-historia-cultura-sabor?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/caracas/caracas-a-mordiscos-historia-cultura-sabor?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/caracas/caracas-a-mordiscos-historia-cultura-sabor?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/caracas/caracas-a-mordiscos-historia-cultura-sabor?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 65,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "Panteón Nacional, Caracas Venezuela",
+      "coordinates": "10.5130389,-66.91262270000001",
+      "googlePlaceId": "ChIJiVzo3s5eKowRnW3fGxIdI44"
+    },
+    "cityId": 4710,
+    "countryId": 168,
+    "includes": [
+      "National Pantheon",
+      "Entradas",
+      "Degustación",
+      "Bebidas",
+      "Asistencia logística ",
+      "Interpretación patrimonial"
+    ],
+    "POIs": [
+      {
+        "id": 5694,
+        "title": "National Pantheon",
+        "googlePlaceId": "ChIJiVzo3s5eKowRWAqsIFQl22c"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/73032/the-secret-caracas-bites-tour-history-culture-and-flavor-02.jpg",
+    "categoryId": 5,
+    "images": [
+      {
+        "id": 254644,
+        "URL": "https://www.freetour.com/images/tours/73032/the-secret-caracas-bites-tour-history-culture-and-flavor-02.jpg"
+      },
+      {
+        "id": 254941,
+        "URL": "https://www.freetour.com/images/tours/73032/caracas-a-mordiscos-historia-cultura-sabor-01.jpg"
+      },
+      {
+        "id": 254645,
+        "URL": "https://www.freetour.com/images/tours/73032/the-secret-caracas-bites-tour-history-culture-and-flavor-03.jpg"
+      },
+      {
+        "id": 254648,
+        "URL": "https://www.freetour.com/images/tours/73032/the-secret-caracas-bites-tour-history-culture-and-flavor-06.jpg"
+      },
+      {
+        "id": 254647,
+        "URL": "https://www.freetour.com/images/tours/73032/the-secret-caracas-bites-tour-history-culture-and-flavor-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

@@ -1,0 +1,1020 @@
+[
+  {
+    "id": 54144,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Mindelo by Night",
+      "es": "Mindelo de noche",
+      "pt": "Mindelo à noite",
+      "de": "Mindelo bei Nacht",
+      "fr": "Mindelo de nuit",
+      "it": "Mindelo di notte"
+    },
+    "brief": {
+      "de": "Begleiten Sie mich auf eine unvergessliche Reise durch die bekannten und geheimen Restaurants und Bars von Mindelo, wo talentierte Künstler Ihnen mit Live-Musik ein Ständchen bringen. Entdecken Sie den pulsierenden Rhythmus dieser Stadt nach Einbruch der Dunkelheit. Lassen Sie sich dieses Erlebnis nicht entgehen.",
+      "en": "Join me on an unforgettable journey through the renowned and secret restaurants and bars of Mindelo, where talented artists will serenade you with live music. Discover the pulsating rhythm of this city after dark. Don't miss out on this experience.",
+      "es": "Acompáñeme en un viaje inolvidable por los conocidos y secretos restaurantes y bares de Mindelo, donde talentosos artistas le ofrecerán una serenata con música en directo. Descubra el ritmo palpitante de esta ciudad al caer la noche. No se pierda esta experiencia.",
+      "fr": "Rejoignez-moi pour un voyage inoubliable à travers les restaurants et bars réputés et secrets de Mindelo, où des artistes talentueux vous donneront une sérénade avec de la musique en direct. Découvrez le rythme trépidant de cette ville à la nuit tombée. Ne manquez pas cette expérience.",
+      "it": "Unitevi a me in un viaggio indimenticabile attraverso i rinomati e segreti ristoranti e bar di Mindelo, dove artisti di talento vi accompagneranno con musica dal vivo. Scoprite il ritmo pulsante di questa città dopo il tramonto. Non perdetevi questa esperienza.",
+      "pt": "Juntem-se a mim numa viagem inesquecível pelos restaurantes e bares famosos e secretos do Mindelo, onde artistas talentosos vos farão uma serenata com música ao vivo. Descubra o ritmo pulsante desta cidade depois do anoitecer. Não perca esta experiência."
+    },
+    "description": {
+      "de": "Wir treffen uns vor dem Centro Cultural do Mindelo, schlendern an der Promenade des Jachthafens entlang und besuchen die bekanntesten Restaurants und Bars der Stadt. \r\n\r\nAnschließend biegen wir in enge Seitenstraßen ab und entdecken kleine Bars und versteckte Restaurants, die in keinem Reiseführer zu finden sind. Auf dieser Tour verrate ich Ihnen absolute Geheimtipps, damit Sie die kapverdische Lebensart hautnah erleben können.",
+      "en": "We will meet in front of the Centro Cultural do Mindelo, stroll along the promenade of the marina, and visit the city's most famous restaurants and bars. \r\n\r\nWe then turn off into narrow side streets and discover small bars and hidden restaurants that cannot be found in any travel guide. On this tour, I will share absolute insider tips with you so that you can experience the Cape Verdean way of life up close.",
+      "es": "Nos reuniremos frente al Centro Cultural do Mindelo, pasearemos por el paseo del puerto deportivo y visitaremos los restaurantes y bares más famosos de la ciudad. \r\n\r\nLuego nos desviaremos por estrechas calles laterales y descubriremos pequeños bares y restaurantes escondidos que no se pueden encontrar en ninguna guía de viajes. En esta excursión, compartiré con usted información absolutamente privilegiada para que pueda experimentar de cerca el modo de vida caboverdiano.",
+      "fr": "Nous nous retrouverons devant le Centro Cultural do Mindelo, nous nous promènerons le long de la promenade de la marina et nous visiterons les restaurants et les bars les plus célèbres de la ville. \r\n\r\nNous nous engageons ensuite dans des rues secondaires étroites et découvrons de petits bars et des restaurants cachés que l'on ne trouve dans aucun guide de voyage. Lors de cette visite, je partagerai avec vous des conseils d'initiés absolus afin que vous puissiez découvrir de près le mode de vie cap-verdien.",
+      "it": "Ci incontreremo davanti al Centro Cultural do Mindelo, passeggeremo lungo la passeggiata del porto turistico e visiteremo i ristoranti e i bar più famosi della città. \r\n\r\nPoi ci addentreremo in strette vie laterali per scoprire piccoli bar e ristoranti nascosti che non si trovano in nessuna guida turistica. Durante questo tour, condividerò con voi consigli assolutamente privilegiati, in modo che possiate sperimentare da vicino lo stile di vita capoverdiano.",
+      "pt": "Encontramo-nos em frente ao Centro Cultural do Mindelo, passeamos pela promenade da marina e visitamos os restaurantes e bares mais famosos da cidade. \r\n\r\nDe seguida, entramos em ruas secundárias estreitas e descobrimos pequenos bares e restaurantes escondidos que não podem ser encontrados em nenhum guia de viagem. Nesta excursão, partilharei consigo dicas absolutamente privilegiadas para que possa conhecer de perto o modo de vida cabo-verdiano."
+    },
+    "providerTitle": "Marion Touray",
+    "providerPhone": "9752844",
+    "URL": "https://www.freetour.com/mindelo/mindelo-by-night?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mindelo/mindelo-by-night?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mindelo/mindelo-by-night?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mindelo/mindelo-by-night?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mindelo/mindelo-by-night?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mindelo/mindelo-by-night?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mindelo/mindelo-by-night?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 40,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Centro Cultural",
+      "coordinates": "16.8869934,-24.9888992",
+      "googlePlaceId": "ChIJs8JkUa8eTwkRKkCbXd1R35A"
+    },
+    "cityId": 754,
+    "countryId": 27,
+    "includes": [
+      "Cultural Center of Mindelo"
+    ],
+    "POIs": [
+      {
+        "id": 4671,
+        "title": "Cultural Center of Mindelo",
+        "googlePlaceId": "ChIJG400tqgeTwkRhesDMmwj9QU"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/54144/mindelo-by-night-01.jpg",
+    "categoryId": 7,
+    "images": [
+      {
+        "id": 185492,
+        "URL": "https://www.freetour.com/images/tours/54144/mindelo-by-night-01.jpg"
+      },
+      {
+        "id": 185493,
+        "URL": "https://www.freetour.com/images/tours/54144/mindelo-by-night-02.jpg"
+      },
+      {
+        "id": 185495,
+        "URL": "https://www.freetour.com/images/tours/54144/mindelo-by-night-03.jpg"
+      },
+      {
+        "id": 185504,
+        "URL": "https://www.freetour.com/images/tours/54144/mindelo-by-night-04.jpg"
+      },
+      {
+        "id": 185505,
+        "URL": "https://www.freetour.com/images/tours/54144/mindelo-by-night-05.jpg"
+      },
+      {
+        "id": 185506,
+        "URL": "https://www.freetour.com/images/tours/54144/mindelo-by-night-06.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 54155,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "City Tour with Carnival Dancer",
+      "es": "Visita de la ciudad con bailarina de carnaval",
+      "pt": "Visita à cidade com bailarino de Carnaval",
+      "de": "Stadtrundfahrt mit Karnevalstänzerin",
+      "fr": "Tour de ville avec danseuse de carnaval",
+      "it": "Tour della città con ballerina di Carnevale"
+    },
+    "brief": {
+      "de": "Erleben Sie Mindelo mit allen Sinnen: Genießen Sie unsere Tour zu den schönsten Sehenswürdigkeiten, inklusive einer tollen Karnevalsshow das ganze Jahr über. Lassen Sie sich dieses großartige Erlebnis nicht entgehen und schließen Sie sich uns jetzt an.\r\n",
+      "en": "Experience Mindelo with all your senses: Enjoy our tour of the most beautiful sights, including a great carnival show all year round. Don't miss out on this great experience, and join us now.\r\n",
+      "es": "Viva Mindelo con todos los sentidos: Disfrute de nuestro recorrido por los lugares más bellos, incluyendo un gran espectáculo de carnaval durante todo el año. No te pierdas esta gran experiencia y únete a nosotros ahora.\r\n",
+      "fr": "Découvrez Mindelo avec tous vos sens : Profitez de notre visite des plus beaux sites, y compris un grand spectacle de carnaval tout au long de l'année. Ne manquez pas cette expérience exceptionnelle et rejoignez-nous dès maintenant.\r\n",
+      "it": "Vivete Mindelo con tutti i sensi: Godetevi il nostro tour dei luoghi più belli, compreso un grande spettacolo di carnevale durante tutto l'anno. Non perdetevi questa grande esperienza e unitevi a noi ora.\r\n",
+      "pt": "Viva Mindelo com todos os seus sentidos: Desfrute do nosso passeio pelos mais belos pontos turísticos, incluindo um grande espetáculo de carnaval durante todo o ano. Não perca esta grande experiência e junte-se a nós agora.\r\n"
+    },
+    "description": {
+      "de": "Begleiten Sie uns auf eine fesselnde Reise, bei der wir entlang des lebhaften Yachthafens von Mindelo schlendern und in seine pulsierende Atmosphäre eintauchen. Entdecken Sie die historisch und kulturell bedeutsamen Sehenswürdigkeiten von Mindelo, einschließlich eines Besuchs des berühmten Museums, das der legendären Sängerin Césaria Évora gewidmet ist.\r\n\r\nDer Höhepunkt unserer Tour ist eine 15-minütige, mitreißende Tanzvorführung der \"Königin des Samba\" von Mindelo. Lassen Sie sich vom Rhythmus der Musik mitreißen und in den Bann ziehen.\r\n\r\nWir setzen unsere Erkundungstour fort und schlängeln uns durch die malerische Altstadt, um ihren Charme und ihre Schönheit aufzusaugen. Nach einem bereichernden 3-stündigen Abenteuer kehren wir zu unserem Ausgangspunkt zurück und stellen sicher, dass Ihr Erlebnis nahtlos und pünktlich ist.\r\n\r\nVerpassen Sie nicht diese außergewöhnliche Gelegenheit, in die Seele von Mindelo einzutauchen.",
+      "en": "Join us on a captivating journey as we stroll along the lively marina of Mindelo, immersing ourselves in its vibrant atmosphere. Discover the historically and culturally significant landmarks of Mindelo, including a visit to the renowned museum dedicated to the legendary singer, Césaria Évora.\r\n\r\nThe highlight of our tour awaits as we witness an exhilarating 15-minute dance performance by Mindelo's very own \"Queen of Samba\". Let the rhythm of the music ignite your spirit and leave you mesmerized.\r\n\r\nContinuing our exploration, we meander through the picturesque old town, soaking in its charm and beauty. After an enriching 3-hour adventure, we return to our starting point, ensuring your experience is seamless and timely.\r\n\r\nDon't miss out on this extraordinary opportunity to delve into Mindelo's soul.",
+      "es": "Acompáñenos en un viaje cautivador mientras paseamos por el animado puerto deportivo de Mindelo, sumergiéndonos en su vibrante atmósfera. Descubra los hitos históricos y culturales de Mindelo, incluida una visita al famoso museo dedicado a la legendaria cantante Césaria Évora.\r\n\r\nEl punto culminante de nuestra excursión nos aguarda con un emocionante espectáculo de danza de 15 minutos a cargo de la \"Reina de la Samba\" de Mindelo. Deje que el ritmo de la música encienda su espíritu y le deje hipnotizado.\r\n\r\nContinuando nuestra exploración, pasearemos por el pintoresco casco antiguo, empapándonos de su encanto y belleza. Después de una enriquecedora aventura de 3 horas, regresamos a nuestro punto de partida, asegurándonos de que su experiencia sea perfecta y puntual.\r\n\r\nNo se pierda esta extraordinaria oportunidad de adentrarse en el alma de Mindelo.",
+      "fr": "Rejoignez-nous pour un voyage captivant en flânant le long de la marina animée de Mindelo, en nous immergeant dans son atmosphère vibrante. Découvrez les sites historiques et culturels importants de Mindelo, notamment le célèbre musée dédié à la légendaire chanteuse Césaria Évora.\r\n\r\nLe point culminant de notre visite est le spectacle de danse de 15 minutes de la \"Reine de la Samba\" de Mindelo. Laissez le rythme de la musique enflammer votre esprit et vous laisser hypnotiser.\r\n\r\nPoursuivant notre exploration, nous nous promenons dans la vieille ville pittoresque, nous imprégnant de son charme et de sa beauté. Après une aventure enrichissante de trois heures, nous retournons à notre point de départ, en veillant à ce que votre expérience soit transparente et opportune.\r\n\r\nNe manquez pas cette occasion extraordinaire de plonger dans l'âme de Mindelo.",
+      "it": "Unisciti a noi in un viaggio affascinante mentre passeggiamo lungo il vivace porto turistico di Mindelo, immergendoci nella sua vibrante atmosfera. Scoprite i punti di riferimento storici e culturali di Mindelo, compresa una visita al rinomato museo dedicato alla leggendaria cantante Césaria Évora.\r\n\r\nIl momento culminante del nostro tour ci attende quando assisteremo a un'esilarante esibizione di 15 minuti di danza della \"Regina del Samba\" di Mindelo. Lasciate che il ritmo della musica accenda il vostro spirito e vi lasci ipnotizzati.\r\n\r\nProseguendo la nostra esplorazione, ci addentriamo nella pittoresca città vecchia, immergendoci nel suo fascino e nella sua bellezza. Dopo un'avventura arricchente di 3 ore, torniamo al punto di partenza, assicurandoci che la vostra esperienza sia perfetta e puntuale.\r\n\r\nNon perdete questa straordinaria opportunità di addentrarvi nell'anima di Mindelo.",
+      "pt": "Junte-se a nós numa viagem cativante enquanto passeamos ao longo da animada marina do Mindelo, mergulhando na sua atmosfera vibrante. Descubra os marcos históricos e culturais mais importantes do Mindelo, incluindo uma visita ao famoso museu dedicado à lendária cantora Cesária Évora.\r\n\r\nO ponto alto da nossa visita é assistir a um espetáculo de dança de 15 minutos da \"Rainha do Samba\" do Mindelo. Deixe o ritmo da música incendiar o seu espírito e deixá-lo hipnotizado.\r\n\r\nContinuando a nossa exploração, percorremos a pitoresca cidade velha, mergulhando no seu encanto e beleza. Depois de uma aventura enriquecedora de 3 horas, regressamos ao nosso ponto de partida, assegurando que a sua experiência é perfeita e oportuna.\r\n\r\nNão perca esta extraordinária oportunidade de mergulhar na alma do Mindelo."
+    },
+    "providerTitle": "Marion Touray",
+    "providerPhone": "9752844",
+    "URL": "https://www.freetour.com/mindelo/stadtfuehrung-mit-karnevaltaenzerin?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mindelo/stadtfuehrung-mit-karnevaltaenzerin?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mindelo/stadtfuehrung-mit-karnevaltaenzerin?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mindelo/stadtfuehrung-mit-karnevaltaenzerin?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mindelo/stadtfuehrung-mit-karnevaltaenzerin?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mindelo/stadtfuehrung-mit-karnevaltaenzerin?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mindelo/stadtfuehrung-mit-karnevaltaenzerin?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 60,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Ouril Hotel",
+      "coordinates": "16.8891244,-24.9918718",
+      "googlePlaceId": "ChIJa2VaTKgeTwkRDqxGs9i07us"
+    },
+    "cityId": 754,
+    "countryId": 27,
+    "includes": [
+      "Ouril Hotel Mindelo"
+    ],
+    "POIs": [
+      {
+        "id": 21264,
+        "title": "Ouril Hotel Mindelo",
+        "googlePlaceId": "ChIJqeSYRGcfTwkRfj6gRNhFECE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/54155/stadtfuehrung-mit-karnevaltaenzerin-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 185508,
+        "URL": "https://www.freetour.com/images/tours/54155/stadtfuehrung-mit-karnevaltaenzerin-01.jpg"
+      },
+      {
+        "id": 185517,
+        "URL": "https://www.freetour.com/images/tours/54155/stadtfuehrung-mit-karnevaltaenzerin-04.jpg"
+      },
+      {
+        "id": 185518,
+        "URL": "https://www.freetour.com/images/tours/54155/stadtfuehrung-mit-karnevaltaenzerin-05.jpg"
+      },
+      {
+        "id": 185519,
+        "URL": "https://www.freetour.com/images/tours/54155/stadtfuehrung-mit-karnevaltaenzerin-06.jpg"
+      },
+      {
+        "id": 185520,
+        "URL": "https://www.freetour.com/images/tours/54155/stadtfuehrung-mit-karnevaltaenzerin-07.jpg"
+      },
+      {
+        "id": 185521,
+        "URL": "https://www.freetour.com/images/tours/54155/stadtfuehrung-mit-karnevaltaenzerin-08.jpg"
+      }
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=Teq-PKDo2yM",
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 54158,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "City Tour with Live Music",
+      "es": "Visita de la ciudad con música en directo",
+      "pt": "Visita à cidade com música ao vivo",
+      "de": "Stadtrundfahrt mit Live-Musik",
+      "fr": "Tour de ville avec musique live",
+      "it": "Tour della città con musica dal vivo"
+    },
+    "brief": {
+      "de": "Nehmen Sie an unserer Tour durch das charmante Mindelo teil und entdecken Sie die schönsten Orte der Stadt. Genießen Sie Live-Musik von einem lokalen Gitarristen und Sänger. Kommen Sie und machen Sie eine einzigartige Erfahrung!\r\n",
+      "en": "Join our tour of charming Mindelo and discover the city's most beautiful places. Enjoy live music performed by a local guitarist and singer. Come and have a unique experience!\r\n",
+      "es": "Únase a nuestro recorrido por la encantadora Mindelo y descubra los lugares más bellos de la ciudad. Disfrute de música en directo interpretada por un guitarrista y cantante local. ¡Venga a vivir una experiencia única!\r\n",
+      "fr": "Participez à notre visite du charmant Mindelo et découvrez les plus beaux endroits de la ville. Profitez de la musique jouée en direct par un guitariste et un chanteur locaux. Venez vivre une expérience unique !\r\n",
+      "it": "Unitevi al nostro tour dell'affascinante Mindelo e scoprite i luoghi più belli della città. Godetevi la musica dal vivo eseguita da un chitarrista e cantante locale. Venite a vivere un'esperienza unica!\r\n",
+      "pt": "Junte-se ao nosso passeio pelo encantador Mindelo e descubra os lugares mais bonitos da cidade. Desfrute de música ao vivo interpretada por um guitarrista e cantor local. Venha viver uma experiência única!\r\n"
+    },
+    "description": {
+      "de": "Wir spazieren entlang des lebhaften Yachthafens von Mindelo und führen Sie zu den historisch und kulturell wichtigsten Sehenswürdigkeiten von Mindelo und dem Museum der berühmten Sängerin Césaria Évora. \r\n\r\nDer Höhepunkt unserer Tour ist eine 30-minütige, mitreißende Live-Show eines professionellen Musikers. Anschließend setzen wir unsere Tour durch die malerische Altstadt fort und kommen nach 3 Stunden pünktlich wieder am Ausgangspunkt unserer Tour an.",
+      "en": "We walk along the lively marina of Mindelo and take you to the historically and culturally most important sights of Mindelo and the museum of the famous singer Césaria Évora. \r\n\r\nThe highlight of our tour is a 30-minute soul-stirring live show by a professional musician. We then continue our tour through the picturesque old town and arrive back at the starting point of our tour on time after 3 hours.",
+      "es": "Paseamos por el animado puerto deportivo de Mindelo y le llevamos a los lugares de interés histórico y cultural más importantes de Mindelo y al museo de la famosa cantante Césaria Évora. \r\n\r\nEl punto culminante de nuestra excursión es un espectáculo en vivo de 30 minutos de duración a cargo de un músico profesional. A continuación, continuaremos nuestro recorrido por el pintoresco casco antiguo y llegaremos puntualmente al punto de partida después de 3 horas.",
+      "fr": "Nous nous promenons le long de la marina animée de Mindelo et nous vous emmenons visiter les sites historiques et culturels les plus importants de Mindelo et le musée de la célèbre chanteuse Césaria Évora. \r\n\r\nLe point culminant de notre visite est un spectacle de 30 minutes donné par un musicien professionnel. Nous poursuivons ensuite notre visite à travers la vieille ville pittoresque et arrivons au point de départ de notre visite à l'heure prévue, après 3 heures.",
+      "it": "Passeggiamo lungo il vivace porto turistico di Mindelo e vi portiamo a visitare i luoghi storicamente e culturalmente più importanti di Mindelo e il museo della famosa cantante Césaria Évora. \r\n\r\nIl momento clou del nostro tour è uno spettacolo dal vivo di 30 minuti di un musicista professionista. Proseguiamo poi il nostro tour attraverso il pittoresco centro storico e torniamo al punto di partenza del nostro tour in orario dopo 3 ore.",
+      "pt": "Passeamos ao longo da animada marina do Mindelo e levamo-lo aos pontos turísticos histórica e culturalmente mais importantes do Mindelo e ao museu da famosa cantora Cesária Évora. \r\n\r\nO ponto alto do nosso passeio é um espetáculo ao vivo de 30 minutos, animado por um músico profissional. Em seguida, continuamos o nosso passeio pela pitoresca cidade velha e chegamos ao ponto de partida da nossa excursão a tempo, após 3 horas."
+    },
+    "providerTitle": "Marion Touray",
+    "providerPhone": "9752844",
+    "URL": "https://www.freetour.com/mindelo/stadtrundgang-mit-live-musik?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mindelo/stadtrundgang-mit-live-musik?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mindelo/stadtrundgang-mit-live-musik?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mindelo/stadtrundgang-mit-live-musik?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mindelo/stadtrundgang-mit-live-musik?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mindelo/stadtrundgang-mit-live-musik?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mindelo/stadtrundgang-mit-live-musik?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 60,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Ouril Hotel",
+      "coordinates": "16.8891244,-24.9918718",
+      "googlePlaceId": "ChIJa2VaTKgeTwkRDqxGs9i07us"
+    },
+    "cityId": 754,
+    "countryId": 27,
+    "includes": [
+      "Ouril Hotel Mindelo"
+    ],
+    "POIs": [
+      {
+        "id": 21264,
+        "title": "Ouril Hotel Mindelo",
+        "googlePlaceId": "ChIJqeSYRGcfTwkRfj6gRNhFECE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/54158/stadtrundgang-mit-live-musik-05.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 185527,
+        "URL": "https://www.freetour.com/images/tours/54158/stadtrundgang-mit-live-musik-05.jpg"
+      },
+      {
+        "id": 185522,
+        "URL": "https://www.freetour.com/images/tours/54158/stadtrundgang-mit-live-musik-01.jpg"
+      },
+      {
+        "id": 185524,
+        "URL": "https://www.freetour.com/images/tours/54158/stadtrundgang-mit-live-musik-02.jpg"
+      },
+      {
+        "id": 185525,
+        "URL": "https://www.freetour.com/images/tours/54158/stadtrundgang-mit-live-musik-03.jpg"
+      },
+      {
+        "id": 185526,
+        "URL": "https://www.freetour.com/images/tours/54158/stadtrundgang-mit-live-musik-04.jpg"
+      },
+      {
+        "id": 185528,
+        "URL": "https://www.freetour.com/images/tours/54158/stadtrundgang-mit-live-musik-06.jpg"
+      }
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=Teq-PKDo2yM",
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 54633,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Shark Bay Experience",
+      "es": "Experiencia en Shark Bay",
+      "pt": "Experiência na Baía dos Tubarões",
+      "de": "Erlebnis Haifischbucht",
+      "fr": "L'expérience de la baie des requins",
+      "it": "L'esperienza di Shark Bay"
+    },
+    "brief": {
+      "de": "Begeben Sie sich auf eine aufregende Reise zur faszinierenden Ostküste der Insel. Erleben Sie die faszinierende Schönheit einer natürlichen Zitronenhai-Kolonie, wo diese majestätischen hellbraunen oder sandfarbenen Kreaturen in ihrem natürlichen Lebensraum gedeihen.",
+      "en": "Embark on an exhilarating journey to the mesmerizing east coast of the island. Witness the captivating beauty of a natural lemon shark rookery, where these majestic light-brown or sand-colored creatures thrive in their natural habitat.",
+      "es": "Embárquese en un estimulante viaje a la fascinante costa este de la isla. Sea testigo de la cautivadora belleza de una colonia natural de tiburones limón, donde estas majestuosas criaturas de color marrón claro o arena prosperan en su hábitat natural.",
+      "fr": "Embarquez pour un voyage exaltant vers l'envoûtante côte est de l'île. Admirez la beauté captivante d'une colonie naturelle de requins citron, où ces majestueuses créatures de couleur marron clair ou sable s'épanouissent dans leur habitat naturel.",
+      "it": "Intraprendete un viaggio esilarante verso l'ipnotica costa orientale dell'isola. Ammirate l'affascinante bellezza di una riserva naturale di squali limone, dove queste maestose creature di colore marrone chiaro o sabbia prosperano nel loro habitat naturale.",
+      "pt": "Embarque numa viagem emocionante até à fascinante costa leste da ilha. Testemunhe a beleza cativante de uma colónia natural de tubarões-limão, onde estas majestosas criaturas castanho-claras ou cor de areia se desenvolvem no seu habitat natural."
+    },
+    "description": {
+      "de": "Besuchen Sie den östlichen Teil der Insel am Strand mit einer natürlichen Zitronenhai-Kolonie, die in ihrer natürlichen Umgebung hellbraun oder sandfarben ist. Bleiben Sie am Strand und beobachten Sie die Haie mit einem Fernglas oder gehen Sie ins Wasser und beobachten Sie sie aus nächster Nähe.\r\n\r\nDer Zitronenhai ist ein mittelgroßer bis großer Hai, der keine Gefahr für Menschen darstellt, aber eine Gefahr für andere Meerestiere sein kann. Sein wissenschaftlicher Name ist Negaprion Brevirostris. Seine durchschnittliche Länge beträgt etwa 2,5 bis 3 Meter, und einige der größten Zitronenhaie messen etwa 3,4 Meter. Diese Haie wachsen etwa 0,50 Zentimeter pro Jahr.\r\n\r\nNachdem Sie 60 Minuten mit den um Sie herumschwimmenden Haien verbracht und etwas über die Haie gelernt haben, werden Sie zurück zu Ihrer Lodge oder Ihrem Hotel gebracht, wo Sie abgeholt wurden.",
+      "en": "Visit the east part of the island on the beach with a natural lemon shark rookery, which is a light-brown colored shark or sand-colored when in its natural environment. Choose to stay on the beach and watch the sharks with binoculars or get in the water and watch them up close.\r\n\r\nThe lemon shark is a medium-to-large shark that does not threaten people but can be a danger to other ocean animals. Its scientific name is Negaprion Brevirostris. Its average length is about 2.5 to 3 meters, and some of the largest lemon sharks measure about 3.4 meters. These sharks grow about 0.50 centimeters per year.\r\n\r\nAfter spending 60 minutes with sharks swimming around you and learning about the sharks, you will be taken back to your lodge or hotel where you were picked up.",
+      "es": "Visite la parte este de la isla, en la playa con una colonia natural de tiburones limón, que son tiburones de color marrón claro o arena cuando están en su entorno natural. Elija entre quedarse en la playa y observar a los tiburones con prismáticos o meterse en el agua y verlos de cerca.\r\n\r\nEl tiburón limón es un tiburón de tamaño medio-grande que no amenaza a las personas pero puede ser un peligro para otros animales del océano. Su nombre científico es Negaprion Brevirostris. Su longitud media es de unos 2,5 a 3 metros, y algunos de los tiburones limón más grandes miden unos 3,4 metros. Estos tiburones crecen unos 0,50 centímetros al año.\r\n\r\nTras pasar 60 minutos con los tiburones nadando a su alrededor y aprender sobre ellos, le llevarán de vuelta al lodge u hotel donde le hayan recogido.",
+      "fr": "Visitez la partie est de l'île, sur la plage où se trouve une colonie naturelle de requins-citrons, qui sont de couleur marron clair ou couleur sable dans leur environnement naturel. Vous pouvez choisir de rester sur la plage et d'observer les requins à l'aide de jumelles ou de vous mettre à l'eau et de les observer de près.\r\n\r\nLe requin citron est un requin de taille moyenne à grande qui ne menace pas l'homme, mais qui peut être dangereux pour d'autres animaux marins. Son nom scientifique est Negaprion Brevirostris. Sa longueur moyenne est de 2,5 à 3 mètres, et certains des plus grands requins-citrons mesurent environ 3,4 mètres. Ces requins grandissent d'environ 0,50 centimètre par an.\r\n\r\nAprès avoir passé 60 minutes avec les requins nageant autour de vous et avoir appris des choses sur les requins, vous serez ramené à votre lodge ou à l'hôtel où vous avez été pris en charge.",
+      "it": "Visitate la parte orientale dell'isola, sulla spiaggia con un allevamento naturale di squali limone, uno squalo di colore marrone chiaro o color sabbia quando si trova nel suo ambiente naturale. Scegliete se rimanere sulla spiaggia e osservare gli squali con un binocolo o se entrare in acqua e osservarli da vicino.\r\n\r\nLo squalo limone è uno squalo di dimensioni medio-grandi che non minaccia le persone ma può essere un pericolo per altri animali dell'oceano. Il suo nome scientifico è Negaprion Brevirostris. La sua lunghezza media è di circa 2,5-3 metri, e alcuni degli squali limone più grandi misurano circa 3,4 metri. Questi squali crescono di circa 0,50 centimetri all'anno.\r\n\r\nDopo aver trascorso 60 minuti con gli squali che nuotano intorno a voi e aver imparato a conoscerli, sarete riaccompagnati al vostro lodge o all'hotel dove siete stati prelevati.",
+      "pt": "Visite a parte leste da ilha na praia com um viveiro natural de tubarões-limão, que são tubarões de cor castanha clara ou cor de areia quando estão no seu ambiente natural. Pode optar por ficar na praia e observar os tubarões com binóculos ou entrar na água e vê-los de perto.\r\n\r\nO tubarão-limão é um tubarão de médio a grande porte que não ameaça as pessoas, mas pode ser um perigo para outros animais do oceano. O seu nome científico é Negaprion Brevirostris. O seu comprimento médio é de cerca de 2,5 a 3 metros, e alguns dos maiores tubarões-limão medem cerca de 3,4 metros. Estes tubarões crescem cerca de 0,50 centímetros por ano.\r\n\r\nDepois de passar 60 minutos com os tubarões a nadar à sua volta e de aprender sobre os tubarões, será levado de volta ao seu alojamento ou hotel onde foi recolhido."
+    },
+    "providerTitle": "Arlindo Lopes",
+    "providerPhone": "+2385954271",
+    "URL": "https://www.freetour.com/ilha-de-fogo/sharkbay-experience?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/ilha-de-fogo/sharkbay-experience?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/ilha-de-fogo/sharkbay-experience?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/ilha-de-fogo/sharkbay-experience?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/ilha-de-fogo/sharkbay-experience?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/ilha-de-fogo/sharkbay-experience?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/ilha-de-fogo/sharkbay-experience?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 30,
+      "currency": "EUR"
+    },
+    "length": "9:00",
+    "meetingPoint": {
+      "title": "Rua do mercado ",
+      "coordinates": "16.6000812,-22.9103485",
+      "googlePlaceId": "ChIJp0qyRApcSwkR7UNl4N9D31g"
+    },
+    "cityId": 753,
+    "countryId": 27,
+    "includes": [
+      "Cabo Verde FastFerry",
+      "Ilha do fogo",
+      "Hotel pickup and drop-off",
+      "Private transportation",
+      "Licensed guide",
+      "Water shoes",
+      "Infants seat",
+      "Liability insurance",
+      "Hand sanitizer",
+      "Tour guid speak english"
+    ],
+    "POIs": [
+      {
+        "id": 21602,
+        "title": "Cabo Verde FastFerry",
+        "googlePlaceId": "ChIJf4buFksWNgkRYyJufizn7DA"
+      },
+      {
+        "id": 21603,
+        "title": "Ilha do fogo",
+        "googlePlaceId": "ChIJRXm2dx1xcwcR4T344u2mo3Q"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/54633/shark-bay-experience-1-05.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 187540,
+        "URL": "https://www.freetour.com/images/tours/54633/shark-bay-experience-1-05.jpg"
+      },
+      {
+        "id": 187541,
+        "URL": "https://www.freetour.com/images/tours/54633/shark-bay-experience-1-06.jpg"
+      },
+      {
+        "id": 187542,
+        "URL": "https://www.freetour.com/images/tours/54633/shark-bay-experience-1-07.jpg"
+      },
+      {
+        "id": 187543,
+        "URL": "https://www.freetour.com/images/tours/54633/shark-bay-experience-1-08.jpg"
+      },
+      {
+        "id": 187544,
+        "URL": "https://www.freetour.com/images/tours/54633/shark-bay-experience-1-09.jpg"
+      },
+      {
+        "id": 187545,
+        "URL": "https://www.freetour.com/images/tours/54633/shark-bay-experience-1-10.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 59691,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Mountain Tea Experience in Monte Verde",
+      "es": "Experiencia de té de Montaña en Monte Verde",
+      "pt": "Experiência de chá de montanha em Monte Verde",
+      "de": "Bergtee-Erlebnis in Monte Verde",
+      "fr": "Expérience du thé de montagne à Monte Verde",
+      "it": "Esperienza di tè in montagna a Monte Verde"
+    },
+    "brief": {
+      "de": "Kommen Sie mit uns zu einem einzigartigen Bergtee-Erlebnis in Monte Verde! Entdecken Sie die Schönheit der einheimischen Tierwelt, von lebhaften Vögeln wie dem Falco tinnunculus bis zur Mabuya-Eidechse. Entspannen Sie sich bei einer köstlichen Tasse Tee, umgeben von den Wundern der Natur...",
+      "en": "Join us for a unique Mountain Tea experience in Monte Verde! Discover the beauty of the local wildlife, from vibrant birds like the Falco tinnunculus to the Mabuya lizard. Relax with a delicious cup of tea while surrounded by nature’s wonders..",
+      "es": "Únase a nosotros para vivir una experiencia única de té de montaña en Monte Verde Descubra la belleza de la fauna local, desde aves vibrantes como el Falco tinnunculus hasta el lagarto Mabuya. Relájese con una deliciosa taza de té mientras se rodea de las maravillas de la naturaleza....",
+      "fr": "Rejoignez-nous pour une expérience unique de thé en montagne à Monte Verde ! Découvrez la beauté de la faune locale, des oiseaux vibrants comme le Falco tinnunculus au lézard Mabuya. Détendez-vous avec une délicieuse tasse de thé tout en étant entouré par les merveilles de la nature...",
+      "it": "Unitevi a noi per un'esperienza unica di tè di montagna a Monte Verde! Scoprite la bellezza della fauna locale, dai vivaci uccelli come il Falco tinnunculus alla lucertola Mabuya. Rilassatevi con una deliziosa tazza di tè, circondati dalle meraviglie della natura...",
+      "pt": "Junte-se a nós para uma experiência única de Chá de Montanha em Monte Verde! Descubra a beleza da vida selvagem local, desde aves vibrantes como o Falco tinnunculus até ao lagarto Mabuya. Relaxe com uma deliciosa chávena de chá enquanto está rodeado pelas maravilhas da natureza..."
+    },
+    "description": {
+      "de": "Begleiten Sie uns zu einem einmaligen Bergtee-Erlebnis in Monte Verde! Entdecken Sie die atemberaubende Tierwelt, von lebhaften Vögeln wie dem Falco tinnunculus bis zur Mabuya-Eidechse. Nippen Sie an einer warmen Tasse Tee und lassen Sie sich von der Schönheit der Natur verzaubern.\r\n\r\nDie Fauna von Monte Verde besteht hauptsächlich aus Reptilien und Vögeln, darunter Falco tinnunculus und Corvus ruficolis. Die Mabuya-Eidechse ist eine bemerkenswerte Art, die das einzigartige Ökosystem der Region bereichert.\r\n\r\nDer Monte Verde ist ein unverzichtbares Naturobservatorium, das sich perfekt für den Bergtourismus eignet. Von seinem Gipfel aus bietet sich ein atemberaubender Panoramablick auf die Insel São Vicente, die Bucht von Porto Grande und die Stadt Mindelo. An klaren Tagen haben Sie einen privilegierten Blick auf die Insel Santo Antão sowie auf Santa Luzia und die Inselchen Raso und Branco. \r\n\r\nDie strategisch günstige Lage im Nordosten der Insel macht Monte Verde zu einem einzigartigen Aussichtspunkt, von dem aus Sie die Schönheit der Insel und die unendlichen Weiten der Umgebung bewundern können. Begleiten Sie uns und erleben Sie dieses unvergessliche Abenteuer!",
+      "en": "Join us for a one-of-a-kind Mountain Tea experience in Monte Verde! Discover the breathtaking wildlife, from vibrant birds like the Falco tinnunculus to the Mabuya lizard. Sip on a warm cup of tea while immersing yourself in the natural beauty around you.\r\n\r\nMonte Verde’s fauna is mainly represented by reptiles and birds, including the Falco tinnunculus and Corvus ruficolis. The Mabuya lizard is a notable species that adds to the region’s unique ecosystem.\r\n\r\nMonte Verde is an essential natural observatory, perfect for mountain tourism. From its peak, enjoy stunning panoramic views of São Vicente Island, Porto Grande Bay, and the city of Mindelo. On clear days, you’ll have a privileged view of the island of Santo Antão, as well as Santa Luzia and the islets of Raso and Branco. \r\n\r\nIts strategic position on the northeastern side of the island makes Monte Verde a unique vantage point, offering unmatched views and highlighting the island’s beauty and the endless horizons beyond. Join us and experience this unforgettable adventure!",
+      "es": "Únase a nosotros para vivir una experiencia única de té de montaña en Monte Verde Descubra la impresionante vida salvaje, desde aves vibrantes como el Falco tinnunculus hasta el lagarto Mabuya. Saboree una taza de té caliente mientras se sumerge en la belleza natural que le rodea.\r\n\r\nLa fauna de Monte Verde está representada principalmente por reptiles y aves, como el Falco tinnunculus y el Corvus ruficolis. El lagarto Mabuya es una especie notable que se suma al ecosistema único de la región.\r\n\r\nMonte Verde es un observatorio natural imprescindible, perfecto para el turismo de montaña. Desde su cima, disfrute de impresionantes vistas panorámicas de la isla de São Vicente, la bahía de Porto Grande y la ciudad de Mindelo. En días despejados, tendrá una vista privilegiada de la isla de Santo Antão, así como de Santa Luzia y los islotes de Raso y Branco. \r\n\r\nSu posición estratégica en el lado noreste de la isla hace de Monte Verde un mirador único, que ofrece vistas inigualables y pone de relieve la belleza de la isla y los horizontes infinitos más allá. Únase a nosotros y viva esta aventura inolvidable",
+      "fr": "Rejoignez-nous pour une expérience unique de thé en montagne à Monte Verde ! Découvrez une faune à couper le souffle, des oiseaux vibrants comme le Falco tinnunculus au lézard Mabuya. Sirotez une tasse de thé chaude tout en vous immergeant dans la beauté naturelle qui vous entoure.\r\n\r\nLa faune du Monte Verde est principalement représentée par des reptiles et des oiseaux, notamment le Falco tinnunculus et le Corvus ruficolis. Le lézard Mabuya est une espèce remarquable qui contribue à l'écosystème unique de la région.\r\n\r\nLe Monte Verde est un observatoire naturel essentiel, parfait pour le tourisme de montagne. Depuis son sommet, vous bénéficierez d'une vue panoramique époustouflante sur l'île de São Vicente, la baie de Porto Grande et la ville de Mindelo. Par temps clair, vous aurez une vue privilégiée sur l'île de Santo Antão, ainsi que sur Santa Luzia et les îlots de Raso et Branco. \r\n\r\nSa position stratégique au nord-est de l'île fait du Monte Verde un point de vue unique, offrant des vues inégalées et mettant en valeur la beauté de l'île et les horizons infinis au-delà. Rejoignez-nous et vivez cette aventure inoubliable !",
+      "it": "Unitevi a noi per un'esperienza unica di tè di montagna a Monte Verde! Scoprite la fauna mozzafiato, dai vivaci uccelli come il Falco tinnunculus alla lucertola Mabuya. Sorseggiate una calda tazza di tè mentre vi immergete nella bellezza naturale che vi circonda.\r\n\r\nLa fauna di Monte Verde è rappresentata principalmente da rettili e uccelli, tra cui il Falco tinnunculus e il Corvus ruficolis. La lucertola Mabuya è una specie notevole che si aggiunge all'ecosistema unico della regione.\r\n\r\nIl Monte Verde è un osservatorio naturale essenziale, perfetto per il turismo di montagna. Dalla sua cima si gode di una splendida vista panoramica sull'isola di São Vicente, sulla baia di Porto Grande e sulla città di Mindelo. Nelle giornate più limpide, avrete una vista privilegiata sull'isola di Santo Antão, oltre che su Santa Luzia e sugli isolotti di Raso e Branco. \r\n\r\nLa sua posizione strategica sul lato nord-orientale dell'isola rende il Monte Verde un punto di osservazione unico, che offre una vista impareggiabile e mette in risalto la bellezza dell'isola e gli infiniti orizzonti che la circondano. Unitevi a noi e vivete questa indimenticabile avventura!",
+      "pt": "Junte-se a nós para uma experiência única de Chá de Montanha em Monte Verde! Descubra a vida selvagem de cortar a respiração, desde aves vibrantes como o Falco tinnunculus até ao lagarto Mabuya. Beba uma chávena de chá quente enquanto mergulha na beleza natural que o rodeia.\r\n\r\nA fauna de Monte Verde é representada principalmente por répteis e aves, incluindo o Falco tinnunculus e o Corvus ruficolis. O lagarto Mabuya é uma espécie notável que contribui para o ecossistema único da região.\r\n\r\nO Monte Verde é um observatório natural essencial, perfeito para o turismo de montanha. Do seu cume, desfruta-se de uma vista panorâmica deslumbrante sobre a Ilha de São Vicente, a Baía do Porto Grande e a cidade do Mindelo. Em dias de céu limpo, tem-se uma visão privilegiada da ilha de Santo Antão, bem como de Santa Luzia e dos ilhéus do Raso e do Branco. \r\n\r\nA sua posição estratégica, no lado nordeste da ilha, faz do Monte Verde um ponto de observação único, oferecendo vistas inigualáveis e realçando a beleza da ilha e os horizontes infinitos que a rodeiam. Junte-se a nós e viva esta aventura inesquecível!"
+    },
+    "providerTitle": "Aclea Tour Mindelo",
+    "providerPhone": "+2389504448",
+    "URL": "https://www.freetour.com/mindelo/mountain-tea-experience-in-monte-verde?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mindelo/mountain-tea-experience-in-monte-verde?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mindelo/mountain-tea-experience-in-monte-verde?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mindelo/mountain-tea-experience-in-monte-verde?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mindelo/mountain-tea-experience-in-monte-verde?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mindelo/mountain-tea-experience-in-monte-verde?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mindelo/mountain-tea-experience-in-monte-verde?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 50,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "Praça Estrela ",
+      "coordinates": "16.8836568,-24.9885798",
+      "googlePlaceId": "ChIJs8JkUa8eTwkRKkCbXd1R35A"
+    },
+    "cityId": 754,
+    "countryId": 27,
+    "includes": [
+      "Transport, Tea and biscuits in the mountain  Photos of the tour "
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-02.jpg",
+    "categoryId": 9,
+    "images": [
+      {
+        "id": 223876,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-02.jpg"
+      },
+      {
+        "id": 224996,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-15.jpg"
+      },
+      {
+        "id": 224994,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-13.jpg"
+      },
+      {
+        "id": 224997,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-16.jpg"
+      },
+      {
+        "id": 215974,
+        "URL": "https://www.freetour.com/images/tours/59691/turtle-whatching-09.jpg"
+      },
+      {
+        "id": 224995,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-14.jpg"
+      },
+      {
+        "id": 215968,
+        "URL": "https://www.freetour.com/images/tours/59691/turtle-whatching-03.jpg"
+      },
+      {
+        "id": 224993,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-12.jpg"
+      },
+      {
+        "id": 215969,
+        "URL": "https://www.freetour.com/images/tours/59691/turtle-whatching-04.jpg"
+      },
+      {
+        "id": 223875,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-01.jpg"
+      },
+      {
+        "id": 223878,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-04.jpg"
+      },
+      {
+        "id": 215970,
+        "URL": "https://www.freetour.com/images/tours/59691/turtle-whatching-05.jpg"
+      },
+      {
+        "id": 215973,
+        "URL": "https://www.freetour.com/images/tours/59691/turtle-whatching-08.jpg"
+      },
+      {
+        "id": 223880,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-06.jpg"
+      },
+      {
+        "id": 223877,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-03.jpg"
+      },
+      {
+        "id": 223881,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-07.jpg"
+      },
+      {
+        "id": 223884,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-10.jpg"
+      },
+      {
+        "id": 223883,
+        "URL": "https://www.freetour.com/images/tours/59691/mountain-tea-experience-in-monte-verde-09.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 64311,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "Walk to the most Beautiful Views of Mindelo",
+      "es": "Camine hacia las Vistas más Hermosas de Mindelo",
+      "pt": "Caminhada para as mais belas vistas do Mindelo",
+      "de": "Spaziergang zu den schönsten Aussichten von Mindelo",
+      "fr": "A pied vers les plus belles vues de Mindelo",
+      "it": "Passeggiata verso le viste più belle di Mindelo"
+    },
+    "brief": {
+      "de": "Nehmen Sie an unserer Wandertour teil und entdecken Sie die atemberaubendsten Aussichten von Mindelo! Wandern Sie auf leicht zugängliche Berge und genießen Sie atemberaubende Ausblicke auf die Stadt. Verpassen Sie nicht die Gelegenheit, Mindelo von oben zu erkunden, es erwarten Sie unvergessliche Eindrücke!",
+      "en": "Join our walking tour and discover Mindelo’s most stunning views! Hike easily accessible mountains for breathtaking panoramas of the city. Don't miss this chance to explore Mindelo from above, unforgettable sights await!",
+      "es": "Únase a nuestro recorrido a pie y descubra las vistas más impresionantes de Mindelo Camine por las montañas de fácil acceso para disfrutar de impresionantes panorámicas de la ciudad. No se pierda esta oportunidad de explorar Mindelo desde las alturas, ¡le esperan vistas inolvidables!",
+      "fr": "Participez à notre visite à pied et découvrez les vues les plus étonnantes de Mindelo ! Vous pourrez faire de la randonnée sur des montagnes faciles d'accès et profiter de panoramas à couper le souffle sur la ville. Ne manquez pas cette occasion d'explorer Mindelo d'en haut, des vues inoubliables vous attendent !",
+      "it": "Unitevi al nostro tour a piedi e scoprite i panorami più belli di Mindelo! Fate un'escursione su montagne facilmente accessibili per ammirare panorami mozzafiato della città. Non perdete l'occasione di esplorare Mindelo dall'alto: vi aspettano panorami indimenticabili!",
+      "pt": "Junte-se ao nosso passeio a pé e descubra as vistas mais deslumbrantes do Mindelo! Caminhe pelas montanhas de fácil acesso para obter panoramas deslumbrantes da cidade. Não perca esta oportunidade de explorar o Mindelo de cima, esperam-no paisagens inesquecíveis!"
+    },
+    "description": {
+      "de": "Erkunden Sie die atemberaubenden Landschaften von Mindelo mit unserer geführten Wanderung zu den beeindruckendsten Sehenswürdigkeiten der Region! Während dieses einzigartigen Erlebnisses haben Sie die Gelegenheit, die natürliche Schönheit der Berge, die goldenen Sandstrände und die pulsierende Architektur der Stadt zu genießen. \r\n\r\nUnsere einheimischen Führer erzählen Ihnen faszinierende Geschichten über die Kultur und Geschichte Mindelos, während Sie den Panoramablick auf das Meer und die Küste genießen. Die Wanderung ist für alle Schwierigkeitsgrade geeignet und bietet Fotostopps an strategischen Punkten, damit Sie jeden besonderen Moment festhalten können. Kommen Sie mit uns und entdecken Sie die verborgenen Geheimnisse dieses kapverdischen Paradieses!",
+      "en": "Explore Mindelo's stunning landscapes with our guided walk through the region's most impressive sights! During this unique experience, you will have the opportunity to appreciate the natural beauty of the mountains, the golden sandy beaches, and the vibrant architecture of the city. \r\n\r\nOur local guides will share fascinating stories about Mindelo's culture and history while you marvel at the panoramic views of the ocean and coastline. The walk is suitable for all skill levels and offers photo stops at strategic points, ensuring you capture every special moment. Join us and discover the hidden secrets of this Cape Verdean paradise!",
+      "es": "Explore los impresionantes paisajes de Mindelo con nuestro paseo guiado por los lugares de interés más impresionantes de la región Durante esta experiencia única, tendrá la oportunidad de apreciar la belleza natural de las montañas, las playas de arena dorada y la vibrante arquitectura de la ciudad. \r\n\r\nNuestros guías locales le contarán historias fascinantes sobre la cultura y la historia de Mindelo mientras se maravilla con las vistas panorámicas del océano y la costa. El paseo es apto para todos los niveles y ofrece paradas fotográficas en puntos estratégicos, para que pueda capturar cada momento especial. Únase a nosotros y descubra los secretos ocultos de este paraíso caboverdiano",
+      "fr": "Explorez les paysages époustouflants de Mindelo grâce à notre promenade guidée à travers les sites les plus impressionnants de la région ! Au cours de cette expérience unique, vous aurez l'occasion d'apprécier la beauté naturelle des montagnes, les plages de sable doré et l'architecture vibrante de la ville. \r\n\r\nNos guides locaux vous raconteront des histoires fascinantes sur la culture et l'histoire de Mindelo, tandis que vous vous émerveillerez devant les vues panoramiques de l'océan et du littoral. La promenade est adaptée à tous les niveaux et propose des arrêts photos à des points stratégiques, pour vous permettre d'immortaliser chaque instant. Rejoignez-nous et découvrez les secrets cachés de ce paradis cap-verdien !",
+      "it": "Esplorate gli splendidi paesaggi di Mindelo con la nostra passeggiata guidata attraverso i luoghi più suggestivi della regione! Durante questa esperienza unica, avrete l'opportunità di apprezzare la bellezza naturale delle montagne, le spiagge di sabbia dorata e la vibrante architettura della città. \r\n\r\nLe nostre guide locali vi racconteranno storie affascinanti sulla cultura e la storia di Mindelo, mentre ammirerete le viste panoramiche dell'oceano e della costa. La passeggiata è adatta a tutti i livelli di abilità e offre soste fotografiche in punti strategici, assicurandovi di catturare ogni momento speciale. Unitevi a noi e scoprite i segreti nascosti di questo paradiso capoverdiano!",
+      "pt": "Explore as paisagens deslumbrantes de Mindelo com o nosso passeio guiado pelos pontos turísticos mais impressionantes da região! Durante esta experiência única, terá a oportunidade de apreciar a beleza natural das montanhas, as praias de areia dourada e a arquitetura vibrante da cidade. \r\n\r\nOs nossos guias locais irão partilhar histórias fascinantes sobre a cultura e a história do Mindelo, enquanto se maravilha com as vistas panorâmicas sobre o oceano e a costa. O passeio é adequado para todos os níveis de habilidade e oferece paradas para fotos em pontos estratégicos, garantindo que você capture cada momento especial. Junte-se a nós e descubra os segredos escondidos deste paraíso cabo-verdiano!"
+    },
+    "providerTitle": "Aclea Tour Mindelo",
+    "providerPhone": "+2389504448",
+    "URL": "https://www.freetour.com/mindelo/walk-to-the-most-beautiful-views-of-mindelo?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mindelo/walk-to-the-most-beautiful-views-of-mindelo?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mindelo/walk-to-the-most-beautiful-views-of-mindelo?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mindelo/walk-to-the-most-beautiful-views-of-mindelo?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mindelo/walk-to-the-most-beautiful-views-of-mindelo?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mindelo/walk-to-the-most-beautiful-views-of-mindelo?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mindelo/walk-to-the-most-beautiful-views-of-mindelo?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Mansa Marina ",
+      "coordinates": "16.8862989,-24.9898471",
+      "googlePlaceId": "ChIJs8JkUa8eTwkRKkCbXd1R35A"
+    },
+    "cityId": 754,
+    "countryId": 27,
+    "includes": [
+      "MANSA MARINA HOTEL",
+      "Photo during the walking tour"
+    ],
+    "POIs": [
+      {
+        "id": 26958,
+        "title": "MANSA MARINA HOTEL",
+        "googlePlaceId": "ChIJgUg41WcfTwkRzhbjWJP36QI"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-12.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 224981,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-12.jpg"
+      },
+      {
+        "id": 225000,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-25.jpg"
+      },
+      {
+        "id": 224999,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-24.jpg"
+      },
+      {
+        "id": 225001,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-26.jpg"
+      },
+      {
+        "id": 224998,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-23.jpg"
+      },
+      {
+        "id": 224982,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-13.jpg"
+      },
+      {
+        "id": 224983,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-14.jpg"
+      },
+      {
+        "id": 224984,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-15.jpg"
+      },
+      {
+        "id": 224985,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-16.jpg"
+      },
+      {
+        "id": 224986,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-17.jpg"
+      },
+      {
+        "id": 224987,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-18.jpg"
+      },
+      {
+        "id": 224988,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-19.jpg"
+      },
+      {
+        "id": 224989,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-20.jpg"
+      },
+      {
+        "id": 224990,
+        "URL": "https://www.freetour.com/images/tours/64311/walk-to-the-most-beautiful-views-of-mindelo-21.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 2.07,
+    "reviewsNumber": 3
+  },
+  {
+    "id": 68441,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "The Cape Verdean Katxupa Cooking Experience",
+      "es": "La Experiencia Culinaria de la Katxupa Caboverdiana",
+      "pt": "A experiência culinária cabo-verdiana Katxupa",
+      "de": "Das kapverdische Katxupa-Kocherlebnis",
+      "fr": "L'expérience culinaire de la Katxupa du Cap-Vert",
+      "it": "L'esperienza di cucina Katxupa di Capo Verde"
+    },
+    "brief": {
+      "de": "Erleben Sie mit uns eine einzigartige kapverdische Erfahrung! Ernten Sie frische Zutaten, kochen Sie mit einem einheimischen Koch traditionelle Katxupa und genießen Sie ein köstliches Essen mit Live-Musik in einer warmen, familienfreundlichen Atmosphäre. Entdecken Sie die Aromen und Rhythmen der Kapverden!",
+      "en": "Join us for a unique Cape Verdean experience! Harvest fresh ingredients, cook traditional Katxupa with a local chef, and enjoy a delicious meal with live music in a warm, family-friendly atmosphere. Discover the flavors and rhythms of Cape Verde!",
+      "es": "Únase a nosotros para vivir una experiencia única en Cabo Verde Coseche ingredientes frescos, cocine la tradicional Katxupa con un chef local y disfrute de una deliciosa comida con música en directo en un ambiente cálido y familiar. ¡Descubre los sabores y ritmos de Cabo Verde!",
+      "fr": "Rejoignez-nous pour une expérience capverdienne unique ! Récoltez des ingrédients frais, cuisinez la Katxupa traditionnelle avec un chef local et dégustez un délicieux repas accompagné de musique dans une atmosphère chaleureuse et familiale. Découvrez les saveurs et les rythmes du Cap-Vert !",
+      "it": "Unitevi a noi per un'esperienza capoverdiana unica! Raccogliete ingredienti freschi, cucinate la Katxupa tradizionale con uno chef locale e gustate un pasto delizioso con musica dal vivo in un'atmosfera calda e familiare. Scoprite i sapori e i ritmi di Capo Verde!",
+      "pt": "Junte-se a nós para uma experiência cabo-verdiana única! Colha ingredientes frescos, cozinhe a tradicional Katxupa com um chefe local e desfrute de uma deliciosa refeição com música ao vivo num ambiente acolhedor e familiar. Descubra os sabores e os ritmos de Cabo Verde!"
+    },
+    "description": {
+      "de": "Tauchen Sie mit unserem Katxupa-Workshop und der Hauptstadt-Tour in die kapverdische Kultur ein! Erkunden Sie zunächst die lebhaften Märkte von Sal Rei, wo Sie frische Zutaten für das Gericht kaufen. Anschließend unternehmen Sie eine Stadtrundfahrt, bei der Sie die wichtigsten Sehenswürdigkeiten, den lokalen Markt und die Strände besuchen. \r\n\r\nNachdem Sie alles Nötige besorgt haben, machen Sie sich auf den Weg zu einem einheimischen Haus, wo Sie ein praktisches Kocherlebnis haben. Lernen Sie, wie man Katxupa zubereitet, während Live-Musik für die richtige Stimmung sorgt. Diese Tour ist die perfekte Mischung aus kulinarischem Abenteuer, kultureller Erkundung und Sightseeing und gibt Ihnen einen authentischen Eindruck von den reichen Traditionen der Kapverden.",
+      "en": "Immerse yourself in Cape Verdean culture with our Katxupa Workshop and Capital Tour! Begin by exploring the lively markets of Sal Rei, where you'll buy fresh ingredients for the dish. Then, enjoy a city tour, visiting iconic sights, including the local market and beaches. \r\n\r\nAfter gathering everything you need, head to a local home for a hands-on cooking experience. Learn to prepare Katxupa while live music sets the mood. This tour is the perfect blend of culinary adventure, cultural exploration, and sightseeing, giving you an authentic taste of Cape Verde's rich traditions.",
+      "es": "¡Sumérjase en la cultura caboverdiana con nuestro Taller de Katxupa y Capital Tour! Comience explorando los animados mercados de Sal Rei, donde comprará ingredientes frescos para el plato. A continuación, disfrute de un recorrido por la ciudad, visitando lugares emblemáticos, como el mercado local y las playas. \r\n\r\nDespués de reunir todo lo necesario, diríjase a una casa local para vivir una experiencia culinaria práctica. Aprenda a preparar Katxupa mientras la música en directo crea ambiente. Esta excursión es la combinación perfecta de aventura culinaria, exploración cultural y visitas turísticas, y le permitirá saborear las ricas tradiciones de Cabo Verde.",
+      "fr": "Plongez dans la culture capverdienne avec notre atelier Katxupa et notre visite de la capitale ! Commencez par explorer les marchés animés de Sal Rei, où vous achèterez des ingrédients frais pour le plat. Ensuite, vous ferez un tour de ville et visiterez des sites emblématiques, y compris le marché local et les plages. \r\n\r\nAprès avoir rassemblé tout ce dont vous avez besoin, rendez-vous dans une maison locale pour une expérience culinaire pratique. Apprenez à préparer la Katxupa tout en écoutant de la musique. Ce circuit est un mélange parfait d'aventure culinaire, d'exploration culturelle et de visites touristiques, qui vous donnera un aperçu authentique des riches traditions du Cap-Vert.",
+      "it": "Immergetevi nella cultura capoverdiana con il nostro Katxupa Workshop and Capital Tour! Iniziate esplorando i vivaci mercati di Sal Rei, dove acquisterete gli ingredienti freschi per il piatto. Poi, godetevi un tour della città, visitando i luoghi simbolo, tra cui il mercato locale e le spiagge. \r\n\r\nDopo aver raccolto tutto ciò che vi serve, recatevi in una casa locale per un'esperienza di cucina pratica. Imparate a preparare il Katxupa mentre la musica dal vivo crea l'atmosfera. Questo tour è il mix perfetto di avventura culinaria, esplorazione culturale e visita della città, per offrirvi un assaggio autentico delle ricche tradizioni di Capo Verde.",
+      "pt": "Mergulhe na cultura cabo-verdiana com o nosso Workshop de Katxupa e a nossa Visita à Capital! Comece por explorar os animados mercados de Sal Rei, onde comprará ingredientes frescos para o prato. Depois, desfrute de um passeio pela cidade, visitando locais emblemáticos, incluindo o mercado local e as praias. \r\n\r\nDepois de reunir tudo o que precisa, dirija-se a uma casa local para uma experiência culinária prática. Aprenda a preparar Katxupa enquanto música ao vivo dá o tom. Esta excursão é a mistura perfeita de aventura culinária, exploração cultural e visitas turísticas, dando-lhe um sabor autêntico das ricas tradições de Cabo Verde."
+    },
+    "providerTitle": "Ecoturism Tours",
+    "providerPhone": "+2389569230",
+    "URL": "https://www.freetour.com/boa-vista/the-cape-verdean-katxupa-cooking-experience?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/boa-vista/the-cape-verdean-katxupa-cooking-experience?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/boa-vista/the-cape-verdean-katxupa-cooking-experience?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/boa-vista/the-cape-verdean-katxupa-cooking-experience?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/boa-vista/the-cape-verdean-katxupa-cooking-experience?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/boa-vista/the-cape-verdean-katxupa-cooking-experience?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/boa-vista/the-cape-verdean-katxupa-cooking-experience?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 75,
+      "currency": "EUR"
+    },
+    "length": "7:30",
+    "meetingPoint": {
+      "title": "Cabo Verde",
+      "coordinates": "16.183349,-22.9148168",
+      "googlePlaceId": "ChIJH4lambI8SwkRi5iwQ7KHkQE"
+    },
+    "cityId": 5126,
+    "countryId": 27,
+    "includes": [
+      "Carni market's",
+      "Cape Verde Post Office",
+      "Includes lunch tasting Katxupa from the workshop",
+      "Refreshing drinks and water on the table",
+      "Transfer from and to hotel",
+      "Workshop with local chef"
+    ],
+    "POIs": [
+      {
+        "id": 28786,
+        "title": "Carni market's",
+        "googlePlaceId": "ChIJ9Uy-gUYjSwkRmmFzgozZ7vU"
+      },
+      {
+        "id": 29731,
+        "title": "Cape Verde Post Office",
+        "googlePlaceId": "ChIJ7_KM3PRbSwkRfWgh9U12h3U"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-01.jpg",
+    "categoryId": 5,
+    "images": [
+      {
+        "id": 238964,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-01.jpg"
+      },
+      {
+        "id": 238965,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-02.jpg"
+      },
+      {
+        "id": 238966,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-03.jpg"
+      },
+      {
+        "id": 238967,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-04.jpg"
+      },
+      {
+        "id": 238968,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-05.jpg"
+      },
+      {
+        "id": 238970,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-07.jpg"
+      },
+      {
+        "id": 238972,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-09.jpg"
+      },
+      {
+        "id": 238973,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-10.jpg"
+      },
+      {
+        "id": 238974,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-11.jpg"
+      },
+      {
+        "id": 238978,
+        "URL": "https://www.freetour.com/images/tours/68441/katxupa-workshop-15.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 79018,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Turtle Watching with Local Guides",
+      "es": "Observación de Tortugas con Guías Locales",
+      "pt": "Observação de tartarugas com guias locais",
+      "de": "Schildkrötenbeobachtung mit lokalen Führern",
+      "fr": "Observation des tortues avec des guides locaux",
+      "it": "Osservazione delle tartarughe con guide locali"
+    },
+    "brief": {
+      "de": "Nehmen Sie an einer nächtlichen Schildkrötenbeobachtungstour in Boa Vista teil (1. Juli bis 15. Oktober). Erkunden Sie mit Führern und Biologen geschützte Strände und erfahren Sie mehr über Unechte Karettschildkröten und Schutzmaßnahmen. Ein einzigartiges, umweltfreundliches Erlebnis!",
+      "en": "Join a nighttime sea turtle watching tour in Boa Vista (July 1–Oct 15). Explore protected beaches with guides and biologists, and learn about loggerhead turtles and conservation efforts. A unique, eco-friendly experience!",
+      "es": "Únase a una excursión nocturna de observación de tortugas marinas en Boa Vista (del 1 de julio al 15 de octubre). Explore playas protegidas con guías y biólogos, y aprenda sobre las tortugas bobas y los esfuerzos de conservación. Una experiencia única y ecológica",
+      "fr": "Participez à une excursion nocturne d'observation des tortues de mer à Boa Vista (du 1er juillet au 15 octobre). Explorez les plages protégées avec des guides et des biologistes, et apprenez-en plus sur les tortues caouannes et les efforts de conservation. Une expérience unique et respectueuse de l'environnement !",
+      "it": "Partecipate a un tour notturno di osservazione delle tartarughe marine a Boa Vista (1 luglio-15 ottobre). Esplorate le spiagge protette con guide e biologi, e imparate a conoscere le tartarughe marine e gli sforzi di conservazione. Un'esperienza unica ed ecologica!",
+      "pt": "Participe numa excursão nocturna de observação de tartarugas marinhas em Boa Vista (1 de julho a 15 de outubro). Explore praias protegidas com guias e biólogos, e aprenda sobre tartarugas cabeçudas e esforços de conservação. Uma experiência única e amiga do ambiente!"
+    },
+    "description": {
+      "de": "Machen Sie eine einzigartige und verantwortungsvolle Erfahrung mit den majestätischen Meeresschildkröten von Boa Vista. In Begleitung von lokalen Führern und Biologen besuchen Sie geschützte Strände, an denen Unechte Karettschildkröten (Caretta caretta) ihre Eier ablegen. \r\n\r\nWährend dieses nächtlichen Ausflugs erfahren Sie mehr über den Lebenszyklus der Schildkröten, die laufenden Schutzbemühungen in Cabo Verde und wie Sie zum Schutz dieser unglaublichen Kreaturen beitragen können. Der Respekt vor der Natur und die Umwelterziehung stehen bei dieser Aktivität im Mittelpunkt. Eine seltene Gelegenheit, eines der größten Naturschauspiele sicher und unvergesslich zu erleben.\r\n\r\nSaison: 1. Juli bis 15. Oktober.\r\nZeit: Abfahrten in der Nacht (muss noch bestätigt werden)\r\nNiveau: Leicht, leichte Wanderung auf Sand.\r\nOrt: Geschützte Strände rund um die Insel.",
+      "en": "Join a unique and responsible experience with Boa Vista’s majestic sea turtles. Accompanied by local guides and biologists, you’ll visit protected beaches where loggerhead turtles (Caretta caretta) come to lay their eggs. \r\n\r\nDuring this nighttime excursion, you’ll learn about their life cycle, the ongoing conservation efforts in Cabo Verde, and how you can help protect these incredible creatures. Respect for nature and environmental education are at the heart of this activity. A rare opportunity to witness one of nature’s greatest spectacles, safely and memorably.\r\n\r\nSeason: July 1st to October 15th.\r\nTime: Night departures (to be confirmed)\r\nLevel: Easy, light walking on sand.\r\nLocation: Protected beaches around the island.",
+      "es": "Únase a una experiencia única y responsable con las majestuosas tortugas marinas de Boa Vista. Acompañado por guías y biólogos locales, visitará playas protegidas donde las tortugas bobas (Caretta caretta) vienen a desovar. \r\n\r\nDurante esta excursión nocturna, aprenderá sobre su ciclo vital, los esfuerzos de conservación que se realizan en Cabo Verde y cómo puede ayudar a proteger a estas increíbles criaturas. El respeto por la naturaleza y la educación medioambiental son la esencia de esta actividad. Una oportunidad única de presenciar uno de los mayores espectáculos de la naturaleza, de forma segura y memorable.\r\n\r\nTemporada: Del 1 de julio al 15 de octubre.\r\nHorario: Salidas nocturnas (por confirmar)\r\nNivel: Fácil, caminata ligera sobre arena.\r\nLocalización: Playas protegidas alrededor de la isla.",
+      "fr": "Participez à une expérience unique et responsable avec les majestueuses tortues de mer de Boa Vista. Accompagnés de guides et de biologistes locaux, vous visiterez des plages protégées où les tortues caouannes (Caretta caretta) viennent pondre leurs œufs. \r\n\r\nAu cours de cette excursion nocturne, vous découvrirez leur cycle de vie, les efforts de conservation en cours à Cabo Verde et comment vous pouvez contribuer à protéger ces incroyables créatures. Le respect de la nature et l'éducation environnementale sont au cœur de cette activité. Une occasion rare d'assister à l'un des plus grands spectacles de la nature, en toute sécurité et de manière mémorable.\r\n\r\nSaison : Du 1er juillet au 15 octobre.\r\nHeure : Départs de nuit (à confirmer)\r\nNiveau : Facile, marche légère sur le sable.\r\nLieu : Plages protégées autour de l'île.",
+      "it": "Partecipate a un'esperienza unica e responsabile con le maestose tartarughe marine di Boa Vista. Accompagnati da guide e biologi locali, visiterete le spiagge protette dove le tartarughe Caretta caretta vengono a deporre le uova. \r\n\r\nDurante questa escursione notturna, imparerete a conoscere il loro ciclo di vita, gli sforzi di conservazione in corso a Cabo Verde e come potete contribuire a proteggere queste incredibili creature. Il rispetto per la natura e l'educazione ambientale sono al centro di questa attività. Una rara opportunità di assistere a uno dei più grandi spettacoli della natura, in modo sicuro e memorabile.\r\n\r\nStagione: Dal 1° luglio al 15 ottobre.\r\nOrario: Partenze notturne (da confermare)\r\nLivello: Facile, camminata leggera su sabbia.\r\nPosizione: Spiagge protette intorno all'isola.",
+      "pt": "Participe numa experiência única e responsável com as majestosas tartarugas marinhas da Boa Vista. Acompanhado por guias e biólogos locais, visitará praias protegidas onde as tartarugas cabeçudas (Caretta caretta) vêm depositar os seus ovos. \r\n\r\nDurante esta excursão nocturna, aprenderá sobre o seu ciclo de vida, os esforços de conservação em curso em Cabo Verde e como pode ajudar a proteger estas incríveis criaturas. O respeito pela natureza e a educação ambiental estão no centro desta atividade. Uma rara oportunidade de assistir a um dos maiores espectáculos da natureza, de forma segura e memorável.\r\n\r\nÉpoca: De 1 de julho a 15 de outubro.\r\nHorário: Saídas nocturnas (a confirmar)\r\nNível de dificuldade: Fácil, caminhada ligeira em areia.\r\nLocalização: Praias protegidas à volta da ilha."
+    },
+    "providerTitle": "Ecoturism Tours",
+    "providerPhone": "+2389569230",
+    "URL": "https://www.freetour.com/boa-vista/turtle-watching-with-local-guides?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/boa-vista/turtle-watching-with-local-guides?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/boa-vista/turtle-watching-with-local-guides?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/boa-vista/turtle-watching-with-local-guides?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/boa-vista/turtle-watching-with-local-guides?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/boa-vista/turtle-watching-with-local-guides?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/boa-vista/turtle-watching-with-local-guides?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 65,
+      "currency": "EUR"
+    },
+    "length": "5:00",
+    "meetingPoint": {
+      "title": "Enacol",
+      "coordinates": "16.174397340410042,-22.91454267435383",
+      "googlePlaceId": "ChIJN3i1Ya08SwkR3yaj_70JNgY"
+    },
+    "cityId": 5126,
+    "countryId": 27,
+    "includes": [
+      "Enacol (Sal Rei)"
+    ],
+    "POIs": [
+      {
+        "id": 32694,
+        "title": "Enacol (Sal Rei)",
+        "googlePlaceId": "ChIJbXuSLlMjSwkR6oJuOvy_ABo"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/79018/-02.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 273573,
+        "URL": "https://www.freetour.com/images/tours/79018/-02.jpg"
+      },
+      {
+        "id": 273574,
+        "URL": "https://www.freetour.com/images/tours/79018/-03.jpg"
+      },
+      {
+        "id": 273575,
+        "URL": "https://www.freetour.com/images/tours/79018/-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 83061,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Snorkeling with Turtles Experience at Sao Pedro in são vicente",
+      "es": "Experiencia de snorkel con tortugas en Sao Pedro en são vicente",
+      "pt": "Experiência de Snorkeling com Tartarugas em São Pedro em São Vicente",
+      "de": "Schnorcheln mit Schildkröten auf Sao Pedro in São Vicente",
+      "fr": "Expérience de plongée en apnée avec des tortues à Sao Pedro à São Vicente",
+      "it": "Esperienza di snorkeling con le tartarughe a Sao Pedro a São Vicente"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns zu einem Schildkrötenabenteuer am Strand von São Pedro! Entdecken Sie den Nervenkitzel des Schnorchelns, gleiten Sie durch klares Wasser und schwimmen Sie neben sanften Meeresschildkröten in diesem unvergesslichen Küstenerlebnis.",
+      "en": "Join us for a Turtle Adventure at São Pedro Beach! Discover the thrill of snorkeling, glide through clear waters, and swim alongside gentle sea turtles in this unforgettable coastal experience.",
+      "es": "Únase a nosotros en una aventura con tortugas en la playa de São Pedro Descubra la emoción del snorkel, deslícese por aguas cristalinas y nade junto a apacibles tortugas marinas en esta inolvidable experiencia costera.",
+      "fr": "Rejoignez-nous pour une aventure avec les tortues sur la plage de São Pedro ! Découvrez les joies de la plongée avec masque et tuba, glissez dans les eaux claires et nagez aux côtés de gentilles tortues de mer lors de cette expérience côtière inoubliable.",
+      "it": "Unitevi a noi per un'avventura con le tartarughe sulla spiaggia di São Pedro! Scoprite l'emozione dello snorkeling, scivolate nelle acque limpide e nuotate accanto a delicate tartarughe marine in questa indimenticabile esperienza costiera.",
+      "pt": "Junte-se a nós para uma Aventura de Tartaruga na Praia de São Pedro! Descubra a emoção de fazer snorkeling, deslize por águas límpidas e nade ao lado de tartarugas marinhas nesta experiência costeira inesquecível."
+    },
+    "description": {
+      "de": "Fahren Sie zum Strand von São Pedro, der nur 10 km von der Stadt entfernt liegt, und machen Sie eine kurze Bootsfahrt etwa 50 Meter vom Ufer entfernt. Ziehen Sie Ihre Schnorchelausrüstung und Flossen an und schwimmen Sie mit Schildkröten und einer Vielzahl von bunten Fischen. Nach dem Schnorcheln können Sie den schönen Strand genießen, der zum Entspannen und Sonnenbaden einlädt.\r\n\r\nLassen Sie sich dieses großartige Abenteuer nicht entgehen!",
+      "en": "Drive  to São Pedro Beach, located just 10 km from the city, and take a short boat ride about 50 meters from the shore. Put on your snorkeling gear and fins, and swim with turtles and a variety of colorful fish. After snorkeling, enjoy the beautiful beach, perfect for relaxing and soaking up the sun.\r\n\r\nDon't miss this great adventure!",
+      "es": "Conduzca hasta la playa de São Pedro, situada a sólo 10 km de la ciudad, y dé un corto paseo en barco a unos 50 metros de la orilla. Póngase el equipo de snorkel y las aletas, y nade entre tortugas y una gran variedad de peces de colores. Después de bucear, disfrute de la hermosa playa, perfecta para relajarse y tomar el sol.\r\n\r\n¡No se pierda esta gran aventura!",
+      "fr": "Conduisez jusqu'à la plage de São Pedro, située à seulement 10 km de la ville, et prenez un court trajet en bateau à environ 50 mètres du rivage. Enfilez votre équipement de plongée avec tuba et vos palmes, et nagez avec les tortues et une variété de poissons colorés. Après la plongée avec masque et tuba, profitez de la belle plage, idéale pour vous détendre et profiter du soleil.\r\n\r\nNe manquez pas cette grande aventure !",
+      "it": "Raggiungete la spiaggia di São Pedro, a soli 10 km dalla città, e fate un breve giro in barca a circa 50 metri dalla riva. Indossate l'attrezzatura da snorkeling e le pinne e nuotate con le tartarughe e una varietà di pesci colorati. Dopo lo snorkeling, godetevi la splendida spiaggia, perfetta per rilassarsi e prendere il sole.\r\n\r\nNon perdetevi questa grande avventura!",
+      "pt": "Dirija-se à Praia de São Pedro, localizada a apenas 10 km da cidade, e faça um pequeno passeio de barco a cerca de 50 metros da costa. Coloque o seu equipamento de snorkeling e barbatanas, e nade com tartarugas e uma variedade de peixes coloridos. Depois de mergulhar, aproveite a bela praia, perfeita para relaxar e apanhar sol.\r\n\r\nNão perca esta grande aventura!"
+    },
+    "providerTitle": "Angelino Pires Delgado",
+    "providerPhone": "+2385822808",
+    "URL": "https://www.freetour.com/mindelo/dive-in-turtle-experience-at-sao-pedro?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mindelo/dive-in-turtle-experience-at-sao-pedro?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mindelo/dive-in-turtle-experience-at-sao-pedro?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mindelo/dive-in-turtle-experience-at-sao-pedro?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mindelo/dive-in-turtle-experience-at-sao-pedro?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mindelo/dive-in-turtle-experience-at-sao-pedro?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mindelo/dive-in-turtle-experience-at-sao-pedro?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 45,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "terminal de cruzeiros porto grande",
+      "coordinates": "16.88920278856573,-24.993306885825614",
+      "googlePlaceId": "ChIJa2VaTKgeTwkRDqxGs9i07us"
+    },
+    "cityId": 754,
+    "countryId": 27,
+    "includes": [
+      "Porto grande"
+    ],
+    "POIs": [
+      {
+        "id": 33902,
+        "title": "Porto grande",
+        "googlePlaceId": "ChIJkeMRIEeb0pQRS9Ag_j38plk"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/83061/-01.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 286814,
+        "URL": "https://www.freetour.com/images/tours/83061/-01.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 83504,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Sao Vicente: Turtle Snorkeling",
+      "es": "Sao Vicente: Esnórquel con Tortugas",
+      "pt": "São Vicente: Snorkeling com tartarugas",
+      "de": "Sao Vicente: Schildkröten-Schnorcheln",
+      "fr": "Sao Vicente : Plongée avec masque et tuba pour les tortues",
+      "it": "Sao Vicente: Snorkeling con le tartarughe"
+    },
+    "brief": {
+      "de": "Nehmen Sie an unserem Schildkröten-Schnorchel-Abenteuer in São Vicente teil! Entdecken Sie die farbenfrohe Unterwasserwelt, schwimmen Sie an der Seite von Meeresschildkröten und genießen Sie ein geführtes Erlebnis, bei dem die gesamte Ausrüstung und der Transport gestellt werden. Geeignet für Jugendliche ab 13 Jahren und mehrere Sprachen.",
+      "en": "Join our Turtle Snorkeling Adventure in São Vicente! Discover colorful marine life, swim alongside sea turtles, and enjoy a guided experience with all gear and transport provided. Suitable for ages 13+ and multiple languages.",
+      "es": "Únase a nuestra aventura de snorkel con tortugas en São Vicente Descubra la colorida vida marina, nade junto a tortugas marinas y disfrute de una experiencia guiada con todo el equipo y el transporte incluidos. Apto para mayores de 13 años y en varios idiomas.",
+      "fr": "Participez à notre aventure de plongée en apnée avec des tortues à São Vicente ! Découvrez la vie marine colorée, nagez avec les tortues de mer et profitez d'une expérience guidée avec tout le matériel et le transport fournis. Convient pour les 13 ans et plus et en plusieurs langues.",
+      "it": "Partecipate alla nostra avventura di snorkeling con le tartarughe a São Vicente! Scoprite la variopinta vita marina, nuotate accanto alle tartarughe marine e godetevi un'esperienza guidata con attrezzatura e trasporto forniti. Adatto a partire dai 13 anni e in più lingue.",
+      "pt": "Junte-se à nossa Aventura de Snorkeling com Tartarugas em São Vicente! Descubra a colorida vida marinha, nade ao lado de tartarugas marinhas e desfrute de uma experiência guiada com todo o equipamento e transporte fornecidos. Adequado para maiores de 13 anos e em vários idiomas."
+    },
+    "description": {
+      "de": "Schwimmen und Schnorcheln mit Meeresschildkröten ist pure Magie. Diese anmutigen Geschöpfe entführen Sie in eine heitere Unterwasserwelt. Sie aus der Nähe zu beobachten, erfüllt Sie mit Ehrfurcht und Staunen. Es ist ein unvergessliches Abenteuer, das Sie tief mit dem Ozean verbindet und Sie mit wertvollen Erinnerungen und einem Herzen voller Dankbarkeit für die Schönheit der Natur zurücklässt.\r\n\r\nEinzelheiten zur Tour:\r\n- Unser Team holt Sie von Ihrem Hotel oder dem vereinbarten Treffpunkt ab.\r\n- Transfer zum Strand von Sao Pedro.\r\n- Eine kurze Sicherheitseinweisung und ein Überblick über die Tour.\r\n- Schnorchelausrüstung wird gestellt (Maske, Schnorchel, Flossen).\r\n- Sie gehen an Bord des Bootes und fahren zu den besten Schnorchelplätzen, um Meeresschildkröten zu beobachten.\r\n- Genießen Sie die atemberaubende Aussicht und erfahren Sie von Ihrem Guide mehr über das marine Ökosystem.\r\n- Erreichen Sie einen ruhigen, kristallklaren Ort.\r\n- Tauchen Sie in das warme Wasser des Ozeans ein und beginnen Sie Ihr Abenteuer mit den Meeresschildkröten.\r\n- Beobachten Sie die Schildkröten in ihrem natürlichen Lebensraum, wo sie zwischen bunten Korallen und Fischen schwimmen.\r\n- Nach der Aktivität bringt Sie unser Team zurück zu Ihrem Hotel oder Treffpunkt.",
+      "en": "Swimming and snorkeling with sea turtles is pure magic. These graceful creatures bring you into a serene, underwater world. Watching them up close fills you with awe and wonder. It's an unforgettable adventure that connects you deeply with the ocean, leaving you with precious memories and a heart full of gratitude for nature's beauty.\r\n\r\nTour details:\r\n• Our team will pick you up from your hotel or the agreed meeting point.\r\n• Transfer to Sao Pedro Beach.\r\n• A short safety briefing and tour overview.\r\n• Snorkeling gear provided (mask, snorkel, fins).\r\n• Board the boat to reach the best snorkeling spots for sea turtle sightings.\r\n• Enjoy the stunning views and learn about the marine ecosystem from your guide.\r\n• Arrive at a calm, crystal-clear spot.\r\n• Dive into the warm ocean waters and start your adventure with sea turtles.\r\n• Observe turtles in their natural habitat, swimming among colorful corals and fish.\r\n• After the activity, our team will take you back to your hotel or meeting point.",
+      "es": "Nadar y bucear con tortugas marinas es pura magia. Estas gráciles criaturas le transportan a un sereno mundo submarino. Verlas de cerca te llena de asombro y maravilla. Es una aventura inolvidable que le conecta profundamente con el océano, dejándole preciosos recuerdos y un corazón lleno de gratitud por la belleza de la naturaleza.\r\n\r\nDetalles de la excursión:\r\n- Nuestro equipo le recogerá en su hotel o en el punto de encuentro acordado.\r\n- Traslado a la playa de Sao Pedro.\r\n- Breve charla de seguridad y resumen de la excursión.\r\n- Le proporcionaremos el equipo de snorkel (máscara, tubo y aletas).\r\n- Embarque en el barco para llegar a los mejores puntos de buceo para avistar tortugas marinas.\r\n- Disfrute de las impresionantes vistas y aprenda sobre el ecosistema marino de la mano de su guía.\r\n- Llegue a un lugar tranquilo y cristalino.\r\n- Sumérjase en las cálidas aguas del océano y comience su aventura con las tortugas marinas.\r\n- Observe a las tortugas en su hábitat natural, nadando entre coloridos corales y peces.\r\n- Tras la actividad, nuestro equipo le llevará de vuelta a su hotel o punto de encuentro.",
+      "fr": "Nager et faire de la plongée avec des tortues de mer est une pure magie. Ces gracieuses créatures vous plongent dans un monde sous-marin serein. Les observer de près vous remplit d'admiration et d'émerveillement. C'est une aventure inoubliable qui vous rapproche profondément de l'océan, vous laissant de précieux souvenirs et un cœur plein de gratitude pour la beauté de la nature.\r\n\r\nDétails de l'excursion :\r\n- Notre équipe viendra vous chercher à votre hôtel ou au point de rencontre convenu.\r\n- Transfert vers la plage de Sao Pedro.\r\n- Bref briefing sur la sécurité et aperçu de l'excursion.\r\n- Equipement de snorkeling fourni (masque, tuba, palmes).\r\n- Embarquement sur le bateau pour rejoindre les meilleurs sites de plongée avec tuba pour observer les tortues de mer.\r\n- Profitez des vues imprenables et apprenez-en plus sur l'écosystème marin grâce à votre guide.\r\n- Arrivée à un endroit calme et cristallin.\r\n- Plongez dans les eaux chaudes de l'océan et commencez votre aventure avec les tortues de mer.\r\n- Observez les tortues dans leur habitat naturel, nageant parmi les coraux et les poissons colorés.\r\n- Après l'activité, notre équipe vous ramènera à votre hôtel ou à votre point de rencontre.",
+      "it": "Nuotare e fare snorkeling con le tartarughe marine è pura magia. Queste graziose creature vi portano in un mondo sottomarino sereno. Osservarle da vicino vi riempie di stupore e meraviglia. È un'avventura indimenticabile che vi connette profondamente con l'oceano, lasciandovi ricordi preziosi e un cuore pieno di gratitudine per la bellezza della natura.\r\n\r\nDettagli del tour:\r\n- Il nostro team verrà a prendervi dal vostro hotel o dal punto d'incontro concordato.\r\n- Trasferimento alla spiaggia di Sao Pedro.\r\n- Breve briefing sulla sicurezza e panoramica del tour.\r\n- Attrezzatura per lo snorkeling fornita (maschera, boccaglio, pinne).\r\n- Imbarco sulla barca per raggiungere i migliori punti di snorkeling per l'avvistamento delle tartarughe marine.\r\n- Godetevi i panorami mozzafiato e imparate a conoscere l'ecosistema marino dalla vostra guida.\r\n- Arrivate in un punto calmo e cristallino.\r\n- Immergetevi nelle calde acque dell'oceano e iniziate la vostra avventura con le tartarughe marine.\r\n- Osservate le tartarughe nel loro habitat naturale, nuotando tra coralli e pesci colorati.\r\n- Al termine dell'attività, il nostro team vi riaccompagnerà in hotel o al punto d'incontro.",
+      "pt": "Nadar e fazer snorkeling com tartarugas marinhas é pura magia. Estas graciosas criaturas transportam-no para um mundo subaquático sereno. Observá-las de perto enche-nos de espanto e admiração. É uma aventura inesquecível que o liga profundamente ao oceano, deixando-o com memórias preciosas e um coração cheio de gratidão pela beleza da natureza.\r\n\r\nDetalhes da excursão:\r\n- A nossa equipa vai buscá-lo ao seu hotel ou ao ponto de encontro combinado.\r\n- Transfer para a praia de São Pedro.\r\n- Uma breve informação de segurança e uma visão geral do passeio.\r\n- Fornecimento de equipamento de snorkeling (máscara, snorkel, barbatanas).\r\n- Embarque no barco para chegar aos melhores locais de snorkeling para observação de tartarugas marinhas.\r\n- Aprecie as vistas deslumbrantes e aprenda sobre o ecossistema marinho com o seu guia.\r\n- Chegue a um local calmo e cristalino.\r\n- Mergulhe nas águas quentes do oceano e comece a sua aventura com as tartarugas marinhas.\r\n- Observe as tartarugas no seu habitat natural, nadando entre corais e peixes coloridos.\r\n- Após a atividade, a nossa equipa levá-lo-á de volta ao seu hotel ou ponto de encontro."
+    },
+    "providerTitle": "Priscila Barbosa",
+    "providerPhone": "+393476351477",
+    "URL": "https://www.freetour.com/mindelo/sao-vicente-turtle-snorkeling?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/mindelo/sao-vicente-turtle-snorkeling?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/mindelo/sao-vicente-turtle-snorkeling?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/mindelo/sao-vicente-turtle-snorkeling?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/mindelo/sao-vicente-turtle-snorkeling?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/mindelo/sao-vicente-turtle-snorkeling?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/mindelo/sao-vicente-turtle-snorkeling?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 55,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Sao pedro",
+      "coordinates": "16.8377933,-25.0549516",
+      "googlePlaceId": "ChIJsSh6nh0fTwkRtshIN6fCM7E"
+    },
+    "cityId": 754,
+    "countryId": 27,
+    "includes": [
+      "Mindelo Residencial",
+      "Mindelo Marina",
+      "Professional guide",
+      "Car/Van transport",
+      "Boat transport",
+      "Snorkeling gears",
+      "Complete Preparation & Full Support"
+    ],
+    "POIs": [
+      {
+        "id": 34035,
+        "title": "Mindelo Residencial",
+        "googlePlaceId": "ChIJK1fEC68eTwkRBHcROL9p2cU"
+      },
+      {
+        "id": 25734,
+        "title": "Mindelo Marina",
+        "googlePlaceId": "ChIJr9Ts1ageTwkRvFp__g6B7dc"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/83504/-02.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 288144,
+        "URL": "https://www.freetour.com/images/tours/83504/-02.jpg"
+      },
+      {
+        "id": 288145,
+        "URL": "https://www.freetour.com/images/tours/83504/-03.jpg"
+      },
+      {
+        "id": 288146,
+        "URL": "https://www.freetour.com/images/tours/83504/-04.jpg"
+      },
+      {
+        "id": 288148,
+        "URL": "https://www.freetour.com/images/tours/83504/-06.jpg"
+      },
+      {
+        "id": 288149,
+        "URL": "https://www.freetour.com/images/tours/83504/-07.jpg"
+      },
+      {
+        "id": 288150,
+        "URL": "https://www.freetour.com/images/tours/83504/-08.jpg"
+      },
+      {
+        "id": 288151,
+        "URL": "https://www.freetour.com/images/tours/83504/-09.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

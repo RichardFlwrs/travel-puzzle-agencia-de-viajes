@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { auth } from '@/lib/auth';
+import { getSessionFromRequest } from '@/lib/auth-middleware';
 
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
@@ -9,7 +9,7 @@ export async function middleware(request: NextRequest) {
   const authRoutes = ['/login', '/signup'];
   if (authRoutes.includes(pathname)) {
     try {
-      const session = await auth();
+      const session = await getSessionFromRequest(request);
       // Only redirect if session exists and is valid
       if (session?.user) {
         return NextResponse.redirect(new URL('/', request.url));
@@ -25,7 +25,7 @@ export async function middleware(request: NextRequest) {
   // Try to get session for protected routes
   let session = null;
   try {
-    session = await auth();
+    session = await getSessionFromRequest(request);
   } catch (error) {
     // If auth check fails, treat as no session
     console.error('Auth check error in middleware:', error);

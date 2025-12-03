@@ -1,0 +1,474 @@
+[
+  {
+    "id": 35739,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Walking Tour of Queenstown",
+      "es": "Visita a pie de Queenstown",
+      "pt": "Passeio a pé por Queenstown",
+      "de": "Stadtrundgang durch Queenstown",
+      "fr": "Visite à pied de Queenstown",
+      "it": "Tour a piedi di Queenstown"
+    },
+    "brief": {
+      "de": "Schließen Sie sich unserer kostenlosen Tour an, um die charmante Stadt Queenstown zu erkunden, und gehen Sie mit einem professionellen Führer durch die engen Gassen, um den Charakter, die Geschichte, die wichtigsten Sehenswürdigkeiten und die versteckten Schätze dieses bemerkenswerten Viertels zu entdecken.",
+      "en": "Join our free tour to explore the charming city of Queenstown, and take to the narrow streets with a professional guide to discover the character, history, must-sees, and hidden gems of this remarkable neighborhood.",
+      "es": "Únase a nuestro recorrido gratuito para explorar la encantadora ciudad de Queenstown y recorra las calles estrechas con un guía profesional para descubrir el carácter, la historia, las visitas obligadas y las gemas ocultas de este extraordinario vecindario.",
+      "fr": "Participez à notre visite gratuite pour explorer la charmante ville de Queenstown, et empruntez les rues étroites avec un guide professionnel pour découvrir le caractère, l'histoire, les sites incontournables et les joyaux cachés de ce quartier remarquable.",
+      "it": "Unitevi al nostro tour gratuito per esplorare l'affascinante città di Queenstown e percorrete le strette strade con una guida professionale per scoprire il carattere, la storia, i luoghi imperdibili e le gemme nascoste di questo straordinario quartiere.",
+      "pt": "Junte-se à nossa excursão gratuita para explorar a encantadora cidade de Queenstown e percorra as ruas estreitas com um guia profissional para descobrir o carácter, a história, os locais de visita obrigatória e as jóias escondidas deste bairro notável."
+    },
+    "description": {
+      "de": "Sie werden Zeuge der architektonischen Vielfalt, die die Stadt mit ihren Palästen, Kirchen, Synagogen und anderen Gebäuden im Herzen von Queenstown bewahrt. Sie ist umgeben von majestätischen Gebäuden, die von vielen Jahren Architekturgeschichte zeugen. \r\n\r\nWir werden die versteckten Orte entdecken und ihre Geschichte kennenlernen",
+      "en": "You will witness the architectural variety that the city preserves in its palaces, churches, synagogues, and other buildings in the heart of the city of Queenstown. It is surrounded by majestic buildings that bear witness to a lot of years of architectural history. \r\n\r\nWe will discover the hidden places and will learn their history",
+      "es": "Serás testigo de la variedad arquitectónica que conserva la ciudad en sus palacios, iglesias, sinagogas y otros edificios en el corazón de la ciudad de Queenstown. Está rodeada de majestuosos edificios que dan testimonio de muchos años de historia arquitectónica.<br /><br /> Descubriremos los lugares escondidos y aprenderemos su historia.",
+      "fr": "Vous serez témoin de la variété architecturale que la ville conserve dans ses palais, églises, synagogues et autres bâtiments au cœur de la ville de Queenstown. Elle est entourée de bâtiments majestueux qui témoignent de nombreuses années d'histoire architecturale. \r\n\r\nNous découvrirons les endroits cachés et apprendrons leur histoire",
+      "it": "Sarete testimoni della varietà architettonica che la città conserva nei suoi palazzi, chiese, sinagoghe e altri edifici nel cuore della città di Queenstown. È circondata da edifici maestosi che testimoniano molti anni di storia architettonica. \r\n\r\nScopriremo i luoghi nascosti e ne conosceremo la storia",
+      "pt": "Poderá testemunhar a variedade arquitectónica que a cidade preserva nos seus palácios, igrejas, sinagogas e outros edifícios no coração da cidade de Queenstown. Está rodeado de edifícios majestosos que testemunham muitos anos de história arquitectónica. \r\n\r\nDescobriremos os lugares escondidos e aprenderemos a sua história"
+    },
+    "providerTitle": "Javier Rio",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/queenstown/free-walking-tour-of-queenstown?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/queenstown/free-walking-tour-of-queenstown?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/queenstown/free-walking-tour-of-queenstown?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/queenstown/free-walking-tour-of-queenstown?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/queenstown/free-walking-tour-of-queenstown?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/queenstown/free-walking-tour-of-queenstown?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/queenstown/free-walking-tour-of-queenstown?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 100,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Lakes District Library, Queenstown",
+      "coordinates": "-45.02913484897525,168.66174537110018",
+      "googlePlaceId": "ChIJwR8ofoEd1akR7zxzzRTgegE"
+    },
+    "cityId": 3132,
+    "countryId": 112,
+    "includes": [
+      "Queenstown Gardens",
+      "Queenstown Airport",
+      "Queenstown Hill Walking Track",
+      "Queenstown Lakeview Holiday Park"
+    ],
+    "POIs": [
+      {
+        "id": 9250,
+        "title": "Queenstown Gardens",
+        "googlePlaceId": "ChIJrwm7l7Tj1KkRtwIpvNpNEQs"
+      },
+      {
+        "id": 2078,
+        "title": "Queenstown Airport",
+        "googlePlaceId": "ChIJ8ZcQx0ge1akR0LFZZYfvAA8"
+      },
+      {
+        "id": 3338,
+        "title": "Queenstown Hill Walking Track",
+        "googlePlaceId": "ChIJCW2XLoUd1akRsQIpfLs3la8"
+      },
+      {
+        "id": 12388,
+        "title": "Queenstown Lakeview Holiday Park",
+        "googlePlaceId": "ChIJZRUDZ4Id1akRGIehQsRRWYM"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/35739/free-walking-tour-of-queenstown-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 115291,
+        "URL": "https://www.freetour.com/images/tours/35739/free-walking-tour-of-queenstown-01.jpg"
+      },
+      {
+        "id": 115292,
+        "URL": "https://www.freetour.com/images/tours/35739/free-walking-tour-of-queenstown-02.jpg"
+      },
+      {
+        "id": 115293,
+        "URL": "https://www.freetour.com/images/tours/35739/free-walking-tour-of-queenstown-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 40831,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Easy Pace Walking Tour",
+      "es": "Recorrido a pie a ritmo fácil",
+      "pt": "Passeio a pé de ritmo fácil",
+      "de": "Easy Pace Walking Tour",
+      "fr": "Visite à pied à allure modérée",
+      "it": "Tour a piedi a passo facile"
+    },
+    "brief": {
+      "de": "Genießen Sie eine einfache, unterhaltsame, auf Auckland zugeschnittene Tour zu Fuß. Genießen Sie die Sehenswürdigkeiten und nehmen Sie die Dinge auf, die Sie interessieren, egal ob es sich um Essen, Kunst, Natur oder irgendetwas anderes handelt, lassen Sie es mich wissen.",
+      "en": "Enjoy An easy enjoyable walking tour tailor-made to Auckland city Enjoy the sites and take in the things that are of interest to you whether it is food, arts, nature or anything of interest let me know.",
+      "es": "Disfrutar Un recorrido a pie fácil y agradable hecho a la medida de la ciudad de Auckland Disfrute de los sitios y disfrute de las cosas que le interesan, ya sea comida, arte, naturaleza o cualquier cosa de interés, hágamelo saber.",
+      "fr": "Profitez d'une visite à pied facile et agréable, conçue sur mesure pour la ville d'Auckland. Profitez des sites et des choses qui vous intéressent, que ce soit la nourriture, les arts, la nature ou tout autre sujet d'intérêt, faites-le moi savoir.",
+      "it": "Godetevi un tour a piedi facile e piacevole fatto su misura per la città di Auckland Godetevi i siti e prendete le cose che sono di vostro interesse sia che si tratti di cibo, arte, natura o qualsiasi altra cosa di interesse fatemelo sapere.",
+      "pt": "Desfrute de um passeio a pé fácil e agradável feito à medida para a cidade de Auckland Desfrute dos locais e aprecie as coisas que são do seu interesse, quer seja comida, artes, natureza ou qualquer coisa de interesse, diga-me."
+    },
+    "description": {
+      "de": "Ich möchte Ihnen eine der schönsten Städte der Welt vorstellen: Auckland.\r\n\r\nWir treffen uns am Fährterminal zu einer Zeit, die Ihnen passt. Sie können sich für den Morgen, den Nachmittag oder den Abend anmelden.\r\n\r\nWir machen einen gemütlichen Spaziergang durch die Stadt, um die Kultur und Geschichte zu erkunden und die großartige Atmosphäre des CBD aufzusaugen.\r\n\r\nVielleicht möchten Sie mehr über die Liebe unserer Stadt zum Segeln erfahren, vielleicht interessieren Sie sich für Gärten, Kunst, Konzerte, Essen, Einkaufen, Radfahren, Strände oder die Natur - ich schlage Ihnen eine Route vor, die genau auf Sie zugeschnitten ist und nicht auf die Touristenkarte.\r\n\r\nFinden Sie heraus, zu welchen Zeiten und wo Sie am besten einen Kaffee trinken können, Getränke bei Sonnenuntergang, Restaurantangebote und vieles mehr.\r\n\r\nErfahren Sie, wie Sie sich mit öffentlichen Verkehrsmitteln, Bussen, Fähren, Zügen, zu Fuß oder mit dem Fahrrad fortbewegen können und wie Sie Ihren Aufenthalt in Neuseeland mit Leichtigkeit genießen können.\r\n\r\nMit 20 Jahren Erfahrung im Reisebüro kann ich auch mit Ratschlägen für weitere Reisen in Neuseeland und im Ausland helfen, \r\n\r\nDa ich selbst viel gereist bin, weiß ich, wie es ist, ein neues Land zu besuchen, und so freue ich mich darauf, Sie zu treffen und Ihnen bei Ihrer Reise nach Neuseeland und Ihrer Tour durch Auckland zu helfen.",
+      "en": "Let me introduce you to one of the best cities in the world, Auckland.\r\n\r\nWe will meet at the ferry terminal at a time to suit you, you can book in early for morning, afternoon, or evening.\r\n\r\nWe take an easy pace to walk around the city exploring the culture and history and absorbing the great vibe the CBD has to offer.\r\n\r\nWe will spend 2 hours and explore to suit you, perhaps you want to learn more about our city's love of sailing, maybe it's gardens you are into, arts, concerts, food, shopping, cycling, beaches, or nature I will propose an itinerary to suit you rather than the cookie cutter tourist map.\r\n\r\nFind out what hours and where's best to get a coffee, drinks at sunset, restaurant deals & more.\r\n\r\nLearn the secrets of how to get around on public transport, buses, ferries, trains, walking or cycling, and how to enjoy your stay in Nz with ease.\r\n\r\nWith 20 years of travel agent experience, I can also help with advice on further travel around Nz and abroad, \r\n\r\nHaving spent many traveling myself I know what it's like to visit a new country and so I look forward to meeting and helping you with your trip to Nz and tour around Auckland.",
+      "es": "Permítanme presentarles una de las mejores ciudades del mundo, Auckland.<br /><br /> Nos reuniremos en la terminal del ferry a la hora que más le convenga, puede reservar temprano para la mañana, la tarde o la noche.<br /><br /> Tomamos un ritmo suave para caminar por la ciudad explorando la cultura y la historia y absorbiendo el gran ambiente que ofrece el CDB.<br /><br /> Pasaremos 2 horas y exploraremos a tu medida, tal vez quieras aprender más sobre el amor de nuestra ciudad por navegar, tal vez te gusten los jardines, las artes, los conciertos, la comida, las compras, el ciclismo, las playas o la naturaleza. Te propondré un itinerario. para adaptarse a usted en lugar del mapa turístico cortador de galletas.<br /><br /> Descubra a qué horas y dónde es mejor tomar un café, bebidas al atardecer, ofertas en restaurantes y más.<br /><br /> Aprenda los secretos de cómo moverse en transporte público, autobuses, ferries, trenes, caminar o andar en bicicleta, y cómo disfrutar de su estadía en Nueva Zelanda con tranquilidad.<br /><br /> Con 20 años de experiencia como agente de viajes, también puedo ayudar con consejos sobre futuros viajes por Nueva Zelanda y el extranjero.<br /><br /> Después de haber viajado mucho, sé lo que es visitar un nuevo país, por lo que espero conocerte y ayudarte con tu viaje a Nueva Zelanda y recorrer Auckland.",
+      "fr": "Laissez-moi vous présenter l'une des meilleures villes du monde, Auckland.\r\n\r\nNous nous retrouverons au terminal des ferries à l'heure qui vous convient. Vous pouvez réserver tôt pour le matin, l'après-midi ou le soir.\r\n\r\nNous nous promènerons facilement dans la ville pour explorer la culture et l'histoire et pour nous imprégner de l'ambiance du CBD.\r\n\r\nNous passerons deux heures à explorer la ville à votre guise. Peut-être voulez-vous en savoir plus sur l'amour de notre ville pour la voile, peut-être aimez-vous les jardins, les arts, les concerts, la gastronomie, le shopping, le vélo, les plages ou la nature, et je vous proposerai un itinéraire qui vous conviendra, plutôt qu'une carte touristique à l'emporte-pièce.\r\n\r\nDécouvrez les heures et les meilleurs endroits pour prendre un café, boire un verre au coucher du soleil, les bons plans des restaurants et bien plus encore.\r\n\r\nApprenez les secrets des transports en commun, des bus, des ferries, des trains, de la marche ou du vélo, et comment profiter de votre séjour à Nz en toute simplicité.\r\n\r\nAvec 20 ans d'expérience en tant qu'agent de voyage, je peux également vous aider en vous conseillant sur d'autres voyages à Nz et à l'étranger, \r\n\r\nAyant moi-même voyagé de nombreuses fois, je sais ce que c'est que de visiter un nouveau pays et j'ai hâte de vous rencontrer et de vous aider à organiser votre voyage à Nz et votre visite d'Auckland.",
+      "it": "Lasciate che vi presenti una delle città più belle del mondo, Auckland.\r\n\r\nCi incontreremo al terminal dei traghetti all'ora che più vi aggrada; potete prenotare la mattina presto, il pomeriggio o la sera.\r\n\r\nPasseggeremo con calma per la città, esplorandone la cultura e la storia e assorbendo la grande atmosfera che il CBD ha da offrire.\r\n\r\nTrascorreremo 2 ore ed esploreremo a vostro piacimento, forse volete saperne di più sull'amore della città per la vela, forse vi piacciono i giardini, l'arte, i concerti, il cibo, lo shopping, il ciclismo, le spiagge o la natura, vi proporrò un itinerario adatto a voi piuttosto che la classica mappa turistica.\r\n\r\nScoprite a che ora e dove è meglio prendere un caffè, bere un drink al tramonto, le offerte dei ristoranti e altro ancora.\r\n\r\nImparate i segreti di come muovervi con i mezzi pubblici, autobus, traghetti, treni, a piedi o in bicicletta, e come godervi il vostro soggiorno a Nz con facilità.\r\n\r\nCon 20 anni di esperienza come agente di viaggio, posso anche aiutarvi con consigli su ulteriori viaggi a Nz e all'estero, \r\n\r\nAvendo trascorso molti anni in viaggio, so cosa significa visitare un nuovo paese e quindi non vedo l'ora di incontrarvi e di aiutarvi con il vostro viaggio a Nz e con il tour di Auckland.",
+      "pt": "Deixe-me apresentá-lo a uma das melhores cidades do mundo, Auckland.\r\n\r\nEncontramo-nos no terminal do ferry à hora que mais lhe convier. Pode reservar cedo para a manhã, tarde ou noite.\r\n\r\nVamos a um ritmo fácil para passear pela cidade, explorando a cultura e a história e absorvendo a grande vibração que o CBD tem para oferecer.\r\n\r\nTalvez queira saber mais sobre o amor da nossa cidade pela vela, talvez goste de jardins, artes, concertos, comida, compras, ciclismo, praias ou natureza. Proporei um itinerário à sua medida, em vez do mapa turístico.\r\n\r\nDescubra a que horas e onde é melhor tomar um café, bebidas ao pôr-do-sol, ofertas de restaurantes e muito mais.\r\n\r\nAprenda os segredos de como se deslocar em transportes públicos, autocarros, ferries, comboios, a pé ou de bicicleta, e como desfrutar da sua estadia em Nz com facilidade.\r\n\r\nCom 20 anos de experiência como agente de viagens, também posso ajudar com conselhos sobre outras viagens em Nz e no estrangeiro, \r\n\r\nTendo passado muitas viagens, sei o que é visitar um novo país e, por isso, estou ansioso por conhecê-lo e ajudá-lo com a sua viagem a Nova Zelândia e a passear por Auckland."
+    },
+    "providerTitle": "Chantal Bakker",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/auckland/easy-pace-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/auckland/easy-pace-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/auckland/easy-pace-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/auckland/easy-pace-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/auckland/easy-pace-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/auckland/easy-pace-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/auckland/easy-pace-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 100,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Outside OK Gift Souvenir store Quay St Auckland ",
+      "coordinates": "-36.84252688617104,174.76533548072183",
+      "googlePlaceId": "ChIJfTk-uPlHDW0RdJhvcFyvl8c"
+    },
+    "cityId": 3097,
+    "countryId": 112,
+    "includes": [
+      "Viaduct Marina",
+      "Silo Park",
+      "Victoria Park",
+      "Albert Park",
+      "Commercial Bay",
+      "Britomart Train Station",
+      "Queens Arcade",
+      "Auckland Art Gallery Shop",
+      "Wharf",
+      "Princes Wharf",
+      "Wynyard Pavilion",
+      "Auckland Fish Market",
+      "Westhaven Beach",
+      "Advice for dining in Auckland ",
+      "Arts and museums advice ",
+      "Transport advice ",
+      "Discount options ",
+      "Shopping places ",
+      "History and culture highlights ",
+      "Parks and recreational highlights ",
+      "What's on and events "
+    ],
+    "POIs": [
+      {
+        "id": 9107,
+        "title": "Viaduct Marina",
+        "googlePlaceId": "ChIJRaX_0_lHDW0RmuK-B9szb84"
+      },
+      {
+        "id": 11750,
+        "title": "Silo Park",
+        "googlePlaceId": "ChIJxzNHDfVHDW0RZOK5Uhd2cEA"
+      },
+      {
+        "id": 2014,
+        "title": "Victoria Park",
+        "googlePlaceId": "ChIJ8fLvH_NHDW0RgL-cJGLvAA8"
+      },
+      {
+        "id": 7990,
+        "title": "Albert Park",
+        "googlePlaceId": "ChIJoQT0pfxHDW0REvz7PfHIBhE"
+      },
+      {
+        "id": 7181,
+        "title": "Commercial Bay",
+        "googlePlaceId": "ChIJme7AF1hHDW0RdGdheRij9BI"
+      },
+      {
+        "id": 5553,
+        "title": "Britomart Train Station",
+        "googlePlaceId": "ChIJIb6d2P1HDW0Rso35BxlEbAo"
+      },
+      {
+        "id": 9948,
+        "title": "Queens Arcade",
+        "googlePlaceId": "ChIJtfLG5PtHDW0RF2bAWqS3yBc"
+      },
+      {
+        "id": 4263,
+        "title": "Auckland Art Gallery Shop",
+        "googlePlaceId": "ChIJF2KWgkRHDW0RPMd0-sTMukI"
+      },
+      {
+        "id": 1930,
+        "title": "Wharf",
+        "googlePlaceId": "ChIJ8-1KxfVHDW0RUy_T09Xc4WA"
+      },
+      {
+        "id": 2652,
+        "title": "Princes Wharf",
+        "googlePlaceId": "ChIJAYCZZ_hHDW0RX-J-Cyt-WL8"
+      },
+      {
+        "id": 1506,
+        "title": "Wynyard Pavilion",
+        "googlePlaceId": "ChIJ5S313LpHDW0RKyTv5O8uGFI"
+      },
+      {
+        "id": 1780,
+        "title": "Auckland Fish Market",
+        "googlePlaceId": "ChIJ76qqqq5ODW0RYMbA9I5PX3M"
+      },
+      {
+        "id": 5546,
+        "title": "Westhaven Beach",
+        "googlePlaceId": "ChIJIaiYn4lHDW0RKhmIc0BWPjA"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-03.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 132232,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-03.jpg"
+      },
+      {
+        "id": 132233,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-04.jpg"
+      },
+      {
+        "id": 132234,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-05.jpg"
+      },
+      {
+        "id": 132235,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-06.jpg"
+      },
+      {
+        "id": 132236,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-07.jpg"
+      },
+      {
+        "id": 132240,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-11.jpg"
+      },
+      {
+        "id": 132243,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-14.jpg"
+      },
+      {
+        "id": 132247,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-18.jpg"
+      },
+      {
+        "id": 132252,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-23.jpg"
+      },
+      {
+        "id": 132271,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-42.jpg"
+      },
+      {
+        "id": 132272,
+        "URL": "https://www.freetour.com/images/tours/40831/easy-pace-walking-tour-43.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 40851,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Hokitika History Walk",
+      "es": "Paseo por la historia de Hokitika",
+      "pt": "Passeio histórico em Hokitika",
+      "de": "Hokitika History Walk",
+      "fr": "Promenade historique à Hokitika",
+      "it": "Passeggiata nella storia di Hokitika"
+    },
+    "brief": {
+      "de": "Begleiten Sie mich auf einen Rundgang durch die Stadt, bei dem ich Sie wie ein Einheimischer führe und Ihnen die alten und neuen Orte zeige. Hokitika ist eine Stadt, die auf dem Goldrausch der 1860er Jahre aufgebaut wurde, und ich führe Sie zu den faszinierenden Überbleibseln ihrer goldenen Vergangenheit.",
+      "en": "Join me on a walking tour of the town area, where I'll guide you like a local and show you the old and new places. Hokitika is a city built on the gold rushes of the 1860s, and I'll take you to explore the fascinating vestiges of its golden past.",
+      "es": "Únase a mí en un recorrido a pie por el área de la ciudad, donde lo guiaré como un local y le mostraré los lugares antiguos y nuevos. Hokitika es una ciudad construida sobre la fiebre del oro de la década de 1860 y te llevaré a explorar los fascinantes vestigios de su pasado dorado.",
+      "fr": "Rejoignez-moi pour une visite à pied de la ville, où je vous guiderai comme un local et vous montrerai les lieux anciens et nouveaux. Hokitika est une ville construite sur les ruées vers l'or des années 1860, et je vous emmènerai explorer les vestiges fascinants de son passé doré.",
+      "it": "Unitevi a me in un tour a piedi dell'area cittadina, dove vi guiderò come un abitante del posto e vi mostrerò i luoghi vecchi e nuovi. Hokitika è una città costruita sulla corsa all'oro del 1860 e vi porterò a esplorare le affascinanti vestigia del suo passato dorato.",
+      "pt": "Junte-se a mim num passeio a pé pela zona da cidade, onde o guiarei como um habitante local e lhe mostrarei os locais antigos e novos. Hokitika é uma cidade construída com base nas corridas do ouro da década de 1860 e eu levá-lo-ei a explorar os fascinantes vestígios do seu passado dourado."
+    },
+    "description": {
+      "de": "Die Tour dauert etwa 90 Minuten und ist für alle Altersgruppen und Fitnessstufen geeignet. Wir treffen uns außerhalb des Geländes.\r\n\r\nIch werde Ihnen die Geschichte des englischen Pioniers Richard Seddon erzählen, der zu den Goldgräbern an der Westküste kam und schließlich Premierminister von Neuseeland wurde. Er war eine echte Persönlichkeit. \r\n\r\nDanach setzen wir unseren Spaziergang zur Heritage Area entlang des Hokitika River fort. Hier sehen und hören Sie die Geschichten der Segelschiffe, die Passagiere und Vorräte an die Westküste brachten. \r\nWir halten vor dem Carnegie Building und erfahren, wie Andrew Carnegie, der schottisch-amerikanische Industrielle, den Kolonien Geld für den Bau von Bibliotheken spendete.\r\n\r\nMein Vortrag wird mit Fotos aus dem Hokitika Museum illustriert.\r\n\r\nFragen Sie mich alles, was Sie sonst noch über unsere coole kleine Stadt wissen möchten. Ich helfe Ihnen sogar bei der Entscheidung, wohin Sie gehen sollen",
+      "en": "The tour takes about 90 minutes and is aimed at all ages and fitness abilities. We meet outside the site.\r\n\r\nI’ll tell you the story of English Pioneer Richard Seddon, who came to the West Coast gold rushes and ended up being the Premier of New Zealand. He was quite a character. \r\n\r\nAfterward, we’ll continue our walk to the Heritage Area along the Hokitika River. Here you’ll see and hear the stories of the sailing ships that brought passengers and supplies to the West Coast. \r\nWe’ll stop outside the Carnegie Building and hear how Andrew Carnegie, the Scottish-American industrialist, donated money to the colonies to build libraries.\r\n\r\nMy talk will be illustrated with photos from the Hokitika Museum.\r\n\r\nAsk me anything else you’d like to know about our cool little town. I’ll even help you decide where to go",
+      "es": "La visita dura unos 90 minutos y está dirigida a todas las edades y niveles de forma física. Nos encontraremos fuera del recinto.\r\n\r\nLes contaré la historia del pionero inglés Richard Seddon, que llegó a las minas de oro de la Costa Oeste y acabó siendo Primer Ministro de Nueva Zelanda. Era todo un personaje. \r\n\r\nDespués, continuaremos nuestro paseo hasta la zona patrimonial junto al río Hokitika. Aquí verás y escucharás las historias de los veleros que traían pasajeros y suministros a la Costa Oeste. \r\nNos detendremos ante el Edificio Carnegie y escucharemos cómo Andrew Carnegie, el industrial escocés-estadounidense, donó dinero a las colonias para construir bibliotecas.\r\n\r\nMi charla estará ilustrada con fotos del Museo de Hokitika.\r\n\r\nPregúntame cualquier otra cosa que quieras saber sobre nuestra pequeña y genial ciudad. Incluso le ayudaré a decidir adónde ir",
+      "fr": "La visite dure environ 90 minutes et s'adresse à tous les âges et à toutes les capacités physiques. Nous nous retrouvons à l'extérieur du site.\r\n\r\nJe vais vous raconter l'histoire du pionnier anglais Richard Seddon, qui a participé aux ruées vers l'or de la côte ouest et a fini par devenir le premier ministre de la Nouvelle-Zélande. C'était un sacré personnage. \r\n\r\nEnsuite, nous poursuivrons notre promenade jusqu'à la zone patrimoniale le long de la rivière Hokitika. Ici, vous verrez et entendrez les histoires des voiliers qui transportaient des passagers et des fournitures vers la côte ouest. \r\nNous nous arrêterons devant le Carnegie Building et apprendrons comment Andrew Carnegie, l'industriel écossais-américain, a fait don d'argent aux colonies pour construire des bibliothèques.\r\n\r\nMon exposé sera illustré par des photos du musée de Hokitika.\r\n\r\nDemandez-moi tout ce que vous aimeriez savoir sur notre petite ville. Je vous aiderai même à décider où aller",
+      "it": "Il tour dura circa 90 minuti ed è rivolto a tutte le età e a tutte le capacità fisiche. Ci incontriamo all'esterno del sito.\r\n\r\nVi racconterò la storia del pioniere inglese Richard Seddon, che si recò alla corsa all'oro della costa occidentale e finì per diventare premier della Nuova Zelanda. Era un personaggio particolare. \r\n\r\nIn seguito, continueremo la nostra passeggiata verso l'area del patrimonio lungo il fiume Hokitika. Qui vedrete e ascolterete le storie dei velieri che portavano passeggeri e rifornimenti alla costa occidentale. \r\nCi fermeremo davanti al Carnegie Building e sentiremo come Andrew Carnegie, l'industriale scozzese-americano, donò denaro alle colonie per costruire biblioteche.\r\n\r\nIl mio discorso sarà illustrato con foto del Museo di Hokitika.\r\n\r\nChiedetemi qualsiasi altra cosa vogliate sapere sulla nostra bella cittadina. Vi aiuterò anche a decidere dove andare..",
+      "pt": "O passeio dura cerca de 90 minutos e destina-se a todas as idades e capacidades físicas. Encontramo-nos no exterior do local.\r\n\r\nContar-vos-ei a história do pioneiro inglês Richard Seddon, que veio para as corridas de ouro da Costa Oeste e acabou por ser o primeiro-ministro da Nova Zelândia. Era uma personagem e tanto. \r\n\r\nDepois, continuaremos a nossa caminhada até à área do património ao longo do rio Hokitika. Aqui verá e ouvirá as histórias dos navios à vela que traziam passageiros e mantimentos para a Costa Oeste. \r\nFaremos uma paragem em frente ao Edifício Carnegie e saberemos como Andrew Carnegie, o industrial escocês-americano, doou dinheiro às colónias para a construção de bibliotecas.\r\n\r\nA minha palestra será ilustrada com fotografias do Museu de Hokitika.\r\n\r\nPergunte-me tudo o que gostaria de saber sobre a nossa pequena cidade. Eu até o ajudarei a decidir onde ir"
+    },
+    "providerTitle": "Ann Bradley",
+    "providerPhone": "+64276589088",
+    "URL": "https://www.freetour.com/hokitika/hokitika-history-walk?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/hokitika/hokitika-history-walk?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/hokitika/hokitika-history-walk?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/hokitika/hokitika-history-walk?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/hokitika/hokitika-history-walk?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/hokitika/hokitika-history-walk?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/hokitika/hokitika-history-walk?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 15,
+      "currency": "EUR"
+    },
+    "length": "1:30",
+    "meetingPoint": {
+      "title": "39 Weld st Hokitika",
+      "coordinates": "-42.71850362140985,170.9645030104346",
+      "googlePlaceId": "ChIJ6xy2YhQvL20RDcpJ3-KrsOc"
+    },
+    "cityId": 3110,
+    "countryId": 112,
+    "includes": [
+      "Hokitika Museum",
+      "Hokitika River Bridge"
+    ],
+    "POIs": [
+      {
+        "id": 25139,
+        "title": "Hokitika Museum",
+        "googlePlaceId": "ChIJ5dW5thUvL20Rz5nDUvR4R58"
+      },
+      {
+        "id": 25138,
+        "title": "Hokitika River Bridge",
+        "googlePlaceId": "ChIJfXcQfb8vL20RlZSM2jfen5I"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/40851/hokitika-history-walk-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 132371,
+        "URL": "https://www.freetour.com/images/tours/40851/hokitika-history-walk-02.jpg"
+      },
+      {
+        "id": 132372,
+        "URL": "https://www.freetour.com/images/tours/40851/hokitika-history-walk-03.jpg"
+      },
+      {
+        "id": 132373,
+        "URL": "https://www.freetour.com/images/tours/40851/hokitika-history-walk-04.jpg"
+      },
+      {
+        "id": 132374,
+        "URL": "https://www.freetour.com/images/tours/40851/hokitika-history-walk-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 62817,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "Whangape Harbour Adventure Tours",
+      "es": "Excursiones de aventura por el puerto de Whangape",
+      "pt": "Passeios de aventura no porto de Whangape",
+      "de": "Whangape Harbour Abenteuer Touren",
+      "fr": "Visites d'aventure dans le port de Whangape",
+      "it": "Tour d'avventura nel porto di Whangape"
+    },
+    "brief": {
+      "de": "Erkunden Sie den atemberaubenden Whangape Harbour auf unseren geführten Wandertouren! Unsere individuell gestaltbaren Touren sind perfekt für fitte Abenteurer und umfassen Wandern, Camping und Angeln. Erleben Sie die atemberaubende Landschaft und tauchen Sie mit Gleichgesinnten in die Natur ein.",
+      "en": "Explore the stunning Whangape Harbour on our guided hiking tours! Perfect for fit adventurers, our customizable trips include hiking, camping, and fishing. Experience the breathtaking scenery and immerse yourself in nature with like-minded explorers.",
+      "es": "Explore el impresionante puerto de Whangape con nuestras excursiones guiadas Perfectas para aventureros en forma, nuestras excursiones personalizables incluyen senderismo, acampada y pesca. Disfrute del impresionante paisaje y sumérjase en la naturaleza con exploradores de ideas afines.",
+      "fr": "Explorez le magnifique port de Whangape lors de nos randonnées guidées ! Parfaites pour les aventuriers en pleine forme, nos excursions personnalisables comprennent la randonnée, le camping et la pêche. Découvrez des paysages à couper le souffle et immergez-vous dans la nature en compagnie d'autres explorateurs.",
+      "it": "Esplorate lo splendido porto di Whangape con le nostre escursioni guidate! Perfetti per gli avventurieri in forma, i nostri viaggi personalizzabili includono escursioni, campeggio e pesca. Scoprite i paesaggi mozzafiato e immergetevi nella natura con esploratori che la pensano come voi.",
+      "pt": "Explore o deslumbrante Porto de Whangape em nossas caminhadas guiadas! Perfeitas para aventureiros em forma, as nossas viagens personalizáveis incluem caminhadas, campismo e pesca. Experimente a paisagem de tirar o fôlego e mergulhe na natureza com exploradores que pensam como você."
+    },
+    "description": {
+      "de": "Genießen Sie eine geführte Wanderung zu einem der schönsten und abgelegensten versteckten Juwelen im hohen Norden.\r\n\r\nWandern Sie auf Küstenpfaden entlang von Bergen und Flüssen, mit atemberaubenden Ausblicken in alle Richtungen.\r\n\r\nSammeln Sie Treibholz, machen Sie ein Lagerfeuer, fangen und kochen Sie Fisch. Was auch immer Sie erleben wollen, wir können es möglich machen.",
+      "en": "Enjoy a guided walking tour of one of the most beautiful and remote hidden gems in the Far North.\r\n\r\nWalk along coastal tracks next to mountain's and river's, with stunning views in all directions.\r\n\r\nCollect driftwood, build a campfire, catch and cook fish. Whatever experience you want, we can make it happen.",
+      "es": "Disfrute de una visita guiada a pie por una de las joyas ocultas más bellas y remotas del Extremo Norte.\r\n\r\nCamine por senderos costeros junto a montañas y ríos, con impresionantes vistas en todas direcciones.\r\n\r\nRecoja madera flotante, haga una hoguera, pesque y cocine. Sea cual sea la experiencia que desee, podemos hacerla realidad.",
+      "fr": "Profitez d'une visite guidée à pied de l'un des joyaux cachés les plus beaux et les plus reculés du Grand Nord.\r\n\r\nMarchez le long des sentiers côtiers, à proximité des montagnes et des rivières, avec des vues époustouflantes dans toutes les directions.\r\n\r\nRamassez du bois flotté, faites un feu de camp, attrapez et cuisinez du poisson. Quelle que soit l'expérience que vous souhaitez vivre, nous pouvons la réaliser.",
+      "it": "Godetevi una visita guidata a piedi di una delle gemme nascoste più belle e remote dell'Estremo Nord.\r\n\r\nCamminate lungo i sentieri costieri accanto a montagne e fiumi, con viste mozzafiato in tutte le direzioni.\r\n\r\nRaccogliere legni alla deriva, accendere un fuoco, pescare e cucinare il pesce. Qualsiasi esperienza desideriate, noi possiamo realizzarla.",
+      "pt": "Desfrute de uma visita guiada a pé a uma das mais belas e remotas jóias escondidas do Extremo Norte.\r\n\r\nCaminhe ao longo de trilhos costeiros junto a montanhas e rios, com vistas deslumbrantes em todas as direcções.\r\n\r\nRecolha madeira à deriva, faça uma fogueira, apanhe e cozinhe peixe. Seja qual for a experiência que deseja, nós podemos torná-la realidade."
+    },
+    "providerTitle": "Riki",
+    "providerPhone": "+64278310852",
+    "URL": "https://www.freetour.com/kaitaia/whangape-harbour-adventure-tours?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/kaitaia/whangape-harbour-adventure-tours?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/kaitaia/whangape-harbour-adventure-tours?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/kaitaia/whangape-harbour-adventure-tours?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/kaitaia/whangape-harbour-adventure-tours?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/kaitaia/whangape-harbour-adventure-tours?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/kaitaia/whangape-harbour-adventure-tours?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "1266 Whangape Road, Herekino, New Zealand",
+      "coordinates": "-35.3449871,173.2264034",
+      "googlePlaceId": "ChIJqTgzPaAUCW0RsMuiQ2HvAAU"
+    },
+    "cityId": 5151,
+    "countryId": 112,
+    "includes": [
+      "Herekino Tavern"
+    ],
+    "POIs": [
+      {
+        "id": 26127,
+        "title": "Herekino Tavern",
+        "googlePlaceId": "ChIJKVySLAsTCW0Roy7wBiHcw-c"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/62817/whangape-harbour-adventure-tours-06.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 221132,
+        "URL": "https://www.freetour.com/images/tours/62817/whangape-harbour-adventure-tours-06.jpg"
+      },
+      {
+        "id": 221133,
+        "URL": "https://www.freetour.com/images/tours/62817/whangape-harbour-adventure-tours-07.jpg"
+      },
+      {
+        "id": 221135,
+        "URL": "https://www.freetour.com/images/tours/62817/whangape-harbour-adventure-tours-09.jpg"
+      },
+      {
+        "id": 221137,
+        "URL": "https://www.freetour.com/images/tours/62817/whangape-harbour-adventure-tours-11.jpg"
+      },
+      {
+        "id": 221138,
+        "URL": "https://www.freetour.com/images/tours/62817/whangape-harbour-adventure-tours-12.jpg"
+      },
+      {
+        "id": 221146,
+        "URL": "https://www.freetour.com/images/tours/62817/whangape-harbour-adventure-tours-18.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]

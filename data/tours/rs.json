@@ -1,0 +1,1977 @@
+[
+  {
+    "id": 312,
+    "updatedAt": "2025-12-01 14:30:14",
+    "title": {
+      "en": "City Center Free Walking Tour",
+      "es": "Visita gratuita a pie por el centro de la ciudad",
+      "pt": "Passeio a pé gratuito pelo centro da cidade",
+      "de": "City Center Free Walking Tour",
+      "fr": "Visite à pied gratuite du centre ville",
+      "it": "Tour a piedi gratuito del centro città"
+    },
+    "brief": {
+      "de": "Kostenloser Rundgang durch das Belgrader Stadtzentrum. Aufschlussreiche, unterhaltsame und informative Spaziergänge mit Einheimischen, die Ihnen über die Geschichte der Stadt, die Gesellschaft, die Architektur, die Küche, das Nachtleben und vieles mehr erzählen. Fokussiert..",
+      "en": "Free Belgrade city center walking tour. Insightful, fun-filled and informative walks with locals who will  tell you about the city’s history, society, architecture, cuisine, night-life and much more. Focused…",
+      "es": "Visita gratuita a pie por el centro de Belgrado. Paseos instructivos, divertidos y llenos de información con lugareños que le hablarán de la historia, la sociedad, la arquitectura, la gastronomía, la vida nocturna y mucho más de la ciudad. Enfocado..",
+      "fr": "Visite gratuite du centre-ville de Belgrade. Des promenades perspicaces, amusantes et instructives avec des habitants qui vous parleront de l'histoire de la ville, de la société, de l'architecture, de la cuisine, de la vie nocturne et de bien d'autres choses encore. Les visites se concentrent..",
+      "it": "Tour gratuito a piedi del centro di Belgrado. Passeggiate approfondite, divertenti e istruttive con persone del posto che vi racconteranno la storia, la società, l'architettura, la cucina, la vita notturna della città e molto altro ancora. Focalizzato..",
+      "pt": "Passeio a pé gratuito pelo centro da cidade de Belgrado. Passeios perspicazes, divertidos e informativos com habitantes locais que lhe falarão sobre a história da cidade, a sociedade, a arquitetura, a gastronomia, a vida nocturna e muito mais. Focado.."
+    },
+    "description": {
+      "de": "Kostenloser Rundgang durch das Belgrader Stadtzentrum. Aufschlussreiche, unterhaltsame und informative Spaziergänge mit Einheimischen, die Ihnen über die Geschichte der Stadt, die Gesellschaft, die Architektur, die Küche, das Nachtleben und vieles mehr erzählen. Im Mittelpunkt stehen die wichtigsten Sehenswürdigkeiten, die Belgrads Innenstadt zu bieten hat. Das Ziel dieser Tour ist es, unsere Stadt mit den Augen von Insidern zu entdecken und zu erleben, Straßen, Brücken und Statuen zum Leben zu erwecken und natürlich Spaß zu haben. Die Tour endet in der Nähe der berühmten Knez Mihailova Straße mit nützlichen Tipps zur einfachen Orientierung bei der Suche nach Museen, Ausgeh- und Essensmöglichkeiten und vor allem zur Vermeidung von Touristenfallen in der Stadt.",
+      "en": "Free Belgrade city center walking tour. Insightful, fun-filled and informative walks with locals who will  tell you about the city’s history, society, architecture, cuisine, night-life and much more. Focused around the most relevant sights Belgrade city center has to offer. The goal of this walking tour is to discover and experience our city through the eyes of insiders, to bring to life streets, bridges and statues, and of course, to have fun. The tour ends near the famous Knez Mihailova street  with useful tips for easy orientation when searching for museums, places to go out, places to eat out, and especially for avoiding tourist traps in the city.",
+      "es": "Visita gratuita a pie por el centro de Belgrado. Paseos instructivos y divertidos con lugareños que le hablarán de la historia, la sociedad, la arquitectura, la gastronomía, la vida nocturna y mucho más de la ciudad. Se centra en los lugares de interés más importantes del centro de Belgrado. El objetivo de este recorrido a pie es descubrir y experimentar nuestra ciudad a través de los ojos de la gente de dentro, dar vida a calles, puentes y estatuas y, por supuesto, divertirse. El recorrido termina cerca de la famosa calle Knez Mihailova, con consejos útiles para orientarse fácilmente a la hora de buscar museos, lugares para salir, sitios para comer y, sobre todo, para evitar las trampas para turistas en la ciudad.",
+      "fr": "Visite gratuite du centre-ville de Belgrade. Des promenades perspicaces, amusantes et instructives avec des habitants qui vous parleront de l'histoire de la ville, de la société, de l'architecture, de la cuisine, de la vie nocturne et de bien d'autres choses encore. Cette visite se concentre sur les sites les plus importants que le centre-ville de Belgrade a à offrir. L'objectif de cette visite à pied est de découvrir et d'expérimenter notre ville à travers les yeux d'initiés, de faire revivre les rues, les ponts et les statues, et bien sûr, de s'amuser. La visite se termine près de la célèbre rue Knez Mihailova, avec des conseils utiles pour faciliter l'orientation lors de la recherche de musées, d'endroits où sortir, d'endroits où manger, et surtout pour éviter les pièges à touristes dans la ville.",
+      "it": "Tour gratuito a piedi del centro di Belgrado. Passeggiate approfondite, divertenti e informative con persone del posto che vi racconteranno la storia, la società, l'architettura, la cucina, la vita notturna della città e molto altro ancora. Il tour si concentra sui luoghi più importanti che il centro di Belgrado ha da offrire. L'obiettivo di questo tour a piedi è quello di scoprire e vivere la nostra città attraverso gli occhi degli addetti ai lavori, di far rivivere strade, ponti e statue e, naturalmente, di divertirsi. Il tour termina vicino alla famosa via Knez Mihailova con consigli utili per orientarsi facilmente nella ricerca di musei, luoghi in cui uscire, posti in cui mangiare e soprattutto per evitare le trappole per turisti in città.",
+      "pt": "Passeio a pé gratuito pelo centro da cidade de Belgrado. Passeios perspicazes, divertidos e informativos com habitantes locais que lhe falarão sobre a história da cidade, a sociedade, a arquitetura, a gastronomia, a vida nocturna e muito mais. Focado nos pontos turísticos mais relevantes que o centro da cidade de Belgrado tem para oferecer. O objetivo deste passeio a pé é descobrir e vivenciar a nossa cidade através dos olhos de pessoas de dentro, dar vida a ruas, pontes e estátuas e, claro, divertir-se. O passeio termina perto da famosa rua Knez Mihailova com dicas úteis para uma orientação fácil na procura de museus, sítios para sair, sítios para comer fora e, especialmente, para evitar armadilhas para turistas na cidade."
+    },
+    "providerTitle": "Belgrade Free Tour",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/belgrade/city-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/city-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/city-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/city-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/city-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/city-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/city-center-free-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Republic Square",
+      "coordinates": "44.8162684,20.459677899999974",
+      "googlePlaceId": "ChIJPTZu3rJ6WkcRklEkGVFL5_g"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square",
+      "Republic square",
+      "Knez Mihailova street",
+      "Bohemian quarter",
+      "Green Market",
+      "Silicon Valley",
+      "Mosque",
+      "Kalemegdan park",
+      "Belgrade Fortress",
+      "Oldest Kafana",
+      "Cathedral church",
+      "and more!"
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 1350,
+        "URL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-02.jpg"
+      },
+      {
+        "id": 1354,
+        "URL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-11.jpg"
+      },
+      {
+        "id": 1355,
+        "URL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-06.jpg"
+      },
+      {
+        "id": 1356,
+        "URL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-07.jpg"
+      },
+      {
+        "id": 1360,
+        "URL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-12.jpg"
+      },
+      {
+        "id": 1364,
+        "URL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-15.jpg"
+      },
+      {
+        "id": 1366,
+        "URL": "https://www.freetour.com/images/tours/312/city-center-free-walking-tour-16.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.77,
+    "reviewsNumber": 285
+  },
+  {
+    "id": 3015,
+    "updatedAt": "2025-12-01 03:32:39",
+    "title": {
+      "en": "Free Tour Belgrade: Explore the Historic City Center",
+      "es": "Free Tour Belgrado: Explore el centro histórico de la ciudad",
+      "pt": "Free Tour Belgrado: Explore o centro histórico da cidade",
+      "de": "Kostenlose Tour Belgrad: Erkunden Sie das historische Stadtzentrum",
+      "fr": "Visite libre de Belgrade : découverte du centre historique de la ville",
+      "it": "Tour gratuito di Belgrado: esplorate il centro storico della città"
+    },
+    "brief": {
+      "de": "Erkunden Sie die Stadt an der Donau, die in die Save mündet, auf unserer kostenlosen Tour. Das faszinierende Belgrad beeindruckt durch seine Mischung aus modernem Lifestyle und historischem Erbe.",
+      "en": "Explore the city on Danube, which meets Sava River, on our free tour. Amazing Belgrade impresses deeply by its bedazzle of modern lifestyle and historical heritage.",
+      "es": "Explore la ciudad a orillas del Danubio, que confluye con el río Sava, en nuestro recorrido gratuito. La asombrosa Belgrado impresiona profundamente por su deslumbrante mezcla de estilo de vida moderno y patrimonio histórico.",
+      "fr": "Explorez la ville sur le Danube, qui rencontre la rivière Sava, lors de notre visite gratuite. L'étonnante Belgrade impressionne profondément par son mélange de style de vie moderne et de patrimoine historique.",
+      "it": "Esplorate la città sul Danubio, che incontra il fiume Sava, con il nostro tour gratuito. La sorprendente Belgrado colpisce per il suo stile di vita moderno e il suo patrimonio storico.",
+      "pt": "Explore a cidade junto ao Danúbio, que se encontra com o rio Sava, na nossa visita guiada gratuita. A incrível Belgrado impressiona profundamente pelo seu deslumbramento com o estilo de vida moderno e o património histórico."
+    },
+    "description": {
+      "de": "Unser kostenloser Rundgang führt Sie durch das historische Zentrum Belgrads, wo Sie die Geschichten, Sehenswürdigkeiten und die Kultur entdecken, die die pulsierende Hauptstadt Serbiens geprägt haben. Wir beginnen vor dem Hotel Moskva auf dem Terazije-Platz und schlendern von dort aus die lebhafte Knez Mihailova-Straße hinunter, die zentrale Fußgängerzone der Stadt.\r\n\r\nUnser nächster Halt ist der Platz der Republik, auf dem sich das Nationalmuseum, das Nationaltheater und die berühmte Statue des Fürsten Mihailo befinden. Ihr Reiseleiter wird Ihnen die kulturelle und historische Bedeutung dieses zentralen Platzes erklären. Anschließend erkunden wir Skadarlija, Belgrads charmantes Bohème-Viertel, das für seine kopfsteingepflasterten Straßen, traditionellen Kafanen und seinen künstlerischen Geist bekannt ist. Von dort aus geht es weiter nach Dorćol, einem der ältesten Stadtteile Belgrads, wo wir das Museum von Vuk und Dositej besuchen und die Bajrakli-Moschee besichtigen, die einzige erhaltene Moschee der Stadt aus der osmanischen Zeit. Weiter geht es zum atemberaubenden Kalemegdan-Park und zur Belgrader Festung, die reich an Geschichte und Symbolen Belgrads ist, darunter das Siegerdenkmal.\r\n\r\nDie Tour führt weiter zur Kathedralkirche St. Michael und endet in der friedlichen Altstadt von Kosančićev Venac.",
+      "en": "Our free walking tour will take you through the historic heart of Belgrade, where you'll discover the stories, landmarks, and culture that have shaped Serbia’s vibrant capital. We begin in front of the Hotel Moskva on Terazije Square, and from there, we stroll down the lively Knez Mihailova Street, the city’s central pedestrian zone.\r\n\r\nOur next stop is Republic Square, home to the National Museum, National Theatre, and the famous statue of Prince Mihailo. Your guide will explain the cultural and historical significance of this central location. We then explore Skadarlija, Belgrade’s charming bohemian quarter, known for its cobblestone streets, traditional kafanas, and artistic spirit. From there, we move into Dorćol, one of Belgrade’s oldest neighborhoods, where we stop at the Museum of Vuk and Dositej and see the Bajrakli Mosque, the city’s only surviving mosque from the Ottoman period. Next, we head to the breathtaking Kalemegdan Park and Belgrade Fortress, which is rich in history and symbols of Belgrade, including the Victor Monument.\r\n\r\nThe tour continues to the Cathedral Church of St. Michael and ends in the peaceful old quarter of Kosančićev Venac.",
+      "es": "Nuestro recorrido gratuito a pie le llevará por el corazón histórico de Belgrado, donde descubrirá las historias, los monumentos y la cultura que han dado forma a la vibrante capital de Serbia. Comenzaremos frente al Hotel Moskva, en la plaza Terazije, y desde allí pasearemos por la animada calle Knez Mihailova, la zona peatonal más céntrica de la ciudad.\r\n\r\nNuestra siguiente parada es la Plaza de la República, donde se encuentran el Museo Nacional, el Teatro Nacional y la famosa estatua del Príncipe Mihailo. Su guía le explicará la importancia cultural e histórica de este céntrico lugar. A continuación exploraremos Skadarlija, el encantador barrio bohemio de Belgrado, conocido por sus calles adoquinadas, sus tradicionales kafanas y su espíritu artístico. Desde allí, nos adentraremos en Dorćol, uno de los barrios más antiguos de Belgrado, donde nos detendremos en el Museo de Vuk y Dositej y veremos la Mezquita Bajrakli, la única mezquita del periodo otomano que se conserva en la ciudad. A continuación, nos dirigimos al impresionante Parque Kalemegdan y la Fortaleza de Belgrado, ricos en historia y símbolos de Belgrado, incluido el Monumento a Víctor.\r\n\r\nEl recorrido continúa hacia la Iglesia Catedral de San Miguel y termina en el tranquilo casco antiguo de Kosančićev Venac.",
+      "fr": "Notre visite à pied gratuite vous emmènera dans le cœur historique de Belgrade, où vous découvrirez les histoires, les sites et la culture qui ont façonné la vibrante capitale de la Serbie. Nous commençons devant l'hôtel Moskva, sur la place Terazije, et de là, nous nous promenons dans la rue animée Knez Mihailova, la zone piétonne centrale de la ville.\r\n\r\nNotre prochaine étape est la place de la République, qui abrite le musée national, le théâtre national et la célèbre statue du prince Mihailo. Votre guide vous expliquera l'importance culturelle et historique de ce lieu central. Nous explorons ensuite Skadarlija, le charmant quartier bohème de Belgrade, connu pour ses rues pavées, ses kafanas traditionnelles et son esprit artistique. De là, nous nous rendons à Dorćol, l'un des plus anciens quartiers de Belgrade, où nous nous arrêtons au musée de Vuk et Dositej et voyons la mosquée Bajrakli, la seule mosquée de la ville à avoir survécu à la période ottomane. Ensuite, nous nous dirigeons vers l'époustouflant parc de Kalemegdan et la forteresse de Belgrade, riche en histoire et en symboles de Belgrade, notamment le monument de Victor.\r\n\r\nLa visite se poursuit à l'église cathédrale Saint-Michel et se termine dans le vieux quartier paisible de Kosančićev Venac.",
+      "it": "Il nostro tour gratuito a piedi vi porterà nel cuore storico di Belgrado, dove scoprirete le storie, i punti di riferimento e la cultura che hanno plasmato la vibrante capitale della Serbia. Inizieremo di fronte all'Hotel Moskva in piazza Terazije e da lì passeggeremo lungo la vivace via Knez Mihailova, la zona pedonale centrale della città.\r\n\r\nLa tappa successiva è Piazza della Repubblica, dove si trovano il Museo Nazionale, il Teatro Nazionale e la famosa statua del Principe Mihailo. La guida vi spiegherà il significato storico e culturale di questo luogo centrale. Esploriamo poi Skadarlija, l'affascinante quartiere bohémien di Belgrado, noto per le sue strade acciottolate, le tradizionali kafane e lo spirito artistico. Da qui ci spostiamo a Dorćol, uno dei quartieri più antichi di Belgrado, dove ci fermiamo al Museo di Vuk e Dositej e visitiamo la Moschea Bajrakli, l'unica moschea superstite della città risalente al periodo ottomano. Successivamente, ci dirigiamo verso il parco mozzafiato di Kalemegdan e la Fortezza di Belgrado, ricca di storia e di simboli di Belgrado, tra cui il Monumento a Victor.\r\n\r\nIl tour prosegue verso la chiesa cattedrale di San Michele e termina nel tranquillo quartiere antico di Kosančićev Venac.",
+      "pt": "O nosso passeio a pé gratuito levá-lo-á pelo coração histórico de Belgrado, onde descobrirá as histórias, os pontos de referência e a cultura que moldaram a vibrante capital da Sérvia. Começamos em frente ao Hotel Moskva na Praça Terazije e, a partir daí, passeamos pela animada Rua Knez Mihailova, a zona pedonal central da cidade.\r\n\r\nA nossa próxima paragem é a Praça da República, onde se encontra o Museu Nacional, o Teatro Nacional e a famosa estátua do Príncipe Mihailo. O seu guia explicará o significado cultural e histórico deste local central. Em seguida, exploramos Skadarlija, o encantador bairro boémio de Belgrado, conhecido pelas suas ruas de calçada, kafanas tradicionais e espírito artístico. De lá, passamos para Dorćol, um dos bairros mais antigos de Belgrado, onde paramos no Museu de Vuk e Dositej e vemos a Mesquita Bajrakli, a única mesquita sobrevivente da cidade do período otomano. Em seguida, dirigimo-nos ao deslumbrante Parque Kalemegdan e à Fortaleza de Belgrado, que é rica em história e símbolos de Belgrado, incluindo o Monumento Victor.\r\n\r\nO passeio continua para a Igreja Catedral de São Miguel e termina no pacífico bairro antigo de Kosančićev Venac."
+    },
+    "providerTitle": "Nikola Risimić",
+    "providerPhone": "00381638309488",
+    "URL": "https://www.freetour.com/belgrade/belgrade-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/belgrade-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/belgrade-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/belgrade-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/belgrade-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/belgrade-center-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/belgrade-center-free-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:15",
+    "meetingPoint": {
+      "title": "Terazije square; In front of The Hotel Moskva",
+      "coordinates": "44.8132071,20.46005930000001",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square",
+      "Belgrade Fortress",
+      "Kalemegdan",
+      "Terazije",
+      "Skadarska ulica",
+      "Holy Archangel Michael Orthodox Church",
+      "Bajrakli Mosque",
+      "Vuk & Dositej Museum",
+      "Znak Pitanja (Question Mark)"
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      },
+      {
+        "id": 10517,
+        "title": "Belgrade Fortress",
+        "googlePlaceId": "ChIJUyxcAUllWkcRstJIPZ95CxY"
+      },
+      {
+        "id": 8414,
+        "title": "Kalemegdan",
+        "googlePlaceId": "ChIJpRm697R6WkcRstFR2oX4vSk"
+      },
+      {
+        "id": 8413,
+        "title": "Terazije",
+        "googlePlaceId": "ChIJpRm697R6WkcREAL2pgYSZtc"
+      },
+      {
+        "id": 13202,
+        "title": "Skadarska ulica",
+        "googlePlaceId": "ChIJ9zGG6YZ7WkcRpBeLqFiN08w"
+      },
+      {
+        "id": 4425,
+        "title": "Holy Archangel Michael Orthodox Church",
+        "googlePlaceId": "ChIJfQmstk1lWkcRX2h6i2U9dpg"
+      },
+      {
+        "id": 9618,
+        "title": "Bajrakli Mosque",
+        "googlePlaceId": "ChIJsR3TAktlWkcRKHSrH5MvE7o"
+      },
+      {
+        "id": 13203,
+        "title": "Vuk & Dositej Museum",
+        "googlePlaceId": "ChIJxxyXMUtlWkcRwqAU_6bW_Ak"
+      },
+      {
+        "id": 13204,
+        "title": "Znak Pitanja (Question Mark)",
+        "googlePlaceId": "ChIJZxALr01lWkcRT28_6Gm290Y"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-22.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 191133,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-22.jpg"
+      },
+      {
+        "id": 191116,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-06.jpg"
+      },
+      {
+        "id": 142181,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-01.jpg"
+      },
+      {
+        "id": 115773,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-13.jpg"
+      },
+      {
+        "id": 115778,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-24.jpg"
+      },
+      {
+        "id": 191113,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-04.jpg"
+      },
+      {
+        "id": 191123,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-14.jpg"
+      },
+      {
+        "id": 191124,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-16.jpg"
+      },
+      {
+        "id": 191128,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-18.jpg"
+      },
+      {
+        "id": 191129,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-19.jpg"
+      },
+      {
+        "id": 191134,
+        "URL": "https://www.freetour.com/images/tours/3015/belgrade-center-free-walking-tour-23.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.88,
+    "reviewsNumber": 92
+  },
+  {
+    "id": 6721,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "Free Tour in Belgrade",
+      "es": "Visita gratuita a Belgrado",
+      "pt": "Visita livre em Belgrado",
+      "de": "Kostenlose Tour in Belgrad",
+      "fr": "Visite libre de Belgrade",
+      "it": "Visita libera a Belgrado"
+    },
+    "brief": {
+      "de": "Nehmen Sie an unserem kostenlosen Rundgang teil und entdecken Sie das schöne Belgrad. Erkunden Sie diese kosmopolitische Stadt, die durch ihren eklektischen Charakter und ihre geografisch weitläufige Lage geprägt ist.",
+      "en": "Join our free walking tour and discover beautiful Belgrade. Explore this cosmopolitan city, forever defined by its eclectic nature and geographically expansive location.",
+      "es": "Únase a nuestro recorrido gratuito a pie y descubra la hermosa Belgrado. Explora esta ciudad cosmopolita, siempre definida por su naturaleza ecléctica y su ubicación geográfica.",
+      "fr": "Participez à notre visite à pied gratuite et découvrez la belle Belgrade. Explorez cette ville cosmopolite, définie à jamais par sa nature éclectique et sa situation géographique étendue.",
+      "it": "Unitevi al nostro tour gratuito a piedi e scoprite la bellissima Belgrado. Esplorate questa città cosmopolita, da sempre definita dalla sua natura eclettica e dalla sua posizione geografica estesa.",
+      "pt": "Junte-se ao nosso passeio a pé gratuito e descubra a bela Belgrado. Explore esta cidade cosmopolita, sempre definida pela sua natureza eclética e localização geograficamente expansiva."
+    },
+    "description": {
+      "de": "Belgrad ist eine der ältesten Städte Europas, voller historischer Turbulenzen und deren Spiegelungen, die überall wie ein glänzender Staub verstreut sind.\r\n\r\nHeute ist Belgrad vor allem eine sehr moderne und energiegeladene Stadt, mit einer unverwechselbaren Natürlichkeit, die von ihrem Selbstbewusstsein, ihrem Leben und ihren freundlichen Menschen herrührt. In Belgrad ist es eine alltägliche Sache, mit den Gästen die Schätze der Stadt zu teilen und ihnen ihren Geist zu vermitteln, denn sie sind wie Geschenke für uns. Dieser kostenlose Rundgang spiegelt diesen Charakter perfekt wider. \r\n\r\nAuf dieser Tour lassen Sie unsere leidenschaftlichen Fremdenführer in die lokalen Geschichten eintauchen und verraten Ihnen, wo Sie während Ihres Aufenthalts in dieser Stadt, die niemals schläft, am besten ausgehen können.",
+      "en": "Belgrade is one of the oldest cities in Europe, full of its historical turbulence and its reflections scattered everywhere like a shining dust.\r\n\r\nBelgrade today is above all a very modern and energetic city, with a distinctive naturalness that comes from its self-confidence, it's full of life and kind people. In Belgrade, it is an everyday thing, to share with the guests the treasures of the city and teach them their spirit, because they are like gifts for us. This free walking tour reflects this character perfectly. \r\n\r\nOn this tour, our passionate guides will allow you to immerse yourself in local stories and tell you where are the best places to go out during your stay in this city that never sleeps.",
+      "es": "Belgrado es una de las ciudades más antiguas de Europa, llena de sus turbulencias históricas y sus reflejos esparcidos por todas partes como un polvo brillante.\r\n\r\nHoy Belgrado es sobre todo una ciudad muy moderna y enérgica, con una naturalidad distintiva que proviene de su confianza en sí misma, está llena de vida y de gente amable. En Belgrado, es cosa de todos los días, compartir con los huéspedes los tesoros de la ciudad y enseñarles su espíritu, porque son como regalos para nosotros. Este recorrido gratuito a pie refleja perfectamente este carácter. \r\n\r\nEn este recorrido, nuestros apasionados guías le permitirán sumergirse en las historias locales y le dirán cuáles son los mejores lugares para salir durante su estancia en esta ciudad que nunca duerme.",
+      "fr": "Belgrade est l'une des plus anciennes villes d'Europe, pleine de ses turbulences historiques et de ses reflets éparpillés partout comme une poussière brillante.\r\n\r\nAujourd'hui, Belgrade est avant tout une ville très moderne et énergique, avec un naturel distinctif qui vient de sa confiance en soi, elle est pleine de vie et de gens aimables. À Belgrade, partager avec les visiteurs les trésors de la ville et leur en enseigner l'esprit, parce qu'ils sont comme des cadeaux pour nous, fait partie du quotidien. Cette visite gratuite à pied reflète parfaitement ce caractère. \r\n\r\nLors de cette visite, nos guides passionnés vous permettront de vous immerger dans les histoires locales et vous indiqueront les meilleurs endroits où sortir pendant votre séjour dans cette ville qui ne dort jamais.",
+      "it": "Belgrado è una delle città più antiche d'Europa, ricca di turbolenze storiche e dei suoi riflessi sparsi ovunque come una polvere brillante.\r\n\r\nOggi Belgrado è soprattutto una città molto moderna ed energica, con una naturalezza distintiva che deriva dalla sua fiducia in se stessa, è piena di vita e di persone gentili. A Belgrado è una cosa quotidiana condividere con gli ospiti i tesori della città e insegnare loro il loro spirito, perché sono come doni per noi. Questo tour gratuito a piedi riflette perfettamente questo carattere. \r\n\r\nLe nostre guide appassionate vi permetteranno di immergervi nelle storie locali e vi diranno quali sono i posti migliori per uscire durante il vostro soggiorno in questa città che non dorme mai.",
+      "pt": "Belgrado é uma das cidades mais antigas da Europa, cheia de turbulências históricas e com os seus reflexos espalhados por todo o lado como uma poeira brilhante.\r\n\r\nAtualmente, Belgrado é acima de tudo uma cidade muito moderna e enérgica, com uma naturalidade distinta que advém da sua autoconfiança, é cheia de vida e de pessoas amáveis. Em Belgrado, partilhar com os hóspedes os tesouros da cidade e ensinar-lhes o seu espírito é algo quotidiano, porque são como presentes para nós. Este passeio a pé gratuito reflecte perfeitamente este carácter. \r\n\r\nNeste passeio, os nossos guias apaixonados permitirão que mergulhe nas histórias locais e dir-lhe-ão quais são os melhores locais para sair durante a sua estadia nesta cidade que nunca dorme."
+    },
+    "providerTitle": "Wanderlust Tours Belgrade",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/belgrade/tour-a-pie-gratis-de-belgrado?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/tour-a-pie-gratis-de-belgrado?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/tour-a-pie-gratis-de-belgrado?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/tour-a-pie-gratis-de-belgrado?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/tour-a-pie-gratis-de-belgrado?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/tour-a-pie-gratis-de-belgrado?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/tour-a-pie-gratis-de-belgrado?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:45",
+    "meetingPoint": {
+      "title": "La Plaza de la Republica",
+      "coordinates": "44.8162551,20.46031990000006",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square",
+      "Holy Archangel Michael Orthodox Church",
+      "Kalemegdan",
+      "Konak kneginje Ljubice",
+      "Bajrakli Mosque",
+      "National Museum of Serbia",
+      "Belgrade Fortress",
+      "Skadarlija"
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      },
+      {
+        "id": 4425,
+        "title": "Holy Archangel Michael Orthodox Church",
+        "googlePlaceId": "ChIJfQmstk1lWkcRX2h6i2U9dpg"
+      },
+      {
+        "id": 8414,
+        "title": "Kalemegdan",
+        "googlePlaceId": "ChIJpRm697R6WkcRstFR2oX4vSk"
+      },
+      {
+        "id": 3668,
+        "title": "Konak kneginje Ljubice",
+        "googlePlaceId": "ChIJDRgWok1lWkcRuLwI47pKiJM"
+      },
+      {
+        "id": 9618,
+        "title": "Bajrakli Mosque",
+        "googlePlaceId": "ChIJsR3TAktlWkcRKHSrH5MvE7o"
+      },
+      {
+        "id": 20758,
+        "title": "National Museum of Serbia",
+        "googlePlaceId": "ChIJU6fXRLJ6WkcRPzI4qdPWiOY"
+      },
+      {
+        "id": 10517,
+        "title": "Belgrade Fortress",
+        "googlePlaceId": "ChIJUyxcAUllWkcRstJIPZ95CxY"
+      },
+      {
+        "id": 26485,
+        "title": "Skadarlija",
+        "googlePlaceId": "ChIJYSLdULF6WkcR34Yi1yEFqJE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-20.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 12579,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-20.jpg"
+      },
+      {
+        "id": 12581,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-09.jpg"
+      },
+      {
+        "id": 12583,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-19.jpg"
+      },
+      {
+        "id": 12585,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-12.jpg"
+      },
+      {
+        "id": 12586,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-06.jpg"
+      },
+      {
+        "id": 12588,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-04.jpg"
+      },
+      {
+        "id": 12589,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-14.jpg"
+      },
+      {
+        "id": 12590,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-21.jpg"
+      },
+      {
+        "id": 12591,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-07.jpg"
+      },
+      {
+        "id": 12592,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-13.jpg"
+      },
+      {
+        "id": 12593,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-08.jpg"
+      },
+      {
+        "id": 12594,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-11.jpg"
+      },
+      {
+        "id": 12595,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-05.jpg"
+      },
+      {
+        "id": 12597,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-17.jpg"
+      },
+      {
+        "id": 281409,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-22.jpg"
+      },
+      {
+        "id": 281415,
+        "URL": "https://www.freetour.com/images/tours/6721/tour-a-pie-gratis-de-belgrado-23.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.71,
+    "reviewsNumber": 101
+  },
+  {
+    "id": 6919,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "The Rise and Fall of Yugoslavia Tour",
+      "es": "Tour: Auge y Caída de Yugoslavia",
+      "pt": "A ascensão e queda da Jugoslávia Tour",
+      "de": "Der Aufstieg und Fall Jugoslawiens Tournee",
+      "fr": "Tournée sur la montée et la chute de la Yougoslavie",
+      "it": "L'ascesa e la caduta della Jugoslavia Tour"
+    },
+    "brief": {
+      "de": "Erkunden Sie mit uns den dramatischen Aufstieg und Fall Jugoslawiens! Entdecken Sie atemberaubende Architektur und hören Sie fesselnde Geschichten über Tito und die kommunistische Ära. Entdecken Sie die Wendungen der Geschichte auf dieser unvergesslichen Reise durch Serbiens Vergangenheit.",
+      "en": "Join us to explore the dramatic rise and fall of Yugoslavia! Discover stunning architecture and hear captivating stories about Tito and the Communist era. Uncover history’s twists on this unforgettable journey through Serbia’s past.",
+      "es": "Únase a nosotros para explorar el dramático ascenso y caída de Yugoslavia Descubra una arquitectura impresionante y escuche historias cautivadoras sobre Tito y la era comunista. Descubra los giros de la historia en este inolvidable viaje por el pasado de Serbia.",
+      "fr": "Rejoignez-nous pour explorer l'ascension et la chute dramatiques de la Yougoslavie ! Découvrez une architecture étonnante et écoutez des histoires captivantes sur Tito et l'ère communiste. Ce voyage inoubliable à travers le passé de la Serbie vous fera découvrir les méandres de l'histoire.",
+      "it": "Unitevi a noi per esplorare la drammatica ascesa e caduta della Jugoslavia! Scoprite un'architettura straordinaria e ascoltate storie avvincenti su Tito e l'era comunista. Scoprite gli intrecci della storia in questo indimenticabile viaggio nel passato della Serbia.",
+      "pt": "Junte-se a nós para explorar a dramática ascensão e queda da Jugoslávia! Descubra uma arquitetura deslumbrante e ouça histórias cativantes sobre Tito e a era comunista. Descubra as reviravoltas da história nesta viagem inesquecível pelo passado da Sérvia."
+    },
+    "description": {
+      "de": "Die Tour \"Aufstieg und Fall Jugoslawiens\" zeigt die widersprüchlichste und turbulenteste Ära der serbischen und jugoslawischen Geschichte, die vom Ersten Weltkrieg über den Zweiten Weltkrieg bis in die 1990er und 2000er Jahre reicht. Unser professioneller Reiseleiter wird Ihnen einen persönlichen und realistischen Einblick in das Leben vor und nach dem Zweiten Weltkrieg geben.\r\n\r\nDie einen blicken mit Wehmut zurück, die anderen vermissen die guten alten Zeiten der Sozialistischen Föderativen Republik Jugoslawien, als alle \"gleich\" waren, einen Arbeitsplatz, ein Dach über dem Kopf und Essen auf dem Tisch hatten. Wir bemühen uns, in unserer Präsentation objektiv zu sein, erzählen aber auch authentische Familiengeschichten und enthüllen faszinierende Fakten und Geschichten über Reisen, Wohnen, Bildung, Medien, Propaganda, Sport, Gesundheitswesen, Religion, Wirtschaft und Politik in Jugoslawien.\r\n\r\nBei diesem Erlebnis werden wir in einem alten jugoslawischen Bus, einem so genannten Trolleybus, fahren. \r\n\r\nReisen Sie mit uns in die Vergangenheit und entdecken Sie, was es bedeutet, ein Jugoslawe zu sein!",
+      "en": "The Rise and Fall of Yugoslavia tour captures the most contradictory and turbulent era of Serbian and Yugoslavian history, covering the period from World War I through World War II to the 1990s and 2000s. Our professional tour guide will give you a personal and realistic insight into what life was like before and after World War II.\r\n\r\nSome look back in sorrow, others miss the good old days of the Socialist Federal Republic of Yugoslavia, when everyone was \"equal\", had a job, a roof over their head, and food on the table. We strive to be objective in our presentation, while also sharing authentic family stories and revealing fascinating facts and tales about traveling, housing, education, media, propaganda, sports, healthcare, religion, economy, and politics in Yugoslavia.\r\n\r\nThis experience will involve driving in an old Yugoslavian bus, known as a trolleybus. \r\n\r\nTravel with us back in time and discover what it meant to be a Yugoslav!",
+      "es": "El tour Auge y caída de Yugoslavia capta la época más contradictoria y turbulenta de la historia serbia y yugoslava, abarcando el periodo comprendido entre la Primera Guerra Mundial, la Segunda Guerra Mundial y las décadas de 1990 y 2000. Nuestro guía profesional le ofrecerá una visión personal y realista de cómo era la vida antes y después de la II Guerra Mundial.\r\n\r\nAlgunos miran atrás con tristeza, otros añoran los buenos tiempos de la República Socialista Federativa de Yugoslavia, cuando todo el mundo era \"igual\", tenía trabajo, un techo y comida en la mesa. Nos esforzamos por ser objetivos en nuestra presentación, a la vez que compartimos auténticas historias familiares y revelamos hechos y relatos fascinantes sobre viajes, vivienda, educación, medios de comunicación, propaganda, deportes, sanidad, religión, economía y política en Yugoslavia.\r\n\r\nEsta experiencia incluirá la conducción de un antiguo autobús yugoslavo, conocido como trolebús. \r\n\r\nViaje con nosotros al pasado y descubra lo que significaba ser yugoslavo",
+      "fr": "Le circuit \"La montée et la chute de la Yougoslavie\" retrace l'époque la plus contradictoire et la plus turbulente de l'histoire de la Serbie et de la Yougoslavie, couvrant la période allant de la Première Guerre mondiale aux années 1990 et 2000, en passant par la Seconde Guerre mondiale. Notre guide professionnel vous donnera un aperçu personnel et réaliste de ce qu'était la vie avant et après la Seconde Guerre mondiale.\r\n\r\nCertains regardent en arrière avec tristesse, d'autres regrettent le bon vieux temps de la République fédérale socialiste de Yougoslavie, lorsque tout le monde était \"égal\", avait un travail, un toit au-dessus de sa tête et de la nourriture sur la table. Nous nous efforçons d'être objectifs dans notre présentation, tout en partageant des histoires familiales authentiques et en révélant des faits et des récits fascinants sur les voyages, le logement, l'éducation, les médias, la propagande, les sports, les soins de santé, la religion, l'économie et la politique en Yougoslavie.\r\n\r\nCette expérience impliquera la conduite d'un ancien bus yougoslave, connu sous le nom de trolleybus. \r\n\r\nVoyagez avec nous dans le temps et découvrez ce que cela signifie d'être yougoslave !",
+      "it": "Il tour \"Ascesa e caduta della Jugoslavia\" cattura l'epoca più contraddittoria e turbolenta della storia serba e jugoslava, coprendo il periodo che va dalla Prima Guerra Mondiale alla Seconda Guerra Mondiale, fino agli anni '90 e 2000. La nostra guida turistica professionale vi darà una visione personale e realistica di come era la vita prima e dopo la Seconda Guerra Mondiale.\r\n\r\nAlcuni guardano al passato con tristezza, altri rimpiangono i bei tempi della Repubblica Socialista Federale di Jugoslavia, quando tutti erano \"uguali\", avevano un lavoro, un tetto sopra la testa e cibo in tavola. Ci sforziamo di essere obiettivi nella nostra presentazione, condividendo anche storie di famiglia autentiche e rivelando fatti e racconti affascinanti su viaggi, alloggi, istruzione, media, propaganda, sport, sanità, religione, economia e politica in Jugoslavia.\r\n\r\nQuesta esperienza prevede la guida di un vecchio autobus jugoslavo, noto come filobus. \r\n\r\nViaggiate con noi nel tempo e scoprite cosa significava essere jugoslavi!",
+      "pt": "A excursão \"Ascensão e Queda da Jugoslávia\" capta a era mais contraditória e turbulenta da história da Sérvia e da Jugoslávia, abrangendo o período desde a Primeira Guerra Mundial, passando pela Segunda Guerra Mundial, até aos anos 90 e 2000. O nosso guia turístico profissional dar-lhe-á uma visão pessoal e realista de como era a vida antes e depois da Segunda Guerra Mundial.\r\n\r\nAlguns olham para trás com tristeza, outros têm saudades dos bons velhos tempos da República Socialista Federativa da Jugoslávia, quando todos eram \"iguais\", tinham um emprego, um teto sobre a cabeça e comida na mesa. Procuramos ser objectivos na nossa apresentação, ao mesmo tempo que partilhamos histórias familiares autênticas e revelamos factos e contos fascinantes sobre viagens, habitação, educação, meios de comunicação social, propaganda, desporto, cuidados de saúde, religião, economia e política na Jugoslávia.\r\n\r\nEsta experiência implicará a condução de um antigo autocarro jugoslavo, conhecido como trólei. \r\n\r\nViaje connosco no tempo e descubra o que significava ser jugoslavo!"
+    },
+    "providerTitle": "Wanderlust Tours Belgrade",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/belgrade/the-rise-fall-of-yugoslavia-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/the-rise-fall-of-yugoslavia-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/the-rise-fall-of-yugoslavia-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/the-rise-fall-of-yugoslavia-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/the-rise-fall-of-yugoslavia-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/the-rise-fall-of-yugoslavia-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/the-rise-fall-of-yugoslavia-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 25,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Plato Doma Narodne skupštine, Trg Nikole Pašića, Belgrade, Serbia",
+      "coordinates": "44.8113347,20.4655827",
+      "googlePlaceId": "ChIJ95DYjKV6WkcR2d9Wu7VjIak"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Museum of Yugoslavia",
+      "National Assembly of the Republic of Serbia"
+    ],
+    "POIs": [
+      {
+        "id": 33039,
+        "title": "Museum of Yugoslavia",
+        "googlePlaceId": "ChIJ--VOUxZwWkcRHlTGqWAr0Vc"
+      },
+      {
+        "id": 4169,
+        "title": "National Assembly of the Republic of Serbia",
+        "googlePlaceId": "ChIJEyOxjq96WkcRc9WI-Z7_0bU"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/6919/rise-and-fall-of-yugoslavia-04.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 12995,
+        "URL": "https://www.freetour.com/images/tours/6919/rise-and-fall-of-yugoslavia-04.jpg"
+      },
+      {
+        "id": 12996,
+        "URL": "https://www.freetour.com/images/tours/6919/rise-and-fall-of-yugoslavia-02.jpg"
+      },
+      {
+        "id": 12997,
+        "URL": "https://www.freetour.com/images/tours/6919/rise-and-fall-of-yugoslavia-03.jpg"
+      },
+      {
+        "id": 12998,
+        "URL": "https://www.freetour.com/images/tours/6919/rise-and-fall-of-yugoslavia-05.jpg"
+      },
+      {
+        "id": 12999,
+        "URL": "https://www.freetour.com/images/tours/6919/rise-and-fall-of-yugoslavia-07.jpg"
+      },
+      {
+        "id": 13000,
+        "URL": "https://www.freetour.com/images/tours/6919/rise-and-fall-of-yugoslavia-09.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 1
+  },
+  {
+    "id": 6934,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "Modern History Walking Tour - Yugoslavia & Urban Stories",
+      "es": "Recorrido a pie por la Historia Moderna - Yugoslavia e Historias Urbanas",
+      "pt": "Passeio a pé pela História Moderna - Jugoslávia e Histórias Urbanas",
+      "de": "Spaziergang durch die moderne Geschichte - Jugoslawien &amp; Stadtgeschichten",
+      "fr": "Visite à pied de l'histoire moderne - Yougoslavie et histoires urbaines",
+      "it": "Tour a piedi della storia moderna - Jugoslavia e storie urbane"
+    },
+    "brief": {
+      "de": "Erkunden Sie das fabelhafte Belgrader Stadtzentrum mit unserem besten lokalen Führer. Lernen Sie die wichtigsten Fakten der serbischen Geschichte kennen und erfahren Sie, wie sich die kommunistische Zeit auf die Stadt ausgewirkt hat.",
+      "en": "Explore fabulous Belgrade city center with our best local guide. Learn about the most important facts of Serbian history and discover how the communist period impacted the city.",
+      "es": "Explore el fabuloso centro de Belgrado con nuestro mejor guía local. Conozca los hechos más importantes de la historia serbia y descubra cómo afectó a la ciudad el periodo comunista.",
+      "fr": "Explorez le fabuleux centre-ville de Belgrade avec notre meilleur guide local. Apprenez les faits les plus importants de l'histoire serbe et découvrez l'impact de la période communiste sur la ville.",
+      "it": "Esplorate il favoloso centro di Belgrado con la nostra migliore guida locale. Imparate i fatti più importanti della storia serba e scoprite come il periodo comunista ha influenzato la città.",
+      "pt": "Explore o fabuloso centro da cidade de Belgrado com o nosso melhor guia local. Conheça os factos mais importantes da história da Sérvia e descubra como o período comunista afectou a cidade."
+    },
+    "description": {
+      "de": "Erkunden Sie die moderne Geschichte Belgrads durch die Brille Jugoslawiens, des Sozialismus und der urbanen Transformation. Die Tour beginnt in Terazije und führt Sie vorbei am Alten und Neuen Königspalast sowie am serbischen Parlament. Außerdem kommen wir durch den Tašmajdan-Park, der einst ein Kalksteinbruch war, dann im Zweiten Weltkrieg bombardiert wurde und heute ein friedlicher Stadtpark ist. \r\n\r\nIm Nikola-Tesla-Museum können wir über Wissenschaft und Symbolik nachdenken. Auch wenn dies kein Ort ist, an dem wir die Innenräume des Museums besichtigen können, so halten wir doch inne, um über Teslas Vermächtnis nachzudenken... Als wir den Stadtteil Vračar betreten, nähern wir uns einem der monumentalsten Symbole des modernen Serbiens - dem Slavija-Platz. Einst ein ruhiger Kreisverkehr, wurde der Slavija-Platz im 20. Jahrhundert zu einem chaotischen städtischen Knotenpunkt, vor allem unter den sozialistischen Modernisierungsprojekten. Die Tour endet an der monumentalen Kirche des Heiligen Sava, wo sich Religion, Nationalismus und Ideologie überschneiden.\r\n\r\nErfahren Sie, wie sich Belgrad von einer königlichen Hauptstadt zu einem sozialistischen Zentrum entwickelte und wie Titos Erbe die Stadt immer noch prägt. Diese Tour ist ideal für alle, die sich für Jugoslawien, die Politik des Kalten Krieges, die Architektur und den Wandel des Alltagslebens im 20.",
+      "en": "Explore Belgrade’s modern history through the lens of Yugoslavia, socialism, and urban transformation. Starting at Terazije, this tour takes you past the Old and New Royal Palaces, the Serbian Parliament. Also, we pass through Tašmajdan Park, once a limestone quarry, then a World War II bombing site, and now a peaceful urban park. \r\n\r\nWe reflect on science and symbolism at the Nikola Tesla Museum. While this isn’t a stop for a full interior visit during the walking tour, we pause to reflect on Tesla’s legacy .As we enter the Vračar district, we approach one of the most monumental symbols of modern Serbia — the Slavija Square. Once a quiet roundabout, Slavija became a chaotic urban hub during the 20th century, especially under socialist modernization projects.. The tour ends at the monumental Church of Saint Sava, where religion, nationalism, and ideology intersect.\r\n\r\nLearn how Belgrade grew from a royal capital to a socialist hub, and how Tito’s legacy still shapes the city. This tour is perfect for anyone interested in Yugoslavia, Cold War politics, architecture, and the transformation of everyday life in the 20th century.",
+      "es": "Explore la historia moderna de Belgrado a través del prisma de Yugoslavia, el socialismo y la transformación urbana. Empezando en Terazije, este recorrido le llevará por el Antiguo y el Nuevo Palacio Real y el Parlamento serbio. También pasamos por el Parque Tašmajdan, antaño una cantera de piedra caliza, luego un lugar de bombardeos de la II Guerra Mundial y ahora un apacible parque urbano. \r\n\r\nReflexionamos sobre ciencia y simbolismo en el Museo Nikola Tesla. Aunque no se trata de una visita interior completa durante el recorrido a pie, hacemos una pausa para reflexionar sobre el legado de Tesla... Al entrar en el distrito de Vračar, nos acercamos a uno de los símbolos más monumentales de la Serbia moderna: la plaza Slavija. Antaño una tranquila rotonda, Slavija se convirtió en un caótico centro urbano durante el siglo XX, especialmente bajo los proyectos de modernización socialistas.. La visita termina en la monumental Iglesia de San Sava, donde se entrecruzan religión, nacionalismo e ideología.\r\n\r\nDescubra cómo Belgrado pasó de ser una capital real a un centro socialista, y cómo el legado de Tito sigue moldeando la ciudad. Esta visita es perfecta para cualquier persona interesada en Yugoslavia, la política de la Guerra Fría, la arquitectura y la transformación de la vida cotidiana en el siglo XX.",
+      "fr": "Découvrez l'histoire moderne de Belgrade à travers le prisme de la Yougoslavie, du socialisme et de la transformation urbaine. Commençant à Terazije, cette visite vous fera passer devant l'ancien et le nouveau palais royal, le Parlement serbe. Nous traversons également le parc de Tašmajdan, autrefois une carrière de calcaire, puis un site de bombardement de la Seconde Guerre mondiale, et aujourd'hui un parc urbain paisible. \r\n\r\nNous réfléchissons à la science et au symbolisme au musée Nikola Tesla. Alors que nous entrons dans le quartier de Vračar, nous approchons de l'un des symboles les plus monumentaux de la Serbie moderne - la place Slavija. Autrefois rond-point tranquille, Slavija est devenue un centre urbain chaotique au cours du XXe siècle, en particulier dans le cadre des projets de modernisation socialistes.... La visite se termine à l'église monumentale de Saint Sava, où se croisent religion, nationalisme et idéologie.\r\n\r\nDécouvrez comment Belgrade est passée d'une capitale royale à un centre socialiste, et comment l'héritage de Tito façonne encore la ville. Cette visite est idéale pour tous ceux qui s'intéressent à la Yougoslavie, à la politique de la guerre froide, à l'architecture et à la transformation de la vie quotidienne au XXe siècle.",
+      "it": "Esplorate la storia moderna di Belgrado attraverso la lente della Jugoslavia, del socialismo e della trasformazione urbana. Partendo da Terazije, questo tour vi porterà davanti al Vecchio e al Nuovo Palazzo Reale e al Parlamento serbo. Passiamo anche per il Parco Tašmajdan, un tempo cava di calcare, poi sito di bombardamenti della Seconda guerra mondiale e ora parco urbano tranquillo. \r\n\r\nRiflettiamo sulla scienza e sul simbolismo al Museo Nikola Tesla. Sebbene non sia una tappa da visitare interamente durante il tour a piedi, ci soffermiamo a riflettere sull'eredità di Tesla. Entrando nel quartiere di Vračar, ci avviciniamo a uno dei simboli più monumentali della Serbia moderna: Piazza Slavija. Un tempo tranquilla rotatoria, Slavija si è trasformata in un caotico centro urbano nel corso del XX secolo, soprattutto durante i progetti di modernizzazione socialista. Il tour termina alla monumentale Chiesa di San Sava, dove si intersecano religione, nazionalismo e ideologia.\r\n\r\nScoprite come Belgrado si è trasformata da capitale reale a polo socialista e come l'eredità di Tito continua a plasmare la città. Questo tour è perfetto per chiunque sia interessato alla Jugoslavia, alla politica della Guerra Fredda, all'architettura e alla trasformazione della vita quotidiana nel XX secolo.",
+      "pt": "Explore a história moderna de Belgrado através das lentes da Jugoslávia, do socialismo e da transformação urbana. Começando em Terazije, este passeio leva-o a passar pelos antigos e novos palácios reais, o Parlamento sérvio. Além disso, passamos pelo Parque Tašmajdan, outrora uma pedreira de calcário, depois um local de bombardeamento da Segunda Guerra Mundial e agora um parque urbano tranquilo. \r\n\r\nReflectimos sobre ciência e simbolismo no Museu Nikola Tesla. Embora esta não seja uma parada para uma visita completa ao interior durante o passeio a pé, paramos para refletir sobre o legado de Tesla. Ao entrarmos no distrito de Vračar, nos aproximamos de um dos símbolos mais monumentais da Sérvia moderna - a Praça Slavija. Uma vez que uma rotunda tranquila, Slavija tornou-se um centro urbano caótico durante o século 20, especialmente sob projetos de modernização socialista ... A visita termina na monumental Igreja de São Sava, onde a religião, o nacionalismo e a ideologia se cruzam.\r\n\r\nSaiba como Belgrado cresceu de uma capital real para um centro socialista e como o legado de Tito ainda molda a cidade. Esta visita é perfeita para todos os interessados na Jugoslávia, na política da Guerra Fria, na arquitetura e na transformação da vida quotidiana no século XX."
+    },
+    "providerTitle": "Nikola Risimić",
+    "providerPhone": "00381638309488",
+    "URL": "https://www.freetour.com/belgrade/modern-free-walking-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/modern-free-walking-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/modern-free-walking-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/modern-free-walking-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/modern-free-walking-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/modern-free-walking-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/modern-free-walking-tour-in-belgrade?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Terazije square",
+      "coordinates": "44.8132071,20.46005930000001",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Terazije",
+      "Tasmajdan Park",
+      "National Assembly of the Republic of Serbia",
+      "Bucko",
+      "The Old Palace",
+      "Novi Dvor",
+      "Saint Sava Temple",
+      "Slavija Skver",
+      "Old and new palace",
+      "St. Marko's church",
+      "Hotel Moskva",
+      "Tašmajdan",
+      "Slavija square",
+      "St Sava churh"
+    ],
+    "POIs": [
+      {
+        "id": 8413,
+        "title": "Terazije",
+        "googlePlaceId": "ChIJpRm697R6WkcREAL2pgYSZtc"
+      },
+      {
+        "id": 13206,
+        "title": "Tasmajdan Park",
+        "googlePlaceId": "ChIJ8fgqaaR6WkcRt1dT1nFmKUQ"
+      },
+      {
+        "id": 4169,
+        "title": "National Assembly of the Republic of Serbia",
+        "googlePlaceId": "ChIJEyOxjq96WkcRc9WI-Z7_0bU"
+      },
+      {
+        "id": 13207,
+        "title": "Bucko",
+        "googlePlaceId": "ChIJI54uQaF6WkcRPEgSNiUHhZw"
+      },
+      {
+        "id": 13205,
+        "title": "The Old Palace",
+        "googlePlaceId": "ChIJKwSDCq96WkcRR5tMFeijseE"
+      },
+      {
+        "id": 7346,
+        "title": "Novi Dvor",
+        "googlePlaceId": "ChIJmy-hOK96WkcRheYo-5edAe8"
+      },
+      {
+        "id": 5865,
+        "title": "Saint Sava Temple",
+        "googlePlaceId": "ChIJj44lpwxwWkcRTDTAbxo5Eb4"
+      },
+      {
+        "id": 13208,
+        "title": "Slavija Skver",
+        "googlePlaceId": "ChIJMSL2OKd6WkcRAk1TOzrXXm4"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-06.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 191107,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-06.jpg"
+      },
+      {
+        "id": 191102,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-01.jpg"
+      },
+      {
+        "id": 115764,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-08.jpg"
+      },
+      {
+        "id": 191103,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-02.jpg"
+      },
+      {
+        "id": 191104,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-03.jpg"
+      },
+      {
+        "id": 191105,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-04.jpg"
+      },
+      {
+        "id": 191106,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-05.jpg"
+      },
+      {
+        "id": 191125,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-07.jpg"
+      },
+      {
+        "id": 191135,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-09.jpg"
+      },
+      {
+        "id": 191136,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-10.jpg"
+      },
+      {
+        "id": 191137,
+        "URL": "https://www.freetour.com/images/tours/6934/modern-free-walking-tour-in-belgrade-11.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.83,
+    "reviewsNumber": 51
+  },
+  {
+    "id": 23527,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Communist Tour of Belgrade",
+      "es": "Tour Comunista por Belgrado",
+      "pt": "Visita comunista a Belgrado",
+      "de": "Kommunistische Tour durch Belgrad",
+      "fr": "Visite communiste de Belgrade",
+      "it": "Tour comunista di Belgrado"
+    },
+    "brief": {
+      "de": "Nehmen Sie an dieser einzigartigen Tour durch das Belgrad der kommunistischen Ära teil! Entdecken Sie den Wandel der Stadt nach dem Zweiten Weltkrieg, decken Sie urbane Legenden auf und besuchen Sie das Museum für jugoslawische Geschichte. Eine Reise in die Vergangenheit, die Sie nicht vergessen werden!",
+      "en": "Join this unique tour through Communist-era Belgrade! Discover the city’s post-WWII transformation, uncover urban legends, and visit the Yugoslav History Museum. A journey through the past you won’t forget!",
+      "es": "Únase a este recorrido único por el Belgrado de la época comunista Descubra la transformación de la ciudad tras la Segunda Guerra Mundial, descubra leyendas urbanas y visite el Museo de Historia Yugoslava. Un viaje por el pasado que no olvidará",
+      "fr": "Participez à cette excursion unique dans le Belgrade de l'ère communiste ! Découvrez la transformation de la ville après la Seconde Guerre mondiale, découvrez les légendes urbaines et visitez le musée d'histoire yougoslave. Un voyage dans le passé que vous n'oublierez pas !",
+      "it": "Partecipate a questo tour unico attraverso la Belgrado dell'era comunista! Scoprite la trasformazione della città nel secondo dopoguerra, scoprite le leggende metropolitane e visitate il Museo di Storia Jugoslava. Un viaggio nel passato che non dimenticherete!",
+      "pt": "Junte-se a esta excursão única pela Belgrado da era comunista! Descubra a transformação da cidade após a Segunda Guerra Mundial, descubra as lendas urbanas e visite o Museu de História da Jugoslávia. Uma viagem ao passado que não vai esquecer!"
+    },
+    "description": {
+      "de": "Tauchen Sie ein in die Vergangenheit mit unserer kommunistischen Tour durch Belgrad!\r\nBegleiten Sie uns auf eine augenöffnende Reise durch die Geschichte der Stadt in der kommunistischen Ära. Gehen Sie durch die Straßen, in denen einst der sozialistische Traum blühte, erkunden Sie die ikonische Architektur der Nachkriegszeit und erfahren Sie, wie Tito die Identität Jugoslawiens geprägt hat. Unterwegs erzählen wir spannende Stadtlegenden, besuchen das Museum für jugoslawische Geschichte und entdecken das Alltagsleben unter dem roten Stern.\r\n\r\nDiese Tour ist ideal für Geschichtsliebhaber, neugierige Reisende und alle, die das komplexe Erbe des Kommunismus auf dem Balkan kennenlernen möchten. Entdecken Sie Belgrad wie nie zuvor durch die Brille einer Vergangenheit, die noch heute nachhallt.\r\n\r\nHören Sie nicht nur Geschichte, erleben Sie sie. Schließen Sie sich uns an!",
+      "en": "Step into the past with our Communist Tour of Belgrade!\r\nJoin us for an eye-opening journey through the city’s communist-era history. Walk the streets where the socialist dream once thrived, explore iconic post-WWII architecture, and learn how Tito shaped Yugoslavia’s identity. Along the way, we’ll share gripping urban legends, visit the Yugoslav History Museum, and uncover everyday life under the red star.\r\n\r\nThis tour is perfect for history lovers, curious travelers, and anyone interested in uncovering the complex legacy of communism in the Balkans. Discover Belgrade like never before through the lens of a past that still echoes today.\r\n\r\nDon’t just hear history, experience it. Join us!",
+      "es": "Adéntrese en el pasado con nuestro Tour comunista de Belgrado\r\nAcompáñenos en un viaje revelador por la historia comunista de la ciudad. Camine por las calles donde una vez floreció el sueño socialista, explore la emblemática arquitectura posterior a la Segunda Guerra Mundial y descubra cómo Tito dio forma a la identidad de Yugoslavia. Por el camino, compartiremos apasionantes leyendas urbanas, visitaremos el Museo de Historia Yugoslava y descubriremos la vida cotidiana bajo la estrella roja.\r\n\r\nEste recorrido es perfecto para los amantes de la historia, los viajeros curiosos y cualquier persona interesada en descubrir el complejo legado del comunismo en los Balcanes. Descubra Belgrado como nunca antes a través del prisma de un pasado que aún resuena en nuestros días.\r\n\r\nNo se limite a escuchar la historia, vívala. Únase a nosotros",
+      "fr": "Faites un saut dans le passé avec notre visite de Belgrade sous le signe du communisme !\r\nRejoignez-nous pour un voyage révélateur à travers l'histoire de la ville à l'époque communiste. Marchez dans les rues où le rêve socialiste a jadis prospéré, explorez l'architecture emblématique de l'après-Seconde Guerre mondiale et apprenez comment Tito a façonné l'identité de la Yougoslavie. En chemin, nous partagerons des légendes urbaines captivantes, visiterons le musée d'histoire yougoslave et découvrirons la vie quotidienne sous l'étoile rouge.\r\n\r\nCe circuit est idéal pour les amateurs d'histoire, les voyageurs curieux et tous ceux qui souhaitent découvrir l'héritage complexe du communisme dans les Balkans. Découvrez Belgrade comme jamais auparavant à travers le prisme d'un passé qui résonne encore aujourd'hui.\r\n\r\nNe vous contentez pas d'entendre l'histoire, vivez-la. Rejoignez-nous !",
+      "it": "Fate un salto nel passato con il nostro tour comunista di Belgrado!\r\nUnitevi a noi in un viaggio che apre gli occhi sulla storia comunista della città. Camminate per le strade dove un tempo prosperava il sogno socialista, esplorate l'architettura iconica del secondo dopoguerra e scoprite come Tito ha plasmato l'identità della Jugoslavia. Lungo il percorso, condivideremo avvincenti leggende metropolitane, visiteremo il Museo storico jugoslavo e scopriremo la vita quotidiana sotto la stella rossa.\r\n\r\nQuesto tour è perfetto per gli amanti della storia, i viaggiatori curiosi e chiunque sia interessato a scoprire la complessa eredità del comunismo nei Balcani. Scoprite Belgrado come mai prima d'ora attraverso la lente di un passato che riecheggia ancora oggi.\r\n\r\nNon limitatevi a sentire la storia, vivetela. Unitevi a noi!",
+      "pt": "Entre no passado com o nosso Tour Comunista de Belgrado!\r\nJunte-se a nós para uma viagem reveladora pela história da cidade na era comunista. Percorra as ruas onde o sonho socialista prosperou, explore a arquitetura icónica do pós-Segunda Guerra Mundial e saiba como Tito moldou a identidade da Jugoslávia. Ao longo do percurso, partilharemos lendas urbanas arrebatadoras, visitaremos o Museu de História da Jugoslávia e descobriremos a vida quotidiana sob a estrela vermelha.\r\n\r\nEsta excursão é perfeita para os amantes de história, viajantes curiosos e qualquer pessoa interessada em descobrir o complexo legado do comunismo nos Balcãs. Descubra Belgrado como nunca antes, através das lentes de um passado que ainda hoje ecoa.\r\n\r\nNão se limite a ouvir a história, experimente-a. Junte-se a nós!"
+    },
+    "providerTitle": "Wanderlust Tours Belgrade",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/belgrade/communist-tour-of-belgrade?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/communist-tour-of-belgrade?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/communist-tour-of-belgrade?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/communist-tour-of-belgrade?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/communist-tour-of-belgrade?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/communist-tour-of-belgrade?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/communist-tour-of-belgrade?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 25,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Plato Doma Narodne Skupštine",
+      "coordinates": "44.81133665190013,20.465582013130188",
+      "googlePlaceId": "ChIJ95DYjKV6WkcR2d9Wu7VjIak"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Museum of Yugoslavia",
+      "The Old Palace",
+      "House of Flowers"
+    ],
+    "POIs": [
+      {
+        "id": 33039,
+        "title": "Museum of Yugoslavia",
+        "googlePlaceId": "ChIJ--VOUxZwWkcRHlTGqWAr0Vc"
+      },
+      {
+        "id": 13205,
+        "title": "The Old Palace",
+        "googlePlaceId": "ChIJKwSDCq96WkcRR5tMFeijseE"
+      },
+      {
+        "id": 33040,
+        "title": "House of Flowers",
+        "googlePlaceId": "ChIJY-tegT1wWkcRASfyFc-Az1U"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/23527/tour-comunista-de-belgrado-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 82655,
+        "URL": "https://www.freetour.com/images/tours/23527/tour-comunista-de-belgrado-01.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 58588,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Join the Gourmet Tour in Belgrade",
+      "es": "Únete a la Ruta gastronómica por Belgrado",
+      "pt": "Participe na excursão gourmet em Belgrado",
+      "de": "Nehmen Sie an der Gourmet-Tour in Belgrad teil",
+      "fr": "Participez à la visite gastronomique de Belgrade",
+      "it": "Partecipa al tour gastronomico a Belgrado"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns zu einem köstlichen Essen in einem lokalen Spitzenrestaurant, das wir nach Ihren Vorlieben ausgewählt haben. Entdecken Sie die Aromen regionaler Spezialitäten, die für ihre Qualität bekannt sind. Ob zum Frühstück, Mittag- oder Abendessen - erleben Sie das Beste ohne großen Rummel!",
+      "en": "Join us for a delightful meal at a top local restaurant, handpicked to match your preferences. Discover the flavors of regional specialties celebrated for their quality. Whether it's breakfast, lunch, or dinner, experience the best without the hype!",
+      "es": "Acompáñenos en una deliciosa comida en uno de los mejores restaurantes locales, elegido a su gusto. Descubra los sabores de especialidades regionales célebres por su calidad. Ya sea para desayunar, comer o cenar, disfrute de lo mejor sin exageraciones",
+      "fr": "Rejoignez-nous pour un délicieux repas dans un restaurant local de premier ordre, sélectionné pour correspondre à vos préférences. Découvrez les saveurs de spécialités régionales réputées pour leur qualité. Qu'il s'agisse du petit-déjeuner, du déjeuner ou du dîner, faites l'expérience du meilleur sans le battage médiatique !",
+      "it": "Unitevi a noi per un delizioso pasto in un ristorante locale di alto livello, scelto a mano per soddisfare le vostre preferenze. Scoprite i sapori delle specialità regionali celebrate per la loro qualità. Che si tratti di colazione, pranzo o cena, sperimentate il meglio senza clamore!",
+      "pt": "Junte-se a nós para uma refeição deliciosa num restaurante local de topo, escolhido a dedo para corresponder às suas preferências. Descubra os sabores das especialidades regionais celebradas pela sua qualidade. Quer se trate de um pequeno-almoço, almoço ou jantar, experimente o melhor sem exageros!"
+    },
+    "description": {
+      "de": "Treffen Sie sich zu einem Zeitpunkt und an einem Ort, der Ihnen zusagt, und gehen Sie dann in ein Restaurant, das für seine außergewöhnliche Essensqualität ausgewählt wurde. Sie bevorzugen Standardgerichte? Wir gehen in ein internationales Spitzenrestaurant. \r\n\r\nSie möchten lokale Aromen kennenlernen? Wir besuchen ein Restaurant, das auf lokale Köstlichkeiten spezialisiert ist. Begleiten Sie uns auf ein kulinarisches Abenteuer, das ganz auf Ihren Geschmack zugeschnitten ist!",
+      "en": "Meet at a time and place that suits you, then head to a restaurant chosen for its exceptional food quality. Prefer standard dishes? We'll go to a top international cuisine spot. \r\n\r\nWant to explore local flavors? We'll visit a restaurant specializing in local delicacies. Join us for a culinary adventure tailored to your tastes!",
+      "es": "Reúnase a la hora y en el lugar que más le convengan y diríjase a un restaurante elegido por su excepcional calidad gastronómica. ¿Prefiere platos estándar? Iremos a un lugar de alta cocina internacional. \r\n\r\n¿Quiere explorar los sabores locales? Visitaremos un restaurante especializado en delicias locales. Acompáñenos en una aventura culinaria adaptada a sus gustos",
+      "fr": "Rendez-vous à l'heure et au lieu qui vous conviennent, puis rendez-vous dans un restaurant choisi pour la qualité exceptionnelle de sa cuisine. Vous préférez les plats classiques ? Nous irons dans un haut lieu de la cuisine internationale. \r\n\r\nVous voulez découvrir les saveurs locales ? Nous nous rendrons dans un restaurant spécialisé dans les spécialités locales. Rejoignez-nous pour une aventure culinaire à votre mesure !",
+      "it": "Incontratevi all'ora e nel luogo che preferite, quindi recatevi in un ristorante scelto per l'eccezionale qualità del cibo. Preferite i piatti standard? Andremo in un locale di cucina internazionale di alto livello. \r\n\r\nVolete esplorare i sapori locali? Visiteremo un ristorante specializzato in prelibatezze locali. Unitevi a noi per un'avventura culinaria su misura per voi!",
+      "pt": "Encontre-se à hora e no local que lhe convier, depois dirija-se a um restaurante escolhido pela sua excecional qualidade gastronómica. Prefere pratos normais? Iremos a um local de cozinha internacional de topo. \r\n\r\nQuer explorar os sabores locais? Iremos a um restaurante especializado em iguarias locais. Junte-se a nós para uma aventura culinária adaptada aos seus gostos!"
+    },
+    "providerTitle": "Petar Jegdic",
+    "providerPhone": "+381617154926",
+    "URL": "https://www.freetour.com/belgrade/join-the-gourmet-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/join-the-gourmet-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/join-the-gourmet-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/join-the-gourmet-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/join-the-gourmet-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/join-the-gourmet-tour-in-belgrade?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/join-the-gourmet-tour-in-belgrade?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 8,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Belgrade square",
+      "coordinates": "44.81618849999999,20.4603829",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square",
+      "Transfer to the restaurant, reservation "
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/58588/gourmet-tour-01.jpg",
+    "categoryId": 5,
+    "images": [
+      {
+        "id": 202619,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-01.jpg"
+      },
+      {
+        "id": 202620,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-02.jpg"
+      },
+      {
+        "id": 202621,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-03.jpg"
+      },
+      {
+        "id": 202622,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-04.jpg"
+      },
+      {
+        "id": 202623,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-05.jpg"
+      },
+      {
+        "id": 202624,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-06.jpg"
+      },
+      {
+        "id": 202625,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-07.jpg"
+      },
+      {
+        "id": 202626,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-08.jpg"
+      },
+      {
+        "id": 202627,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-09.jpg"
+      },
+      {
+        "id": 202628,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-10.jpg"
+      },
+      {
+        "id": 202629,
+        "URL": "https://www.freetour.com/images/tours/58588/gourmet-tour-11.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 61128,
+    "updatedAt": "2025-12-01 03:32:43",
+    "title": {
+      "en": "E-Scooter Tour Belgrade Essentials",
+      "es": "E-Scooter Tour Belgrado Essentials",
+      "pt": "E-Scooter Tour Belgrado Essentials",
+      "de": "E-Scooter Tour Belgrad Essentials",
+      "fr": "E-Scooter Tour Belgrade Essentials",
+      "it": "Tour in scooter elettronico di Belgrado"
+    },
+    "brief": {
+      "de": "Kommen Sie mit uns auf eine aufregende E-Scooter-Tour und entdecken Sie Belgrad in der Hälfte der Zeit! Erkunden Sie die berühmte Belgrader Festung, besuchen Sie den St. Sava-Tempel und entdecken Sie 2.000 Jahre Geschichte. Holen Sie sich Insider-Tipps von Ihrem Guide, während Sie die Fahrt genießen.",
+      "en": "Join us for a thrilling E-Scooter tour and discover Belgrade in half the time! Explore the iconic Belgrade Fortress, visit St. Sava Temple, and uncover 2,000 years of history. Get insider tips from your guide as you enjoy the ride.",
+      "es": "Únase a nosotros en un emocionante recorrido en E-Scooter y descubra Belgrado en la mitad de tiempo Explore la emblemática Fortaleza de Belgrado, visite el Templo de San Sava y descubra 2.000 años de historia. Obtenga consejos de su guía mientras disfruta del paseo.",
+      "fr": "Rejoignez-nous pour un tour en scooter électrique et découvrez Belgrade en deux fois moins de temps ! Explorez l'emblématique forteresse de Belgrade, visitez le temple St. Sava et découvrez 2 000 ans d'histoire. Votre guide vous donnera des conseils d'initiés tout en vous faisant profiter de la balade.",
+      "it": "Unitevi a noi in un emozionante tour in E-Scooter e scoprite Belgrado in metà tempo! Esplorate l'iconica Fortezza di Belgrado, visitate il Tempio di San Sava e scoprite 2.000 anni di storia. La guida vi darà consigli da insider mentre vi godete il viaggio.",
+      "pt": "Junte-se a nós para um emocionante passeio de E-Scooter e descubra Belgrado em metade do tempo! Explore a icónica Fortaleza de Belgrado, visite o Templo de São Sava e descubra 2.000 anos de história. Receba dicas do seu guia enquanto aproveita o passeio."
+    },
+    "description": {
+      "de": "Wie kann man ganz Belgrad in der Hälfte der Zeit erkunden? Mit dem E-Scooter! Das ist die bequemste und unterhaltsamste Art!\r\n\r\nDie Belgrade Center Tour erzählt Ihnen eine Geschichte über Belgrad, seine gut gehüteten Geheimnisse und die Menschen, die es bewohnen. Die mehrere Jahrtausende alten Geschichten Belgrads erwachsen aus jeder seiner Straßen, Gebäude, Denkmäler und Sehenswürdigkeiten und warten darauf, von neuen Menschen gehört zu werden und weiterzuleben, indem sie neu erzählt werden. \r\n\r\nDie Altstadt von Belgrad ist das stimmungsvollste Viertel der Stadt, und diese 2,5-stündige E-Scooter-Tour führt Sie zu den größten Highlights. Die E-Scooter-Tour führt Sie weg von den überfüllten Bustouren und bietet Ihnen einen bequemen und einzigartigen Blick auf das Leben in Belgrad, die wunderschöne Architektur, die Kopfsteinpflasterstraßen, die Geheimnisse der Belgrader Festung und die Überreste der serbischen, osmanischen, ungarischen und österreichischen Zivilisation. \r\n\r\nBeginnen Sie Ihren Tag damit, dass Sie etwas über die reiche Geschichte Belgrads erfahren und einige der berühmtesten Sehenswürdigkeiten in diesem Teil der Stadt besuchen. \r\n\r\nWas können Sie erwarten?\r\n- Erkundung des historischen Zentrums von Belgrad und der wichtigsten Sehenswürdigkeiten, darunter die Belgrader Festung, die Kirche des Heiligen Sava und vieles mehr\r\n\r\n- Ideale Tour für Besucher, die Belgrad zum ersten Mal besuchen, oder für diejenigen, die wenig Zeit haben",
+      "en": "How do you explore the whole of Belgrade in half-time? On E-Scooter! Most convenient and fun way!\r\n\r\nThe Belgrade Center tour will tell you a story about Belgrade, its well-kept secrets, and the people inhabiting it. The several millennium-old stories of Belgrade arise from each of its streets, buildings, monuments, and attractions, and they're waiting to be heard by new people and to continue to live on by being retold. \r\n\r\nBelgrade’s Old City is its most atmospheric district, and this 2.5-hour-long e-scooter tour will take you to all the biggest highlights. E-Scooter tour will take you away from the crowded bus tours to give you a most comfortable and unique point of view of Belgrade’s life, beautiful architecture, cobblestone streets, secrets of Belgrade’s Fortress, and remainings of Serbian, Ottoman, Hungarian, and Austrian civilizations. \r\n\r\nStart your day by learning about Belgrade’s rich history and visiting some of the most famous attractions in this part of the city. \r\n\r\nWhat to expect?\r\n· Explore Belgrade’s historic center and top attractions, including Belgrade Fort, the Church of Saint Sava, and much more\r\n\r\n· Ideal tour for first-time visitors to Belgrade or those short on time",
+      "es": "¿Cómo explorar todo Belgrado en medio tiempo? ¡En E-Scooter! ¡La forma más cómoda y divertida!\r\n\r\nEl tour por el Centro de Belgrado le contará una historia sobre Belgrado, sus secretos bien guardados y la gente que lo habita. Las historias milenarias de Belgrado surgen de cada una de sus calles, edificios, monumentos y atracciones, y esperan ser escuchadas por nuevas personas y seguir viviendo al ser contadas de nuevo. \r\n\r\nEl casco antiguo de Belgrado es su barrio más pintoresco, y este recorrido en e-scooter de 2,5 horas de duración le llevará a los lugares más destacados. El tour en e-scooter le alejará de los atestados recorridos en autobús para ofrecerle un punto de vista más cómodo y único de la vida de Belgrado, su hermosa arquitectura, sus calles adoquinadas, los secretos de la Fortaleza de Belgrado y los vestigios de las civilizaciones serbia, otomana, húngara y austriaca. \r\n\r\nComience el día conociendo la rica historia de Belgrado y visitando algunas de las atracciones más famosas de esta parte de la ciudad. \r\n\r\n¿Qué le espera?\r\n- Explorar el centro histórico de Belgrado y sus principales atracciones, como el Fuerte de Belgrado, la Iglesia de San Sava y mucho más\r\n\r\n- Recorrido ideal para quienes visitan Belgrado por primera vez o disponen de poco tiempo",
+      "fr": "Comment explorer l'ensemble de Belgrade à mi-temps ? En E-Scooter ! Le moyen le plus pratique et le plus amusant !\r\n\r\nLa visite du centre de Belgrade vous racontera une histoire sur Belgrade, ses secrets bien gardés et les gens qui l'habitent. Les histoires de Belgrade, vieilles de plusieurs millénaires, surgissent de chacune de ses rues, de chacun de ses bâtiments, de chacun de ses monuments et de chacune de ses attractions, et elles attendent d'être entendues par de nouvelles personnes et de continuer à vivre en étant racontées à nouveau. \r\n\r\nLa vieille ville de Belgrade est le quartier le plus atmosphérique de la ville, et cette visite de 2,5 heures en scooter électrique vous permettra d'en découvrir les principaux attraits. Cette visite en e-scooter vous éloignera des bus bondés et vous offrira un point de vue unique et confortable sur la vie de Belgrade, sa belle architecture, ses rues pavées, les secrets de la forteresse de Belgrade et les vestiges des civilisations serbe, ottomane, hongroise et autrichienne. \r\n\r\nCommencez votre journée en découvrant la riche histoire de Belgrade et en visitant certaines des attractions les plus célèbres de cette partie de la ville. \r\n\r\nÀ quoi s'attendre ?\r\n- Découverte du centre historique de Belgrade et de ses principales attractions, notamment le Fort de Belgrade, l'église Saint Sava et bien d'autres encore\r\n\r\n- Visite idéale pour les personnes qui visitent Belgrade pour la première fois ou pour celles qui n'ont pas beaucoup de temps",
+      "it": "Come si fa a esplorare tutta Belgrado in metà tempo? Con l'E-Scooter! Il modo più comodo e divertente!\r\n\r\nIl tour del Centro di Belgrado vi racconterà la storia di Belgrado, i suoi segreti ben custoditi e le persone che la abitano. Le storie millenarie di Belgrado emergono da ognuna delle sue strade, edifici, monumenti e attrazioni, e aspettano di essere ascoltate da nuove persone e di continuare a vivere raccontate. \r\n\r\nLa Città Vecchia di Belgrado è il suo quartiere più suggestivo e questo tour in e-scooter di 2,5 ore vi porterà alla scoperta di tutti i luoghi più importanti. Il tour in e-scooter vi allontanerà dagli affollati tour in autobus per offrirvi un punto di vista unico e confortevole sulla vita di Belgrado, sulla splendida architettura, sulle strade acciottolate, sui segreti della Fortezza di Belgrado e sui resti delle civiltà serba, ottomana, ungherese e austriaca. \r\n\r\nIniziate la giornata conoscendo la ricca storia di Belgrado e visitando alcune delle attrazioni più famose di questa parte della città. \r\n\r\nCosa aspettarsi?\r\n- Esplorazione del centro storico di Belgrado e delle principali attrazioni, tra cui il Forte di Belgrado, la Chiesa di San Sava e molto altro\r\n\r\n- Tour ideale per chi visita Belgrado per la prima volta o per chi ha poco tempo a disposizione",
+      "pt": "Como é que se explora toda a cidade de Belgrado a meio tempo? Na E-Scooter! A forma mais cómoda e divertida!\r\n\r\nA excursão ao centro de Belgrado irá contar-lhe uma história sobre Belgrado, os seus segredos bem guardados e as pessoas que a habitam. As várias histórias milenares de Belgrado surgem de cada uma das suas ruas, edifícios, monumentos e atracções, e estão à espera de serem ouvidas por novas pessoas e de continuarem a viver ao serem recontadas. \r\n\r\nA Cidade Velha de Belgrado é o seu bairro mais atmosférico, e este passeio de e-scooter de 2,5 horas de duração levá-lo-á a todos os maiores destaques. A excursão de e-scooter vai levá-lo para longe das excursões de autocarro lotadas para lhe dar um ponto de vista mais confortável e único da vida de Belgrado, bela arquitetura, ruas de paralelepípedos, segredos da Fortaleza de Belgrado e restos das civilizações sérvia, otomana, húngara e austríaca. \r\n\r\nComece o seu dia aprendendo sobre a rica história de Belgrado e visitando algumas das mais famosas atracções desta parte da cidade. \r\n\r\nO que esperar?\r\n- Explore o centro histórico de Belgrado e as principais atrações, incluindo o Forte de Belgrado, a Igreja de São Sava e muito mais\r\n\r\n- Tour ideal para quem visita Belgrado pela primeira vez ou para quem tem pouco tempo"
+    },
+    "providerTitle": "Marko",
+    "providerPhone": "+381606076007",
+    "URL": "https://www.freetour.com/belgrade/e-scooter-tour-belgrade-essentials?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/e-scooter-tour-belgrade-essentials?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/e-scooter-tour-belgrade-essentials?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/e-scooter-tour-belgrade-essentials?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/e-scooter-tour-belgrade-essentials?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/e-scooter-tour-belgrade-essentials?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/e-scooter-tour-belgrade-essentials?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "E-Scooter Belgrade shop, Marsala Birjuzova 23",
+      "coordinates": "44.8154631,20.4571627",
+      "googlePlaceId": "ChIJPTZu3rJ6WkcRklEkGVFL5_g"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Saint Sava Temple",
+      "Electric Scooter Rental & Tours",
+      "Belgrade Fortress",
+      "St. Mark Orthodox Church",
+      "Tasmajdan Park",
+      "Republic Square",
+      "National Assembly of the Republic of Serbia",
+      "Zindan Gate",
+      "The Old Palace",
+      "Novi Dvor",
+      "Studentski Park",
+      "Hotel Moskva Belgrade, Serbia"
+    ],
+    "POIs": [
+      {
+        "id": 5865,
+        "title": "Saint Sava Temple",
+        "googlePlaceId": "ChIJj44lpwxwWkcRTDTAbxo5Eb4"
+      },
+      {
+        "id": 25373,
+        "title": "Electric Scooter Rental & Tours",
+        "googlePlaceId": "ChIJKft5AOl7WkcRJrV_vV-1tEw"
+      },
+      {
+        "id": 10517,
+        "title": "Belgrade Fortress",
+        "googlePlaceId": "ChIJUyxcAUllWkcRstJIPZ95CxY"
+      },
+      {
+        "id": 25257,
+        "title": "St. Mark Orthodox Church",
+        "googlePlaceId": "ChIJ86moAaV6WkcRmMsoFnOBo8Y"
+      },
+      {
+        "id": 13206,
+        "title": "Tasmajdan Park",
+        "googlePlaceId": "ChIJ8fgqaaR6WkcRt1dT1nFmKUQ"
+      },
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      },
+      {
+        "id": 4169,
+        "title": "National Assembly of the Republic of Serbia",
+        "googlePlaceId": "ChIJEyOxjq96WkcRc9WI-Z7_0bU"
+      },
+      {
+        "id": 25376,
+        "title": "Zindan Gate",
+        "googlePlaceId": "ChIJKQZALUhlWkcRm_QB-elRFVQ"
+      },
+      {
+        "id": 13205,
+        "title": "The Old Palace",
+        "googlePlaceId": "ChIJKwSDCq96WkcRR5tMFeijseE"
+      },
+      {
+        "id": 7346,
+        "title": "Novi Dvor",
+        "googlePlaceId": "ChIJmy-hOK96WkcRheYo-5edAe8"
+      },
+      {
+        "id": 17468,
+        "title": "Studentski Park",
+        "googlePlaceId": "ChIJU5Y8q0xlWkcR7P0-wXlKb7k"
+      },
+      {
+        "id": 14896,
+        "title": "Hotel Moskva Belgrade, Serbia",
+        "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-03.jpg",
+    "categoryId": 1,
+    "images": [
+      {
+        "id": 212419,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-03.jpg"
+      },
+      {
+        "id": 212418,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-02.jpg"
+      },
+      {
+        "id": 212428,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-12.jpg"
+      },
+      {
+        "id": 212425,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-09.jpg"
+      },
+      {
+        "id": 212420,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-04.jpg"
+      },
+      {
+        "id": 212421,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-05.jpg"
+      },
+      {
+        "id": 212422,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-06.jpg"
+      },
+      {
+        "id": 212426,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-10.jpg"
+      },
+      {
+        "id": 212429,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-13.jpg"
+      },
+      {
+        "id": 212427,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-11.jpg"
+      },
+      {
+        "id": 212431,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-15.jpg"
+      },
+      {
+        "id": 212430,
+        "URL": "https://www.freetour.com/images/tours/61128/e-scooter-tour-belgrade-essentials-14.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.03,
+    "reviewsNumber": 7
+  },
+  {
+    "id": 63529,
+    "updatedAt": "2025-12-01 03:32:43",
+    "title": {
+      "en": "Belgrade Free Tour of Historical Center",
+      "es": "Visita gratuita del centro histórico de Belgrado",
+      "pt": "Visita gratuita ao centro histórico de Belgrado",
+      "de": "Belgrad Kostenlose Tour durch das historische Zentrum",
+      "fr": "Visite gratuite du centre historique de Belgrade",
+      "it": "Visita gratuita del centro storico di Belgrado"
+    },
+    "brief": {
+      "de": "Kommen Sie mit uns nach Belgrad und entdecken Sie das Herz Serbiens! Erforschen Sie die reiche Kultur, die Geschichte und das pulsierende Leben und entdecken Sie, was diese Stadt so einzigartig macht. Lassen Sie sich dieses unvergessliche Erlebnis nicht entgehen! Wir sehen uns bald wieder!",
+      "en": "Join us in Belgrade to discover the heart of Serbia! Explore its rich culture, history, and vibrant life, all while uncovering what makes this city so unique. Don’t miss out on this unforgettable experience! See you soon!",
+      "es": "Únase a nosotros en Belgrado para descubrir el corazón de Serbia Explore su rica cultura, su historia y su vibrante vida, mientras descubre qué hace que esta ciudad sea tan única. No se pierda esta experiencia inolvidable Hasta pronto",
+      "fr": "Rejoignez-nous à Belgrade pour découvrir le cœur de la Serbie ! Explorez sa riche culture, son histoire et sa vie trépidante, tout en découvrant ce qui rend cette ville si unique. Ne manquez pas cette expérience inoubliable ! A bientôt !",
+      "it": "Unitevi a noi a Belgrado per scoprire il cuore della Serbia! Esplorate la sua ricca cultura, la sua storia e la sua vita vibrante, scoprendo ciò che rende questa città così unica. Non perdetevi questa esperienza indimenticabile! A presto!",
+      "pt": "Junte-se a nós em Belgrado para descobrir o coração da Sérvia! Explore a sua rica cultura, história e vida vibrante, enquanto descobre o que torna esta cidade tão única. Não perca esta experiência inesquecível! Até breve!"
+    },
+    "description": {
+      "de": "Unser Treffpunkt ist vor dem Hotel Moskva (Balkanska 1, Belgrad 11000). Ich werde einen blauen Regenschirm in der Hand halten. \r\n\r\nVon dort aus besuchen wir den Platz der Republik, das Nationalmuseum von Belgrad, die Skadarlija, die Bajrakli-Moschee, das Vuk &amp; Dositej-Museum, den Kalemegdan-Park, die Belgrader Festung, die Kafana Znak Pitanja, die Kathedrale des Heiligen Erzengels Michael und die Kneza Mihaila-Straße. \r\n\r\nAuf dem Weg dorthin werden Sie nicht nur diese ikonischen Wahrzeichen erkunden, sondern auch in das serbische Leben, die Kultur und die Geschichte eintauchen.",
+      "en": "Our meeting point is in front of Hotel Moskva (Balkanska 1, Belgrade 11000). I will be holding a blue umbrella. \r\n\r\nFrom there, we will visit Republic Square, the National Museum of Belgrade, Skadarlija, Bajrakli Mosque, Vuk & Dositej Museum, Kalemegdan Park, Belgrade Fortress, Kafana Znak Pitanja, the Cathedral of the Holy Archangel Michael, and Kneza Mihaila Street. \r\n\r\nAlong the way, you’ll not only explore these iconic landmarks but also immerse yourself in Serbian life, culture, and history.",
+      "es": "Nuestro punto de encuentro es frente al Hotel Moskva (Balkanska 1, Belgrado 11000). Yo llevaré un paraguas azul. \r\n\r\nDesde allí, visitaremos la Plaza de la República, el Museo Nacional de Belgrado, Skadarlija, la Mezquita Bajrakli, el Museo Vuk &amp; Dositej, el Parque Kalemegdan, la Fortaleza de Belgrado, Kafana Znak Pitanja, la Catedral del Santo Arcángel Miguel y la calle Kneza Mihaila. \r\n\r\nPor el camino, no sólo explorará estos lugares emblemáticos, sino que también se sumergirá en la vida, la cultura y la historia serbias.",
+      "fr": "Notre point de rencontre se trouve devant l'hôtel Moskva (Balkanska 1, Belgrade 11000). Je tiendrai un parapluie bleu. \r\n\r\nDe là, nous visiterons la place de la République, le musée national de Belgrade, Skadarlija, la mosquée Bajrakli, le musée Vuk &amp; Dositej, le parc Kalemegdan, la forteresse de Belgrade, Kafana Znak Pitanja, la cathédrale du Saint Archange Michel et la rue Kneza Mihaila. \r\n\r\nEn chemin, vous explorerez non seulement ces lieux emblématiques, mais vous vous immergerez également dans la vie, la culture et l'histoire serbes.",
+      "it": "Il nostro punto d'incontro è davanti all'Hotel Moskva (Balkanska 1, Belgrado 11000). Io terrò un ombrello blu. \r\n\r\nDa lì, visiteremo Piazza della Repubblica, il Museo Nazionale di Belgrado, Skadarlija, la Moschea Bajrakli, il Museo Vuk &amp; Dositej, il Parco Kalemegdan, la Fortezza di Belgrado, la Kafana Znak Pitanja, la Cattedrale del Santo Arcangelo Michele e Via Kneza Mihaila. \r\n\r\nLungo il percorso, non solo esplorerete questi luoghi simbolo, ma vi immergerete anche nella vita, nella cultura e nella storia serba.",
+      "pt": "O nosso ponto de encontro é em frente ao Hotel Moskva (Balkanska 1, Belgrado 11000). Eu estarei a segurar um guarda-chuva azul. \r\n\r\nA partir daí, visitaremos a Praça da República, o Museu Nacional de Belgrado, Skadarlija, a Mesquita Bajrakli, o Museu Vuk &amp; Dositej, o Parque Kalemegdan, a Fortaleza de Belgrado, Kafana Znak Pitanja, a Catedral do Santo Arcanjo Miguel e a Rua Kneza Mihaila. \r\n\r\nAo longo do percurso, não só irá explorar estes marcos emblemáticos, como também mergulhará na vida, cultura e história sérvias."
+    },
+    "providerTitle": "Stefan Spasic",
+    "providerPhone": "+381669005379",
+    "URL": "https://www.freetour.com/belgrade/free-tour-belgrade-historical-center?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/free-tour-belgrade-historical-center?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/free-tour-belgrade-historical-center?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/free-tour-belgrade-historical-center?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/free-tour-belgrade-historical-center?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/free-tour-belgrade-historical-center?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/free-tour-belgrade-historical-center?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:15",
+    "meetingPoint": {
+      "title": "Balkanska 1 ",
+      "coordinates": "44.8128741,20.4603608",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square",
+      "Holy Archangel Michael Orthodox Church",
+      "Balkanska 8",
+      "Bajrakli Mosque",
+      "National Museum of Serbia",
+      "Skadarlija"
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      },
+      {
+        "id": 4425,
+        "title": "Holy Archangel Michael Orthodox Church",
+        "googlePlaceId": "ChIJfQmstk1lWkcRX2h6i2U9dpg"
+      },
+      {
+        "id": 29155,
+        "title": "Balkanska 8",
+        "googlePlaceId": "ChIJO4y_WR17WkcRYIECtjPYXUM"
+      },
+      {
+        "id": 9618,
+        "title": "Bajrakli Mosque",
+        "googlePlaceId": "ChIJsR3TAktlWkcRKHSrH5MvE7o"
+      },
+      {
+        "id": 20758,
+        "title": "National Museum of Serbia",
+        "googlePlaceId": "ChIJU6fXRLJ6WkcRPzI4qdPWiOY"
+      },
+      {
+        "id": 26485,
+        "title": "Skadarlija",
+        "googlePlaceId": "ChIJYSLdULF6WkcR34Yi1yEFqJE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 221703,
+        "URL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-01.jpg"
+      },
+      {
+        "id": 221705,
+        "URL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-03.jpg"
+      },
+      {
+        "id": 221706,
+        "URL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-04.jpg"
+      },
+      {
+        "id": 221708,
+        "URL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-06.jpg"
+      },
+      {
+        "id": 221709,
+        "URL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-07.jpg"
+      },
+      {
+        "id": 221710,
+        "URL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-08.jpg"
+      },
+      {
+        "id": 221711,
+        "URL": "https://www.freetour.com/images/tours/63529/belgrade-historical-center-09.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 1
+  },
+  {
+    "id": 63660,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Avala Mountain Tour",
+      "es": "Excursión a la Montaña Avala",
+      "pt": "Excursão à montanha Avala",
+      "de": "Avala Berg Tour",
+      "fr": "Tour de la montagne Avala",
+      "it": "Tour della montagna di Avala"
+    },
+    "brief": {
+      "de": "Entdecken Sie die Schönheit des Avala-Gebirges auf einer geführten Tour mit atemberaubenden Ausblicken auf Belgrad und einem Besuch des historischen Avala-Turms. Tauchen Sie ein in die Natur und genießen Sie die ruhigen Landschaften dieses ikonischen Reiseziels.",
+      "en": "Discover the beauty of Avala Mountain on a guided tour featuring stunning views of Belgrade and visits to the historic Avala Tower. Immerse yourself in nature and enjoy the serene landscapes of this iconic destination.",
+      "es": "Descubra la belleza de la montaña Avala en una excursión guiada con impresionantes vistas de Belgrado y visitas a la histórica Torre Avala. Sumérjase en la naturaleza y disfrute de los serenos paisajes de este emblemático destino.",
+      "fr": "Découvrez la beauté du mont Avala lors d'une visite guidée offrant des vues imprenables sur Belgrade et des visites de la tour historique d'Avala. Plongez dans la nature et profitez des paysages sereins de cette destination emblématique.",
+      "it": "Scoprite la bellezza del Monte Avala con un tour guidato che offre viste mozzafiato di Belgrado e visite alla storica Torre Avala. Immergetevi nella natura e godetevi i paesaggi sereni di questa destinazione iconica.",
+      "pt": "Descubra a beleza da Montanha Avala numa visita guiada com vistas deslumbrantes de Belgrado e visitas à histórica Torre Avala. Mergulhe na natureza e desfrute das paisagens serenas deste destino icónico."
+    },
+    "description": {
+      "de": "Avala ist der Berg von Belgrad, der eine Autostunde von Belgrad entfernt liegt. Er beherbergt eine Vielzahl geschützter Tier- und Pflanzenarten. Der Berg besteht aus Serpentinit, Kalkstein und magmatischem Gestein und ist eine Quelle für Blei- und Quecksilbererze. Unsere Tour beginnt um 10:00 Uhr. Unser Fahrzeug wird Sie an Ihrer Adresse abholen. \r\n\r\nAuf der Avala treffen wir auf den unbekannten Helden, ein Denkmal für die bei einem Flugzeugabsturz ums Leben gekommenen Russen, den Ort des ehemaligen Turms Zrnov und natürlich einen Aussichtspunkt vom höchsten Punkt Belgrads.",
+      "en": "Avala is Belgrade's mountain, located a 1-hour drive from Belgrade. It has a lot of protected species of animals and plants. The mountain is made of serpentinite, limestone, and magmatic rocks and is a source of lead and mercury ore. Our tour starts at 10:00. Our vehicle will pick you up at your address. \r\n\r\nAfterward, when we come to the Avala, we meet with the unknown hero, a monument of Russians who died in an airplane crash, the place of the former tower Zrnov, and of course, a viewpoint from the highest point in Belgrade.",
+      "es": "Avala es la montaña de Belgrado, situada a una hora en coche de Belgrado. Cuenta con numerosas especies protegidas de animales y plantas. La montaña está formada por serpentinita, piedra caliza y rocas magmáticas, y es una fuente de mineral de plomo y mercurio. Nuestra excursión comienza a las 10:00. Nuestro vehículo le recogerá en su dirección. \r\n\r\nDespués, cuando lleguemos al Avala, nos encontraremos con el héroe desconocido, un monumento a los rusos que murieron en un accidente aéreo, el lugar de la antigua torre Zrnov y, por supuesto, un mirador desde el punto más alto de Belgrado.",
+      "fr": "Avala est la montagne de Belgrade, située à une heure de route de Belgrade. Elle abrite de nombreuses espèces animales et végétales protégées. La montagne est composée de serpentinite, de calcaire et de roches magmatiques et est une source de minerai de plomb et de mercure. Notre visite commence à 10h00. Notre véhicule viendra vous chercher à votre adresse. \r\n\r\nEnsuite, lorsque nous arrivons à l'Avala, nous rencontrons le héros inconnu, un monument aux Russes morts dans un accident d'avion, l'emplacement de l'ancienne tour Zrnov, et bien sûr, un point de vue depuis le point le plus élevé de Belgrade.",
+      "it": "Avala è la montagna di Belgrado, situata a un'ora di macchina da Belgrado. Ospita molte specie protette di animali e piante. La montagna è composta da serpentinite, calcare e rocce magmatiche ed è una fonte di minerali di piombo e mercurio. Il nostro tour inizia alle 10:00. Il nostro veicolo verrà a prendervi al vostro indirizzo. \r\n\r\nIn seguito, quando arriveremo all'Avala, incontreremo l'eroe sconosciuto, il monumento ai russi morti in un incidente aereo, il luogo dell'ex torre Zrnov e, naturalmente, il punto di vista dal punto più alto di Belgrado.",
+      "pt": "Avala é a montanha de Belgrado, situada a uma hora de carro de Belgrado. Tem muitas espécies protegidas de animais e plantas. A montanha é feita de serpentinite, calcário e rochas magmáticas e é uma fonte de minério de chumbo e mercúrio. A nossa visita começa às 10:00. O nosso veículo irá buscá-lo à sua morada. \r\n\r\nDepois, quando chegarmos a Avala, encontraremos o herói desconhecido, um monumento aos russos que morreram num acidente de avião, o local da antiga torre Zrnov e, claro, um miradouro do ponto mais alto de Belgrado."
+    },
+    "providerTitle": "Mateja",
+    "providerPhone": "+381652682004",
+    "URL": "https://www.freetour.com/belgrade/avala-mountain-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/avala-mountain-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/avala-mountain-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/avala-mountain-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/avala-mountain-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/avala-mountain-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/avala-mountain-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 79,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Terazije fountain",
+      "coordinates": "44.8124713,20.4607614",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Avala",
+      "Zrnov",
+      "Terazije Theatre"
+    ],
+    "POIs": [
+      {
+        "id": 26584,
+        "title": "Avala",
+        "googlePlaceId": "ChIJewFsTEBwWkcROHoOti5bdQo"
+      },
+      {
+        "id": 26585,
+        "title": "Zrnov",
+        "googlePlaceId": "ChIJsf2bXqx6WkcRHCVM74Q9ddU"
+      },
+      {
+        "id": 10495,
+        "title": "Terazije Theatre",
+        "googlePlaceId": "ChIJuXWibK56WkcRlzx0ySYkjsI"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-01.jpg",
+    "categoryId": 13,
+    "images": [
+      {
+        "id": 222248,
+        "URL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-01.jpg"
+      },
+      {
+        "id": 222250,
+        "URL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-03.jpg"
+      },
+      {
+        "id": 222251,
+        "URL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-04.jpg"
+      },
+      {
+        "id": 222252,
+        "URL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-05.jpg"
+      },
+      {
+        "id": 222253,
+        "URL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-06.jpg"
+      },
+      {
+        "id": 222254,
+        "URL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-07.jpg"
+      },
+      {
+        "id": 222255,
+        "URL": "https://www.freetour.com/images/tours/63660/avala-mountain-tour-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 64217,
+    "updatedAt": "2025-12-01 08:53:00",
+    "title": {
+      "en": "Belgrade Walking Tour: Get to Know the City Center & Serbian Culture",
+      "es": "Visita a pie por Belgrado: Conozca el centro de la ciudad y la cultura serbia",
+      "pt": "Passeio a pé por Belgrado: Conhecer o centro da cidade e a cultura sérvia",
+      "de": "Belgrader Stadtrundgang: Lernen Sie das Stadtzentrum und die serbische Kultur kennen",
+      "fr": "Visite à pied de Belgrade : Découvrir le centre-ville et la culture serbe",
+      "it": "Tour a piedi di Belgrado: Conoscere il centro della città e la cultura serba"
+    },
+    "brief": {
+      "de": "Entdecken Sie die wichtigsten Sehenswürdigkeiten der Belgrader Altstadt bei einem geführten Rundgang. Lernen Sie einige serbische Wörter, erhalten Sie Tipps, wie Sie sich im Stadtzentrum fortbewegen können, und erhalten Sie ein traditionelles serbisches Geschenk. Verpassen Sie es nicht!",
+      "en": "Discover the most important sights in the old town of Belgrade on a guided walking tour. Learn some Serbian words, get tips on how to get around the city center, and receive a traditional Serbian gift. Don't miss it!",
+      "es": "Descubra los lugares de interés más importantes del casco antiguo de Belgrado en una visita guiada a pie. Aprenda algunas palabras en serbio, reciba consejos sobre cómo moverse por el centro de la ciudad y reciba un regalo tradicional serbio. ¡No se lo pierda!",
+      "fr": "Découvrez les sites les plus importants de la vieille ville de Belgrade lors d'une visite guidée à pied. Apprenez quelques mots de serbe, obtenez des conseils pour vous déplacer dans le centre-ville et recevez un cadeau traditionnel serbe. À ne pas manquer !",
+      "it": "Scoprite i luoghi più importanti del centro storico di Belgrado con una visita guidata a piedi. Imparate alcune parole serbe, ricevete consigli su come muovervi nel centro della città e ricevete un regalo tradizionale serbo. Da non perdere!",
+      "pt": "Descubra os pontos turísticos mais importantes da cidade velha de Belgrado numa visita guiada a pé. Aprenda algumas palavras em sérvio, obtenha dicas sobre como se deslocar no centro da cidade e receba um presente tradicional sérvio. Não perca!"
+    },
+    "description": {
+      "de": "Entdecken Sie die wichtigsten Sehenswürdigkeiten in der Altstadt von Belgrad bei einem geführten Rundgang. Erfahren Sie mehr über die Geschichte, Kultur und Traditionen der Stadt, während Sie das Stadtzentrum erkunden. Treffen Sie Ihren Guide vor dem berühmtesten Hotel der Stadt und machen Sie sich auf den Weg, die Stadt zu erkunden. \r\n\r\nSie kommen am Terazije-Platz, dem Platz der Republik und dem böhmischen Viertel vorbei. Erfahren Sie mehr über die Geschichte und Kultur der Stadt, während Sie durch die Straßen schlendern. Weiter geht es zur Bayrakli-Moschee, zum Kalemegdan-Park und zur Belgrader Festung. Bewundern Sie die Aussicht auf die Stadt von der Festung aus und erfahren Sie mehr über ihre Geschichte. \r\n\r\nBesichtigen Sie die Kathedralkirche des Erzengels Michael, Kafana? und die König-Petar-Grundschule. Am Ende der Tour erhalten Sie ein traditionelles serbisches Produkt als Geschenk.",
+      "en": "Discover the most important sights in the old town of Belgrade on a guided walking tour. Learn about the city's history, culture, and traditions as you explore the city center. Meet your guide in front of the most famous hotel in the city and set off to explore the city. \r\n\r\nPass by the Terazije square, Republic square, and the Bohemian quarter. Learn about the city's history and culture as you stroll through the streets. Continue to the Bayrakli mosque, Kalemegdan Park, and Belgrade fortress. Admire the views of the city from the fortress and learn about its history. \r\n\r\nSee the Cathedral church of St. Michael the Archangel, Kafana?, and the King Petar primary school. At the end of the tour, receive a traditional Serbian product as a gift.",
+      "es": "Descubra los monumentos más importantes del casco antiguo de Belgrado en una visita guiada a pie. Conozca la historia, la cultura y las tradiciones de la ciudad mientras explora el centro. Reúnase con su guía frente al hotel más famoso de la ciudad y salga a explorarla. \r\n\r\nPase por la plaza Terazije, la plaza de la República y el barrio bohemio. Conozca la historia y la cultura de la ciudad mientras pasea por sus calles. Continúe hacia la mezquita de Bayrakli, el parque Kalemegdan y la fortaleza de Belgrado. Admire las vistas de la ciudad desde la fortaleza y conozca su historia. \r\n\r\nVisite la iglesia catedral de San Miguel Arcángel, Kafana? y la escuela primaria Rey Petar. Al final de la visita, reciba como obsequio un producto tradicional serbio.",
+      "fr": "Découvrez les sites les plus importants de la vieille ville de Belgrade lors d'une visite guidée à pied. Vous en apprendrez plus sur l'histoire, la culture et les traditions de la ville en explorant le centre-ville. Retrouvez votre guide devant l'hôtel le plus célèbre de la ville et partez à la découverte de la ville. \r\n\r\nPassez par la place Terazije, la place de la République et le quartier bohème. Découvrez l'histoire et la culture de la ville en vous promenant dans les rues. Continuez vers la mosquée Bayrakli, le parc Kalemegdan et la forteresse de Belgrade. Admirez la vue sur la ville depuis la forteresse et découvrez son histoire. \r\n\r\nVisitez l'église cathédrale Saint-Michel l'Archange, Kafana ? et l'école primaire King Petar. À la fin de la visite, vous recevrez en cadeau un produit serbe traditionnel.",
+      "it": "Scoprite i luoghi più importanti del centro storico di Belgrado con una visita guidata a piedi. Scoprite la storia, la cultura e le tradizioni della città mentre esplorate il centro storico. Incontrate la vostra guida davanti all'hotel più famoso della città e partite alla scoperta della città. \r\n\r\nPassate per piazza Terazije, piazza della Repubblica e il quartiere boemo. Passeggiando per le strade potrete conoscere la storia e la cultura della città. Proseguite verso la moschea Bayrakli, il parco Kalemegdan e la fortezza di Belgrado. Ammirate la vista della città dalla fortezza e scoprite la sua storia. \r\n\r\nVisitate la chiesa cattedrale di San Michele Arcangelo, Kafana? e la scuola elementare King Petar. Alla fine del tour, riceverete in regalo un prodotto tradizionale serbo.",
+      "pt": "Descubra os pontos turísticos mais importantes da cidade velha de Belgrado numa visita guiada a pé. Aprenda sobre a história, cultura e tradições da cidade enquanto explora o centro da cidade. Encontre o seu guia em frente ao hotel mais famoso da cidade e parta para explorar a cidade. \r\n\r\nPasse pela praça Terazije, pela praça da República e pelo bairro boémio. Aprenda sobre a história e a cultura da cidade enquanto passeia pelas ruas. Continue até à mesquita Bayrakli, ao Parque Kalemegdan e à fortaleza de Belgrado. Admire as vistas da cidade a partir da fortaleza e aprenda sobre a sua história. \r\n\r\nVeja a Igreja Catedral de São Miguel Arcanjo, Kafana? e a escola primária King Petar. No final da visita, receba como presente um produto tradicional sérvio."
+    },
+    "providerTitle": "Nikola Risimić",
+    "providerPhone": "00381638309488",
+    "URL": "https://www.freetour.com/belgrade/belgrade-get-to-know-the-city-center-serbian-culture?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/belgrade-get-to-know-the-city-center-serbian-culture?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/belgrade-get-to-know-the-city-center-serbian-culture?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/belgrade-get-to-know-the-city-center-serbian-culture?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/belgrade-get-to-know-the-city-center-serbian-culture?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/belgrade-get-to-know-the-city-center-serbian-culture?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/belgrade-get-to-know-the-city-center-serbian-culture?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 15,
+      "currency": "EUR"
+    },
+    "length": "2:15",
+    "meetingPoint": {
+      "title": "Hotel Moskva",
+      "coordinates": "44.8130277,20.46043049999999",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square",
+      "Kalemegdan",
+      "Bajrakli Mosque",
+      "Hotel Moskva Belgrade, Serbia",
+      "Belgrade Fortress"
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      },
+      {
+        "id": 8414,
+        "title": "Kalemegdan",
+        "googlePlaceId": "ChIJpRm697R6WkcRstFR2oX4vSk"
+      },
+      {
+        "id": 9618,
+        "title": "Bajrakli Mosque",
+        "googlePlaceId": "ChIJsR3TAktlWkcRKHSrH5MvE7o"
+      },
+      {
+        "id": 14896,
+        "title": "Hotel Moskva Belgrade, Serbia",
+        "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+      },
+      {
+        "id": 10517,
+        "title": "Belgrade Fortress",
+        "googlePlaceId": "ChIJUyxcAUllWkcRstJIPZ95CxY"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 224065,
+        "URL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-01.jpg"
+      },
+      {
+        "id": 224067,
+        "URL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-03.jpg"
+      },
+      {
+        "id": 224068,
+        "URL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-04.jpg"
+      },
+      {
+        "id": 224069,
+        "URL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-05.jpg"
+      },
+      {
+        "id": 224070,
+        "URL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-06.jpg"
+      },
+      {
+        "id": 224071,
+        "URL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-07.jpg"
+      },
+      {
+        "id": 224072,
+        "URL": "https://www.freetour.com/images/tours/64217/belgrade-get-to-know-the-city-center-and-serbian-culture-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 70068,
+    "updatedAt": "2025-12-01 03:32:44",
+    "title": {
+      "en": "Explore the Heart of Belgrade on a Free Tour",
+      "es": "Explore el corazón de Belgrado en un recorrido gratuito",
+      "pt": "Explore o coração de Belgrado numa visita guiada gratuita",
+      "de": "Erkunden Sie das Herz von Belgrad auf einer kostenlosen Tour",
+      "fr": "Découvrez le cœur de Belgrade lors d'une visite gratuite",
+      "it": "Esplorate il cuore di Belgrado con un tour gratuito"
+    },
+    "brief": {
+      "de": "Entdecken Sie mit uns das Beste von Belgrad! Schlendern Sie durch das pulsierende Stadtzentrum, erkunden Sie den ikonischen Platz der Republik, schlendern Sie durch die lebhafte Knez Mihailova Straße und entdecken Sie die Geschichte der majestätischen Kalemegdan-Festung. Verpassen Sie es nicht!",
+      "en": "Join us to discover the best of Belgrade! Stroll through the vibrant city center, explore the iconic Republic Square, wander along lively Knez Mihailova Street, and uncover the history of the majestic Kalemegdan Fortress. Don’t miss it!",
+      "es": "Únase a nosotros para descubrir lo mejor de Belgrado Pasee por el vibrante centro de la ciudad, explore la emblemática Plaza de la República, recorra la animada calle Knez Mihailova y descubra la historia de la majestuosa Fortaleza de Kalemegdan. ¡No se lo pierda!",
+      "fr": "Rejoignez-nous pour découvrir le meilleur de Belgrade ! Promenez-vous dans le centre-ville animé, explorez l'emblématique place de la République, flânez dans la rue animée Knez Mihailova et découvrez l'histoire de la majestueuse forteresse de Kalemegdan. À ne pas manquer !",
+      "it": "Unitevi a noi per scoprire il meglio di Belgrado! Passeggiate nel vivace centro della città, esplorate l'iconica Piazza della Repubblica, passeggiate lungo la vivace via Knez Mihailova e scoprite la storia della maestosa Fortezza di Kalemegdan. Da non perdere!",
+      "pt": "Junte-se a nós para descobrir o melhor de Belgrado! Passeie pelo vibrante centro da cidade, explore a icónica Praça da República, passeie pela animada Rua Knez Mihailova e descubra a história da majestosa Fortaleza de Kalemegdan. Não perca!"
+    },
+    "description": {
+      "de": "Auf dieser Tour mit Tipps werden wir die wichtigsten Orte im Stadtzentrum besuchen. Wir beginnen am Platz der Republik und gehen die Hauptfußgängerzone, die Knez Mihailova Straße, hinunter, um die ikonische Kalemegdan Festung und den Park zu erreichen. Hier werden wir ihre reiche Geschichte im Laufe der Jahrhunderte erkunden und unvergessliche Fotos machen.\r\n\r\nWährend der Tour werden wir auch versteckte Straßen, Denkmäler, die berühmten Personen und Ereignissen gewidmet sind, eine historische Kirche und faszinierende Architektur erkunden, die Geschichten vom ersten Jahrhundert bis heute erzählt. Darüber hinaus werden wir uns mit dem lokalen Essen, den traditionellen Getränken, dem Nachtleben und dem Lebensstil beschäftigen. Begleiten Sie mich auf dieses unvergessliche Abenteuer!",
+      "en": "On this tip-based tour, we will visit the main spots in the city center. We will start at Republic Square and walk down the main pedestrian street, Knez Mihailova Street, to reach the iconic Kalemegdan Fortress and park. Here, we will explore its rich history throughout the centuries and capture memorable photos.\r\n\r\nDuring the tour, we will also explore hidden streets, monuments dedicated to famous people and events, a historic church, and fascinating architecture that tells stories from the 1st century to the present day. Additionally, we will discuss local food, traditional drinks, nightlife, and lifestyle. Join me on this unforgettable adventure!",
+      "es": "En este recorrido basado en consejos, visitaremos los principales puntos del centro de la ciudad. Empezaremos en la Plaza de la República y caminaremos por la principal calle peatonal, la calle Knez Mihailova, hasta llegar a la emblemática Fortaleza de Kalemegdan y su parque. Aquí exploraremos su rica historia a lo largo de los siglos y capturaremos fotos memorables.\r\n\r\nDurante el recorrido, también exploraremos calles ocultas, monumentos dedicados a personajes y acontecimientos famosos, una iglesia histórica y una arquitectura fascinante que cuenta historias desde el siglo I hasta nuestros días. Además, hablaremos de la comida local, las bebidas tradicionales, la vida nocturna y el estilo de vida. ¡Acompáñeme en esta aventura inolvidable!",
+      "fr": "Lors de cette visite guidée, nous visiterons les principaux sites du centre-ville. Nous commencerons par la place de la République et descendrons la principale rue piétonne, la rue Knez Mihailova, pour atteindre l'emblématique forteresse de Kalemegdan et son parc. Nous y découvrirons sa riche histoire au fil des siècles et prendrons des photos mémorables.\r\n\r\nAu cours de la visite, nous découvrirons également des rues cachées, des monuments dédiés à des personnages et des événements célèbres, une église historique et une architecture fascinante qui raconte des histoires du 1er siècle à nos jours. En outre, nous discuterons de la nourriture locale, des boissons traditionnelles, de la vie nocturne et du mode de vie. Rejoignez-moi dans cette aventure inoubliable !",
+      "it": "In questo tour basato sui suggerimenti, visiteremo i luoghi principali del centro città. Inizieremo da Piazza della Repubblica e percorreremo la principale via pedonale, via Knez Mihailova, per raggiungere l'iconica Fortezza di Kalemegdan e il parco. Qui esploreremo la sua ricca storia nel corso dei secoli e scatteremo foto memorabili.\r\n\r\nDurante il tour, esploreremo anche strade nascoste, monumenti dedicati a personaggi ed eventi famosi, una chiesa storica e un'architettura affascinante che racconta storie dal I secolo ai giorni nostri. Inoltre, parleremo di cibo locale, bevande tradizionali, vita notturna e stile di vita. Unitevi a me in questa indimenticabile avventura!",
+      "pt": "Nesta excursão baseada em dicas, visitaremos os principais pontos do centro da cidade. Começaremos na Praça da República e desceremos a principal rua pedonal, a Rua Knez Mihailova, para chegar à icónica Fortaleza de Kalemegdan e ao parque. Aqui, exploraremos a sua rica história ao longo dos séculos e tiraremos fotografias memoráveis.\r\n\r\nDurante o passeio, também exploraremos ruas escondidas, monumentos dedicados a pessoas e eventos famosos, uma igreja histórica e uma arquitetura fascinante que conta histórias desde o século I até aos dias de hoje. Além disso, falaremos sobre a comida local, as bebidas tradicionais, a vida nocturna e o estilo de vida. Junte-se a mim nesta aventura inesquecível!"
+    },
+    "providerTitle": "Alex",
+    "providerPhone": "+381693335875",
+    "URL": "https://www.freetour.com/belgrade/explore-the-heart-of-belgrade-on-a-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/explore-the-heart-of-belgrade-on-a-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/explore-the-heart-of-belgrade-on-a-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/explore-the-heart-of-belgrade-on-a-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/explore-the-heart-of-belgrade-on-a-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/explore-the-heart-of-belgrade-on-a-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/explore-the-heart-of-belgrade-on-a-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:45",
+    "meetingPoint": {
+      "title": "The Republic Square next to Knez Mihailo monument",
+      "coordinates": "44.81618849999999,20.4603829",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square",
+      "Belgrade Fortress"
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      },
+      {
+        "id": 10517,
+        "title": "Belgrade Fortress",
+        "googlePlaceId": "ChIJUyxcAUllWkcRstJIPZ95CxY"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/70068/explore-the-heart-of-belgrade-on-a-walking-tour-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 245600,
+        "URL": "https://www.freetour.com/images/tours/70068/explore-the-heart-of-belgrade-on-a-walking-tour-02.jpg"
+      },
+      {
+        "id": 245599,
+        "URL": "https://www.freetour.com/images/tours/70068/explore-the-heart-of-belgrade-on-a-walking-tour-01.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.91,
+    "reviewsNumber": 23
+  },
+  {
+    "id": 71378,
+    "updatedAt": "2025-12-01 03:32:44",
+    "title": {
+      "en": "Belgrade Free Walking Tour",
+      "es": "Free Tour a pie por Belgrado",
+      "pt": "Belgrado Free Walking Tour",
+      "de": "Belgrad Free Walking Tour",
+      "fr": "Visite à pied gratuite de Belgrade",
+      "it": "Tour a piedi gratuito di Belgrado"
+    },
+    "brief": {
+      "de": "Erkunden Sie Belgrads Geschichte, verborgene Schätze und das lokale Leben auf einem kostenlosen Rundgang. Entdecken Sie Geschichten, Traditionen und Tipps, um das Beste aus Ihrem Besuch durch die Freude am Reisen zu machen.",
+      "en": "Explore Belgrade's history, hidden gems, and local life on a Free Walking Tour. Uncover stories, traditions, and tips to make the most of your visit through the joy of travel.",
+      "es": "Explore la historia, las joyas ocultas y la vida local de Belgrado en un recorrido gratuito a pie. Descubra historias, tradiciones y consejos para aprovechar al máximo su visita gracias al placer de viajar.",
+      "fr": "Explorez l'histoire de Belgrade, ses joyaux cachés et la vie locale lors d'une visite à pied gratuite. Découvrez des histoires, des traditions et des conseils pour tirer le meilleur parti de votre visite grâce à la joie du voyage.",
+      "it": "Esplorate la storia, le gemme nascoste e la vita locale di Belgrado con un tour a piedi gratuito. Scoprite storie, tradizioni e consigli per sfruttare al meglio la vostra visita attraverso la gioia del viaggio.",
+      "pt": "Explore a história de Belgrado, as jóias escondidas e a vida local num passeio a pé gratuito. Descubra histórias, tradições e dicas para tirar o máximo partido da sua visita através da alegria de viajar."
+    },
+    "description": {
+      "de": "Willkommen in Belgrad, der pulsierenden Hauptstadt Serbiens! Nehmen Sie an meinem kostenlosen Rundgang teil und entdecken Sie die reiche Geschichte und den einzigartigen Charme dieser faszinierenden Stadt.\r\n\r\nTauchen Sie ein in die Vergangenheit, während wir erkunden, wie verschiedene Kulturen, Traditionen und historische Ereignisse Belgrad am Kreuzungspunkt der Zivilisationen geprägt haben. Neben den Hauptsehenswürdigkeiten der Stadt zeigt die Tour auch versteckte Ecken und lokale Geschichten, die von Besuchern oft unbemerkt bleiben. Unterwegs erhalten Sie auch Einblicke in die serbische Küche, das tägliche Leben und die herzliche Gastfreundschaft, die unser Land auszeichnet.\r\n\r\nAm Ende der Tour verrate ich Ihnen persönliche Tipps, die Ihnen helfen, das Beste aus Ihrem Aufenthalt zu machen und noch mehr von Belgrads verborgenen Schätzen zu entdecken.\r\n\r\nMeine Leidenschaft ist es, durch die Freude am Reisen positive Veränderungen zu bewirken.",
+      "en": "Welcome to Belgrade, the vibrant capital of Serbia! Join my Free Walking Tour and discover the rich history and unique charm of this fascinating city.\r\n\r\nStep into the past as we explore how different cultures, traditions, and historical events have shaped Belgrade at the crossroads of civilizations. Beyond the city's main sights, the tour reveals hidden corners and local stories that often go unnoticed by visitors. Along the way, you'll also gain insights into Serbian cuisine, daily life, and the warm hospitality that defines our country.\r\n\r\nAt the end of the tour, I'll share personalised tips to help you make the most of your stay and uncover even more of Belgrade’s hidden treasures.\r\n\r\nMy passion is to create positive change through the joy of travel.",
+      "es": "Bienvenido a Belgrado, la vibrante capital de Serbia Únase a mi recorrido gratuito a pie y descubra la rica historia y el encanto único de esta fascinante ciudad.\r\n\r\nAdéntrese en el pasado mientras exploramos cómo las diferentes culturas, tradiciones y acontecimientos históricos han dado forma a Belgrado, encrucijada de civilizaciones. Más allá de los principales lugares de interés de la ciudad, el recorrido revela rincones ocultos e historias locales que a menudo pasan desapercibidas para los visitantes. Por el camino, también conocerá la cocina serbia, la vida cotidiana y la cálida hospitalidad que define a nuestro país.\r\n\r\nAl final del recorrido, le daré consejos personalizados para que aproveche al máximo su estancia y descubra aún más los tesoros ocultos de Belgrado.\r\n\r\nMi pasión es crear un cambio positivo a través del placer de viajar.",
+      "fr": "Bienvenue à Belgrade, la vibrante capitale de la Serbie ! Rejoignez ma visite à pied gratuite et découvrez la riche histoire et le charme unique de cette ville fascinante.\r\n\r\nEntrez dans le passé en explorant comment les différentes cultures, traditions et événements historiques ont façonné Belgrade, au carrefour des civilisations. Au-delà des principaux sites de la ville, la visite révèle des coins cachés et des histoires locales qui passent souvent inaperçues aux yeux des visiteurs. En chemin, vous découvrirez également la cuisine serbe, la vie quotidienne et l'hospitalité chaleureuse qui caractérise notre pays.\r\n\r\nÀ la fin de la visite, je vous donnerai des conseils personnalisés pour vous aider à profiter au maximum de votre séjour et à découvrir encore plus de trésors cachés de Belgrade.\r\n\r\nMa passion est de créer un changement positif à travers la joie du voyage.",
+      "it": "Benvenuti a Belgrado, la vivace capitale della Serbia! Unitevi al mio tour a piedi gratuito e scoprite la ricca storia e il fascino unico di questa affascinante città.\r\n\r\nEntrate nel passato e scoprite come le diverse culture, le tradizioni e gli eventi storici hanno plasmato Belgrado, crocevia di civiltà. Oltre alle principali attrazioni della città, il tour rivela angoli nascosti e storie locali che spesso passano inosservate ai visitatori. Lungo il percorso, potrete anche conoscere la cucina serba, la vita quotidiana e la calda ospitalità che caratterizza il nostro Paese.\r\n\r\nAlla fine del tour, condividerò con voi consigli personalizzati per aiutarvi a sfruttare al meglio il vostro soggiorno e a scoprire ancora di più i tesori nascosti di Belgrado.\r\n\r\nLa mia passione è creare un cambiamento positivo attraverso la gioia del viaggio.",
+      "pt": "Bem-vindo a Belgrado, a vibrante capital da Sérvia! Junte-se ao meu Free Walking Tour e descubra a rica história e o encanto único desta cidade fascinante.\r\n\r\nEntre no passado enquanto exploramos a forma como diferentes culturas, tradições e acontecimentos históricos moldaram Belgrado no cruzamento de civilizações. Para além dos principais pontos de interesse da cidade, a visita revela recantos escondidos e histórias locais que muitas vezes passam despercebidas aos visitantes. Ao longo do percurso, também terá acesso a informações sobre a cozinha sérvia, a vida quotidiana e a calorosa hospitalidade que define o nosso país.\r\n\r\nNo final da visita, partilharei dicas personalizadas para o ajudar a aproveitar ao máximo a sua estadia e a descobrir ainda mais os tesouros escondidos de Belgrado.\r\n\r\nA minha paixão é criar mudanças positivas através da alegria de viajar."
+    },
+    "providerTitle": "Nikola",
+    "providerPhone": "+381613253193",
+    "URL": "https://www.freetour.com/belgrade/belgrade-free-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/belgrade-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/belgrade-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/belgrade-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/belgrade-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/belgrade-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/belgrade-free-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Trg republike 3, Beograd, Serbia",
+      "coordinates": "44.8162684,20.4596779",
+      "googlePlaceId": "ChIJPTZu3rJ6WkcRklEkGVFL5_g"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Republic Square"
+    ],
+    "POIs": [
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/71378/-10.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 249390,
+        "URL": "https://www.freetour.com/images/tours/71378/-10.jpg"
+      },
+      {
+        "id": 249383,
+        "URL": "https://www.freetour.com/images/tours/71378/-03.jpg"
+      },
+      {
+        "id": 249384,
+        "URL": "https://www.freetour.com/images/tours/71378/-04.jpg"
+      },
+      {
+        "id": 249385,
+        "URL": "https://www.freetour.com/images/tours/71378/-05.jpg"
+      },
+      {
+        "id": 249381,
+        "URL": "https://www.freetour.com/images/tours/71378/-01.jpg"
+      },
+      {
+        "id": 249382,
+        "URL": "https://www.freetour.com/images/tours/71378/-02.jpg"
+      },
+      {
+        "id": 249388,
+        "URL": "https://www.freetour.com/images/tours/71378/-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.74,
+    "reviewsNumber": 19
+  },
+  {
+    "id": 71622,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Belgrade Grand Tour: Walking & Driving",
+      "es": "Gran Tour de Belgrado: A Pie y en Coche",
+      "pt": "Grande Tour de Belgrado: A pé e de carro",
+      "de": "Belgrad Grand Tour: Wandern &amp; Fahren",
+      "fr": "Grand tour de Belgrade : À pied et en voiture",
+      "it": "Gran Tour di Belgrado: A piedi e in auto"
+    },
+    "brief": {
+      "de": "Entdecken Sie mit uns die Seele Belgrads! Spazieren Sie durch 2000 Jahre Geschichte, erkunden Sie alte und moderne Sehenswürdigkeiten und spüren Sie den pulsierenden Geist, der diese Stadt so einzigartig macht.",
+      "en": "Join us to discover Belgrade’s soul! Walk through 2000 years of history, explore ancient and modern landmarks, and feel the vibrant spirit that makes this city truly unique.",
+      "es": "Únase a nosotros para descubrir el alma de Belgrado Camine a través de 2000 años de historia, explore monumentos antiguos y modernos y sienta el espíritu vibrante que hace que esta ciudad sea verdaderamente única.",
+      "fr": "Rejoignez-nous pour découvrir l'âme de Belgrade ! Traversez 2000 ans d'histoire, explorez les sites anciens et modernes et sentez l'esprit vibrant qui rend cette ville vraiment unique.",
+      "it": "Unitevi a noi per scoprire l'anima di Belgrado! Passeggiate attraverso 2000 anni di storia, esplorate punti di riferimento antichi e moderni e sentite lo spirito vibrante che rende questa città davvero unica.",
+      "pt": "Junte-se a nós para descobrir a alma de Belgrado! Passeie por 2000 anos de história, explore marcos antigos e modernos e sinta o espírito vibrante que torna esta cidade verdadeiramente única."
+    },
+    "description": {
+      "de": "Tauchen Sie ein in die Geschichte Belgrads, die über 2000 Jahre zurückliegt! Ihre Reise beginnt in der lebhaften Knez Mihailova Straße, wo wir unseren Spaziergang durch die Zeit beginnen. Dann geht es weiter zur alten Festung Kalemegdan, wo die Spuren vergangener Reiche auf jedem Stein zu sehen sind. Danach führt uns eine kurze Fahrt über die Save nach Neu-Belgrad, wo wir die kühne, moderne Seite der Stadt erkunden, die während der sozialistischen Ära entstanden ist.\r\n\r\nNächster Halt: Zemun, eine charmante \"Stadt in der Stadt\" mit kopfsteingepflasterten Straßen, Blick auf den Fluss und einem Einblick in die serbische Esskultur auf dem bunten Markt. Wir wandern auf den Gardoš-Hügel und genießen einen atemberaubenden Panoramablick auf die Region.\r\n\r\nIn Dedinje besuchen wir Titos Blumenhaus und das Museum für jugoslawische Geschichte, wo das Erbe des berühmtesten Führers des 20. Jahrhunderts weiterlebt. Unterwegs kommen wir am legendären Stadion des Roten Sterns vorbei und machen uns auf den Weg zur beeindruckenden Kirche des Heiligen Sava, einem wahren architektonischen Juwel.\r\n\r\nZum Abschluss fahren wir durch Belgrads berühmteste Sehenswürdigkeiten wie das Parlament und die Königlichen Höfe, bevor wir Sie mit vielen Geschichten und Erinnerungen zurücklassen.",
+      "en": "Let’s dive into Belgrade’s story, over 2000 years in the making! Your journey begins on the lively Knez Mihailova Street, where we’ll kick off our walk through time. Then, we head to the ancient Kalemegdan Fortress, where past empires whisper from every stone. After that, a quick ride takes us across the Sava River into New Belgrade, where we’ll explore the bold, modern side of the city that rose during the socialist era.\r\n\r\nNext stop: Zemun, a charming “town within a city,” with cobblestone streets, riverside views, and a peek into Serbian food culture at the colorful market. We’ll hike up to Gardoš Hill for stunning panoramic views of the area.\r\n\r\nWe’ll also stop by Dedinje to visit Tito’s House of Flowers and the Museum of History of Yugoslavia, where the legacy of the 20th century’s most iconic leader lives on. On the way, we’ll pass by the legendary Red Star stadium and make our way to the awe-inspiring Saint Sava Church, a true architectural gem.\r\n\r\nFinish with a scenic ride through Belgrade’s most iconic spots, like the Parliament and Royal Courts, before we drop you off, full of stories and memories.",
+      "es": "Sumerjámonos en la historia de Belgrado, ¡más de 2000 años de historia! Su viaje comienza en la animada calle Knez Mihailova, donde iniciaremos nuestro paseo a través del tiempo. A continuación, nos dirigiremos a la antigua fortaleza de Kalemegdan, donde los imperios del pasado susurran en cada piedra. Después, un rápido paseo nos llevará a través del río Sava hasta Nuevo Belgrado, donde exploraremos el lado atrevido y moderno de la ciudad que surgió durante la era socialista.\r\n\r\nSiguiente parada: Zemun, un encantador \"pueblo dentro de una ciudad\", con calles adoquinadas, vistas a la orilla del río y un vistazo a la cultura gastronómica serbia en el colorido mercado. Subiremos a la colina de Gardoš para disfrutar de unas impresionantes vistas panorámicas de la zona.\r\n\r\nTambién nos detendremos en Dedinje para visitar la Casa de las Flores de Tito y el Museo de Historia de Yugoslavia, donde pervive el legado del líder más emblemático del siglo XX. De camino, pasaremos por el legendario estadio del Estrella Roja y nos dirigiremos a la impresionante iglesia de San Sava, una auténtica joya arquitectónica.\r\n\r\nTermine con un paseo panorámico por los lugares más emblemáticos de Belgrado, como el Parlamento y los Tribunales Reales, antes de que le dejemos en casa, lleno de historias y recuerdos.",
+      "fr": "Plongeons dans l'histoire de Belgrade, vieille de plus de 2000 ans ! Votre voyage commence dans la rue animée Knez Mihailova, où nous entamerons notre promenade à travers le temps. Nous nous dirigerons ensuite vers l'ancienne forteresse de Kalemegdan, où les empires passés chuchotent sur chaque pierre. Nous traverserons ensuite rapidement la rivière Sava pour nous rendre dans le Nouveau Belgrade, où nous découvrirons le côté audacieux et moderne de la ville qui a vu le jour pendant l'ère socialiste.\r\n\r\nProchain arrêt : Zemun, une charmante \"ville dans la ville\", avec ses rues pavées, ses vues sur la rivière et un aperçu de la culture alimentaire serbe au marché coloré. Nous ferons une randonnée jusqu'à la colline Gardoš, d'où nous aurons une vue panoramique époustouflante de la région.\r\n\r\nNous nous arrêterons également à Dedinje pour visiter la maison des fleurs de Tito et le musée de l'histoire de la Yougoslavie, où l'héritage du leader le plus emblématique du XXe siècle se perpétue. En chemin, nous passerons devant le légendaire stade de l'Étoile rouge et nous nous dirigerons vers l'impressionnante église Saint-Sava, véritable joyau architectural.\r\n\r\nNous terminerons par une promenade pittoresque dans les lieux les plus emblématiques de Belgrade, comme le Parlement et les cours royales, avant de vous déposer, chargés d'histoires et de souvenirs.",
+      "it": "Immergiamoci nella storia di Belgrado, lunga oltre 2000 anni! Il vostro viaggio inizia nella vivace via Knez Mihailova, dove daremo il via alla nostra passeggiata nel tempo. Poi ci dirigiamo verso l'antica Fortezza di Kalemegdan, dove gli imperi del passato sussurrano da ogni pietra. Poi, con un rapido giro, attraverseremo il fiume Sava per raggiungere la Nuova Belgrado, dove esploreremo il lato moderno e audace della città, sorto durante l'era socialista.\r\n\r\nProssima tappa: Zemun, un'affascinante \"città nella città\", con strade acciottolate, viste sul fiume e un'occhiata alla cultura alimentare serba al colorato mercato. Saliremo sulla collina di Gardoš per ammirare la splendida vista panoramica della zona.\r\n\r\nCi fermeremo anche a Dedinje per visitare la Casa dei Fiori di Tito e il Museo di Storia della Jugoslavia, dove vive l'eredità del leader più rappresentativo del XX secolo. Lungo la strada, passeremo davanti al leggendario stadio della Stella Rossa e ci dirigeremo verso l'imponente chiesa di San Sava, un vero gioiello architettonico.\r\n\r\nConcludiamo con un giro panoramico attraverso i luoghi più emblematici di Belgrado, come il Parlamento e la Corte Reale, prima di lasciarvi a casa, pieni di storie e ricordi.",
+      "pt": "Vamos mergulhar na história de Belgrado, com mais de 2000 anos de existência! A sua viagem começa na animada Rua Knez Mihailova, onde daremos início à nossa caminhada através do tempo. Depois, dirigimo-nos à antiga Fortaleza de Kalemegdan, onde os impérios do passado sussurram em cada pedra. Depois disso, uma rápida viagem leva-nos a atravessar o rio Sava em direção a Nova Belgrado, onde exploraremos o lado arrojado e moderno da cidade que surgiu durante a era socialista.\r\n\r\nPróxima paragem: Zemun, uma encantadora \"cidade dentro de uma cidade\", com ruas de calçada, vistas ribeirinhas e uma espreitadela à cultura gastronómica sérvia no colorido mercado. Subiremos à colina de Gardoš para uma vista panorâmica deslumbrante da zona.\r\n\r\nTambém faremos uma paragem em Dedinje para visitar a Casa das Flores de Tito e o Museu de História da Jugoslávia, onde o legado do líder mais emblemático do século XX continua vivo. No caminho, passaremos pelo lendário estádio Estrela Vermelha e seguiremos para a imponente Igreja de São Sava, uma verdadeira joia arquitetónica.\r\n\r\nTerminamos com um passeio panorâmico pelos locais mais emblemáticos de Belgrado, como o Parlamento e os Tribunais Reais, antes de o deixarmos, cheio de histórias e memórias."
+    },
+    "providerTitle": "Destination Serbia",
+    "providerPhone": "+381607290610",
+    "URL": "https://www.freetour.com/belgrade/belgrade-grand-tour-walking-driving?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/belgrade-grand-tour-walking-driving?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/belgrade-grand-tour-walking-driving?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/belgrade-grand-tour-walking-driving?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/belgrade-grand-tour-walking-driving?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/belgrade-grand-tour-walking-driving?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/belgrade-grand-tour-walking-driving?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 65,
+      "currency": "EUR"
+    },
+    "length": "5:00",
+    "meetingPoint": {
+      "title": "Republic Square",
+      "coordinates": "44.8161885,20.4603829",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Museum of Yugoslavia",
+      "Saint Sava Temple",
+      "Knez Mihajlova",
+      "Kalemegdan",
+      "Belgrade Fortress",
+      "Kosancicev venac",
+      "Republic Square",
+      "Hotel pick-up and drop-off",
+      "Car transport",
+      "Bottled water"
+    ],
+    "POIs": [
+      {
+        "id": 33039,
+        "title": "Museum of Yugoslavia",
+        "googlePlaceId": "ChIJ--VOUxZwWkcRHlTGqWAr0Vc"
+      },
+      {
+        "id": 5865,
+        "title": "Saint Sava Temple",
+        "googlePlaceId": "ChIJj44lpwxwWkcRTDTAbxo5Eb4"
+      },
+      {
+        "id": 33733,
+        "title": "Knez Mihajlova",
+        "googlePlaceId": "ChIJJ8cYCQB7WkcRBVQJ4jKgu80"
+      },
+      {
+        "id": 8414,
+        "title": "Kalemegdan",
+        "googlePlaceId": "ChIJpRm697R6WkcRstFR2oX4vSk"
+      },
+      {
+        "id": 10517,
+        "title": "Belgrade Fortress",
+        "googlePlaceId": "ChIJUyxcAUllWkcRstJIPZ95CxY"
+      },
+      {
+        "id": 17466,
+        "title": "Kosancicev venac",
+        "googlePlaceId": "ChIJYWvw6k1lWkcRe20KFLj0Uz8"
+      },
+      {
+        "id": 3446,
+        "title": "Republic Square",
+        "googlePlaceId": "ChIJD-93AbB7WkcRu4v9SkRGiEQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/71622/-14.jpg",
+    "categoryId": 4,
+    "images": [
+      {
+        "id": 250078,
+        "URL": "https://www.freetour.com/images/tours/71622/-14.jpg"
+      },
+      {
+        "id": 250079,
+        "URL": "https://www.freetour.com/images/tours/71622/-15.jpg"
+      },
+      {
+        "id": 250069,
+        "URL": "https://www.freetour.com/images/tours/71622/-06.jpg"
+      },
+      {
+        "id": 250066,
+        "URL": "https://www.freetour.com/images/tours/71622/-03.jpg"
+      },
+      {
+        "id": 250068,
+        "URL": "https://www.freetour.com/images/tours/71622/-05.jpg"
+      },
+      {
+        "id": 250077,
+        "URL": "https://www.freetour.com/images/tours/71622/-13.jpg"
+      },
+      {
+        "id": 250064,
+        "URL": "https://www.freetour.com/images/tours/71622/-01.jpg"
+      },
+      {
+        "id": 250070,
+        "URL": "https://www.freetour.com/images/tours/71622/-07.jpg"
+      },
+      {
+        "id": 250075,
+        "URL": "https://www.freetour.com/images/tours/71622/-12.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 71767,
+    "updatedAt": "2025-12-01 03:32:47",
+    "title": {
+      "en": "Free Tour: Discover the Heart of Novi Sad",
+      "es": "Free Tour: Descubra el Corazón de Novi Sad",
+      "pt": "Visita guiada gratuita: Descobrir o coração de Novi Sad",
+      "de": "Kostenlose Tour: Entdecken Sie das Herz von Novi Sad",
+      "fr": "Visite gratuite : Découvrir le cœur de Novi Sad",
+      "it": "Tour gratuito: Scoprire il cuore di Novi Sad"
+    },
+    "brief": {
+      "de": "Nehmen Sie an unserer kostenlosen Tour durch das historische Zentrum von Novi Sad teil und entdecken Sie Sehenswürdigkeiten wie den Freiheitsplatz, das Rathaus, das Nationaltheater, den Donaupark und die Festung Petrovaradin. Buchen Sie jetzt Ihren Platz!",
+      "en": "Join our free tour through Novi Sad's historic center, exploring landmarks like Liberty Square, City Hall, the National Theatre, Danube Park, and the Petrovaradin Fortress. Book your spot now!",
+      "es": "Únase a nuestro recorrido gratuito por el centro histórico de Novi Sad, explorando lugares emblemáticos como la Plaza de la Libertad, el Ayuntamiento, el Teatro Nacional, el Parque del Danubio y la Fortaleza de Petrovaradin. Reserve ya su plaza",
+      "fr": "Participez à notre visite gratuite du centre historique de Novi Sad et découvrez des sites tels que la place de la Liberté, l'hôtel de ville, le théâtre national, le parc du Danube et la forteresse de Petrovaradin. Réservez votre place dès maintenant !",
+      "it": "Partecipate al nostro tour gratuito attraverso il centro storico di Novi Sad, esplorando punti di riferimento come Piazza della Libertà, il Municipio, il Teatro Nazionale, il Parco del Danubio e la Fortezza di Petrovaradin. Prenotate subito il vostro posto!",
+      "pt": "Junte-se à nossa excursão gratuita pelo centro histórico de Novi Sad, explorando pontos de referência como a Praça da Liberdade, a Câmara Municipal, o Teatro Nacional, o Parque do Danúbio e a Fortaleza de Petrovaradin. Reserve já o seu lugar!"
+    },
+    "description": {
+      "de": "Begleiten Sie uns auf eine unvergessliche Reise durch die lebhaften Straßen des historischen Zentrums von Novi Sad. Unsere kostenlose Tour ist eine Mischung aus Kultur, Geschichte und lokalem Charme, ideal für Reisende, die diese schöne serbische Stadt erkunden möchten.\r\n\r\nWas wir sehen werden:\r\n\r\n- Freiheitsplatz\r\n- Das Rathaus\r\n- Statue von Svetozar Miletic\r\n- Kirche der Heiligen Maria\r\n- Nationaltheater von Serbien\r\n- Zmaj Jovina Straße\r\n- Bischöflicher Palast\r\n- Stadtbibliothek\r\n- Dunavska Straße\r\n- Donau-Park\r\n- Denkmal für die Opfer des Faschismus\r\n- Festung Petrovaradin (Blick vom Denkmal für die Opfer des Faschismus)\r\n\r\nEntdecken Sie mit uns die Seele von Novi Sad. Egal, ob Sie nur für einen Tag kommen oder länger bleiben, unsere kostenlose Tour bietet die perfekte Einführung in die reiche Kultur und Geschichte der Stadt.\r\n\r\nBuchen Sie jetzt und begleiten Sie uns auf diesem unvergesslichen Abenteuer durch das Herz von Novi Sad!",
+      "en": "Join us for an unforgettable journey through the lively streets of Novi Sad’s historic center. Our free tour blends culture, history, and local charm, ideal for travelers eager to explore this beautiful Serbian city.\r\n\r\nWhat we’ll see:\r\n\r\n- Liberty Square\r\n- City Hall\r\n- Statue of Svetozar Miletic\r\n- Church of Santa Maria\r\n- National Theatre of Serbia\r\n- Zmaj Jovina Street\r\n- Bishop's Palace\r\n- Municipal Library\r\n- Dunavska Street\r\n- Danube Park\r\n- Monument to the Victims of Fascism\r\n- Petrovaradin Fortress (view from the Monument to the Victims of Fascism)\r\n\r\nDiscover the soul of Novi Sad with us. Whether you're visiting for a day or staying longer, our free tour offers the perfect introduction to the city’s rich culture and history.\r\n\r\nBook now and join us on this unforgettable adventure through Novi Sad’s heart!",
+      "es": "Acompáñenos en un viaje inolvidable por las animadas calles del centro histórico de Novi Sad. Nuestro recorrido gratuito mezcla cultura, historia y encanto local, ideal para viajeros deseosos de explorar esta hermosa ciudad serbia.\r\n\r\nLo que veremos\r\n\r\n- Plaza de la Libertad\r\n- Ayuntamiento\r\n- Estatua de Svetozar Miletic\r\n- Iglesia de Santa María\r\n- Teatro Nacional de Serbia\r\n- Calle Zmaj Jovina\r\n- Palacio Episcopal\r\n- Biblioteca Municipal\r\n- Calle Dunavska\r\n- Parque del Danubio\r\n- Monumento a las Víctimas del Fascismo\r\n- Fortaleza de Petrovaradin (vista desde el Monumento a las Víctimas del Fascismo)\r\n\r\nDescubra el alma de Novi Sad con nosotros. Tanto si visita la ciudad por un día como si se queda más tiempo, nuestro recorrido gratuito le ofrece la introducción perfecta a la rica cultura e historia de la ciudad.\r\n\r\nReserve ahora y acompáñenos en esta inolvidable aventura por el corazón de Novi Sad",
+      "fr": "Rejoignez-nous pour un voyage inoubliable dans les rues animées du centre historique de Novi Sad. Cette visite gratuite mêle culture, histoire et charme local. Elle est idéale pour les voyageurs désireux d'explorer cette belle ville serbe.\r\n\r\nCe que nous verrons :\r\n\r\n- Place de la Liberté\r\n- Hôtel de ville\r\n- Statue de Svetozar Miletic\r\n- Église de Santa Maria\r\n- Théâtre national de Serbie\r\n- Rue Zmaj Jovina\r\n- Palais de l'évêque\r\n- Bibliothèque municipale\r\n- Rue Dunavska\r\n- Parc du Danube\r\n- Monument aux victimes du fascisme\r\n- Forteresse de Petrovaradin (vue du monument aux victimes du fascisme)\r\n\r\nDécouvrez l'âme de Novi Sad avec nous. Que vous soyez de passage pour une journée ou que vous restiez plus longtemps, notre visite gratuite est l'introduction parfaite à la riche culture et à l'histoire de la ville.\r\n\r\nRéservez dès maintenant et rejoignez-nous pour cette aventure inoubliable au cœur de Novi Sad !",
+      "it": "Unitevi a noi in un viaggio indimenticabile attraverso le vivaci strade del centro storico di Novi Sad. Il nostro tour gratuito unisce cultura, storia e fascino locale, ideale per i viaggiatori desiderosi di esplorare questa splendida città serba.\r\n\r\nCosa vedremo:\r\n\r\n- Piazza della Libertà\r\n- Municipio\r\n- Statua di Svetozar Miletic\r\n- Chiesa di Santa Maria\r\n- Teatro Nazionale di Serbia\r\n- Via Zmaj Jovina\r\n- Palazzo Vescovile\r\n- Biblioteca comunale\r\n- Via Dunavska\r\n- Parco del Danubio\r\n- Monumento alle vittime del fascismo\r\n- Fortezza di Petrovaradin (vista dal Monumento alle vittime del fascismo)\r\n\r\nScoprite l'anima di Novi Sad con noi. Che si tratti di una visita di un giorno o di un soggiorno più lungo, il nostro tour gratuito offre un'introduzione perfetta alla ricca cultura e alla storia della città.\r\n\r\nPrenotate ora e unitevi a noi in questa indimenticabile avventura nel cuore di Novi Sad!",
+      "pt": "Junte-se a nós para uma viagem inesquecível pelas animadas ruas do centro histórico de Novi Sad. O nosso passeio gratuito combina cultura, história e charme local, ideal para viajantes ansiosos por explorar esta bela cidade sérvia.\r\n\r\nO que veremos:\r\n\r\n- Praça da Liberdade\r\n- Câmara Municipal\r\n- Estátua de Svetozar Miletic\r\n- Igreja de Santa Maria\r\n- Teatro Nacional da Sérvia\r\n- Rua Zmaj Jovina\r\n- Palácio do Bispo\r\n- Biblioteca Municipal\r\n- Rua Dunavska\r\n- Parque do Danúbio\r\n- Monumento às Vítimas do Fascismo\r\n- Fortaleza de Petrovaradin (vista do Monumento às Vítimas do Fascismo)\r\n\r\nDescubra a alma de Novi Sad connosco. Quer esteja de visita por um dia ou fique mais tempo, a nossa excursão gratuita oferece a introdução perfeita à rica cultura e história da cidade.\r\n\r\nReserve agora e junte-se a nós nesta aventura inesquecível pelo coração de Novi Sad!"
+    },
+    "providerTitle": "Novi Sad Discoveries",
+    "providerPhone": "+381645073338",
+    "URL": "https://www.freetour.com/novi-sad/free-tour-discover-the-heart-of-novi-sad?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/novi-sad/free-tour-discover-the-heart-of-novi-sad?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/novi-sad/free-tour-discover-the-heart-of-novi-sad?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/novi-sad/free-tour-discover-the-heart-of-novi-sad?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/novi-sad/free-tour-discover-the-heart-of-novi-sad?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/novi-sad/free-tour-discover-the-heart-of-novi-sad?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/novi-sad/free-tour-discover-the-heart-of-novi-sad?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:15",
+    "meetingPoint": {
+      "title": "Monument of Svetozar Miletić",
+      "coordinates": "45.25505779999999,19.8448509",
+      "googlePlaceId": "ChIJAQAEgEIQW0cRRU76l4Z5YLU"
+    },
+    "cityId": 3651,
+    "countryId": 138,
+    "includes": [
+      "Danube Park"
+    ],
+    "POIs": [
+      {
+        "id": 30152,
+        "title": "Danube Park",
+        "googlePlaceId": "ChIJ03Mga28QW0cRpFSdHQgYpHU"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/71767/-04.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 250547,
+        "URL": "https://www.freetour.com/images/tours/71767/-04.jpg"
+      },
+      {
+        "id": 250545,
+        "URL": "https://www.freetour.com/images/tours/71767/-02.jpg"
+      },
+      {
+        "id": 250544,
+        "URL": "https://www.freetour.com/images/tours/71767/-01.jpg"
+      },
+      {
+        "id": 250546,
+        "URL": "https://www.freetour.com/images/tours/71767/-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 5,
+    "reviewsNumber": 5
+  },
+  {
+    "id": 80666,
+    "updatedAt": "2025-12-01 00:04:32",
+    "title": {
+      "en": "Explore Sirmium: Residence of Roman Emperors",
+      "es": "Explora Sirmium: Residencia de Emperadores Romanos",
+      "pt": "Explorar Sirmium: Residência dos imperadores romanos",
+      "de": "Sirmium erkunden: Residenz der römischen Imperatoren",
+      "fr": "Découvrez Sirmium : Résidence des empereurs romains",
+      "it": "Esplora Sirmium: Residenza degli imperatori romani"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf eine Reise nach Sirmium, nur 80 km von Belgrad entfernt! Entdecken Sie die alte römische Kaiserresidenz, schlendern Sie durch die historischen Straßen und entdecken Sie die Geschichten der Kaiser und des Lebens in dieser faszinierenden römischen Stadt.",
+      "en": "Join us on a journey to Sirmium, just 80 km from Belgrade! Discover the ancient Roman imperial residence, stroll through historic streets, and uncover the stories of emperors and life in this fascinating Roman town.",
+      "es": "Acompáñenos en un viaje a Sirmium, a sólo 80 km de Belgrado Descubra la antigua residencia imperial romana, pasee por las calles históricas y descubra las historias de los emperadores y la vida en esta fascinante ciudad romana.",
+      "fr": "Rejoignez-nous pour un voyage à Sirmium, à seulement 80 km de Belgrade ! Découvrez l'ancienne résidence impériale romaine, flânez dans les rues historiques et découvrez les histoires des empereurs et de la vie dans cette fascinante ville romaine.",
+      "it": "Unitevi a noi in un viaggio a Sirmium, a soli 80 km da Belgrado! Scoprite l'antica residenza imperiale romana, passeggiate per le strade storiche e scoprite le storie degli imperatori e della vita in questa affascinante città romana.",
+      "pt": "Junte-se a nós numa viagem a Sirmium, a apenas 80 km de Belgrado! Descubra a antiga residência imperial romana, passeie pelas ruas históricas e descubra as histórias dos imperadores e da vida nesta fascinante cidade romana."
+    },
+    "description": {
+      "de": "1. Kaiserliche Residenz: Der Preis beträgt etwa 3 Euro pro Person. Wir gehen durch die Galerie und geben eine kurze Einführung darüber, wie die Römer unter Tiberius den illyrischen Aufstand niederschlugen, die Markomannenkriege, das Hauptquartier von Marcus Aurelius in Sirmium und mehr. Dann beginnen wir mit unserer Hauptgeschichte, den Reformen des Diokletian im 4. Jahrhundert und dem Aufkommen des Christentums.\r\n\r\n2. Rundgang: Basilika, zentraler Platz, orthodoxe Kathedrale und die Brücke des Heiligen Irenäus. Wir besprechen allgemeine Aspekte der Geschichte der Stadt und mehr. Bewundern Sie die schöne Barockarchitektur aus der Habsburgerzeit. Wir können eine Kaffee- oder Eiscreme-Pause einlegen, oder Sie haben ein wenig Freizeit.\r\n\r\n3. White Rock Lake: Badepause von bis zu einer Stunde. Beli Kamen (Englisch: Weißer Felsen) ist ein See in der Nähe des Dorfes Besenovo. Das Wasser ist zum Schwimmen geeignet, und die umliegende Natur ist wunderschön.\r\n\r\n4. Restaurantpause in Vrdnik: Vrdnik ist ein Touristenort inmitten des Nationalparks Fruška Gora. Vrdnik beherbergt auch serbisches Nationalerbe, darunter Reliquien des Heiligen Knez Lazarus (Herrscher Serbiens aus dem 14. Jahrhundert).\r\n\r\n5. Rückfahrt: Mit einem möglichen zusätzlichen kurzen Aufenthalt im Nationalpark Fruška Gora.",
+      "en": "1. Imperial Residence: Price is around 3 euros per person. We walk through the gallery and give a brief introduction about how the Romans, under Tiberius, crushed the Illyrian Revolt, the Marcomannic Wars, Marcus Aurelius’ headquarters in Sirmium, and more. Then we begin our main story, the 4th-century reforms of Diocletian and the rise of Christianity.\r\n\r\n2. Walking Tour: Basilica, central square, Orthodox cathedral, and the bridge of St. Irenaeus. We discuss general aspects of the town's history and more. Admire the beautiful Baroque architecture from the Habsburg period. We can take a coffee or ice cream break, or you may have a bit of free time.\r\n\r\n3. White Rock Lake: Swimming break of up to one hour. Beli Kamen (English: White Rock) is a lake near Besenovo village. The water is safe for swimming, and the surrounding nature is beautiful.\r\n\r\n4. Restaurant Break in Vrdnik: Vrdnik is a tourist resort in the middle of Fruška Gora National Park. Vrdnik also contains Serbian national heritage, including relics of St. Knez Lazarus (14th-century ruler of Serbia).\r\n\r\n5. Return Trip: With a possible additional short stop in Fruška Gora National Park.",
+      "es": "1. Residencia Imperial: El precio ronda los 3 euros por persona. Recorremos la galería y hacemos una breve introducción sobre cómo los romanos, bajo Tiberio, aplastaron la Revuelta Iliria, las Guerras Marcomanas, el cuartel general de Marco Aurelio en Sirmium, y mucho más. A continuación, comenzamos nuestra historia principal, las reformas de Diocleciano en el siglo IV y el auge del cristianismo.\r\n\r\n2. Visita a pie: Basílica, plaza central, catedral ortodoxa y puente de San Ireneo. Comentaremos aspectos generales de la historia de la ciudad y mucho más. Admire la hermosa arquitectura barroca de la época de los Habsburgo. Podemos hacer una pausa para tomar un café o un helado, o disponer de un poco de tiempo libre.\r\n\r\n3. Lago White Rock: Pausa para nadar de hasta una hora. Beli Kamen (en español: Roca Blanca) es un lago cerca del pueblo de Besenovo. El agua es segura para nadar, y la naturaleza que lo rodea es preciosa.\r\n\r\n4. Restaurante en Vrdnik: Vrdnik es una localidad turística en medio del Parque Nacional de Fruška Gora. En Vrdnik también se encuentra el patrimonio nacional serbio, incluidas las reliquias de San Knez Lázaro (gobernante de Serbia en el siglo XIV).\r\n\r\n5. Viaje de regreso: Con una posible breve parada adicional en el Parque Nacional de Fruška Gora.",
+      "fr": "1. Résidence Impériale : Le prix est d'environ 3 euros par personne. Nous parcourons la galerie et présentons brièvement comment les Romains, sous Tibère, ont écrasé la révolte illyrienne, les guerres marcomanes, le quartier général de Marc Aurèle à Sirmium, et bien d'autres choses encore. Nous entamons ensuite notre histoire principale, les réformes de Dioclétien au IVe siècle et la montée du christianisme.\r\n\r\n2. Visite à pied : La basilique, la place centrale, la cathédrale orthodoxe et le pont de Saint Irénée. Nous discutons des aspects généraux de l'histoire de la ville et d'autres sujets. Admirez la magnifique architecture baroque de l'époque des Habsbourg. Nous pourrons faire une pause café ou glace, ou vous aurez un peu de temps libre.\r\n\r\n3. Lac White Rock : Pause baignade d'une heure maximum. Beli Kamen (en anglais : White Rock) est un lac situé près du village de Besenovo. L'eau est propice à la baignade et la nature environnante est magnifique.\r\n\r\n4. Pause restaurant à Vrdnik : Vrdnik est une station touristique située au milieu du parc national de Fruška Gora. Vrdnik abrite également un patrimoine national serbe, notamment des reliques de St. Knez Lazarus (souverain de la Serbie au XIVe siècle).\r\n\r\n5. Voyage de retour : Avec éventuellement un court arrêt supplémentaire dans le parc national de Fruška Gora.",
+      "it": "1. Residenza Imperiale: Il prezzo è di circa 3 euro a persona. Percorriamo la galleria e forniamo una breve introduzione su come i Romani, sotto Tiberio, schiacciarono la rivolta illirica, le guerre marcomanniche, il quartier generale di Marco Aurelio a Sirmium e altro ancora. Poi iniziamo la nostra storia principale, le riforme del IV secolo di Diocleziano e l'ascesa del cristianesimo.\r\n\r\n2. Visita a piedi: Basilica, piazza centrale, cattedrale ortodossa e ponte di Sant'Ireneo. Discutiamo gli aspetti generali della storia della città e altro ancora. Ammiriamo la splendida architettura barocca del periodo asburgico. Possiamo fare una pausa caffè o gelato, oppure potete avere un po' di tempo libero.\r\n\r\n3. Lago White Rock: Pausa bagno di un'ora al massimo. Beli Kamen (in inglese: White Rock) è un lago vicino al villaggio di Besenovo. L'acqua è sicura per nuotare e la natura circostante è bellissima.\r\n\r\n4. Pausa ristorante a Vrdnik: Vrdnik è una località turistica al centro del Parco nazionale di Fruška Gora. A Vrdnik si trova anche il patrimonio nazionale serbo, tra cui le reliquie di San Knez Lazarus (sovrano della Serbia del XIV secolo).\r\n\r\n5. Viaggio di ritorno: Con una possibile breve sosta aggiuntiva nel Parco nazionale di Fruška Gora.",
+      "pt": "1. Residência Imperial: O preço é de cerca de 3 euros por pessoa. Percorremos a galeria e fazemos uma breve introdução sobre a forma como os romanos, sob o comando de Tibério, esmagaram a Revolta da Ilíria, as Guerras Marcomanas, o quartel-general de Marco Aurélio em Sirmium e muito mais. Depois, começamos a nossa história principal, as reformas de Diocleciano no século IV e a ascensão do cristianismo.\r\n\r\n2. Passeio a pé: Basílica, praça central, catedral ortodoxa e a ponte de Santo Ireneu. Discutimos aspectos gerais da história da cidade e muito mais. Admire a bela arquitetura barroca do período dos Habsburgos. Podemos fazer uma pausa para tomar um café ou um gelado, ou pode ter um pouco de tempo livre.\r\n\r\n3. Lago White Rock: Pausa para nadar até uma hora. Beli Kamen (em inglês: White Rock) é um lago perto da aldeia de Besenovo. A água é segura para nadar e a natureza circundante é bela.\r\n\r\n4. Pausa no restaurante em Vrdnik: Vrdnik é uma estância turística no meio do Parque Nacional de Fruška Gora. Vrdnik também contém património nacional sérvio, incluindo relíquias de São Knez Lazarus (governante da Sérvia do século XIV).\r\n\r\n5. Viagem de regresso: Com uma possível curta paragem adicional no Parque Nacional de Fruška Gora."
+    },
+    "providerTitle": "Petar",
+    "providerPhone": "+381606623650",
+    "URL": "https://www.freetour.com/belgrade/explore-sirmium-residence-of-roman-emperors?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/belgrade/explore-sirmium-residence-of-roman-emperors?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/belgrade/explore-sirmium-residence-of-roman-emperors?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/belgrade/explore-sirmium-residence-of-roman-emperors?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/belgrade/explore-sirmium-residence-of-roman-emperors?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/belgrade/explore-sirmium-residence-of-roman-emperors?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/belgrade/explore-sirmium-residence-of-roman-emperors?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 160,
+      "currency": "EUR"
+    },
+    "length": "8:00",
+    "meetingPoint": {
+      "title": "Belgrade ",
+      "coordinates": "44.8125449,20.46123",
+      "googlePlaceId": "ChIJUfDPCbJ6WkcRd7fUAGRPUFI"
+    },
+    "cityId": 3641,
+    "countryId": 138,
+    "includes": [
+      "Beli kamen",
+      "Sirmium"
+    ],
+    "POIs": [
+      {
+        "id": 33390,
+        "title": "Beli kamen",
+        "googlePlaceId": "ChIJGTCIL9MJW0cRlQOiWlwqtJQ"
+      },
+      {
+        "id": 33389,
+        "title": "Sirmium",
+        "googlePlaceId": "ChIJJ9DOqa6lW0cR2XABgYxUn04"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/80666/-03.jpg",
+    "categoryId": 4,
+    "images": [
+      {
+        "id": 279135,
+        "URL": "https://www.freetour.com/images/tours/80666/-03.jpg"
+      },
+      {
+        "id": 279137,
+        "URL": "https://www.freetour.com/images/tours/80666/-05.jpg"
+      },
+      {
+        "id": 279139,
+        "URL": "https://www.freetour.com/images/tours/80666/-07.jpg"
+      },
+      {
+        "id": 279140,
+        "URL": "https://www.freetour.com/images/tours/80666/-08.jpg"
+      },
+      {
+        "id": 279141,
+        "URL": "https://www.freetour.com/images/tours/80666/-09.jpg"
+      },
+      {
+        "id": 279143,
+        "URL": "https://www.freetour.com/images/tours/80666/-11.jpg"
+      },
+      {
+        "id": 279144,
+        "URL": "https://www.freetour.com/images/tours/80666/-12.jpg"
+      },
+      {
+        "id": 279145,
+        "URL": "https://www.freetour.com/images/tours/80666/-13.jpg"
+      },
+      {
+        "id": 279146,
+        "URL": "https://www.freetour.com/images/tours/80666/-14.jpg"
+      },
+      {
+        "id": 279147,
+        "URL": "https://www.freetour.com/images/tours/80666/-15.jpg"
+      },
+      {
+        "id": 279148,
+        "URL": "https://www.freetour.com/images/tours/80666/-16.jpg"
+      },
+      {
+        "id": 279149,
+        "URL": "https://www.freetour.com/images/tours/80666/-17.jpg"
+      },
+      {
+        "id": 279150,
+        "URL": "https://www.freetour.com/images/tours/80666/-18.jpg"
+      },
+      {
+        "id": 279151,
+        "URL": "https://www.freetour.com/images/tours/80666/-19.jpg"
+      },
+      {
+        "id": 279152,
+        "URL": "https://www.freetour.com/images/tours/80666/-20.jpg"
+      },
+      {
+        "id": 279153,
+        "URL": "https://www.freetour.com/images/tours/80666/-21.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  }
+]
