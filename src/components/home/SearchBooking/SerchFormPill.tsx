@@ -2,10 +2,11 @@
 
 import { useMemo, useState } from 'react';
 import { useLanguage } from "@/lib/language-context";
-import { useCountries } from '@/lib/queries/tours';
 import { transformCountryForFilter } from '@/lib/db/tour-transformer';
 import { SearchDropdown } from '@/components/forms/SearchDropdown';
 import { DateRangePicker } from '@/components/forms';
+import type { CountryWithTranslations } from '@/types';
+import type { SupportedLanguage } from '@/types';
 
 type CountryFilter = {
     id: number;
@@ -13,40 +14,32 @@ type CountryFilter = {
     count: number;
 };
 
-export function SearchFormPill() {
+interface SearchFormPillProps {
+    initialCountriesData: CountryWithTranslations[];
+    initialLanguage: SupportedLanguage;
+}
+
+export function SearchFormPill({ initialCountriesData, initialLanguage }: SearchFormPillProps) {
     const { t, language } = useLanguage();
-    const { data: countriesData, isLoading: isLoadingCountries } = useCountries(language);
 
     // Transform countries data using the same logic as ToursPageClient
+    // Use the language from context (which may have changed) for transformation
     const transformedCountries = useMemo(() => {
-        if (!countriesData) return [];
-        return countriesData.map(country =>
+        if (!initialCountriesData) return [];
+        return initialCountriesData.map(country =>
             transformCountryForFilter(country, language)
         );
-    }, [countriesData, language]);
+    }, [initialCountriesData, language]);
 
     // Create a promise function that returns the transformed countries
     // This matches the pattern used in TourFiltersPanel: async () => countries
     // The promise will be called by SearchDropdown when it opens
     const getCountriesPromise = useMemo(() => {
         return async (): Promise<CountryFilter[]> => {
-            // If transformed countries are already available, return them immediately
-            if (transformedCountries.length > 0) {
-                return transformedCountries;
-            }
-            
-            // If countriesData is available but not yet transformed, transform it now
-            if (countriesData && countriesData.length > 0) {
-                return countriesData.map(country =>
-                    transformCountryForFilter(country, language)
-                );
-            }
-            
-            // If data is still loading, return empty array
-            // SearchDropdown will show loading state via isLoading prop
-            return [];
+            // Return the transformed countries (always available from server props)
+            return transformedCountries;
         };
-    }, [transformedCountries, countriesData, language]);
+    }, [transformedCountries]);
 
     const handleCountrySelect = (country: CountryFilter) => {
         console.log('Selected country:', country);
@@ -78,7 +71,6 @@ export function SearchFormPill() {
                 )}
                 getItemLabel={(country) => country.name}
                 onSelect={handleCountrySelect}
-                isLoading={isLoadingCountries}
                 className="w-full"
             />
 

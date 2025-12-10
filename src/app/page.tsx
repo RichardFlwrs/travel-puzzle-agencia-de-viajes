@@ -7,7 +7,10 @@ import {
   RewardsBanner
 } from "@/components/home";
 import { QuickSignUp } from "@/components/auth";
+import { fetchCountries } from '@/actions/tours';
+import { getPreferredLanguage } from '@/lib/utils/cookies';
 import type { Metadata } from "next";
+import type { CountryWithTranslations } from '@/types';
 
 export const metadata: Metadata = {
   alternates: {
@@ -18,7 +21,13 @@ export const metadata: Metadata = {
   },
 };
 
-export default function Home() {
+export default async function Home() {
+  // Get language from cookies, default to 'en'
+  const language = await getPreferredLanguage();
+  
+  // Fetch countries on the server
+  const countriesData = await fetchCountries(language);
+
   return (
     <div className="min-h-screen bg-background">
       {/* Navbar Component */}
@@ -28,7 +37,7 @@ export default function Home() {
       <QuickSignUp />
 
       {/* Home Page Sections */}
-      <SearchBooking />
+      <SearchBooking initialCountriesData={countriesData} initialLanguage={language} />
       <WhyChooseTravelPuzzle />
       <RewardsBanner />
       <TopDestinations />

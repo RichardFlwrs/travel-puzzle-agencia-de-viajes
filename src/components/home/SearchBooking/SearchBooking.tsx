@@ -4,8 +4,15 @@ import { useState, useEffect } from 'react';
 import { useLanguage } from "@/lib/language-context";
 import { ImageCarousel } from "@/components/ui/ImageCarousel";
 import { SearchFormPill } from './SerchFormPill';
+import type { CountryWithTranslations } from '@/types';
+import type { SupportedLanguage } from '@/types';
 
-export function SearchBooking() {
+interface SearchBookingProps {
+  initialCountriesData: CountryWithTranslations[];
+  initialLanguage: SupportedLanguage;
+}
+
+export function SearchBooking({ initialCountriesData, initialLanguage }: SearchBookingProps) {
   const { t } = useLanguage();
   const [images, setImages] = useState<string[]>([]);
 
@@ -42,7 +49,7 @@ export function SearchBooking() {
           </div>
 
           {/* Search Form Placeholder */}
-          <SearchFormPill />
+          <SearchFormPill initialCountriesData={initialCountriesData} initialLanguage={initialLanguage} />
         </div>
       </ImageCarousel>
     </section>
