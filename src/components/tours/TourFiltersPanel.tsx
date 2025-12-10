@@ -9,7 +9,7 @@ import { SearchDropdown } from '@/components/forms/SearchDropdown';
 interface TourFiltersPanelProps {
   filters: TourFilters;
   onFilterChange: (filters: TourFilters) => void;
-  countries: Array<{ id: number; name: string }>;
+  countries: Array<{ id: number; name: string; count?: number }>;
   cities: Array<{ id: number; name: string }>;
   isLoadingCities?: boolean;
 }
@@ -27,7 +27,7 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
     onFilterChange({ search: e.target.value });
   };
 
-  const handleCountryChange = (country: { id: number; name: string } | null) => {
+  const handleCountryChange = (country: { id: number; name: string; count?: number } | null) => {
     onFilterChange({
       countryId: country?.id,
       cityId: undefined, // Reset city when country changes
@@ -98,7 +98,14 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
             onSelect={(country) => handleCountryChange(country)}
             dataPromise={async () => countries}
             renderItem={(country) => (
-              <span>{country.name}</span>
+              <div className="flex items-center justify-between w-full">
+                <span>{country.name}</span>
+                {country.count !== undefined && country.count > 0 && (
+                  <span className="text-xs text-muted-foreground ml-2">
+                    {country.count} {country.count === 1 ? 'tour' : 'tours'}
+                  </span>
+                )}
+              </div>
             )}
             getItemLabel={(country) => country.name}
             className="w-full"

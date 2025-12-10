@@ -26,12 +26,27 @@ export function SearchFormPill() {
     }, [countriesData, language]);
 
     // Create a promise function that returns the transformed countries
-    // Use the same pattern as ToursPageClient - transform synchronously when data is available
+    // This matches the pattern used in TourFiltersPanel: async () => countries
+    // The promise will be called by SearchDropdown when it opens
     const getCountriesPromise = useMemo(() => {
         return async (): Promise<CountryFilter[]> => {
-            return transformedCountries;
+            // If transformed countries are already available, return them immediately
+            if (transformedCountries.length > 0) {
+                return transformedCountries;
+            }
+            
+            // If countriesData is available but not yet transformed, transform it now
+            if (countriesData && countriesData.length > 0) {
+                return countriesData.map(country =>
+                    transformCountryForFilter(country, language)
+                );
+            }
+            
+            // If data is still loading, return empty array
+            // SearchDropdown will show loading state via isLoading prop
+            return [];
         };
-    }, [transformedCountries]);
+    }, [transformedCountries, countriesData, language]);
 
     const handleCountrySelect = (country: CountryFilter) => {
         console.log('Selected country:', country);
