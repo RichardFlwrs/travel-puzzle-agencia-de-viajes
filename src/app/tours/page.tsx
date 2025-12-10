@@ -3,6 +3,20 @@ import { fetchTours, fetchCountries, fetchToursMetadata } from '@/actions/tours'
 import { getPreferredLanguage } from '@/lib/utils/cookies';
 import type { TourFilters } from '@/lib/db/repositories/tour-repository';
 import type { PaginationParams } from '@/lib/db/pagination';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: "Tours",
+  description: "Discover amazing tours from trusted providers worldwide. Browse our collection of tours and book your next adventure.",
+  alternates: {
+    canonical: "/tours",
+  },
+  openGraph: {
+    title: "Tours | Travel Puzzle",
+    description: "Discover amazing tours from trusted providers worldwide. Browse our collection of tours and book your next adventure.",
+    url: "https://www.travelpuzzle.com.mx/tours",
+  },
+};
 
 interface ToursPageProps {
   searchParams: Promise<{

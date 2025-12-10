@@ -7,6 +7,16 @@ import {
   RewardsBanner
 } from "@/components/home";
 import { QuickSignUp } from "@/components/auth";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    url: "https://www.travelpuzzle.com.mx",
+  },
+};
 
 export default function Home() {
   return (
