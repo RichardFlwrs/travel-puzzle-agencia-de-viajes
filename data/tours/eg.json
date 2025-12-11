@@ -1,7 +1,7 @@
 [
   {
     "id": 3842,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Sightseeing Tour",
       "es": "Recorrido turístico por El Cairo",
@@ -109,7 +109,7 @@
   },
   {
     "id": 6220,
-    "updatedAt": "2025-12-01 01:03:06",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramids & Sakkara Memphis Day Tour",
       "es": "Excursión de un día a las Pirámides de Guiza y Menfis de Sakkara",
@@ -228,7 +228,7 @@
   },
   {
     "id": 6509,
-    "updatedAt": "2025-12-01 01:03:14",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to the Giza Pyramids, Memphis, and Sakkara",
       "es": "Excursión de un día a las pirámides de Guiza, Menfis y Sakkara",
@@ -314,7 +314,7 @@
   },
   {
     "id": 7083,
-    "updatedAt": "2025-12-01 01:03:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramids Spinx Egyptian Museum Day Tour",
       "es": "Pirámides de Giza Spinx Museo Egipcio Tour de un día",
@@ -438,7 +438,7 @@
   },
   {
     "id": 7084,
-    "updatedAt": "2025-12-01 01:03:33",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sakkara, Memphis and Dahdhur Day Tour from Cairo or Giza Hotels",
       "es": "Excursión de un día a Sakkara, Menfis y Dahdhur desde El Cairo o Giza Hoteles",
@@ -547,11 +547,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 1
+    "reviewsNumber": 2
   },
   {
     "id": 7085,
-    "updatedAt": "2025-12-01 01:03:33",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alexandria Day Tour from Cairo",
       "es": "Excursión de un día a Alejandría desde El Cairo",
@@ -662,7 +662,7 @@
   },
   {
     "id": 7086,
-    "updatedAt": "2025-12-01 01:03:33",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dinner Cruise on Nile River from Cairo or Giza Hotels",
       "es": "Cena en crucero por el Nilo desde los hoteles de El Cairo o Giza",
@@ -772,7 +772,7 @@
   },
   {
     "id": 7087,
-    "updatedAt": "2025-12-01 01:03:33",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Night Tour to Sound and Light Show at Giza Pyramids",
       "es": "Excursión nocturna al espectáculo de luz y sonido de las pirámides de Guiza",
@@ -882,7 +882,7 @@
   },
   {
     "id": 9904,
-    "updatedAt": "2025-12-01 01:03:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "East Luxor - Karnak and Luxor Temple Tour",
       "es": "Luxor Este - Visita a los templos de Karnak y Luxor",
@@ -1000,7 +1000,7 @@
   },
   {
     "id": 9906,
-    "updatedAt": "2025-12-01 01:03:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "West Luxor - Hatsheput Temple and Valley of the King Tour",
       "es": "Luxor Oeste - Templo de Hatsheput y Valle del Rey",
@@ -1131,7 +1131,7 @@
   },
   {
     "id": 9907,
-    "updatedAt": "2025-12-01 01:03:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day use to Red sea ain EL Sokhna Beach from Cairo/Giza hotel",
       "es": "Excursión de un día a la playa de EL Sokhna, en el Mar Rojo, desde el hotel de El Cairo/Giza",
@@ -1258,7 +1258,7 @@
   },
   {
     "id": 11215,
-    "updatedAt": "2025-12-01 01:04:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Tour to Giza Pyramids Egyptian Museum With Expert Tour Guide",
       "es": "Excursión de día completo a las pirámides de Giza Museo Egipcio con guía experto",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 11216,
-    "updatedAt": "2025-12-01 01:04:02",
+    "updatedAt": "2025-12-11 14:35:27",
     "title": {
       "en": "Full Day Tour to Giza Pyramids Sakkara Memphis With Expert Tour Guide",
       "es": "Excursión de día completo a las pirámides de Giza Sakkara Memphis con guía experto",
@@ -1510,12 +1510,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
+    "rating": 2.93,
     "reviewsNumber": 2
   },
   {
     "id": 11217,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Dinner Nile Cruise",
       "es": "El Cairo Cena Crucero por el Nilo",
@@ -1612,7 +1612,7 @@
   },
   {
     "id": 11218,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "East Day Tour to Luxor Karnak and Luxor Temple",
       "es": "Excursión de un día a Luxor Karnak y el Templo de Luxor",
@@ -1723,7 +1723,7 @@
   },
   {
     "id": 11220,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "West Bank of Luxor Hatsheput Temple Valley of the King Tour",
       "es": "Cisjordania de Luxor Templo de Hatsheput Excursión al Valle del Rey",
@@ -1831,7 +1831,7 @@
   },
   {
     "id": 12019,
-    "updatedAt": "2025-12-01 01:04:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Half Day Tour around Giza Pyramids and Sphinx",
       "es": "Excursión de medio día por las pirámides de Guiza y la Esfinge",
@@ -1943,7 +1943,7 @@
   },
   {
     "id": 12031,
-    "updatedAt": "2025-12-01 01:04:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Bike around Giza Pyramids Gate during Sunrise/Sunset Experience",
       "es": "Quad alrededor de la Puerta de las Pirámides de Giza durante la experiencia del amanecer/atardecer",
@@ -2054,7 +2054,7 @@
   },
   {
     "id": 12033,
-    "updatedAt": "2025-12-01 01:04:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Shopping Tour in Cairo with Private Tour Guide",
       "es": "Tour de compras en El Cairo con guía privado",
@@ -2146,7 +2146,7 @@
   },
   {
     "id": 12034,
-    "updatedAt": "2025-12-01 01:04:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Food Tour in Cairo",
       "es": "Gastronomía en El Cairo",
@@ -2240,7 +2240,7 @@
   },
   {
     "id": 14024,
-    "updatedAt": "2025-12-01 01:04:12",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Greek Roman Alexandria Day Tour from Cairo",
       "es": "Excursión de un día a la Alejandría greco-romana desde El Cairo",
@@ -2359,7 +2359,7 @@
   },
   {
     "id": 14025,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Tour to the Cairo City Egyptian Museum, the Old Cairo",
       "es": "Excursión privada de un día al Museo Egipcio de El Cairo, el Viejo Cairo",
@@ -2480,7 +2480,7 @@
   },
   {
     "id": 14026,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Giza Pyramids and Museum",
       "es": "Excursión de un Día a las Pirámides de Giza y al Museo Egipcio",
@@ -2585,7 +2585,7 @@
   },
   {
     "id": 14027,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pyramids of Giza, Sakkara & Memphis, the Old City",
       "es": "Pirámides de Guiza, Sakkara y Menfis, Ciudad Vieja",
@@ -2690,7 +2690,7 @@
   },
   {
     "id": 14028,
-    "updatedAt": "2025-12-01 01:04:12",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Nile Dinner Cruise",
       "es": "Crucero con Cena por Nilo",
@@ -2771,7 +2771,7 @@
   },
   {
     "id": 14029,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Egyptian Museum, Coptic & Islamic Cairo",
       "es": "Museo Egipcio, Copto e Islámico de El Cairo",
@@ -2884,7 +2884,7 @@
   },
   {
     "id": 14034,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion to the West of Luxor",
       "es": "Excursión al oeste de Luxor",
@@ -2977,7 +2977,7 @@
   },
   {
     "id": 14037,
-    "updatedAt": "2025-12-01 01:04:12",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor East and West Banks Day Tour",
       "es": "Excursión de un día a las orillas este y oeste de Luxor",
@@ -3106,7 +3106,7 @@
   },
   {
     "id": 14410,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramids & Nile Dinner Cruise from Giza",
       "es": "Pirámides de Guiza y cena en crucero por el Nilo desde Guiza",
@@ -3202,7 +3202,7 @@
   },
   {
     "id": 14413,
-    "updatedAt": "2025-12-01 01:04:14",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramids Sphinx and Nile Felucca Ride from Cairo",
       "es": "Pirámides de Giza Esfinge y Paseo en Felucca por Nilo desde El Cairo",
@@ -3302,7 +3302,7 @@
   },
   {
     "id": 14415,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ten Hours Private Layover Tour in Giza Pyramids & Egyptian Museum",
       "es": "Diez horas de Tour Privado en Giza Pirámides y Museo Egipcio",
@@ -3423,7 +3423,7 @@
   },
   {
     "id": 14416,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "10-Hours Greek Roman Alexandria Day Tour from Cairo Giza Hotels",
       "es": "10-Hours Greek Roman Alexandria Day Tour from Cairo Giza Hotels",
@@ -3526,7 +3526,7 @@
   },
   {
     "id": 14418,
-    "updatedAt": "2025-12-01 01:04:14",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Dinner Cruise on the Nile River",
       "es": "Crucero con Cena por el Nilo en El Cairo",
@@ -3615,7 +3615,7 @@
   },
   {
     "id": 14425,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Two Days East and West Banks Tour in Luxor",
       "es": "Excursión de dos días a las orillas este y oeste de Luxor",
@@ -3736,7 +3736,7 @@
   },
   {
     "id": 14427,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "4-Hour Tour of the Valley of the Kings & Queen Hatshepsut Temple",
       "es": "visita de 4 horas al Valle de los Reyes y Templo de la Reina Hatshepsut",
@@ -3830,7 +3830,7 @@
   },
   {
     "id": 14428,
-    "updatedAt": "2025-12-01 01:04:15",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "4 Hour Private Half-Day Tour Giza Pyramids & the Sphinx",
       "es": "excursión privada de medio día de 4 horas a las Pirámides de Guiza y la Esfinge",
@@ -3945,7 +3945,7 @@
   },
   {
     "id": 14429,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "4 Hours Half-Day Tour to the East Bank in Luxor",
       "es": "excursión de medio día de 4 horas a la Ribera Oriental de Luxor",
@@ -4040,7 +4040,7 @@
   },
   {
     "id": 14430,
-    "updatedAt": "2025-12-01 01:04:15",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "8-Hours Giza Complex Pyramids, Sphinx & Egyptian Museum Tour",
       "es": "excursión de 8 horas al complejo de pirámides de Guiza, la Esfinge y el Museo Egipcio",
@@ -4151,7 +4151,7 @@
   },
   {
     "id": 16529,
-    "updatedAt": "2025-12-01 01:04:24",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tutankhamun Treasures Tour to The Egyptian Museum",
       "es": "Tesoros de Tutankamón: visita al Museo Egipcio",
@@ -4282,7 +4282,7 @@
   },
   {
     "id": 17058,
-    "updatedAt": "2025-12-01 01:04:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Giza Pyramids and Memphis and Sakkara",
       "es": "Excursión a las pirámides de Guiza, Menfis y Sakkara",
@@ -4401,7 +4401,7 @@
   },
   {
     "id": 18422,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Giza Pyramids and The Sphinx Free Tour",
       "es": "Pirámides de Guiza y Esfinge: visita gratuita",
@@ -4644,7 +4644,7 @@
   },
   {
     "id": 18620,
-    "updatedAt": "2025-12-01 01:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Giza Pyramids and the Egyptian Museum",
       "es": "Excursión de un Día a las Pirámides de Giza y al Museo Egipcio",
@@ -4790,7 +4790,7 @@
   },
   {
     "id": 21242,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day-Trip to Giza Pyramids, Grand Egyptian Museum ",
       "es": "Excursión privada de un día a las pirámides de Giza y al Gran Museo Egipcio ",
@@ -4930,7 +4930,7 @@
   },
   {
     "id": 21247,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Alexandria Top Attractions",
       "es": "Tour a las Principales Atracciones de Alejandría",
@@ -5046,7 +5046,7 @@
   },
   {
     "id": 21391,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour to Wadi El Natron Monastery from Alexandria",
       "es": "Excursión de un Día al Monasterio de Wadi El Natron desde Alejandría",
@@ -5138,7 +5138,7 @@
   },
   {
     "id": 21392,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amazing Sound & Light Show at the Pyramids of Giza",
       "es": "Increíble Espectáculo de Luz y Sonido en las Pirámides de Giza",
@@ -5246,7 +5246,7 @@
   },
   {
     "id": 21863,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Catacombs of Kom El Shoqafa & Montazah Palace Private Tour",
       "es": "Catacumbas de Kom El Shoqafa y Palacio de Montazah - Visita privada",
@@ -5348,7 +5348,7 @@
   },
   {
     "id": 28821,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ain El Sokhna Day Trip: Experience from Cairo with Lunch Included",
       "es": "Excursión de un día a Ain El Sokhna: Experiencia desde El Cairo con almuerzo incluido",
@@ -5445,7 +5445,7 @@
   },
   {
     "id": 28823,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Egyptian Museum, Citadel, and Khan al-Khalil Bazaar with Lunch",
       "es": "Museo Egipcio, Ciudadela y Bazar de Khan al-Jalil con almuerzo",
@@ -5554,7 +5554,7 @@
   },
   {
     "id": 28824,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Egyptian Museum and Khan el Khalili Bazar Tour",
       "es": "Visita privada al Museo Egipcio y al Bazar de Khan el Khalili",
@@ -5655,7 +5655,7 @@
   },
   {
     "id": 28825,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Guided Shopping Tour in Khan el-Khalili with Lunch",
       "es": "Visita guiada privada de compras en Khan el-Khalili con almuerzo",
@@ -5773,7 +5773,7 @@
   },
   {
     "id": 28826,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pyramids of Giza Sound & Light Show from Cairo",
       "es": "Espectáculo de luz y sonido de las Pirámides de Guiza desde El Cairo",
@@ -5872,7 +5872,7 @@
   },
   {
     "id": 28827,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "60-Minutes Private Quad Bike Desert Around Sahara Giza Pyramids",
       "es": "60-Minutos Privado Quad Bike Desierto Alrededor del Sahara Giza Pirámides",
@@ -5948,7 +5948,7 @@
   },
   {
     "id": 28828,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour in Cave Church, St Simon Monastery & Garbage City",
       "es": "Excursión privada por la Iglesia de las Cuevas, el Monasterio de San Simón y la Ciudad de la Basura",
@@ -6049,7 +6049,7 @@
   },
   {
     "id": 28829,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full-Day Tour of Dahshur, Memphis, & Saqqara",
       "es": "Excursión de un día a Dahshur, Menfis y Saqqara",
@@ -6157,7 +6157,7 @@
   },
   {
     "id": 28830,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "4 Hours Private Tour to Coptic Cairo & Islamic Cairo",
       "es": "excursión privada de 4 horas a El Cairo copto y El Cairo islámico",
@@ -6249,7 +6249,7 @@
   },
   {
     "id": 28831,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Sightseeing: Egyptian Museum, Citadel Mosque, Coptic Church",
       "es": "Turismo en El Cairo: Museo Egipcio, Mezquita de la Ciudadela, Iglesia Copta",
@@ -6379,7 +6379,7 @@
   },
   {
     "id": 28832,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "12-Hour Private Layover Tour Giza Pyramids Sphinx Egyptian Museum",
       "es": "12-Hour Private Layover Tour Pirámides de Giza Esfinge Museo Egipcio",
@@ -6491,7 +6491,7 @@
   },
   {
     "id": 28833,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Free Time to Shop at Governmental Bazaars with Guide's Advisor",
       "es": "Tiempo libre para comprar en los bazares gubernamentales con el asesor de guías",
@@ -6590,7 +6590,7 @@
   },
   {
     "id": 31248,
-    "updatedAt": "2025-12-01 01:06:16",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour to Giza Pyramids & Grand Egyptian Museum ",
       "es": "Excursión de un día a las pirámides de Guiza y al Gran Museo Egipcio ",
@@ -6713,7 +6713,7 @@
   },
   {
     "id": 31281,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour to East and West Banks in Luxor",
       "es": "Tour de un día a las orillas del este y oeste en Luxor",
@@ -6830,7 +6830,7 @@
   },
   {
     "id": 31298,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour of West Bank, Valley of the Kings & Hatshepsut Temple, Memnon",
       "es": "Cisjordania, Valle de los Reyes y templo de Hatshepsut, Memnon",
@@ -6942,7 +6942,7 @@
   },
   {
     "id": 31300,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Top Luxor Day Tour of the East Bank in Luxor, Karnak & Luxor Temples",
       "es": "Tour de la orilla este en los templos de Luxor, Karnak y Luxor",
@@ -7045,7 +7045,7 @@
   },
   {
     "id": 31301,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sound & Light Show at Karnak Temple From Luxor",
       "es": "Espectáculo de Luz y Sonido en el Templo de Karnak desde Luxor",
@@ -7136,7 +7136,7 @@
   },
   {
     "id": 31303,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour To Aswan From Luxor",
       "es": "Tour de un día a Asuán desde Luxor",
@@ -7235,7 +7235,7 @@
   },
   {
     "id": 31310,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full-Day Guided Tour to Abu Simbel Temples from Aswan",
       "es": "Tour guiado de Día Completo a los Templos de Abu Simbel desde Asuán",
@@ -7323,7 +7323,7 @@
   },
   {
     "id": 31312,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Philae Temple, High Dam and Obelisk Private Tour",
       "es": "Tour Privado del Templo de Filae, la Presa Alta y el Obelisco",
@@ -7419,7 +7419,7 @@
   },
   {
     "id": 31314,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sound & Light Show at Philae Temple From Aswan",
       "es": "Espectáculo de luz y sonido en el templo de Philae desde Asuán",
@@ -7508,7 +7508,7 @@
   },
   {
     "id": 31317,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Guided Tour to Philae Temple and Nubian Village From Aswan",
       "es": "Visita Guiada Privada al Templo de Philae y Alpueblo Nubio desde Asuán",
@@ -7599,7 +7599,7 @@
   },
   {
     "id": 31318,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day tour to Kom Ombo and Edfu Temples From Aswan",
       "es": "Tour privado de un día a los templos de Kom Ombo y Edfu desde Asuán",
@@ -7693,7 +7693,7 @@
   },
   {
     "id": 31349,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour National Museum & Roman Theater & Catacomb In Alexandria",
       "es": "Tour Museo Nacional, Teatro Romano y Catacumba en Alejandría",
@@ -7803,7 +7803,7 @@
   },
   {
     "id": 31350,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Giza Pyramids and the Egyptian Museum from Alexandria by Car",
       "es": "Las pirámides de Giza y el Museo Egipcio desde Alejandría en Coche",
@@ -7926,7 +7926,7 @@
   },
   {
     "id": 31351,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to The Qaitbay Citadel in Alexandria",
       "es": "Tour a la Ciudadela de Qaitbay en Alejandría",
@@ -8024,7 +8024,7 @@
   },
   {
     "id": 35977,
-    "updatedAt": "2025-12-01 01:07:00",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Best Egypt Holiday - 3 Days Cairo Tour Package",
       "es": "Las Mejores Vacaciones en Egipto - 3 Días en Cairo",
@@ -8268,7 +8268,7 @@
   },
   {
     "id": 38988,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Orange Bay Island",
       "es": "Isla de Orange Bay",
@@ -8361,7 +8361,7 @@
   },
   {
     "id": 38995,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Super Safari in Hurghada",
       "es": "Super Safari en Hurghada",
@@ -8451,7 +8451,7 @@
   },
   {
     "id": 38996,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hurghada Quad Biking",
       "es": "Hurghada Quads",
@@ -8534,7 +8534,7 @@
   },
   {
     "id": 38997,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor Day By bus from Hurghada",
       "es": "Luxor Día En autobús desde Hurghada",
@@ -8623,7 +8623,7 @@
   },
   {
     "id": 38998,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Semi Submarine Underwater Tour",
       "es": "Excursión submarina en semi-submarino",
@@ -8706,7 +8706,7 @@
   },
   {
     "id": 38999,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Catamaran Sailing Tour",
       "es": "Excursión en catamarán",
@@ -8791,7 +8791,7 @@
   },
   {
     "id": 39000,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Horse & Camel Riding",
       "es": "Paseos a caballo y en camello",
@@ -8870,7 +8870,7 @@
   },
   {
     "id": 39001,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dolphin World in Hurghada",
       "es": "Mundo de los delfines en Hurghada",
@@ -8956,7 +8956,7 @@
   },
   {
     "id": 39468,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Trip to Alexandria From Cairo",
       "es": "Excursión privada de un día a Alejandría desde El Cairo",
@@ -9062,7 +9062,7 @@
   },
   {
     "id": 39469,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Trip to Egyptian Museum Citadel & Khan Khalili Bazaar",
       "es": "Excursión privada de un día a la Ciudadela Museo Egipcio y al Bazar Khan Khalili",
@@ -9172,7 +9172,7 @@
   },
   {
     "id": 39487,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discovering The Giza Pyramids on ATV",
       "es": "Descubrir las pirámides de Guiza en quad",
@@ -9255,7 +9255,7 @@
   },
   {
     "id": 39490,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Half-Day Trip To The National Museum Of Egyptian Civilization",
       "es": "Excursión de medio día al Museo Nacional de la Civilización Egipcia",
@@ -9334,7 +9334,7 @@
   },
   {
     "id": 39491,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Trip To Abu Simbel From Aswan",
       "es": "Excursión privada de un día a Abu Simbel desde Asuán",
@@ -9417,7 +9417,7 @@
   },
   {
     "id": 39492,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip In Aswan Philae Temple-Unfinished Obelisk & High Dam",
       "es": "Excursión de un día en Asuán Templo de Philae-Obelisco inacabado y Presa Alta",
@@ -9512,7 +9512,7 @@
   },
   {
     "id": 39517,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor Day Trip Visit East & West Nile Banks",
       "es": "Excursión de un día a Luxor para visitar las orillas oriental y occidental del Nilo",
@@ -9614,7 +9614,7 @@
   },
   {
     "id": 39546,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dendara & Abydos Temples Private Day Trip From Luxor",
       "es": "Excursión privada de un día a los templos de Dendara y Abidos desde Luxor",
@@ -9708,7 +9708,7 @@
   },
   {
     "id": 39548,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hot Air Balloon Ride In Luxor",
       "es": "Viaje en globo aerostático en Luxor",
@@ -9790,7 +9790,7 @@
   },
   {
     "id": 39550,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sound & Light Show At Karnak Temple In Luxor",
       "es": "Espectáculo de luz y sonido en el templo de Karnak de Luxor",
@@ -9873,7 +9873,7 @@
   },
   {
     "id": 40801,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Memphis, Saqqara & the Pyramid Tour",
       "es": "Visita a Menfis, Saqqara y las pirámides",
@@ -9967,7 +9967,7 @@
   },
   {
     "id": 41422,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Eat Like an Egyptian with a Local Guide",
       "es": "Comer como un egipcio con un guía local",
@@ -10120,7 +10120,7 @@
   },
   {
     "id": 41766,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discovering The Secrets of Garbage City and the Cave Church",
       "es": "Descubrir los secretos de Ciudad Basura y la Iglesia Rupestre",
@@ -10242,7 +10242,7 @@
   },
   {
     "id": 41808,
-    "updatedAt": "2025-12-01 01:07:41",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Grand Egyptian Museum",
       "es": "Gran Museo Egipcio",
@@ -10346,7 +10346,7 @@
   },
   {
     "id": 43889,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip To Aswan From Luxor",
       "es": "Excursión de un día a Asuán desde Luxor",
@@ -10431,7 +10431,7 @@
   },
   {
     "id": 43890,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip - Visit Edfu Kom Ombo Temples From Luxor",
       "es": "Excursión de un día - Visita a los templos de Edfu Kom Ombo desde Luxor",
@@ -10516,7 +10516,7 @@
   },
   {
     "id": 43892,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor Day Trip - Visit Dendera & Abydos Temples",
       "es": "Excursión de un día a Luxor - Visita a los templos de Dendera y Abydos",
@@ -10588,7 +10588,7 @@
   },
   {
     "id": 43894,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor Day Trip to East Bank - Visit Karnak & Luxor Temples",
       "es": "Excursión de un día a la orilla este de Luxor - Visita a los templos de Karnak y Luxor",
@@ -10666,7 +10666,7 @@
   },
   {
     "id": 43896,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Half-Day Trip - Visit Luxor & Mummification Museums",
       "es": "Excursión privada de medio día - Visita a Luxor y los Museos de Momificación",
@@ -10755,7 +10755,7 @@
   },
   {
     "id": 43897,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Luxor Trip - Visit Habu Temple Valley of Workers & Queens",
       "es": "Excursión Privada a Luxor - Visita al Templo de Habu Valle de los Trabajadores y las Reinas",
@@ -10839,7 +10839,7 @@
   },
   {
     "id": 43898,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Luxor Half-Day Trip - Visit Dendera Temple",
       "es": "Excursión privada de medio día a Luxor - Visita al templo de Dendera",
@@ -10923,7 +10923,7 @@
   },
   {
     "id": 43901,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Trip by Horse Carriage in Luxor",
       "es": "Excursión privada en coche de caballos en Luxor",
@@ -11001,7 +11001,7 @@
   },
   {
     "id": 43904,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Sound & Light Trip Show At Karnak Temple In Luxor",
       "es": "Espectáculo privado de luz y sonido en el templo de Karnak en Luxor",
@@ -11079,7 +11079,7 @@
   },
   {
     "id": 43906,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Trip to Nubian Museum & Temple of Isis in Aswan",
       "es": "Excursión privada de un día al Museo Nubio y Templo de Isis en Asuán",
@@ -11169,7 +11169,7 @@
   },
   {
     "id": 43907,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Tour From Aswan to Kom Ombo & Edfu Temples",
       "es": "Excursión privada de un día desde Asuán a los templos de Kom Ombo y Edfu",
@@ -11260,7 +11260,7 @@
   },
   {
     "id": 44576,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Moto Cross in Hurghada",
       "es": "Moto Cross en Hurghada",
@@ -11365,7 +11365,7 @@
   },
   {
     "id": 44579,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jeep Safari & BBQ in the old Bedouin Village",
       "es": "Safari en jeep y barbacoa en la antigua aldea beduina",
@@ -11578,7 +11578,7 @@
   },
   {
     "id": 44592,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hot Air Balloon Luxor",
       "es": "Vuelo en Globo Aerostático sobre Luxor",
@@ -11667,7 +11667,7 @@
   },
   {
     "id": 44594,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Star Watching Tour",
       "es": "Observación de estrellas",
@@ -11776,7 +11776,7 @@
   },
   {
     "id": 44776,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bianca Island Full Day Cruise",
       "es": "Crucero de un día por la Isla Bianca",
@@ -11912,7 +11912,7 @@
   },
   {
     "id": 45945,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fayoum Desert 4x4 Safari & SandSurf in Cairo",
       "es": "Safari en 4x4 por el desierto de Fayoum y SandSurf en El Cairo",
@@ -12011,7 +12011,7 @@
   },
   {
     "id": 47898,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hot Air Balloon Rides Over Luxor",
       "es": "Vuelos en globo sobre Luxor",
@@ -12048,7 +12048,7 @@
       "it": "https://www.freetour.com/it/luxor/hot-air-balloon-rides-over-luxor?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 50,
+      "value": 55,
       "currency": "EUR"
     },
     "length": "3:00",
@@ -12115,7 +12115,7 @@
   },
   {
     "id": 48929,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Karnak and Luxor Temple",
       "es": "Explora los Templos de Karnak y Luxor",
@@ -12152,7 +12152,7 @@
       "it": "https://www.freetour.com/it/luxor/explore-karnak-luxor-temple?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 20,
+      "value": 25,
       "currency": "EUR"
     },
     "length": "3:00",
@@ -12207,7 +12207,7 @@
   },
   {
     "id": 49465,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "River Nile Private Sunset Felucca Sailing Trip",
       "es": "Excursión privada en Felucca por el Nilo al atardecer",
@@ -12306,7 +12306,7 @@
   },
   {
     "id": 49635,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Downtown Cairo, Tahrir Square, Crossing between Cairo and Giza ",
       "es": "El Centro del Cairo, plaza tahrir, Cruzamos entre Cairo y Giza ",
@@ -12407,7 +12407,7 @@
   },
   {
     "id": 49793,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Pyramids of Giza and the Cairo Citadel",
       "es": "Las Pirámides de Giza y la Ciudadela del Cairo",
@@ -12525,7 +12525,7 @@
   },
   {
     "id": 49796,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Islamic Cairo: Khan El Khalili &amp; Al-Azhar Mosque",
       "es": "El Cairo Islámico: Khan el Khalili & Mezquita de Al-Azhar",
@@ -12649,7 +12649,7 @@
   },
   {
     "id": 50802,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour with Moataz in Egypt",
       "es": "Viaje con Moataz a Egipto",
@@ -12762,7 +12762,7 @@
   },
   {
     "id": 50803,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hurghada: Turkish Bath & Full Body Massage with Transport",
       "es": "Hurghada: Baño turco y masaje corporal completo con transporte",
@@ -12881,7 +12881,7 @@
   },
   {
     "id": 51417,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Dinner Cruise & Oriental Show",
       "es": "El Cairo Cena en Crucero y Espectáculo Oriental",
@@ -12971,7 +12971,7 @@
   },
   {
     "id": 51450,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Luxor from Hurghada by Bus with Lunch",
       "es": "Excursión de un día a Luxor desde Hurghada en autobús con almuerzo",
@@ -13095,7 +13095,7 @@
   },
   {
     "id": 51543,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Sunset Adventure: Private Quad Safari",
       "es": "Aventura al atardecer en Giza: Safari privado en quad",
@@ -13193,7 +13193,7 @@
   },
   {
     "id": 51893,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Around Cairo & Giza",
       "es": "Recorrido por El Cairo y Giza",
@@ -13268,7 +13268,7 @@
   },
   {
     "id": 52059,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Visit to Cairo by Night Tour",
       "es": "Visita nocturna a El Cairo",
@@ -13383,7 +13383,7 @@
   },
   {
     "id": 52108,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Complete Cairo Tour with Tickets & Lunch",
       "es": "Visita completa de El Cairo con entradas y almuerzo",
@@ -13504,7 +13504,7 @@
   },
   {
     "id": 52140,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramid Quad Tour",
       "es": "Excursión en quad por las pirámides de Guiza",
@@ -13611,7 +13611,7 @@
   },
   {
     "id": 52221,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Diving & Camping Around Egypt",
       "es": "Bucear y acampar en Egipto",
@@ -13743,7 +13743,7 @@
   },
   {
     "id": 53007,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramids & Sphinx with Photoshoot ",
       "es": "Pirámides de Guiza y Esfinge con sesión de fotos ",
@@ -13856,7 +13856,7 @@
   },
   {
     "id": 53155,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sky-High Adventure: Parasailing Excursion with Transportation",
       "es": "Aventura en las alturas: Excursión en parapente con transporte",
@@ -13962,7 +13962,7 @@
   },
   {
     "id": 53302,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip Around Giza",
       "es": "Excursión de un día por Giza",
@@ -14041,7 +14041,7 @@
   },
   {
     "id": 53341,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Half-Day Tour of the Great Pyramids of Giza, Sphinx & Saqqara",
       "es": "Excursión de medio día a las Grandes Pirámides de Giza, la Esfinge y Saqqara",
@@ -14130,7 +14130,7 @@
   },
   {
     "id": 53683,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor Full-Day Tour Valley of the Kings with Lunch from Hurghada",
       "es": "Excursión de un día a Luxor Valle de los Reyes con almuerzo desde Hurghada",
@@ -14256,7 +14256,7 @@
   },
   {
     "id": 53686,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ViP Full Package Cleopatra Hammam & Full Body Massage in Hurghada",
       "es": "ViP Paquete Completo Hammam Cleopatra y Masaje Corporal Completo en Hurghada",
@@ -14359,7 +14359,7 @@
   },
   {
     "id": 54102,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Snorkeling Excursion with Lunch & Transfers in Hurghada Paradise",
       "es": "Excursión de snorkel con almuerzo y traslados en Hurghada Paradise",
@@ -14473,7 +14473,7 @@
   },
   {
     "id": 54631,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramids, Memphis & Sakkara Day Tour",
       "es": "Excursión de un día a las Pirámides de Guiza, Menfis y Sakkara",
@@ -14580,7 +14580,7 @@
   },
   {
     "id": 55552,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dolphin Trip in Hurghada",
       "es": "Excursión con delfines en Hurghada",
@@ -14661,7 +14661,7 @@
   },
   {
     "id": 55646,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amazing Luxor Hot Air Balloon Trip",
       "es": "Viaje en globo por Luxor",
@@ -14831,7 +14831,7 @@
   },
   {
     "id": 55969,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Guided Luxor Full Day Tour & Balloon",
       "es": "Excursión guiada privada de un día por Luxor y en globo",
@@ -15121,7 +15121,7 @@
   },
   {
     "id": 56428,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Temple of Philae & Aswan Dam",
       "es": "Templo de Filae y presa de Asuán",
@@ -15205,7 +15205,7 @@
   },
   {
     "id": 56668,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Pyramids of Giza and the Sphinx",
       "es": "Las Pirámides de Giza y la Esfinge",
@@ -15292,7 +15292,7 @@
   },
   {
     "id": 56985,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Desert Space Observers - Stargazing",
       "es": "Desert Space Observers - Observación de las estrellas",
@@ -15377,7 +15377,7 @@
   },
   {
     "id": 57109,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Tour Guide Experience",
       "es": "Experiencia como guía turístico en El Cairo",
@@ -15482,7 +15482,7 @@
   },
   {
     "id": 57446,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pyramids, Saqqara, Memphis and Dahshur Private Tour of Giza",
       "es": "Pirámides, Saqqara, Menfis y Dahshur Tour privado de Giza",
@@ -15641,7 +15641,7 @@
   },
   {
     "id": 57447,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo City Private Tour with Private Guide & Modern Car with Driver",
       "es": "El Cairo City Tour Privado con Guía Privado y Coche Moderno con Conductor",
@@ -15762,7 +15762,7 @@
   },
   {
     "id": 57450,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giza Pyramids and the Egyptian Museum in Cairo Private Tour",
       "es": "Las Pirámides de Guiza y el Museo Egipcio en El Cairo - Visita privada",
@@ -15911,7 +15911,7 @@
   },
   {
     "id": 57938,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour to West Bank",
       "es": "Visita privada a Cisjordania",
@@ -16014,7 +16014,7 @@
   },
   {
     "id": 58095,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Cairo Food Journey",
       "es": "Viaje gastronómico a El Cairo",
@@ -16168,7 +16168,7 @@
   },
   {
     "id": 58096,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo and The Great Pyramids Day Trip from Hurghada",
       "es": "Excursión de un día a El Cairo y las Grandes Pirámides desde Hurghada",
@@ -16279,7 +16279,7 @@
   },
   {
     "id": 58132,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Tour to the West Bank and East Bank",
       "es": "Excursión de día completo a Cisjordania y la Ribera Oriental",
@@ -16387,7 +16387,7 @@
   },
   {
     "id": 59148,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alexandria: Between History & Local Culture",
       "es": "Alejandría: Entre la Historia y la Cultura Local",
@@ -16498,7 +16498,7 @@
   },
   {
     "id": 59744,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip from Aswan to Abu Simbel by Car",
       "es": "Excursión de un día en coche de Asuán a Abu Simbel",
@@ -16601,7 +16601,7 @@
   },
   {
     "id": 59825,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor to Asuan: Nile River Cruise",
       "es": "De Luxor a Asuan: Crucero por el Nilo",
@@ -16720,7 +16720,7 @@
   },
   {
     "id": 60172,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full-Day Egypt: Pyramids & Museum",
       "es": "Día completo Egipto: Pirámides y Museo",
@@ -16826,7 +16826,7 @@
   },
   {
     "id": 60173,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Luxury Tour: Giza & Memphis",
       "es": "Excursión privada de lujo: Giza y Menfis",
@@ -16938,7 +16938,7 @@
   },
   {
     "id": 60339,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Alexandria Secrets Free Walking Tour",
       "es": "Free Tour a pie por los Secretos de Alexandria",
@@ -17046,7 +17046,7 @@
   },
   {
     "id": 61709,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hot Air Balloon Adventure in Luxor from Hurghada",
       "es": "Aventura en Globo en Luxor desde Hurghada",
@@ -17174,7 +17174,7 @@
   },
   {
     "id": 61737,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunrise Hot Air Balloon from Luxor",
       "es": "Amanecer en Globo Aerostático desde Luxor",
@@ -17272,7 +17272,7 @@
   },
   {
     "id": 61738,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Swim with Dolphins in the Red Sea",
       "es": "Nade con Delfines en el Mar Rojo",
@@ -17424,7 +17424,7 @@
   },
   {
     "id": 61739,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Orange Bay Paradise from Hurghada",
       "es": "Descubra el paraíso de Orange Bay desde Hurghada",
@@ -17550,7 +17550,7 @@
   },
   {
     "id": 63018,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo and Hidden Gems Exploration Tour",
       "es": "Exploración de El Cairo y sus Joyas Ocultas",
@@ -17714,7 +17714,7 @@
   },
   {
     "id": 63289,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor Full-Day East & West Bank Tour",
       "es": "Excursión de un día a Cisjordania y Este de Luxor",
@@ -17820,7 +17820,7 @@
   },
   {
     "id": 63315,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Secrets Of Luxor with Mo Tour",
       "es": "Secretos de Luxor con Mo Tour",
@@ -17900,7 +17900,7 @@
   },
   {
     "id": 63523,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Al-Muizz Street Free Tour Cairo",
       "es": "Calle Al-Muizz Free Tour El Cairo",
@@ -18074,7 +18074,7 @@
   },
   {
     "id": 63526,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour of the Pyramids of Giza",
       "es": "Excursión de un día a las Pirámides de Guiza",
@@ -18190,7 +18190,7 @@
   },
   {
     "id": 63634,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Bike Adventure by the Pyramids",
       "es": "Aventura en Quad por las Pirámides",
@@ -18302,7 +18302,7 @@
   },
   {
     "id": 63746,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fayoum Oasis Sandboarding & 4WD Desert Adventure",
       "es": "Sandboarding en el Oasis de Fayum y Aventura en 4x4 por el Desierto",
@@ -18421,7 +18421,7 @@
   },
   {
     "id": 63779,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Local Villages & Farmer Life",
       "es": "Pueblos y vida rural",
@@ -18498,7 +18498,7 @@
   },
   {
     "id": 63805,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunset Nile Tour in Luxor",
       "es": "Excursión al atardecer por el Nilo en Luxor",
@@ -18516,12 +18516,12 @@
       "pt": "Descubra a magia do Nilo ao pôr do sol com um tranquilo passeio de felucca! Esta viagem relaxante oferece vistas deslumbrantes e momentos inesquecíveis, perfeitos para todas as idades, casais e românticos. Junte-se a nós e viva a beleza do Nilo!"
     },
     "description": {
-      "de": "Wenn Sie eine Felukenfahrt in Luxor im Voraus buchen, sparen Sie Zeit und Ärger. Bei dieser privaten Fahrt gleiten Sie bei Sonnenuntergang auf dem Nil entlang und haben einen atemberaubenden Blick auf die Hügel des Westjordanlandes. \r\n\r\nLassen Sie sich von Ihrem Reiseleiter über die Sehenswürdigkeiten informieren und halten Sie an der Bananeninsel, um frische Bananen und ägyptischen Tee zu genießen. Ein perfektes Erlebnis für Familien und Paare!",
-      "en": "Booking a felucca sailboat ride in Luxor in advance saves you time and hassle. On this private trip, glide along the Nile at sunset, with stunning views of the West Bank hills. \r\n\r\nLearn about the sights from your guide and stop by Banana Island to enjoy fresh bananas and Egyptian tea. A perfect experience for families and couples!",
-      "es": "Reservar con antelación un paseo en velero feluca en Luxor le ahorrará tiempo y molestias. En esta excursión privada, deslícese por el Nilo al atardecer, con impresionantes vistas de las colinas de Cisjordania. \r\n\r\nConozca los lugares de interés de la mano de su guía y haga una parada en la Isla de los Plátanos para disfrutar de plátanos frescos y té egipcio. Una experiencia perfecta para familias y parejas",
-      "fr": "Réserver à l'avance une promenade en felouque à Louxor vous permet de gagner du temps et de vous épargner des tracas. Lors de cette excursion privée, vous glisserez sur le Nil au coucher du soleil, avec une vue imprenable sur les collines de la rive ouest. \r\n\r\nVotre guide vous expliquera les sites touristiques et vous vous arrêterez sur l'île aux bananes pour déguster des bananes fraîches et du thé égyptien. Une expérience parfaite pour les familles et les couples !",
-      "it": "Prenotare in anticipo una gita in feluca a Luxor permette di risparmiare tempo e fatica. In questa gita privata, scivolate lungo il Nilo al tramonto, con una vista mozzafiato sulle colline della Cisgiordania. \r\n\r\nImparate a conoscere le attrazioni dalla vostra guida e fermatevi all'Isola delle Banane per gustare banane fresche e tè egiziano. Un'esperienza perfetta per famiglie e coppie!",
-      "pt": "Reservar com antecedência um passeio de veleiro felucca em Luxor poupa-lhe tempo e complicações. Nesta viagem privada, deslize ao longo do Nilo ao pôr do sol, com vistas deslumbrantes sobre as colinas da Cisjordânia. \r\n\r\nAprenda sobre os pontos turísticos com o seu guia e pare na Banana Island para desfrutar de bananas frescas e chá egípcio. Uma experiência perfeita para famílias e casais!"
+      "de": "Wenn Sie eine Felukenfahrt in Luxor im Voraus buchen, sparen Sie Zeit und Ärger. Gleiten Sie auf dieser privaten Fahrt bei Sonnenuntergang den Nil entlang und genießen Sie den atemberaubenden Blick auf die Hügel des Westjordanlandes.\r\n\r\nEs gibt nur wenige Erlebnisse in Ägypten, die so bezaubernd sind wie eine Fahrt auf einem Felukenboot auf dem Nil in Luxor. Diese traditionellen Holzsegelboote mit ihren anmutigen weißen Segeln gleiten seit Jahrhunderten über den Fluss und befördern Reisende, Händler und Träumer gleichermaßen. Auch heute noch sind sie eine der authentischsten Möglichkeiten, um die zeitlose Schönheit des Niltals zu erleben.\r\n\r\nFriedliche Flucht Anders als Motorboote verlassen sich Feluken ausschließlich auf den Wind und bieten eine ruhige und umweltfreundliche Reise. Das langsame Tempo erlaubt es Ihnen, sich zu entspannen, tief durchzuatmen und den Rhythmus des Flusses zu genießen. Es ist die perfekte Flucht aus dem hektischen Stadtleben und gibt Ihnen Zeit, nachzudenken, Fotos zu machen oder einfach den Moment zu genießen.",
+      "en": "Booking a felucca sailboat ride in Luxor in advance saves you time and hassle. On this private trip, glide along the Nile at sunset, with stunning views of the West Bank hills.\r\n\r\nThere are few experiences in Egypt as enchanting as sailing on a felucca boat along the Nile in Luxor. These traditional wooden sailboats, with their graceful white sails, have glided across the river for centuries, carrying travelers, merchants, and dreamers alike. Today, they remain one of the most authentic ways to connect with the timeless beauty of the Nile Valley.\r\n\r\nPeaceful Escape Unlike motorboats, feluccas rely solely on the wind, offering a tranquil and eco-friendly journey. The slow pace allows you to relax, breathe deeply, and enjoy the rhythm of the river. It’s the perfect escape from the bustle of city life, giving you time to reflect, take photos, or simply savor the moment.",
+      "es": "Reservar con antelación un paseo en velero feluca en Luxor le ahorrará tiempo y molestias. En este viaje privado, deslícese por el Nilo al atardecer, con impresionantes vistas de las colinas de Cisjordania.\r\n\r\nHay pocas experiencias en Egipto tan encantadoras como navegar en una feluca por el Nilo en Luxor. Estos tradicionales veleros de madera, con sus elegantes velas blancas, se han deslizado por el río durante siglos, transportando a viajeros, mercaderes y soñadores por igual. Hoy en día, siguen siendo una de las formas más auténticas de conectar con la belleza intemporal del valle del Nilo.\r\n\r\nEscapada tranquila A diferencia de las lanchas motoras, las felucas dependen únicamente del viento, por lo que ofrecen un viaje tranquilo y respetuoso con el medio ambiente. El ritmo lento permite relajarse, respirar hondo y disfrutar del ritmo del río. Es la escapada perfecta del bullicio de la vida urbana, que le da tiempo para reflexionar, hacer fotos o simplemente saborear el momento.",
+      "fr": "Réserver à l'avance une promenade en felouque à Louxor vous permet de gagner du temps et de vous épargner des tracas. Lors de cette excursion privée, vous glisserez sur le Nil au coucher du soleil, avec une vue imprenable sur les collines de la Cisjordanie.\r\n\r\nPeu d'expériences en Égypte sont aussi enchanteresses que de naviguer sur une felouque le long du Nil à Louxor. Ces voiliers traditionnels en bois, aux gracieuses voiles blanches, glissent sur le fleuve depuis des siècles, transportant voyageurs, marchands et rêveurs. Aujourd'hui, ils restent l'un des moyens les plus authentiques de s'imprégner de la beauté intemporelle de la vallée du Nil.\r\n\r\nÉvasion paisible Contrairement aux bateaux à moteur, les felouques ne dépendent que du vent, offrant ainsi un voyage tranquille et respectueux de l'environnement. Le rythme lent vous permet de vous détendre, de respirer profondément et d'apprécier le rythme du fleuve. C'est l'échappatoire parfaite à l'agitation de la vie urbaine, qui vous laisse le temps de réfléchir, de prendre des photos ou simplement de savourer l'instant présent.",
+      "it": "Prenotare in anticipo una gita in feluca a Luxor permette di risparmiare tempo e fatica. In questa gita privata, scivolate lungo il Nilo al tramonto, con una vista mozzafiato sulle colline della Cisgiordania.\r\n\r\nCi sono poche esperienze in Egitto così incantevoli come la navigazione su una feluca lungo il Nilo a Luxor. Queste tradizionali barche a vela in legno, con le loro graziose vele bianche, hanno attraversato il fiume per secoli, trasportando viaggiatori, mercanti e sognatori. Oggi rimangono uno dei modi più autentici per entrare in contatto con la bellezza senza tempo della Valle del Nilo.\r\n\r\nFuga tranquilla A differenza delle barche a motore, le feluche si affidano esclusivamente al vento, offrendo un viaggio tranquillo ed ecologico. Il ritmo lento permette di rilassarsi, respirare profondamente e godersi il ritmo del fiume. È la fuga perfetta dal trambusto della vita cittadina, che vi darà il tempo di riflettere, scattare foto o semplicemente assaporare il momento.",
+      "pt": "Reservar com antecedência um passeio de veleiro felucca em Luxor poupa-lhe tempo e complicações. Nesta viagem privada, deslize ao longo do Nilo ao pôr do sol, com vistas deslumbrantes sobre as colinas da Cisjordânia.\r\n\r\nHá poucas experiências no Egito tão encantadoras como navegar num barco felucca ao longo do Nilo em Luxor. Estes tradicionais veleiros de madeira, com as suas graciosas velas brancas, deslizam pelo rio há séculos, transportando viajantes, comerciantes e sonhadores. Hoje em dia, continuam a ser uma das formas mais autênticas de contactar com a beleza intemporal do Vale do Nilo.\r\n\r\nFuga tranquila Ao contrário dos barcos a motor, as felucas dependem apenas do vento, oferecendo uma viagem tranquila e amiga do ambiente. O ritmo lento permite-lhe relaxar, respirar profundamente e apreciar o ritmo do rio. É a fuga perfeita da agitação da vida citadina, dando-lhe tempo para refletir, tirar fotografias ou simplesmente saborear o momento."
     },
     "providerTitle": "Mohamed",
     "providerPhone": null,
@@ -18538,7 +18538,7 @@
       "value": 20,
       "currency": "EUR"
     },
-    "length": "3:00",
+    "length": "2:00",
     "meetingPoint": {
       "title": "West Bank Luxor",
       "coordinates": "25.7017149,32.63330579999999",
@@ -18573,7 +18573,7 @@
   },
   {
     "id": 64126,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Egypt's Valley of the Kings and Queens",
       "es": "Explore el Valle de los Reyes y las Reinas de Egipto",
@@ -18693,7 +18693,7 @@
   },
   {
     "id": 64274,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Explore Alexandria's Top Historic Sites on a Free Tour",
       "es": "Explore los principales lugares históricos de Alejandría en una visita gratuita",
@@ -18799,7 +18799,7 @@
   },
   {
     "id": 65101,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Egyptian Civilization Museum & Giza Pyramids Tour",
       "es": "Visita al Museo de la Civilización Egipcia y las Pirámides de Guiza",
@@ -18895,7 +18895,7 @@
   },
   {
     "id": 65452,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hurghada: Sindbad Submarines Red Sea Underwater Tour",
       "es": "Hurghada: Excursión submarina Sindbad Submarines Mar Rojo",
@@ -19066,7 +19066,7 @@
   },
   {
     "id": 65595,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to the Grand Egyptian Museum",
       "es": "Visita al Gran Museo Egipcio",
@@ -19179,7 +19179,7 @@
   },
   {
     "id": 66195,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Tour to Dendera Temple with Tickets",
       "es": "Excursión Privada de un día al Templo de Dendera con Entradas",
@@ -19308,7 +19308,7 @@
   },
   {
     "id": 66267,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Old Cairo Free Tour & Khan El Khalili Bazaar",
       "es": "Free Tour por El Cairo Antiguo y Bazar Khan El Khalili",
@@ -19400,45 +19400,57 @@
         "URL": "https://www.freetour.com/images/tours/66267/old-cairo-khan-elkhalili-bazzaral-azhar-mosque-01.jpg"
       },
       {
-        "id": 231522,
-        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-01.jpg"
-      },
-      {
-        "id": 231523,
-        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-02.jpg"
-      },
-      {
-        "id": 232568,
-        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-03.jpg"
-      },
-      {
-        "id": 232569,
-        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-04.jpg"
-      },
-      {
-        "id": 232570,
-        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-05.jpg"
-      },
-      {
-        "id": 232571,
-        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-06.jpg"
-      },
-      {
         "id": 232572,
         "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-07.jpg"
       },
       {
         "id": 232573,
         "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-08.jpg"
+      },
+      {
+        "id": 301101,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-04.jpg"
+      },
+      {
+        "id": 301104,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-09.jpg"
+      },
+      {
+        "id": 301105,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-10.jpg"
+      },
+      {
+        "id": 301106,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-11.jpg"
+      },
+      {
+        "id": 301107,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-12.jpg"
+      },
+      {
+        "id": 301108,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-13.jpg"
+      },
+      {
+        "id": 301109,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-14.jpg"
+      },
+      {
+        "id": 301110,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-15.jpg"
+      },
+      {
+        "id": 301111,
+        "URL": "https://www.freetour.com/images/tours/66267/explore-old-cairo-khan-el-khalili-bazaar-16.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.87,
-    "reviewsNumber": 31
+    "rating": 4.88,
+    "reviewsNumber": 32
   },
   {
     "id": 66428,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Old Cairo : Khan al-Khalili, Azhar Mosque, Elmoez street",
       "es": "El Cairo antiguo: Khan al-Khalili, Mezquita de Azhar, calle Elmoez",
@@ -19549,12 +19561,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.93,
-    "reviewsNumber": 12
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 14
   },
   {
     "id": 66662,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour the Wonders of Siwa Oasis in 3 Days",
       "es": "Recorra las maravillas del oasis de Siwa en 3 días",
@@ -19656,7 +19668,7 @@
   },
   {
     "id": 66807,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alexandria: Discover the Bride of the Mediterranean",
       "es": "Alejandría: Descubra a la Novia del Mediterráneo",
@@ -19774,7 +19786,7 @@
   },
   {
     "id": 66826,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Secrets of Building the Ancient Pyramids",
       "es": "Secretos de la Construcción de las Antiguas Pirámides",
@@ -19860,7 +19872,7 @@
   },
   {
     "id": 66828,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Local Culture, Food, and Theories in Giza",
       "es": "Descubra la Cultura, la Gastronomía y las Teorías Locales en Giza",
@@ -19941,7 +19953,7 @@
   },
   {
     "id": 66926,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Wonders of Cairo",
       "es": "Descubre las Maravillas de El Cairo",
@@ -20043,7 +20055,7 @@
   },
   {
     "id": 66942,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Escape to the Blue Lagoon with Berry Tours",
       "es": "Escápate a la Laguna Azul con Berry Tours",
@@ -20149,7 +20161,7 @@
   },
   {
     "id": 66943,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sharm El Sheikh Airport Private Hotel Transfer",
       "es": "Traslado Privado del Aeropuerto de Sharm El Sheikh al Hotel",
@@ -20235,7 +20247,7 @@
   },
   {
     "id": 66945,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "An Exciting Private Mini Safari for an Unforgettable Adventure",
       "es": "Un emocionante minisafari privado para una aventura inolvidable",
@@ -20337,7 +20349,7 @@
   },
   {
     "id": 67285,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dendera and Abydos Private Tour From Hurghada",
       "es": "Excursión Privada a Dendera y Abidos desde Hurghada",
@@ -20425,7 +20437,7 @@
   },
   {
     "id": 67307,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sharm El Sheikh City Tour",
       "es": "Visita a la Ciudad de Sharm El Sheij",
@@ -20545,7 +20557,7 @@
   },
   {
     "id": 67309,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enchanting Dahab Adventure and Serenity Tour",
       "es": "Encantadora Excursión de Aventura y Serenidad a Dahab",
@@ -20688,7 +20700,7 @@
   },
   {
     "id": 67324,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Archaeological and Tourist Sites",
       "es": "Visita Guiada a Yacimientos Arqueológicos y Turísticos",
@@ -20767,7 +20779,7 @@
   },
   {
     "id": 67342,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Adventure of Safari in Sharm El Sheikh",
       "es": "Aventura de Safari en Sharm El Sheij",
@@ -20844,7 +20856,7 @@
   },
   {
     "id": 67368,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Around the Pyramids of Giza, Saqqara, and Memphis",
       "es": "Recorrido por las Pirámides de Guiza, Saqqara y Menfis",
@@ -20951,7 +20963,7 @@
   },
   {
     "id": 67377,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "One Day Luxor Adventure by Bus",
       "es": "Aventura de un Día en Luxor en Autobús",
@@ -21057,7 +21069,7 @@
   },
   {
     "id": 67452,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Felucca Lunch Experience in Luxor",
       "es": "Experiencia de Almuerzo en Faluca en Luxor",
@@ -21146,7 +21158,7 @@
   },
   {
     "id": 67495,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Highlights Tour: Pyramids, Museum and Bazaar",
       "es": "Lo más Destacado de El Cairo: Pirámides, Museo y Bazar",
@@ -21285,7 +21297,7 @@
   },
   {
     "id": 67549,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxury Tour of Hurghada Museum with Expert Guide",
       "es": "Recorrido de Lujo por el Museo de Hurghada con Guía Experto",
@@ -21417,7 +21429,7 @@
   },
   {
     "id": 67588,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alexandrian Journey: Greco-Italian Charm",
       "es": "Alexandrian Journey: Greco-Italian Charm",
@@ -21507,7 +21519,7 @@
   },
   {
     "id": 67602,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo's Antique Market Tour",
       "es": "Mercado de Antigüedades de El Cairo",
@@ -21616,7 +21628,7 @@
   },
   {
     "id": 67728,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Experience the Cairo Dining Experience",
       "es": "Experimente la Experiencia Gastronómica de El Cairo",
@@ -21696,7 +21708,7 @@
   },
   {
     "id": 67744,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sharm El Sheikh City Shopping Tour",
       "es": "Excursión de Compras por la Ciudad de Sharm El Sheij",
@@ -21791,7 +21803,7 @@
   },
   {
     "id": 67874,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunrise Hot Air Balloon Tour Ride",
       "es": "Paseo en globo al amanecer",
@@ -21907,7 +21919,7 @@
   },
   {
     "id": 67961,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Alexandria on a Day Trip from Cairo",
       "es": "Explora Alejandría en una Excursión de un día desde El Cairo",
@@ -21999,7 +22011,7 @@
   },
   {
     "id": 67984,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hurghada Private City Tour by Car with Marina: Mosque & Old Town",
       "es": "Hurghada City Tour Privado en Coche con Marina: Mezquita y casco antiguo",
@@ -22244,11 +22256,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 1
+    "reviewsNumber": 2
   },
   {
     "id": 67985,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hurghada Dolphin Watching Tour",
       "es": "Excursión de Avistamiento de Delfines en Hurghada",
@@ -22343,7 +22355,7 @@
   },
   {
     "id": 68061,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Authentic Egypt With Me",
       "es": "Descubre el Auténtico Egipto Conmigo",
@@ -22434,7 +22446,7 @@
   },
   {
     "id": 68146,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Overday by Flight from Hurghada",
       "es": "Vuelo de un día a El Cairo desde Hurghada",
@@ -22592,7 +22604,7 @@
   },
   {
     "id": 68208,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Al Sahaba Mosque & Soho Square Trip with Syrian Dinner",
       "es": "Excursión privada a la Mezquita Al Sahaba y la Plaza del Soho con cena siria",
@@ -22716,7 +22728,7 @@
   },
   {
     "id": 68323,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full-Day Tour of Monasteries St Paul and St Antonius",
       "es": "Visita de un Día a los Monasterios de San Pablo y San Antonio",
@@ -22803,7 +22815,7 @@
   },
   {
     "id": 68384,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pyramids, Saqqara & Memphis Full-Day Adventure in Giza",
       "es": "Pirámides, Saqqara y Menfis: aventura de un día en Giza",
@@ -22968,7 +22980,7 @@
   },
   {
     "id": 68386,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxury Dinner Cruise on the Nile River",
       "es": "Crucero con Cena de Lujo por el Río Nilo",
@@ -23057,7 +23069,7 @@
   },
   {
     "id": 68692,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Egyptian Museum & Cultural Insights Tour",
       "es": "Recorrido por el Museo Egipcio y sus Perspectivas Culturales",
@@ -23141,7 +23153,7 @@
   },
   {
     "id": 68729,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Sharm El Sheikh",
       "es": "Explora Sharm El Sheij",
@@ -23229,7 +23241,7 @@
   },
   {
     "id": 68733,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Unforgettable Private Tour to Giza Pyramids",
       "es": "Inolvidable Excursión Privada a las Pirámides de Guiza",
@@ -23316,7 +23328,7 @@
   },
   {
     "id": 68738,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Old Cairo's Ancient Churches Synagogue & Citadel",
       "es": "Explore las Antiguas Iglesias, la Sinagoga y la Ciudadela de El Cairo Antiguo",
@@ -23395,7 +23407,7 @@
   },
   {
     "id": 68739,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Half Day Giza Pyramids and Sphinx",
       "es": "Medio Día: Pirámides y Esfinge de Giza",
@@ -23482,7 +23494,7 @@
   },
   {
     "id": 68745,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Nile Cruise Adventure from Luxor to Aswan",
       "es": "Aventura en Crucero por el Nilo de Luxor a Asuán",
@@ -23570,7 +23582,7 @@
   },
   {
     "id": 68786,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old Cairo Day Tour",
       "es": "Visita de un día al Viejo Cairo",
@@ -23672,7 +23684,7 @@
   },
   {
     "id": 68788,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alexandria Highlights: Day Tour Experience",
       "es": "Lo más destacado de Alejandría: Experiencia de un día",
@@ -23792,7 +23804,7 @@
   },
   {
     "id": 68790,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Siwa Oasis Escape: Three Days of Serenity",
       "es": "Escapada al Oasis de Siwa: Tres días de Serenidad",
@@ -23880,7 +23892,7 @@
   },
   {
     "id": 68795,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Wonders of Ancient Egypt and Its Treasures",
       "es": "Explore las Maravillas del Antiguo Egipto y sus Tesoros",
@@ -23998,7 +24010,7 @@
   },
   {
     "id": 68801,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Dendera & Luxor from Hurghada",
       "es": "Excursión de un día a Dendera y Luxor desde Hurghada",
@@ -24079,7 +24091,7 @@
   },
   {
     "id": 68984,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Local Experience with Authentic Dinner",
       "es": "Experiencia Local en El Cairo con Cena Auténtica",
@@ -24163,7 +24175,7 @@
   },
   {
     "id": 69042,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Fish Market with Lunch or Dinner",
       "es": "Explore el Mercado del Pescado con Almuerzo o Cena",
@@ -24261,7 +24273,7 @@
   },
   {
     "id": 69047,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cairo's History & Flavors",
       "es": "Descubra la Historia y los Sabores de El Cairo",
@@ -24377,7 +24389,7 @@
   },
   {
     "id": 69139,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Ismailia, the Bride of the Suez Canal",
       "es": "Descubra Ismailia, la Novia del Canal de Suez",
@@ -24615,7 +24627,7 @@
   },
   {
     "id": 69142,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Experience Authentic Egyptian Life",
       "es": "Experimente la Auténtica Vida Egipcia",
@@ -24706,7 +24718,7 @@
   },
   {
     "id": 69163,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Scuba Diving Day Trip",
       "es": "Excursión de un día para Bucear",
@@ -24836,7 +24848,7 @@
   },
   {
     "id": 69250,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Story Behind Howard Carter’s House in Luxor",
       "es": "La Historia Detrás de la Casa de Howard Carter en Luxor",
@@ -24921,7 +24933,7 @@
   },
   {
     "id": 69301,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Nile Kayaking Ride at Sunset",
       "es": "Paseo Privado en Kayak por el Nilo al Atardecer",
@@ -25000,7 +25012,7 @@
   },
   {
     "id": 69325,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor Hot Air Balloon Experience",
       "es": "Experiencia de Globo Aerostático en Luxor",
@@ -25112,7 +25124,7 @@
   },
   {
     "id": 69600,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxor East and West Bank Day Tour",
       "es": "Excursión de un Día a la Ribera Este y Oeste de Luxor",
@@ -25225,7 +25237,7 @@
   },
   {
     "id": 69636,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hot Air Balloon Ride Over Luxor Sunrise",
       "es": "Paseo en Globo sobre Luxor al Amanecer",
@@ -25453,7 +25465,7 @@
   },
   {
     "id": 69854,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Beauty of Alexandria Free Tour",
       "es": "Visita gratuita a la belleza de Alejandría",
@@ -25551,7 +25563,7 @@
   },
   {
     "id": 70029,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Giza pyramids & the Museum",
       "es": "Explora las Pirámides de Guiza y el Museo",
@@ -25640,7 +25652,7 @@
   },
   {
     "id": 70090,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunrise Hot Air Balloon Trip",
       "es": "Excursión en Globo Aerostático al Amanecer",
@@ -25729,7 +25741,7 @@
   },
   {
     "id": 70193,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "White & Black Desert Overnight From Cairo",
       "es": "Noche en el Desierto Blanco y Negro desde El Cairo",
@@ -25833,7 +25845,7 @@
   },
   {
     "id": 70504,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Coptic Cairo's Ancient Wonders",
       "es": "Descubra las Antiguas Maravillas de El Cairo Copto",
@@ -25948,7 +25960,7 @@
   },
   {
     "id": 70524,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "The most complete tour to the Egyptian Museum in Cairo!",
       "es": "La visita más completa al Museo Egipcio de El Cairo",
@@ -26122,11 +26134,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 40
+    "reviewsNumber": 41
   },
   {
     "id": 70836,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cairo and Alexandria Wonders",
       "es": "Descubra las Maravillas de El Cairo y Alejandría",
@@ -26304,7 +26316,7 @@
   },
   {
     "id": 70840,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bahariya Oasis & Desert Tour",
       "es": "Excursión al Oasis y Desierto de Bahariya",
@@ -26463,7 +26475,7 @@
   },
   {
     "id": 70985,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Hurghada with a Local Touch",
       "es": "Descubra Hurghada con un Toque Local",
@@ -26543,7 +26555,7 @@
   },
   {
     "id": 71579,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Discover Cairo Through its Flavors",
       "es": "Descubre El Cairo a través de sus Sabores",
@@ -26633,7 +26645,7 @@
   },
   {
     "id": 72302,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Pyramids and Souks Exploration Tour",
       "es": "Excursión a las pirámides y zocos de El Cairo",
@@ -26737,7 +26749,7 @@
   },
   {
     "id": 72844,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo in a Day: Pyramids, Bazaars & Flavors",
       "es": "El Cairo en un Día: Pirámides, Bazares y Sabores",
@@ -26836,7 +26848,7 @@
   },
   {
     "id": 74455,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Islamic Cairo",
       "es": "Descubre El Cairo Islámico",
@@ -26998,7 +27010,7 @@
   },
   {
     "id": 74651,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 13:54:04",
     "title": {
       "en": "Free Tour Cairo's Coptic Quarter Secrets",
       "es": "Visita gratuita Los secretos del Barrio Copto de El Cairo",
@@ -27119,11 +27131,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=WbllKIbiLNE",
     "rating": 4.95,
-    "reviewsNumber": 42
+    "reviewsNumber": 44
   },
   {
     "id": 74935,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walk along the Majestic Nile River, the Longest in the World",
       "es": "Paseo por el Majestuoso Río Nilo, el más Largo del Mundo",
@@ -27233,7 +27245,7 @@
   },
   {
     "id": 75027,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ATV Adventure near the Pyramids Area",
       "es": "Aventura en Quad (ATV) Junto a la Zona de las Pirámides",
@@ -27351,7 +27363,7 @@
   },
   {
     "id": 76227,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 13:58:02",
     "title": {
       "en": "Cairo by Night Free Tour: Al-Moez, Bazaar & Sufi Show",
       "es": "El Cairo de Noche Free Tour: Al-Moez, Bazar y Espectáculo Sufí",
@@ -27545,11 +27557,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=WbllKIbiLNE",
     "rating": 4.99,
-    "reviewsNumber": 18
+    "reviewsNumber": 19
   },
   {
     "id": 76281,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "White Desert Safari Experience",
       "es": "Safari por el Desierto Blanco",
@@ -27654,7 +27666,7 @@
   },
   {
     "id": 76340,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Bazaars & Hidden Corners of Ancient Cairo",
       "es": "Descubra los Bazares y Rincones Ocultos del Antiguo Cairo",
@@ -27763,7 +27775,7 @@
   },
   {
     "id": 76367,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the Giza Pyramids on Foot",
       "es": "Descubra las Pirámides de Guiza a pie",
@@ -27869,7 +27881,7 @@
   },
   {
     "id": 76858,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cairo Food and Local Bars Walking Tour",
       "es": "El Cairo: Comida y Bares locales a pie",
@@ -28063,7 +28075,7 @@
   },
   {
     "id": 76960,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Traditional Egyptian Cooking Experience",
       "es": "Experiencia de Cocina Tradicional Egipcia",
@@ -28177,7 +28189,7 @@
   },
   {
     "id": 77405,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Discover the Mysteries of the Step Pyramid of Saqqara",
       "es": "Descubra los Misterios de la Pirámide Escalonada de Saqqara",
@@ -28253,12 +28265,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
+    "rating": 4.27,
     "reviewsNumber": 2
   },
   {
     "id": 77486,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Uncovering Downtown Cairo’s Hidden Struggles Free Tour",
       "es": "Descubrir las luchas ocultas del centro de El Cairo Visita gratuita",
@@ -28360,7 +28372,7 @@
   },
   {
     "id": 78563,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Luxor: Hot Air Balloon and Full-Day Tour",
       "es": "Descubra Luxor: Excursión de un día en Globo Aerostático",
@@ -28483,7 +28495,7 @@
   },
   {
     "id": 79166,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Alexandria in a Day",
       "es": "Explora Alejandría en un Día",
@@ -28613,7 +28625,7 @@
   },
   {
     "id": 79167,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Journey Through Alexandria’s Treasures",
       "es": "Un Viaje por los Tesoros de Alejandría",
@@ -28739,7 +28751,7 @@
   },
   {
     "id": 79348,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sound & Light Show at Pyramids",
       "es": "Espectáculo de Luz y Sonido en las Pirámides",
@@ -28831,7 +28843,7 @@
   },
   {
     "id": 80802,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Night Vibes on the Nile in Cairo",
       "es": "Explore las Vibraciones Nocturnas del Nilo en El Cairo",
@@ -28965,7 +28977,7 @@
   },
   {
     "id": 81542,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Abu Simbel Temple: Pharaohs’ Treasures on the Nile Shareing",
       "es": "Templo de Abu Simbel: Tesoros faraónicos en el Nilo Compartir",
@@ -29052,7 +29064,7 @@
   },
   {
     "id": 81795,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cairo: History, Culture & People",
       "es": "Descubre El Cairo: Historia, Cultura y Personas",
@@ -29148,7 +29160,7 @@
   },
   {
     "id": 81915,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mysteries of Aswan Tour: From Philae to the High Dam",
       "es": "Tour Misterios de Asuán: De Philae a la Presa Alta",
@@ -29241,7 +29253,7 @@
   },
   {
     "id": 82375,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alexandria Food & Sightseeing Walk: Eat Like a Local",
       "es": "Paseo Gastronómico y Turístico por Alejandría: Come como un Lugareño",
@@ -29351,7 +29363,7 @@
   },
   {
     "id": 84444,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Explore the Great Temple of Ramses",
       "es": "Free Tour Explore the Great Temple of Ramses",
@@ -29443,7 +29455,7 @@
   },
   {
     "id": 84682,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Giza Pyramids",
       "es": "Visita gratuita a las pirámides de Guiza",
@@ -29520,15 +29532,19 @@
       {
         "id": 292314,
         "URL": "https://www.freetour.com/images/tours/84682/-05.jpg"
+      },
+      {
+        "id": 300373,
+        "URL": "https://www.freetour.com/images/tours/84682/giza-pyramids-with-camel-ride-01.jpg"
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 5,
+    "reviewsNumber": 6
   },
   {
     "id": 85095,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Street Food Alexandria: Free Tour with Local Guide",
       "es": "Comida callejera en Alejandría: Visita gratuita con guía local",
@@ -29652,7 +29668,7 @@
   },
   {
     "id": 85450,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hurghada to Grand Egyptian Museum and Giza pyramids with Lunch & Guide",
       "es": "De Hurghada al Gran Museo Egipcio y las pirámides de Giza con almuerzo y guía",
@@ -29897,7 +29913,7 @@
   },
   {
     "id": 85452,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hurghada Hula Hula Island Snorkeling Trip with Lunch & Massage",
       "es": "Excursión de snorkel a la isla de Hula Hula en Hurghada con almuerzo y masaje",
@@ -30056,7 +30072,7 @@
   },
   {
     "id": 85659,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Sharm Snorkeling Day trip from Hurghada with Lunch",
       "es": "Excursión de un día a Sharm con snorkel desde Hurghada con almuerzo",
@@ -30217,7 +30233,7 @@
   },
   {
     "id": 86197,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Aswan Local Life Free Walking Tour",
       "es": "Paseo gratuito por la vida local de Asuán",

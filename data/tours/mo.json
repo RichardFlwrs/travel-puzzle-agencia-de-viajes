@@ -1,7 +1,7 @@
 [
   {
     "id": 40524,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cotai Strip Night Tour in Macau: Photo Spots & Casino Experience",
       "es": "Cotai Strip Tour Nocturno en Macao: Lugares para fotografiar y experiencia en el casino",
@@ -153,14 +153,14 @@
   },
   {
     "id": 40605,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
-      "en": "Tour of Macau Peninsula",
-      "es": "Recorrido por la Península de Macao",
-      "pt": "Visita à Península de Macau",
-      "de": "Besichtigung der Halbinsel Macau",
-      "fr": "Visite de la péninsule de Macao",
-      "it": "Tour della penisola di Macao"
+      "en": "Free Tour of Macau Peninsula",
+      "es": "Visita gratuita a la península de Macao",
+      "pt": "Visita gratuita à Península de Macau",
+      "de": "Kostenlose Tour durch die Halbinsel Macau",
+      "fr": "Visite libre de la péninsule de Macao",
+      "it": "Tour gratuito della penisola di Macao"
     },
     "brief": {
       "de": "Begleiten Sie uns auf einen Spaziergang durch Macau Peninsula! Entdecken Sie historische Wahrzeichen, lebendige Straßen, lokale Köstlichkeiten und berühmte Souvenirspots im Herzen von Macau. Es erwartet Sie eine perfekte Mischung aus Kultur, Geschichte und Geschmack!",
@@ -190,14 +190,14 @@
       "it": "https://www.freetour.com/it/macau/tour-of-macau-peninsula?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 25,
+      "value": 0,
       "currency": "EUR"
     },
     "length": "2:30",
     "meetingPoint": {
-      "title": "Senado Square, Macau.",
-      "coordinates": "22.1935334,113.5397593",
-      "googlePlaceId": "ChIJ4Z8a8e56ATQRU5BK2A2bgaU"
+      "title": "Starbucks Coffee (Ruins of St. Paul's)",
+      "coordinates": "13.1246923,80.12553129999999",
+      "googlePlaceId": "ChIJT55JO2pmUjoRauXgTQ5D_YA"
     },
     "cityId": 2829,
     "countryId": 89,
@@ -363,7 +363,7 @@
   },
   {
     "id": 40607,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 08:06:54",
     "title": {
       "en": "Explore Macau: Walking & Public Transport Tour",
       "es": "Explorar Macao: Visita a pie y en transporte público",
@@ -381,12 +381,12 @@
       "pt": "Junte-se a nós para a derradeira aventura em Macau! Descubra os icónicos marcos históricos e os deslumbrantes resorts de Cotai numa experiência única. Desfrute de uma logística sem complicações, refeições económicas e uma sessão fotográfica profissional para captar momentos inesquecíveis!"
     },
     "description": {
-      "de": "Dies ist die beste Möglichkeit, Macau an einem Tag zu erkunden. Erleben Sie die perfekte Mischung aus historischem Charme und modernem Luxus in Macau. Spazieren Sie durch die Straßen, fahren Sie mit den Bussen, und nehmen Sie perfekte Erinnerungsfotos mit nach Hause. \r\n\r\nHier ist die optimierte Reiseroute mit klaren Optionen:\r\n\r\nReiseplan (Änderungen je nach Verfügbarkeit vorbehalten)\r\n\r\nMacau-Halbinsel (Vormittag)\r\n\r\n1. Senado-Platz\r\n2. St. Dominic's Kirche\r\n3. Ruinen der St. Pauls-Kirche\r\n4. Große Lisboa\r\n5. Fisherman's Wharf\r\n\r\nBudget-Mittagessen (nicht inbegriffen)\r\nLokales Essen: Kotelettbrötchen, Eierkuchen oder makanesisches Curry in einem nahe gelegenen Café.\r\n\r\nTaipa/Cotai-Gebiet (nachmittags)\r\n\r\n6. Das Venetian\r\n7. The Parisian (Eiffelturm)\r\n8. Der Londoner\r\n9. Studio City\r\n10. Wynn-Palast Macau\r\n\r\nOptional:\r\n\r\nMacau Tower 180 HKD/MOP Eintrittspreis",
-      "en": "This is the best way to explore Macau in one day. Experience the perfect blend of historic charm and modern luxury in Macau. Walk its streets, ride its buses, and take home perfect photo memories. \r\n\r\nHere’s the optimized itinerary with clear options:\r\n\r\nTour Itinerary (Subject to change based on availability)\r\n\r\nMacau Peninsula (Morning)\r\n\r\n1. Senado Square\r\n2. St. Dominic’s Church\r\n3. Ruins of St. Paul’s\r\n4. Grand Lisboa\r\n5. Fisherman’s Wharf\r\n\r\nBudget Lunch (Excluded)\r\nLocal Eats: Pork chop bun, egg tarts, or Macanese curry at a nearby café.\r\n\r\nTaipa/Cotai Area (Afternoon)\r\n\r\n6. The Venetian\r\n7. The Parisian (Eiffel Tower)\r\n8. The Londoner\r\n9. Studio City\r\n10. Wynn Palace Macau\r\n\r\nOptional:\r\n\r\nMacau Tower 180 HKD/MOP entrance fee",
-      "es": "Es la mejor forma de explorar Macao en un día. Experimente la mezcla perfecta de encanto histórico y lujo moderno en Macao. Pasee por sus calles, monte en sus autobuses y llévese a casa recuerdos fotográficos perfectos. \r\n\r\nAquí tiene el itinerario optimizado con opciones claras:\r\n\r\nItinerario de la excursión (Sujeto a cambios según disponibilidad)\r\n\r\nPenínsula de Macao (mañana)\r\n\r\n1. Plaza del Senado\r\n2. Iglesia de Santo Domingo\r\n3. Ruinas de San Pablo\r\n4. Gran Lisboa\r\n5. Muelle de Pescadores\r\n\r\nAlmuerzo económico (Excluido)\r\nComida local: Bollo de chuleta de cerdo, tartas de huevo o curry macanés en un café cercano.\r\n\r\nZona de Taipa/Cotai (tarde)\r\n\r\n6. El Veneciano\r\n7. El Parisino (Torre Eiffel)\r\n8. El londinense\r\n9. Estudio\r\n10. Wynn Palace Macao\r\n\r\nOpcional\r\n\r\nEntrada a la Torre Macao 180 HKD/MOP",
-      "fr": "C'est la meilleure façon d'explorer Macao en une journée. Macao est un mélange parfait de charme historique et de luxe moderne. Marchez dans ses rues, montez dans ses bus et ramenez des photos souvenirs parfaites. \r\n\r\nVoici l'itinéraire optimisé avec des options claires :\r\n\r\nItinéraire (susceptible d'être modifié en fonction des disponibilités)\r\n\r\nPéninsule de Macao (matin)\r\n\r\n1. Place du Senado\r\n2. Église Saint-Dominique\r\n3. Ruines de l'église Saint-Paul\r\n4. Grand Lisboa\r\n5. Quai des pêcheurs\r\n\r\nBudget Déjeuner (non compris)\r\nMets locaux : Pork chop bun, tartelettes aux œufs, ou curry macanais dans un café voisin.\r\n\r\nZone de Taipa/Cotai (après-midi)\r\n\r\n6. Le Vénitien\r\n7. The Parisian (Tour Eiffel)\r\n8. Le Londonien\r\n9. Studio City\r\n10. Wynn Palace Macau\r\n\r\nEn option :\r\n\r\nTour de Macau 180 HKD/MOP droit d'entrée",
-      "it": "Questo è il modo migliore per esplorare Macao in un giorno. Scoprite il perfetto connubio tra fascino storico e lusso moderno a Macao. Camminate per le sue strade, salite sugli autobus e portate a casa foto ricordo perfette. \r\n\r\nEcco l'itinerario ottimizzato con opzioni chiare:\r\n\r\nItinerario del tour (soggetto a modifiche in base alla disponibilità)\r\n\r\nPenisola di Macao (mattina)\r\n\r\n1. Piazza Senado\r\n2. Chiesa di San Domenico\r\n3. Rovine di San Paolo\r\n4. Grande Lisbona\r\n5. Molo dei pescatori\r\n\r\nPranzo economico (escluso)\r\nMangiare locale: Panino con braciola di maiale, crostate di uova o curry macanese in una caffetteria vicina.\r\n\r\nArea di Taipa/Cotai (pomeriggio)\r\n\r\n6. Il Veneziano\r\n7. Il Parigino (Torre Eiffel)\r\n8. Il londinese\r\n9. Studio City\r\n10. Palazzo Wynn a Macao\r\n\r\nOpzionale:\r\n\r\nTorre di Macao 180 HKD/MOP biglietto d'ingresso",
-      "pt": "Esta é a melhor maneira de explorar Macau num só dia. Experimente a mistura perfeita de charme histórico e luxo moderno em Macau. Passeie pelas suas ruas, ande de autocarro e leve para casa recordações fotográficas perfeitas. \r\n\r\nAqui está o itinerário optimizado com opções claras:\r\n\r\nItinerário da excursão (sujeito a alterações consoante a disponibilidade)\r\n\r\nPenínsula de Macau (Manhã)\r\n\r\n1. Largo do Senado\r\n2. Igreja de S. Domingos\r\n3. Ruínas de S. Paulo\r\n4. Grande Lisboa\r\n5. Cais dos Pescadores\r\n\r\nAlmoço económico (não incluído)\r\nComida local: Bolo de costeleta de porco, tartes de ovo ou caril macaense num café próximo.\r\n\r\nZona da Taipa/Cotai (Tarde)\r\n\r\n6. O Venetian\r\n7. The Parisian (Torre Eiffel)\r\n8. O londrino\r\n9. Cidade de Estúdio\r\n10. Wynn Palace Macau\r\n\r\nOpcional:\r\n\r\nTorre de Macau 180 HKD/MOP entrada"
+      "de": "Dies ist die beste Möglichkeit, Macau an einem Tag zu erkunden. Erleben Sie die perfekte Mischung aus historischem Charme und modernem Luxus in Macau. Spazieren Sie durch die Straßen, fahren Sie mit den Bussen, und nehmen Sie perfekte Erinnerungsfotos mit nach Hause. \r\n\r\nHier ist die optimierte Reiseroute mit klaren Optionen:\r\n\r\nReiseplan (Änderungen je nach gewähltem Abholort vorbehalten)\r\n\r\nMacau-Halbinsel (Vormittag)\r\n\r\n1. Senado-Platz\r\n2. St. Dominic's Kirche\r\n3. Ruinen der St. Pauls-Kirche\r\n4. Große Lisboa\r\n5. Fisherman's Wharf\r\n\r\nBudget-Mittagessen (nicht inbegriffen)\r\nLokales Essen: Kotelettbrötchen, Eierkuchen oder makanesisches Curry in einem nahe gelegenen Café.\r\n\r\nTaipa/Cotai-Gebiet (nachmittags)\r\n\r\n6. Das Venetian\r\n7. The Parisian (Eiffelturm)\r\n8. Der Londoner\r\n9. Studio City\r\n10. Wynn-Palast Macau\r\n\r\nOptional:\r\n\r\nMacau Tower 180 HKD/MOP Eintrittspreis",
+      "en": "This is the best way to explore Macau in one day. Experience the perfect blend of historic charm and modern luxury in Macau. Walk its streets, ride its buses, and take home perfect photo memories. \r\n\r\nHere’s the optimized itinerary with clear options:\r\n\r\nTour Itinerary (Subject to change based on the chosen pick-up location)\r\n\r\nMacau Peninsula (Morning)\r\n\r\n1. Senado Square\r\n2. St. Dominic’s Church\r\n3. Ruins of St. Paul’s\r\n4. Grand Lisboa\r\n5. Fisherman’s Wharf\r\n\r\nBudget Lunch (Excluded)\r\nLocal Eats: Pork chop bun, egg tarts, or Macanese curry at a nearby café.\r\n\r\nTaipa/Cotai Area (Afternoon)\r\n\r\n6. The Venetian\r\n7. The Parisian (Eiffel Tower)\r\n8. The Londoner\r\n9. Studio City\r\n10. Wynn Palace Macau\r\n\r\nOptional:\r\n\r\nMacau Tower 180 HKD/MOP entrance fee",
+      "es": "Es la mejor forma de explorar Macao en un día. Experimente la mezcla perfecta de encanto histórico y lujo moderno en Macao. Pasee por sus calles, monte en sus autobuses y llévese a casa recuerdos fotográficos perfectos. \r\n\r\nAquí tiene el itinerario optimizado con opciones claras:\r\n\r\nItinerario de la excursión (Sujeto a cambios en función del lugar de recogida elegido)\r\n\r\nPenínsula de Macao (mañana)\r\n\r\n1. Plaza del Senado\r\n2. Iglesia de Santo Domingo\r\n3. Ruinas de San Pablo\r\n4. Gran Lisboa\r\n5. Muelle de Pescadores\r\n\r\nAlmuerzo económico (Excluido)\r\nComida local: Bollo de chuleta de cerdo, tartas de huevo o curry macanés en un café cercano.\r\n\r\nZona de Taipa/Cotai (tarde)\r\n\r\n6. El Veneciano\r\n7. El Parisino (Torre Eiffel)\r\n8. El londinense\r\n9. Estudio\r\n10. Wynn Palace Macao\r\n\r\nOpcional\r\n\r\nEntrada a la Torre Macao 180 HKD/MOP",
+      "fr": "C'est la meilleure façon d'explorer Macao en une journée. Macao est un mélange parfait de charme historique et de luxe moderne. Marchez dans ses rues, montez dans ses bus et ramenez des photos souvenirs parfaites. \r\n\r\nVoici l'itinéraire optimisé avec des options claires :\r\n\r\nItinéraire (susceptible d'être modifié en fonction du lieu de prise en charge choisi)\r\n\r\nPéninsule de Macao (matin)\r\n\r\n1. Place du Senado\r\n2. Église Saint-Dominique\r\n3. Ruines de l'église Saint-Paul\r\n4. Grand Lisboa\r\n5. Quai des pêcheurs\r\n\r\nBudget Déjeuner (non compris)\r\nMets locaux : Pork chop bun, tartelettes aux œufs, ou curry macanais dans un café voisin.\r\n\r\nZone de Taipa/Cotai (après-midi)\r\n\r\n6. Le Vénitien\r\n7. The Parisian (Tour Eiffel)\r\n8. Le Londonien\r\n9. Studio City\r\n10. Wynn Palace Macau\r\n\r\nEn option :\r\n\r\nTour de Macau 180 HKD/MOP droit d'entrée",
+      "it": "Questo è il modo migliore per esplorare Macao in un giorno. Scoprite il perfetto connubio tra fascino storico e lusso moderno a Macao. Camminate per le sue strade, salite sugli autobus e portate a casa foto ricordo perfette. \r\n\r\nEcco l'itinerario ottimizzato con opzioni chiare:\r\n\r\nItinerario del tour (soggetto a modifiche in base al luogo di ritiro scelto)\r\n\r\nPenisola di Macao (mattina)\r\n\r\n1. Piazza Senado\r\n2. Chiesa di San Domenico\r\n3. Rovine di San Paolo\r\n4. Grande Lisbona\r\n5. Molo dei pescatori\r\n\r\nPranzo economico (escluso)\r\nMangiare locale: Panino con braciola di maiale, crostate di uova o curry macanese in una caffetteria vicina.\r\n\r\nArea di Taipa/Cotai (pomeriggio)\r\n\r\n6. Il Veneziano\r\n7. Il Parigino (Torre Eiffel)\r\n8. Il londinese\r\n9. Studio City\r\n10. Palazzo Wynn a Macao\r\n\r\nOpzionale:\r\n\r\nTorre di Macao 180 HKD/MOP biglietto d'ingresso",
+      "pt": "Esta é a melhor maneira de explorar Macau num só dia. Experimente a mistura perfeita de charme histórico e luxo moderno em Macau. Passeie pelas suas ruas, ande de autocarro e leve para casa recordações fotográficas perfeitas. \r\n\r\nAqui está o itinerário optimizado com opções claras:\r\n\r\nItinerário da excursão (sujeito a alterações consoante o local de recolha escolhido)\r\n\r\nPenínsula de Macau (Manhã)\r\n\r\n1. Largo do Senado\r\n2. Igreja de S. Domingos\r\n3. Ruínas de S. Paulo\r\n4. Grande Lisboa\r\n5. Cais dos Pescadores\r\n\r\nAlmoço económico (não incluído)\r\nComida local: Bolo de costeleta de porco, tartes de ovo ou caril macaense num café próximo.\r\n\r\nZona da Taipa/Cotai (Tarde)\r\n\r\n6. O Venetian\r\n7. The Parisian (Torre Eiffel)\r\n8. O londrino\r\n9. Cidade de Estúdio\r\n10. Wynn Palace Macau\r\n\r\nOpcional:\r\n\r\nTorre de Macau 180 HKD/MOP entrada"
     },
     "providerTitle": "Detour Across Every Border",
     "providerPhone": "+639165064720",
@@ -415,18 +415,13 @@
       "Senado Square",
       "Walls of St Paul Church",
       "Macau Fisherman's Wharf",
-      "Macau International Airport",
-      "A-Ma Temple",
       "Studio City Macau",
       "The Cotai Strip",
       "The Venetian Macao",
       "The Parisian Macao",
-      "Grand LisboaHotel",
       "St. Dominic's Church",
       "Taipa macau",
       "Macau Outer Ferry Terminal",
-      "Walls of Macau",
-      "Monte Fort",
       "Taipa Ferry Terminal",
       "Macao Giant Panda Pavilion",
       "Sands Macao",
@@ -435,6 +430,10 @@
       "HZMB",
       "Wynn Macau",
       "City of Dreams",
+      "Grand Lisboa Photospot",
+      "MGM Macau",
+      "Wynn Palace",
+      "Legend Palace Hotel",
       "English Speaking Guide",
       "Public Transportation and Shuttle Buses to get around in the City"
     ],
@@ -453,16 +452,6 @@
         "id": 30852,
         "title": "Macau Fisherman's Wharf",
         "googlePlaceId": "ChIJwZ8icdt6ATQRQTaDmpso-yU"
-      },
-      {
-        "id": 25412,
-        "title": "Macau International Airport",
-        "googlePlaceId": "ChIJifeluvdvATQRjYLO00qp3u4"
-      },
-      {
-        "id": 23723,
-        "title": "A-Ma Temple",
-        "googlePlaceId": "ChIJixIYnvR6ATQRHlAMDraIehs"
       },
       {
         "id": 27072,
@@ -485,11 +474,6 @@
         "googlePlaceId": "ChIJV9vf7BpwATQRE-CrdizYWw8"
       },
       {
-        "id": 18601,
-        "title": "Grand LisboaHotel",
-        "googlePlaceId": "ChIJz9YqxpV7ATQRZihZCwujpZQ"
-      },
-      {
         "id": 33777,
         "title": "St. Dominic's Church",
         "googlePlaceId": "ChIJ0Vtsg-V6ATQR6a8XQDuJQJ0"
@@ -503,16 +487,6 @@
         "id": 33778,
         "title": "Macau Outer Ferry Terminal",
         "googlePlaceId": "ChIJ2Srki9l6ATQRIr_C_sBU5XM"
-      },
-      {
-        "id": 33776,
-        "title": "Walls of Macau",
-        "googlePlaceId": "ChIJ3ccvWuR6ATQRS9DM3JpwqRg"
-      },
-      {
-        "id": 24714,
-        "title": "Monte Fort",
-        "googlePlaceId": "ChIJaakfMuR6ATQRB1cEBQlXz90"
       },
       {
         "id": 25413,
@@ -553,15 +527,31 @@
         "id": 18604,
         "title": "City of Dreams",
         "googlePlaceId": "ChIJU0ChiwNwATQRtIix8P2TBCg"
+      },
+      {
+        "id": 35165,
+        "title": "Grand Lisboa Photospot",
+        "googlePlaceId": "ChIJ_TH4GwB7ATQRA4edoAPVnhA"
+      },
+      {
+        "id": 27069,
+        "title": "MGM Macau",
+        "googlePlaceId": "ChIJ4yE9Cep6ATQRiaRmL09EbB8"
+      },
+      {
+        "id": 27071,
+        "title": "Wynn Palace",
+        "googlePlaceId": "ChIJQ0Jd-QJwATQRHok4K_ZwSZA"
+      },
+      {
+        "id": 35164,
+        "title": "Legend Palace Hotel",
+        "googlePlaceId": "ChIJW1UVk9t6ATQR918PIyrSs5g"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/40607/macau-tour-the-best-of-both-worlds-11.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/40607/macau-tour-the-best-of-both-worlds-18.jpg",
     "categoryId": 4,
     "images": [
-      {
-        "id": 297201,
-        "URL": "https://www.freetour.com/images/tours/40607/macau-tour-the-best-of-both-worlds-11.jpg"
-      },
       {
         "id": 297208,
         "URL": "https://www.freetour.com/images/tours/40607/macau-tour-the-best-of-both-worlds-18.jpg"
@@ -569,6 +559,10 @@
       {
         "id": 297200,
         "URL": "https://www.freetour.com/images/tours/40607/macau-tour-the-best-of-both-worlds-10.jpg"
+      },
+      {
+        "id": 297201,
+        "URL": "https://www.freetour.com/images/tours/40607/macau-tour-the-best-of-both-worlds-11.jpg"
       },
       {
         "id": 297202,
@@ -600,7 +594,269 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.32,
-    "reviewsNumber": 5
+    "rating": 4.51,
+    "reviewsNumber": 7
+  },
+  {
+    "id": 40606,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Taipa Food Street Free Tour",
+      "es": "Recorrido gratuito por Taipa Food Street",
+      "pt": "Tour gratuito pela Taipa Food Street",
+      "de": "Taipa Food Street Kostenlose Tour",
+      "fr": "Visite gratuite de la rue de la nourriture de Taipa",
+      "it": "Tour gratuito di Taipa Food Street"
+    },
+    "brief": {
+      "de": "Nehmen Sie an unserer Taipa Food Street Tour teil und entdecken Sie die Aromen Macaus! Schlendern Sie die Rua de Cunha entlang, probieren Sie portugiesische und chinesische Köstlichkeiten und genießen Sie die atemberaubende Aussicht von Taipa Grande. Eine perfekte Mischung aus Kultur, Küche und Landschaft!",
+      "en": "Join our Taipa Food Street Tour and discover Macau’s flavors! Stroll down Rua de Cunha, taste Portuguese and Chinese delights, and enjoy stunning views from Taipa Grande. A perfect mix of culture, cuisine, and scenery!",
+      "es": "Únase a nuestra ruta gastronómica por las calles de Taipa y descubra los sabores de Macao Pasee por la Rua de Cunha, pruebe las delicias portuguesas y chinas, y disfrute de las impresionantes vistas desde Taipa Grande. Una mezcla perfecta de cultura, gastronomía y paisajes",
+      "fr": "Participez à notre Taipa Food Street Tour et découvrez les saveurs de Macao ! Promenez-vous sur la Rua de Cunha, goûtez aux délices portugais et chinois et admirez les vues imprenables depuis Taipa Grande. Un mélange parfait de culture, de cuisine et de paysage !",
+      "it": "Unitevi al nostro Taipa Food Street Tour e scoprite i sapori di Macao! Passeggiate lungo Rua de Cunha, assaggiate le delizie portoghesi e cinesi e godetevi le splendide viste da Taipa Grande. Un mix perfetto di cultura, cucina e paesaggio!",
+      "pt": "Junte-se à nossa Taipa Food Street Tour e descubra os sabores de Macau! Passeie pela Rua de Cunha, prove as delícias portuguesas e chinesas e desfrute de vistas deslumbrantes da Taipa Grande. Uma mistura perfeita de cultura, gastronomia e paisagem!"
+    },
+    "description": {
+      "de": "Die Taipa Food Street Walking Tour: Wenn Sie ein kulinarisch interessierter Reisender sind, der die portugiesische Seite der Stadt erkunden und eine Vielzahl von Küchen - von portugiesisch bis chinesisch - probieren möchte, ist diese Tour genau das Richtige für Sie. Wir schlendern die Rua de Cunha entlang und besuchen auch die Aussichtsplattform Taipa Grande, von der aus Sie einen Panoramablick auf die großen Hotels entlang des Cotai Strip genießen können. \r\n\r\nZu besuchende Orte:\r\n\r\nRua de Cunha Taipa Food Street.\r\nTaipa Grande Aussichtsplattform.\r\nTaipa-Häuser.",
+      "en": "The Taipa Food Street Walking Tour: If you're a culinary traveler eager to explore the more Portuguese side of the city and sample a variety of cuisines, from Portuguese to Chinese, this tour is designed for you. We will stroll along Rua de Cunha and also visit the Taipa Grande Viewing platform, where you can enjoy panoramic views of the grand hotels along the Cotai Strip. \r\n\r\nPlaces to visits:\r\n\r\nRua de Cunha Taipa Food Street.\r\nTaipa Grande Viewing Platform.\r\nTaipa Houses.",
+      "es": "Recorrido a pie por las calles de Taipa: Si es un viajero culinario deseoso de explorar el lado más portugués de la ciudad y probar una gran variedad de cocinas, desde la portuguesa hasta la china, este recorrido está diseñado para usted. Pasearemos por la Rua de Cunha y también visitaremos el mirador de Taipa Grande, donde podrá disfrutar de vistas panorámicas de los grandes hoteles del Cotai Strip. \r\n\r\nLugares a visitar:\r\n\r\nRua de Cunha Taipa Food Street.\r\nPlataforma de observación de Taipa Grande.\r\nCasas de Taipa.",
+      "fr": "Le Taipa Food Street Walking Tour (visite à pied de la rue de la nourriture de Taipa) : Si vous êtes un voyageur culinaire désireux d'explorer le côté plus portugais de la ville et de goûter à une variété de cuisines, du portugais au chinois, cette visite est faite pour vous. Nous nous promènerons le long de la Rua de Cunha et visiterons également la plateforme Taipa Grande Viewing, d'où vous pourrez profiter d'une vue panoramique sur les grands hôtels du Cotai Strip. \r\n\r\nLieux de visite :\r\n\r\nRua de Cunha Taipa Food Street.\r\nPlate-forme d'observation de Taipa Grande.\r\nMaisons de Taipa.",
+      "it": "Il tour a piedi di Taipa Food Street: Se siete viaggiatori culinari desiderosi di esplorare il lato più portoghese della città e di assaggiare una varietà di cucine, da quella portoghese a quella cinese, questo tour è pensato per voi. Passeggeremo lungo Rua de Cunha e visiteremo anche la piattaforma panoramica di Taipa Grande, da cui si può godere di una vista panoramica dei grandi alberghi lungo la Cotai Strip. \r\n\r\nLuoghi da visitare:\r\n\r\nRua de Cunha Taipa Food Street.\r\nPiattaforma panoramica di Taipa Grande.\r\nCase di Taipa.",
+      "pt": "A Taipa Food Street Walking Tour: Se é um viajante gastronómico ansioso por explorar o lado mais português da cidade e provar uma variedade de cozinhas, desde a portuguesa à chinesa, esta excursão foi concebida para si. Iremos passear ao longo da Rua de Cunha e também visitaremos a plataforma de observação da Taipa Grande, onde poderá desfrutar de vistas panorâmicas dos grandes hotéis ao longo da Cotai Strip. \r\n\r\nLocais a visitar:\r\n\r\nRua de Cunha Taipa Food Street.\r\nPlataforma de observação da Taipa Grande.\r\nCasas da Taipa."
+    },
+    "providerTitle": "Detour Across Every Border",
+    "providerPhone": "+639165064720",
+    "URL": "https://www.freetour.com/macau/taipa-food-street-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/macau/taipa-food-street-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/macau/taipa-food-street-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/macau/taipa-food-street-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/macau/taipa-food-street-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/macau/taipa-food-street-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/macau/taipa-food-street-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Senado Square Macau",
+      "coordinates": "22.1935334,113.5397593",
+      "googlePlaceId": "ChIJ4Z8a8e56ATQRU5BK2A2bgaU"
+    },
+    "cityId": 2829,
+    "countryId": 89,
+    "includes": [
+      "Taipa Food Street",
+      "Taipa Houses",
+      "The Cotai Strip",
+      "Taipa Grande Natural Park",
+      "Senado Square",
+      "The Londoner Macao",
+      "Taipa Fishing Village Restaurant",
+      "Taipa Central Park",
+      "The Venetian Macao",
+      "The Parisian Macao",
+      "Galaxy Hotel",
+      "Local Guide",
+      "Bus Fare",
+      "Taipa Food Street",
+      "Macau"
+    ],
+    "POIs": [
+      {
+        "id": 23722,
+        "title": "Taipa Food Street",
+        "googlePlaceId": "ChIJ8_QC_gZxATQRoTjTvWuU494"
+      },
+      {
+        "id": 25409,
+        "title": "Taipa Houses",
+        "googlePlaceId": "ChIJO0_8kghwATQRkbCoelrnhSQ"
+      },
+      {
+        "id": 27066,
+        "title": "The Cotai Strip",
+        "googlePlaceId": "ChIJq6qqqhtwATQRA73C3iPs-tM"
+      },
+      {
+        "id": 32808,
+        "title": "Taipa Grande Natural Park",
+        "googlePlaceId": "ChIJt9v7HKt6ATQRQDi1oI-OgAw"
+      },
+      {
+        "id": 18602,
+        "title": "Senado Square",
+        "googlePlaceId": "ChIJhSGVke96ATQR91vVZIEul-0"
+      },
+      {
+        "id": 32952,
+        "title": "The Londoner Macao",
+        "googlePlaceId": "ChIJF7EmygRwATQR2MtkpinomWc"
+      },
+      {
+        "id": 32951,
+        "title": "Taipa Fishing Village Restaurant",
+        "googlePlaceId": "ChIJKQ4Qsg5wATQRZ_tgrCzy0OM"
+      },
+      {
+        "id": 32950,
+        "title": "Taipa Central Park",
+        "googlePlaceId": "ChIJQ1PGsaB6ATQRnH27tHdtdUk"
+      },
+      {
+        "id": 27067,
+        "title": "The Venetian Macao",
+        "googlePlaceId": "ChIJt7JweQVwATQRr242E0IBxVM"
+      },
+      {
+        "id": 27068,
+        "title": "The Parisian Macao",
+        "googlePlaceId": "ChIJV9vf7BpwATQRE-CrdizYWw8"
+      },
+      {
+        "id": 32953,
+        "title": "Galaxy Hotel",
+        "googlePlaceId": "ChIJWcXn5g1wATQRDGP94RbxDu0"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-08.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 276128,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-08.jpg"
+      },
+      {
+        "id": 276127,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-07.jpg"
+      },
+      {
+        "id": 276122,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-02.jpg"
+      },
+      {
+        "id": 276123,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-03.jpg"
+      },
+      {
+        "id": 276124,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-04.jpg"
+      },
+      {
+        "id": 276125,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-05.jpg"
+      },
+      {
+        "id": 276126,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-06.jpg"
+      },
+      {
+        "id": 276129,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-09.jpg"
+      },
+      {
+        "id": 276130,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-10.jpg"
+      },
+      {
+        "id": 276131,
+        "URL": "https://www.freetour.com/images/tours/40606/south-cebu-tour-oslob-kawasan-falls-11.jpg"
+      },
+      {
+        "id": 280250,
+        "URL": "https://www.freetour.com/images/tours/40606/taipa-food-street-walking-tour-01.jpg"
+      },
+      {
+        "id": 280253,
+        "URL": "https://www.freetour.com/images/tours/40606/taipa-food-street-walking-tour-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 87096,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Macau Venetian Romantic Gondola Ride Boat Ticket",
+      "es": "Billete de barco para el paseo romántico en góndola por el Venetian de Macao",
+      "pt": "Bilhete de barco para o passeio romântico de gôndola no Venetian de Macau",
+      "de": "Macau Venetian Romantische Gondelfahrt Bootsticket",
+      "fr": "Billet de bateau pour une promenade romantique en gondole à Macau Venetian",
+      "it": "Biglietto per la gondola romantica veneziana di Macau"
+    },
+    "brief": {
+      "de": "Erleben Sie Venedig im Herzen von Macau! Gleiten Sie auf einer traditionellen Gondelfahrt durch den berühmten Kanal des The Venetian - hier trifft italienischer Charme auf asiatische Lebendigkeit. Gleiten Sie vorbei an atemberaubenden Nachbildungen der historischen Architektur Venedigs.",
+      "en": "Experience Venice in the Heart of Macau! Glide through The Venetian’s iconic canal on a traditional gondola ride—where Italian charm meets Asian vibrancy. Drift past stunning replicas of Venice’s historic architecture.",
+      "es": "¡Viva Venecia en el corazón de Macao! Deslícese por el emblemático canal de The Venetian en un paseo en góndola tradicional, donde el encanto italiano se funde con la vitalidad asiática. Déjese llevar por las impresionantes réplicas de la arquitectura histórica de Venecia.",
+      "fr": "Découvrez Venise au cœur de Macao ! Glissez sur le canal emblématique de The Venetian à bord d'une gondole traditionnelle, où le charme italien rencontre l'éclat asiatique. Passez devant de superbes répliques de l'architecture historique de Venise.",
+      "it": "Scoprite Venezia nel cuore di Macao! Scivolate attraverso l'iconico canale del Venetian su un tradizionale giro in gondola, dove il fascino italiano incontra la vivacità asiatica. Passate accanto a splendide riproduzioni dell'architettura storica di Venezia.",
+      "pt": "Experimente Veneza no coração de Macau! Deslize pelo icónico canal do The Venetian num passeio de gôndola tradicional - onde o charme italiano se encontra com a vibração asiática. Passeie por réplicas deslumbrantes da arquitetura histórica de Veneza."
+    },
+    "description": {
+      "de": "Gondelfahrt im Venetian Macao: Romantik im Herzen von Macao Sie müssen nicht weit nach Europa reisen - erleben Sie den venezianischen Charme direkt in Asien! Steigen Sie im The Venetian Macao Resort in die kultigen Gondeln und gleiten Sie durch die Kanäle, wo italienische Romantik auf den Glamour von Macau trifft. Dieses preisgekrönte Erlebnis führt Sie unter gewölbten Brücken, vorbei an Gebäuden im europäischen Stil und unter einem verträumten, bemalten Himmel, begleitet von melodiösen Serenaden der erfahrenen Gondoliere. Perfekt für Paare, Familien und alle, die Romantik und Abenteuer suchen - ein absolutes Muss!",
+      "en": "Venetian Macao Gondola Ride: Romance in the Heart of Macau No need to travel far to Europe — experience immersive Venetian charm right in Asia! Board the iconic gondolas at The Venetian Macao Resort and glide along the canals, where Italian romance meets Macanese glamour. This award-winning experience takes you under arched bridges, past European-style buildings, and beneath a dreamy painted sky, with melodious serenades from skilled gondoliers throughout. Perfect for couples, families, and anyone seeking romance and adventure — an absolute must-do!",
+      "es": "Paseo en góndola por el Venetian Macao: Romance en el corazón de Macao No necesita viajar lejos de Europa: ¡experimente el encanto veneciano en Asia! Suba a bordo de las emblemáticas góndolas de The Venetian Macao Resort y deslícese por los canales, donde el romanticismo italiano se funde con el glamour macaense. Esta galardonada experiencia le llevará bajo puentes arqueados, entre edificios de estilo europeo y bajo un cielo pintado de ensueño, con melodiosas serenatas de expertos gondoleros. Perfecto para parejas, familias y cualquiera que busque romanticismo y aventura: ¡una visita obligada!",
+      "fr": "Promenade en gondole au Venetian Macao : Romance au cœur de Macao Pas besoin de voyager loin en Europe - vivez l'expérience du charme vénitien en Asie ! Montez à bord des emblématiques gondoles du Venetian Macao Resort et glissez le long des canaux, là où le romantisme italien rencontre le glamour macanais. Cette expérience primée vous emmène sous des ponts voûtés, le long de bâtiments de style européen et sous un ciel peint de rêve, avec des sérénades mélodieuses de gondoliers habiles tout au long de la promenade. Parfait pour les couples, les familles et tous ceux qui recherchent le romantisme et l'aventure - un must absolu !",
+      "it": "Giro in gondola a Macao: Romanticismo nel cuore di Macao Non c'è bisogno di andare lontano in Europa: sperimentate il fascino veneziano proprio in Asia! Salite a bordo delle iconiche gondole del Venetian Macao Resort e scivolate lungo i canali, dove il romanticismo italiano incontra il glamour macanese. Questa esperienza pluripremiata vi porterà sotto ponti ad arco, accanto a edifici in stile europeo e sotto un cielo dipinto da sogno, con le melodiose serenate di abili gondolieri. Perfetto per le coppie, le famiglie e tutti coloro che sono alla ricerca di romanticismo e avventura: un'esperienza assolutamente da non perdere!",
+      "pt": "Passeio de gôndola no Venetian Macao: Romance no coração de Macau Não precisa de viajar para longe, para a Europa - experimente o encanto veneziano na Ásia! Embarque nas icónicas gôndolas do The Venetian Macao Resort e deslize ao longo dos canais, onde o romance italiano se encontra com o glamour macaense. Esta experiência premiada leva-o por baixo de pontes em arco, passando por edifícios de estilo europeu e sob um céu pintado de sonho, com serenatas melodiosas de gondoleiros experientes. Perfeito para casais, famílias e todos os que procuram romance e aventura - uma experiência absolutamente imperdível!"
+    },
+    "providerTitle": "Guangzhou Zhiwoyou Travel Agency",
+    "providerPhone": "+864000270062",
+    "URL": "https://www.freetour.com/macau/macau-venetian-romantic-gondola-ride-boat-ticket?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/macau/macau-venetian-romantic-gondola-ride-boat-ticket?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/macau/macau-venetian-romantic-gondola-ride-boat-ticket?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/macau/macau-venetian-romantic-gondola-ride-boat-ticket?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/macau/macau-venetian-romantic-gondola-ride-boat-ticket?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/macau/macau-venetian-romantic-gondola-ride-boat-ticket?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/macau/macau-venetian-romantic-gondola-ride-boat-ticket?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 25,
+      "currency": "EUR"
+    },
+    "length": "0:30",
+    "meetingPoint": {
+      "title": "3rd Floor, Grand Canal Shoppes, The Venetian Macao Resort Hotel, Avenida da Baía de Nossa Senhora da Esperança, Taipa, Macau (Postal Code: 999078)​",
+      "coordinates": "22.1470331,113.559839",
+      "googlePlaceId": "ChIJq6qqqhtwATQRA73C3iPs-tM"
+    },
+    "cityId": 2829,
+    "countryId": 89,
+    "includes": [
+      "Boat ticket"
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/87096/macau-venetian-romantic-gondola-ride-boat-ticket-01.jpg",
+    "categoryId": 3,
+    "images": [
+      {
+        "id": 300374,
+        "URL": "https://www.freetour.com/images/tours/87096/macau-venetian-romantic-gondola-ride-boat-ticket-01.jpg"
+      },
+      {
+        "id": 300375,
+        "URL": "https://www.freetour.com/images/tours/87096/macau-venetian-romantic-gondola-ride-boat-ticket-02.jpg"
+      },
+      {
+        "id": 300376,
+        "URL": "https://www.freetour.com/images/tours/87096/macau-venetian-romantic-gondola-ride-boat-ticket-03.jpg"
+      },
+      {
+        "id": 300377,
+        "URL": "https://www.freetour.com/images/tours/87096/macau-venetian-romantic-gondola-ride-boat-ticket-04.jpg"
+      },
+      {
+        "id": 300378,
+        "URL": "https://www.freetour.com/images/tours/87096/macau-venetian-romantic-gondola-ride-boat-ticket-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
   }
 ]

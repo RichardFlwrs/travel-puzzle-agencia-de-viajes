@@ -1,7 +1,7 @@
 [
   {
     "id": 66,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Zurich Old City Free Tour",
       "es": "Visita gratuita del casco antiguo de Zúrich",
@@ -142,12 +142,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.61,
-    "reviewsNumber": 211
+    "rating": 4.62,
+    "reviewsNumber": 215
   },
   {
     "id": 3641,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour in Bern",
       "es": "Visita libre en Berna",
@@ -311,7 +311,7 @@
   },
   {
     "id": 3832,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Bern: Private City Tour",
       "es": "Descubra Berna: Visita Privada de la Ciudad",
@@ -475,7 +475,7 @@
   },
   {
     "id": 3935,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pub Crawl Zurich - Party Tour",
       "es": "Pub Crawl Zúrich - Tour de fiesta",
@@ -572,7 +572,7 @@
   },
   {
     "id": 4239,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Language Exchange in Zurich",
       "es": "Intercambio de Idiomas en Zúrich",
@@ -664,7 +664,7 @@
   },
   {
     "id": 49328,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walk Through Sion, a Magnificent City, & Taste the Best Swiss Wines",
       "es": "Pasee por Sión, una ciudad magnífica, y pruebe los mejores vinos suizos",
@@ -740,7 +740,7 @@
   },
   {
     "id": 49618,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 12:57:37",
     "title": {
       "en": "The renewed and improved Tour de Zurich",
       "es": "El Renovado y Mejorado Tour de Zúrich",
@@ -807,12 +807,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.8,
-    "reviewsNumber": 38
+    "rating": 4.8100000000000005,
+    "reviewsNumber": 41
   },
   {
     "id": 49955,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rhine Falls Private Tour",
       "es": "Cataratas del Rin Tour Privado",
@@ -909,7 +909,7 @@
   },
   {
     "id": 50990,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Mysteries of Lausanne",
       "es": "Visita a los misterios de Lausana",
@@ -994,7 +994,7 @@
   },
   {
     "id": 71174,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bernina Express & St. Moritz Tour from Milan",
       "es": "Bernina Express &amp; St. Moritz Tour desde Milán",
@@ -1096,7 +1096,7 @@
   },
   {
     "id": 72643,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lucerne City Tour",
       "es": "Tour de la Ciudad de Lucerna",
@@ -1133,7 +1133,7 @@
       "it": "https://www.freetour.com/it/lucerne/tour-por-la-ciudad-de-lucerna?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 59,
+      "value": 39,
       "currency": "EUR"
     },
     "length": "1:45",
@@ -1250,7 +1250,7 @@
   },
   {
     "id": 72676,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of Bern",
       "es": "Free Tour por Berna",
@@ -1408,7 +1408,7 @@
     ],
     "videoURL": null,
     "rating": 4.97,
-    "reviewsNumber": 36
+    "reviewsNumber": 37
   },
   {
     "id": 74086,
@@ -1595,7 +1595,7 @@
   },
   {
     "id": 74544,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the charms of Stans on foot",
       "es": "Descubra los Encantos de Stans a Pie",
@@ -1632,7 +1632,7 @@
       "it": "https://www.freetour.com/it/stans/descubra-los-encantos-de-stans-a-pie?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 39,
+      "value": 19,
       "currency": "EUR"
     },
     "length": "1:30",
@@ -1733,7 +1733,7 @@
   },
   {
     "id": 75903,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "4 in 1 Zurich Lake Cruise, Premium Swiss Choco Photos in Dream Cafe",
       "es": "crucero 4 en 1 por el lago de Zúrich, fotos de chocolates suizos de primera calidad en Dream Cafe",
@@ -1809,7 +1809,7 @@
   },
   {
     "id": 76305,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour: At Home in Zurich",
       "es": "Free Tour: En Zúrich Como en Casa",
@@ -1953,12 +1953,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.95,
-    "reviewsNumber": 79
+    "rating": 4.96,
+    "reviewsNumber": 83
   },
   {
     "id": 76398,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Lugano on Foot",
       "es": "Descubra Lugano a pie",
@@ -2066,7 +2066,7 @@
   },
   {
     "id": 76492,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Secret Zurich Vintage Train Ride, Hill Viewpoint & River - Free photo",
       "es": "Viaje secreto en tren de época de Zúrich, mirador de la colina y río - Foto gratis",
@@ -2158,7 +2158,7 @@
   },
   {
     "id": 78599,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zurich Cruise Party & Hilltop Photo Shoot Free",
       "es": "Zurich Cruise Party &amp; Hilltop Photo Shoot Gratis",
@@ -2256,7 +2256,7 @@
   },
   {
     "id": 79381,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the other side of Zurich",
       "es": "Descubra la otra Cara de Zúrich",
@@ -2336,7 +2336,7 @@
   },
   {
     "id": 81877,
-    "updatedAt": "2025-12-01 05:21:41",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Walking Tour Zurich: History, Humor & Swiss Secrets",
       "es": "Free Tour a pie por Zúrich: Historia, Humor y Secretos Suizos",
@@ -2439,12 +2439,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.91,
-    "reviewsNumber": 18
+    "rating": 4.65,
+    "reviewsNumber": 21
   },
   {
     "id": 82253,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour: Zurich with Women's Voice",
       "es": "Free Tour: Zúrich con Voz Femenina",
@@ -2583,7 +2583,7 @@
   },
   {
     "id": 83706,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Zurich: Guided Tour",
       "es": "Descubra Zúrich: Visita guiada",
@@ -2682,7 +2682,7 @@
   },
   {
     "id": 84423,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Lucerne Old Town Free Walking Tour",
       "es": "Visita a pie gratuita del casco antiguo de Lucerna",
@@ -2790,7 +2790,7 @@
   },
   {
     "id": 84431,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Olten in an Hour: Free Tour",
       "es": "Olten en una hora: Visita gratuita",
@@ -2862,14 +2862,14 @@
   },
   {
     "id": 84455,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Zurich Food Tour: Top Five Cafes",
-      "es": "Tour gastronómico por Zúrich: Los cinco mejores cafés",
-      "pt": "Tour gastronómico em Zurique: Os cinco melhores cafés",
-      "de": "Zürich Food Tour: Die fünf besten Cafés",
-      "fr": "Zurich Food Tour : Les cinq meilleurs cafés",
-      "it": "Tour gastronomico di Zurigo: I cinque migliori caffè"
+      "en": "Zurich Christmas Market Food Tour: Top Five Cafes",
+      "es": "Recorrido gastronómico por el mercado navideño de Zúrich: Los cinco mejores cafés",
+      "pt": "Visita gastronómica ao mercado de Natal de Zurique: Os cinco melhores cafés",
+      "de": "Zürich Weihnachtsmarkt Food Tour: Die fünf besten Cafés",
+      "fr": "Visite guidée du marché de Noël de Zurich : Les cinq meilleurs cafés",
+      "it": "Tour gastronomico dei mercatini di Natale di Zurigo: I cinque migliori caffè"
     },
     "brief": {
       "de": "Spazieren Sie durch Zürich und besuchen Sie 5 erstklassige Restaurants, ein klassisches Café, eine historische Kirche, das Landesmuseum und einen Park am Flussufer. Eine schmackhafte, malerische und kulturelle Route, die das Beste der Stadt in einem unvergesslichen Spaziergang einfängt.",
@@ -2880,12 +2880,12 @@
       "pt": "Caminhe por Zurique e visite 5 restaurantes de topo, um café clássico, uma igreja histórica, o Museu Nacional e um parque ribeirinho. Um percurso saboroso, cénico e cultural que capta o melhor da cidade num passeio inesquecível."
     },
     "description": {
-      "de": "1. Bahnhof Zürich\r\nGlas, Marmor und der Duft von Kaffee und frischem Gebäck empfängt Sie. Ein geschäftiges Zentrum, in dem sich Einheimische und Reisende mischen und das einen ersten Eindruck von der Energie Zürichs vermittelt\r\n\r\n2. Schweizer Eleganz - Nationalmuseum\r\nTauchen Sie ein in Geschichte und Kultur. Glänzende Säle, kunstvolle Ausstellungen und die süßen Leckereien des Museumscafés laden dazu ein, die Schweizer Tradition bis ins kleinste Detail zu genießen.\r\n\r\n3. Londoner Flair\r\nWarme Lichter, Holzbalken, klirrende Gläser und goldene Pommes frites. Eine lebendige Ecke, in der Einheimische und Reisende Geschichten und den internationalen Rhythmus der Stadt teilen.\r\n\r\n4. Kräuter &amp; Harmonie\r\nHelle Farben, leise Musik und sanfte Gewürze. Frische Kräuter und Nudeln sorgen für Behaglichkeit und Genuss und bieten Wärme und Ruhe im Herzen der Stadt.\r\n\r\n5. Friedliche Besinnung\r\nGlocken hallen leise. Ein schattiger Innenhof, ruhige Bänke und Steinmauern laden zum Ausruhen und Nachdenken ein und zeigen die sanfte, nachdenkliche Seite Zürichs.\r\n\r\n6. Gewürze und Freude\r\nZitronengras, Chili und Kokosnuss erfüllen die Luft. Bunte Teller, ein freundliches Lächeln und das pulsierende Leben auf der Straße sorgen für einen lebendigen, geschmackvollen Fisch\r\n\r\n7. Die Straße, die niemals schläft\r\nNeonlichter, Musik und Aromen erfüllen die Luft. Einst rau, heute kreativ, pulsiert sie vor Energie und globalen Aromen,",
-      "en": "1. Zürich train station\r\nGlass, marble, and the aroma of coffee and fresh pastries greet you. A bustling hub where locals and travelers mingle, offering a first taste of Zurich’s energy\r\n\r\n2. Swiss Elegance –national museum\r\nStep into history and culture. Gleaming halls, intricate displays, and the museum café’s sweet treats invite you to savor Swiss tradition in every detail.\r\n\r\n3. London Vibes\r\nWarm lights, wooden beams, clinking glasses, and golden fries. A lively corner where locals and travelers share stories and the city’s international rhythm.\r\n\r\n4. Herbs & Harmony\r\nBright colors, soft music, and gentle spices. Fresh herbs and noodles comfort and delight, offering warmth and calm in the city’s heart.\r\n\r\n5. Peaceful Reflection\r\nBells echo softly. Shaded courtyard, quiet benches, and stone walls invite rest and reflection, showing Zürich’s gentle, thoughtful side.\r\n\r\n6. Spices & Joy\r\nLemongrass, chili, and coconut fill the air. Colorful plates, friendly smiles, and vibrant street life blend for a lively, flavor fish\r\n\r\n7. The Street That Never Sleeps\r\nNeon lights, music, and aromas fill the air. Once rough, now creative, it pulses with energy, global flavors,",
-      "es": "1. Estación de tren de Zúrich\r\nCristal, mármol y aroma a café y bollería recién hecha. Un bullicioso centro donde se mezclan lugareños y viajeros, que ofrece una primera muestra de la energía de Zúrich\r\n\r\n2. Elegancia suiza - museo nacional\r\nAdéntrese en la historia y la cultura. Sus relucientes salas, sus intrincadas exposiciones y los dulces del café del museo le invitan a saborear la tradición suiza en cada detalle.\r\n\r\n3. Ambiente londinense\r\nLuces cálidas, vigas de madera, vasos que tintinean y patatas fritas doradas. Un animado rincón donde lugareños y viajeros comparten historias y el ritmo internacional de la ciudad.\r\n\r\n4. Hierbas y armonía\r\nColores brillantes, música suave y suaves especias. Las hierbas frescas y los fideos reconfortan y deleitan, ofreciendo calidez y calma en el corazón de la ciudad.\r\n\r\n5. Reflexión pacífica\r\nLas campanas resuenan suavemente. Un patio sombreado, bancos tranquilos y muros de piedra invitan al descanso y la reflexión, mostrando el lado amable y reflexivo de Zúrich.\r\n\r\n6. Especias y alegría\r\nLa hierba limón, el chile y el coco llenan el ambiente. Platos coloridos, sonrisas amables y una vibrante vida callejera se mezclan para dar vida a un pescado lleno de sabor\r\n\r\n7. La calle que nunca duerme\r\nLuces de neón, música y aromas llenan el aire. Antes ruda, ahora creativa, palpita con energía y sabores globales,",
-      "fr": "1. Gare de Zurich\r\nLe verre, le marbre et l'arôme du café et des pâtisseries fraîches vous accueillent. Un centre animé où se mêlent habitants et voyageurs, offrant un premier aperçu de l'énergie de Zurich\r\n\r\n2. Élégance suisse - musée national\r\nEntrez dans l'histoire et la culture. Les salles étincelantes, les expositions complexes et les douceurs du café du musée vous invitent à savourer la tradition suisse dans ses moindres détails.\r\n\r\n3. L'ambiance londonienne\r\nDes lumières chaudes, des poutres en bois, des verres qui s'entrechoquent et des frites dorées. Un coin animé où les habitants et les voyageurs partagent leurs histoires et le rythme international de la ville.\r\n\r\n4. Herbes et harmonie\r\nCouleurs vives, musique douce et épices délicates. Les herbes fraîches et les nouilles réconfortent et ravissent, offrant chaleur et calme au cœur de la ville.\r\n\r\n5. Réflexion paisible\r\nLes cloches résonnent doucement. Une cour ombragée, des bancs tranquilles et des murs en pierre invitent au repos et à la réflexion, montrant le côté doux et réfléchi de Zürich.\r\n\r\n6. Épices et joie\r\nCitronnelle, piment et noix de coco emplissent l'air. Les assiettes colorées, les sourires amicaux et la vie de rue animée se mélangent pour créer un poisson vivant et savoureux\r\n\r\n7. La rue qui ne dort jamais\r\nNéons, musique et arômes emplissent l'air. Autrefois rude, aujourd'hui créative, elle vibre d'énergie et de saveurs du monde,",
-      "it": "1. Stazione ferroviaria di Zurigo\r\nVetro, marmo e l'aroma di caffè e pasticcini freschi vi accolgono. Un centro vivace dove si mescolano abitanti e viaggiatori, che offre un primo assaggio dell'energia di Zurigo\r\n\r\n2. Eleganza svizzera - Museo nazionale\r\nUn salto nella storia e nella cultura. Sale scintillanti, esposizioni complesse e i dolci del caffè del museo vi invitano ad assaporare la tradizione svizzera in ogni dettaglio.\r\n\r\n3. Vibrazioni londinesi\r\nLuci calde, travi in legno, bicchieri che tintinnano e patatine dorate. Un angolo vivace dove abitanti e viaggiatori condividono storie e il ritmo internazionale della città.\r\n\r\n4. Erbe e armonia\r\nColori vivaci, musica soft e spezie delicate. Erbe fresche e noodles confortano e deliziano, offrendo calore e calma nel cuore della città.\r\n\r\n5. Riflessione pacifica\r\nLe campane risuonano dolcemente. Il cortile ombreggiato, le panchine silenziose e i muri in pietra invitano al riposo e alla riflessione, mostrando il lato gentile e riflessivo di Zurigo.\r\n\r\n6. Spezie e gioia\r\nLemongrass, peperoncino e cocco riempiono l'aria. Piatti colorati, sorrisi amichevoli e una vivace vita di strada si fondono per un pesce vivace e ricco di sapori\r\n\r\n7. La strada che non dorme mai\r\nLuci al neon, musica e aromi riempiono l'aria. Un tempo rude, ora creativa, pulsa di energia e sapori globali,",
-      "pt": "1. Estação de comboios de Zurique\r\nO vidro, o mármore e o aroma do café e dos bolos frescos saúdam-no. Um centro movimentado onde os habitantes locais e os viajantes se misturam, oferecendo uma primeira amostra da energia de Zurique\r\n\r\n2. Swiss Elegance - museu nacional\r\nEntre na história e na cultura. Salões reluzentes, exposições complexas e os doces do café do museu convidam-no a saborear a tradição suíça em cada pormenor.\r\n\r\n3. Vibrações londrinas\r\nLuzes quentes, vigas de madeira, copos a tilintar e batatas fritas douradas. Um canto animado onde os habitantes locais e os viajantes partilham histórias e o ritmo internacional da cidade.\r\n\r\n4. Ervas &amp; Harmonia\r\nCores vivas, música suave e especiarias suaves. Ervas frescas e noodles confortam e deliciam, oferecendo calor e calma no coração da cidade.\r\n\r\n5. Reflexão pacífica\r\nOs sinos ecoam suavemente. O pátio sombreado, os bancos tranquilos e as paredes de pedra convidam ao descanso e à reflexão, mostrando o lado gentil e atencioso de Zurique.\r\n\r\n6. Especiarias e alegria\r\nErva-limão, chili e coco enchem o ar. Pratos coloridos, sorrisos simpáticos e uma vida de rua vibrante misturam-se para criar um peixe animado e saboroso\r\n\r\n7. A rua que nunca dorme\r\nLuzes de néon, música e aromas enchem o ar. Outrora rude, agora criativa, pulsa com energia e sabores globais,"
+      "de": "1. Bahnhof Zürich\r\nGlas, Marmor und der Duft von Kaffee und frischem Gebäck empfangen Sie. Ein geschäftiges Zentrum, in dem sich Einheimische und Reisende mischen und das einen ersten Eindruck von der Energie Zürichs vermittelt\r\n\r\n2. Schweizer Eleganz - Landesmuseum\r\nTauchen Sie ein in Geschichte und Kultur. Glänzende Säle, kunstvolle Ausstellungen und die süßen Leckereien des Museumscafés laden dazu ein, die Schweizer Tradition in jedem Detail zu genießen.\r\n\r\n3. Londoner Flair\r\nWarme Lichter, Holzbalken, klirrende Gläser und goldene Pommes frites. Eine lebendige Ecke, in der Einheimische und Reisende Geschichten und den internationalen Rhythmus der Stadt teilen.\r\n\r\n4. Kräuter &amp; Harmonie\r\nHelle Farben, leise Musik und sanfte Gewürze. Frische Kräuter und Nudeln sorgen für Behaglichkeit und Genuss und bieten Wärme und Ruhe im Herzen der Stadt.\r\n\r\n5. Friedliche Besinnung\r\nGlocken hallen leise. Ein schattiger Innenhof, ruhige Bänke und Steinmauern laden zum Ausruhen und Nachdenken ein und zeigen die sanfte, nachdenkliche Seite Zürichs.\r\n\r\n6. Gewürze und Freude\r\nZitronengras, Chili und Kokosnuss erfüllen die Luft. Bunte Teller, ein freundliches Lächeln und das pulsierende Leben auf der Straße sorgen für einen lebendigen, geschmackvollen Fisch\r\n\r\n7. Die Straße, die niemals schläft\r\nNeonlichter, Musik und Aromen erfüllen die Luft. Einst rau, heute kreativ, pulsiert sie vor Energie und globalen Aromen,",
+      "en": "1. Zürich train station\r\nGlass, marble, and the aroma of coffee and fresh pastries greet you. A bustling hub where locals and travelers mingle, offering a first taste of Zürich’s energy\r\n\r\n2. Swiss Elegance –National Museum\r\nStep into history and culture. Gleaming halls, intricate displays, and the museum café’s sweet treats invite you to savor Swiss tradition in every detail.\r\n\r\n3. London Vibes\r\nWarm lights, wooden beams, clinking glasses, and golden fries. A lively corner where locals and travelers share stories and the city’s international rhythm.\r\n\r\n4. Herbs & Harmony\r\nBright colors, soft music, and gentle spices. Fresh herbs and noodles comfort and delight, offering warmth and calm in the city’s heart.\r\n\r\n5. Peaceful Reflection\r\nBells echo softly. Shaded courtyard, quiet benches, and stone walls invite rest and reflection, showing Zürich’s gentle, thoughtful side.\r\n\r\n6. Spices & Joy\r\nLemongrass, chili, and coconut fill the air. Colorful plates, friendly smiles, and vibrant street life blend for a lively, flavor fish\r\n\r\n7. The Street That Never Sleeps\r\nNeon lights, music, and aromas fill the air. Once rough, now creative, it pulses with energy, global flavors,",
+      "es": "1. Estación de tren de Zúrich\r\nCristal, mármol y aroma a café y bollería recién hecha. Un bullicioso centro donde se mezclan lugareños y viajeros, que ofrece una primera muestra de la energía de Zúrich\r\n\r\n2. Elegancia suiza -Museo Nacional\r\nAdéntrese en la historia y la cultura. Sus relucientes salas, sus intrincadas exposiciones y los dulces de la cafetería del museo le invitan a saborear la tradición suiza en cada detalle.\r\n\r\n3. Ambiente londinense\r\nLuces cálidas, vigas de madera, vasos que tintinean y patatas fritas doradas. Un animado rincón donde lugareños y viajeros comparten historias y el ritmo internacional de la ciudad.\r\n\r\n4. Hierbas y armonía\r\nColores brillantes, música suave y suaves especias. Las hierbas frescas y los fideos reconfortan y deleitan, ofreciendo calidez y calma en el corazón de la ciudad.\r\n\r\n5. Reflexión pacífica\r\nLas campanas resuenan suavemente. Un patio sombreado, bancos tranquilos y muros de piedra invitan al descanso y la reflexión, mostrando el lado amable y reflexivo de Zúrich.\r\n\r\n6. Especias y alegría\r\nLa hierba limón, el chile y el coco llenan el ambiente. Platos coloridos, sonrisas amables y una vibrante vida callejera se mezclan para dar vida a un pescado lleno de sabor\r\n\r\n7. La calle que nunca duerme\r\nLuces de neón, música y aromas llenan el aire. Antes ruda, ahora creativa, palpita con energía y sabores globales,",
+      "fr": "1. Gare de Zurich\r\nLe verre, le marbre et l'arôme du café et des pâtisseries fraîches vous accueillent. Un centre animé où les habitants et les voyageurs se mêlent, offrant un premier aperçu de l'énergie de Zürich\r\n\r\n2. Élégance suisse - Musée national\r\nEntrez dans l'histoire et la culture. Les salles étincelantes, les expositions complexes et les douceurs du café du musée vous invitent à savourer la tradition suisse dans ses moindres détails.\r\n\r\n3. L'ambiance londonienne\r\nDes lumières chaudes, des poutres en bois, des verres qui s'entrechoquent et des frites dorées. Un coin animé où les habitants et les voyageurs partagent leurs histoires et le rythme international de la ville.\r\n\r\n4. Herbes et harmonie\r\nCouleurs vives, musique douce et épices délicates. Les herbes fraîches et les nouilles réconfortent et ravissent, offrant chaleur et calme au cœur de la ville.\r\n\r\n5. Réflexion paisible\r\nLes cloches résonnent doucement. Une cour ombragée, des bancs tranquilles et des murs en pierre invitent au repos et à la réflexion, montrant le côté doux et réfléchi de Zürich.\r\n\r\n6. Épices et joie\r\nCitronnelle, piment et noix de coco emplissent l'air. Les assiettes colorées, les sourires amicaux et la vie de rue animée se mélangent pour créer un poisson vivant et savoureux\r\n\r\n7. La rue qui ne dort jamais\r\nNéons, musique et arômes emplissent l'air. Autrefois rude, aujourd'hui créative, elle vibre d'énergie et de saveurs du monde,",
+      "it": "1. Stazione ferroviaria di Zurigo\r\nVetro, marmo e l'aroma di caffè e pasticcini freschi vi accolgono. Un centro vivace dove si mescolano abitanti e viaggiatori, che offre un primo assaggio dell'energia di Zurigo\r\n\r\n2. Eleganza svizzera - Museo Nazionale\r\nUn salto nella storia e nella cultura. Sale scintillanti, esposizioni complesse e i dolci della caffetteria del museo vi invitano ad assaporare la tradizione svizzera in ogni dettaglio.\r\n\r\n3. Vibrazioni londinesi\r\nLuci calde, travi in legno, bicchieri che tintinnano e patatine dorate. Un angolo vivace dove abitanti e viaggiatori condividono storie e il ritmo internazionale della città.\r\n\r\n4. Erbe e armonia\r\nColori vivaci, musica soft e spezie delicate. Erbe fresche e noodles confortano e deliziano, offrendo calore e calma nel cuore della città.\r\n\r\n5. Riflessione pacifica\r\nLe campane risuonano dolcemente. Il cortile ombreggiato, le panchine silenziose e i muri in pietra invitano al riposo e alla riflessione, mostrando il lato gentile e riflessivo di Zurigo.\r\n\r\n6. Spezie e gioia\r\nLemongrass, peperoncino e cocco riempiono l'aria. Piatti colorati, sorrisi amichevoli e una vivace vita di strada si fondono per un pesce vivace e ricco di sapori\r\n\r\n7. La strada che non dorme mai\r\nLuci al neon, musica e aromi riempiono l'aria. Un tempo rude, ora creativa, pulsa di energia e sapori globali,",
+      "pt": "1. Estação de comboios de Zurique\r\nVidro, mármore e o aroma de café e pastelaria fresca saúdam-no. Um centro movimentado onde os habitantes locais e os viajantes se misturam, oferecendo uma primeira amostra da energia de Zurique\r\n\r\n2. Elegância suíça - Museu Nacional\r\nEntre na história e na cultura. Salões reluzentes, exposições complexas e os doces do café do museu convidam-no a saborear a tradição suíça em cada pormenor.\r\n\r\n3. Vibrações londrinas\r\nLuzes quentes, vigas de madeira, copos a tilintar e batatas fritas douradas. Um canto animado onde os habitantes locais e os viajantes partilham histórias e o ritmo internacional da cidade.\r\n\r\n4. Ervas &amp; Harmonia\r\nCores vivas, música suave e especiarias suaves. Ervas frescas e noodles confortam e deliciam, oferecendo calor e calma no coração da cidade.\r\n\r\n5. Reflexão pacífica\r\nOs sinos ecoam suavemente. O pátio sombreado, os bancos tranquilos e as paredes de pedra convidam ao descanso e à reflexão, mostrando o lado gentil e atencioso de Zurique.\r\n\r\n6. Especiarias e alegria\r\nErva-limão, chili e coco enchem o ar. Pratos coloridos, sorrisos simpáticos e uma vida de rua vibrante misturam-se para criar um peixe animado e saboroso\r\n\r\n7. A rua que nunca dorme\r\nLuzes de néon, música e aromas enchem o ar. Outrora rude, agora criativa, pulsa com energia e sabores globais,"
     },
     "providerTitle": "Kathy",
     "providerPhone": "+41772807861",
@@ -2910,8 +2910,22 @@
     },
     "cityId": 4184,
     "countryId": 151,
-    "includes": null,
-    "POIs": null,
+    "includes": [
+      "Swiss National Museum",
+      "Novotel Zurich City-West"
+    ],
+    "POIs": [
+      {
+        "id": 34099,
+        "title": "Swiss National Museum",
+        "googlePlaceId": "ChIJLYUQHAkKkEcRzA4gWFr1Hf8"
+      },
+      {
+        "id": 35075,
+        "title": "Novotel Zurich City-West",
+        "googlePlaceId": "ChIJv36kS0cKkEcRVxQJAsV-8rI"
+      }
+    ],
     "titleImageURL": "https://www.freetour.com/images/tours/84455/-03.jpg",
     "categoryId": 5,
     "images": [
@@ -2959,5 +2973,97 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
+  },
+  {
+    "id": 64320,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Italian Tour of Bern's Old Town",
+      "es": "Visita italiana del casco antiguo de Berna",
+      "pt": "Visita italiana ao centro histórico de Berna",
+      "de": "Italienischer Rundgang durch die Altstadt von Bern",
+      "fr": "Visite italienne de la vieille ville de Berne",
+      "it": "Tour italiano del centro storico di Berna"
+    },
+    "brief": {
+      "de": "Entdecken Sie die Berner Altstadt auf einem unterhaltsamen Rundgang! Erkunden Sie die berühmtesten Denkmäler, entdecken Sie faszinierende Fakten und verlieben Sie sich in den Charme der Stadt. Lassen Sie sich das nicht entgehen. Erleben Sie Bern wie nie zuvor!",
+      "en": "Join our fun walking tour and discover Bern's Old Town! Explore its most iconic monuments, uncover fascinating facts, and fall in love with the city’s charm. Don’t miss out. Experience Bern like never before!",
+      "es": "Únase a nuestro divertido recorrido a pie y descubra el casco antiguo de Berna Explore sus monumentos más emblemáticos, descubra hechos fascinantes y enamórese del encanto de la ciudad. No se lo pierda. Viva Berna como nunca antes",
+      "fr": "Participez à notre amusante visite à pied et découvrez la vieille ville de Berne ! Explorez ses monuments les plus emblématiques, découvrez des faits fascinants et tombez sous le charme de la ville. Ne manquez pas cette occasion. Découvrez Berne comme jamais auparavant !",
+      "it": "Unitevi al nostro divertente tour a piedi e scoprite il centro storico di Berna! Esplorate i suoi monumenti più rappresentativi, scoprite fatti affascinanti e innamoratevi del fascino della città. Non perdete l'occasione. Vivete Berna come mai prima d'ora!",
+      "pt": "Junte-se ao nosso divertido passeio a pé e descubra a Cidade Velha de Berna! Explore os seus monumentos mais emblemáticos, descubra factos fascinantes e apaixone-se pelo encanto da cidade. Não perca esta oportunidade. Experimente Berna como nunca antes!"
+    },
+    "description": {
+      "de": "Ausgangspunkt ist der Rosengarten, von dem aus man mit einem herrlichen Blick auf die Stadt Bern zum Bärengraben hinabsteigt. Von hier aus geht es hinauf in die Altstadt, vorbei an den wichtigsten Bauwerken wie dem Münster und dem Uhrenturm, aber auch an den charakteristischen Springbrunnen. \r\n\r\nDann geht es unter den typischen Arkaden hindurch zum Bundeshaus. Es gibt viel Interessantes zu erfahren, auch über die Berner Küche und den Dialekt.",
+      "en": "The starting point is the Rosengarten, from which, enjoying a magnificent view of the city of Bern, you descend to the Bear Pit. From here, you go up into the old city, passing its most important monuments, such as the Münster and the Clock Tower, not forgetting its characteristic fountains. \r\n\r\nYou then come passing under the typical arcades to the Palace of Parliament (Bundeshaus). Lots of interesting facts to learn, not forgetting also some notes on Bernese cuisine and dialect.",
+      "es": "El punto de partida es el Rosengarten, desde donde, disfrutando de una magnífica vista de la ciudad de Berna, se desciende hasta el Foso de los Osos. Desde aquí, se sube al casco antiguo, pasando por sus monumentos más importantes, como el Münster y la Torre del Reloj, sin olvidar sus características fuentes. \r\n\r\nPasando por debajo de las típicas arcadas se llega al Palacio del Parlamento (Bundeshaus). Muchos datos interesantes que aprender, sin olvidar también algunas notas sobre la cocina y el dialecto berneses.",
+      "fr": "Le point de départ est le Rosengarten, d'où l'on jouit d'une vue magnifique sur la ville de Berne et où l'on descend jusqu'à la Fosse aux Ours. De là, vous montez dans la vieille ville, en passant devant ses monuments les plus importants, tels que le Münster et la Tour de l'Horloge, sans oublier ses fontaines caractéristiques. \r\n\r\nVous passez ensuite sous les arcades typiques pour arriver au Palais du Parlement (Bundeshaus). Beaucoup de faits intéressants à apprendre, sans oublier quelques notes sur la cuisine et le dialecte bernois.",
+      "it": "Il punto di partenza è il Catinaccio, da cui, godendo di una magnifica vista sulla città di Berna, si scende fino alla Fossa degli Orsi. Da qui si sale nella città vecchia, passando davanti ai suoi monumenti più importanti, come il Münster e la Torre dell'Orologio, senza dimenticare le sue caratteristiche fontane. \r\n\r\nPassando sotto i tipici portici si arriva al Palazzo del Parlamento (Bundeshaus). Tante le curiosità da imparare, senza dimenticare alcune note sulla cucina e sul dialetto bernese.",
+      "pt": "O ponto de partida é o Rosengarten, de onde, desfrutando de uma magnífica vista sobre a cidade de Berna, se desce até ao Fosso dos Ursos. A partir daqui, sobe-se para a cidade velha, passando pelos seus monumentos mais importantes, como o Münster e a Torre do Relógio, sem esquecer as suas fontes caraterísticas. \r\n\r\nDepois, passa-se por baixo das arcadas típicas até ao Palácio do Parlamento (Bundeshaus). Muitos factos interessantes para aprender, não esquecendo também algumas notas sobre a cozinha e o dialeto de Berna."
+    },
+    "providerTitle": "Valentina Colombo",
+    "providerPhone": "0762379854",
+    "URL": "https://www.freetour.com/bern/walking-tour-of-berns-old-town?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/bern/walking-tour-of-berns-old-town?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/bern/walking-tour-of-berns-old-town?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/bern/walking-tour-of-berns-old-town?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/bern/walking-tour-of-berns-old-town?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/bern/walking-tour-of-berns-old-town?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/bern/walking-tour-of-berns-old-town?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 20,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Rosengarten - Statue of Einstein ",
+      "coordinates": "46.9509321,7.4605664",
+      "googlePlaceId": "ChIJoQ_zwdw5jkcRP3OsikXaj2w"
+    },
+    "cityId": 4128,
+    "countryId": 151,
+    "includes": [
+      "The Parliament Building",
+      "Clock Tower Station",
+      "Rosengarten Bern / Parkanlage"
+    ],
+    "POIs": [
+      {
+        "id": 1840,
+        "title": "The Parliament Building",
+        "googlePlaceId": "ChIJ7QMXJsc5jkcRdcaSO2ngq74"
+      },
+      {
+        "id": 26959,
+        "title": "Clock Tower Station",
+        "googlePlaceId": "ChIJdyX7guayj0cR0e3BRBK0fZI"
+      },
+      {
+        "id": 10026,
+        "title": "Rosengarten Bern / Parkanlage",
+        "googlePlaceId": "ChIJtVOLBd45jkcRIIB9sn-RBog"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/64320/tour-a-piedi-nella-citta-vecchia-di-berna-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 224371,
+        "URL": "https://www.freetour.com/images/tours/64320/tour-a-piedi-nella-citta-vecchia-di-berna-01.jpg"
+      },
+      {
+        "id": 224392,
+        "URL": "https://www.freetour.com/images/tours/64320/walking-tour-of-berns-old-town-01.jpg"
+      },
+      {
+        "id": 224393,
+        "URL": "https://www.freetour.com/images/tours/64320/walking-tour-of-berns-old-town-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.77,
+    "reviewsNumber": 6
   }
 ]

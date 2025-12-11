@@ -1,7 +1,7 @@
 [
   {
     "id": 44911,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Kigali's Hidden Charms Free Tour",
       "es": "Visita gratuita a los encantos ocultos de Kigali",
@@ -121,7 +121,7 @@
   },
   {
     "id": 53228,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Boat Riding & Hiking on Napoleon’s Hat Island",
       "es": "Paseo en barco y senderismo por la Isla del Sombrero de Napoleón",
@@ -204,7 +204,7 @@
   },
   {
     "id": 53231,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Huye Mountain Coffee Tour Experience",
       "es": "Tour del café de la montaña de Huye",
@@ -288,7 +288,7 @@
   },
   {
     "id": 53669,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mountain Gorillas Trekking in Rwanda",
       "es": "Trekking de Gorilas de Montaña en Ruanda",
@@ -386,7 +386,7 @@
   },
   {
     "id": 59914,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Kivu Lake & Its People",
       "es": "Descubrir el lago Kivu y su gente",
@@ -468,7 +468,7 @@
   },
   {
     "id": 61931,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gisenyi City Tour & Kivu Lake Boat Ride",
       "es": "Visita a la Ciudad de Gisenyi y Paseo en Barco por el Lago Kivu",
@@ -617,7 +617,7 @@
   },
   {
     "id": 66038,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore Kigali on a Free Tour",
       "es": "Explore Kigali en un recorrido gratuito",
@@ -787,7 +787,7 @@
   },
   {
     "id": 74978,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of the Entire City of Kinshasa",
       "es": "Visita Guiada por Toda la Ciudad de Kinshasa",
@@ -870,7 +870,7 @@
   },
   {
     "id": 76817,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Akagera National Park Tour from Kigali",
       "es": "Excursión al Parque Nacional de Akagera desde Kigali",
@@ -955,7 +955,7 @@
   },
   {
     "id": 76933,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Akagera: Day Safari Tour",
       "es": "Descubra Akagera: Tour de Safari de un Día",
@@ -1049,7 +1049,7 @@
   },
   {
     "id": 85060,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kigali: Scenic Bike Tour: Nature & Local Culture ",
       "es": "Kigali: Recorrido panorámico en bicicleta: Naturaleza y cultura local ",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": 85685,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Kigali: History, Art, Markets & Local Life Free Tour",
       "es": "Descubra Kigali: historia, arte, mercados y vida local Visita gratuita",
@@ -1309,7 +1309,7 @@
   },
   {
     "id": 86225,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Traditional Rwandan Cooking Experience with a Local",
       "es": "Experiencia de cocina tradicional ruandesa con un lugareño",
@@ -1384,5 +1384,125 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
+  },
+  {
+    "id": 76413,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Free Walking Tour of Kigali",
+      "es": "Visita gratuita a pie por Kigali",
+      "pt": "Passeio a pé gratuito por Kigali",
+      "de": "Kostenlose Stadtrundfahrt durch Kigali",
+      "fr": "Visite à pied gratuite de Kigali",
+      "it": "Tour a piedi gratuito di Kigali"
+    },
+    "brief": {
+      "de": "Nehmen Sie an einem kostenlosen Rundgang durch Kigali teil und entdecken Sie die versteckten Schätze der Stadt! Erkunden Sie in nur 2 Stunden lebendige Märkte, das lokale Leben und historische Sehenswürdigkeiten. Eine perfekte Einführung in die ruandische Kultur, Geschichten und den Charme des Alltags.",
+      "en": "Join a free walking tour of Kigali and discover the city’s hidden gems! Explore lively markets, local life, and historic landmarks in just 2 hours. A perfect intro to Rwandan culture, stories, and everyday charm.",
+      "es": "Únase a un recorrido gratuito a pie por Kigali y descubra las joyas ocultas de la ciudad Explore los animados mercados, la vida local y los monumentos históricos en sólo 2 horas. Una introducción perfecta a la cultura, las historias y el encanto cotidiano de Ruanda.",
+      "fr": "Participez à une visite à pied gratuite de Kigali et découvrez les joyaux cachés de la ville ! Explorez les marchés animés, la vie locale et les sites historiques en seulement 2 heures. Une introduction parfaite à la culture rwandaise, à ses histoires et à son charme quotidien.",
+      "it": "Partecipate a un tour a piedi gratuito di Kigali e scoprite le gemme nascoste della città! Esplorate i vivaci mercati, la vita locale e i monumenti storici in sole 2 ore. Una perfetta introduzione alla cultura, alle storie e al fascino quotidiano del Ruanda.",
+      "pt": "Participe num passeio a pé gratuito por Kigali e descubra as jóias escondidas da cidade! Explore os mercados animados, a vida local e os marcos históricos em apenas 2 horas. Uma introdução perfeita à cultura, às histórias e ao encanto quotidiano do Ruanda."
+    },
+    "description": {
+      "de": "2-stündige Kigali-Spaziergangstour Beschreibung:\r\n\r\nErkunden Sie das pulsierende Herz von Ruandas Hauptstadt bei einem 2-stündigen geführten Rundgang durch Kigali. Diese Tour bietet einen Einblick in die reiche Geschichte, Kultur und das moderne Leben der Stadt. Schlendern Sie durch das belebte Stadtzentrum, besuchen Sie lokale Märkte wie Kimironko oder Nyamirambo (je nach Route), bewundern Sie farbenfrohe Straßenkunst und hören Sie Geschichten über Kigalis bemerkenswerten Wandel. \r\n\r\nDiese Tour eignet sich perfekt für Erstbesucher und bietet eine ansprechende Einführung in den Charme und die Widerstandsfähigkeit der Stadt zu Fuß.",
+      "en": "2-Hour Kigali Walking Tour Description:\r\n\r\nExplore the vibrant heart of Rwanda’s capital with a guided 2-hour walking tour through Kigali. This tour offers a glimpse into the city's rich history, culture, and modern-day life. Stroll through the bustling city center, visit local markets like Kimironko or Nyamirambo (depending on route), admire colorful street art, and hear stories of Kigali’s remarkable transformation. \r\n\r\nPerfect for first-time visitors, this tour provides an engaging, on-foot introduction to the city’s charm and resilience.",
+      "es": "visita guiada a pie de 2 horas por Kigali Descripción:\r\n\r\nExplore el vibrante corazón de la capital de Ruanda con una visita guiada a pie de 2 horas por Kigali. Este recorrido ofrece una visión de la rica historia, cultura y vida moderna de la ciudad. Pasee por el bullicioso centro de la ciudad, visite mercados locales como Kimironko o Nyamirambo (dependiendo de la ruta), admire el colorido arte callejero y escuche historias sobre la notable transformación de Kigali. \r\n\r\nPerfecto para quienes visitan la ciudad por primera vez, este recorrido ofrece una atractiva introducción a pie al encanto y la resistencia de la ciudad.",
+      "fr": "visite à pied de 2 heures à Kigali Description :\r\n\r\nExplorez le cœur vibrant de la capitale du Rwanda grâce à une visite guidée à pied de 2 heures dans Kigali. Cette visite offre un aperçu de la richesse de l'histoire, de la culture et de la vie moderne de la ville. Promenez-vous dans le centre-ville animé, visitez les marchés locaux comme Kimironko ou Nyamirambo (selon l'itinéraire), admirez les œuvres d'art de rue colorées et écoutez les récits de la remarquable transformation de Kigali. \r\n\r\nParfaite pour les personnes qui visitent Kigali pour la première fois, cette visite est une introduction intéressante au charme et à la résilience de la ville.",
+      "it": "tour a piedi di 2 ore a Kigali Descrizione:\r\n\r\nEsplorate il cuore vibrante della capitale del Ruanda con un tour guidato di 2 ore a piedi di Kigali. Questo tour offre uno sguardo alla ricca storia, alla cultura e alla vita moderna della città. Passeggiate nel vivace centro della città, visitate i mercati locali come Kimironko o Nyamirambo (a seconda dell'itinerario), ammirate la colorata arte di strada e ascoltate le storie della notevole trasformazione di Kigali. \r\n\r\nPerfetto per chi visita la città per la prima volta, questo tour offre un'introduzione coinvolgente e a piedi al fascino e alla capacità di recupero della città.",
+      "pt": "passeio a pé de 2 horas em Kigali Descrição:\r\n\r\nExplore o coração vibrante da capital do Ruanda com um passeio a pé guiado de 2 horas por Kigali. Este passeio oferece um vislumbre da rica história, cultura e vida moderna da cidade. Passeie pelo movimentado centro da cidade, visite mercados locais como Kimironko ou Nyamirambo (dependendo da rota), admire a colorida arte de rua e ouça histórias da notável transformação de Kigali. \r\n\r\nPerfeito para quem visita a cidade pela primeira vez, este passeio proporciona uma introdução envolvente e a pé ao encanto e à resiliência da cidade."
+    },
+    "providerTitle": "Kalibutous",
+    "providerPhone": "+256777559835",
+    "URL": "https://www.freetour.com/kigali/free-walking-tour-of-kigali?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/kigali/free-walking-tour-of-kigali?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/kigali/free-walking-tour-of-kigali?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/kigali/free-walking-tour-of-kigali?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/kigali/free-walking-tour-of-kigali?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/kigali/free-walking-tour-of-kigali?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/kigali/free-walking-tour-of-kigali?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:45",
+    "meetingPoint": {
+      "title": "Kigali Genocide Memorial",
+      "coordinates": "-1.9307662,30.06052469999999",
+      "googlePlaceId": "ChIJ5Vg1YgSk3BkRc_EXRdadcu4"
+    },
+    "cityId": 3575,
+    "countryId": 130,
+    "includes": [
+      "Nyamirambo Women's Center (NWC)",
+      "Kimironko Market",
+      "Kigali Genocide Memorial",
+      "Inema Arts Centre",
+      "Downtown"
+    ],
+    "POIs": [
+      {
+        "id": 31527,
+        "title": "Nyamirambo Women's Center (NWC)",
+        "googlePlaceId": "ChIJ32Vc_Nal3BkRGdNkXVvGyS0"
+      },
+      {
+        "id": 24276,
+        "title": "Kimironko Market",
+        "googlePlaceId": "ChIJ6Wou6w-n3BkRV1pEE35WyUI"
+      },
+      {
+        "id": 24274,
+        "title": "Kigali Genocide Memorial",
+        "googlePlaceId": "ChIJkwhGhwOk3BkRItpUVuWWClI"
+      },
+      {
+        "id": 31526,
+        "title": "Inema Arts Centre",
+        "googlePlaceId": "ChIJRW-dOeum3BkR6mOf1nZazb4"
+      },
+      {
+        "id": 31528,
+        "title": "Downtown",
+        "googlePlaceId": "ChIJuVTAUtal3BkRz-m3_r-ztfI"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-07.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 278548,
+        "URL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-07.jpg"
+      },
+      {
+        "id": 264562,
+        "URL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-01.jpg"
+      },
+      {
+        "id": 264563,
+        "URL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-02.jpg"
+      },
+      {
+        "id": 264697,
+        "URL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-04.jpg"
+      },
+      {
+        "id": 264698,
+        "URL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-05.jpg"
+      },
+      {
+        "id": 264699,
+        "URL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-06.jpg"
+      },
+      {
+        "id": 278547,
+        "URL": "https://www.freetour.com/images/tours/76413/free-walking-tour-of-kigali-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 7
   }
 ]

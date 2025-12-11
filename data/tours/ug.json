@@ -1,7 +1,7 @@
 [
   {
     "id": 39856,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kampala Tours",
       "es": "Excursiones en Kampala",
@@ -203,7 +203,7 @@
   },
   {
     "id": 40756,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tubing the Nile",
       "es": "Navegar por el Nilo",
@@ -303,7 +303,7 @@
   },
   {
     "id": 44928,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Guide Around Kampala",
       "es": "Guía turística a pie por Kampala",
@@ -396,7 +396,7 @@
   },
   {
     "id": 49453,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lake Bunyonyi Trip",
       "es": "Viaje al lago Bunyonyi",
@@ -479,7 +479,7 @@
   },
   {
     "id": 57445,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Entebbe Equator and Shoebill Birdwatching Tour ",
       "es": "Entebbe Ecuador y Shoebill Birdwatching Tour ",
@@ -596,7 +596,7 @@
   },
   {
     "id": 57535,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "1 Day Jinja Exploration Tour: the Source of River Nile",
       "es": "visita de 1 día a Jinja: el nacimiento del Nilo",
@@ -726,7 +726,7 @@
   },
   {
     "id": 60242,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Cultural Experience in Jinja",
       "es": "Explore la Experiencia Cultural de Jinja",
@@ -804,7 +804,7 @@
   },
   {
     "id": 61115,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Buganda Traditional & Cultural Sites Tour",
       "es": "Visita de un Día a los Lugares Tradicionales y Culturales de Buganda",
@@ -927,7 +927,7 @@
   },
   {
     "id": 67066,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kampala Motorbike Tour with a Local Guide",
       "es": "Recorrido en moto por Kampala con un guía local",
@@ -1098,7 +1098,7 @@
   },
   {
     "id": 72170,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Fort Portal & Kasenda Crater Lakes Free Tour",
       "es": "Free Tour a Fort Portal y los Lagos del Cráter Kasenda",
@@ -1252,7 +1252,7 @@
   },
   {
     "id": 72183,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Gulu City",
       "es": "Free Tour a la Ciudad de Gulu",
@@ -1352,7 +1352,7 @@
   },
   {
     "id": 72200,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Coffee Culture and Scenic Views Experience",
       "es": "Experiencia de Cultura del Café y Vistas Escénicas",
@@ -1445,7 +1445,7 @@
   },
   {
     "id": 79347,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Step into Entebbe: A Walking Experience",
       "es": "Adéntrese en Entebbe: Una Experiencia a pie",
@@ -1542,7 +1542,7 @@
   },
   {
     "id": 82439,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jinja Source of the Nile & Hidden Stories Walking Tour",
       "es": "Recorrido a pie por la Fuente del Nilo y sus Historias Ocultas en Jinja",
@@ -1702,5 +1702,206 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
+  },
+  {
+    "id": 58811,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Free Walking Tour Kampala Heart",
+      "es": "Free Walking Tour Kampala Corazón",
+      "pt": "Free Walking Tour Kampala Heart",
+      "de": "Free Walking Tour Kampala Herz",
+      "fr": "Visite à pied gratuite de Kampala Heart",
+      "it": "Tour a piedi gratuito Kampala Cuore"
+    },
+    "brief": {
+      "de": "Kommen Sie mit uns und entdecken Sie den pulsierenden Charme Kampalas! Erkunden Sie die ikonischen Orte, entdecken Sie die lokale Kultur und erleben Sie das tägliche Leben in der pulsierenden Stadt. Eine perfekte Reise, um unvergessliche Erinnerungen zu schaffen und ein tieferes Verständnis für Ugandas Hauptstadt zu gewinnen",
+      "en": "Join us and discover the vibrant charm of Kampala! Explore its iconic spots, uncover local culture, and experience daily life in the bustling city. A perfect journey to create unforgettable memories and gain a deeper understanding of Uganda’s capital",
+      "es": "Únase a nosotros y descubra el vibrante encanto de Kampala Explore sus lugares emblemáticos, descubra la cultura local y experimente la vida cotidiana en la bulliciosa ciudad. Un viaje perfecto para crear recuerdos inolvidables y conocer a fondo la capital de Uganda",
+      "fr": "Rejoignez-nous et découvrez le charme vibrant de Kampala ! Explorez ses lieux emblématiques, découvrez la culture locale et faites l'expérience de la vie quotidienne dans cette ville animée. Un voyage parfait pour créer des souvenirs inoubliables et mieux comprendre la capitale de l'Ouganda",
+      "it": "Unitevi a noi e scoprite il fascino vibrante di Kampala! Esplorate i suoi luoghi simbolo, scoprite la cultura locale e vivete la vita quotidiana della vivace città. Un viaggio perfetto per creare ricordi indimenticabili e approfondire la conoscenza della capitale dell'Uganda",
+      "pt": "Junte-se a nós e descubra o encanto vibrante de Kampala! Explore os seus locais emblemáticos, descubra a cultura local e experimente a vida quotidiana na agitada cidade. Uma viagem perfeita para criar memórias inesquecíveis e conhecer melhor a capital do Uganda"
+    },
+    "description": {
+      "de": "Die Kampala City Tour ist eine der besten Möglichkeiten, Kampala zu erkunden. Sie führt Sie durch die besten Gegenden für perfekte Erlebnisse und Erinnerungen. Sie werden etwas über die Stadt, ihre Geschichte und die Lebensweise der Menschen erfahren.\r\n\r\nKampala ist die Hauptstadt Ugandas und liegt auf sieben Hügeln. Sie ist das wichtigste politische und wirtschaftliche Zentrum Ugandas. Diese Tour durch eine der dynamischsten und sichersten Städte Afrikas ist aufregend. Auf dem Programm steht der Besuch religiöser Sehenswürdigkeiten und historischer, kultureller und kommerzieller Zentren wie der lokalen Märkte und Kulturstätten.\r\nDazu gehören; \r\n\r\nNationale Gaddafi-Moschee\r\nOwino-Markt \r\nAlter Steuerpark \r\nBaguma-Restaurant \r\nBagala Kunsthandwerksmarkt \r\nWeltkriegsdenkmal\r\n Unabhängigkeitsdenkmal\r\n Wir passen unsere Besichtigungswünsche an die täglichen Stimmungen in Kampala an.",
+      "en": "The Kampala City Tour is one of the best ways to explore Kampala. It takes you through the best areas for perfect experiences and memories. You will learn about the city, its history, and the people's way of life.\r\n\r\nKampala is Uganda's capital city, built across seven significant hills. It is the prime political and commercial hub of Uganda. This tour of one of Africa's most vibrant and secure cities is thrilling. It will include visiting religious landmarks and historical, cultural, and commercial centers such as the local markets and cultural sites.\r\nThese include; \r\n\r\nGaddafi national mosque\r\nOwino market \r\nOld tax park \r\nBaguma restaurant \r\nBagala craft market \r\nWorld War monument\r\n Independence Monument\r\n We tailor our tour preferences to fit Kampala's daily moods.",
+      "es": "Kampala City Tour es una de las mejores formas de explorar Kampala. Le llevará por las mejores zonas para vivir experiencias y recuerdos perfectos. Conocerá la ciudad, su historia y el modo de vida de sus gentes.\r\n\r\nKampala es la capital de Uganda, construida sobre siete importantes colinas. Es el principal centro político y comercial de Uganda. Este recorrido por una de las ciudades más vibrantes y seguras de África es apasionante. Incluirá visitas a monumentos religiosos y centros históricos, culturales y comerciales, como los mercados locales y lugares de interés cultural.\r\nEntre ellos se incluyen; \r\n\r\nMezquita Nacional Gaddafi\r\nMercado de Owino \r\nAntiguo parque fiscal \r\nRestaurante Baguma \r\nMercado de artesanía Bagala \r\nMonumento a la Guerra Mundial\r\n Monumento a la Independencia\r\n Adaptamos nuestras preferencias turísticas al ambiente diario de Kampala.",
+      "fr": "Le Kampala City Tour est l'une des meilleures façons d'explorer Kampala. Il vous emmène dans les meilleurs quartiers pour des expériences et des souvenirs parfaits. Vous découvrirez la ville, son histoire et le mode de vie de ses habitants.\r\n\r\nKampala est la capitale de l'Ouganda, construite sur sept collines importantes. C'est le principal centre politique et commercial de l'Ouganda. Cette visite de l'une des villes les plus dynamiques et les plus sûres d'Afrique est passionnante. Elle comprendra la visite de sites religieux et de centres historiques, culturels et commerciaux tels que les marchés locaux et les sites culturels.\r\nParmi ces sites, citons \r\n\r\nLa mosquée nationale Kadhafi\r\nLe marché d'Owino \r\nL'ancien parc des impôts \r\nLe restaurant Baguma \r\nMarché artisanal de Bagala \r\nMonument de la guerre mondiale\r\n Monument de l'indépendance\r\n Nous adaptons les préférences de nos visites aux humeurs quotidiennes de Kampala.",
+      "it": "Il tour della città di Kampala è uno dei modi migliori per esplorare Kampala. Vi porta attraverso le zone migliori per vivere esperienze e ricordi perfetti. Imparerete a conoscere la città, la sua storia e lo stile di vita della gente.\r\n\r\nKampala è la capitale dell'Uganda, costruita su sette importanti colline. È il principale centro politico e commerciale dell'Uganda. Questo tour di una delle città più vivaci e sicure dell'Africa è emozionante. Include la visita di luoghi di culto e di centri storici, culturali e commerciali, come i mercati locali e i siti culturali.\r\nQuesti includono; \r\n\r\nMoschea nazionale di Gheddafi\r\nMercato di Owino \r\nVecchio parco fiscale \r\nRistorante Baguma \r\nMercato artigianale di Bagala \r\nMonumento alla Guerra Mondiale\r\n Monumento all'Indipendenza\r\n Personalizziamo le nostre preferenze di visita per adattarle agli umori quotidiani di Kampala.",
+      "pt": "A excursão à cidade de Kampala é uma das melhores formas de explorar Kampala. Leva-o através das melhores áreas para experiências e memórias perfeitas. Aprenderá sobre a cidade, a sua história e o modo de vida das pessoas.\r\n\r\nKampala é a capital do Uganda, construída sobre sete colinas significativas. É o principal centro político e comercial do Uganda. Esta visita a uma das cidades mais vibrantes e seguras de África é emocionante. Incluirá visitas a marcos religiosos e centros históricos, culturais e comerciais, como os mercados locais e sítios culturais.\r\nEstes incluem; \r\n\r\nMesquita nacional de Gaddafi\r\nMercado de Owino \r\nAntigo parque fiscal \r\nRestaurante Baguma \r\nMercado de artesanato de Bagala \r\nMonumento à Guerra Mundial\r\n Monumento à Independência\r\n Adaptamos as nossas preferências turísticas aos humores diários de Kampala."
+    },
+    "providerTitle": "Kalibutous",
+    "providerPhone": "+256777559835",
+    "URL": "https://www.freetour.com/kampala/discover-kampala-on-a-free-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/kampala/discover-kampala-on-a-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/kampala/discover-kampala-on-a-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/kampala/discover-kampala-on-a-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/kampala/discover-kampala-on-a-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/kampala/discover-kampala-on-a-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/kampala/discover-kampala-on-a-free-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "3:30",
+    "meetingPoint": {
+      "title": "Gaddafi National Mosque",
+      "coordinates": "0.3156683,32.5683944",
+      "googlePlaceId": "ChIJAQAQ92K7fRcRjijMNz99VB8"
+    },
+    "cityId": 4356,
+    "countryId": 159,
+    "includes": [
+      "Owino Market",
+      "Kampala Old Taxi Park",
+      "Uganda National Mosque",
+      "Baguma Restaurant",
+      "World War Monument",
+      "Independence Monument",
+      "Tour guide services ",
+      "kabakas palace",
+      "Gaddafi mosque",
+      "owino market",
+      "old tax par",
+      "hindu temple",
+      "indepedence monument"
+    ],
+    "POIs": [
+      {
+        "id": 2192,
+        "title": "Owino Market",
+        "googlePlaceId": "ChIJ9f5gVIS8fRcRMYYDIlERW28"
+      },
+      {
+        "id": 2560,
+        "title": "Kampala Old Taxi Park",
+        "googlePlaceId": "ChIJASMPAIS8fRcR1Cw9Ff2h0OQ"
+      },
+      {
+        "id": 3908,
+        "title": "Uganda National Mosque",
+        "googlePlaceId": "ChIJe5bHeZ28fRcRCBgdEoGdvvs"
+      },
+      {
+        "id": 22956,
+        "title": "Baguma Restaurant",
+        "googlePlaceId": "ChIJhy0YpIK8fRcR7-TVuCkXgs0"
+      },
+      {
+        "id": 14768,
+        "title": "World War Monument",
+        "googlePlaceId": "ChIJP0RFgjC9fRcRpCwuoKcYaUg"
+      },
+      {
+        "id": 13413,
+        "title": "Independence Monument",
+        "googlePlaceId": "ChIJY-W5EIC8fRcRTZJGnRdJQAo"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-05.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 204204,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-05.jpg"
+      },
+      {
+        "id": 204201,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-02.jpg"
+      },
+      {
+        "id": 204202,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-03.jpg"
+      },
+      {
+        "id": 204203,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-04.jpg"
+      },
+      {
+        "id": 204205,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-06.jpg"
+      },
+      {
+        "id": 204209,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-10.jpg"
+      },
+      {
+        "id": 204211,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-12.jpg"
+      },
+      {
+        "id": 204213,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-14.jpg"
+      },
+      {
+        "id": 204214,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-15.jpg"
+      },
+      {
+        "id": 204215,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-16.jpg"
+      },
+      {
+        "id": 204218,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-19.jpg"
+      },
+      {
+        "id": 204219,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-20.jpg"
+      },
+      {
+        "id": 204220,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-21.jpg"
+      },
+      {
+        "id": 204221,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-22.jpg"
+      },
+      {
+        "id": 204222,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-23.jpg"
+      },
+      {
+        "id": 204224,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-25.jpg"
+      },
+      {
+        "id": 204225,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-26.jpg"
+      },
+      {
+        "id": 204226,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-27.jpg"
+      },
+      {
+        "id": 204227,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-28.jpg"
+      },
+      {
+        "id": 204228,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-29.jpg"
+      },
+      {
+        "id": 204229,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-30.jpg"
+      },
+      {
+        "id": 204231,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-32.jpg"
+      },
+      {
+        "id": 204235,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-36.jpg"
+      },
+      {
+        "id": 204388,
+        "URL": "https://www.freetour.com/images/tours/58811/free-walking-tour-in-kampala-1-46.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 1
   }
 ]

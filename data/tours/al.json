@@ -1,7 +1,7 @@
 [
   {
     "id": 260,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour in Tirana",
       "es": "Visita libre en Tirana",
@@ -146,7 +146,7 @@
   },
   {
     "id": 5115,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ancient Albania - Butrint Tour",
       "es": "Tour de la Antigua Albania - Butrinto",
@@ -259,7 +259,7 @@
   },
   {
     "id": 5334,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Blue Eye  and Lekursi Castle",
       "es": "Manantial del Ojo Azul y Castillo de Lekursi",
@@ -349,7 +349,7 @@
   },
   {
     "id": 5381,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "St. George Monastery & Communist Bunkers Walking Tour",
       "es": "Visita a pie al Monasterio de San Jorge y los Búnkeres Comunistas",
@@ -440,7 +440,7 @@
   },
   {
     "id": 10611,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Walking Tour Berat",
       "es": "Visita guiada gratuita a pie por Berat",
@@ -575,7 +575,7 @@
   },
   {
     "id": 19044,
-    "updatedAt": "2025-12-01 01:04:35",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Communist Tour in Tirana",
       "es": "Tour comunista en Tirana",
@@ -673,7 +673,7 @@
   },
   {
     "id": 36714,
-    "updatedAt": "2025-12-01 14:39:19",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Complete Tirana Free Tour",
       "es": "Free Tour Tirana al Completo",
@@ -924,12 +924,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.8100000000000005,
-    "reviewsNumber": 195
+    "rating": 4.8,
+    "reviewsNumber": 196
   },
   {
     "id": 37601,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Berat's Hidden Stories: Free Tour with Expert Guides",
       "es": "Historias ocultas de Berat: Visita gratuita con guías expertos",
@@ -1183,11 +1183,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=iAO8zy_TMao",
     "rating": 4.9,
-    "reviewsNumber": 134
+    "reviewsNumber": 135
   },
   {
     "id": 39461,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Korca Free Walking Tour",
       "es": "Visita guiada gratuita a pie por Korca",
@@ -1311,7 +1311,7 @@
   },
   {
     "id": 40252,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Tirana Hidden Treasures Tour",
       "es": "Tesoros ocultos de Tirana",
@@ -1497,11 +1497,11 @@
     ],
     "videoURL": null,
     "rating": 4.84,
-    "reviewsNumber": 337
+    "reviewsNumber": 338
   },
   {
     "id": 42091,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Berat: Historical and Modern",
       "es": "Free Tour Berat: Histórico y Moderno",
@@ -1598,7 +1598,7 @@
   },
   {
     "id": 43683,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Around Tirana’s Historic Centre",
       "es": "Recorrido gratuito por el centro histórico de Tirana",
@@ -1941,11 +1941,11 @@
     ],
     "videoURL": null,
     "rating": 4.83,
-    "reviewsNumber": 16
+    "reviewsNumber": 15
   },
   {
     "id": 44586,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Savor Albanian Cuisine Cooking Class with Mama Nina Berat Castle",
       "es": "Clase de cocina albanesa con Mama Nina Castillo de Berat",
@@ -2176,7 +2176,7 @@
   },
   {
     "id": 48067,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Walking Tour Around Berat",
       "es": "Free Tour a pie por Berat",
@@ -2476,7 +2476,7 @@
   },
   {
     "id": 50069,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Berat Day Trip",
       "es": "Excursión de un día a Berat",
@@ -2568,7 +2568,7 @@
   },
   {
     "id": 50074,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip Around Berat",
       "es": "Excursión de un día por Berat",
@@ -2644,7 +2644,7 @@
   },
   {
     "id": 50391,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Exploring the Highlights of Durres",
       "es": "Explorando los Lugares más Destacados de Durres",
@@ -2776,7 +2776,7 @@
   },
   {
     "id": 51762,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Historical Free Tour of Tirana by Aldo&Eni",
       "es": "Visita histórica gratuita de Tirana por Aldo&amp;Eni",
@@ -2886,7 +2886,7 @@
   },
   {
     "id": 51808,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Tirana: Street Art & Modern Architecture Tour",
       "es": "Tirana: Arte callejero y arquitectura moderna",
@@ -2982,7 +2982,7 @@
   },
   {
     "id": 52041,
-    "updatedAt": "2025-12-01 20:25:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Durres Historic Tour",
       "es": "Visita histórica de Durres",
@@ -3131,10 +3131,6 @@
       {
         "id": 298150,
         "URL": "https://www.freetour.com/images/tours/52041/durres-walking-tour-10.jpg"
-      },
-      {
-        "id": 298151,
-        "URL": "https://www.freetour.com/images/tours/52041/durres-walking-tour-16.jpg"
       }
     ],
     "videoURL": null,
@@ -3143,7 +3139,7 @@
   },
   {
     "id": 54318,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Speedboat Tour to National Marine Park Sazan-Karaburun",
       "es": "Excursión en lancha rápida al Parque Nacional Marino de Sazan-Karaburun",
@@ -3276,7 +3272,7 @@
   },
   {
     "id": 55043,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Local Vibe Explorer",
       "es": "Explorador Local Vibe",
@@ -3364,7 +3360,7 @@
   },
   {
     "id": 55132,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Berat Culture Tour",
       "es": "Visita cultural a Berat",
@@ -3519,7 +3515,7 @@
   },
   {
     "id": 55133,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Vlora City - Speed Boat in Karaburun and St. Mary Monastery in Zvernec",
       "es": "Ciudad de Vlora - Lancha rápida en Karaburun y Monasterio de Santa María en Zvernec",
@@ -3649,7 +3645,7 @@
   },
   {
     "id": 55137,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tirana and Kruja Culture and Historic Tour",
       "es": "Recorrido cultural e histórico por Tirana y Kruja",
@@ -3907,7 +3903,7 @@
   },
   {
     "id": 55184,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Waterfall of Bogova & the Canyon of Osumi River Tour",
       "es": "Cascada de Bogova y Cañón del río Osumi",
@@ -4107,7 +4103,7 @@
   },
   {
     "id": 55187,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Highlights of Albania - Culture Tour",
       "es": "Lo más destacado de Albania - Viaje cultural",
@@ -4263,7 +4259,7 @@
   },
   {
     "id": 55512,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of the Silver City of Gjirokaster",
       "es": "Visita gratuita a la ciudad de plata de Gjirokaster",
@@ -4351,7 +4347,7 @@
   },
   {
     "id": 55624,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the Magic of Pogradec",
       "es": "Descubra la Magia de Pogradec",
@@ -4467,7 +4463,7 @@
   },
   {
     "id": 56201,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Around the Byzantine City",
       "es": "Paseando por la ciudad bizantina",
@@ -4544,7 +4540,7 @@
   },
   {
     "id": 56215,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ride Around Ksamil",
       "es": "Paseo por Ksamil",
@@ -4640,7 +4636,7 @@
   },
   {
     "id": 56447,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore Shkoder - Free Walking Tour",
       "es": "Explorar Shkoder - Recorrido a pie gratuito",
@@ -4732,7 +4728,7 @@
   },
   {
     "id": 56827,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gjirokastra, the Ottoman City of Stone",
       "es": "Gjirokastra, la ciudad otomana de piedra",
@@ -4824,7 +4820,7 @@
   },
   {
     "id": 56830,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Berat: Explore by Walking",
       "es": "Descubra Berat: Explorar a pie",
@@ -4933,7 +4929,7 @@
   },
   {
     "id": 57313,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Durres - Historic City Tour",
       "es": "Durres - Visita histórica de la ciudad",
@@ -5050,7 +5046,7 @@
   },
   {
     "id": 57873,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Tirana to Albania: Tracing a Historical Path Free Tour",
       "es": "De Tirana a Albania: Trazando una ruta histórica Free Tour",
@@ -5333,11 +5329,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 163
+    "reviewsNumber": 165
   },
   {
     "id": 57894,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Guide Through the City of Korca",
       "es": "Guía turística por la ciudad de Korca",
@@ -5441,7 +5437,7 @@
   },
   {
     "id": 57990,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Gjirokaster Free Walking Tour",
       "es": "Visita guiada gratuita a pie por Gjirokaster",
@@ -5549,7 +5545,7 @@
   },
   {
     "id": 58440,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour - Unveiling the Treasures of a UNESCO Gem",
       "es": "Recorrido gratuito a pie - Descubrir los tesoros de una joya de la UNESCO",
@@ -5673,7 +5669,7 @@
   },
   {
     "id": 58727,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Tirana After Dark Free Tour",
       "es": "Tirana After Dark Free Tour",
@@ -5964,12 +5960,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.96,
-    "reviewsNumber": 24
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 25
   },
   {
     "id": 59073,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Discover Tirana in Search of an Identity",
       "es": "Descubre Tirana: En Busca de una Identidad",
@@ -6175,7 +6171,7 @@
   },
   {
     "id": 59282,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour Around Tirana",
       "es": "Paseo gratuito por Tirana",
@@ -6265,7 +6261,7 @@
   },
   {
     "id": 59289,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Albanian Alps, Hiking Valbona to Thethi",
       "es": "Alpes albaneses, Senderismo Valbona a Thethi",
@@ -6394,7 +6390,7 @@
   },
   {
     "id": 61179,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Durres City Tour with Local Guide",
       "es": "Visita de la Ciudad de Durres con Guía Local",
@@ -6544,7 +6540,7 @@
   },
   {
     "id": 61706,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "My Tirana: Free Walking Tour",
       "es": "Mi Tirana: Recorrido gratuito a pie",
@@ -6773,12 +6769,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.95,
-    "reviewsNumber": 114
+    "rating": 4.96,
+    "reviewsNumber": 116
   },
   {
     "id": 64921,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Stand Up Paddle Tour Around the Islands of Ksamil",
       "es": "Excursión en Stand Up Paddle por las islas de Ksamil",
@@ -6936,7 +6932,7 @@
   },
   {
     "id": 65045,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Tirana's Green Oasis: Grand Park Free Tour",
       "es": "El oasis verde de Tirana: Grand Park Free Tour",
@@ -7119,7 +7115,7 @@
   },
   {
     "id": 66639,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Tirana City Lights Free Tour",
       "es": "Tirana City Lights Free Tour",
@@ -7233,7 +7229,7 @@
   },
   {
     "id": 67796,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Pogradec's History and Hidden Gems",
       "es": "Descubra la Historia y las Joyas Ocultas de Pogradec",
@@ -7350,7 +7346,7 @@
   },
   {
     "id": 67862,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Free Tour of Lake Prespa",
       "es": "Free Tour al Lago de Prespa",
@@ -7449,7 +7445,7 @@
   },
   {
     "id": 67867,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Wonders of Lihnid",
       "es": "Descubra las Maravillas de Lihnid",
@@ -7541,7 +7537,7 @@
   },
   {
     "id": 68742,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Blue Gem Cave and Grama Bay Adventure",
       "es": "Aventura en la Cueva Blue Gem y la Bahía de Grama",
@@ -7715,7 +7711,7 @@
   },
   {
     "id": 68815,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Vlore: Haxhi Ali Cave and Karaburun Adventure",
       "es": "Desde Vlore: Aventura en la Cueva de Haxhi Ali y Karaburun",
@@ -7814,7 +7810,7 @@
   },
   {
     "id": 68965,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Durres and Kruje",
       "es": "Excursión de un día a Durres y Kruje",
@@ -7957,7 +7953,7 @@
   },
   {
     "id": 69008,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Dafina Bay and Haxhi Ali Cave in Vlore",
       "es": "Visita guiada a la bahía de Dafina y la cueva de Haxhi Ali en Vlore",
@@ -8090,7 +8086,7 @@
   },
   {
     "id": 69164,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Haxhi Ali Cave & Karburun Peninsula by Speedboat",
       "es": "Explore la Cueva de Haxhi Ali y la Península de Karburun en Lancha Rápida",
@@ -8219,7 +8215,7 @@
   },
   {
     "id": 69206,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Adventure to Grama Bay and Blue Gem Cave Speedboat Tour",
       "es": "Aventura en Lancha rápida por la Bahía de Grama y la Cueva de la Gema Azul",
@@ -8397,7 +8393,7 @@
   },
   {
     "id": 69874,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Mystical Berat with a Stop in Belsh Lake",
       "es": "Excursión de un Día a la Mística Berat con Parada en el Lago Belsh",
@@ -8570,7 +8566,7 @@
   },
   {
     "id": 71877,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Vlore: Speed Boat Trip to Haxhi Ali Cave with Snorkeling",
       "es": "Vlore: Excursión en Lancha Rápida a la Cueva de Haxhi Ali con Snorkel",
@@ -8679,7 +8675,7 @@
   },
   {
     "id": 71880,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Grama Bay and Blue Cave Speedboat Tour",
       "es": "Recorrido en Lancha Rápida por la Bahía de Grama y la Cueva Azul",
@@ -8814,7 +8810,7 @@
   },
   {
     "id": 73267,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Saranda Walking Tour and Lekursi Castle",
       "es": "Visita a pie de Saranda y Castillo de Lekursi",
@@ -8901,7 +8897,7 @@
   },
   {
     "id": 73550,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Saranda: Wine & Raki Tasting",
       "es": "Descubra Saranda: Degustación de Vino y Raki",
@@ -8992,7 +8988,7 @@
   },
   {
     "id": 73881,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Mosaic Art in Saranda",
       "es": "Descubra el Arte del Mosaico en Saranda",
@@ -9082,7 +9078,7 @@
   },
   {
     "id": 74254,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Eyes of Tirana Free Tour Communist Sides & Historic Center",
       "es": "Ojos de Tirana Free Tour Lados comunistas y centro histórico",
@@ -9107,7 +9103,7 @@
       "it": "Siete pronti a scoprire il vero volto di Tirana?\r\nUnitevi a noi in un tour a piedi di 2 ore attraverso il vivace centro storico della capitale albanese, guidati da un'appassionata guida locale che fa rivivere la città con storie, storia e approfondimenti locali.\r\n\r\nPasseggiate attraverso secoli di cultura, politica e resistenza, dalle moschee ottomane ai bunker comunisti, dagli eleganti edifici italiani agli stravaganti angoli moderni. Tirana non è solo una città, è un viaggio nel tempo.\r\n\r\nCosa vedrete:\r\n\t- Piazza Skanderbeg: La grande piazza centrale dell'Albania\r\n\t- Moschea di Et'hem Bey: gioiello del XVIII secolo con affreschi dipinti a mano\r\n\t- Torre dell'Orologio: testimone silenzioso delle trasformazioni di Tirana\r\n\t- Bunk'Art 2: un bunker sotterraneo di epoca comunista\r\n\t- La Piramide: Simbolo delle strane transizioni dell'Albania\r\n\t- Casa delle foglie: Ex quartier generale della sorveglianza trasformato in museo segreto\r\n\t- Strade nascoste, leggende locali e luoghi che non avreste mai trovato, guidati da un appassionato esperto del posto\r\n\t- Esperienza in piccolo gruppo, fate domande, prendetevi il vostro tempo\r\n\t- Scoprite le storie vere del passato e del presente dell'Albania\r\n\t- Perfetto per chi viaggia da solo, per chi viaggia con lo zaino in spalla e per gli amanti della cultura",
       "pt": "Está pronto para descobrir a verdadeira face de Tirana?\r\nJunte-se a nós para um passeio a pé de 2 horas pelo vibrante centro histórico da capital da Albânia, conduzido por um guia local apaixonado que dá vida à cidade com histórias, história e percepções locais.\r\n\r\nPasseie por séculos de cultura, política e resiliência, desde mesquitas otomanas a bunkers comunistas, elegantes edifícios italianos e recantos modernos e peculiares. Tirana não é apenas uma cidade, é uma viagem no tempo.\r\n\r\nO que verá:\r\n\t- Praça Skanderbeg: A grande praça central da Albânia\r\n\t- Mesquita Et'hem Bey: joia do século XVIII com frescos pintados à mão\r\n\t- Torre do Relógio: testemunha silenciosa das transformações de Tirana\r\n\t- Bunk'Art 2: Um bunker subterrâneo da era comunista\r\n\t- A pirâmide: Símbolo das estranhas transições da Albânia\r\n\t- Casa das Folhas: Antigo quartel-general de vigilância transformado em museu secreto\r\n\t- Ruas escondidas, lendas locais e locais que nunca encontraria, conduzidos por um especialista local apaixonado\r\n\t- Experiência em pequenos grupos, faça perguntas, leve o seu tempo\r\n\t- Aprenda histórias verdadeiras do passado e do presente da Albânia\r\n\t- Perfeito para viajantes a solo, mochileiros e amantes da cultura"
     },
-    "providerTitle": "Zoella Tirana Free Walking Tour.",
+    "providerTitle": "Mirko’S Tour",
     "providerPhone": "+355697487950",
     "URL": "https://www.freetour.com/tirana/explore-the-hidden-gems-of-tiranas-historic-heart?referralID=elOi919SrKG94LbT",
     "URLs": {
@@ -9312,11 +9308,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 76
+    "reviewsNumber": 80
   },
   {
     "id": 74354,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mysteries and Legends of Blace Castle",
       "es": "Misterios y leyendas del castillo de Blace",
@@ -9422,7 +9418,7 @@
   },
   {
     "id": 74545,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the Charm of Berat",
       "es": "Descubra el Encanto de Berat",
@@ -9524,7 +9520,7 @@
   },
   {
     "id": 74788,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Secret Blue Gem Cave Boat Tour in Vlore",
       "es": "Excursión en Barco a la Cueva Secreta de la Gema Azul en Vlore",
@@ -9650,7 +9646,7 @@
   },
   {
     "id": 74921,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Master the Flavors of Berat with a Local Chef",
       "es": "Domine los Sabores de Berat con un Chef Local",
@@ -9751,7 +9747,7 @@
   },
   {
     "id": 75187,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Historic Berat on a Free Walking Tour",
       "es": "Descubra la Histórica Berat en un Free Tour a pie",
@@ -9909,7 +9905,7 @@
   },
   {
     "id": 75483,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taste Berat with Traditional Cooking Experience",
       "es": "Prueba Berat con una Experiencia Culinaria Tradicional",
@@ -9997,7 +9993,7 @@
   },
   {
     "id": 75544,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Tomorri Mountain & Bogova Waterfall",
       "es": "Explore la Montaña Tomorri y la Cascada Bogova",
@@ -10077,7 +10073,7 @@
   },
   {
     "id": 75586,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Art, Wine & Memories in Tirana",
       "es": "Arte, Vino y Recuerdos en Tirana",
@@ -10157,7 +10153,7 @@
   },
   {
     "id": 75916,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Albanian Wine Tasting Experience",
       "es": "Experiencia de Cata de Vinos Albaneses",
@@ -10249,7 +10245,7 @@
   },
   {
     "id": 77380,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Discover the beautiful city of Tirana",
       "es": "Descubra la hermosa ciudad de Tirana",
@@ -10359,7 +10355,7 @@
   },
   {
     "id": 77715,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Osumi Canyon & Bogova Waterfall Escape",
       "es": "Escapada al Cañón Osumi y la Cascada Bogova",
@@ -10396,7 +10392,7 @@
       "it": "https://www.freetour.com/it/berat/osumi-canyon-bogova-waterfall-escape?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 65,
+      "value": 70,
       "currency": "EUR"
     },
     "length": "8:00",
@@ -10479,7 +10475,7 @@
   },
   {
     "id": 77718,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Magic of Bogova Waterfall",
       "es": "Descubra la Magia de la Cascada Bogova",
@@ -10516,7 +10512,7 @@
       "it": "https://www.freetour.com/it/berat/discover-the-magic-of-bogova-waterfall?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 30,
+      "value": 40,
       "currency": "EUR"
     },
     "length": "4:00",
@@ -10569,7 +10565,7 @@
   },
   {
     "id": 77823,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Snorkeling Experience at Sazan Island & Karaburun",
       "es": "Experiencia de Snorkel en la Isla de Sazan y Karaburun",
@@ -10714,7 +10710,7 @@
   },
   {
     "id": 78012,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Through Berat’s Beauty",
       "es": "Recorrido por la belleza de Berat",
@@ -10894,7 +10890,7 @@
   },
   {
     "id": 78079,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Tirana Essentials Free Tour",
       "es": "Tirana Essentials Free Tour",
@@ -11128,7 +11124,7 @@
   },
   {
     "id": 78302,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Small Group Walking Tour of Tirana Main Land Marks",
       "es": "Recorrido a pie en grupo reducido por los principales monumentos de Tirana",
@@ -11350,11 +11346,11 @@
     ],
     "videoURL": null,
     "rating": 4.9399999999999995,
-    "reviewsNumber": 18
+    "reviewsNumber": 19
   },
   {
     "id": 78304,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tirana Bike Tour: Discover the Capital on Two Wheels",
       "es": "Tirana Bike Tour: Descubra la Capital Sobre dos Ruedas",
@@ -11507,7 +11503,7 @@
   },
   {
     "id": 78342,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bike Tour Tirana with Local Guide",
       "es": "Tour en bicicleta por Tirana con guía local",
@@ -11763,7 +11759,7 @@
   },
   {
     "id": 78661,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Tirana Uncovered: Free Walking Tour",
       "es": "Tirana al Descubierto: Free Tour a pie",
@@ -11867,7 +11863,7 @@
   },
   {
     "id": 78692,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dajti Cable Car and Shengjergj Waterfall Tour",
       "es": "Excursión al Teleférico de Dajti y la Cascada de Shengjergj",
@@ -11953,7 +11949,7 @@
   },
   {
     "id": 79139,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Tirana: A Stroll Through History & Culture",
       "es": "Descubra Tirana: Un Paseo por la Historia y la Cultura",
@@ -12057,7 +12053,7 @@
   },
   {
     "id": 79291,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Adventure on the Vjosa River",
       "es": "Aventura en el río Vjosa",
@@ -12143,7 +12139,7 @@
   },
   {
     "id": 79487,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tirana Adventure: Petrela Castle, Zip Line & Waterfall",
       "es": "Aventura en Tirana: Castillo de Petrela, Tirolina y Cascada",
@@ -12225,7 +12221,7 @@
   },
   {
     "id": 79947,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Flavors of Albania: Tasting of Local Wines",
       "es": "Sabores de Albania: Cata de Vinos Locales",
@@ -12305,7 +12301,7 @@
   },
   {
     "id": 79953,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of the Communist Tirana",
       "es": "Free Tour por la Tirana Comunista",
@@ -12462,7 +12458,7 @@
   },
   {
     "id": 80718,
-    "updatedAt": "2025-12-01 05:47:01",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Tirana Between Light & Darkness",
       "es": "Tirana Entre la luz y la oscuridad",
@@ -12487,7 +12483,7 @@
       "it": "Itinerario:\r\n\t1.\tPiazza Skanderbeg\r\nPartendo dal cuore di Tirana, scoprite le storie nascoste di statue, bunker e trasformazioni della città.\r\n\t2.\tNuovo Bazar (Pazari i Ri)\r\nUn quartiere vivace pieno di caffè, pareti d'arte e autentiche vibrazioni locali dopo il tramonto.\r\n\t3.\tVia Murat Toptani\r\nUna strada pedonale che brilla sotto le luci della città, perfetta per storie e scatti.\r\n\t4.\tCortile del Castello di Tirana\r\nUn tempo fortezza, oggi moderno angolo culturale, per scoprire il connubio tra vecchio e nuovo.\r\n\t5.\tPiramide di Tirana e area Blloku\r\nDalla dittatura alla vita notturna, esplorate miti, leggende e l'energia della moderna Tirana. Perfetto per i viaggiatori in cerca di prospettive uniche, foto fantastiche e storie che non appaiono nelle guide.\r\n\r\nIl momento culminante del tour arriva alla fine: salite su una terrazza panoramica dove potrete ammirare le più belle viste panoramiche della città al tramonto. Alzate un bicchiere di raki tradizionale e lasciate che lo skyline di Tirana sia il vostro sfondo Opsional.\r\n\r\nUnitevi a noi e vedete Tirana sotto una nuova luce, letteralmente. Perché partecipare a questo tour? \r\n\r\n- Un mix unico di storia, cultura e vita notturna\r\n- Temperature serali più fresche, ideali per camminare\r\n- Una visione fresca e locale di Tirana",
       "pt": "Itinerário:\r\n\t1.\tPraça Skanderbeg\r\nComece no coração de Tirana, descubra histórias escondidas de estátuas, bunkers e a transformação da cidade.\r\n\t2.\tNovo Bazar (Pazari i Ri)\r\nUm bairro animado cheio de cafés, paredes de arte e autênticas vibrações locais após o pôr do sol.\r\n\t3.\tRua Murat Toptani\r\nUma rua pedonal que brilha sob as luzes da cidade, perfeita para histórias e fotografias.\r\n\t4.\tPátio do Castelo de Tirana\r\nOutrora uma fortaleza, agora um recanto cultural moderno, aprenda a mistura do antigo e do novo.\r\n\t5.\tPirâmide de Tirana e zona de Blloku\r\nDa ditadura à vida nocturna, explore os mitos, as lendas e a energia da Tirana moderna. Perfeito para viajantes que procuram perspectivas únicas, fotografias fantásticas e histórias que não aparecem nos guias.\r\n\r\nO ponto alto da excursão acontece no final: a subida a um terraço no telhado, onde poderá desfrutar das mais deslumbrantes vistas panorâmicas da cidade enquanto o sol se põe. Tome um copo de raki tradicional e deixe que a linha do horizonte de Tirana seja o seu pano de fundo.\r\n\r\nJunte-se a nós e veja Tirana sob uma nova luz, literalmente. Porquê participar nesta excursão? \r\n\r\n- Mistura única de história, cultura e vida nocturna\r\n- Temperaturas noturnas mais frescas, ideais para caminhadas\r\n- Uma visão fresca e local de Tirana"
     },
-    "providerTitle": "Zoella Tirana Free Walking Tour.",
+    "providerTitle": "Mirko’S Tour",
     "providerPhone": "+355697487950",
     "URL": "https://www.freetour.com/tirana/between-light-darkness-tirana?referralID=elOi919SrKG94LbT",
     "URLs": {
@@ -12664,11 +12660,11 @@
     ],
     "videoURL": null,
     "rating": 4.98,
-    "reviewsNumber": 9
+    "reviewsNumber": 10
   },
   {
     "id": 80831,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Voices of Shkodra: Free Walking Tour",
       "es": "Voces de Shkodra: Recorrido a pie gratuito",
@@ -12780,7 +12776,7 @@
   },
   {
     "id": 81014,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "From Dictatorship to Freedom: A Journey through Time",
       "es": "De la dictadura a la libertad: Un viaje en el tiempo",
@@ -12897,5 +12893,123 @@
     "videoURL": null,
     "rating": 5,
     "reviewsNumber": 6
+  },
+  {
+    "id": 47935,
+    "updatedAt": "2025-12-11 14:16:03",
+    "title": {
+      "en": "Gjirokaster Free Tour: Walk Through Stone, Time & Hidden Stories",
+      "es": "Gjirokaster Free Tour: Paseo por la piedra, el tiempo y las historias ocultas",
+      "pt": "Visita guiada gratuita a Gjirokaster: Passeio pela pedra, tempo e histórias escondidas",
+      "de": "Kostenlose Tour durch Gjirokaster: Spaziergang durch Stein, Zeit und verborgene Geschichten",
+      "fr": "Visite libre de Gjirokaster : Promenade à travers la pierre, le temps et les histoires cachées",
+      "it": "Tour gratuito di Gjirokaster: Passeggiata attraverso la pietra, il tempo e le storie nascoste"
+    },
+    "brief": {
+      "de": "Begeben Sie sich auf die ultimative Gjirokastra Free Tour, ein einzigartiges Erlebnis im Herzen dieser historischen Stadt. Entdecken Sie das bezaubernde alte Basarzentrum, während wir gemütlich durch das faszinierende historische Viertel schlendern. Lassen Sie sich diese einzigartige Tour nicht entgehen.",
+      "en": "Embark on the ultimate Gjirokastra Free Tour, a one-of-a-kind experience in the heart of this historic city. Discover the enchanting Old Bazaar Center as we leisurely stroll through the captivating historic area. Don't miss out on this unique tour.",
+      "es": "Embárquese en la mejor excursión gratuita por Gjirokastra, una experiencia única en el corazón de esta histórica ciudad. Descubra el encantador Centro del Antiguo Bazar mientras paseamos tranquilamente por la cautivadora zona histórica. No se pierda esta excursión única.",
+      "fr": "Embarquez pour l'ultime visite libre de Gjirokastra, une expérience unique au cœur de cette ville historique. Découvrez le centre enchanteur du vieux bazar en vous promenant tranquillement dans ce quartier historique captivant. Ne manquez pas cette visite unique.",
+      "it": "Partecipate al tour gratuito di Gjirokastra, un'esperienza unica nel cuore di questa città storica. Scoprite l'incantevole Centro del Vecchio Bazar mentre passeggiate tranquillamente nell'affascinante area storica. Non perdetevi questo tour unico.",
+      "pt": "Embarque na derradeira excursão gratuita a Gjirokastra, uma experiência única no coração desta cidade histórica. Descubra o encantador Centro do Antigo Bazar enquanto passeia tranquilamente pela cativante zona histórica. Não perca esta excursão única."
+    },
+    "description": {
+      "de": "Diese Tour ist anders als alle anderen in der Region Gjirokaster. Wir beginnen unsere Reise im Herzen der Altstadt, im belebten Basar-Zentrum.\r\n\r\nVon dort aus begeben Sie sich auf einen entspannten Spaziergang durch die historischsten Straßen von Gjirokaster, mit häufigen Stopps für eindringliche Erzählungen. Gjirokasters reiche Geschichte und pulsierende Kultur werden auf interaktive und fesselnde Weise lebendig. Dies ist keine typische Geschichtstour, die sich in Daten und trockenen Fakten erschöpft - hier erleben Sie die Vergangenheit der Stadt durch fesselnde Geschichten und lustige Anekdoten, die die Geschichte real werden lassen.\r\n\r\nSie sind im Urlaub, und wir glauben, dass Lernen Spaß machen sollte! Was gibt es Schöneres, als in die faszinierende Geschichte und Kultur von Gjirokaster einzutauchen?\r\n\r\nBegleiten Sie uns auf eine Reise durch die Zeit und erkunden Sie die wichtigsten Epochen der Vergangenheit Gjirokasters in chronologischer Reihenfolge. Von den antiken Fundamenten bis zur osmanischen Zeit und darüber hinaus werden Sie entdecken, was diese UNESCO-Welterbestadt wirklich einzigartig macht.",
+      "en": "This tour is unlike any other in the Gjirokaster area. We begin our journey at the heart of the old city, in the bustling Bazaar center.\r\n\r\nFrom there, you'll embark on a relaxed walk through Gjirokaster's most historic streets, with frequent stops for immersive storytelling. Gjirokaster's rich history and vibrant culture come alive in an interactive, engaging way. This isn't your typical history tour bogged down by dates and dry facts—here, you’ll experience the city's past through captivating tales and fun anecdotes that make history feel real.\r\n\r\nYou're on holiday, and we believe learning should be fun! What better way to enjoy yourself than by diving deep into Gjirokaster’s fascinating history and culture?\r\n\r\nJoin us as we journey through time, exploring the significant eras of Gjirokaster’s past in chronological order. From the ancient foundations to the Ottoman period and beyond, you’ll discover what makes this UNESCO World Heritage city truly unique.",
+      "es": "Esta excursión no se parece a ninguna otra en la zona de Gjirokaster. Comenzaremos nuestro recorrido en el corazón del casco antiguo, en el bullicioso centro del Bazar.\r\n\r\nA partir de ahí, se embarcará en un relajado paseo por las calles más históricas de Gjirokaster, con frecuentes paradas para contar historias. La rica historia y la vibrante cultura de Gjirokaster cobran vida de una forma interactiva y atractiva. No se trata del típico recorrido histórico atascado en fechas y datos áridos: aquí experimentará el pasado de la ciudad a través de historias cautivadoras y anécdotas divertidas que hacen que la historia parezca real.\r\n\r\nEstá de vacaciones y creemos que aprender debe ser divertido ¿Qué mejor manera de divertirse que adentrándose en la fascinante historia y cultura de Gjirokaster?\r\n\r\nAcompáñenos en nuestro viaje a través del tiempo, explorando las épocas más significativas del pasado de Gjirokaster en orden cronológico. Desde los antiguos cimientos hasta el periodo otomano y más allá, descubrirá lo que hace verdaderamente única a esta ciudad declarada Patrimonio de la Humanidad por la UNESCO.",
+      "fr": "Cette visite ne ressemble à aucune autre dans la région de Gjirokaster. Nous commençons notre voyage au cœur de la vieille ville, dans le centre animé du bazar.\r\n\r\nDe là, vous vous embarquerez pour une promenade détendue dans les rues les plus historiques de Gjirokaster, avec des arrêts fréquents pour des récits immersifs. La riche histoire et la culture vibrante de Gjirokaster prennent vie d'une manière interactive et engageante. Il ne s'agit pas d'une visite historique classique, encombrée de dates et de faits arides. Ici, vous découvrirez le passé de la ville à travers des récits captivants et des anecdotes amusantes qui donnent à l'histoire une dimension réelle.\r\n\r\nVous êtes en vacances, et nous pensons que l'apprentissage doit être amusant ! Quelle meilleure façon de vous amuser que de plonger dans l'histoire et la culture fascinantes de Gjirokaster ?\r\n\r\nRejoignez-nous pour un voyage dans le temps, en explorant les époques importantes du passé de Gjirokaster dans l'ordre chronologique. Des fondations anciennes à la période ottomane et au-delà, vous découvrirez ce qui rend cette ville classée au patrimoine mondial de l'UNESCO vraiment unique.",
+      "it": "Questo tour è diverso da qualsiasi altro nella zona di Gjirokaster. Il nostro viaggio inizia nel cuore della città vecchia, nel vivace centro del bazar.\r\n\r\nDa lì, inizierete una passeggiata rilassata attraverso le strade più storiche di Gjirokaster, con frequenti soste per una narrazione coinvolgente. La ricca storia e la vibrante cultura di Gjirokaster rivivono in modo interattivo e coinvolgente. Non si tratta del tipico tour storico impantanato in date e fatti aridi: qui vivrete il passato della città attraverso racconti accattivanti e aneddoti divertenti che fanno sembrare la storia reale.\r\n\r\nSiete in vacanza e crediamo che imparare debba essere divertente! Quale modo migliore di divertirsi se non immergendosi nell'affascinante storia e cultura di Gjirokaster?\r\n\r\nUnitevi a noi in un viaggio nel tempo, esplorando le epoche più significative del passato di Gjirokaster in ordine cronologico. Dalle antiche fondamenta al periodo ottomano e oltre, scoprirete ciò che rende questa città patrimonio mondiale dell'UNESCO davvero unica.",
+      "pt": "Este passeio é diferente de qualquer outro na área de Gjirokaster. Começamos a nossa viagem no coração da cidade velha, no movimentado centro do Bazar.\r\n\r\nA partir daí, embarcará num passeio descontraído pelas ruas mais históricas de Gjirokaster, com paragens frequentes para contar histórias envolventes. A rica história e a cultura vibrante de Gjirokaster ganham vida de uma forma interactiva e envolvente. Esta não é a típica visita guiada pela história, atolada em datas e factos secos - aqui, irá conhecer o passado da cidade através de contos cativantes e anedotas divertidas que fazem a história parecer real.\r\n\r\nEstá de férias e acreditamos que a aprendizagem deve ser divertida! Que melhor maneira de se divertir do que mergulhar profundamente na fascinante história e cultura de Gjirokaster?\r\n\r\nJunte-se a nós numa viagem através do tempo, explorando as épocas significativas do passado de Gjirokaster por ordem cronológica. Desde as antigas fundações até ao período otomano e mais além, descobrirá o que torna esta cidade Património Mundial da UNESCO verdadeiramente única."
+    },
+    "providerTitle": "Albania FREE Tours",
+    "providerPhone": "+355696733642",
+    "URL": "https://www.freetour.com/gjirokaster/gjirokastra-free-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/gjirokaster/gjirokastra-free-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/gjirokaster/gjirokastra-free-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/gjirokaster/gjirokastra-free-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/gjirokaster/gjirokastra-free-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/gjirokaster/gjirokastra-free-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/gjirokaster/gjirokastra-free-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:15",
+    "meetingPoint": {
+      "title": "Cerciz Topulli square",
+      "coordinates": "40.0748985,20.1403524",
+      "googlePlaceId": "ChIJ0wU0-socWxMRNqLmQtMyRp8"
+    },
+    "cityId": 3,
+    "countryId": 1,
+    "includes": [
+      "Qafa e Pazarit",
+      "Dunavat",
+      "Castle of Gjirokastra",
+      "Ethnographic Museum",
+      "Ismail Kadare's House",
+      "Histroy of the town of Gjirokastër ",
+      "Passing by all the major museums of the old town, entrance at your own expense."
+    ],
+    "POIs": [
+      {
+        "id": 16525,
+        "title": "Qafa e Pazarit",
+        "googlePlaceId": "ChIJxYG2ubodWxMRjPjWKY6NR6c"
+      },
+      {
+        "id": 19994,
+        "title": "Dunavat",
+        "googlePlaceId": "ChIJj1OmvFIdWxMRMjV51elhEOs"
+      },
+      {
+        "id": 6493,
+        "title": "Castle of Gjirokastra",
+        "googlePlaceId": "ChIJkWVZ1DQDWxMRGEF1kU1oT9Q"
+      },
+      {
+        "id": 16491,
+        "title": "Ethnographic Museum",
+        "googlePlaceId": "ChIJbQaU5sscWxMRbsqaOwVEjzI"
+      },
+      {
+        "id": 16492,
+        "title": "Ismail Kadare's House",
+        "googlePlaceId": "ChIJXSrhiMscWxMREk8-I7vBSEI"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/47935/gjirokastra-free-tour-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 202319,
+        "URL": "https://www.freetour.com/images/tours/47935/gjirokastra-free-tour-02.jpg"
+      },
+      {
+        "id": 202322,
+        "URL": "https://www.freetour.com/images/tours/47935/gjirokastra-free-tour-05.jpg"
+      },
+      {
+        "id": 202325,
+        "URL": "https://www.freetour.com/images/tours/47935/gjirokastra-free-tour-08.jpg"
+      },
+      {
+        "id": 202326,
+        "URL": "https://www.freetour.com/images/tours/47935/gjirokastra-free-tour-09.jpg"
+      },
+      {
+        "id": 203441,
+        "URL": "https://www.freetour.com/images/tours/47935/gjirokastra-free-tour-01.jpg"
+      },
+      {
+        "id": 203446,
+        "URL": "https://www.freetour.com/images/tours/47935/gjirokastra-free-tour-10.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.38,
+    "reviewsNumber": 94
   }
 ]

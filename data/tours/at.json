@@ -1,7 +1,7 @@
 [
   {
     "id": 993,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Vienna Walking Tour",
       "es": "Tour Gratis En Viena",
@@ -104,12 +104,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.65,
-    "reviewsNumber": 1767
+    "rating": 4.66,
+    "reviewsNumber": 1784
   },
   {
     "id": 1191,
-    "updatedAt": "2025-12-01 21:10:06",
+    "updatedAt": "2025-12-11 14:07:33",
     "title": {
       "en": "Free Walking Tour: Vienna Highlights",
       "es": "Free Tour a pie: Lo más Destacado de Viena",
@@ -229,11 +229,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=X4J9RONzypg",
     "rating": 4.21,
-    "reviewsNumber": 3290
+    "reviewsNumber": 3321
   },
   {
     "id": 1194,
-    "updatedAt": "2025-12-01 01:01:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Local Pub Crawl Vienna",
       "es": "Pub Crawl Viena",
@@ -316,7 +316,7 @@
   },
   {
     "id": 1336,
-    "updatedAt": "2025-12-01 15:32:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Christmas Market Vienna Tour",
       "es": "Mercado de Navidad de Viena",
@@ -403,12 +403,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=haM83fnGP4A",
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 4,
+    "reviewsNumber": 3
   },
   {
     "id": 2263,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Evening Walking Tour Vienna",
       "es": "Visita nocturna gratuita a pie por Viena",
@@ -509,7 +509,7 @@
   },
   {
     "id": 2401,
-    "updatedAt": "2025-12-01 01:01:38",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Art Tour Vienna",
       "es": "Tour de arte callejero por Viena",
@@ -613,7 +613,7 @@
   },
   {
     "id": 13793,
-    "updatedAt": "2025-12-01 01:04:10",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "E-Scooter Tour Vienna",
       "es": "E-Scooter Tour Viena",
@@ -705,7 +705,7 @@
   },
   {
     "id": 13822,
-    "updatedAt": "2025-12-01 01:04:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Craft Beer Tasting Vienna",
       "es": "Degustación de Cerveza Artesanal Viena",
@@ -797,7 +797,7 @@
   },
   {
     "id": 13823,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Culinary Kick Bike Tour",
       "es": "Ruta culinaria en bicicleta",
@@ -906,7 +906,7 @@
   },
   {
     "id": 13825,
-    "updatedAt": "2025-12-01 01:04:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Naschmarkt Food Tour Vienna",
       "es": "Naschmarkt Food Tour Viena",
@@ -1000,7 +1000,7 @@
   },
   {
     "id": 24061,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Street Art Tour Vienna",
       "es": "Recorrido gratuito por las calles de Viena",
@@ -1103,7 +1103,7 @@
   },
   {
     "id": 24476,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 13:50:53",
     "title": {
       "en": "Free Walking Tour: Hitler & the New Vienna 1900",
       "es": "Visita guiada gratuita: Hitler y la Nueva Viena 1900",
@@ -1221,11 +1221,11 @@
     ],
     "videoURL": null,
     "rating": 4.62,
-    "reviewsNumber": 173
+    "reviewsNumber": 175
   },
   {
     "id": 29850,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Walking Tour in Vienna City Center",
       "es": "Visita gratuita a pie por el centro de Viena",
@@ -1387,11 +1387,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=plVPbnm_teE",
     "rating": 4.93,
-    "reviewsNumber": 581
+    "reviewsNumber": 585
   },
   {
     "id": 40456,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Vienna: Imperial Summer Palace Garden",
       "es": "Visita gratuita Viena: Jardín Imperial del Palacio de Verano",
@@ -1498,7 +1498,7 @@
   },
   {
     "id": 47665,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wind Turbine Tour or Biogas Tour in Vienna",
       "es": "Aerogenerador o biogás en Viena",
@@ -1572,7 +1572,7 @@
   },
   {
     "id": 62840,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour Vienna: Top Highlights",
       "es": "Free Tour Viena: Lo más Destacado",
@@ -1683,12 +1683,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.78,
-    "reviewsNumber": 763
+    "rating": 4.79,
+    "reviewsNumber": 780
   },
   {
     "id": 64179,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour Vienna: Jewish Traces and Hitler’s Vienna",
       "es": "Free Tour Viena: Huellas Judías y la Viena de Hitler",
@@ -1779,12 +1779,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9,
-    "reviewsNumber": 325
+    "rating": 4.91,
+    "reviewsNumber": 335
   },
   {
     "id": 69830,
-    "updatedAt": "2025-12-01 16:08:02",
+    "updatedAt": "2025-12-11 13:49:00",
     "title": {
       "en": "Free Tour: Vienna City Center Walking Tour",
       "es": "Free Tour: Paseo por el Centro de Viena",
@@ -1931,12 +1931,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.92,
-    "reviewsNumber": 464
+    "rating": 4.91,
+    "reviewsNumber": 497
   },
   {
     "id": 75332,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Discover the Charm of Graz Old Town",
       "es": "Descubra el Encanto del Casco Antiguo de Graz",
@@ -2064,7 +2064,7 @@
   },
   {
     "id": 78181,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Hallstatt, Salzburg and Melk Abbey",
       "es": "Explora Hallstatt, Salzburgo y la Abadía de Melk",
@@ -2239,7 +2239,7 @@
   },
   {
     "id": 79344,
-    "updatedAt": "2025-12-01 11:59:30",
+    "updatedAt": "2025-12-11 13:52:03",
     "title": {
       "en": "Free tour of Vienna: discover the city through its inhabitants",
       "es": "Visita gratuita de Viena: descubra la ciudad a través de sus habitantes",
@@ -2435,11 +2435,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=bFhMmz0L_OE",
     "rating": 4.8,
-    "reviewsNumber": 177
+    "reviewsNumber": 183
   },
   {
     "id": 82121,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Austria in a Day: Salzburg, Hallstatt & Melk Abbey",
       "es": "Austria en un día: Salzburgo, Hallstatt y la Abadía de Melk",
@@ -2589,7 +2589,7 @@
   },
   {
     "id": 86681,
-    "updatedAt": "2025-12-01 15:30:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Vienna City Walk",
       "es": "App Audioguía: Viena City Walk",

@@ -1,7 +1,7 @@
 [
   {
     "id": 104,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Warsaw Historic Centre Free Tour by Walkative!",
       "es": "Visita gratuita del centro histórico de Varsovia en Walkative",
@@ -115,11 +115,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=k5bf4xDp5hI",
     "rating": 4.7,
-    "reviewsNumber": 1067
+    "reviewsNumber": 1070
   },
   {
     "id": 109,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Jewish Warsaw Free Tour by Walkative!",
       "es": "Visita gratuita a la Varsovia judía en Walkative",
@@ -251,7 +251,7 @@
   },
   {
     "id": 117,
-    "updatedAt": "2025-12-01 18:07:58",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Old Town Wroclaw Free Tour by Walkative!",
       "es": "El casco antiguo de Wroclaw: ¡visita gratuita en Walkative!",
@@ -381,11 +381,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=sTuAZ-dGujc",
     "rating": 4.76,
-    "reviewsNumber": 584
+    "reviewsNumber": 588
   },
   {
     "id": 121,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "World War II & Jewish Wroclaw Tour by Walkative!",
       "es": "La II Guerra Mundial y la Wroclaw judía en Walkative",
@@ -482,7 +482,7 @@
   },
   {
     "id": 122,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Dwarfs & Communist Wroclaw Tour by Walkative!",
       "es": "¡Enanos y comunistas Wroclaw Tour por Walkative!",
@@ -572,7 +572,7 @@
   },
   {
     "id": 134,
-    "updatedAt": "2025-12-01 15:36:03",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Old Town Krakow & Wawel Castle Tour by Walkative!",
       "es": "¡Casco antiguo de Cracovia y Castillo de Wawel en Walkative!",
@@ -688,11 +688,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=Gmo9Q7i9hLM",
     "rating": 4.8100000000000005,
-    "reviewsNumber": 1051
+    "reviewsNumber": 1055
   },
   {
     "id": 135,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Jewish Krakow Tour by Walkative!",
       "es": "¡Tour de Cracovia judía en Walkative!",
@@ -819,11 +819,11 @@
     ],
     "videoURL": null,
     "rating": 4.86,
-    "reviewsNumber": 515
+    "reviewsNumber": 520
   },
   {
     "id": 258,
-    "updatedAt": "2025-12-01 01:00:24",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Warsaw Pub Crawl",
       "es": "Ruta de bares por Varsovia",
@@ -927,7 +927,7 @@
   },
   {
     "id": 424,
-    "updatedAt": "2025-12-01 16:48:00",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Main Town Gdansk Free Tour by Walkative!",
       "es": "Visita gratuita del centro de Gdansk en Walkative",
@@ -1048,11 +1048,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=jKYWXh31toU",
     "rating": 4.8,
-    "reviewsNumber": 725
+    "reviewsNumber": 731
   },
   {
     "id": 657,
-    "updatedAt": "2025-12-01 01:00:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pub Crawl Gdansk",
       "es": "Ruta de bares por Gdansk",
@@ -1137,7 +1137,7 @@
   },
   {
     "id": 1041,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Old Town Poznan Tour by Walkative!",
       "es": "¡Recorrido por el casco antiguo de Poznan en Walkative!",
@@ -1235,12 +1235,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=7A_nZwNC2vo",
-    "rating": 4.63,
-    "reviewsNumber": 97
+    "rating": 4.64,
+    "reviewsNumber": 99
   },
   {
     "id": 1104,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pub Crawl in Wroclaw",
       "es": "Pub Crawl en Wroclaw",
@@ -1324,7 +1324,7 @@
   },
   {
     "id": 3156,
-    "updatedAt": "2025-12-01 01:01:55",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Warsaw Must-Sees by Retro Fiat Private Tour",
       "es": "Visita obligada de Varsovia en Fiat Retro Tour Privado",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": 3202,
-    "updatedAt": "2025-12-01 01:01:56",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Warsaw Highlights Self-Drive Tour - Retro Fiat",
       "es": "Lo mejor de Varsovia en coche - Retro Fiat",
@@ -1600,7 +1600,7 @@
   },
   {
     "id": 3203,
-    "updatedAt": "2025-12-01 01:01:56",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Warsaw Communism Self-Driving Tour - Retro Fiat",
       "es": "Recorrido en coche por el comunismo de Varsovia - Retro Fiat",
@@ -1722,7 +1722,7 @@
   },
   {
     "id": 3405,
-    "updatedAt": "2025-12-01 01:02:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Vodka Tasting Experience in Warsaw",
       "es": "Cata de vodka en Varsovia",
@@ -1802,7 +1802,7 @@
   },
   {
     "id": 3432,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Warsaw Running Tour",
       "es": "Running Tour Varsovia",
@@ -1890,7 +1890,7 @@
   },
   {
     "id": 4108,
-    "updatedAt": "2025-12-01 17:15:06",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour imprescindible por Cracovia y Wawel",
       "es": "Free Tour imprescindible por Cracovia y Wawel",
@@ -2086,12 +2086,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=VKQTDY9Xpug",
-    "rating": 4.83,
-    "reviewsNumber": 395
+    "rating": 4.84,
+    "reviewsNumber": 404
   },
   {
     "id": 4161,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Krakow Free Tour:  Mysteries & Curiosities",
       "es": "Cracovia Free Tour:  Misterios y Curiosidades",
@@ -2217,7 +2217,7 @@
   },
   {
     "id": 4225,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 05:06:31",
     "title": {
       "en": "Free Tour of Krakow: Jewish Quarter and Gheto",
       "es": "Visita gratuita de Cracovia: Barrio Judío y Gheto ",
@@ -2387,11 +2387,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=VKQTDY9Xpug",
     "rating": 4.9,
-    "reviewsNumber": 424
+    "reviewsNumber": 434
   },
   {
     "id": 4272,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Płaszów Concentration Camp Tour - Schindler's List",
       "es": "Płaszów - El Campo de la Lista de Schindler",
@@ -2512,7 +2512,7 @@
   },
   {
     "id": 4515,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 09:12:24",
     "title": {
       "en": "Krakow Free Tour: Old Town & Castle",
       "es": "Cracovia Free Tour: Casco Antiguo y Castillo",
@@ -2650,11 +2650,11 @@
     ],
     "videoURL": null,
     "rating": 4.84,
-    "reviewsNumber": 554
+    "reviewsNumber": 564
   },
   {
     "id": 4776,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Wroclaw Historical Center ",
       "es": "Free Tour de Wroclaw: Centro Histórico",
@@ -2784,12 +2784,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=uUijWVjNhtU",
-    "rating": 4.68,
-    "reviewsNumber": 479
+    "rating": 4.6899999999999995,
+    "reviewsNumber": 490
   },
   {
     "id": 5193,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour Jewish Quarter and World War II",
       "es": "Free Tour Barrio Judío y Segunda Guerra Mundial",
@@ -2889,7 +2889,7 @@
   },
   {
     "id": 5319,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 11:27:59",
     "title": {
       "en": "World War Two in Krakow: Jewish Quarter & Ghetto Free Tour",
       "es": "Paseo por Kazimierz - Free Tour al Barrio Judío",
@@ -2992,11 +2992,11 @@
     ],
     "videoURL": null,
     "rating": 4.84,
-    "reviewsNumber": 254
+    "reviewsNumber": 259
   },
   {
     "id": 6047,
-    "updatedAt": "2025-12-01 01:03:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Historic Warsaw by Retro Fiat Private Tour",
       "es": "Visita privada a la Varsovia histórica en Retro Fiat",
@@ -3106,7 +3106,7 @@
   },
   {
     "id": 6058,
-    "updatedAt": "2025-12-01 01:03:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jewish Warsaw by Retro Fiat Private Tour",
       "es": "Visita privada a la Varsovia judía en Fiat retro",
@@ -3248,7 +3248,7 @@
   },
   {
     "id": 6059,
-    "updatedAt": "2025-12-01 01:03:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dark Side of Warsaw: Retro Bus Tour",
       "es": "El lado oscuro de Varsovia: Retro Bus Tour",
@@ -3371,7 +3371,7 @@
   },
   {
     "id": 6062,
-    "updatedAt": "2025-12-01 01:03:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Warsaw Vodka Night by Retro Fiat Private Tour",
       "es": "Noche del vodka en Varsovia en Fiat Retro Tour Privado",
@@ -3482,7 +3482,7 @@
   },
   {
     "id": 6063,
-    "updatedAt": "2025-12-01 01:03:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Undiscovered Warsaw Self-Driving Tour on Retro Fiat",
       "es": "Varsovia por descubrir en un Fiat retro autoconducido",
@@ -3590,7 +3590,7 @@
   },
   {
     "id": 6619,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Ksiaz Castle, Swidnica and Jawor Сhurches in Wroclaw",
       "es": "Visita al castillo de Ksiaz y a las iglesias de Swidnica y Jawor С en Wroclaw",
@@ -3691,7 +3691,7 @@
   },
   {
     "id": 6880,
-    "updatedAt": "2025-12-01 01:03:25",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "6- Course : Full Polish Food & Vodka Tour",
       "es": "6- Curso : Tour completo de comida polaca y vodka",
@@ -3798,7 +3798,7 @@
   },
   {
     "id": 7308,
-    "updatedAt": "2025-12-01 01:03:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Polish Food Tour",
       "es": "Tour de Comida Polaca",
@@ -3891,7 +3891,7 @@
   },
   {
     "id": 7355,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Adršpach: The Chronicles of Narnia Filming Location Tour",
       "es": "Adršpach: Tour por Lugares de Rodaje de las Crónicas de Narnia",
@@ -3995,7 +3995,7 @@
   },
   {
     "id": 7367,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full-Day UNESCO Church of Peace Tour",
       "es": "Tour de un Día por la Iglesia de la Paz de la UNESCO",
@@ -4104,7 +4104,7 @@
   },
   {
     "id": 7678,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Poznan: Historic Center",
       "es": "Visita gratuita Poznan: Centro histórico",
@@ -4218,11 +4218,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=CtsX30apj7o",
     "rating": 4.65,
-    "reviewsNumber": 54
+    "reviewsNumber": 55
   },
   {
     "id": 9423,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Walk with the Dead : Krakow Ghost Tour",
       "es": "Caminar con los muertos : Cracovia Ghost Tour",
@@ -4307,7 +4307,7 @@
   },
   {
     "id": 19755,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Macabre Kraków Free Tour by Walkative!",
       "es": "Macabro Cracovia ¡Gratis Tour by Walkative!",
@@ -4418,7 +4418,7 @@
   },
   {
     "id": 21440,
-    "updatedAt": "2025-12-01 01:04:53",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chopin Concert in the Old Town",
       "es": "Concierto de Chopin en el Casco Antiguo",
@@ -4516,7 +4516,7 @@
   },
   {
     "id": 21789,
-    "updatedAt": "2025-12-01 11:12:02",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Local Free Tour Old Town Warsaw",
       "es": "Visita gratuita al casco antiguo de Varsovia",
@@ -4668,12 +4668,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.88,
-    "reviewsNumber": 45
+    "rating": 4.89,
+    "reviewsNumber": 47
   },
   {
     "id": 22174,
-    "updatedAt": "2025-12-01 01:05:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "On the Track of Polish Communism",
       "es": "Tras la pista del comunismo polaco",
@@ -4785,7 +4785,7 @@
   },
   {
     "id": 22175,
-    "updatedAt": "2025-12-01 01:05:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Traces of Fryderyk Chopin in Warsaw",
       "es": "Huellas de Fryderyk Chopin en Varsovia",
@@ -4903,7 +4903,7 @@
   },
   {
     "id": 22176,
-    "updatedAt": "2025-12-01 01:05:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Treblinka Death Camp",
       "es": "Campo de exterminio de Treblinka",
@@ -5030,7 +5030,7 @@
   },
   {
     "id": 22177,
-    "updatedAt": "2025-12-01 01:05:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lublin & Majdanek Concentration Camp",
       "es": "Campo de concentración de Lublin y Majdanek",
@@ -5155,7 +5155,7 @@
   },
   {
     "id": 22178,
-    "updatedAt": "2025-12-01 01:05:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fryderyk Chopin's Birthplace",
       "es": "Casa natal de Fryderyk Chopin",
@@ -5281,7 +5281,7 @@
   },
   {
     "id": 22179,
-    "updatedAt": "2025-12-01 01:05:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Łowicz Mazovian Countryside",
       "es": "Łowicz Campo de Mazovia",
@@ -5418,7 +5418,7 @@
   },
   {
     "id": 22180,
-    "updatedAt": "2025-12-01 01:05:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wolf's Lair Day Tour",
       "es": "Excursión de un día a la Guarida del Lobo",
@@ -5516,7 +5516,7 @@
   },
   {
     "id": 22422,
-    "updatedAt": "2025-12-01 01:05:05",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jewish Litzmannstadt & Lodz. Full Day Private Tour from Warsaw",
       "es": "Litzmannstadt judía y Lodz. Excursión privada de un día desde Varsovia",
@@ -5633,7 +5633,7 @@
   },
   {
     "id": 23042,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion to Wroclaw from Krakow",
       "es": "Excursión a Breslavia (Wroclaw) desde Krakow",
@@ -5753,7 +5753,7 @@
   },
   {
     "id": 23047,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Torun Historical Center Tour",
       "es": "Tour Centro Histórico de Toruń",
@@ -5835,7 +5835,7 @@
   },
   {
     "id": 23059,
-    "updatedAt": "2025-12-01 11:14:02",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Warsaw Must See Local Free Tour",
       "es": "Visita guiada gratuita por Varsovia",
@@ -5953,12 +5953,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.86,
-    "reviewsNumber": 14
+    "rating": 4.87,
+    "reviewsNumber": 15
   },
   {
     "id": 23409,
-    "updatedAt": "2025-12-01 17:20:23",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Krakow Old Town Free Walking Tour",
       "es": "Visita gratuita a pie del casco antiguo de Cracovia",
@@ -6068,7 +6068,7 @@
   },
   {
     "id": 23410,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of the Jewish Quarter of Krakow",
       "es": "Krakow Free Tour por Barrio Judio",
@@ -6162,11 +6162,11 @@
     ],
     "videoURL": null,
     "rating": 4.9,
-    "reviewsNumber": 160
+    "reviewsNumber": 161
   },
   {
     "id": 23411,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wawel Hill and Cathedral Tour",
       "es": "Tour de la Catedral y Colina de Wawel",
@@ -6261,7 +6261,7 @@
   },
   {
     "id": 23412,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tastes of Poland Food Tour",
       "es": "Sabores de Polonia Tour Gastronómico",
@@ -6348,7 +6348,7 @@
   },
   {
     "id": 23413,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Liquor Tasting Tour",
       "es": "Tour de Cata de Licores",
@@ -6431,7 +6431,7 @@
   },
   {
     "id": 24383,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gdańsk World War II Tour",
       "es": "Tour de Gdańsk de la Segunda Guerra Mundial",
@@ -6505,7 +6505,7 @@
   },
   {
     "id": 24385,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Visit to Stutthof Concentration Camp",
       "es": "Visita al campo de concentración de Stutthof",
@@ -6594,7 +6594,7 @@
   },
   {
     "id": 24387,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Malbork Castle and the Historic Center of Gdansk",
       "es": "Tour al Castillo de Malbork y al Centro Histórico de Gdansk",
@@ -6720,7 +6720,7 @@
   },
   {
     "id": 30763,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Old Town Warsaw",
       "es": "Visita gratuita del casco antiguo de Varsovia",
@@ -6847,11 +6847,11 @@
     ],
     "videoURL": null,
     "rating": 4.83,
-    "reviewsNumber": 317
+    "reviewsNumber": 319
   },
   {
     "id": 30878,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Poznań Imperial District Tour by Walkative!",
       "es": "¡Recorrido por el distrito imperial de Poznań en Walkative!",
@@ -6936,7 +6936,7 @@
   },
   {
     "id": 31642,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour in Lublin",
       "es": "Tour en la Ciudad de Lublin",
@@ -7038,7 +7038,7 @@
   },
   {
     "id": 32627,
-    "updatedAt": "2025-12-01 22:18:27",
+    "updatedAt": "2025-12-11 14:08:06",
     "title": {
       "en": "Discover Gdansk: An Informative Walking Tour",
       "es": "Descubra Gdansk: Recorrido informativo a pie",
@@ -7226,12 +7226,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.91,
-    "reviewsNumber": 260
+    "rating": 4.92,
+    "reviewsNumber": 263
   },
   {
     "id": 37070,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Sopot Tour by Walkative!",
       "es": "Recorrido por Sopot en Walkative",
@@ -7317,7 +7317,7 @@
   },
   {
     "id": 37455,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Gdansk Shipyard Uncovered Tour by Walkative!",
       "es": "¡Los astilleros de Gdansk al descubierto con Walkative!",
@@ -7403,7 +7403,7 @@
   },
   {
     "id": 40701,
-    "updatedAt": "2025-12-01 13:37:16",
+    "updatedAt": "2025-12-11 11:24:27",
     "title": {
       "en": "Warsaw Old Town (UNESCO area) Free Walking Tour",
       "es": "Visita guiada gratuita a pie por el casco antiguo de Varsovia (zona UNESCO)",
@@ -7538,11 +7538,11 @@
     ],
     "videoURL": null,
     "rating": 4.85,
-    "reviewsNumber": 286
+    "reviewsNumber": 294
   },
   {
     "id": 40730,
-    "updatedAt": "2025-12-01 13:32:39",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "World War 2 in Warsaw Free Walking Tour",
       "es": "Recorrido gratuito a pie por la 2ª Guerra Mundial en Varsovia",
@@ -7646,11 +7646,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 115
+    "reviewsNumber": 116
   },
   {
     "id": 40761,
-    "updatedAt": "2025-12-01 01:07:34",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Krawl Through Krakow Pub Crawl",
       "es": "Rastreo por los pubs de Cracovia",
@@ -7758,7 +7758,7 @@
   },
   {
     "id": 40962,
-    "updatedAt": "2025-12-01 13:28:02",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Jewish Ghetto Free Walking Tour",
       "es": "Visita guiada gratuita al gueto judío",
@@ -7852,11 +7852,11 @@
     ],
     "videoURL": null,
     "rating": 4.74,
-    "reviewsNumber": 82
+    "reviewsNumber": 85
   },
   {
     "id": 41785,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Polish Vodka Tour",
       "es": "Tour de Vodka Polaco",
@@ -7939,7 +7939,7 @@
   },
   {
     "id": 42186,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Communist Warsaw Free Tour by Walkative!",
       "es": "Visita gratuita a la Varsovia comunista en Walkative",
@@ -8020,7 +8020,7 @@
   },
   {
     "id": 42197,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Warsaw at War Free Tour by Walkative!",
       "es": "Varsovia en guerra: visita gratuita en Walkative",
@@ -8110,7 +8110,7 @@
   },
   {
     "id": 42264,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Alternative Warsaw Free Tour by Walkative!",
       "es": "¡Recorrido alternativo gratuito por Varsovia en Walkative!",
@@ -8198,7 +8198,7 @@
   },
   {
     "id": 45394,
-    "updatedAt": "2025-12-01 01:09:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Medieval Kraków - Legends, Tales & Vampires",
       "es": "Cracovia medieval - Leyendas, cuentos y vampiros",
@@ -8284,7 +8284,7 @@
   },
   {
     "id": 45821,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Islands & Bridges of Wroclaw - Free Tour by Walkative!",
       "es": "Islas y puentes de Breslavia - Visita gratuita en Walkative",
@@ -8361,7 +8361,7 @@
   },
   {
     "id": 46568,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Communist Krakow - Nowa Huta Free Tour by Walkative!",
       "es": "Cracovia comunista - Nowa Huta ¡Gratis Tour by Walkative!",
@@ -8484,7 +8484,7 @@
   },
   {
     "id": 46570,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "World War II in Krakow - Tour by Walkative!",
       "es": "La II Guerra Mundial en Cracovia - ¡Tour en Walkative!",
@@ -8621,7 +8621,7 @@
   },
   {
     "id": 48220,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of Warsaw",
       "es": "Free Tour por Varsovia",
@@ -8737,11 +8737,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 120
+    "reviewsNumber": 125
   },
   {
     "id": 54975,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Visits to Medieval Castles",
       "es": "Visitas a castillos medievales",
@@ -8842,7 +8842,7 @@
   },
   {
     "id": 56557,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pub Crawl Krakow - 1 Hour of Free Drinks, then Party all Night",
       "es": "Pub Crawl Cracovia - 1 hora de bebidas gratis y fiesta toda la noche",
@@ -8941,7 +8941,7 @@
   },
   {
     "id": 61044,
-    "updatedAt": "2025-12-01 11:37:07",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of Gdansk with Tour Guide Izabela",
       "es": "Visita gratuita a Gdansk con la guía Izabela",
@@ -9068,11 +9068,15 @@
       {
         "id": 298741,
         "URL": "https://www.freetour.com/images/tours/61044/free-tour-of-gdansk-48.jpg"
+      },
+      {
+        "id": 300866,
+        "URL": "https://www.freetour.com/images/tours/61044/free-tour-of-gdansk-01.jpg"
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=B4epD_bvYow",
     "rating": 4.93,
-    "reviewsNumber": 43
+    "reviewsNumber": 50
   },
   {
     "id": 64207,
@@ -9204,7 +9208,7 @@
   },
   {
     "id": 66558,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Magic of the Slavic World: Legends and Customs",
       "es": "La Magia del Mundo Eslavo: Leyendas y Costumbres",
@@ -9280,7 +9284,7 @@
   },
   {
     "id": 68507,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Boat Trip on the Vistula River",
       "es": "Paseo en Barco por el Río Vístula",
@@ -9406,7 +9410,7 @@
   },
   {
     "id": 69136,
-    "updatedAt": "2025-12-01 13:14:38",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of Krakow: Old Town and Wawel Castle",
       "es": "Free Tour por Cracovia: Casco Antiguo y Castillo de Wawel",
@@ -9502,11 +9506,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=UVPiMzMNd9M",
     "rating": 4.86,
-    "reviewsNumber": 24
+    "reviewsNumber": 25
   },
   {
     "id": 71430,
-    "updatedAt": "2025-12-01 19:08:14",
+    "updatedAt": "2025-12-11 09:29:41",
     "title": {
       "en": "Free Tour of Krakow: Old Town, Jewish Quarter, Castle & Krakow Ghetto",
       "es": "Visita gratuita de Cracovia: Casco Antiguo, Barrio Judío, Castillo y Gueto de Cracovia",
@@ -9676,11 +9680,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 183
+    "reviewsNumber": 199
   },
   {
     "id": 74816,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Secrets of Gdansk",
       "es": "Explore los Secretos de Gdansk",
@@ -9777,7 +9781,7 @@
   },
   {
     "id": 75456,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Kraków Plaszów Camp and the True Story of Schindler",
       "es": "El Campo de Concentración de Cracovia y la Verdadera Historia de Schindlerr",
@@ -9817,7 +9821,7 @@
       "value": 0,
       "currency": "EUR"
     },
-    "length": "4:00",
+    "length": "2:30",
     "meetingPoint": {
       "title": "Kraków Płaszów ",
       "coordinates": "50.03459056663959,19.97430056333542",
@@ -9911,7 +9915,7 @@
   },
   {
     "id": 77948,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Walking Through History: The Plaszow Camp Site",
       "es": "Caminando por la Historia: El Campamento de Plaszow",
@@ -10005,7 +10009,7 @@
   },
   {
     "id": 81087,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gdansk Pub Crawl: Local Bars, Free Shots & Drinking Games",
       "es": "Gdansk Pub Crawl: Bares locales, chupitos gratis y juegos de beber",
@@ -10102,7 +10106,7 @@
   },
   {
     "id": 81133,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour: Krakow Street Food & Street Art",
       "es": "Free Tour: Comida y Arte Callejeros en Cracovia",
@@ -10225,7 +10229,7 @@
   },
   {
     "id": 82622,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Cathedral and Old Town Tour  of Poznan",
       "es": "Catedral y Casco Antiguo de Poznan",
@@ -10365,7 +10369,7 @@
   },
   {
     "id": 83280,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Cold War & Spy Secrets: Hidden Warsaw Free Tour",
       "es": "Guerra Fría y secretos de espionaje: visita gratuita a la Varsovia oculta",
@@ -10470,12 +10474,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 5,
-    "reviewsNumber": 3
+    "rating": 4.51,
+    "reviewsNumber": 7
   },
   {
     "id": 84029,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 12:14:02",
     "title": {
       "en": "Voices Behind the Walls: Warsaw Ghetto Free Walking Tour",
       "es": "Voces tras los muros: Visita guiada gratuita al gueto de Varsovia",
@@ -10602,12 +10606,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 5,
+    "reviewsNumber": 3
   },
   {
     "id": 84266,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sopot Pub Crawl: Local Bars & Drinking Games",
       "es": "Sopot Pub Crawl: Bares locales y juegos de beber",
@@ -10700,7 +10704,7 @@
   },
   {
     "id": 84659,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gdańsk Bar Tour with Karaoke",
       "es": "Gdańsk Bar Tour con Karaoke",
@@ -10797,7 +10801,7 @@
   },
   {
     "id": 86409,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Secret Heroes of World War II: Warsaw Free Tour",
       "es": "Héroes secretos de la II Guerra Mundial: Visita gratuita a Varsovia",
@@ -10881,7 +10885,7 @@
   },
   {
     "id": 86616,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Krakow City Walk",
       "es": "App Audioguía: Cracovia City Walk",
@@ -11102,6 +11106,92 @@
       {
         "id": 298457,
         "URL": "https://www.freetour.com/images/tours/86616/audio-guide-app-krakow-city-walk-16.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 86028,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Wrocław University Tour with Audio Guide & Admission",
+      "es": "Visita a la Universidad de Wrocław con audioguía y entrada",
+      "pt": "Visita à Universidade de Wrocław com guia áudio e entrada",
+      "de": "Breslauer Universitätstour mit Audioguide &amp; Eintritt",
+      "fr": "Visite de l'université de Wrocław avec audioguide et entrée",
+      "it": "Tour dell'Università di Breslavia con audioguida e ingresso"
+    },
+    "brief": {
+      "de": "Hier ist eine Version mit weniger als 250 Zeichen:\r\n\r\nEntdecken Sie mit einem Audioguide die barocken Juwelen der Universität Wrocław. Besuchen Sie die Aula Leopoldina und genießen Sie zum Abschluss einen atemberaubenden Blick auf die Stadt vom Mathematischen Turm.\r\n",
+      "en": "Here’s a version under 250 characters:\r\n\r\nDiscover the Baroque gems of Wrocław University with an audio guide. Visit the Aula Leopoldina and end with stunning city views from the Mathematical Tower.\r\n",
+      "es": "Aquí tienes una versión de menos de 250 caracteres:\r\n\r\nDescubra las joyas barrocas de la Universidad de Wrocław con una audioguía. Visita el Aula Leopoldina y termina con unas impresionantes vistas de la ciudad desde la Torre Matemática.\r\n",
+      "fr": "Voici une version de moins de 250 caractères :\r\n\r\nDécouvrez les joyaux baroques de l'université de Wrocław avec un audioguide. Visitez l'Aula Leopoldina et terminez par une vue imprenable sur la ville depuis la Tour Mathématique.\r\n",
+      "it": "Ecco una versione inferiore ai 250 caratteri:\r\n\r\nScoprite le gemme barocche dell'Università di Breslavia con un'audioguida. Visitate l'Aula Leopoldina e terminate con una splendida vista della città dalla Torre Matematica.\r\n",
+      "pt": "Aqui está uma versão com menos de 250 caracteres:\r\n\r\nDescubra as jóias barrocas da Universidade de Wrocław com um guia áudio. Visite a Aula Leopoldina e termine com vistas deslumbrantes da cidade a partir da Torre da Matemática.\r\n"
+    },
+    "description": {
+      "de": "Entdecken Sie die faszinierende Geschichte und die prächtige Architektur der Universität von Wrocław, eines der wertvollsten Wahrzeichen der Stadt. Erkunden Sie mit einem Audioguide die reich verzierten barocken Innenräume der Aula Leopoldina und des Oratoriums Marianum - Meisterwerke der Kunst und Architektur mit kunstvollen Skulpturen, aufwendigen Deckenfresken und jahrhundertelanger akademischer Tradition. Während Sie durch diese historischen Säle wandern, erfahren Sie mehr über das österreichische Erbe der Universität, die Gegenreformation und die einflussreichen Gelehrten und Musiker, darunter Johannes Brahms, die einst in diesen Räumen wirkten.\r\n\r\nAnschließend setzen Sie Ihren Besuch auf eigene Faust auf dem Mathematischen Turm fort, von wo aus Sie einen atemberaubenden Panoramablick auf Wrocław genießen können. Von diesem Aussichtspunkt aus können Sie die Skyline der Stadt bewundern und gleichzeitig über die dramatische Vergangenheit der Stadt nachdenken - von der Zerstörung im Krieg und der Verschiebung der Grenzen bis hin zur Wiedergeburt der Universität als stolze polnische Institution.",
+      "en": "Discover the fascinating history and magnificent architecture of the University of Wrocław, one of the city’s most treasured landmarks. With an audio guide, explore the richly decorated Baroque interiors of the Aula Leopoldina and Oratorium Marianum—masterpieces of art and architecture filled with ornate sculptures, intricate ceiling frescoes, and centuries of academic tradition. As you wander through these historic halls, learn about the university’s Austrian legacy, the Counter-Reformation, and the influential scholars and musicians, including Johannes Brahms, who once graced its spaces.\r\n\r\nAfterward, continue your visit independently to the Mathematical Tower, where you can enjoy breathtaking panoramic views of Wrocław. From this vantage point, take in the city’s skyline while reflecting on its dramatic past—from wartime destruction and shifting borders to the university’s rebirth as a proud Polish institution.",
+      "es": "Descubra la fascinante historia y la magnífica arquitectura de la Universidad de Wrocław, uno de los monumentos más preciados de la ciudad. Con una audioguía, explore los interiores barrocos ricamente decorados del Aula Leopoldina y el Oratorium Marianum, obras maestras del arte y la arquitectura repletas de esculturas ornamentadas, intrincados frescos en el techo y siglos de tradición académica. Mientras pasea por estas salas históricas, descubra el legado austriaco de la universidad, la Contrarreforma y los influyentes académicos y músicos, como Johannes Brahms, que pasaron por sus aulas.\r\n\r\nDespués, continúe su visita de forma independiente hasta la Torre Matemática, donde podrá disfrutar de unas impresionantes vistas panorámicas de Wrocław. Desde este mirador, podrá contemplar el perfil de la ciudad mientras reflexiona sobre su dramático pasado: desde la destrucción en tiempos de guerra y los cambios de fronteras hasta el renacimiento de la universidad como orgullosa institución polaca.",
+      "fr": "Découvrez l'histoire fascinante et l'architecture magnifique de l'Université de Wrocław, l'un des sites les plus précieux de la ville. Avec un audioguide, explorez les intérieurs baroques richement décorés de l'Aula Leopoldina et de l'Oratorium Marianum - des chefs-d'œuvre d'art et d'architecture remplis de sculptures ornées, de fresques complexes au plafond et de siècles de tradition académique. En déambulant dans ces salles historiques, vous découvrirez l'héritage autrichien de l'université, la Contre-Réforme et les érudits et musiciens influents, dont Johannes Brahms, qui ont fréquenté ces lieux.\r\n\r\nPoursuivez ensuite votre visite de manière indépendante jusqu'à la Tour mathématique, d'où vous pourrez profiter d'une vue panoramique à couper le souffle sur Wrocław. Depuis ce point d'observation, admirez l'horizon de la ville tout en réfléchissant à son passé dramatique, depuis les destructions en temps de guerre et le déplacement des frontières jusqu'à la renaissance de l'université en tant qu'institution polonaise fière de son nom.",
+      "it": "Scoprite l'affascinante storia e la magnifica architettura dell'Università di Breslavia, uno dei simboli più preziosi della città. Con l'ausilio di un'audioguida, esplorate gli interni barocchi riccamente decorati dell'Aula Leopoldina e dell'Oratorium Marianum, capolavori d'arte e architettura ricchi di sculture ornamentali, intricati affreschi sul soffitto e secoli di tradizione accademica. Passeggiando per queste sale storiche, scoprirete l'eredità austriaca dell'università, la Controriforma e gli influenti studiosi e musicisti, tra cui Johannes Brahms, che hanno frequentato i suoi spazi.\r\n\r\nIn seguito, continuate la vostra visita in modo indipendente fino alla Torre Matematica, da cui potrete godere di una vista panoramica mozzafiato di Breslavia. Da questo punto panoramico, ammirate lo skyline della città e riflettete sul suo drammatico passato, dalle distruzioni belliche e dai cambiamenti di confine alla rinascita dell'università come orgogliosa istituzione polacca.",
+      "pt": "Descubra a fascinante história e a magnífica arquitetura da Universidade de Wrocław, um dos marcos mais preciosos da cidade. Com um guia áudio, explore os interiores barrocos ricamente decorados da Aula Leopoldina e do Oratorium Marianum - obras-primas de arte e arquitetura repletas de esculturas ornamentadas, frescos intrincados no teto e séculos de tradição académica. Enquanto passeia por estas salas históricas, aprenda sobre o legado austríaco da universidade, a Contra-Reforma e os académicos e músicos influentes, incluindo Johannes Brahms, que outrora agraciaram os seus espaços.\r\n\r\nDepois, continue a sua visita de forma independente à Torre da Matemática, onde pode desfrutar de vistas panorâmicas de Wrocław de cortar a respiração. A partir deste ponto de vista, aprecie a linha do horizonte da cidade enquanto reflecte sobre o seu passado dramático - desde a destruição em tempo de guerra e a mudança de fronteiras até ao renascimento da universidade como uma orgulhosa instituição polaca."
+    },
+    "providerTitle": "Viadrina Tours",
+    "providerPhone": "+48508086747",
+    "URL": "https://www.freetour.com/wroclaw/wroclaw-university-tour-with-audio?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/wroclaw/wroclaw-university-tour-with-audio?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/wroclaw/wroclaw-university-tour-with-audio?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/wroclaw/wroclaw-university-tour-with-audio?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/wroclaw/wroclaw-university-tour-with-audio?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/wroclaw/wroclaw-university-tour-with-audio?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/wroclaw/wroclaw-university-tour-with-audio?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 15,
+      "currency": "EUR"
+    },
+    "length": "0:45",
+    "meetingPoint": {
+      "title": "Plac Uniwersytecki 1 ",
+      "coordinates": "51.11397340000001,17.0340136",
+      "googlePlaceId": "ChIJ_3JI0t3pD0cRZ1XwedMyHVA"
+    },
+    "cityId": 3359,
+    "countryId": 124,
+    "includes": [
+      "Museum of the University of Wrocław",
+      "Entrance fee to Aula Leopoldina, Oratorium Marianum and Mathematical Tower",
+      "Audio guide in Aula and Oratorium"
+    ],
+    "POIs": [
+      {
+        "id": 4580,
+        "title": "Museum of the University of Wrocław",
+        "googlePlaceId": "ChIJfzgACN_pD0cRqUrfM13itRs"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86028/wroclaw-university-tour-with-audio-guide-admission-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 296344,
+        "URL": "https://www.freetour.com/images/tours/86028/wroclaw-university-tour-with-audio-guide-admission-01.jpg"
+      },
+      {
+        "id": 296345,
+        "URL": "https://www.freetour.com/images/tours/86028/wroclaw-university-tour-with-audio-guide-admission-02.jpg"
+      },
+      {
+        "id": 296346,
+        "URL": "https://www.freetour.com/images/tours/86028/wroclaw-university-tour-with-audio-guide-admission-03.jpg"
+      },
+      {
+        "id": 296347,
+        "URL": "https://www.freetour.com/images/tours/86028/wroclaw-university-tour-with-audio-guide-admission-04.jpg"
       }
     ],
     "videoURL": null,

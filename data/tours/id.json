@@ -1,7 +1,7 @@
 [
   {
     "id": 41259,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jakarta Social & Political Tour",
       "es": "Visita social y política de Yakarta",
@@ -101,7 +101,7 @@
   },
   {
     "id": 47364,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Make Traditional Bali Coconut Oil with a Balinese Family",
       "es": "Elaborar aceite de coco tradicional de Bali con una familia balinesa",
@@ -204,7 +204,7 @@
   },
   {
     "id": 48757,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Hidden Gem of Historical Places in Yogyakarta",
       "es": "Descubra la joya oculta de los lugares históricos de Yogyakarta",
@@ -473,7 +473,7 @@
   },
   {
     "id": 49826,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ubud Ayung River Rafting Tour with Lunch",
       "es": "Excursión en balsa por el río Ayung de Ubud con almuerzo",
@@ -579,7 +579,7 @@
   },
   {
     "id": 49967,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bali Sunrise Trekking at Mount Batur Volcano",
       "es": "Senderismo al amanecer en el volcán Batur de Bali",
@@ -686,7 +686,7 @@
   },
   {
     "id": 51020,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bali: Ubud Highlights Private Tour with Transfers",
       "es": "Bali: Ubud Highlights Tour Privado con Traslados",
@@ -875,7 +875,7 @@
   },
   {
     "id": 52897,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jatiluwih & Surroundings e-Bike Cycling Tour",
       "es": "Jatiluwih y Alrededores e-Bike Cycling Tour",
@@ -985,7 +985,7 @@
   },
   {
     "id": 60506,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bali: Insta-Worthy Adventures",
       "es": "Bali: Aventuras Dignas de una Foto",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 63038,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Malang City Center",
       "es": "Free Tour al Centro de Malang",
@@ -1207,7 +1207,7 @@
   },
   {
     "id": 63601,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mount Batur Pine ATV Attractions",
       "es": "Atracciones ATV Monte Batur Pino",
@@ -1303,7 +1303,7 @@
   },
   {
     "id": 74806,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Shuttle from Yogyakarta Airport or Station",
       "es": "Servicio de Transporte Privado desde el Aeropuerto o la Estación de Yogyakarta",
@@ -1384,7 +1384,7 @@
   },
   {
     "id": 76884,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of the Highlights of Jakarta",
       "es": "Free Tour a los Lugares más Destacados de Yakarta",
@@ -1570,11 +1570,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 20
+    "reviewsNumber": 22
   },
   {
     "id": 76889,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Jakarta Night Bites: Sabang & Sarinah Flavors",
       "es": "Bocados Nocturnos en Yakarta: Sabores de Sabang y Sarinah",
@@ -1664,7 +1664,7 @@
   },
   {
     "id": 77588,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Magic of Mount Bromo",
       "es": "Explore la Magia del Monte Bromo",
@@ -1752,7 +1752,7 @@
   },
   {
     "id": 78336,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mount Bromo Sunrise & Madakaripura Falls Tour",
       "es": "Amanecer en el Monte Bromo y Excursión a las Cataratas de Madakaripura",
@@ -1853,7 +1853,7 @@
   },
   {
     "id": 78337,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mount Bromo and Ijen Volcano Sunrise Experience",
       "es": "Amanecer en los Volcanes Mount Bromo e Ijen",
@@ -1954,7 +1954,7 @@
   },
   {
     "id": 78338,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tumpak Sewu Waterfall, Mount Bromo & Ijen Volcano Tour",
       "es": "Excursión a la Cascada Tumpak Sewu, el Monte Bromo y el Volcán Ijen",

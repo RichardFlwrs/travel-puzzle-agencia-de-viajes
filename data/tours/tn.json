@@ -1,7 +1,7 @@
 [
   {
     "id": 5657,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old and Modern Tunis Tour",
       "es": "Túnez antiguo y moderno",
@@ -112,7 +112,7 @@
   },
   {
     "id": 15348,
-    "updatedAt": "2025-12-01 01:04:18",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Medina of Tunis Tour: an Open Air Museum!",
       "es": "Tour de La Medina de Túnez: un Museo al Aire Libre",
@@ -315,7 +315,7 @@
   },
   {
     "id": 40956,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Old Town of Sousse ",
       "es": "Visita del casco antiguo de Susa ",
@@ -408,7 +408,7 @@
   },
   {
     "id": 45373,
-    "updatedAt": "2025-12-01 17:48:26",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Unveiling Tunis Walking Journey in Medina & City Core",
       "es": "Descubrir Túnez a pie por la Medina y el centro de la ciudad",
@@ -458,9 +458,9 @@
     "countryId": 157,
     "includes": [
       "Zaytuna Mosque ...",
-      "Statue de Bourguiba",
-      "Dar Lasram",
-      "Royal Mausoleum of Tourbet el Bey",
+      "Kasbah Mosque",
+      "Cathedral of St Vincent de Paul and St Olivia of Palermo",
+      "El Berkah",
       "All Fees and Taxes",
       "Guided walking tour."
     ],
@@ -471,19 +471,19 @@
         "googlePlaceId": "ChIJDeUNT3U0_RIRMU9KwrJeBdY"
       },
       {
-        "id": 14128,
-        "title": "Statue de Bourguiba",
-        "googlePlaceId": "ChIJgzEOGGw0_RIRltAFxfU_-Fo"
+        "id": 5994,
+        "title": "Kasbah Mosque",
+        "googlePlaceId": "ChIJJfIU1PQz_RIRB6Uyi8iL6ko"
       },
       {
-        "id": 8931,
-        "title": "Dar Lasram",
-        "googlePlaceId": "ChIJqynCKIoz_RIRwPDU19dNZes"
+        "id": 14121,
+        "title": "Cathedral of St Vincent de Paul and St Olivia of Palermo",
+        "googlePlaceId": "ChIJu06-NXI0_RIR8ILl8JwykqM"
       },
       {
-        "id": 14124,
-        "title": "Royal Mausoleum of Tourbet el Bey",
-        "googlePlaceId": "ChIJVVWVVAo0_RIRUdAAFaw-89w"
+        "id": 26031,
+        "title": "El Berkah",
+        "googlePlaceId": "ChIJVVVVFXU0_RIRBN8bdNjR2Vo"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/45373/unveiling-tunis-walking-journey-in-medina-city-core-11.jpg",
@@ -584,11 +584,11 @@
     ],
     "videoURL": null,
     "rating": 4.9,
-    "reviewsNumber": 289
+    "reviewsNumber": 292
   },
   {
     "id": 45985,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of Carthage: Ruins, Legends & Empire",
       "es": "Free Tour a Cartago: Ruinas, Leyendas e Imperio",
@@ -677,11 +677,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 49
+    "reviewsNumber": 52
   },
   {
     "id": 47903,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Djerba",
       "es": "Descubrir Yerba",
@@ -785,7 +785,7 @@
   },
   {
     "id": 50341,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Medina of Tunis",
       "es": "Visita libre Medina de Túnez",
@@ -840,9 +840,8 @@
       "sidi ben arous",
       "Madrasa Slimania",
       "Municipal Market",
-      "Avenue Habib Bourguiba Clocktower",
-      "Dar Lasram",
-      "Cathedral of St Vincent de Paul and St Olivia of Palermo"
+      "Cathedral of St Vincent de Paul and St Olivia of Palermo",
+      "Dar El Jeld Restauraunt"
     ],
     "POIs": [
       {
@@ -876,19 +875,14 @@
         "googlePlaceId": "ChIJK70EQXM0_RIRvOsals_iKM4"
       },
       {
-        "id": 8928,
-        "title": "Avenue Habib Bourguiba Clocktower",
-        "googlePlaceId": "ChIJqYLkGmw0_RIRzEZg7el_gng"
-      },
-      {
-        "id": 8931,
-        "title": "Dar Lasram",
-        "googlePlaceId": "ChIJqynCKIoz_RIRwPDU19dNZes"
-      },
-      {
         "id": 14121,
         "title": "Cathedral of St Vincent de Paul and St Olivia of Palermo",
         "googlePlaceId": "ChIJu06-NXI0_RIR8ILl8JwykqM"
+      },
+      {
+        "id": 35143,
+        "title": "Dar El Jeld Restauraunt",
+        "googlePlaceId": "ChIJwU3zk4oz_RIRdwLt6emd_bo"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/50341/tunis-treasures-captivating-small-group-city-medina-stroll-01.jpg",
@@ -965,7 +959,7 @@
   },
   {
     "id": 57085,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tunis Medina Dream Tour",
       "es": "Medina de Túnez",
@@ -1113,11 +1107,11 @@
     ],
     "videoURL": null,
     "rating": 4.97,
-    "reviewsNumber": 7
+    "reviewsNumber": 8
   },
   {
     "id": 58863,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour to Kairouan, El Jem & Monastir",
       "es": "Visita privada a Kairuán, El Jem y Monastir",
@@ -1214,7 +1208,7 @@
   },
   {
     "id": 59174,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunset Splendor Tour: Discover Sousse",
       "es": "Sunset Splendor Tour: Descubra Susa",
@@ -1307,7 +1301,7 @@
   },
   {
     "id": 59544,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Heart of Tunisia",
       "es": "Descubra el corazón de Túnez",
@@ -1402,7 +1396,7 @@
   },
   {
     "id": 60607,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bizerte Walking Adventure",
       "es": "Aventura a Pie por Bizerta",
@@ -1478,7 +1472,7 @@
   },
   {
     "id": 60643,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Cooking Class & Culinary Tour + Medina Visit",
       "es": "Clase Privada de Cocina y Tour Culinario + Visita a la Medina",
@@ -1566,7 +1560,7 @@
   },
   {
     "id": 60657,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sbeitla, Kairouan & El Djem Private Tour",
       "es": "Excursión privada a Sbeitla, Kairuán y El Djem",
@@ -1679,7 +1673,7 @@
   },
   {
     "id": 60659,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Hammamet, Nabeul, Kelibia & Kerkouane",
       "es": "Descubrir Hammamet, Nabeul, Kelibia y Kerkouane",
@@ -1790,7 +1784,7 @@
   },
   {
     "id": 61793,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Medina of Sousse Free Tour",
       "es": "Medina de Susa Free Tour",
@@ -1930,7 +1924,7 @@
   },
   {
     "id": 62850,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tunis: Iconic Medina & City Center Cultural Tour",
       "es": "Túnez: Medina Icónica y Visita Cultural del Centro de la Ciudad",
@@ -2061,7 +2055,7 @@
   },
   {
     "id": 62855,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Bike Tour: Hidden Gem in the Northern Suburbs",
       "es": "Recorrido Guiado en Bicicleta: Gema Oculta en los Suburbios del Norte",
@@ -2168,7 +2162,7 @@
   },
   {
     "id": 62990,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sousse: Where History Meets the Sea",
       "es": "Susa: El Encuentro de la Historia con el Mar",
@@ -2263,7 +2257,7 @@
   },
   {
     "id": 67202,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Tunis and Sidi Bou Said Highlights",
       "es": "Explora Túnez y lo más Destacado de Sidi Bou Said",
@@ -2351,14 +2345,14 @@
   },
   {
     "id": 67215,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
-      "en": "Authentic Free Tour of Tunis Sidi Bou Side la Marsa & Gammarth",
-      "es": "Visita auténtica y gratuita de Túnez Sidi Bou Side la Marsa y Gammarth",
-      "pt": "Autêntica excursão gratuita a Tunes Sidi Bou Side la Marsa e Gammarth",
-      "de": "Authentische kostenlose Tour durch Tunis Sidi Bou Side la Marsa &amp; Gammarth",
-      "fr": "Authentique visite libre de Tunis Sidi Bou Side la Marsa &amp; Gammarth",
-      "it": "Autentico tour gratuito di Tunisi Sidi Bou Side la Marsa e Gammarth"
+      "en": "Cultural Free Tour of Tunis: Sidi Bou Side la Marsa & Gammarth",
+      "es": "Visita cultural gratuita de Túnez: Sidi Bou Side la Marsa y Gammarth",
+      "pt": "Visita cultural gratuita de Tunes: Sidi Bou Side la Marsa e Gammarth",
+      "de": "Kulturelle kostenlose Tour durch Tunis: Sidi Bou Side la Marsa &amp; Gammarth",
+      "fr": "Visite culturelle gratuite de Tunis : Sidi Bou Side la Marsa &amp; Gammarth",
+      "it": "Tour culturale gratuito di Tunisi: Sidi Bou Side la Marsa e Gammarth"
     },
     "brief": {
       "de": "Nehmen Sie an unserem kostenlosen Rundgang durch Tunis teil und entdecken Sie 3.000 Jahre Geschichte! Schlendern Sie durch die charmanten, engen Gassen, bewundern Sie die beeindruckende Architektur, erleben Sie lebendige Kunst, kosten Sie die lokalen Köstlichkeiten und lassen Sie sich von der Wärme der tunesischen Kultur anstecken.",
@@ -2491,7 +2485,7 @@
   },
   {
     "id": 67408,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Language Immersion Experience in Nabeul",
       "es": "Experiencia de Inmersión Lingüística en Nabeul",
@@ -2567,7 +2561,7 @@
   },
   {
     "id": 75380,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Sidi Bou Said of Tunis Free Tour",
       "es": "Visita gratuita a Sidi Bou Said de Túnez",
@@ -2663,7 +2657,7 @@
   },
   {
     "id": 77159,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Food Tour in Sidi Bou Said and La Marsa",
       "es": "Ruta gastronómica por Sidi Bou Said y La Marsa",
@@ -2781,6 +2775,6 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 7
+    "reviewsNumber": 8
   }
 ]

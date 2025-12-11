@@ -1,7 +1,7 @@
 [
   {
     "id": 44210,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Welcome to Bejuma",
       "es": "Bienvenidos a Bejuma",
@@ -74,7 +74,7 @@
   },
   {
     "id": 49408,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Get to Know Pampatar",
       "es": "Conoce Pampatar",
@@ -189,7 +189,7 @@
   },
   {
     "id": 52135,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour through the Historic Center of Caracas",
       "es": "Free Tour por el Centro Histórico de Caracas",
@@ -299,7 +299,7 @@
   },
   {
     "id": 52233,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ciudad Bolivar: Where Venezuela, Colombia, Ecuador & Panamá Were Born",
       "es": "Ciudad Bolívar: Donde nacieron Venezuela, Colombia, Ecuador y Panamá",
@@ -396,7 +396,7 @@
   },
   {
     "id": 66782,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking in The National Park in Caracas",
       "es": "Senderismo en el Parque Nacional de Caracas",
@@ -471,7 +471,7 @@
   },
   {
     "id": 67603,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Visiting National Museums of Art",
       "es": "Visitando los Museos Nacionales de Arte",
@@ -589,7 +589,7 @@
   },
   {
     "id": 73032,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Caracas in Bites: History, Culture and Flavor",
       "es": "Caracas a Mordiscos: Historia, Cultura y Sabor",
@@ -674,6 +674,122 @@
       {
         "id": 254647,
         "URL": "https://www.freetour.com/images/tours/73032/the-secret-caracas-bites-tour-history-culture-and-flavor-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 85289,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Caracas, Strokes and Contrasts Tour",
+      "es": "Caracas, Trazos y Contrastes Tour",
+      "pt": "Caracas, Tour dos traços e dos contrastes",
+      "de": "Caracas, Striche und Kontraste Tour",
+      "fr": "Caracas, tournée des traits et des contrastes",
+      "it": "Caracas, tour dei tratti e dei contrasti"
+    },
+    "brief": {
+      "de": "Entdecken Sie ein Caracas voller Nuancen, von den Geschmäckern, Aromen und Farben des Chacao-Marktes bis hin zur Eleganz der Plaza Altamira. Diese Tour lädt Sie ein, in die Geschichte und die Geheimnisse einzutauchen, die das heutige Caracas geprägt haben.",
+      "en": "Discover a Caracas full of nuances, from the flavors, aromas and colors of the Chacao Market to the elegance of Plaza Altamira, this tour invites you to delve into the history and secrets that shaped contemporary Caracas.",
+      "es": "Descubre una Caracas llena de matices, desde los sabores, aromas y colores del Mercado de Chacao hasta la elegancia de Plaza Altamira, este tour te invita a adentrarte en la historia y los secretos que dieron forma a la Caracas contemporánea.",
+      "fr": "Découvrez une Caracas pleine de nuances, des saveurs, arômes et couleurs du marché Chacao à l'élégance de la Plaza Altamira, cette visite vous invite à plonger dans l'histoire et les secrets qui ont façonné la Caracas d'aujourd'hui.",
+      "it": "Alla scoperta di una Caracas ricca di sfumature, dai sapori, gli aromi e i colori del Mercato di Chacao all'eleganza di Plaza Altamira, questo tour vi invita ad approfondire la storia e i segreti che hanno plasmato la Caracas contemporanea.",
+      "pt": "Descubra uma Caracas cheia de nuances, desde os sabores, aromas e cores do Mercado de Chacao até à elegância da Plaza Altamira, este passeio convida-o a mergulhar na história e nos segredos que moldaram a Caracas contemporânea."
+    },
+    "description": {
+      "de": "Entdecken Sie auf diesem ca. 4-stündigen Rundgang ein lebendiges, künstlerisches und nuanciertes Caracas.\r\nVon den Geschmäckern, Aromen und Farben des Chacao-Marktes bis hin zur Eleganz der Plaza Altamira lädt diese Tour dazu ein, in die Geschichte und die Geheimnisse einzutauchen, die das heutige Caracas geprägt haben.\r\nWir spazieren durch die Grünanlagen der PDVSA La Estancia, bewundern die kunstvollen Wandmalereien von Los Palos Grandes und schließen die Tour im Restaurant Las Corocoras im Parque del Este ab, wo Kunst, Architektur und Erinnerung ineinandergreifen und Sie erfahren, wie sich die Stadt im Laufe der Zeit neu erfunden hat.\r\n \r\n- Art der Führung: zu Fuß\r\n- Dauer: ca. 4 Stunden.\r\n- Empfohlene Tage: Mittwoch bis Sonntag\r\n- Reiseroute: Markt von Chacao, Plaza Altamira, PDVSA La Estancia, künstlerische Wandmalereien von Los Palos Grandes, Abschluss im Parque del Este in der Res. Las Corocoras",
+      "en": "Discover a vibrant, artistic and nuanced Caracas on this walking tour of approximately 4 hours.\r\nFrom the flavors, aromas and colors of the Chacao Market to the elegance of Plaza Altamira, this tour invites you to delve into the history and secrets that shaped contemporary Caracas.\r\nWe will walk through the green and patrimonial spaces of PDVSA La Estancia, admire the artistic murals of Los Palos Grandes, and close the experience at Las Corocoras Restaurant, inside the Parque del Este, where art, architecture and memory intertwine to tell you how the city was reinvented over time.\r\n \r\n- Type of tour: on foot\r\n- Duration: 4 hours approx.\r\n- Recommended days: from Wednesday to Sunday\r\n- Itinerary: Chacao Market, Plaza Altamira, PDVSA La Estancia, artistic murals of Los Palos Grandes, ending at Res. Las Corocoras Parque del Este",
+      "es": "Descubre una Caracas vibrante, artística y llena de matices en este recorrido a pie de aproximadamente 4 horas.\r\nDesde los sabores, aromas y colores del Mercado de Chacao hasta la elegancia de Plaza Altamira, este tour te invita a adentrarte en la historia y los secretos que dieron forma a la Caracas contemporánea.\r\nRecorreremos los espacios verdes y patrimoniales de PDVSA La Estancia, admiraremos los murales artísticos de Los Palos Grandes, y cerraremos la experiencia en el Restaurante Las Corocoras, dentro del Parque del Este, donde el arte, la arquitectura y la memoria se entrelazan para contarte cómo la ciudad fue reinventándose con el paso del tiempo.\r\n \r\n•\tTipo de tour: a pie\r\n•\tDuración: 4h aprox.\r\n•\tDías recomendados: de miércoles a domingo\r\n•\tItinerario: Mercado de Chacao, Plaza Altamira, PDVSA La Estancia, murales artísticos de Los Palos Grandes, culmina Res. Las Corocoras Parque del Este",
+      "fr": "Découvrez une Caracas vibrante, artistique et nuancée au cours de cette visite à pied d'environ 4 heures.\r\nDes saveurs, arômes et couleurs du marché Chacao à l'élégance de la Plaza Altamira, cette visite vous invite à plonger dans l'histoire et les secrets qui ont façonné la Caracas contemporaine.\r\nNous nous promènerons dans les espaces verts et patrimoniaux de PDVSA La Estancia, nous admirerons les peintures murales artistiques de Los Palos Grandes et nous terminerons l'expérience au restaurant Las Corocoras, à l'intérieur du Parque del Este, où l'art, l'architecture et la mémoire s'entremêlent pour vous raconter comment la ville s'est réinventée au fil du temps.\r\n \r\n- Type de visite : à pied\r\n- Durée : 4 heures environ\r\n- Jours recommandés : du mercredi au dimanche\r\n- Itinéraire : Marché de Chacao, Plaza Altamira, PDVSA La Estancia, peintures murales de Los Palos Grandes, pour finir à la Res. Las Corocoras Parque del Este",
+      "it": "Scoprite una Caracas vibrante, artistica e ricca di sfumature in questo tour a piedi di circa 4 ore.\r\nDai sapori, gli aromi e i colori del mercato di Chacao all'eleganza di Plaza Altamira, questo tour vi invita ad approfondire la storia e i segreti che hanno plasmato la Caracas contemporanea.\r\nPasseggeremo tra gli spazi verdi e patrimoniali di PDVSA La Estancia, ammireremo i murales artistici di Los Palos Grandes e concluderemo l'esperienza al ristorante Las Corocoras, all'interno del Parque del Este, dove arte, architettura e memoria si intrecciano per raccontare come la città si sia reinventata nel tempo.\r\n \r\n- Tipo di visita: a piedi\r\n- Durata: 4 ore circa\r\n- Giorni consigliati: da mercoledì a domenica\r\n- Itinerario: Mercato di Chacao, Plaza Altamira, PDVSA La Estancia, murales artistici di Los Palos Grandes, per terminare al Res. Las Corocoras Parque del Este",
+      "pt": "Descubra uma Caracas vibrante, artística e cheia de nuances neste passeio a pé de aproximadamente 4 horas.\r\nDesde os sabores, aromas e cores do Mercado de Chacao até à elegância da Plaza Altamira, este passeio convida-o a mergulhar na história e nos segredos que moldaram a Caracas contemporânea.\r\nPercorreremos os espaços verdes e patrimoniais da PDVSA La Estancia, admiraremos os murais artísticos de Los Palos Grandes e encerraremos a experiência no Restaurante Las Corocoras, dentro do Parque del Este, onde a arte, a arquitetura e a memória se entrelaçam para contar como a cidade se foi reinventando ao longo do tempo.\r\n \r\n- Tipo de passeio: a pé\r\n- Duração: 4 horas aproximadamente.\r\n- Dias recomendados: quarta-feira a domingo\r\n- Itinerário: Mercado de Chacao, Plaza Altamira, PDVSA La Estancia, murais artísticos de Los Palos Grandes, terminando no Res. Las Corocoras Parque del Este"
+    },
+    "providerTitle": "Legatum Guía Tour",
+    "providerPhone": "+584127113853",
+    "URL": "https://www.freetour.com/caracas/caracas-strokes-contrasts-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/caracas/caracas-strokes-contrasts-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/caracas/caracas-strokes-contrasts-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/caracas/caracas-strokes-contrasts-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/caracas/caracas-strokes-contrasts-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/caracas/caracas-strokes-contrasts-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/caracas/caracas-strokes-contrasts-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 28,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "Mercado Municipal de Chacao",
+      "coordinates": "10.4965471,-66.854076",
+      "googlePlaceId": "ChIJj4pBx6tZKowRrCs1ZRfq8YU"
+    },
+    "cityId": 4710,
+    "countryId": 168,
+    "includes": [
+      "East Park",
+      "Mercado Municipal de Chacao",
+      "Plaza Francia",
+      "PDVSA Centro de Arte La Estancia",
+      "Los palos Grandes Chacao Altamira"
+    ],
+    "POIs": [
+      {
+        "id": 1862,
+        "title": "East Park",
+        "googlePlaceId": "ChIJ7UWgSLNZKowRcxmTtLg_kzA"
+      },
+      {
+        "id": 34475,
+        "title": "Mercado Municipal de Chacao",
+        "googlePlaceId": "ChIJD1AYRKpZKowR0eeUD1pnZrY"
+      },
+      {
+        "id": 24822,
+        "title": "Plaza Francia",
+        "googlePlaceId": "ChIJobJqbKxZKowRiwgnUiuWOaE"
+      },
+      {
+        "id": 34476,
+        "title": "PDVSA Centro de Arte La Estancia",
+        "googlePlaceId": "ChIJq6qq_qxZKowRpM-4WG0W7zg"
+      },
+      {
+        "id": 34477,
+        "title": "Los palos Grandes Chacao Altamira",
+        "googlePlaceId": "ChIJyzg9GfxZKowRCS0_ehl9t64"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/85289/caracas-trazos-y-contrastes-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 300567,
+        "URL": "https://www.freetour.com/images/tours/85289/caracas-trazos-y-contrastes-01.jpg"
+      },
+      {
+        "id": 300867,
+        "URL": "https://www.freetour.com/images/tours/85289/caracas-strokes-contrasts-tour-01.jpg"
+      },
+      {
+        "id": 300868,
+        "URL": "https://www.freetour.com/images/tours/85289/caracas-strokes-contrasts-tour-02.jpg"
+      },
+      {
+        "id": 300869,
+        "URL": "https://www.freetour.com/images/tours/85289/caracas-strokes-contrasts-tour-03.jpg"
+      },
+      {
+        "id": 300870,
+        "URL": "https://www.freetour.com/images/tours/85289/caracas-strokes-contrasts-tour-04.jpg"
+      },
+      {
+        "id": 300871,
+        "URL": "https://www.freetour.com/images/tours/85289/caracas-strokes-contrasts-tour-05.jpg"
       }
     ],
     "videoURL": null,

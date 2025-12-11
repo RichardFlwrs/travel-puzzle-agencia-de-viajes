@@ -1,7 +1,7 @@
 [
   {
     "id": 2481,
-    "updatedAt": "2025-12-01 16:26:42",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Helsinki: More than Four Tours Daily",
       "es": "Recorrido gratuito por Helsinki: Más de cuatro visitas diarias",
@@ -152,11 +152,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 1457
+    "reviewsNumber": 1467
   },
   {
     "id": 3192,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Helsinki",
       "es": "Visita gratuita a Helsinki",
@@ -286,11 +286,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=Pyw2zHm21pA",
     "rating": 4.78,
-    "reviewsNumber": 1057
+    "reviewsNumber": 1059
   },
   {
     "id": 3210,
-    "updatedAt": "2025-12-01 01:01:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Helsinki City Tour",
       "es": "Visita privada de Helsinki",
@@ -375,7 +375,7 @@
   },
   {
     "id": 3527,
-    "updatedAt": "2025-12-01 01:02:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "RIB Boat Cruise in Helsinki",
       "es": "Crucero en semirrígido por Helsinki",
@@ -456,7 +456,7 @@
   },
   {
     "id": 31517,
-    "updatedAt": "2025-12-01 19:01:51",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Helsinki Free Tour",
       "es": "Free Tour en Helsinki",
@@ -498,8 +498,8 @@
     },
     "length": "2:00",
     "meetingPoint": {
-      "title": "Steps to Helsinki University, Senate Square. Look for the RED UMBRELLA",
-      "coordinates": "60.16949787856909,24.950820425733653",
+      "title": "Christmas Tree, Senate Square",
+      "coordinates": "60.169764333780975,24.952233055787545",
       "googlePlaceId": "ChIJAemZj80LkkYRRF6dhqkjtHY"
     },
     "cityId": 1295,
@@ -562,7 +562,7 @@
   },
   {
     "id": 33823,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Helsinki Highlights: Stroll Through History & Culture",
       "es": "Lo más Destacado de Helsinki: Paseo por la Historia y la Cultura",
@@ -670,7 +670,7 @@
   },
   {
     "id": 44970,
-    "updatedAt": "2025-12-01 01:08:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Modern Helsinki Walking Tour",
       "es": "Recorrido a pie por la Helsinki moderna",
@@ -843,7 +843,7 @@
   },
   {
     "id": 51880,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Tampere on an Unforgettable Walking Tour",
       "es": "Descubre Tampere en un Recorrido a pie Inolvidable",
@@ -965,7 +965,7 @@
   },
   {
     "id": 63179,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Evening Highlights Helsinki Tour",
       "es": "Lo más destacado de la noche en Helsinki",
@@ -1058,7 +1058,7 @@
   },
   {
     "id": 72395,
-    "updatedAt": "2025-12-01 08:06:01",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Rovaniemi Three Bridges Free Tour",
       "es": "Visita gratuita a los Tres Puentes de Rovaniemi",
@@ -1155,15 +1155,43 @@
       {
         "id": 297140,
         "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-03.jpg"
+      },
+      {
+        "id": 300271,
+        "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-01.jpg"
+      },
+      {
+        "id": 300272,
+        "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-02.jpg"
+      },
+      {
+        "id": 300273,
+        "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-04.jpg"
+      },
+      {
+        "id": 301496,
+        "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-05.jpg"
+      },
+      {
+        "id": 301497,
+        "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-06.jpg"
+      },
+      {
+        "id": 301498,
+        "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-07.jpg"
+      },
+      {
+        "id": 301499,
+        "URL": "https://www.freetour.com/images/tours/72395/rovaniemi-three-bridges-walk-08.jpg"
       }
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 3
+    "reviewsNumber": 5
   },
   {
     "id": 74180,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Walking Tour Around Rovaniemi",
       "es": "Free Tour a pie por Rovaniemi",
@@ -1269,7 +1297,7 @@
   },
   {
     "id": 75365,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour of Downtown Tampere",
       "es": "Free Tour a pie por el Centro de Tampere",
@@ -1361,7 +1389,7 @@
   },
   {
     "id": 76558,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Sisu: Empire to Equality Free Tour",
       "es": "Sisu: Del Imperio a la Igualdad",
@@ -1483,7 +1511,7 @@
   },
   {
     "id": 79835,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Taito: Design, Industry & Architecture",
       "es": "Taito: Diseño, Industria y Arquitectura",
@@ -1589,9 +1617,13 @@
         "googlePlaceId": "ChIJPV1K68wLkkYR-f8UMyBKTRM"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/79835/taito-industry-design-04.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/79835/taito-design-industry-03.jpg",
     "categoryId": 12,
     "images": [
+      {
+        "id": 300577,
+        "URL": "https://www.freetour.com/images/tours/79835/taito-design-industry-03.jpg"
+      },
       {
         "id": 277162,
         "URL": "https://www.freetour.com/images/tours/79835/taito-industry-design-04.jpg"
@@ -1599,10 +1631,6 @@
       {
         "id": 277164,
         "URL": "https://www.freetour.com/images/tours/79835/taito-industry-design-06.jpg"
-      },
-      {
-        "id": 277160,
-        "URL": "https://www.freetour.com/images/tours/79835/taito-industry-design-02.jpg"
       },
       {
         "id": 277161,
@@ -1623,11 +1651,11 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 28
+    "reviewsNumber": 30
   },
   {
     "id": 82245,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Evening Tour of Helsinki",
       "es": "Visita Nocturna por Helsinki",
@@ -1729,14 +1757,14 @@
   },
   {
     "id": 86281,
-    "updatedAt": "2025-12-01 19:20:05",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Free Tour: Kuninkanlaavu, Auroras & Lots of Nature in Rovaniemi",
-      "es": "Excursión gratuita: Kuninkanlaavu, auroras y mucha naturaleza en Rovaniemi",
-      "pt": "Excursão gratuita: Kuninkanlaavu, Auroras e muita natureza em Rovaniemi",
-      "de": "Kostenlose Tour: Kuninkanlaavu, Polarlichter und jede Menge Natur in Rovaniemi",
-      "fr": "Visite gratuite : Kuninkanlaavu, les aurores et la nature à Rovaniemi",
-      "it": "Tour gratuito: Kuninkanlaavu, aurore e tanta natura a Rovaniemi"
+      "en": "Tour of Laavu, Auroras & Lots of Nature in Rovaniemi",
+      "es": "Excursión a Laavu, auroras y mucha naturaleza en Rovaniemi",
+      "pt": "Visita a Laavu, auroras e muita natureza em Rovaniemi",
+      "de": "Rundfahrt durch Laavu, Polarlichter und viel Natur in Rovaniemi",
+      "fr": "Visite de Laavu, aurores boréales et nature à Rovaniemi",
+      "it": "Tour di Laavu, aurore e tanta natura a Rovaniemi"
     },
     "brief": {
       "de": "Erkunden Sie Rovaniemi bei einem Stadtspaziergang oder einem Van-Abenteuer. Entdecken Sie lokale Sehenswürdigkeiten, Naturpfade, verschneite Landschaften und sogar die Chance, das Nordlicht zu sehen!",
@@ -1747,12 +1775,12 @@
       "pt": "Explore Rovaniemi num passeio a pé pela cidade ou numa aventura de carrinha. Descubra os locais, os caminhos naturais, as paisagens nevadas e até a possibilidade de ver a aurora boreal!"
     },
     "description": {
-      "de": "Ich spreche Englisch, Portugiesisch und Spanisch.\r\nWir haben auch russisch und ukrainisch sprechende Touren nach Absprache.\r\n\r\nIhr Rovaniemi-Abenteuer beginnt hier. Wir werden den Kuninkanlaavu-Pfad erkunden, der mit dem Van und etwa 2 km zu Fuß erreichbar ist. \r\nEine kurze Fahrt bringt uns zu atemberaubenden Landschaften, wo Sie die Stille des Waldes genießen, im Schnee spielen und sich an einem kleinen Feuer aufwärmen können. Marshmallows natürlich inklusive! Sie haben auch Zugang zu einigen Schlitten (insgesamt 3) für zusätzlichen Spaß in der Winterlandschaft.\r\n\r\nFür ein noch magischeres Erlebnis können wir die Tour auf den Abend legen, damit Sie versuchen können, das Nordlicht am Himmel zu sehen - eine der unvergesslichsten Sehenswürdigkeiten von Rovaniemi.\r\n\r\nTeilen Sie uns bei der Buchung einfach Ihre Pläne und Vorlieben mit. Egal, ob Sie eine Tagesaktivität oder eine Polarlichtjagd suchen, ich werde das Erlebnis so gestalten, dass wir eine großartige Zeit miteinander verbringen.",
-      "en": "I speak English, Portuguese, and Spanish.\r\nWe also have Russian and Ukrainian speaking tours according with disponibility.\r\n\r\nYour Rovaniemi adventure begins here. We will explore the kuninkanlaavu trail, reached by van and around 2km by foot. \r\nA short drive takes us to stunning landscapes where you can enjoy the silence of the forest, play in the snow, and warm up by a small fire. Marshmallows included, of course! You’ll also have access to some sleds (3 in total) for extra fun in the winter scenery.\r\n\r\nFor an even more magical experience, we can schedule the tour in the evening to try to spot the northern lights across the sky, one of Rovaniemi`s most unforgettable sights.\r\n\r\nJust share your plans and preferences when you book. Whether you’re seeking a dayly activitie or aurora hunting, I’ll tailor the experience so we have an excellent time together.",
-      "es": "Hablo inglés, portugués y español.\r\nTambién tenemos tours de habla rusa y ucraniana de acuerdo con la disponibilidad.\r\n\r\nTu aventura en Rovaniemi comienza aquí. Exploraremos el sendero kuninkanlaavu, al que se llega en furgoneta y recorriendo unos 2 km a pie. \r\nUn corto trayecto en coche nos lleva a impresionantes paisajes donde podrá disfrutar del silencio del bosque, jugar en la nieve y calentarse junto a una pequeña hoguera. Malvaviscos incluidos, ¡por supuesto! También tendrás acceso a algunos trineos (3 en total) para divertirte aún más en el paisaje invernal.\r\n\r\nPara una experiencia aún más mágica, podemos programar la excursión por la noche para intentar ver auroras boreales en el cielo, una de las vistas más inolvidables de Rovaniemi.\r\n\r\nSólo tiene que indicarnos sus planes y preferencias al hacer la reserva. Tanto si busca una actividad diurna como si prefiere cazar auroras, adaptaré la experiencia para que pasemos un rato excelente juntos.",
-      "fr": "Je parle anglais, portugais et espagnol.\r\nNous avons également des visites guidées en russe et en ukrainien selon les disponibilités.\r\n\r\nVotre aventure à Rovaniemi commence ici. Nous explorerons le sentier de Kuninkanlaavu, accessible en camionnette et à environ 2 km à pied. \r\nUn court trajet en voiture nous emmène dans des paysages époustouflants où vous pourrez apprécier le silence de la forêt, jouer dans la neige et vous réchauffer près d'un petit feu. Guimauves incluses, bien sûr ! Vous aurez également accès à quelques luges (3 au total) pour vous amuser encore plus dans le paysage hivernal.\r\n\r\nPour une expérience encore plus magique, nous pouvons programmer l'excursion le soir pour tenter d'apercevoir une aurore boréale dans le ciel, l'un des spectacles les plus inoubliables de Rovaniemi.\r\n\r\nIl vous suffit de nous faire part de vos projets et de vos préférences au moment de la réservation. Que vous soyez à la recherche d'une activité de jour ou d'une chasse aux aurores, j'adapterai l'expérience pour que nous passions un excellent moment ensemble.",
-      "it": "Parlo inglese, portoghese e spagnolo.\r\nAbbiamo anche tour in lingua russa e ucraina a seconda della disponibilità.\r\n\r\nLa vostra avventura a Rovaniemi inizia qui. Esploreremo il sentiero kuninkanlaavu, raggiungibile con il furgone e a circa 2 km a piedi. \r\nUn breve tragitto in auto ci porterà in paesaggi mozzafiato dove potrete godere del silenzio della foresta, giocare con la neve e riscaldarvi accanto a un piccolo fuoco. I marshmallow sono inclusi, naturalmente! Avrete anche accesso ad alcune slitte (3 in totale) per un ulteriore divertimento nel paesaggio invernale.\r\n\r\nPer un'esperienza ancora più magica, possiamo programmare il tour di sera per cercare di scorgere l'aurora boreale nel cielo, uno degli spettacoli più indimenticabili di Rovaniemi.\r\n\r\nBasta comunicare i vostri piani e le vostre preferenze al momento della prenotazione. Sia che siate alla ricerca di un'attività giornaliera o di una caccia all'aurora, saprò personalizzare l'esperienza in modo da trascorrere insieme un tempo eccellente.",
-      "pt": "Falo inglês, português e espanhol.\r\nTambém temos visitas guiadas que falam russo e ucraniano, de acordo com a disponibilidade.\r\n\r\nA sua aventura em Rovaniemi começa aqui. Vamos explorar o trilho kuninkanlaavu, acessível de carrinha e a cerca de 2km a pé. \r\nUma curta viagem de carro leva-nos a paisagens deslumbrantes onde pode desfrutar do silêncio da floresta, brincar na neve e aquecer-se junto a uma pequena fogueira. Marshmallows incluídos, claro! Terá também acesso a alguns trenós (3 no total) para se divertir ainda mais no cenário de inverno.\r\n\r\nPara uma experiência ainda mais mágica, podemos programar o passeio à noite para tentar avistar as luzes do norte no céu, uma das vistas mais inesquecíveis de Rovaniemi.\r\n\r\nBasta partilhar os seus planos e preferências no momento da reserva. Quer esteja à procura de uma atividade diurna ou de uma caça à aurora, eu adaptarei a experiência para que tenhamos um excelente momento juntos."
+      "de": "Ich spreche Englisch, Portugiesisch und Spanisch. Wir haben auch russisch und ukrainisch sprechende Touren nach Absprache.\r\n\r\nIhr Rovaniemi-Abenteuer beginnt hier. Wir werden einen Laavu-Pfad erkunden, der mit dem Van und etwa 2 km zu Fuß erreichbar ist. Eine kurze Fahrt bringt uns zu atemberaubenden Landschaften, wo Sie die Stille des Waldes genießen, im Schnee spielen und sich an einem kleinen Feuer aufwärmen können. Marshmallows natürlich inklusive! Sie haben auch Zugang zu einigen Schlitten (insgesamt 3) für zusätzlichen Spaß in der Winterlandschaft.\r\n\r\nFür ein noch magischeres Erlebnis können wir die Tour auf den Abend legen, damit Sie versuchen können, das Nordlicht am Himmel zu sehen - eine der unvergesslichsten Sehenswürdigkeiten von Rovaniemi.\r\n\r\nTeilen Sie uns bei der Buchung einfach Ihre Pläne und Wünsche mit. Ganz gleich, ob Sie eine Tagesaktivität oder eine Polarlichtjagd suchen, ich werde das Erlebnis so gestalten, dass wir eine tolle Zeit miteinander verbringen.",
+      "en": "I speak English, Portuguese, and Spanish. We also have Russian and Ukrainian speaking tours according with disponibility.\r\n\r\nYour Rovaniemi adventure begins here. We will explore one laavu trail, reached by van and around 2km by foot. A short drive takes us to stunning landscapes where you can enjoy the silence of the forest, play in the snow, and warm up by a small fire. Marshmallows included, of course! You’ll also have access to some sleds (3 in total) for extra fun in the winter scenery.\r\n\r\nFor an even more magical experience, we can schedule the tour in the evening to try to spot the northern lights across the sky, one of Rovaniemi`s most unforgettable sights.\r\n\r\nJust share your plans and preferences when you book. Whether you’re seeking a dayly activitie or aurora hunting, I’ll tailor the experience so we have an excellent time together.",
+      "es": "Hablo inglés, portugués y español. También tenemos tours de habla rusa y ucraniana de acuerdo con la disponibilidad.\r\n\r\nSu aventura en Rovaniemi comienza aquí. Exploraremos un sendero laavu, al que se llega en furgoneta y recorriendo unos 2 km a pie. Un corto trayecto en coche nos lleva a impresionantes paisajes donde podrá disfrutar del silencio del bosque, jugar en la nieve y calentarse junto a una pequeña hoguera. Malvaviscos incluidos, ¡por supuesto! También tendrás acceso a algunos trineos (3 en total) para divertirte aún más en el paisaje invernal.\r\n\r\nPara una experiencia aún más mágica, podemos programar la excursión por la noche para intentar ver auroras boreales en el cielo, una de las vistas más inolvidables de Rovaniemi.\r\n\r\nSólo tiene que indicarnos sus planes y preferencias al hacer la reserva. Tanto si busca una actividad diurna como si prefiere cazar auroras, adaptaré la experiencia para que pasemos un rato excelente juntos.",
+      "fr": "Je parle anglais, portugais et espagnol. Nous avons également des visites guidées en russe et en ukrainien selon les disponibilités.\r\n\r\nVotre aventure à Rovaniemi commence ici. Nous explorerons un sentier de laavu, accessible en camionnette et à environ 2 km à pied. Un court trajet en voiture nous emmène dans des paysages époustouflants où vous pourrez apprécier le silence de la forêt, jouer dans la neige et vous réchauffer près d'un petit feu. Guimauves incluses, bien sûr ! Vous aurez également accès à quelques luges (3 au total) pour vous amuser encore plus dans le paysage hivernal.\r\n\r\nPour une expérience encore plus magique, nous pouvons programmer l'excursion le soir pour tenter d'apercevoir une aurore boréale dans le ciel, l'un des spectacles les plus inoubliables de Rovaniemi.\r\n\r\nIl vous suffit de nous faire part de vos projets et de vos préférences au moment de la réservation. Que vous soyez à la recherche d'une activité de jour ou d'une chasse aux aurores, j'adapterai l'expérience pour que nous passions un excellent moment ensemble.",
+      "it": "Parlo inglese, portoghese e spagnolo. Abbiamo anche tour in lingua russa e ucraina a seconda della disponibilità.\r\n\r\nLa vostra avventura a Rovaniemi inizia qui. Esploreremo un sentiero di laavu, raggiungibile con il furgone e a circa 2 km a piedi. Un breve tragitto in auto ci porterà in paesaggi mozzafiato dove potrete godervi il silenzio della foresta, giocare con la neve e riscaldarvi accanto a un piccolo fuoco. I marshmallow sono inclusi, naturalmente! Avrete anche accesso ad alcune slitte (3 in totale) per un ulteriore divertimento nel paesaggio invernale.\r\n\r\nPer un'esperienza ancora più magica, possiamo programmare il tour di sera per cercare di scorgere l'aurora boreale nel cielo, uno degli spettacoli più indimenticabili di Rovaniemi.\r\n\r\nBasta comunicare i vostri piani e le vostre preferenze al momento della prenotazione. Sia che siate alla ricerca di un'attività giornaliera o di una caccia all'aurora, saprò personalizzare l'esperienza in modo da trascorrere insieme un tempo eccellente.",
+      "pt": "Falo inglês, português e espanhol. Também temos visitas guiadas que falam russo e ucraniano, de acordo com a disponibilidade.\r\n\r\nA sua aventura em Rovaniemi começa aqui. Vamos explorar um trilho de laavu, acessível por carrinha e cerca de 2km a pé. Uma curta viagem de carro leva-nos a paisagens deslumbrantes onde pode desfrutar do silêncio da floresta, brincar na neve e aquecer-se junto a uma pequena fogueira. Marshmallows incluídos, claro! Terá também acesso a alguns trenós (3 no total) para se divertir ainda mais no cenário de inverno.\r\n\r\nPara uma experiência ainda mais mágica, podemos programar o passeio à noite para tentar avistar as luzes do norte no céu, uma das vistas mais inesquecíveis de Rovaniemi.\r\n\r\nBasta partilhar os seus planos e preferências no momento da reserva. Quer esteja à procura de uma atividade diurna ou de uma caça à aurora, eu adaptarei a experiência para que tenhamos um excelente momento juntos."
     },
     "providerTitle": "Adryano",
     "providerPhone": "+358413692058",
@@ -1766,7 +1794,7 @@
       "it": "https://www.freetour.com/it/rovaniemi/laavus-auroras-and-lots-of-nature?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 30,
+      "value": 20,
       "currency": "EUR"
     },
     "length": "3:00",
@@ -1821,7 +1849,7 @@
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/86281/laavus-auroras-and-lots-of-nature-09.jpg",
-    "categoryId": 12,
+    "categoryId": 6,
     "images": [
       {
         "id": 297622,
@@ -1843,5 +1871,135 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 1
+  },
+  {
+    "id": 86902,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "TARU: Christmas Myths & Legends Free Tour",
+      "es": "TARU: Mitos y Leyendas de Navidad Visita gratuita",
+      "pt": "TARU: Visita gratuita aos mitos e lendas do Natal",
+      "de": "TARU: Weihnachtsmythen &amp; Legenden Kostenlose Tour",
+      "fr": "TARU : Mythes et légendes de Noël Visite guidée gratuite",
+      "it": "TARU: Miti e leggende di Natale, tour gratuito"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf dieser neuen Tour für die Weihnachtszeit! Erfahren Sie mehr über seltsame urbane Legenden, den nicht existierenden finnischen König und unerzählte Geschichten, während Sie wunderschöne und weihnachtliche Orte im Zentrum von Helsinki erkunden. Sehen Sie die Stadt mit uns durch eine neue Linse!",
+      "en": "Join us on this new seasonal tour for the festive season! Learn about weird urban legends, the non-existent Finnish king, and untold history while exploring beautiful and Christmassy spots in central Helsinki. See the city through a new lens with us!",
+      "es": "Acompáñenos en esta nueva excursión de temporada con motivo de las fiestas Conozca extrañas leyendas urbanas, al inexistente rey finlandés y una historia desconocida mientras explora bellos rincones navideños del centro de Helsinki. Contemple la ciudad desde una nueva perspectiva",
+      "fr": "Rejoignez-nous pour cette nouvelle visite saisonnière à l'occasion des fêtes de fin d'année ! Découvrez d'étranges légendes urbaines, le roi finlandais qui n'existe pas, et une histoire inédite tout en explorant des lieux magnifiques et enjoués du centre d'Helsinki. Découvrez la ville sous un nouvel angle avec nous !",
+      "it": "Unitevi a noi in questo nuovo tour stagionale per le festività! Scoprite le strane leggende metropolitane, l'inesistente re finlandese e la storia non raccontata mentre esplorate i luoghi più belli e natalizi del centro di Helsinki. Guardate la città attraverso una nuova lente con noi!",
+      "pt": "Junte-se a nós nesta nova excursão sazonal para a época festiva! Saiba mais sobre estranhas lendas urbanas, o inexistente rei finlandês e uma história por contar, enquanto explora locais bonitos e natalícios no centro de Helsínquia. Veja a cidade através de uma nova perspetiva connosco!"
+    },
+    "description": {
+      "de": "Begleiten Sie uns auf dieser neuen saisonalen Mythen- und Legenden-Tour! Entdecken Sie die Weihnachtszeit in den interessantesten und schönsten Stadtvierteln Helsinkis. Erfahren Sie die Entstehungsgeschichte des Weihnachtsmanns und warum er Finnland als seine Heimat gewählt hat. Erfahren Sie mehr über die gruseligen Ursprünge der Weihnachtsbräuche aus der Folklore, heidnischen Traditionen und vorchristlichen Geschichten über das Weihnachtsfest. Erfahren Sie, wie finnische Weihnachtsbräuche aussehen, entdecken Sie das berühmteste Weihnachtsfenster Finnlands und lernen Sie, was es mit dem Nationalkomponisten zu tun hat! Welche seltsame Weihnachtstradition stammt von deutschen Königen, und welche finnischen Weihnachtsbräuche sind älter als Helsinki selbst? Sehen Sie sich die Weihnachtsbeleuchtung, die Weihnachtsmützen und die Weihnachtsstimmung an und besuchen Sie zum Abschluss den Weihnachtsmarkt, um sich mit leckeren Weihnachtsleckereien einzudecken.\r\n\r\nSehen Sie die schönsten Wahrzeichen Helsinkis und hören Sie Mythen, Geheimnisse, urbane Legenden und mehr. Entdecken Sie auf einem Spaziergang die finnische Kunst, Kultur, Sprache und Gesellschaft. Entdecken Sie das Leben in Finnland im Laufe der Jahrhunderte, das finnische Essen, Trinken und die nationalen Freizeitbeschäftigungen. Spazieren Sie durch einen berühmten Park am Wasser, vorbei an den botanischen Gärten, die einen Krieg überstanden haben, um einen Königspalast ohne König zu finden. Entdecken Sie eines der größten Jugendviertel Europas und besichtigen Sie das große historische Zentrum!",
+      "en": "Join us on this new seasonal myths and legends tour! Discover the festive season through Helsinki’s most interesting and beautiful central areas. Learn the origin story of Santa Claus and why he chooses to make Finland his home. Hear scarier origins of Christmas customs from folklore, pagan tradition and pre-Christian tales of Yule. Learn what Finnish Christmas pastimes look like, discover the most famous Christmas window in Finland and learn how it relates to the national composer! Which strange Christmas tradition came from German royals, and which Finnish Yule traditions predate Helsinki itself? See Christmas lights, Christmas hats, Christmas cheer and end at the Christmas market to get some tasty Christmas treats.\r\n\r\nSee Helsinki’s finest landmarks and hear myths, mysteries, urban legends and more. Walk to discover Finnish arts, culture, language and society. Discover life in Finland through the ages, through Finnish eating, drinking and national pastimes. Wander round a famous park by the waterfront, past the botanical gardens that survived a war to find a king’s palace without a king. Discover one of Europe's largest Jugend districts and see the grand historical centre!",
+      "es": "Únase a nosotros en este nuevo recorrido estacional de mitos y leyendas Descubra la época festiva a través de las zonas céntricas más interesantes y bellas de Helsinki. Conozca el origen de Papá Noel y por qué ha elegido Finlandia como su hogar. Escuche los orígenes más terroríficos de las costumbres navideñas del folclore, la tradición pagana y los cuentos precristianos de Yule. Conozca cómo son los pasatiempos navideños finlandeses, descubra el escaparate navideño más famoso de Finlandia y aprenda su relación con el compositor nacional ¿Qué extraña tradición navideña procede de la realeza alemana y qué tradiciones finlandesas de Yule son anteriores a la propia Helsinki? Contemple las luces navideñas, los gorros de Navidad, la alegría navideña y termine en el mercado navideño para degustar sabrosos dulces navideños.\r\n\r\nContemple los mejores monumentos de Helsinki y escuche mitos, misterios, leyendas urbanas y mucho más. Camine para descubrir el arte, la cultura, la lengua y la sociedad finlandesas. Descubra la vida en Finlandia a lo largo de los tiempos, a través de la comida, la bebida y los pasatiempos nacionales finlandeses. Deambule por un famoso parque junto a la costa, pase por los jardines botánicos que sobrevivieron a una guerra y encuentre un palacio real sin rey. Descubra uno de los mayores distritos Jugend de Europa y contemple el grandioso centro histórico",
+      "fr": "Rejoignez-nous pour cette nouvelle visite saisonnière des mythes et légendes ! Découvrez la saison des fêtes à travers les quartiers les plus intéressants et les plus beaux du centre d'Helsinki. Apprenez l'histoire de l'origine du Père Noël et pourquoi il a choisi de s'installer en Finlande. Écoutez les origines plus effrayantes des coutumes de Noël tirées du folklore, des traditions païennes et des contes préchrétiens de Yule. Apprenez à quoi ressemblent les loisirs finlandais de Noël, découvrez la fenêtre de Noël la plus célèbre de Finlande et apprenez quel est son lien avec le compositeur national ! Quelle étrange tradition de Noël provient des rois allemands, et quelles traditions finlandaises de Yule sont antérieures à Helsinki ? Découvrez les lumières de Noël, les chapeaux de Noël, la joie de Noël et terminez par le marché de Noël où vous pourrez déguster de délicieuses friandises de Noël.\r\n\r\nDécouvrez les plus beaux monuments d'Helsinki et écoutez les mythes, les mystères, les légendes urbaines et bien d'autres choses encore. Marchez pour découvrir les arts, la culture, la langue et la société finlandaise. Découvrez la vie en Finlande à travers les âges, à travers les repas, les boissons et les passe-temps nationaux. Promenez-vous dans un célèbre parc au bord de l'eau, passez devant les jardins botaniques qui ont survécu à une guerre pour trouver un palais de roi sans roi. Découvrez l'un des plus grands quartiers Jugend d'Europe et le grand centre historique !",
+      "it": "Unitevi a noi in questo nuovo tour stagionale di miti e leggende! Scoprite la stagione delle feste attraverso le zone centrali più interessanti e belle di Helsinki. Scoprite la storia delle origini di Babbo Natale e perché ha scelto di fare della Finlandia la sua casa. Ascoltate le origini più spaventose delle usanze natalizie dal folklore, dalla tradizione pagana e dai racconti precristiani di Yule. Imparate a conoscere i passatempi natalizi finlandesi, scoprite la finestra di Natale più famosa della Finlandia e imparate come si collega al compositore nazionale! Quale strana tradizione natalizia proviene dai reali tedeschi e quali tradizioni finlandesi di Yule sono precedenti alla stessa Helsinki? Ammirate le luci di Natale, i cappelli di Natale, l'allegria natalizia e finite al mercatino di Natale per assaggiare qualche gustosa specialità natalizia.\r\n\r\nAmmirate i più bei monumenti di Helsinki e scoprite miti, misteri, leggende metropolitane e altro ancora. Camminate alla scoperta delle arti, della cultura, della lingua e della società finlandese. Scoprite la vita in Finlandia nel corso dei secoli, attraverso il mangiare, il bere e i passatempi nazionali finlandesi. Passeggiate in un famoso parco sul lungomare, passando per i giardini botanici sopravvissuti a una guerra per trovare un palazzo del re senza re. Scoprite uno dei più grandi quartieri Jugend d'Europa e visitate il grande centro storico!",
+      "pt": "Junte-se a nós nesta nova excursão sazonal de mitos e lendas! Descubra a época festiva através das zonas centrais mais interessantes e bonitas de Helsínquia. Conheça a história da origem do Pai Natal e a razão pela qual ele escolheu a Finlândia como sua casa. Ouça as origens mais assustadoras dos costumes natalícios do folclore, da tradição pagã e dos contos pré-cristãos de Yule. Saiba como são os passatempos de Natal finlandeses, descubra a montra de Natal mais famosa da Finlândia e saiba como está relacionada com o compositor nacional! Que estranha tradição de Natal provém da realeza alemã e que tradições finlandesas de Natal são anteriores à própria Helsínquia? Veja as luzes de Natal, os chapéus de Natal, a alegria do Natal e termine no mercado de Natal para comprar algumas guloseimas de Natal saborosas.\r\n\r\nVeja os melhores pontos de referência de Helsínquia e ouça mitos, mistérios, lendas urbanas e muito mais. Caminhe para descobrir as artes, a cultura, a língua e a sociedade finlandesas. Descubra a vida na Finlândia ao longo dos tempos, através da comida, bebida e passatempos nacionais finlandeses. Passeie por um famoso parque à beira-mar, passando pelos jardins botânicos que sobreviveram a uma guerra para encontrar um palácio de rei sem rei. Descubra um dos maiores bairros Jugend da Europa e veja o grande centro histórico!"
+    },
+    "providerTitle": "Helwalk",
+    "providerPhone": "+358442367078",
+    "URL": "https://www.freetour.com/helsinki/taru-christmas-myths-legends?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/helsinki/taru-christmas-myths-legends?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/helsinki/taru-christmas-myths-legends?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/helsinki/taru-christmas-myths-legends?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/helsinki/taru-christmas-myths-legends?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/helsinki/taru-christmas-myths-legends?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/helsinki/taru-christmas-myths-legends?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:30",
+    "meetingPoint": {
+      "title": "Keskuskatu 2, between Stockmann and Marimekko",
+      "coordinates": "60.1683463,24.9427783",
+      "googlePlaceId": "ChIJz3Glo8wLkkYRN4Zpf94VLZw"
+    },
+    "cityId": 1295,
+    "countryId": 49,
+    "includes": [
+      "Stockmann - Helsinki",
+      "Finnish National Theatre",
+      "Kaisaniemi Park",
+      "House of the Estates",
+      "Helsinki Cathedral",
+      "Siltavuori",
+      "Myths and legends",
+      "Finnish Christmas traditions",
+      "Jugend architecture",
+      "Walk through a beautiful park",
+      "Historic centre",
+      "Learn about Finnish culture",
+      "Christmas market",
+      "Urban legends"
+    ],
+    "POIs": [
+      {
+        "id": 18585,
+        "title": "Stockmann - Helsinki",
+        "googlePlaceId": "ChIJ_doKsTQKkkYRN4nCHFIiwFo"
+      },
+      {
+        "id": 34982,
+        "title": "Finnish National Theatre",
+        "googlePlaceId": "ChIJC63XmM0LkkYRVlC5WaCfSdE"
+      },
+      {
+        "id": 23176,
+        "title": "Kaisaniemi Park",
+        "googlePlaceId": "ChIJp-X19tILkkYRFmKyep6-zKY"
+      },
+      {
+        "id": 8269,
+        "title": "House of the Estates",
+        "googlePlaceId": "ChIJp6NUKs4LkkYRU44E8uGkDGE"
+      },
+      {
+        "id": 10073,
+        "title": "Helsinki Cathedral",
+        "googlePlaceId": "ChIJtxnDRs4LkkYRousRCbTXpyg"
+      },
+      {
+        "id": 34983,
+        "title": "Siltavuori",
+        "googlePlaceId": "ChIJYdJ9ZtELkkYR9lE-plezmbQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86902/taru-christmas-myths-legends-07.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 299541,
+        "URL": "https://www.freetour.com/images/tours/86902/taru-christmas-myths-legends-07.jpg"
+      },
+      {
+        "id": 299535,
+        "URL": "https://www.freetour.com/images/tours/86902/taru-christmas-myths-legends-01.jpg"
+      },
+      {
+        "id": 299537,
+        "URL": "https://www.freetour.com/images/tours/86902/taru-christmas-myths-legends-03.jpg"
+      },
+      {
+        "id": 299536,
+        "URL": "https://www.freetour.com/images/tours/86902/taru-christmas-myths-legends-02.jpg"
+      },
+      {
+        "id": 299540,
+        "URL": "https://www.freetour.com/images/tours/86902/taru-christmas-myths-legends-06.jpg"
+      },
+      {
+        "id": 299542,
+        "URL": "https://www.freetour.com/images/tours/86902/taru-christmas-myths-legends-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
   }
 ]

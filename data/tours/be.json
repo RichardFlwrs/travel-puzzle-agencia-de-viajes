@@ -1,7 +1,7 @@
 [
   {
     "id": 47,
-    "updatedAt": "2025-12-01 16:33:52",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Brussels & Free Chocolate Tasting",
       "es": "Visita gratuita de Bruselas y degustación gratuita de chocolate",
@@ -224,11 +224,11 @@
     ],
     "videoURL": null,
     "rating": 4.21,
-    "reviewsNumber": 649
+    "reviewsNumber": 654
   },
   {
     "id": 145,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Bruges from Brussels",
       "es": "Excursión de un Día a Brujas desde Bruselas",
@@ -346,7 +346,7 @@
   },
   {
     "id": 146,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antwerp Day Trip from Brussels",
       "es": "Excursión de un Día a Amberes desde Bruselas",
@@ -456,7 +456,7 @@
   },
   {
     "id": 364,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Daily Free Historical Tour Gent: History & Legends",
       "es": "Visita histórica diaria y gratuita de Gante: Historia y Leyendas",
@@ -586,11 +586,11 @@
     ],
     "videoURL": null,
     "rating": 4.73,
-    "reviewsNumber": 1311
+    "reviewsNumber": 1317
   },
   {
     "id": 1140,
-    "updatedAt": "2025-12-01 10:04:07",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Historical Tour Bruges Incl. Chocolate Tasting & Off Boat Tour",
       "es": "Visita histórica gratuita de Brujas con degustación de chocolate y paseo en barco",
@@ -739,11 +739,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=nz7fAhSc3r8",
     "rating": 4.71,
-    "reviewsNumber": 1628
+    "reviewsNumber": 1635
   },
   {
     "id": 1141,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Evening Free Tour Bruges: Incl. Free Beer",
       "es": "Tour nocturno gratuito por Brujas: Cerveza gratis incluida",
@@ -876,15 +876,19 @@
       {
         "id": 20601,
         "URL": "https://www.freetour.com/images/tours/1141/bruges-by-night-free-walking-tour-01.jpg"
+      },
+      {
+        "id": 300596,
+        "URL": "https://www.freetour.com/images/tours/1141/bruges-by-night-free-walking-tour-11.jpg"
       }
     ],
     "videoURL": null,
     "rating": 4.68,
-    "reviewsNumber": 591
+    "reviewsNumber": 593
   },
   {
     "id": 1149,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 10:08:08",
     "title": {
       "en": "Daily Free Historical Tour Antwerp | By Local Legends",
       "es": "Recorrido histórico diario gratuito por Amberes | De la mano de leyendas locales",
@@ -1093,7 +1097,7 @@
   },
   {
     "id": 1736,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Ghent by Train",
       "es": "Excursión a Gante desde Bruselas",
@@ -1203,7 +1207,7 @@
   },
   {
     "id": 2400,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tasting Tour Bruges With Chocolate, Fries, Waffles, Beer & More",
       "es": "Tour de degustación gratuito por Brujas con chocolate, patatas fritas, gofres, cerveza y mucho más",
@@ -1320,11 +1324,11 @@
     ],
     "videoURL": null,
     "rating": 4.77,
-    "reviewsNumber": 160
+    "reviewsNumber": 161
   },
   {
     "id": 3361,
-    "updatedAt": "2025-12-01 01:02:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pub Crawl in Brussels ",
       "es": "Pub Crawl en Bruselas ",
@@ -1437,7 +1441,7 @@
   },
   {
     "id": 3921,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Sparkling Gent",
       "es": "Visita gratuita a Sparkling Gent",
@@ -1543,7 +1547,7 @@
   },
   {
     "id": 4875,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bruges Private Tour",
       "es": "Visita privada a Brujas",
@@ -1694,7 +1698,7 @@
   },
   {
     "id": 5763,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Leuven Free Walking Tour",
       "es": "Free Tour a Pie por Leuven",
@@ -1830,7 +1834,7 @@
   },
   {
     "id": 6560,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Hasselt",
       "es": "Visita gratuita a Hasselt",
@@ -2014,7 +2018,7 @@
   },
   {
     "id": 6913,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Tell Me About Bruges - 1000 Years of Stories by Locals",
       "es": "Háblame de Brujas - 1000 años de historias contadas por lugareños",
@@ -2090,11 +2094,11 @@
     ],
     "videoURL": null,
     "rating": 4.8,
-    "reviewsNumber": 601
+    "reviewsNumber": 602
   },
   {
     "id": 7731,
-    "updatedAt": "2025-12-01 20:23:07",
+    "updatedAt": "2025-12-11 09:45:12",
     "title": {
       "en": "Free Medieval Tour of Bruges with Chocolate Tasting",
       "es": "Free Tour Medieval de Brujas con degustación de Chocolate",
@@ -2247,11 +2251,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 335
+    "reviewsNumber": 339
   },
   {
     "id": 9211,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Liège",
       "es": "Visita gratuita a Lieja",
@@ -2413,11 +2417,11 @@
     ],
     "videoURL": null,
     "rating": 4.64,
-    "reviewsNumber": 140
+    "reviewsNumber": 141
   },
   {
     "id": 11636,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Evening Free Tour Antwerp | By Local Legends",
       "es": "Free Tour de Noche por Amberes | Historia y Misterios",
@@ -2563,7 +2567,7 @@
   },
   {
     "id": 21821,
-    "updatedAt": "2025-12-01 01:05:00",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Brussels Highlights: Walking & Bus Tour",
       "es": "Lo más destacado de Bruselas: Recorrido a pie y en autobús",
@@ -2711,7 +2715,7 @@
   },
   {
     "id": 21832,
-    "updatedAt": "2025-12-01 01:05:00",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bruges & Ghent Tour: Our Fairytale Cities",
       "es": "Brujas y Gante: Nuestras ciudades de cuento",
@@ -2847,7 +2851,7 @@
   },
   {
     "id": 23192,
-    "updatedAt": "2025-12-01 17:11:23",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Stories About Brussels: An Insider's View by Local Storytellers",
       "es": "Historias sobre Bruselas: Una visión privilegiada de los narradores locales",
@@ -2982,11 +2986,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 522
+    "reviewsNumber": 525
   },
   {
     "id": 26656,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Hasselt Ghost Tour",
       "es": "Visita fantasma de Hasselt",
@@ -3112,7 +3116,7 @@
   },
   {
     "id": 26856,
-    "updatedAt": "2025-12-01 01:05:54",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Brussels Old Town, the Capital of Beer: Self-Guided Exploration Game",
       "es": "Casco antiguo de Bruselas, capital de la cerveza: juego de exploración autoguiada",
@@ -3232,7 +3236,7 @@
   },
   {
     "id": 28374,
-    "updatedAt": "2025-12-01 01:06:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Brussels Tour: The Time Machine",
       "es": "Tour de Bruselas: la Máquina del Tiempo",
@@ -3328,14 +3332,14 @@
   },
   {
     "id": 28656,
-    "updatedAt": "2025-12-01 11:58:03",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
-      "en": "Free Tour Historic Center of Brussels Spanish &amp; Christmas Markets",
-      "es": "Free Tour Centro Histórico de Bruselas Español & Mercados de Navidad",
-      "pt": "Visita gratuita ao centro histórico de Bruxelas Mercados espanhóis e de Natal",
-      "de": "Kostenlose Tour Historisches Zentrum von Brüssel Spanische &amp; Weihnachtsmärkte",
-      "fr": "Visite gratuite du centre historique de Bruxelles, des marchés espagnols et des marchés de Noël",
-      "it": "Tour gratuito Centro storico di Bruxelles Mercatini di Natale e spagnoli"
+      "en": "Free Tour Historic Center of Brussels",
+      "es": "Free Tour Centro Histórico de Bruselas",
+      "pt": "Visita gratuita ao centro histórico de Bruxelas",
+      "de": "Kostenlose Tour Historisches Zentrum von Brüssel",
+      "fr": "Visite gratuite du centre historique de Bruxelles",
+      "it": "Tour gratuito del centro storico di Bruxelles"
     },
     "brief": {
       "de": "nehmen Sie an dieser kostenlosen Tour durch Brüssel teil und entdecken Sie das historische Zentrum! Spazieren Sie durch den berühmten Grand-Place, der zum Weltkulturerbe gehört, und tauchen Sie auf einem unvergesslichen Spaziergang in die belgische Geschichte, Kultur und Tradition ein.",
@@ -3432,7 +3436,7 @@
   },
   {
     "id": 29161,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Alternative Tour: The Dark Side of Gent | History & Mystery",
       "es": "Visita alternativa gratuita: El lado oscuro de Gante | Historia y misterio",
@@ -3558,11 +3562,11 @@
     ],
     "videoURL": null,
     "rating": 4.75,
-    "reviewsNumber": 402
+    "reviewsNumber": 404
   },
   {
     "id": 31355,
-    "updatedAt": "2025-12-01 12:00:23",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Essential Brussels Free Tour",
       "es": "Free Tour Esencial de Bruselas",
@@ -3780,11 +3784,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 822
+    "reviewsNumber": 825
   },
   {
     "id": 31357,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Medieval Bruges Free Tour with Local Chocolate Tasting",
       "es": "Visita gratuita a la Brujas medieval con degustación de chocolate local",
@@ -4001,11 +4005,11 @@
     ],
     "videoURL": null,
     "rating": 4.74,
-    "reviewsNumber": 309
+    "reviewsNumber": 310
   },
   {
     "id": 31358,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Historical Ghent Free Tour",
       "es": "Free Tour por la Gante Histórica",
@@ -4177,7 +4181,7 @@
   },
   {
     "id": 31376,
-    "updatedAt": "2025-12-01 11:40:06",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Walking Tour: Discover Antwerp's Charm",
       "es": "Free Tour a pie: Descubra el Encanto de Amberes",
@@ -4339,11 +4343,11 @@
     ],
     "videoURL": null,
     "rating": 4.61,
-    "reviewsNumber": 325
+    "reviewsNumber": 328
   },
   {
     "id": 31423,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Night Tour in Brussels",
       "es": "Free Tour Nocturno por Bruselas",
@@ -4471,7 +4475,7 @@
   },
   {
     "id": 31962,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Historical Tour of Leuven",
       "es": "Free Tour Histórico por Lovaina",
@@ -4607,7 +4611,7 @@
   },
   {
     "id": 32141,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Guided Tour to Bruges and Ghent by Train from Brussels",
       "es": "Tour Guiado de Día Completo a Brujas y Gante en Tren desde Bruselas",
@@ -4763,7 +4767,7 @@
   },
   {
     "id": 32572,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Gante Medieval & Monumental Free Tour",
       "es": "Gante Medieval y Monumental Free Tour",
@@ -4876,11 +4880,11 @@
     ],
     "videoURL": null,
     "rating": 4.73,
-    "reviewsNumber": 126
+    "reviewsNumber": 127
   },
   {
     "id": 33994,
-    "updatedAt": "2025-12-01 01:06:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chocolate and Beer Tour of Brussels",
       "es": "Tour de Chocolate y Cerveza por Bruselas",
@@ -5002,7 +5006,7 @@
   },
   {
     "id": 34048,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chocolate, Beer and Chips Tour of Brussels",
       "es": "Tour del Chocolate, Cerveza y Patatas Fritas por Bruselas",
@@ -5103,7 +5107,7 @@
   },
   {
     "id": 35064,
-    "updatedAt": "2025-12-01 20:45:35",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour of Brussels",
       "es": "Visita gratuita a Bruselas",
@@ -5232,11 +5236,11 @@
     ],
     "videoURL": null,
     "rating": 4.76,
-    "reviewsNumber": 1184
+    "reviewsNumber": 1193
   },
   {
     "id": 36078,
-    "updatedAt": "2025-12-01 01:07:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alternative Night Walk | Untold Stories & Legends | Expert Storyteller",
       "es": "Paseo nocturno alternativo | Historias y leyendas desconocidas | Narrador experto",
@@ -5332,7 +5336,7 @@
   },
   {
     "id": 37002,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Welcome to Brussels: Capital of United States of Europe Tour",
       "es": "Bienvenido a Bruselas: Capital de los Estados Unidos de Europa Tour",
@@ -5462,7 +5466,7 @@
   },
   {
     "id": 39058,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour European Quarter",
       "es": "Free Tour Barrio Europeo",
@@ -5679,7 +5683,7 @@
   },
   {
     "id": 44145,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tasting Tour Gent With Chocolate, Fries, Waffles, Beer & More",
       "es": "Degustación gratuita Gent Tour con chocolate, patatas fritas, gofres, cerveza y mucho más",
@@ -5786,11 +5790,11 @@
     ],
     "videoURL": null,
     "rating": 4.74,
-    "reviewsNumber": 85
+    "reviewsNumber": 86
   },
   {
     "id": 44728,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Historical Tour in Antwerp Old City",
       "es": "Visita histórica gratuita al casco antiguo de Amberes",
@@ -5952,12 +5956,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.86,
-    "reviewsNumber": 112
+    "rating": 4.87,
+    "reviewsNumber": 115
   },
   {
     "id": 47126,
-    "updatedAt": "2025-12-01 22:54:21",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Daily Free Historical Tour: The Story of Brussels",
       "es": "Visita histórica diaria gratuita: La historia de Bruselas",
@@ -6089,11 +6093,11 @@
     ],
     "videoURL": null,
     "rating": 4.63,
-    "reviewsNumber": 137
+    "reviewsNumber": 139
   },
   {
     "id": 57720,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "European Quarter Comedy Tour Brussels",
       "es": "Barrio europeo Comedy Tour Bruselas",
@@ -6253,11 +6257,11 @@
     ],
     "videoURL": null,
     "rating": 4.95,
-    "reviewsNumber": 46
+    "reviewsNumber": 48
   },
   {
     "id": 58653,
-    "updatedAt": "2025-12-01 20:23:07",
+    "updatedAt": "2025-12-11 09:45:12",
     "title": {
       "en": "Free Tour Historic and Medieval Ghent",
       "es": "Free Tour Gante Histórico y Medieval",
@@ -6391,7 +6395,7 @@
   },
   {
     "id": 58999,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Bruges in Italian",
       "es": "Visita de Brujas en italiano",
@@ -6495,7 +6499,7 @@
   },
   {
     "id": 59721,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour: The Heart of Brussels",
       "es": "Free Tour: El Corazón de Bruselas",
@@ -6655,7 +6659,7 @@
   },
   {
     "id": 60603,
-    "updatedAt": "2025-12-01 16:24:47",
+    "updatedAt": "2025-12-11 14:00:27",
     "title": {
       "en": "Free Tour Brussels in Full",
       "es": "Free Tour Bruselas al Completo",
@@ -6817,11 +6821,11 @@
     ],
     "videoURL": null,
     "rating": 4.95,
-    "reviewsNumber": 561
+    "reviewsNumber": 595
   },
   {
     "id": 62811,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Flanders World War I Battlefields Private Tour",
       "es": "Campos de Batalla de la Primera Guerra Mundial en Flandes - Tour Privado",
@@ -6954,7 +6958,7 @@
   },
   {
     "id": 62903,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Treasures of Flanders: Ghent & Bruges from Brussels",
       "es": "Tesoros de Flandes: Gante y Brujas desde Bruselas",
@@ -7106,7 +7110,7 @@
   },
   {
     "id": 63806,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Brussels: Battle of the Bulge Remembrance Tour",
       "es": "Desde Bruselas: Recorrido Conmemorativo de la Batalla de las Ardenas",
@@ -7203,7 +7207,7 @@
   },
   {
     "id": 63903,
-    "updatedAt": "2025-12-01 11:57:01",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Brussels Christmas Free Tour",
       "es": "Free Tour Navideño por Bruselas",
@@ -7311,12 +7315,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.93,
-    "reviewsNumber": 6
+    "rating": 4.84,
+    "reviewsNumber": 10
   },
   {
     "id": 64642,
-    "updatedAt": "2025-12-01 11:37:24",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: Medieval Ghent and Charles V",
       "es": "Free Tour: Gante Medieval y Carlos V",
@@ -7432,11 +7436,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 119
+    "reviewsNumber": 125
   },
   {
     "id": 64737,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Best Brussels Tour: History, Local Tips & Free Chocolate Tasting",
       "es": "El mejor recorrido por Bruselas: Historia, consejos locales y degustación gratuita de chocolate",
@@ -7548,7 +7552,7 @@
   },
   {
     "id": 67831,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Medieval Bruges Guided Tour with Praline Treat",
       "es": "Visita guiada a la Brujas medieval con postre de praliné",
@@ -7573,7 +7577,7 @@
       "it": "Intraprendete un viaggio affascinante nel cuore di Bruges, dove ogni strada acciottolata racchiude una storia tutta da scoprire. Iniziate dal maestoso Burg, dove si trovano la Cappella del Santo Sangue, il Municipio e il Palazzo di Giustizia.\r\n\r\nPasseggiate nella vivace Piazza del Mercato, dove l'imponente Campanile veglia su un arazzo di case delle corporazioni. Nelle vicinanze, il venerabile Ospedale di San Giovanni si erge in silenziosa riverenza accanto alle eleganti guglie della Chiesa di Nostra Signora, offrendo uno sguardo al passato di Bruges fatto di compassione e fede.\r\n\r\nAttraversate l'iconico Ponte dell'Amore, dove i sussurri del romanticismo si mescolano al dolce sciabordio delle acque del canale sottostante. Lungo il percorso, passeremo accanto al Walplein, ai tesori artistici del rinomato Groeninge Museum e alla serena bellezza di Dijver.\r\n\r\nAmmirate il Rozenhoedkaai, dove i riflessi dei secoli danzano sulle acque tranquille. Infine, immergetevi nella vivace atmosfera del Vismarkt, dove l'energia vibrante del mercato si fonde perfettamente con i dintorni storici.",
       "pt": "Embarque numa viagem cativante pelo coração de Bruges, onde cada rua de paralelepípedos guarda uma história à espera de ser descoberta. Comece no majestoso Burg, onde se encontram a Capela do Sangue Sagrado, a Câmara Municipal e o Tribunal.\r\n\r\nPasseie pela movimentada Praça do Mercado, onde o imponente Campanário vigia uma tapeçaria de casas de guildas. Perto dali, o venerável Hospital de S. João mantém-se em calma reverência ao lado das elegantes torres da Igreja de Nossa Senhora, oferecendo um vislumbre do passado de compaixão e fé de Bruges.\r\n\r\nAtravesse a icónica Ponte do Amor, onde os sussurros do romance se misturam com o suave bater das águas do canal. Ao longo do caminho, passaremos pelo Walplein, pelos tesouros artísticos do famoso Museu Groeninge e pela beleza serena de Dijver.\r\n\r\nAdmire o Rozenhoedkaai, onde os reflexos de séculos dançam sobre as águas tranquilas. Finalmente, mergulhe na atmosfera animada do Vismarkt, onde a energia vibrante do mercado se mistura perfeitamente com os arredores históricos."
     },
-    "providerTitle": "Vanslambrouck Peter",
+    "providerTitle": "Quality Guides",
     "providerPhone": "+32498724844",
     "URL": "https://www.freetour.com/bruges/medieval-bruges-guided-tour-with-praline-treat?referralID=elOi919SrKG94LbT",
     "URLs": {
@@ -7590,7 +7594,7 @@
     },
     "length": "2:00",
     "meetingPoint": {
-      "title": "Belfry of Bruges, Markt",
+      "title": "Belfry of Bruges, Markt 7",
       "coordinates": "51.2081466,3.2248011",
       "googlePlaceId": "ChIJ274qqdpQw0cRvM3gnmx3ibg"
     },
@@ -7603,7 +7607,8 @@
       "Belfry of Bruges",
       "Rosary Quay",
       "Saint John’s Hospital",
-      "A praline from a top-notch shop!"
+      "A praline from a top-notch shop!",
+      "QR code with more than 60 recommendations in Bruges: restaurants, coffee, various tips, museums, lace, breweries, …"
     ],
     "POIs": [
       {
@@ -7637,16 +7642,20 @@
         "googlePlaceId": "ChIJYT3TO9tQw0cR58Y2QF25_tA"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/67831/tour-with-a-certified-guide-in-medieval-bruges-a-praline-is-included-06.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/67831/medieval-bruges-guided-tour-with-praline-treat-01.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 236940,
-        "URL": "https://www.freetour.com/images/tours/67831/tour-with-a-certified-guide-in-medieval-bruges-a-praline-is-included-06.jpg"
+        "id": 301533,
+        "URL": "https://www.freetour.com/images/tours/67831/medieval-bruges-guided-tour-with-praline-treat-01.jpg"
       },
       {
         "id": 236935,
         "URL": "https://www.freetour.com/images/tours/67831/tour-with-a-certified-guide-in-medieval-bruges-a-praline-is-included-01.jpg"
+      },
+      {
+        "id": 236940,
+        "URL": "https://www.freetour.com/images/tours/67831/tour-with-a-certified-guide-in-medieval-bruges-a-praline-is-included-06.jpg"
       },
       {
         "id": 236936,
@@ -7695,11 +7704,11 @@
     ],
     "videoURL": null,
     "rating": 4.98,
-    "reviewsNumber": 32
+    "reviewsNumber": 33
   },
   {
     "id": 68881,
-    "updatedAt": "2025-12-01 16:36:04",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Nostalgic Free Tour of Bruges with a Local with Artisinal Praline",
       "es": "Nostálgico Tour Gratis de Brujas con un Local con Praliné Artesanal",
@@ -7793,9 +7802,13 @@
         "googlePlaceId": "ChIJvdAMVeBRw0cRYnXtfHvLFLw"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/68881/small-group-nostalgic-walking-tour-of-bruges-01.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/68881/nostalgic-walking-tour-of-bruges-01.jpg",
     "categoryId": 12,
     "images": [
+      {
+        "id": 300068,
+        "URL": "https://www.freetour.com/images/tours/68881/nostalgic-walking-tour-of-bruges-01.jpg"
+      },
       {
         "id": 240897,
         "URL": "https://www.freetour.com/images/tours/68881/small-group-nostalgic-walking-tour-of-bruges-01.jpg"
@@ -7819,6 +7832,10 @@
       {
         "id": 284966,
         "URL": "https://www.freetour.com/images/tours/68881/nostalgic-walking-tour-of-bruges-02.jpg"
+      },
+      {
+        "id": 300069,
+        "URL": "https://www.freetour.com/images/tours/68881/nostalgic-walking-tour-of-bruges-03.jpg"
       }
     ],
     "videoURL": null,
@@ -7827,7 +7844,7 @@
   },
   {
     "id": 71032,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Explore the Magic Witches: Between Canals and Legends",
       "es": "Explora la Brujas Mágica: Entre Canales y Leyendas",
@@ -7969,7 +7986,7 @@
   },
   {
     "id": 73937,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "A Unique View of Ghent's Local Life",
       "es": "Una Visión Única de la Vida Local de Gante",
@@ -8061,7 +8078,7 @@
   },
   {
     "id": 74454,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Explore Leuven's Unique Stories and Nooks and Crannies",
       "es": "Explora las Historias y los Rincones Únicos de Lovaina",
@@ -8166,12 +8183,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.33,
-    "reviewsNumber": 27
+    "rating": 4.37,
+    "reviewsNumber": 29
   },
   {
     "id": 74882,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of Medieval Bruges",
       "es": "Tour Privado por la Brujas Medieval",
@@ -8417,7 +8434,7 @@
   },
   {
     "id": 74897,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Bruges by Night Free Tour: Hidden Corners, Myths and Legends",
       "es": "Brujas de Noche Free Tour: Rincones Ocultos, Mitos y Leyendas",
@@ -8587,11 +8604,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 10
+    "reviewsNumber": 11
   },
   {
     "id": 76186,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tasting Tour Antwerp with Fries, Chocolate, Waffle, Beer & More",
       "es": "Tour de degustación gratuito por Amberes con patatas fritas, chocolate, gofres, cerveza y mucho más",
@@ -8713,12 +8730,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.65,
-    "reviewsNumber": 26
+    "rating": 4.67,
+    "reviewsNumber": 27
   },
   {
     "id": 76191,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Alternative Tour: The Dark Side of Brussels | History & Mystery",
       "es": "Visita alternativa gratuita: El lado oscuro de Bruselas | Historia y misterio",
@@ -8826,7 +8843,7 @@
   },
   {
     "id": 77050,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tasting Tour Brussels: Chocolate, Fries, Waffles & Beer",
       "es": "Degustación gratuita en Bruselas: Chocolate, patatas fritas, gofres y cerveza",
@@ -8910,7 +8927,7 @@
   },
   {
     "id": 77498,
-    "updatedAt": "2025-12-01 07:05:15",
+    "updatedAt": "2025-12-11 08:48:24",
     "title": {
       "en": "Free Tour of Bruges with Truffle & Waffle Samples",
       "es": "Visita gratuita a Brujas con muestras de trufas y gofres",
@@ -9082,11 +9099,11 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 28
+    "reviewsNumber": 35
   },
   {
     "id": 79182,
-    "updatedAt": "2025-12-01 18:57:03",
+    "updatedAt": "2025-12-11 11:15:09",
     "title": {
       "en": "Bruges Authentic Free Tour: Medieval History, Local Guide and Chocolate",
       "es": "Brujas Autentica Free Tour: Historia Medieval, Guía Local y Chocolate",
@@ -9336,11 +9353,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 40
+    "reviewsNumber": 43
   },
   {
     "id": 80090,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of Brussels: Historic Centre",
       "es": "Visita gratuita de Bruselas: Centro histórico",
@@ -9476,7 +9493,7 @@
   },
   {
     "id": 82863,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Voices of Change: An Activism Free Tour of Gent",
       "es": "Voces del cambio: Un recorrido por Gante sin activismo",
@@ -9592,7 +9609,7 @@
   },
   {
     "id": 83333,
-    "updatedAt": "2025-12-01 11:58:03",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "The most original Free Tour of Brussels",
       "es": "El Free Tour más Original de Bruselas",
@@ -9741,7 +9758,7 @@
   },
   {
     "id": 84396,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Guided Tour and Praline Included",
       "es": "Visita guiada gratuita y praliné incluido",
@@ -9766,7 +9783,7 @@
       "it": "Immergetevi nel cuore della Bruges medievale con una visita guidata esclusiva, limitata a 15 partecipanti per un'esperienza intima e autentica. In due ore, passeggiate per le sue strade acciottolate, ammirate punti di riferimento iconici come il Burg, il Markt e il Belfry, e scoprite tesori nascosti come il Castello di Gruuthuyse, la Chiesa di Nostra Signora e gli incantevoli canali.\r\n\r\nGuidati da un appassionato esperto locale, scoprirete aneddoti sorprendenti, storie affascinanti e curiosità spesso trascurate. Lasciatevi tentare dalle delizie di Bruges: patatine fritte, cioccolatini fatti in casa, waffle dorati e birre locali da gustare in un'atmosfera amichevole.\r\n\r\nDalla calma del Dijver all'energia della Place des Tanneurs, ogni tappa rivela un nuovo aspetto di questa città patrimonio dell'UNESCO.\r\nPrenotate subito il vostro posto per un'esperienza indimenticabile a Bruges!",
       "pt": "Mergulhe no coração da Bruges medieval com uma visita guiada exclusiva, limitada a 15 participantes para uma experiência íntima e autêntica. Em duas horas, percorra as suas ruas calcetadas, admire marcos emblemáticos como o Burg, o Markt e o Belfry, e descubra tesouros escondidos como o Castelo de Gruuthuyse, a Igreja de Nossa Senhora e os encantadores canais.\r\n\r\nGuiado por um especialista local apaixonado, descobrirá anedotas surpreendentes, histórias fascinantes e curiosidades frequentemente ignoradas. Deixe-se seduzir pelas delícias de Bruges: batatas fritas estaladiças, chocolates caseiros, waffles dourados e cervejas locais para saborear numa atmosfera amigável.\r\n\r\nDa calma do Dijver à energia da Place des Tanneurs, cada paragem revela uma nova faceta desta cidade Património Mundial da UNESCO.\r\nReserve já o seu lugar para uma experiência inesquecível em Bruges!"
     },
-    "providerTitle": "Vanslambrouck Peter",
+    "providerTitle": "Quality Guides",
     "providerPhone": "+32498724844",
     "URL": "https://www.freetour.com/bruges/free-tour-guide-et-praline-incluse?referralID=elOi919SrKG94LbT",
     "URLs": {
@@ -9893,7 +9910,7 @@
   },
   {
     "id": 85168,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Bruges and Ghent with Boat Tour",
       "es": "Excursión de un día a Brujas y Gante Con Paseo en Barco",
@@ -10000,7 +10017,7 @@
   },
   {
     "id": 85480,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "FreeTour: Bruges and its Brewing Secrets",
       "es": "FreeTour: Brujas y sus Secretos Cerveceros",
@@ -10171,7 +10188,7 @@
   },
   {
     "id": 86052,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free walking Tour in the European Institutions",
       "es": "Visita gratuita a pie por las instituciones europeas",
@@ -10289,11 +10306,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 86397,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Complete Tournai Free Tour",
       "es": "Tournai al Completo Free Tour",
@@ -10389,7 +10406,7 @@
   },
   {
     "id": 86522,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Bruges City Walk",
       "es": "App Audioguía: Brujas City Walk",
@@ -10515,7 +10532,7 @@
   },
   {
     "id": 86571,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Ghent City Walk",
       "es": "App Audioguía: Paseo por la ciudad de Gante",
@@ -10681,6 +10698,590 @@
       {
         "id": 298300,
         "URL": "https://www.freetour.com/images/tours/86571/audio-guide-app-ghent-city-walk-17.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 79915,
+    "updatedAt": "2025-12-11 03:32:39",
+    "title": {
+      "en": "Ghent Free Tour: Discover Ghent in its entirety",
+      "es": "Free Tour por Gante: Descúbrela por Completo",
+      "pt": "Ghent Free Tour: Descubra Ghent na sua totalidade",
+      "de": "Gent Free Tour: Entdecken Sie Gent in seiner Gesamtheit",
+      "fr": "Visite libre de Gand : Découvrez Gand dans son intégralité",
+      "it": "Visita libera di Gand: scoprire Gand nella sua interezza"
+    },
+    "brief": {
+      "de": "Entdecken Sie die faszinierende Vergangenheit von Gent, einst die zweitwichtigste Stadt des mittelalterlichen Europas nach Paris, berühmt für ihren Reichtum, ihren Handel und ihre kulturelle Macht - ein geschichtsträchtiges Erlebnis, das Sie nicht verpassen sollten!",
+      "en": "Discover the fascinating past of Ghent, once the second most important city in medieval Europe after Paris, famous for its wealth, trade and cultural power - an experience full of history you won't want to miss!",
+      "es": "Descubra el fascinante pasado de Gante, que en su día fue la segunda ciudad más importante de la Europa medieval después de París, famosa por su riqueza, comercio y poder cultural. ¡Una experiencia llena de historia que no querrá perderse!",
+      "fr": "Découvrez le passé fascinant de Gand, qui était autrefois la deuxième ville la plus importante de l'Europe médiévale après Paris, célèbre pour sa richesse, son commerce et sa puissance culturelle - une expérience pleine d'histoire à ne pas manquer !",
+      "it": "Scoprite l'affascinante passato di Gand, un tempo la seconda città più importante dell'Europa medievale dopo Parigi, famosa per la sua ricchezza, il suo commercio e il suo potere culturale: un'esperienza ricca di storia che non potrete perdere!",
+      "pt": "Descubra o passado fascinante de Gante, outrora a segunda cidade mais importante da Europa medieval depois de Paris, famosa pela sua riqueza, comércio e poder cultural - uma experiência cheia de história que não vai querer perder!"
+    },
+    "description": {
+      "de": "Wir beginnen in der majestätischen St.-Bavo-Kathedrale, wo wir Ihnen die Geschichte hinter der \"Anbetung des mystischen Lammes\" erzählen werden, dem ikonischen Meisterwerk der Brüder Van Eyck, das den künstlerischen Reichtum der Stadt symbolisiert. Von dort aus schlendern wir durch die gepflasterten Straßen und gotischen Gebäude Gents und erfahren, wie die Herrschaft Karls V., der hier geboren wurde, die Geschicke der Stadt tiefgreifend prägte und sowohl Reichtum als auch Herausforderungen mit sich brachte.\r\n\r\nDie Tour führt Sie zu Sehenswürdigkeiten wie dem Gravensteen und endet auf dem historischen Vrijdagmarkt, einem Platz, der seit Jahrhunderten das Zentrum des öffentlichen Lebens ist. Hier entdecken Sie die Geschichten von Kaufleuten, Adligen und historischen Ereignissen, die die Stadt geprägt haben - buchen Sie jetzt und tauchen Sie ein in die mittelalterliche Pracht und das Erbe von Gent!\r\n\r\nBitte beachten Sie:\r\n- Für die Tour ist eine Mindestteilnehmerzahl von 5 Erwachsenen erforderlich. Sollte diese Zahl nicht erreicht werden, liegt die Entscheidung über die Durchführung der Aktivität im Ermessen des Führers.",
+      "en": "We'll begin at the majestic St. Bavo's Cathedral, where we'll tell you the story behind \"The Adoration of the Mystic Lamb,\" the iconic masterpiece by the Van Eyck brothers that symbolizes the city's artistic wealth. From there, we will wander Ghent's cobblestone streets and Gothic buildings, exploring how the reign of Charles V, born here, profoundly shaped the city's destiny, bringing both wealth and challenges.\r\n\r\nOn this tour, we will visit landmarks such as the Gravensteen and end at the historic Vrijdagmarkt, a square that has been the center of public life for centuries. Here, you will discover the stories of merchants, nobles and historical events that marked the city. Book now and immerse yourself in the medieval splendor and legacy of Ghent!\r\n\r\nImportant:\r\n- The tour requires a minimum of 5 adults. If this number is not reached, the decision to carry out the activity will be at the discretion of the guide.",
+      "es": "Comenzaremos en la majestuosa Catedral de San Bavón, donde te contaremos la historia detrás de \"La Adoración del Cordero Místico\", la icónica obra maestra de los hermanos Van Eyck que simboliza la riqueza artística de la ciudad. Desde allí, recorreremos las calles empedradas y edificios góticos de Gante, explorando cómo el reinado de Carlos V, nacido aquí, moldeó profundamente el destino de la ciudad, trayendo tanto riqueza como desafíos.\r\n\r\nEn este recorrido, visitaremos lugares emblemáticos como el Gravensteen y terminaremos en la histórica Vrijdagmarkt, una plaza que ha sido el centro de la vida pública durante siglos. Aquí, descubrirás las historias de comerciantes, nobles y eventos históricos que marcaron la ciudad. ¡Reserva ya y sumérgete en el esplendor medieval y el legado de Gante!\r\n\r\nImportante:\r\n- La realización del tour requiere un mínimo de 5 adultos. En caso de no alcanzarse este número, la decisión de llevar a cabo la actividad quedará a criterio del guía.",
+      "fr": "Nous commencerons par la majestueuse cathédrale Saint-Bavon, où nous vous raconterons l'histoire de \"L'adoration de l'agneau mystique\", le chef-d'œuvre emblématique des frères Van Eyck qui symbolise la richesse artistique de la ville. De là, nous nous promènerons dans les rues pavées et les bâtiments gothiques de Gand, pour découvrir comment le règne de Charles Quint, né ici, a profondément façonné le destin de la ville, lui apportant à la fois richesse et défis.\r\n\r\nAu cours de cette visite, vous visiterez des monuments tels que le Gravensteen et terminerez par le Vrijdagmarkt, une place historique qui a été le centre de la vie publique pendant des siècles. Vous y découvrirez les histoires des marchands, des nobles et des événements historiques qui ont façonné la ville. Réservez dès maintenant et plongez-vous dans la splendeur médiévale et l'héritage de Gand !\r\n\r\nA noter :\r\n- La visite nécessite un minimum de 5 adultes. Si ce nombre n'est pas atteint, la décision de poursuivre l'activité sera laissée à la discrétion du guide.",
+      "it": "Inizieremo dalla maestosa Cattedrale di San Bavo, dove vi racconteremo la storia de \"L'adorazione dell'agnello mistico\", l'iconico capolavoro dei fratelli Van Eyck che simboleggia la ricchezza artistica della città. Da lì, ci aggireremo per le strade acciottolate e gli edifici gotici di Gand, esplorando come il regno di Carlo V, nato qui, abbia profondamente plasmato il destino della città, portando sia ricchezza che sfide.\r\n\r\nDurante questo tour, visiterete punti di riferimento come il Gravensteen e terminerete allo storico Vrijdagmarkt, una piazza che è stata il centro della vita pubblica per secoli. Qui scoprirete le storie di mercanti, nobili ed eventi storici che hanno plasmato la città. Prenotate ora e immergetevi nello splendore medievale e nell'eredità di Gand!\r\n\r\nNota bene:\r\n- Il tour richiede un minimo di 5 adulti. Se non si raggiunge questo numero, la decisione di proseguire l'attività sarà a discrezione della guida.",
+      "pt": "Começaremos na majestosa Catedral de São Bavo, onde lhe contaremos a história por detrás de \"A Adoração do Cordeiro Místico\", a icónica obra-prima dos irmãos Van Eyck que simboliza a riqueza artística da cidade. A partir daí, percorreremos as ruas calcetadas e os edifícios góticos de Gand, explorando a forma como o reinado de Carlos V, nascido aqui, moldou profundamente o destino da cidade, trazendo tanto riqueza como desafios.\r\n\r\nNeste passeio, visitará marcos como o Gravensteen e terminará no histórico Vrijdagmarkt, uma praça que tem sido o centro da vida pública durante séculos. Aqui, descobrirá as histórias de comerciantes, nobres e acontecimentos históricos que moldaram a cidade - reserve agora e mergulhe no esplendor medieval e no legado de Gante!\r\n\r\nPor favor, tenha em atenção:\r\n- A excursão requer um mínimo de 5 adultos. Se este número não for atingido, a decisão de prosseguir com a atividade ficará ao critério do guia."
+    },
+    "providerTitle": "AdvenTours",
+    "providerPhone": "+32476951949",
+    "URL": "https://www.freetour.com/gent/free-tour-por-gante-descubrela-po-completo?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/gent/free-tour-por-gante-descubrela-po-completo?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/gent/free-tour-por-gante-descubrela-po-completo?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/gent/free-tour-por-gante-descubrela-po-completo?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/gent/free-tour-por-gante-descubrela-po-completo?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/gent/free-tour-por-gante-descubrela-po-completo?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/gent/free-tour-por-gante-descubrela-po-completo?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Plaza de la Catedral de San Bavón",
+      "coordinates": "51.05317235322701,3.726189499336252",
+      "googlePlaceId": "ChIJx_yfTEZxw0cRMvSYNiMm8oM"
+    },
+    "cityId": 291,
+    "countryId": 14,
+    "includes": [
+      "Ghent City Hall",
+      "Stadshal / City Pavilion",
+      "Sint-Michielsbrug",
+      "Korenmarkt",
+      "Patershol",
+      "Saint Nicholas' Church",
+      "Gravensteen",
+      "Saint Bavo's Cathedral",
+      "Het Belfort van Gent",
+      "Vrijdagmarkt, Ghent",
+      "Mammelokker",
+      "Korenlei",
+      "Guía de habla hispana",
+      "PDF con las mejores recomendaciones"
+    ],
+    "POIs": [
+      {
+        "id": 216,
+        "title": "Ghent City Hall",
+        "googlePlaceId": "ChIJ--qlTkZxw0cRT8ytNYBl-B4"
+      },
+      {
+        "id": 32864,
+        "title": "Stadshal / City Pavilion",
+        "googlePlaceId": "ChIJ0Rz6WUZxw0cRvT5R2pR88Ao"
+      },
+      {
+        "id": 863,
+        "title": "Sint-Michielsbrug",
+        "googlePlaceId": "ChIJ2dTNNUFxw0cR3UupdLAVsDY"
+      },
+      {
+        "id": 2307,
+        "title": "Korenmarkt",
+        "googlePlaceId": "ChIJA0pd4c9xw0cRnUb8Ov7_wGw"
+      },
+      {
+        "id": 2541,
+        "title": "Patershol",
+        "googlePlaceId": "ChIJAR5nwzhxw0cReQoQ1O8bUWs"
+      },
+      {
+        "id": 2956,
+        "title": "Saint Nicholas' Church",
+        "googlePlaceId": "ChIJBW986UZxw0cRCHqhc3KCSgs"
+      },
+      {
+        "id": 3218,
+        "title": "Gravensteen",
+        "googlePlaceId": "ChIJcbDulEBxw0cRvttqH71W_y0"
+      },
+      {
+        "id": 4607,
+        "title": "Saint Bavo's Cathedral",
+        "googlePlaceId": "ChIJG-d0G0Zxw0cRUkUh5bmZs5Q"
+      },
+      {
+        "id": 7503,
+        "title": "Het Belfort van Gent",
+        "googlePlaceId": "ChIJN6yZYEZxw0cRW5D85JcWaZ0"
+      },
+      {
+        "id": 8010,
+        "title": "Vrijdagmarkt, Ghent",
+        "googlePlaceId": "ChIJoSIfuNNxw0cRTUmacIVNyKw"
+      },
+      {
+        "id": 32863,
+        "title": "Mammelokker",
+        "googlePlaceId": "ChIJQ9tL2sVxw0cRuot2Wi1uX7k"
+      },
+      {
+        "id": 18305,
+        "title": "Korenlei",
+        "googlePlaceId": "ChIJYQ_CtgNxw0cR5MkOtrmuVcM"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/79915/-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 276476,
+        "URL": "https://www.freetour.com/images/tours/79915/-01.jpg"
+      },
+      {
+        "id": 276477,
+        "URL": "https://www.freetour.com/images/tours/79915/-02.jpg"
+      },
+      {
+        "id": 276478,
+        "URL": "https://www.freetour.com/images/tours/79915/-03.jpg"
+      },
+      {
+        "id": 276479,
+        "URL": "https://www.freetour.com/images/tours/79915/-04.jpg"
+      },
+      {
+        "id": 276480,
+        "URL": "https://www.freetour.com/images/tours/79915/-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 80035,
+    "updatedAt": "2025-12-11 08:24:01",
+    "title": {
+      "en": "Free Beer Tour in Brussels",
+      "es": "Free Tour de Cerveza en Bruselas",
+      "pt": "Tour gratuito da cerveja em Bruxelas",
+      "de": "Freibier-Tour in Brüssel",
+      "fr": "Tournée de bière gratuite à Bruxelles",
+      "it": "Tour gratuito della birra a Bruxelles"
+    },
+    "brief": {
+      "de": "entdecken Sie, warum Belgien die Heimat der besten Biere der Welt ist! Nehmen Sie an unserer kostenlosen Biertour in Brüssel teil und erleben Sie ein einzigartiges Erlebnis mit Geschichten, Anekdoten, Legenden und (natürlich!) einer Verkostung belgischer Biere am Ende der Tour!",
+      "en": "discover why Belgium is the home of the best beers in the world! Join our free beer tour in Brussels and live a unique experience among stories, anecdotes, legends and (of course!) at the end of the tour we will taste Belgian beers!",
+      "es": "¡Descubre por qué Bélgica es la cuna de las mejores cervezas del mundo! Únete a nuestro free tour cervecero por Bruselas y vive una experiencia única entre historias, anécdotas, leyendas y (¡claro!) al final del tour vamos a probar cervezas belgas!",
+      "fr": "découvrez pourquoi la Belgique est le berceau des meilleures bières du monde ! Participez à notre visite gratuite de Bruxelles et vivez une expérience unique entre histoires, anecdotes, légendes et (bien sûr !) à la fin de la visite, nous dégusterons des bières belges !",
+      "it": "scoprite perché il Belgio è la patria delle migliori birre del mondo! Partecipate al nostro tour gratuito della birra a Bruxelles e vivrete un'esperienza unica tra storie, aneddoti, leggende e (ovviamente!) alla fine del tour degusteremo le birre belghe!",
+      "pt": "descubra porque é que a Bélgica é a pátria das melhores cervejas do mundo! Participe na nossa excursão gratuita à cerveja em Bruxelas e viva uma experiência única entre histórias, anedotas, lendas e (claro!) no final da excursão provaremos cervejas belgas!"
+    },
+    "description": {
+      "de": "hallo! Wir sind Ihre Bier-Guides in Brüssel Sind Sie ein leidenschaftlicher Bierliebhaber? Wir auch! Wir sind ein Team von Fachleuten, die das Beste der belgischen Biertradition mit neugierigen Reisenden wie Ihnen teilen möchten. Seit mehr als 10 Jahren erkunden wir jeden Winkel der belgischen Bierszene, von historischen Abteien und Trappistenbieren bis hin zu versteckten Kneipen und einzigartigen Craft-Bieren, und jetzt organisieren wir Free Beer Tours in Brüssel.\r\n\r\nwas beinhaltet die Tour?\r\nEinführung in die klassischen belgischen Bierstile: Trappist, Lambic, Kriek, Blanche, Tripel, IPA und mehr.\r\nDie Geheimnisse des belgischen Bieres: Warum gibt es mehr als 10.000 Sorten?\r\nLokale Tipps: Was bestellen, wohin gehen, nicht zu viel bezahlen? \r\n\r\nWir schicken Ihnen einen PDF-Führer mit allen Informationen zur Tour und verschiedenen Empfehlungen usw. usw. usw.\r\n\r\nwas werden wir auf dieser Tour sehen?\r\n1 Grand-Place\r\n2 Bière-Museum\r\n3 Brasserie Ommegang\r\n4 Galeries Royales Saint Hubert\r\n5 Café Delirium\r\n6 Erlebniswelt Belgisches Bier\r\n7 Insel Saint-Géry\r\n8 St-Jacques\r\n9 Kirche Notre-Dame du Bon Secours de Bruxelles\r\n10 Manneken Pis\r\n11 Rue des Brasseurs\r\n\r\n buchen Sie jetzt Ihren Platz!",
+      "en": "hello! We are your beer guides in Brussels Are you passionate about beer? So are we! We are a team of professionals dedicated to sharing the best of Belgian beer tradition with curious travelers like you. We've been exploring every corner of Belgium's beer scene for over 10 years; from historic abbeys and Trappist beers to hidden bars and unique craft beers; and now we organize Free Beer Tours in Brussels.\r\n\r\nwhat does the tour include?\r\nIntroduction to classic Belgian styles: Trappist, Lambic, Kriek, Blanche, Tripel, IPA and more.\r\nSecrets of beer in Belgium: why are there more than 10,000 varieties?\r\nLocal tips: What to order, where to go, how not to overpay? \r\n\r\nWe will send you a PDF guide with all the tour info + various recommendations, etc. etc. etc.\r\n\r\nwhat will we see on this tour?\r\n1 Grand-Place\r\n2 Bière Museum\r\n3 Brasserie Ommegang\r\n4 Galeries Royales Saint Hubert\r\n5 Delirium Café\r\n6 Belgian Beer World Experience\r\n7 Saint-Géry Island\r\n8 St-Jacques\r\n9 Église Notre-Dame du Bon Secours de Bruxelles\r\n10 Manneken Pis\r\n11 Rue des Brasseurs\r\n\r\n reserve your place now!",
+      "es": "¡Hola! Somos tus guías de cervezas en Bruselas ¿Te apasiona la cerveza? ¡A nosotros también! Somos un equipo de profesionales que nos dedicamos a compartir lo mejor de la tradición cervecera belga con viajeros curiosos como tú. Llevamos más de 10 años explorando cada rincón cervecero de Bélgica; desde abadías históricas y cervezas trapenses hasta bares escondidos y cervezas artesanales únicas; y ahora organizamos Free Tour de Cerveza en Bruselas.\r\n\r\n¿Qué incluye el tour?\r\nIntroducción a los estilos clásicos belgas: Trapense, Lambic, Kriek, Blanche, Tripel, IPA y más.\r\nSecretos de la cerveza en Bélgica: ¿por qué hay más de 10.000 variedades?\r\nConsejos locales: Qué pedir, dónde ir, ¿cómo no pagar de más? \r\n\r\nTe enviaremos una guía PDF con toda la info del tour + recomendaciones diversas, etc. etc.\r\n\r\n¿Qué veremos en este tour?\r\n1 Grand-Place\r\n2 Museo de la Bière\r\n3 Brasserie Ommegang\r\n4 Galeries Royales Saint Hubert\r\n5 Delirium Café\r\n6 Belgian Beer World Experience\r\n7 Saint-Géry Island\r\n8 St-Jacques\r\n9 Église Notre-Dame du Bon Secours de Bruxelles\r\n10 Manneken Pis\r\n11 Rue des Brasseurs\r\n\r\n ¡Reserva tu lugar Ahora!",
+      "fr": "bonjour, nous sommes vos guides de la bière à Bruxelles Vous êtes passionné par la bière ? Nous aussi ! Nous sommes une équipe de professionnels qui se consacre à partager le meilleur de la tradition de la bière belge avec des voyageurs curieux comme vous. Depuis plus de 10 ans, nous explorons les moindres recoins de la scène belge de la bière, des abbayes historiques aux bières trappistes en passant par les pubs cachés et les bières artisanales uniques, et maintenant nous organisons des visites gratuites de la bière à Bruxelles.\r\n\r\nque comprend la visite ?\r\nIntroduction aux styles belges classiques : trappiste, lambic, kriek, blanche, tripel, IPA, etc.\r\nLes secrets de la bière en Belgique : pourquoi y a-t-il plus de 10 000 variétés ?\r\nConseils locaux : que commander, où aller, comment ne pas payer trop cher ? \r\n\r\nNous vous enverrons un guide PDF avec toutes les informations sur le tour + diverses recommandations, etc. etc. etc.\r\n\r\nque verrons-nous lors de cette visite ?\r\n1 Grand-Place\r\n2 Musée Bière\r\n3 Brasserie Ommegang\r\n4 Galeries Royales Saint Hubert\r\n5 Delirium Café\r\n6 Belgian Beer World Experience\r\n7 Île Saint-Géry\r\n8 St-Jacques\r\n9 Église Notre-Dame du Bon Secours de Bruxelles\r\n10 Manneken Pis\r\n11 Rue des Brasseurs\r\n\r\n réservez votre place dès maintenant !",
+      "it": "salve, siamo le vostre guide alla birra a Bruxelles Siete appassionati di birra? Lo siamo anche noi! Siamo un team di professionisti dedicati a condividere il meglio della tradizione birraria belga con viaggiatori curiosi come voi. Da oltre 10 anni esploriamo ogni angolo della scena birraria belga, dalle abbazie storiche e le birre trappiste ai pub nascosti e alle birre artigianali uniche, e ora organizziamo tour gratuiti della birra a Bruxelles.\r\n\r\ncosa comprende il tour?\r\nIntroduzione agli stili classici belgi: trappiste, lambic, kriek, blanche, tripel, IPA e altro ancora.\r\nI segreti della birra in Belgio: perché ci sono più di 10.000 varietà?\r\nConsigli locali: cosa ordinare, dove andare, come non pagare troppo? \r\n\r\nVi invieremo una guida in PDF con tutte le informazioni sul tour + vari consigli, ecc. ecc.\r\n\r\ncosa vedremo durante questo tour?\r\n1 La Grande Piazza\r\n2 Museo della Bière\r\n3 Brasserie Ommegang\r\n4 Galeries Royales Saint Hubert\r\n5 Caffè Delirium\r\n6 Esperienza mondiale della birra belga\r\n7 Isola di Saint-Géry\r\n8 St-Jacques\r\n9 Chiesa di Notre-Dame du Bon Secours di Bruxelles\r\n10 Manneken Pis\r\n11 Rue des Brasseurs\r\n\r\n prenota subito il tuo posto!",
+      "pt": "olá! Somos os seus guias de cerveja em Bruxelas É apaixonado por cerveja? Nós também! Somos uma equipa de profissionais dedicados a partilhar o melhor da tradição cervejeira belga com viajantes curiosos como você. Há mais de 10 anos que exploramos todos os cantos da cena cervejeira belga; desde abadias históricas e cervejas trapistas a pubs escondidos e cervejas artesanais únicas; e agora organizamos Free Beer Tours em Bruxelas.\r\n\r\no que é que a excursão inclui?\r\nIntrodução aos estilos clássicos belgas: Trapista, Lambic, Kriek, Blanche, Tripel, IPA e muito mais.\r\nSegredos da cerveja na Bélgica: porque é que existem mais de 10.000 variedades?\r\nDicas locais: o que pedir, onde ir, como não pagar a mais? \r\n\r\nEnviar-lhe-emos um guia em PDF com todas as informações da visita + várias recomendações, etc. etc. etc.\r\n\r\no que é que vamos ver nesta visita?\r\n1 Grand-Place\r\n2 Museu Bière\r\n3 Brasserie Ommegang\r\n4 Galeries Royales Saint Hubert\r\n5 Café Delirium\r\n6 Experiência Mundial da Cerveja Belga\r\n7 Ilha de Saint-Géry\r\n8 St-Jacques\r\n9 Igreja de Nossa Senhora do Bom Socorro de Bruxelas\r\n10 Manneken Pis\r\n11 Rue des Brasseurs\r\n\r\n reserve já o seu lugar!"
+    },
+    "providerTitle": "BeerBelgiumTour",
+    "providerPhone": "+32484763686",
+    "URL": "https://www.freetour.com/brussels/free-tour-cervecero-en-bruselas?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/brussels/free-tour-cervecero-en-bruselas?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/brussels/free-tour-cervecero-en-bruselas?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/brussels/free-tour-cervecero-en-bruselas?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/brussels/free-tour-cervecero-en-bruselas?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/brussels/free-tour-cervecero-en-bruselas?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/brussels/free-tour-cervecero-en-bruselas?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Ayuntamiento de la ciudad",
+      "coordinates": "50.8466287,4.3519697",
+      "googlePlaceId": "ChIJaeKKqIDDw0cRPHsrdUp26hc"
+    },
+    "cityId": 287,
+    "countryId": 14,
+    "includes": [
+      "Manneken Pis",
+      "Grand Place",
+      "Royal Puppet Theater Toone",
+      "Delirium Café",
+      "Belgian Beer World Experience",
+      "Church of Notre-Dame de Bon Secours",
+      "Le Cirio",
+      "Poechenellekelder"
+    ],
+    "POIs": [
+      {
+        "id": 517,
+        "title": "Manneken Pis",
+        "googlePlaceId": "ChIJ0T1eGXnEw0cRH8GwIKZAuBc"
+      },
+      {
+        "id": 2012,
+        "title": "Grand Place",
+        "googlePlaceId": "ChIJ8fEURn_Ew0cRts_ij101PLA"
+      },
+      {
+        "id": 2178,
+        "title": "Royal Puppet Theater Toone",
+        "googlePlaceId": "ChIJ9cCpX3_Ew0cRfuA624pMS4E"
+      },
+      {
+        "id": 2804,
+        "title": "Delirium Café",
+        "googlePlaceId": "ChIJB9kyvYDDw0cRktLYfi304SY"
+      },
+      {
+        "id": 32897,
+        "title": "Belgian Beer World Experience",
+        "googlePlaceId": "ChIJPVTD4_vFw0cRFUO3N9xtmjA"
+      },
+      {
+        "id": 26681,
+        "title": "Church of Notre-Dame de Bon Secours",
+        "googlePlaceId": "ChIJI_7USnjEw0cR5eVjtJrKCuM"
+      },
+      {
+        "id": 32920,
+        "title": "Le Cirio",
+        "googlePlaceId": "ChIJuxuoZofDw0cR9pX7Fq5vHqE"
+      },
+      {
+        "id": 32919,
+        "title": "Poechenellekelder",
+        "googlePlaceId": "ChIJWadeF3nEw0cRQ-1b9yc4Cm4"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/80035/-09.jpg",
+    "categoryId": 5,
+    "images": [
+      {
+        "id": 276965,
+        "URL": "https://www.freetour.com/images/tours/80035/-09.jpg"
+      },
+      {
+        "id": 276958,
+        "URL": "https://www.freetour.com/images/tours/80035/-02.jpg"
+      },
+      {
+        "id": 276960,
+        "URL": "https://www.freetour.com/images/tours/80035/-04.jpg"
+      },
+      {
+        "id": 276961,
+        "URL": "https://www.freetour.com/images/tours/80035/-05.jpg"
+      },
+      {
+        "id": 276962,
+        "URL": "https://www.freetour.com/images/tours/80035/-06.jpg"
+      },
+      {
+        "id": 276963,
+        "URL": "https://www.freetour.com/images/tours/80035/-07.jpg"
+      },
+      {
+        "id": 276964,
+        "URL": "https://www.freetour.com/images/tours/80035/-08.jpg"
+      },
+      {
+        "id": 276957,
+        "URL": "https://www.freetour.com/images/tours/80035/-01.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 3.4,
+    "reviewsNumber": 3
+  },
+  {
+    "id": 86231,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Brussels Tour in Spanish with Chocolate and Belgian Waffle Waffles",
+      "es": "Tour de Bruselas en Español con Chocolate y Gofre Waffle Belga",
+      "pt": "Visita a Bruxelas em espanhol com chocolate e waffles belgas",
+      "de": "Brüssel-Tour auf Spanisch mit Schokolade und belgischen Waffeln",
+      "fr": "Visite de Bruxelles en espagnol avec chocolat et gaufres belges",
+      "it": "Tour di Bruxelles in spagnolo con cioccolato e waffle belga"
+    },
+    "brief": {
+      "de": "Geführte Tour durch Brüssel auf Englisch. Erfahren Sie mehr über die Geschichte der Stadt, besuchen Sie den Grand Place und das Manneken Pis, und genießen Sie belgische Schokolade und eine traditionelle Waffel. Ein kulturelles und gastronomisches Erlebnis im Herzen der Stadt.",
+      "en": "Guided tour of Brussels in English. Learn about the history of the city, visit the Grand Place and the Manneken Pis, and enjoy Belgian chocolate and a traditional waffle. A cultural and gastronomic experience in the heart of the city.",
+      "es": "Recorrido guiado en español por Bruselas. Conoce la historia de la ciudad, visita la Grand Place y el Manneken Pis, y disfruta de chocolate belga y un gofre tradicional. Una experiencia cultural y gastronómica en pleno centro.",
+      "fr": "Visite guidée de Bruxelles en anglais. Découvrez l'histoire de la ville, visitez la Grand Place et le Manneken Pis, et dégustez du chocolat belge et une gaufre traditionnelle. Une expérience culturelle et gastronomique au cœur de la ville.",
+      "it": "Visita guidata di Bruxelles in inglese. Scoprite la storia della città, visitate la Grand Place e il Manneken Pis, gustate il cioccolato belga e un waffle tradizionale. Un'esperienza culturale e gastronomica nel cuore della città.",
+      "pt": "Visita guiada a Bruxelas em inglês. Aprenda sobre a história da cidade, visite a Grand Place e o Manneken Pis, e desfrute de chocolate belga e de um waffle tradicional. Uma experiência cultural e gastronómica no coração da cidade."
+    },
+    "description": {
+      "de": "Entdecken Sie Brüssel auf einer geführten Tour in englischer Sprache, die Geschichte, Kultur und die typischsten Geschmacksrichtungen Belgiens miteinander verbindet.\r\nIn Begleitung eines leidenschaftlichen lokalen Führers besichtigen Sie die wichtigsten Sehenswürdigkeiten und versteckten Ecken der Stadt, während Sie zwei belgische Pralinen und eine frisch zubereitete traditionelle Waffel/Waffle nature probieren.\r\n\r\nSehen Sie den Grand Place, die Königlichen Galerien Saint-Hubert, das berühmte Manneken Pis und andere Sehenswürdigkeiten, während Sie Geschichten und Legenden hören, die den Charme dieser europäischen Hauptstadt offenbaren.\r\n\r\nIdeal für alle, die ein umfassendes Erlebnis suchen, das Geschichte, Geschmack und Spaß miteinander verbindet.",
+      "en": "Discover Brussels on a guided tour in English that combines history, culture and the most emblematic flavors of Belgium.\r\nAccompanied by a passionate local guide, you will visit the main monuments and hidden corners of the city while tasting two Belgian pralines and a freshly made traditional waffle/Waffle nature.\r\n\r\nSee the Grand Place, the Royal Galleries Saint-Hubert, the famous Manneken Pis and other must-see sites, while listening to stories and legends that reveal the charm of this European capital.\r\n\r\nIdeal for those who want to live a complete experience that combines history, taste and fun.",
+      "es": "Descubre Bruselas en un recorrido guiado en español que combina historia, cultura y los sabores más emblemáticos de Bélgica.\r\nAcompañado por un guía local apasionado, visitarás los principales monumentos y rincones ocultos de la ciudad mientras degustas dos pralines belgas y un gofre/Waffle nature tradicional recién hecho.\r\n\r\nConoce la Grand Place, las Galerías Reales Saint-Hubert, el famoso Manneken Pis y otros lugares imprescindibles, mientras escuchas historias y leyendas que revelan el encanto de esta capital europea.\r\n\r\nIdeal para quienes desean vivir una experiencia completa que combina historia, sabor y diversión.",
+      "fr": "Découvrez Bruxelles lors d'une visite guidée en anglais qui combine l'histoire, la culture et les saveurs les plus emblématiques de la Belgique.\r\nAccompagné d'un guide local passionné, vous visiterez les principaux monuments et les coins cachés de la ville tout en dégustant deux pralines belges et une gaufre traditionnelle fraîchement préparée.\r\n\r\nVous verrez la Grand Place, les Galeries royales Saint-Hubert, le célèbre Manneken Pis et d'autres sites incontournables, tout en écoutant des histoires et des légendes qui révèlent le charme de cette capitale européenne.\r\n\r\nIdéal pour ceux qui veulent vivre une expérience complète alliant histoire, saveur et plaisir.",
+      "it": "Scoprite Bruxelles con una visita guidata in inglese che unisce storia, cultura e i sapori più emblematici del Belgio.\r\nAccompagnati da un'appassionata guida locale, visiterete i principali monumenti e gli angoli più nascosti della città, degustando due praline belghe e un waffle tradizionale/Waffle nature appena fatto.\r\n\r\nVedrete la Grand Place, le Gallerie Reali Saint-Hubert, il famoso Manneken Pis e altri luoghi imperdibili, ascoltando storie e leggende che rivelano il fascino di questa capitale europea.\r\n\r\nIdeale per chi desidera un'esperienza completa che unisce storia, sapori e divertimento.",
+      "pt": "Descubra Bruxelas numa visita guiada em inglês que combina história, cultura e os sabores mais emblemáticos da Bélgica.\r\nAcompanhado por um guia local apaixonado, visitará os principais monumentos e os recantos escondidos da cidade enquanto prova dois pralinés belgas e um waffle tradicional acabado de fazer/Waffle nature.\r\n\r\nVeja a Grand Place, as Galerias Reais Saint-Hubert, o famoso Manneken Pis e outros locais imperdíveis, enquanto ouve histórias e lendas que revelam o encanto desta capital europeia.\r\n\r\nIdeal para aqueles que desejam uma experiência completa que combina história, sabor e diversão."
+    },
+    "providerTitle": "BelgoTours",
+    "providerPhone": "+32494463959",
+    "URL": "https://www.freetour.com/brussels/brussels-tour-with-chocolate-and-waffle?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/brussels/brussels-tour-with-chocolate-and-waffle?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/brussels/brussels-tour-with-chocolate-and-waffle?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/brussels/brussels-tour-with-chocolate-and-waffle?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/brussels/brussels-tour-with-chocolate-and-waffle?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/brussels/brussels-tour-with-chocolate-and-waffle?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/brussels/brussels-tour-with-chocolate-and-waffle?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 35,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Grand Place, Grote Markt, Brussels, Belgium",
+      "coordinates": "50.8467887,4.3524356",
+      "googlePlaceId": "ChIJaeKKqIDDw0cRPHsrdUp26hc"
+    },
+    "cityId": 287,
+    "countryId": 14,
+    "includes": [
+      "Manneken Pis",
+      "Mont des Arts",
+      "Place Royale Bruxelles",
+      "Sablon Antiques Center",
+      "Musical Instruments Museum",
+      "Law Courts of Brussels",
+      "Degustación de chocolate",
+      "Degustación de Wafle/Gofre",
+      "Guia Local"
+    ],
+    "POIs": [
+      {
+        "id": 517,
+        "title": "Manneken Pis",
+        "googlePlaceId": "ChIJ0T1eGXnEw0cRH8GwIKZAuBc"
+      },
+      {
+        "id": 1269,
+        "title": "Mont des Arts",
+        "googlePlaceId": "ChIJ4clK53rEw0cRedyFK8jjvrM"
+      },
+      {
+        "id": 3311,
+        "title": "Place Royale Bruxelles",
+        "googlePlaceId": "ChIJCTD7NIfEw0cRoTG8BTXExmY"
+      },
+      {
+        "id": 34730,
+        "title": "Sablon Antiques Center",
+        "googlePlaceId": "ChIJQZC5THzEw0cRC8TKkf9PMM4"
+      },
+      {
+        "id": 12185,
+        "title": "Musical Instruments Museum",
+        "googlePlaceId": "ChIJz2gUtIDEw0cRY-bzLAHSISU"
+      },
+      {
+        "id": 12241,
+        "title": "Law Courts of Brussels",
+        "googlePlaceId": "ChIJz6MvLWPEw0cRBeLV8QN50AE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86231/-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 297042,
+        "URL": "https://www.freetour.com/images/tours/86231/-01.jpg"
+      },
+      {
+        "id": 297043,
+        "URL": "https://www.freetour.com/images/tours/86231/-02.jpg"
+      },
+      {
+        "id": 297044,
+        "URL": "https://www.freetour.com/images/tours/86231/-03.jpg"
+      },
+      {
+        "id": 297045,
+        "URL": "https://www.freetour.com/images/tours/86231/-04.jpg"
+      },
+      {
+        "id": 297046,
+        "URL": "https://www.freetour.com/images/tours/86231/-05.jpg"
+      },
+      {
+        "id": 297047,
+        "URL": "https://www.freetour.com/images/tours/86231/-06.jpg"
+      }
+    ],
+    "videoURL": "https://www.youtube.com/watch?v=ZiBihkujz6E",
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 86605,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Leuven History Free Tour: The city of university & beer",
+      "es": "Tour gratuito por la historia de Lovaina: La ciudad de la universidad y la cerveza",
+      "pt": "Visita guiada gratuita à história de Lovaina: A cidade da universidade e da cerveja",
+      "de": "Kostenlose Tour durch die Geschichte von Leuven: Die Stadt der Universität und des Bieres",
+      "fr": "Visite guidée gratuite de Louvain : La ville de l'université et de la bière",
+      "it": "Tour gratuito della storia di Lovanio: La città dell'università e della birra"
+    },
+    "brief": {
+      "de": "Erkunden Sie das Erbe Leuvens, das studentische Leben und die Wahrzeichen der Stadt - von der Peterskirche über die \"längste Theke Europas\" bis hin zu den UNESCO-Stätten - und besuchen Sie schließlich die historische Universitätsbibliothek mit ihrem berühmten, von den USA gestifteten Glockenturm.",
+      "en": "Explore Leuven’s heritage, student life, and iconic landmarks—from St. Peter’s Church and the “Longest Bar in Europe” to UNESCO sites—finishing at the historic University Library with its renowned U.S.-gifted bell tower.",
+      "es": "Explore el patrimonio, la vida estudiantil y los lugares emblemáticos de Lovaina -desde la Iglesia de San Pedro y el \"Bar más largo de Europa\" hasta los sitios de la UNESCO- para terminar en la histórica Biblioteca Universitaria, con su famoso campanario regalado por Estados Unidos.",
+      "fr": "Découvrez le patrimoine de Louvain, la vie étudiante et les sites emblématiques de la ville, de l'église Saint-Pierre au \"plus long bar d'Europe\" en passant par les sites de l'UNESCO, et terminez par la bibliothèque universitaire historique, dont le clocher a été offert par les États-Unis.",
+      "it": "Esplorate il patrimonio, la vita studentesca e i luoghi simbolo di Lovanio, dalla Chiesa di San Pietro e il \"Bar più lungo d'Europa\" ai siti dell'UNESCO, per finire con la storica Biblioteca Universitaria con il suo rinomato campanile donato dagli Stati Uniti.",
+      "pt": "Explore o património de Lovaina, a vida estudantil e os marcos emblemáticos - desde a Igreja de São Pedro e o \"Bar mais comprido da Europa\" até aos locais da UNESCO - terminando na histórica Biblioteca da Universidade, com o seu famoso campanário doado pelos EUA."
+    },
+    "description": {
+      "de": "Erleben Sie Leuven mit den Augen eines Studenten und entdecken Sie, wie diese pulsierende Universitätsstadt ein jahrhundertealtes Erbe mit einer dynamischen modernen Kultur verbindet. Diese einzigartige Tour zeigt nicht nur die weltberühmte Stella Artois Brauerei und die historische Katholieke Universiteit Leuven, sondern auch, wie diese Institutionen das tägliche Leben in der Kulturhauptstadt Europas 2030 prägen.\r\n\r\nUnsere Reise beginnt im Herzen der Stadt, in der Nähe der ikonischen Peterskirche, wo Sie die berühmte \"Längste Theke Europas\" und mehrere UNESCO-gelistete Wahrzeichen kennenlernen werden. Auf dem Weg dorthin erfahren Sie mehr über die reiche und manchmal komplizierte Geschichte von Leuven und Louvain und wie diese doppelte Identität den Charakter der Stadt heute beeinflusst.\r\n\r\nWir beenden unsere Tour an der beeindruckenden Universitätsbibliothek, die von ihrem berühmten Glockenturm gekrönt wird - einem Symbol für Widerstandsfähigkeit und einem Geschenk der Vereinigten Staaten nach dem Ersten Weltkrieg.",
+      "en": "Experience Leuven through the eyes of a student and discover how this vibrant university city blends centuries of heritage with a dynamic modern culture. This unique tour showcases not only the world-renowned Stella Artois brewery and the historic Katholieke Universiteit Leuven, but also how these institutions continue to shape daily life in the European Capital of Culture 2030.\r\n\r\nOur journey begins in the heart of the city, near the iconic St. Peter’s Church, where you’ll be introduced to the famous “Longest Bar in Europe” and several UNESCO-listed landmarks. Along the way, you’ll learn about the rich and sometimes complex history of Leuven and Louvain, and how this dual identity influences the city’s character today.\r\n\r\nWe conclude our tour at the impressive University Library, crowned by its renowned bell tower—a symbol of resilience and a gift from the United States after World War I.",
+      "es": "Viva Lovaina a través de los ojos de un estudiante y descubra cómo esta vibrante ciudad universitaria combina siglos de patrimonio con una dinámica cultura moderna. Este recorrido único muestra no sólo la mundialmente conocida fábrica de cerveza Stella Artois y la histórica Katholieke Universiteit Leuven, sino también cómo estas instituciones siguen dando forma a la vida cotidiana en la Capital Europea de la Cultura 2030.\r\n\r\nNuestro viaje comienza en el corazón de la ciudad, cerca de la emblemática Iglesia de San Pedro, donde conocerá el famoso \"Bar más largo de Europa\" y varios monumentos declarados Patrimonio de la Humanidad por la UNESCO. Por el camino, conocerá la rica y a veces compleja historia de Lovaina y Lovaina, y cómo esta doble identidad influye en el carácter actual de la ciudad.\r\n\r\nConcluiremos nuestro recorrido en la impresionante Biblioteca Universitaria, coronada por su célebre campanario, símbolo de resistencia y regalo de Estados Unidos tras la Primera Guerra Mundial.",
+      "fr": "Vivez Louvain à travers les yeux d'un étudiant et découvrez comment cette ville universitaire dynamique allie des siècles d'héritage à une culture moderne dynamique. Cette visite unique présente non seulement la brasserie Stella Artois de renommée mondiale et l'historique Katholieke Universiteit Leuven, mais aussi la manière dont ces institutions continuent à façonner la vie quotidienne de la capitale européenne de la culture 2030.\r\n\r\nNotre voyage commence au cœur de la ville, près de l'emblématique église Saint-Pierre, où vous découvrirez le célèbre \"bar le plus long d'Europe\" et plusieurs sites classés par l'UNESCO. En chemin, vous découvrirez l'histoire riche et parfois complexe de Leuven et de Louvain, et comment cette double identité influence le caractère de la ville aujourd'hui.\r\n\r\nNous terminerons notre visite par l'impressionnante bibliothèque universitaire, couronnée par son célèbre clocher, symbole de résilience et cadeau des États-Unis après la Première Guerre mondiale.",
+      "it": "Vivete Leuven attraverso gli occhi di uno studente e scoprite come questa vibrante città universitaria unisce un patrimonio secolare a una cultura moderna e dinamica. Questo tour unico mostra non solo la fabbrica di birra Stella Artois, famosa in tutto il mondo, e la storica Katholieke Universiteit Leuven, ma anche come queste istituzioni continuano a plasmare la vita quotidiana nella Capitale Europea della Cultura 2030.\r\n\r\nIl nostro viaggio inizia nel cuore della città, vicino all'iconica Chiesa di San Pietro, dove vi verrà presentato il famoso \"Bar più lungo d'Europa\" e diversi punti di riferimento dell'UNESCO. Lungo il percorso, imparerete a conoscere la ricca e talvolta complessa storia di Lovanio e Lovanio e come questa doppia identità influenzi il carattere della città oggi.\r\n\r\nConcluderemo il nostro tour presso l'imponente Biblioteca Universitaria, coronata dal suo rinomato campanile, simbolo di resilienza e dono degli Stati Uniti dopo la Prima Guerra Mondiale.",
+      "pt": "Conheça Lovaina através dos olhos de um estudante e descubra como esta vibrante cidade universitária combina séculos de património com uma cultura moderna dinâmica. Este passeio único mostra não só a mundialmente famosa fábrica de cerveja Stella Artois e a histórica Katholieke Universiteit Leuven, mas também como estas instituições continuam a moldar a vida quotidiana na Capital Europeia da Cultura 2030.\r\n\r\nA nossa viagem começa no coração da cidade, perto da icónica Igreja de São Pedro, onde será apresentado ao famoso \"Bar Mais Longo da Europa\" e a vários marcos históricos classificados pela UNESCO. Ao longo do percurso, ficará a conhecer a história rica e por vezes complexa de Lovaina e de Lovaina e a forma como esta dupla identidade influencia o carácter atual da cidade.\r\n\r\nTerminamos a nossa visita na impressionante Biblioteca da Universidade, coroada pelo seu famoso campanário - um símbolo de resiliência e um presente dos Estados Unidos após a Primeira Guerra Mundial."
+    },
+    "providerTitle": "Shees Khalid",
+    "providerPhone": "+32492165905",
+    "URL": "https://www.freetour.com/leuven/leuven-history-free-walking-tour-the-city-of-university-and-beer-1?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/leuven/leuven-history-free-walking-tour-the-city-of-university-and-beer-1?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/leuven/leuven-history-free-walking-tour-the-city-of-university-and-beer-1?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/leuven/leuven-history-free-walking-tour-the-city-of-university-and-beer-1?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/leuven/leuven-history-free-walking-tour-the-city-of-university-and-beer-1?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/leuven/leuven-history-free-walking-tour-the-city-of-university-and-beer-1?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/leuven/leuven-history-free-walking-tour-the-city-of-university-and-beer-1?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Grote Markt Leuven",
+      "coordinates": "50.8791214,4.7011207",
+      "googlePlaceId": "ChIJk-w1vtdgwUcRt-a2BIqUz7M"
+    },
+    "cityId": 293,
+    "countryId": 14,
+    "includes": [
+      "Groot Begijnhof Leuven",
+      "Sint-Pieterskerk",
+      "Sint-Donatus Park",
+      "Grote Markt",
+      "Monseigneur Ladeuzeplein",
+      "Universiteitsbibliotheek en bibliotheektoren",
+      "Historical Leuven Town hall",
+      "KU Leuven University Hall",
+      "Leuven Oude Markt",
+      "M Leuven",
+      "Saint Michael's Church",
+      "Suggestions for places to eat, visit and other reccomendations"
+    ],
+    "POIs": [
+      {
+        "id": 104,
+        "title": "Groot Begijnhof Leuven",
+        "googlePlaceId": "ChIJ_9_YpCZhwUcREoxgA8UptNM"
+      },
+      {
+        "id": 34827,
+        "title": "Sint-Pieterskerk",
+        "googlePlaceId": "ChIJ3dAvPQ_dw0cR8uOOJHX0i5w"
+      },
+      {
+        "id": 34824,
+        "title": "Sint-Donatus Park",
+        "googlePlaceId": "ChIJ49swBShhwUcR8kJSJG_xy8o"
+      },
+      {
+        "id": 1534,
+        "title": "Grote Markt",
+        "googlePlaceId": "ChIJ5wjuttlgwUcRmbrCVNLo7R8"
+      },
+      {
+        "id": 1735,
+        "title": "Monseigneur Ladeuzeplein",
+        "googlePlaceId": "ChIJ6Zr0-NZgwUcRlgKBa7mxnPw"
+      },
+      {
+        "id": 34825,
+        "title": "Universiteitsbibliotheek en bibliotheektoren",
+        "googlePlaceId": "ChIJc5r0ZtZgwUcRhabQossfwS8"
+      },
+      {
+        "id": 4874,
+        "title": "Historical Leuven Town hall",
+        "googlePlaceId": "ChIJGUfZsdlgwUcRMWdQZC35bvM"
+      },
+      {
+        "id": 34823,
+        "title": "KU Leuven University Hall",
+        "googlePlaceId": "ChIJJ5mCRthgwUcRY8d5h0vwAa4"
+      },
+      {
+        "id": 7748,
+        "title": "Leuven Oude Markt",
+        "googlePlaceId": "ChIJNZbJWdhgwUcRWQOrRaaF4CA"
+      },
+      {
+        "id": 34826,
+        "title": "M Leuven",
+        "googlePlaceId": "ChIJVyHAqNdgwUcRhEFD0GcLUh0"
+      },
+      {
+        "id": 12298,
+        "title": "Saint Michael's Church",
+        "googlePlaceId": "ChIJZaqKCthgwUcRatGPR09vr6E"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86605/-06.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 298413,
+        "URL": "https://www.freetour.com/images/tours/86605/-06.jpg"
+      },
+      {
+        "id": 298409,
+        "URL": "https://www.freetour.com/images/tours/86605/-02.jpg"
+      },
+      {
+        "id": 298414,
+        "URL": "https://www.freetour.com/images/tours/86605/-07.jpg"
+      },
+      {
+        "id": 298415,
+        "URL": "https://www.freetour.com/images/tours/86605/-08.jpg"
+      },
+      {
+        "id": 298416,
+        "URL": "https://www.freetour.com/images/tours/86605/-09.jpg"
+      },
+      {
+        "id": 298410,
+        "URL": "https://www.freetour.com/images/tours/86605/-03.jpg"
+      },
+      {
+        "id": 298411,
+        "URL": "https://www.freetour.com/images/tours/86605/-04.jpg"
+      },
+      {
+        "id": 298412,
+        "URL": "https://www.freetour.com/images/tours/86605/-05.jpg"
       }
     ],
     "videoURL": null,

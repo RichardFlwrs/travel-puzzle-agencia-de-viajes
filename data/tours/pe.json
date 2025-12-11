@@ -1,7 +1,7 @@
 [
   {
     "id": 1120,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Walking  Tour Barranco: Graffitis & History",
       "es": "Free Walking Tour Barranco: Graffitis e Historia",
@@ -128,12 +128,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.52,
-    "reviewsNumber": 99
+    "rating": 4.53,
+    "reviewsNumber": 100
   },
   {
     "id": 1855,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Yana Walking Tour: Discover The Best of the Culture & History of Cusco",
       "es": "Yana Tour a Pie: Descubra lo mejor de la cultura y la historia de Cusco",
@@ -261,7 +261,7 @@
   },
   {
     "id": 2467,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip in Cusco: Incas' Sacred Valley",
       "es": "Excursión de un día en Cuzco: Valle Sagrado de Inca",
@@ -370,7 +370,7 @@
   },
   {
     "id": 2469,
-    "updatedAt": "2025-12-01 01:01:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Machu Picchu Day Trip",
       "es": "Excursión de un día a Machu Picchu",
@@ -477,7 +477,7 @@
   },
   {
     "id": 2472,
-    "updatedAt": "2025-12-01 01:01:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ATV Quad Bike Tour and Sacred Valley from Cusco",
       "es": "ATV Quad Bike Tour y Valle Sagrado desde Cusco",
@@ -554,7 +554,7 @@
   },
   {
     "id": 2474,
-    "updatedAt": "2025-12-01 01:01:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sacred Valley of the Incas Day Trip",
       "es": "Tour de Un Día al Valle Sagrado de los Incas",
@@ -674,7 +674,7 @@
   },
   {
     "id": 2477,
-    "updatedAt": "2025-12-01 01:01:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipline Tour from Cusco",
       "es": "Zipline Tour desde Cusco",
@@ -763,7 +763,7 @@
   },
   {
     "id": 2478,
-    "updatedAt": "2025-12-01 01:01:40",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cusco: Visit to the city of Sacsayhuaman and Tambomachay",
       "es": "Cusco: Visita a Sacsayhuaman y Tambomachay",
@@ -905,7 +905,7 @@
   },
   {
     "id": 2479,
-    "updatedAt": "2025-12-01 01:01:40",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Humantay Lake Full-Day Hiking Tour",
       "es": "Excursión de un día al Lago Humantay",
@@ -1031,7 +1031,7 @@
   },
   {
     "id": 2649,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Paracas Desert Full Day Cycling Tour",
       "es": "Desierto de Paracas - Excursión de un día en bicicleta",
@@ -1137,7 +1137,7 @@
   },
   {
     "id": 2886,
-    "updatedAt": "2025-12-01 01:01:49",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rainbow Mountain Tour from Cusco",
       "es": "Tour a la Montaña Arco Iris desde Cusco",
@@ -1234,7 +1234,7 @@
   },
   {
     "id": 2996,
-    "updatedAt": "2025-12-01 01:01:52",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cusco City Horseback Riding Tour",
       "es": "Excursión a caballo por la ciudad de Cusco",
@@ -1335,7 +1335,7 @@
   },
   {
     "id": 3114,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Colca Canyon from Arequipa",
       "es": "Excursión de un día al Valle del Colca desde Arequipa",
@@ -1432,7 +1432,7 @@
   },
   {
     "id": 3802,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Humantay Lake Full Day Trip",
       "es": "Excursión de un día al Lago Humantay",
@@ -1548,7 +1548,7 @@
   },
   {
     "id": 5213,
-    "updatedAt": "2025-12-01 21:49:06",
+    "updatedAt": "2025-12-11 14:07:03",
     "title": {
       "en": "Historic Lima Free Tour",
       "es": "Lima Histórica Free Tour",
@@ -1694,7 +1694,7 @@
   },
   {
     "id": 5278,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Around Mancora Peru",
       "es": "Tour por los alrededores de Mancora",
@@ -1784,7 +1784,7 @@
   },
   {
     "id": 6879,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Machu Picchu Day Tour by Vistadome Train",
       "es": "Excursión de un día a Machu Picchu en Tren Vistadome",
@@ -1879,7 +1879,7 @@
   },
   {
     "id": 15103,
-    "updatedAt": "2025-12-01 01:04:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Humantay Lake 1 Day Trip",
       "es": "Excursión de 1 día al Lago Humantay",
@@ -2005,7 +2005,7 @@
   },
   {
     "id": 15355,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour de Cusco Monumental",
       "es": "Tour Gratis de Cusco Monumental ",
@@ -2081,7 +2081,7 @@
   },
   {
     "id": 19454,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Historic Center of Lima with Pisco Sour Tastings",
       "es": "Tour Gratis Centro Histórico de Lima con Degustación de Pisco Sour",
@@ -2240,12 +2240,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.61,
-    "reviewsNumber": 56
+    "rating": 4.62,
+    "reviewsNumber": 57
   },
   {
     "id": 21774,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Original Free Tour Lima Center: Leaves from Miraflores",
       "es": "Original Free Tour Centro de Lima: Sale desde Miraflores",
@@ -2358,7 +2358,7 @@
   },
   {
     "id": 32377,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Gastronomic Tour: Flavors of Lima",
       "es": "Free Tour Gastronómico: Sabores de Lima",
@@ -2455,7 +2455,7 @@
   },
   {
     "id": 32515,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Gastronomic Tour of Lima",
       "es": "Tour gastronómico de Lima",
@@ -2586,14 +2586,14 @@
   },
   {
     "id": 33227,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
-      "en": "Original Free Walking Tour Cusco",
-      "es": "Free Tour Original del Cusco",
-      "pt": "Original Free Walking Tour Cusco",
-      "de": "Kostenlose Original-Wanderung durch Cusco",
-      "fr": "Visite à Pied Gratuite et Originale de Cusco",
-      "it": "Tour a piedi originale e gratuito di Cusco"
+      "en": "Original Free Walking of Cusco",
+      "es": "Original Free Walking de Cusco",
+      "pt": "Original Free Walking de Cusco",
+      "de": "Original Free Walking von Cusco",
+      "fr": "Original Promenade libre dans Cusco",
+      "it": "Originale passeggiata gratuita a Cusco"
     },
     "brief": {
       "de": "Entdecken Sie das historische Zentrum von Cusco mit Free Walking Tours Peru. Schließen Sie sich uns an und erkunden Sie die besten Attraktionen im historischen Zentrum von Cusco in der Innenstadt.",
@@ -2692,12 +2692,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=Bc9FVLEAYHc",
-    "rating": 4.42,
-    "reviewsNumber": 91
+    "rating": 4.38,
+    "reviewsNumber": 92
   },
   {
     "id": 33862,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Tour with a Local: Lima Mistura",
       "es": "Tour con un Local: Mistura de Lima",
@@ -2776,7 +2776,7 @@
   },
   {
     "id": 36782,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Historical Free Tour of Lima",
       "es": "Visita histórica gratuita de Lima",
@@ -2902,7 +2902,7 @@
   },
   {
     "id": 37813,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Walking Tour Inka Cusco",
       "es": "Free Walking Tour Inka Cusco",
@@ -3053,7 +3053,7 @@
   },
   {
     "id": 38488,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Trip to the Beautiful Ballestas Islands in Paracas",
       "es": "Tour a las Hermosas Islas Ballestas en Paracas",
@@ -3160,7 +3160,7 @@
   },
   {
     "id": 45554,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Antisuyo Inca Trail and Archaeological Sites",
       "es": "Camino Inca Antisuyo y Sitios Arqueológicos",
@@ -3301,7 +3301,7 @@
   },
   {
     "id": 45555,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Bike Tour: Cusco & Archeological Sites",
       "es": "Free Tour en Bici: Cusco y Sitios Arqueológicos",
@@ -3451,7 +3451,7 @@
   },
   {
     "id": 49430,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 13:05:07",
     "title": {
       "en": "Free Tour in Cusco with an Experienced Local Guide",
       "es": "Tour gratuito en Cusco con un guía local experimentado",
@@ -3599,11 +3599,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 53
+    "reviewsNumber": 54
   },
   {
     "id": 50019,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mountain Bike & E-bike Cusco - Peru",
       "es": "Bicicleta de Montaña y E-bike Cusco - Perú",
@@ -3676,7 +3676,7 @@
   },
   {
     "id": 50424,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour Around Cusco",
       "es": "City Tour por Cusco",
@@ -3797,7 +3797,7 @@
   },
   {
     "id": 50425,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sacred Valley: Chinchero, Maras, Moray, Ollantaytambo, & Pisaq",
       "es": "Valle Sagrado: Chinchero, Maras, Moray, Ollantaytambo y Pisaq",
@@ -3926,7 +3926,7 @@
   },
   {
     "id": 50981,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Miraflores: Lima Parks and Monuments",
       "es": "Free Tour Miraflores: Parques y Monumentos de Lima",
@@ -4058,14 +4058,14 @@
   },
   {
     "id": 51191,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
-      "en": "Free Tour Lima Historical Center with Pisco Sour",
-      "es": "Free Tour Lima Centro Historico con Pisco Sour",
-      "pt": "Visita gratuita ao centro histórico de Lima com Pisco Sour",
-      "de": "Kostenlose Tour durch das historische Zentrum von Lima mit Pisco Sour",
-      "fr": "Visite gratuite du centre historique de Lima avec Pisco Sour",
-      "it": "Tour gratuito del centro storico di Lima con Pisco Sour"
+      "en": "Free Tour Lima: Pisco Sour Pisco Sour Historical Center",
+      "es": "Free Tour Lima: Pisco Sour Centro Histórico",
+      "pt": "Free Tour Lima: Centro Histórico do Pisco Sour",
+      "de": "Kostenlose Tour Lima: Pisco Sour Historisches Zentrum",
+      "fr": "Visite libre de Lima : Centre historique du Pisco Sour",
+      "it": "Tour gratuito Lima: Centro storico del Pisco Sour"
     },
     "brief": {
       "de": "nehmen Sie an dieser Tour durch das Herz von Lima teil! Entdecken Sie ihre Geschichte, Legenden und Geheimnisse in einem einzigartigen kulturellen Erlebnis, das die peruanische Hauptstadt von ihrer authentischsten Seite zeigt.",
@@ -4076,12 +4076,12 @@
       "pt": "junte-se a este passeio pelo coração de Lima! Descubra a sua história, lendas e segredos numa experiência cultural única que revela o lado mais autêntico da capital peruana."
     },
     "description": {
-      "de": "Erkunden Sie das historische Zentrum von Lima und seine kolonialen Juwelen. Wir werden die Kirche La Merced, die Plaza de Armas, die Kathedrale und den Regierungspalast besuchen. Wir kommen am Rathaus, dem Erzbistum und den Denkmälern von Taulichusco und Francisco Pizarro vorbei. Sie werden auch die Kirche Santo Domingo, die Alameda Chabuca Granda, die Trujillo-Brücke, die Kirche Virgen del Rosario und das Aliaga-Haus besuchen. Ein Spaziergang voller Geschichte, Architektur und Traditionen, der Sie mit der Essenz der peruanischen Hauptstadt verbindet.",
-      "en": "Explore the historic center of Lima and its colonial jewels. We will visit La Merced Church, the Plaza de Armas, the Cathedral and the Government Palace. We will pass by the Municipality, the Archbishopric and the monuments to Taulichusco and Francisco Pizarro. You will also visit the Santo Domingo Church, the Alameda Chabuca Granda, the Trujillo Bridge, the Virgen del Rosario Church and the Aliaga House. A walk full of history, architecture and traditions that will connect you with the essence of the Peruvian capital.",
-      "es": "Explora el centro histórico de Lima y sus joyas coloniales. Visitaremos la Iglesia La Merced, la Plaza de Armas, la Catedral y el Palacio de Gobierno. Pasaremos por la Municipalidad, el Arzobispado y los monumentos a Taulichusco y Francisco Pizarro. También conocerás la Iglesia Santo Domingo, la Alameda Chabuca Granda, el Puente Trujillo, la Iglesia Virgen del Rosario y la Casa Aliaga. Un paseo lleno de historia, arquitectura y tradiciones que te conectará con la esencia de la capital peruana.",
-      "fr": "Exploration du centre historique de Lima et de ses joyaux coloniaux. Nous visiterons l'église de la Merced, la Plaza de Armas, la cathédrale et le palais du gouvernement. Nous passerons devant l'hôtel de ville, l'archevêché et les monuments à Taulichusco et Francisco Pizarro. Vous visiterez également l'église Santo Domingo, la Alameda Chabuca Granda, le pont de Trujillo, l'église Virgen del Rosario et la maison Aliaga. Une promenade pleine d'histoire, d'architecture et de traditions qui vous rapprochera de l'essence de la capitale péruvienne.",
-      "it": "Esplorate il centro storico di Lima e i suoi gioielli coloniali. Visiteremo la Chiesa della Merced, la Plaza de Armas, la Cattedrale e il Palazzo del Governo. Passeremo davanti al Municipio, all'Arcivescovado e ai monumenti a Taulichusco e Francisco Pizarro. Si visiteranno anche la Chiesa di Santo Domingo, l'Alameda Chabuca Granda, il Ponte di Trujillo, la Chiesa della Virgen del Rosario e la Casa Aliaga. Una passeggiata ricca di storia, architettura e tradizioni che vi farà entrare in contatto con l'essenza della capitale peruviana.",
-      "pt": "Explore o centro histórico de Lima e as suas jóias coloniais. Visitaremos a Igreja de La Merced, a Praça de Armas, a Catedral e o Palácio do Governo. Passaremos pela Câmara Municipal, o Arcebispado e os monumentos a Taulichusco e Francisco Pizarro. Também visitaremos a Igreja de Santo Domingo, a Alameda Chabuca Granda, a Ponte de Trujillo, a Igreja da Virgem do Rosário e a Casa Aliaga. Um passeio cheio de história, arquitetura e tradições que o ligará à essência da capital peruana."
+      "de": "Erkunden Sie das historische Zentrum von Lima und seine kolonialen Juwelen. Wir werden das Hotel Bolivar, die Plaza San Martin, die Kirche La Merced, die Plaza de Armas, die Kathedrale und den Regierungspalast besuchen. Wir kommen am Rathaus, dem Erzbistum und den Denkmälern von Taulichusco und Francisco Pizarro vorbei. Sie werden auch die Kirche Santo Domingo, die Alameda Chabuca Granda, die Trujillo-Brücke, die Kirche Virgen del Rosario und das Aliaga-Haus besuchen. Ein Spaziergang voller Geschichte, Architektur und Traditionen, der Sie mit der Essenz der peruanischen Hauptstadt verbindet.",
+      "en": "Explore the historic center of Lima and its colonial jewels. We will visit the Bolivar Hotel, San Martin Square, La Merced Church, the Plaza de Armas, the Cathedral and the Government Palace. We will pass by the City Hall, the Archbishopric and the monuments to Taulichusco and Francisco Pizarro. You will also visit the Santo Domingo Church, the Alameda Chabuca Granda, the Trujillo Bridge, the Virgen del Rosario Church and the Aliaga House. A walk full of history, architecture and traditions that will connect you with the essence of the Peruvian capital.",
+      "es": "Explora el centro histórico de Lima y sus joyas coloniales. Visitaremos  El Hotel Bolívar, la Plaza San Martín, la Iglesia La Merced, la Plaza de Armas, la Catedral y el Palacio de Gobierno. Pasaremos por la Municipalidad, el Arzobispado y los monumentos a Taulichusco y Francisco Pizarro. También conocerás la Iglesia Santo Domingo, la Alameda Chabuca Granda, el Puente Trujillo, la Iglesia Virgen del Rosario y la Casa Aliaga. Un paseo lleno de historia, arquitectura y tradiciones que te conectará con la esencia de la capital peruana.",
+      "fr": "Exploration du centre historique de Lima et de ses joyaux coloniaux. Nous visiterons l'hôtel Bolivar, la Plaza San Martin, l'église La Merced, la Plaza de Armas, la cathédrale et le palais du gouvernement. Nous passerons devant l'hôtel de ville, l'archevêché et les monuments à Taulichusco et Francisco Pizarro. Vous visiterez également l'église Santo Domingo, l'Alameda Chabuca Granda, le pont de Trujillo, l'église Virgen del Rosario et la maison Aliaga. Une promenade pleine d'histoire, d'architecture et de traditions qui vous rapprochera de l'essence de la capitale péruvienne.",
+      "it": "Esploriamo il centro storico di Lima e i suoi gioielli coloniali. Visiteremo l'Hotel Bolivar, la Plaza San Martin, la Chiesa della Merced, la Plaza de Armas, la Cattedrale e il Palazzo del Governo. Passeremo davanti al Municipio, all'Arcivescovado e ai monumenti a Taulichusco e Francisco Pizarro. Si visiteranno anche la Chiesa di Santo Domingo, l'Alameda Chabuca Granda, il Ponte di Trujillo, la Chiesa della Virgen del Rosario e la Casa Aliaga. Una passeggiata ricca di storia, architettura e tradizioni che vi farà entrare in contatto con l'essenza della capitale peruviana.",
+      "pt": "Explore o centro histórico de Lima e as suas jóias coloniais. Visitaremos o Hotel Bolivar, a Praça San Martin, a Igreja La Merced, a Praça de Armas, a Catedral e o Palácio do Governo. Passaremos pela Câmara Municipal, o Arcebispado e os monumentos a Taulichusco e Francisco Pizarro. Visitaremos também a Igreja de Santo Domingo, a Alameda Chabuca Granda, a Ponte de Trujillo, a Igreja da Virgem do Rosário e a Casa Aliaga. Um passeio cheio de história, arquitetura e tradições que o ligará à essência da capital peruana."
     },
     "providerTitle": "Inka France Tours ",
     "providerPhone": "+51916170204",
@@ -4098,7 +4098,7 @@
       "value": 0,
       "currency": "EUR"
     },
-    "length": "2:30",
+    "length": "2:00",
     "meetingPoint": {
       "title": "frente al Hotel Bolivar en el jiron de la union 958 Lima ,centro historico .",
       "coordinates": "-12.0482007,-77.0327782",
@@ -4107,26 +4107,15 @@
     "cityId": 3263,
     "countryId": 122,
     "includes": [
-      "Iglesia de La Merced",
-      "Cathedral of Lima",
       "Lima Main Square",
       "Piedra basal andina",
       "Archbishop's Palace of Lima",
       "Municipal Palace of Lima",
       "Government Palace of Peru",
-      "Convento de Santo Domingo"
+      "Convento de Santo Domingo",
+      "Gran Hotel Bolivar Lima"
     ],
     "POIs": [
-      {
-        "id": 1900,
-        "title": "Iglesia de La Merced",
-        "googlePlaceId": "ChIJ7Y27JLbIBZERyzFwTe2_Htg"
-      },
-      {
-        "id": 5858,
-        "title": "Cathedral of Lima",
-        "googlePlaceId": "ChIJj3gYm7bIBZER20Ckbpo_SgI"
-      },
       {
         "id": 9695,
         "title": "Lima Main Square",
@@ -4156,6 +4145,11 @@
         "id": 12429,
         "title": "Convento de Santo Domingo",
         "googlePlaceId": "ChIJzw2GorXIBZERQS5h9SjHvl4"
+      },
+      {
+        "id": 7550,
+        "title": "Gran Hotel Bolivar Lima",
+        "googlePlaceId": "ChIJnatJaMjIBZER7zVkopy9e7E"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/51191/explora-el-centro-historico-la-cultura-limena-12.jpg",
@@ -4192,7 +4186,7 @@
   },
   {
     "id": 51637,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rainbow Mountain Day Tour",
       "es": "Excursión de un día a la Montaña Arco Iris",
@@ -4286,7 +4280,7 @@
   },
   {
     "id": 51684,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Classic Inca Trail 4 Days",
       "es": "Camino Inca Clásico 4 Días",
@@ -4422,7 +4416,7 @@
   },
   {
     "id": 51748,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Gastronomic Tour Lima Central Market and Chinatown",
       "es": "Free Tour Gastronómico Lima Mercado Central y Barrio Chino",
@@ -4440,12 +4434,12 @@
       "pt": "Junte-se ao nosso passeio gastronómico e descubra os sabores e a história de Lima. Passeie pelo Mercado Central, Chinatown e os principais ícones do centro histórico enquanto aprecia a cultura, a arquitetura e a vida local."
     },
     "description": {
-      "de": "Wir werden die wichtigsten und symbolträchtigsten Orte des historischen Zentrums von Lima besuchen: den Jiron de la Union, die Kirche La Merced, die Plaza Mayor, die Kathedrale von Lima, den Regierungspalast, das Rathaus, das Erzbistum, die Kirche Santo Domingo, die Kirche der Jungfrau des Rosenkranzes (die kleinste in Peru), die Alameda Chabuca Granda, die Kirche San Francisco und andere ikonische Orte, die die Geschichte und Kultur der Stadt widerspiegeln.",
-      "en": "We will visit the most important and emblematic places in the historic center of Lima: the Jiron de la Union, the Church of La Merced, the Plaza Mayor, the Cathedral of Lima, the Government Palace, the City Hall, the Archbishopric, the Church of Santo Domingo, the Church of the Virgin of the Rosary (the smallest in Peru), the Alameda Chabuca Granda, the Church of San Francisco and other iconic sites that reflect the history and culture of the city.",
-      "es": "Visitaremos los lugares más importantes y emblemáticos del centro histórico de Lima: el Jirón de la Unión, la Iglesia de La Merced, la Plaza Mayor, la Catedral de Lima, el Palacio de Gobierno, la Municipalidad, el Arzobispado, la Iglesia de Santo Domingo, la Iglesia de la Virgen del Rosario (la más pequeña del Perú), la Alameda Chabuca Granda, la Iglesia de San Francisco y otros sitios icónicos que reflejan la historia y la cultura de la ciudad.",
-      "fr": "Nous visiterons les lieux les plus importants et emblématiques du centre historique de Lima : le Jiron de la Union, l'église de la Merced, la Plaza Mayor, la cathédrale de Lima, le palais du gouvernement, l'hôtel de ville, l'archevêché, l'église de Santo Domingo, l'église de la Vierge du Rosaire (la plus petite du Pérou), l'Alameda Chabuca Granda, l'église de San Francisco et d'autres sites emblématiques qui reflètent l'histoire et la culture de la ville.",
-      "it": "Visiteremo i luoghi più importanti ed emblematici del centro storico di Lima: il Jiron de la Union, la Chiesa della Merced, la Plaza Mayor, la Cattedrale di Lima, il Palazzo del Governo, il Municipio, l'Arcivescovado, la Chiesa di Santo Domingo, la Chiesa della Vergine del Rosario (la più piccola del Perù), l'Alameda Chabuca Granda, la Chiesa di San Francisco e altri luoghi simbolo che riflettono la storia e la cultura della città.",
-      "pt": "Visitaremos os locais mais importantes e emblemáticos do centro histórico de Lima: o Jiron de la Union, a Igreja de La Merced, a Plaza Mayor, a Catedral de Lima, o Palácio do Governo, a Câmara Municipal, o Arcebispado, a Igreja de Santo Domingo, a Igreja da Virgem do Rosário (a mais pequena do Peru), a Alameda Chabuca Granda, a Igreja de São Francisco e outros locais emblemáticos que reflectem a história e a cultura da cidade."
+      "de": "Der Treffpunkt ist vor der Merced Kirche in der Nähe von Mac Donald in der jirón dela unión 621 im historischen Zentrum von Lima, dann werden wir das O'Higgins Haus, die churros limeños, das Maury Hotel, die Reserve Bank von Peru, die wichtigste Bank von Peru BCP,das Torre Tagle Haus, die San Pedro oder Jesuitenkirche, die Nationalbibliothek von Peru, den Zentralmarkt, die Chinatown, den Nationalkongress von Peru, die Heilige Inquisition, das Pisco Sour Museum, das Schokoladenmuseum, den Hauptplatz von Lima und andere emblematische Orte von Lima.",
+      "en": "The meeting point is in front of the Merced Church near Mac Donald in the jiron dela union 621 in the historic center of Lima, then we will visit the O'Higgins house, the churros limeños, the Maury hotel, the reserve bank of Peru, the most important bank of Peru BCP,the Torre Tagle house, the San Pedro or Jesuit church, the national library of Peru, the central market, Chinatown, the national congress of Peru, the Holy Inquisition, the Pisco Sour museum, the chocolate museum, the main square of Lima and other emblematic places of Lima.",
+      "es": "El punto de encuentro es frente a la Iglesia la Merced cerca a Mac Donald en el jirón dela unión 621 en el centro histórico de Lima, luego visitaremos la casa O'Higgins, los churros limeños, el hotel Maury, el banco de reservas del Perú, el banco más importante del Perú BCP,la casa Torre Tagle, la iglesia San Pedro o delos jesuitas,la biblioteca nacional del Perú, el mercado central, el barrio chino, el congreso nacional del Perú, la Santa inquisición, el museo del pisco Sour, museo del chocolate, la plaza mayor de Lima y otros lugares emblemáticos de Lima.",
+      "fr": "Le point de rencontre est devant l'église Merced près de Mac Donald dans le jirón dela unión 621 dans le centre historique de Lima, puis nous visiterons la maison O'Higgins, les churros limeños, l'hôtel Maury, la banque de réserve du Pérou, la banque la plus importante du Pérou BCP,la maison Torre Tagle, l'église San Pedro ou jésuite, la bibliothèque nationale du Pérou, le marché central, le quartier chinois, le congrès national du Pérou, la Sainte Inquisition, le musée du Pisco Sour, le musée du chocolat, la place principale de Lima et d'autres lieux emblématiques de Lima.",
+      "it": "Il punto d'incontro è di fronte alla chiesa della Merced, vicino al Mac Donald, nel jirón dela unión 621, nel centro storico di Lima, poi visiteremo la casa O'Higgins, i churros limeños, l'hotel Maury, la banca di riserva del Perù, la banca più importante del Perù BCP,la casa Torre Tagle, la chiesa di San Pedro o gesuita, la biblioteca nazionale del Perù, il mercato centrale, la Chinatown, il congresso nazionale del Perù, la Santa Inquisizione, il museo del Pisco Sour, il museo del cioccolato, la piazza principale di Lima e altri luoghi emblematici di Lima.",
+      "pt": "O ponto de encontro é em frente à Igreja Merced perto de Mac Donald no jirón dela unión 621 no centro histórico de Lima, depois visitaremos a casa O'Higgins, os churros limeños, o hotel Maury, o banco de reserva do Peru, o banco mais importante do Peru BCP,a casa Torre Tagle, a igreja de San Pedro ou jesuíta, a biblioteca nacional do Peru, o mercado central, a Chinatown, o congresso nacional do Peru, a Santa inquisição, o museu do pisco Sour, o museu do chocolate, a praça principal de Lima e outros lugares emblemáticos de Lima."
     },
     "providerTitle": "Inka France Tours ",
     "providerPhone": "+51916170204",
@@ -4538,7 +4532,7 @@
   },
   {
     "id": 51940,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Inca Jungle Trail Four Days",
       "es": "Camino Inca de Cuatro Días",
@@ -4630,7 +4624,7 @@
   },
   {
     "id": 52839,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Puno Titicaca Lake",
       "es": "Full Day Puno Lago Titicaca",
@@ -4729,7 +4723,7 @@
   },
   {
     "id": 54083,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day - The Jungle of the Mirrors, Yarapa River",
       "es": "Día completo - La Selva de los Espejos, Río Yarapa",
@@ -4898,7 +4892,7 @@
   },
   {
     "id": 54233,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amazon Expedition: A Thrilling Full-Day Journey into the Jungle",
       "es": "Expedición al Amazonas: Un emocionante viaje de un día entero a la selva",
@@ -5039,7 +5033,7 @@
   },
   {
     "id": 54818,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cusco: The Сity of the Inkas Tour",
       "es": "Cusco: La Ciudad de los Inkas",
@@ -5183,7 +5177,7 @@
   },
   {
     "id": 55546,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of The White City of Arequipa",
       "es": "Free Tour de La Ciudad Blanca de Arequipa",
@@ -5284,12 +5278,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.63,
-    "reviewsNumber": 39
+    "rating": 4.65,
+    "reviewsNumber": 42
   },
   {
     "id": 56216,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour Lima: Must See Places",
       "es": "Free Tour Lima: Lugares imprescindibles",
@@ -5421,7 +5415,7 @@
   },
   {
     "id": 56754,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free tour Lima downtown - Historic center of Lima",
       "es": "Free tour Lima downtown - Centro histórico de Lima",
@@ -5585,7 +5579,7 @@
   },
   {
     "id": 57047,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour Lima: Discover and Taste the Peruvian Gastronomy",
       "es": "Free Tour Lima: Descubre y Saborea la Gastronomía Peruana",
@@ -5757,12 +5751,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.79,
-    "reviewsNumber": 22
+    "rating": 4.8,
+    "reviewsNumber": 24
   },
   {
     "id": 57293,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Walking Tour Centro Histórico de Lima ",
       "es": "Free Walking Tour Centro Histórico de Lima ",
@@ -5938,7 +5932,7 @@
   },
   {
     "id": 57674,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Around the City of Cusco",
       "es": "Recorrido a pie por la ciudad de Cusco",
@@ -6023,7 +6017,7 @@
   },
   {
     "id": 57859,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour: Historic Center of Lima From Miraflores",
       "es": "Free Tour: Centro Histórico de Lima Desde Miraflores",
@@ -6149,12 +6143,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.82,
-    "reviewsNumber": 10
+    "rating": 4.85,
+    "reviewsNumber": 12
   },
   {
     "id": 58302,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sacred Valley Expedition: Unveiling Ancient Wonders",
       "es": "Expedición al Valle Sagrado: Descubriendo maravillas ancestrales",
@@ -6890,7 +6884,7 @@
   },
   {
     "id": 59063,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Wonders of the Sacred Valley and Ollantaytambo",
       "es": "Explora las Maravillas del Valle Sagrado y Ollantaytambo",
@@ -7013,7 +7007,7 @@
   },
   {
     "id": 59095,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Walking Tour of Cusco historic",
       "es": "Recorrido a pie gratuito por el centro histórico de Cusco",
@@ -7095,37 +7089,49 @@
         "googlePlaceId": "ChIJwz5ESHPWbZERp0Zp-AdPX7E"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/59095/best-free-cusco-walking-tours-in-cusco-with-local-guides-04.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-01.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 204761,
-        "URL": "https://www.freetour.com/images/tours/59095/best-free-cusco-walking-tours-in-cusco-with-local-guides-04.jpg"
+        "id": 300313,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-01.jpg"
       },
       {
-        "id": 204759,
-        "URL": "https://www.freetour.com/images/tours/59095/best-free-cusco-walking-tours-in-cusco-with-local-guides-02.jpg"
+        "id": 300314,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-02.jpg"
       },
       {
-        "id": 204760,
-        "URL": "https://www.freetour.com/images/tours/59095/best-free-cusco-walking-tours-in-cusco-with-local-guides-03.jpg"
+        "id": 300315,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-03.jpg"
       },
       {
-        "id": 204762,
-        "URL": "https://www.freetour.com/images/tours/59095/best-free-cusco-walking-tours-in-cusco-with-local-guides-05.jpg"
+        "id": 300316,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-04.jpg"
       },
       {
-        "id": 204763,
-        "URL": "https://www.freetour.com/images/tours/59095/best-free-cusco-walking-tours-in-cusco-with-local-guides-06.jpg"
+        "id": 300317,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-05.jpg"
+      },
+      {
+        "id": 300318,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-06.jpg"
+      },
+      {
+        "id": 300319,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-07.jpg"
+      },
+      {
+        "id": 300623,
+        "URL": "https://www.freetour.com/images/tours/59095/free-cusco-walking-tour-with-local-guides-08.jpg"
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=EsT3q3DSlQA",
-    "rating": 4.89,
-    "reviewsNumber": 11
+    "rating": 4.92,
+    "reviewsNumber": 15
   },
   {
     "id": 59167,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour in Machupicchu",
       "es": "Tour Guiado en Machupicchu",
@@ -7240,7 +7246,7 @@
   },
   {
     "id": 59907,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour in Machupichu",
       "es": "Tour Privado en Machupichu",
@@ -7381,7 +7387,7 @@
   },
   {
     "id": 61106,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Miraflores and Huaca Pucllana: Republican, Modern and Pre-Inca History",
       "es": "Miraflores y Huaca Pucllana: Historia Republicana, Moderna y Pre-inca",
@@ -7510,11 +7516,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 9
+    "reviewsNumber": 10
   },
   {
     "id": 61543,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cusco's Historical Walking Tour",
       "es": "Paseo histórico por Cusco",
@@ -7618,7 +7624,7 @@
   },
   {
     "id": 61694,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of Lima: Bohemian and Artistic Ravine",
       "es": "Free Tour por Lima: Barranco Bohemio y Artístico",
@@ -7729,12 +7735,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.92,
-    "reviewsNumber": 10
+    "rating": 4.93,
+    "reviewsNumber": 11
   },
   {
     "id": 61944,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour on the Amazon River in Iquitos",
       "es": "Free Tour por el Río Amazona en Iquitos",
@@ -7820,7 +7826,7 @@
   },
   {
     "id": 62024,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Lima Free Tour: Polvos Azules and Parque de las Aguas",
       "es": "Lima Free Tour: Polvos Azules y Parque de las Aguas",
@@ -7951,7 +7957,7 @@
   },
   {
     "id": 62171,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour Lima: Historic Center",
       "es": "Free Tour Lima: Centro Histórico",
@@ -8064,7 +8070,7 @@
   },
   {
     "id": 64636,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour Ica on a Tuk Tuk",
       "es": "Free Tour Ica on a Tuk Tuk",
@@ -8185,7 +8191,7 @@
   },
   {
     "id": 65334,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lake 69 Tour in the Huascaran National Park",
       "es": "Excursión a la Laguna 69 en el Parque Nacional Huascarán",
@@ -8312,7 +8318,7 @@
   },
   {
     "id": 65341,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Huascarán National Park: Tour of Lake Llanganuco",
       "es": "Parque Nacional Huascarán: Tour a la Laguna Llanganuco",
@@ -8426,7 +8432,7 @@
   },
   {
     "id": 65404,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chavin Ruins: The Pre-Inca Citadel and Lake Querococha",
       "es": "Ruinas de Chavín: La Ciudadela Preincaica y el Lago Querococha",
@@ -8578,7 +8584,7 @@
   },
   {
     "id": 65407,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hike to the Stunning Pastoruri Glacier",
       "es": "Excursión al Impresionante Glaciar Pastoruri",
@@ -8760,7 +8766,7 @@
   },
   {
     "id": 65409,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Paron Lake Tour in the Heart of Cordillera Blanca",
       "es": "Excursión al Lago Parón en el Corazón de la Cordillera Blanca",
@@ -8906,7 +8912,7 @@
   },
   {
     "id": 66061,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Half Day Tour around Lima",
       "es": "Free Medio Día Tour conociendo todo Lima",
@@ -9115,7 +9121,7 @@
   },
   {
     "id": 66119,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion to the Salt Mines of Maras and Moray on ATVs",
       "es": "Excursión a las Salinas de Maras y Moray en quad",
@@ -9235,7 +9241,7 @@
   },
   {
     "id": 66169,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cusco City Tour with Pisco Sour Preparation",
       "es": "Cusco City Tour con Preparación de Pisco Sour",
@@ -9367,7 +9373,7 @@
   },
   {
     "id": 66187,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "VIP Sacred Valley of the Incas Full Day",
       "es": "VIP Valle Sagrado de los Incas Día Completo",
@@ -9494,7 +9500,7 @@
   },
   {
     "id": 66189,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Rainbow Mountain Vinicunca",
       "es": "Explora la Montaña Arcoíris Vinicunca",
@@ -9611,7 +9617,7 @@
   },
   {
     "id": 66277,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Laguna Humantay Full Day",
       "es": "Día Completo a la Laguna Humantay",
@@ -9711,7 +9717,7 @@
   },
   {
     "id": 67623,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Floating Houses of Belen Iquitos",
       "es": "Descubre las Casas Flotantes de Belén Iquitos",
@@ -9800,7 +9806,7 @@
   },
   {
     "id": 68217,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Arequipa Free Tour: Marvel with the White City",
       "es": "Arequipa Free Tour: Maravíllate con la Blanca Ciudad",
@@ -9912,7 +9918,7 @@
   },
   {
     "id": 69312,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sacred Valley of the Incas: Four Unique Destinations",
       "es": "Valle Sagrado de los Incas: Cuatro Destinos Únicos",
@@ -10041,7 +10047,7 @@
   },
   {
     "id": 69462,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Cusco Free Tour: History, Culture & Local Drinks",
       "es": "Cusco Free Tour: Historia, Cultura y Bebidas Locales",
@@ -10194,12 +10200,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.84,
-    "reviewsNumber": 60
+    "rating": 4.86,
+    "reviewsNumber": 66
   },
   {
     "id": 69538,
-    "updatedAt": "2025-12-01 01:15:56",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Magic of the Inca Trail || Two Days",
       "es": "Descubre la Magia del Camino Inca || Dos Días",
@@ -10298,7 +10304,7 @@
   },
   {
     "id": 69868,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cusco Cultural and Historic Experience",
       "es": "Experiencia cultural e histórica en Cusco",
@@ -10458,7 +10464,7 @@
   },
   {
     "id": 70010,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the Sacred Power of Cerro Ventarrón",
       "es": "Descubre el Poder Sagrado del Cerro Ventarrón",
@@ -10589,7 +10595,7 @@
   },
   {
     "id": 70359,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Puerto Maldonado Sunset & Piranha Fishing Adventure",
       "es": "Atardecer en Puerto Maldonado y Aventura de Pesca de Pirañas",
@@ -10689,7 +10695,7 @@
   },
   {
     "id": 71301,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Lima's Historic Center on Foot",
       "es": "Descubra el Centro Histórico de Lima a pie",
@@ -10807,7 +10813,7 @@
   },
   {
     "id": 71405,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Magical Humantay Lagoon",
       "es": "Descubre la Mágica Laguna Humantay",
@@ -10892,7 +10898,7 @@
   },
   {
     "id": 71716,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Culture and Nature of Padrecocha",
       "es": "Descubra la Cultura y la Naturaleza de Padrecocha",
@@ -10998,7 +11004,7 @@
   },
   {
     "id": 72505,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bus Experience: Folkloric Theater",
       "es": "Experiencia en Bus: Teatro Folclórico",
@@ -11094,7 +11100,7 @@
   },
   {
     "id": 73053,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Live the Experience of an Inca Marriage",
       "es": "Vive la Experiencia de un Matrimonio Inca",
@@ -11192,7 +11198,7 @@
   },
   {
     "id": 73090,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ATV on Rainbow Mountain",
       "es": "ATV en la Montaña Arcoiris",
@@ -11290,7 +11296,7 @@
   },
   {
     "id": 73109,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ATV Adventure in Maras and Moray in the Sacred Valley",
       "es": "Aventura en ATV por Maras y Moray en el Valle Sagrado",
@@ -11385,7 +11391,7 @@
   },
   {
     "id": 73591,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kayak Lake Titicaca with Uros and Taquile",
       "es": "Kayak en el Lago Titicaca con Uros y Taquile",
@@ -11479,7 +11485,7 @@
   },
   {
     "id": 75115,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Carhuaz Beach in Huacachina in a Tuk Tuk",
       "es": "Descubre la Playa de Carhuaz en Huacachina en un Tuk Tuk",
@@ -11569,7 +11575,7 @@
   },
   {
     "id": 76908,
-    "updatedAt": "2025-12-01 23:38:22",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of Lima &amp; Baby Alpaca Class &amp; Pisco Tasting.",
       "es": "Free Tour por Lima & Clase de baby Alpaca y Degustación de Pisco.",
@@ -11752,11 +11758,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 15
+    "reviewsNumber": 16
   },
   {
     "id": 77574,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cusco Tour: Cathedral, Sacsayhuamán & Tambomachay",
       "es": "Tour por Cusco: Catedral, Sacsayhuamán y Tambomachay",
@@ -11860,7 +11866,7 @@
   },
   {
     "id": 77984,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ATV Adventure Tour to Maras, Moray & Salt Mines",
       "es": "ATV Tour de Aventura a Maras, Moray y Minas de Sal",
@@ -11936,7 +11942,7 @@
   },
   {
     "id": 79171,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Lima: Historical Center and Local Markets",
       "es": "Free Tour Lima: Centro Historico y Mercados Locales",
@@ -12069,7 +12075,7 @@
   },
   {
     "id": 79608,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Walking Tour Arequipa City",
       "es": "Free Walking Tour Ciudad de Arequipa",
@@ -12218,12 +12224,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.93,
-    "reviewsNumber": 9
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 10
   },
   {
     "id": 80468,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lima Bike Tour: Miraflores & Barranco with a Local Guide",
       "es": "Recorrido en Bicicleta por Lima: Miraflores & Barranco con un Guía Local",
@@ -12348,7 +12354,7 @@
   },
   {
     "id": 82081,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bicycle Tour to Morro Solar with Local Guide",
       "es": "Tour en Bicicleta al Morro Solar con Guía Local",
@@ -12443,7 +12449,7 @@
   },
   {
     "id": 82085,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Urban Exploration by Scooter: A Ride around Miraflores",
       "es": "Exploración Urbana en Scooter: Un Paseo por Miraflores",
@@ -12556,7 +12562,7 @@
   },
   {
     "id": 82518,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Pallaypunchu: Rainbow Mountain with Meals",
       "es": "Explora Pallaypunchu: Montaña Arco Iris con Comidas",
@@ -12667,7 +12673,7 @@
   },
   {
     "id": 84221,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Barranco and Miraflores Free Tour of Lima",
       "es": "Barranco y Miraflores Free Tour of Lima",
@@ -12793,7 +12799,7 @@
   },
   {
     "id": 84855,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour Cusco: Qoricancha and Four Archaeological Sites",
       "es": "City Tour Cusco: Qoricancha y Cuatro Sitios Arqueológicos",
@@ -12889,7 +12895,7 @@
   },
   {
     "id": 86236,
-    "updatedAt": "2025-12-01 06:58:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Horseback Ancestral Horseback Riding Tour in Cusco: Inca Temples",
       "es": "Tour a Caballo de Cabalgata Ancestral en Cusco: Templos de los Incas",
@@ -12932,8 +12938,8 @@
     "length": "3:30",
     "meetingPoint": {
       "title": "Plaza de Armas del Cusco",
-      "coordinates": "-13.5071747,-71.96364539999999",
-      "googlePlaceId": "ChIJUTHqkQzWbZERC--SgU3cbkE"
+      "coordinates": "-13.5180361,-71.9812941",
+      "googlePlaceId": "ChIJrc9kZnPWbZERMxuBP1SOXH0"
     },
     "cityId": 3253,
     "countryId": 122,
@@ -12941,6 +12947,9 @@
       "Kusilluchayoc - El templo de los monos",
       "Inkilltambo",
       "Temple of the Moon",
+      "Chukimarka",
+      "Lanlakuyoc",
+      "Cara del Inca",
       "Caballos criados con cuidado y equipamiento completo (cascos, guantes)",
       "Agua mineral durante todo el recorrido",
       "Instrucción básica de equitación y interacción con los caballos",
@@ -12962,6 +12971,21 @@
         "id": 12211,
         "title": "Temple of the Moon",
         "googlePlaceId": "ChIJz46mPMHXbZER4xgxx7qXV3k"
+      },
+      {
+        "id": 35157,
+        "title": "Chukimarka",
+        "googlePlaceId": "ChIJ____0xnWbZERnAb4sr7UQDQ"
+      },
+      {
+        "id": 35155,
+        "title": "Lanlakuyoc",
+        "googlePlaceId": "ChIJb9uB1-fXbZERRtdcp4L_uh0"
+      },
+      {
+        "id": 35156,
+        "title": "Cara del Inca",
+        "googlePlaceId": "ChIJrWuvIQDXbZERxrF9aNbxfuw"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/86236/-01.jpg",
@@ -13166,6 +13190,152 @@
       {
         "id": 297108,
         "URL": "https://www.freetour.com/images/tours/86236/-50.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 85068,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Visit in Tuk Tuk the TACAMA vineyard, the oldest in South America",
+      "es": "Visita en Tuk Tuk el viñedo de TACAMA el mas antiguo de suramerica",
+      "pt": "Visita em Tuk Tuk ao vinhedo TACAMA, o mais antigo da América do Sul",
+      "de": "Besuchen Sie mit dem Tuk Tuk das Weingut TACAMA, das älteste in Südamerika",
+      "fr": "Visite en Tuk Tuk du vignoble TACAMA, le plus ancien d'Amérique du Sud",
+      "it": "Visita in Tuk Tuk del vigneto TACAMA, il più antico del Sud America"
+    },
+    "brief": {
+      "de": "Fahren Sie mit einem Tuk-Tuk zum ältesten Weinberg Südamerikas, probieren Sie die besten Weine und Piscos von TACAMA und genießen Sie ein köstliches Essen in einem der besten Restaurants von Ica - eine perfekte Mischung aus Tradition, Geschmack und Abenteuer.",
+      "en": "Ride a tuk-tuk to South America's oldest vineyard, taste TACAMA's finest wines and piscos, and enjoy a delicious meal at Ica's top restaurant-a perfect blend of tradition, flavor, and adventure.",
+      "es": "Ride a tuk-tuk to South America’s oldest vineyard, taste TACAMA’s finest wines and piscos, and enjoy a delicious meal at Ica’s top restaurant—a perfect blend of tradition, flavor, and adventure.",
+      "fr": "Faites un tour en tuk-tuk jusqu'au plus ancien vignoble d'Amérique du Sud, goûtez les meilleurs vins et piscos de TACAMA et savourez un délicieux repas dans le meilleur restaurant d'Ica - un mélange parfait de tradition, de saveur et d'aventure.",
+      "it": "Raggiungete in tuk-tuk il vigneto più antico del Sudamerica, assaggiate i migliori vini e piscos di TACAMA e gustate un delizioso pasto nel ristorante più importante di Ica: una miscela perfetta di tradizione, sapore e avventura.",
+      "pt": "Ande de tuk-tuk até o vinhedo mais antigo da América do Sul, prove os melhores vinhos e piscos de TACAMA e desfrute de uma deliciosa refeição no melhor restaurante de Ica - uma mistura perfeita de tradição, sabor e aventura."
+    },
+    "description": {
+      "de": "Wir holen Sie von Ihrem Hotel oder einem Ort Ihrer Wahl ab, um 20-25 Minuten zum TACAMA-Weinberg zu fahren, wo Sie das Ticket für eine Tour von 25 Soles bis 60 Soles wählen können (die Zwischentour ist bereits in der Tour enthalten). Bei der 60-Soles-Tour sehen Sie den unterirdischen Keller, in dem die ältesten Weine des Weinbergs aufbewahrt werden. Sie werden den gesamten Prozess der Weinherstellung und den ältesten und klassischsten Ort, der als der älteste Weinberg Südamerikas bekannt ist, kennenlernen. Sie werden verschiedene Arten von Rot-, Weiß- und Schaumweinen, einschließlich Piscos, probieren. Wahrscheinlich werden Sie am Ende ein bisschen betrunken sein. Wir werden uns die ganze Zeit über um Sie kümmern. Sie haben Zeit für ein Mittagessen in ICA's bestem, mit dem Summum Peru Award ausgezeichneten Restaurant, Tambo de Tacama, dann kehren wir zu Ihrem Hotel oder einem Ort Ihrer Wahl zurück.",
+      "en": "We will start picking you up at your hotel or place of choice to go for 20-25 minutes to the TACAMA vineyard where you can choose the tour ticket from 25 soles to 60 soles (the intermediate tour is already included in the tour), the 60 soles you will see the subway cellar where the oldest wines of the vineyard are. You will see all the wine process and you will see the most classic and ancient place known as the oldest vineyard in South America, you will have a driver-guide who will wait for you and help you at all times. You will taste several types of red, white and sparkling wines, including piscos. You will probably end up a little drunk. We will take care of you at all times. You will have time to have lunch at ICA's best Summum Peru award-winning restaurant, Tambo de Tacama, then we will return to your hotel or place of choice.",
+      "es": "Empezaremos buscándote en tu hotel o lugar de elección para ir durante 20-25 minutos hasta el viñedo de TACAMA allí puedes escoger la entrada de tour desde 25 soles hasta 60 soles (el tour intermedio ya está incluido en el tour), el de 60 soles podrás ver la cava subterránea donde están los vinos más añejos del viñedo. Verás todo el proceso del vino y verás el lugar más clásico y antiguo conocido como el viñedo más antiguo de Suramérica, tendrás a un chofer-guía que te esperará y te ayudará en todo momento. Probarás varios tipos de vinos tintos, blancos y espumantes, incluyendo piscos. Probablemente termines algo ebrio. Nosotros cuidaremos y estaremos al pendiente de ti en todo momento. Tendrás tiempo para poder comer en el mejor restaurante de ICA galardonado por Summum Perú, Tambo de Tacama, luego volveremos a su hotel o lugar de elección.",
+      "fr": "Nous commencerons par venir vous chercher à votre hôtel ou à l'endroit de votre choix pour aller pendant 20-25 minutes au vignoble de TACAMA où vous pouvez choisir le ticket de visite de 25 soles à 60 soles (la visite intermédiaire est déjà incluse dans le tour), la visite de 60 soles vous permettra de voir la cave souterraine où sont conservés les vins les plus anciens du vignoble. Vous verrez tout le processus de fabrication du vin et vous verrez l'endroit le plus ancien et le plus classique connu comme le plus vieux vignoble d'Amérique du Sud, vous aurez un chauffeur-guide qui vous attendra et vous aidera tout le temps. Vous dégusterez différents types de vins rouges, blancs et pétillants, y compris des piscos. Vous finirez probablement un peu ivre. Nous prendrons soin de vous à tout moment. Vous aurez le temps de déjeuner au Tambo de Tacama, le meilleur restaurant de l'ICA primé par Summum Pérou, puis nous retournerons à votre hôtel ou au lieu de votre choix.",
+      "it": "Inizieremo venendo a prendervi in hotel o in un luogo di vostra scelta per andare per 20-25 minuti al vigneto TACAMA dove potrete scegliere il biglietto del tour da 25 soles a 60 soles (il tour intermedio è già incluso nel tour), il tour da 60 soles vi permetterà di vedere la cantina sotterranea dove sono conservati i vini più antichi del vigneto. Assisterete all'intero processo di produzione del vino e vedrete il luogo più antico e classico conosciuto come il vigneto più antico del Sud America, avrete un autista-guida che vi aspetterà e vi aiuterà per tutto il tempo. Assaggerete vari tipi di vini rossi, bianchi e spumanti, compresi i piscos. Probabilmente finirete per ubriacarvi un po'. Ci prenderemo cura di voi in ogni momento. Avrete il tempo di pranzare al Tambo de Tacama, il miglior ristorante premiato da ICA Summum Perù, poi torneremo al vostro hotel o al luogo che preferite.",
+      "pt": "Começaremos por ir buscá-lo ao seu hotel ou local de eleição para nos deslocarmos durante 20-25 minutos até à vinha TACAMA, onde poderá escolher o bilhete de visita de 25 soles a 60 soles (a visita intermédia já está incluída na visita), na visita de 60 soles verá a adega subterrânea onde são guardados os vinhos mais antigos da vinha. Verá todo o processo do vinho e conhecerá o lugar mais antigo e clássico conhecido como o vinhedo mais antigo da América do Sul, terá um guia-motorista que estará à sua espera e o ajudará o tempo todo. Provarás vários tipos de vinhos tintos, brancos e espumantes, incluindo piscos. É provável que acabe um pouco embriagado. Nós cuidaremos de si em todos os momentos. Terá tempo para almoçar no melhor restaurante premiado Summum Peru do ICA, Tambo de Tacama, e depois regressaremos ao seu hotel ou local de eleição."
+    },
+    "providerTitle": "Jeffry Alejandro Gimenez Alvarado",
+    "providerPhone": "+51954943671",
+    "URL": "https://www.freetour.com/ica/tour-tacama-vineyard-tuk-tuk?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/ica/tour-tacama-vineyard-tuk-tuk?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/ica/tour-tacama-vineyard-tuk-tuk?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/ica/tour-tacama-vineyard-tuk-tuk?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/ica/tour-tacama-vineyard-tuk-tuk?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/ica/tour-tacama-vineyard-tuk-tuk?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/ica/tour-tacama-vineyard-tuk-tuk?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 20,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Plaza de Armas de Ica",
+      "coordinates": "-14.0638505,-75.72914290000001",
+      "googlePlaceId": "ChIJJTst0LziEJERSeV-bQLtn7E"
+    },
+    "cityId": 3259,
+    "countryId": 122,
+    "includes": [
+      "Huacachina Oasis",
+      "Main Square of Ica",
+      "MegaPlaza Ica",
+      "Entrada de tour de Tacama",
+      "Movilidad Ida y Vuelta al Viñedo de Tacama"
+    ],
+    "POIs": [
+      {
+        "id": 15133,
+        "title": "Huacachina Oasis",
+        "googlePlaceId": "ChIJa3LLzXTjEJERhmPEQa-c_0I"
+      },
+      {
+        "id": 27091,
+        "title": "Main Square of Ica",
+        "googlePlaceId": "ChIJg_AqsL3iEJER31GzaY-fRQ8"
+      },
+      {
+        "id": 34427,
+        "title": "MegaPlaza Ica",
+        "googlePlaceId": "ChIJtV1RX-ziEJERLqqlJTvHq28"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/85068/-01.jpg",
+    "categoryId": 9,
+    "images": [
+      {
+        "id": 293670,
+        "URL": "https://www.freetour.com/images/tours/85068/-01.jpg"
+      },
+      {
+        "id": 293671,
+        "URL": "https://www.freetour.com/images/tours/85068/-02.jpg"
+      },
+      {
+        "id": 293672,
+        "URL": "https://www.freetour.com/images/tours/85068/-03.jpg"
+      },
+      {
+        "id": 293673,
+        "URL": "https://www.freetour.com/images/tours/85068/-04.jpg"
+      },
+      {
+        "id": 293674,
+        "URL": "https://www.freetour.com/images/tours/85068/-05.jpg"
+      },
+      {
+        "id": 293675,
+        "URL": "https://www.freetour.com/images/tours/85068/-06.jpg"
+      },
+      {
+        "id": 293676,
+        "URL": "https://www.freetour.com/images/tours/85068/-07.jpg"
+      },
+      {
+        "id": 293677,
+        "URL": "https://www.freetour.com/images/tours/85068/-08.jpg"
+      },
+      {
+        "id": 293678,
+        "URL": "https://www.freetour.com/images/tours/85068/-09.jpg"
+      },
+      {
+        "id": 293679,
+        "URL": "https://www.freetour.com/images/tours/85068/-10.jpg"
+      },
+      {
+        "id": 293680,
+        "URL": "https://www.freetour.com/images/tours/85068/-11.jpg"
+      },
+      {
+        "id": 293681,
+        "URL": "https://www.freetour.com/images/tours/85068/-12.jpg"
+      },
+      {
+        "id": 293682,
+        "URL": "https://www.freetour.com/images/tours/85068/-13.jpg"
+      },
+      {
+        "id": 293683,
+        "URL": "https://www.freetour.com/images/tours/85068/-14.jpg"
+      },
+      {
+        "id": 293684,
+        "URL": "https://www.freetour.com/images/tours/85068/-15.jpg"
+      },
+      {
+        "id": 293685,
+        "URL": "https://www.freetour.com/images/tours/85068/-16.jpg"
       }
     ],
     "videoURL": null,

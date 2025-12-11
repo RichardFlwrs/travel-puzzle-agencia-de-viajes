@@ -1,7 +1,7 @@
 [
   {
     "id": 264,
-    "updatedAt": "2025-12-01 14:30:25",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "The Original Valletta Free Walking Tour",
       "es": "Free Tour Original de La Valeta",
@@ -193,11 +193,11 @@
     ],
     "videoURL": null,
     "rating": 4.83,
-    "reviewsNumber": 571
+    "reviewsNumber": 576
   },
   {
     "id": 790,
-    "updatedAt": "2025-12-01 14:08:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Complete Valletta Walking Tour",
       "es": "La Valeta al completo",
@@ -375,7 +375,7 @@
   },
   {
     "id": 807,
-    "updatedAt": "2025-12-01 01:00:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mdina and Rabat Walking Tour inc. Entrance to Catacombs and Grotto",
       "es": "Excursión a pie por Mdina y Rabat inc. Entrada a las Catacumbas y la Gruta",
@@ -650,12 +650,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.86,
-    "reviewsNumber": 35
+    "rating": 4.87,
+    "reviewsNumber": 36
   },
   {
     "id": 811,
-    "updatedAt": "2025-12-01 01:00:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Valletta Ghost Tour - Halloween Edition",
       "es": "Valletta Ghost Tour - Edición de Halloween",
@@ -755,7 +755,7 @@
   },
   {
     "id": 985,
-    "updatedAt": "2025-12-01 01:00:53",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Valletta Private Tour",
       "es": "Valletta Tour Privado",
@@ -875,7 +875,7 @@
   },
   {
     "id": 6260,
-    "updatedAt": "2025-12-01 01:03:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Valletta City Walking Tour",
       "es": "Tour a Pie por La Valeta",
@@ -972,7 +972,7 @@
   },
   {
     "id": 6262,
-    "updatedAt": "2025-12-01 01:03:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mdina City Walking Tour",
       "es": "Tour a Pie por la Ciudad de Mdina",
@@ -1063,7 +1063,7 @@
   },
   {
     "id": 7548,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mdina, Tales of the Silent City",
       "es": "Mdina, Cuentos de la Ciudad del Silencio",
@@ -1172,7 +1172,7 @@
   },
   {
     "id": 22813,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Valletta & St John's co-Cathedral Tour",
       "es": "Visita a La Valeta y la concatedral de San Juan",
@@ -1267,7 +1267,7 @@
   },
   {
     "id": 23978,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "La Cottonera Walking Tour: Mistery of the Three Cities",
       "es": "Recorrido a pie por La Cottonera: Misterio de las Tres Ciudades",
@@ -1374,7 +1374,7 @@
   },
   {
     "id": 24014,
-    "updatedAt": "2025-12-01 01:05:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Valletta Food Tour - Eat Like a Local",
       "es": "Tour Gastronómico por La Valeta: Come como un Local",
@@ -1462,7 +1462,7 @@
   },
   {
     "id": 24119,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Discovering the Open Museum: Valletta Tour UNESCO Site",
       "es": "Descubriendo el Museo Abierto: Valletta Tour Sitio de la UNESCO",
@@ -1580,11 +1580,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 1007
+    "reviewsNumber": 1011
   },
   {
     "id": 24217,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Medina and Rabat Tour: The Traditional Malta",
       "es": "Excursión a Medina y Rabat: La Malta tradicional",
@@ -1729,7 +1729,7 @@
   },
   {
     "id": 29174,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Valletta and Gastronomy (Dinner)",
       "es": "Tour Guiado de Valletta y Cena Romántica",
@@ -1822,7 +1822,7 @@
   },
   {
     "id": 37143,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Valletta Walking Tour",
       "es": "Descubra La Valeta a pie",
@@ -1937,7 +1937,7 @@
   },
   {
     "id": 37144,
-    "updatedAt": "2025-12-01 01:07:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Three Cities Birgu Tour",
       "es": "Visita a las tres ciudades de Birgu",
@@ -2044,7 +2044,7 @@
   },
   {
     "id": 37393,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Ben's Mdina & Rabat Free Walking Tour",
       "es": "Free Tour de Ben por Mdina y Rabat",
@@ -2168,11 +2168,11 @@
     ],
     "videoURL": null,
     "rating": 4.91,
-    "reviewsNumber": 356
+    "reviewsNumber": 358
   },
   {
     "id": 38046,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 09:29:11",
     "title": {
       "en": "Ben's Valletta Free Walking Tour",
       "es": "Free Tour de Ben por La Valeta",
@@ -2262,11 +2262,11 @@
     ],
     "videoURL": null,
     "rating": 4.9,
-    "reviewsNumber": 569
+    "reviewsNumber": 572
   },
   {
     "id": 39060,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gozo Victoria Walking Tour",
       "es": "Excursión a pie por Gozo Victoria",
@@ -2377,7 +2377,7 @@
   },
   {
     "id": 39426,
-    "updatedAt": "2025-12-01 01:07:22",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Valletta Street Food Tour & Culture",
       "es": "Ruta gastronómica y cultural por La Valeta",
@@ -2570,7 +2570,7 @@
   },
   {
     "id": 53413,
-    "updatedAt": "2025-12-01 01:10:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Three Cities Walking Tour -  Including entrance to Inquisitor's Palace",
       "es": "Visita a pie de las Tres Ciudades - Incluye entrada al Palacio del Inquisidor",
@@ -2692,7 +2692,7 @@
   },
   {
     "id": 61671,
-    "updatedAt": "2025-12-01 01:14:36",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taste of Valletta: Culinary Walking Tour",
       "es": "El Sabor de La Valeta: Visita Culinaria a Pie",
@@ -2797,7 +2797,7 @@
   },
   {
     "id": 68778,
-    "updatedAt": "2025-12-01 01:15:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mdina and Rabat Insider's Tour",
       "es": "Visita Guiada a Mdina y Rabat",
@@ -2908,7 +2908,7 @@
   },
   {
     "id": 84243,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Magnificent Valletta Free Tour",
       "es": "Magnífica Valeta Free Tour",

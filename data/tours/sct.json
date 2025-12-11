@@ -1,7 +1,7 @@
 [
   {
     "id": 19158,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Edinburgh: Dean Village, Stockbridge and the Gardens",
       "es": "Free Tour de Edimburgo: Dean Village, Stockbridge y los Jardines",
@@ -105,11 +105,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 123
+    "reviewsNumber": 124
   },
   {
     "id": 19159,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Edinburgh Ghosts Free Night Tour",
       "es": "Free Tour Nocturno de Los Fantasmas de Edinburgh",
@@ -231,7 +231,7 @@
   },
   {
     "id": 19555,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Complete Historic Free Tour of Edinburgh",
       "es": "Free Tour Histórico de Edimburgo al Completo",
@@ -378,7 +378,7 @@
   },
   {
     "id": 20516,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ghosts of Glasgow: Self-Guided Exploration Game",
       "es": "Fantasmas de Glasgow: juego de exploración autoguiado",
@@ -499,7 +499,7 @@
   },
   {
     "id": 20786,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Edinburgh Castle",
       "es": "Free Tour al Castillo de Edimburgo",
@@ -602,7 +602,7 @@
   },
   {
     "id": 20789,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of the Ghosts & Mysteries of the Royal Mile",
       "es": "Free Tour por los Fantasmas y Misterios de la Royal Mile",
@@ -694,7 +694,7 @@
   },
   {
     "id": 20790,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Harry Potter Magic Walking Tour",
       "es": "Tour Mágico de Harry Potter a Pie",
@@ -804,7 +804,7 @@
   },
   {
     "id": 21062,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Highlights of Glasgow City Centre",
       "es": "Aspectos Destacados del Centro de la Ciudad de Glasgow",
@@ -960,12 +960,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=Udp9mUTqHbA",
-    "rating": 4.6899999999999995,
-    "reviewsNumber": 149
+    "rating": 4.7,
+    "reviewsNumber": 150
   },
   {
     "id": 21498,
-    "updatedAt": "2025-12-01 01:04:54",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Stirling: Historical Walking Tour in Spanish",
       "es": "Stirling: Recorrido Histórico a Pie en Español",
@@ -1091,7 +1091,7 @@
   },
   {
     "id": 29527,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Esencial of  Glasgow",
       "es": "Free Tour por Glasgow",
@@ -1202,12 +1202,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.59,
-    "reviewsNumber": 77
+    "rating": 4.58,
+    "reviewsNumber": 78
   },
   {
     "id": 29793,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Harry Potter Free Tour in Edinburgh",
       "es": "Free Tour de Harry Potter en Edimburgo",
@@ -1314,11 +1314,11 @@
     ],
     "videoURL": null,
     "rating": 4.82,
-    "reviewsNumber": 127
+    "reviewsNumber": 128
   },
   {
     "id": 30042,
-    "updatedAt": "2025-12-01 15:31:51",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Essential Edinburgh Free Tour: Historic Center",
       "es": "Free Tour Esencial de Edimburgo: Centro Histórico",
@@ -1421,11 +1421,11 @@
     ],
     "videoURL": null,
     "rating": 4.83,
-    "reviewsNumber": 1062
+    "reviewsNumber": 1064
   },
   {
     "id": 30043,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Edinburgh Mysteries, Ghosts & Witch Burning",
       "es": "Free Tour Misterios, Fantasmas y Quema de Brujas de Edimburgo",
@@ -1508,11 +1508,11 @@
     ],
     "videoURL": null,
     "rating": 4.74,
-    "reviewsNumber": 307
+    "reviewsNumber": 310
   },
   {
     "id": 45852,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Award-Winning Edinburgh Free Tour with World Famous Dog",
       "es": "Galardonada visita gratuita a Edimburgo con el perro más famoso del mundo",
@@ -1633,11 +1633,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 260
+    "reviewsNumber": 265
   },
   {
     "id": 57910,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour: Edinburgh's Old Town",
       "es": "Free Tour: Ciudad Vieja de Edimburgo",
@@ -1791,7 +1791,7 @@
   },
   {
     "id": 61985,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Edinburgh’s Free Harry Potter Tour with Adorable Dog",
       "es": "Visita gratuita a Harry Potter en Edimburgo con un adorable perro",
@@ -1893,7 +1893,7 @@
   },
   {
     "id": 65078,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Calton Hill and Canongate",
       "es": "Free Tour por Calton Hill y Canongate",
@@ -2015,7 +2015,7 @@
   },
   {
     "id": 65626,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of Leith, The Shore and Trainspotting in Edinburgh",
       "es": "Free Tour por Leith, The Shore y Trainspotting en Edinburgh",
@@ -2138,7 +2138,7 @@
   },
   {
     "id": 67060,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 13:01:42",
     "title": {
       "en": "Free Tour Discover the History of Edinburgh",
       "es": "Free Tour Descubre la Historia de Edimburgo",
@@ -2300,12 +2300,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.63,
-    "reviewsNumber": 38
+    "rating": 4.59,
+    "reviewsNumber": 42
   },
   {
     "id": 67334,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of New Town and Dean Village",
       "es": "Free Tour a New Town y Dean Village",
@@ -2419,7 +2419,7 @@
   },
   {
     "id": 67846,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Drinking Adventure with a Scotsman",
       "es": "Aventura de Bebidas con un Escocés",
@@ -2502,7 +2502,7 @@
   },
   {
     "id": 71173,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Edinburgh’s Old Town Free Tour with a Local and a Dog",
       "es": "Visita gratuita al casco antiguo de Edimburgo con un lugareño y un perro",
@@ -2637,7 +2637,7 @@
   },
   {
     "id": 73616,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Royal Mile Alleyways",
       "es": "Recorrido por los Callejones de la Royal Mile",
@@ -2792,7 +2792,7 @@
   },
   {
     "id": 84619,
-    "updatedAt": "2025-12-01 11:46:02",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Local Lad Free Walking Tour Edinburgh",
       "es": "The Local Lad Recorrido gratuito a pie por Edimburgo",
@@ -2872,11 +2872,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 4
+    "reviewsNumber": 7
   },
   {
     "id": 85787,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Edinburgh: Guided Old Town Free Walking Tour",
       "es": "Edimburgo: Visita guiada gratuita a pie por el casco antiguo",
@@ -3002,11 +3002,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 85793,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Edinburgh: Electric Mile Pub Crawl with Free Shots",
       "es": "Edimburgo: Electric Mile Pub Crawl con chupitos gratis",
@@ -3098,7 +3098,7 @@
   },
   {
     "id": 86101,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Edinburgh: Harry Potter Walking Tour",
       "es": "Edimburgo: Harry Potter Walking Tour",
@@ -3186,7 +3186,7 @@
   },
   {
     "id": 86569,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Edinburgh, Royal mile City Walk",
       "es": "App Audioguía: Edimburgo, Royal mile City Walk",

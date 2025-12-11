@@ -1,7 +1,7 @@
 [
   {
     "id": 58,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Original Free Tour of Mexico City",
       "es": "Original Free Tour de Ciudad de México",
@@ -156,11 +156,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=XfTjATrvlIk",
     "rating": 4.82,
-    "reviewsNumber": 2213
+    "reviewsNumber": 2214
   },
   {
     "id": 60,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Frida Kahlo Neighborhood Coyoacan",
       "es": "Recorrido gratuito por el Barrio de Frida Kahlo en Coyoacán",
@@ -290,11 +290,11 @@
     ],
     "videoURL": null,
     "rating": 4.75,
-    "reviewsNumber": 771
+    "reviewsNumber": 775
   },
   {
     "id": 62,
-    "updatedAt": "2025-12-01 01:00:16",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Santo Ring Lucha Libre & Pulque",
       "es": "Santo Ring Lucha Libre &amp; Pulque",
@@ -379,7 +379,7 @@
   },
   {
     "id": 1285,
-    "updatedAt": "2025-12-01 01:01:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Teotihuacan Pyramids from Mexico City with Private Transport",
       "es": "Pirámides de Teotihuacán desde Ciudad de México con transporte privado",
@@ -721,7 +721,7 @@
   },
   {
     "id": 2838,
-    "updatedAt": "2025-12-01 01:01:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "La Catrina & Muralism: Diego Rivera’s Legacy & Frida Kahlo",
       "es": "La Catrina y el muralismo: El legado de Diego Rivera y Frida Kahlo",
@@ -798,9 +798,13 @@
         "googlePlaceId": "ChIJXVgMdpr_0YURekp7AgV8Mk4"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/2838/mexican-muralism-walking-tour-14.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/2838/mexican-muralism-walking-tour-22.jpg",
     "categoryId": 12,
     "images": [
+      {
+        "id": 283992,
+        "URL": "https://www.freetour.com/images/tours/2838/mexican-muralism-walking-tour-22.jpg"
+      },
       {
         "id": 283984,
         "URL": "https://www.freetour.com/images/tours/2838/mexican-muralism-walking-tour-14.jpg"
@@ -828,10 +832,6 @@
       {
         "id": 283991,
         "URL": "https://www.freetour.com/images/tours/2838/mexican-muralism-walking-tour-21.jpg"
-      },
-      {
-        "id": 283992,
-        "URL": "https://www.freetour.com/images/tours/2838/mexican-muralism-walking-tour-22.jpg"
       }
     ],
     "videoURL": null,
@@ -840,7 +840,7 @@
   },
   {
     "id": 3384,
-    "updatedAt": "2025-12-01 01:02:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Murals of Mexico City",
       "es": "Recorrido a pie Murales de Ciudad de México",
@@ -999,7 +999,7 @@
   },
   {
     "id": 4937,
-    "updatedAt": "2025-12-01 01:02:40",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Puerto Vallarta City Promotional Tour",
       "es": "VIP Puerto Vallarta City Tour",
@@ -1166,7 +1166,7 @@
   },
   {
     "id": 6223,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to the Magical Towns of Mexico",
       "es": "Tour a los Pueblos Mágicos de México",
@@ -1269,7 +1269,7 @@
   },
   {
     "id": 6255,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old Down Town City Tour",
       "es": "Visita al casco antiguo",
@@ -1347,7 +1347,7 @@
   },
   {
     "id": 6580,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour in Playa del Carmen",
       "es": "Free Tour en Playa del Carmen",
@@ -1397,13 +1397,14 @@
     "countryId": 99,
     "includes": [
       "Parque Los Fundadores",
-      "Portal Maya",
-      "Calle Corazón",
       "Museo Frida Kahlo Playa Del Carmen",
+      "La tarraya",
+      "Hotel Posada Sian Ka an",
+      "Quinta avenida",
+      "The Palm at Playa",
+      "Palacio Municipal de Playa del Carmen",
       "walking tour",
-      "local guides",
-      "Capilla Nuestra Señora del Carmen",
-      "Degustación de chocolate"
+      "local guides"
     ],
     "POIs": [
       {
@@ -1412,19 +1413,34 @@
         "googlePlaceId": "ChIJ3Uqm1TtDTo8R_6UbOOPCvU0"
       },
       {
-        "id": 12428,
-        "title": "Portal Maya",
-        "googlePlaceId": "ChIJZW0fgTlDTo8R2N9-1V0xuNU"
-      },
-      {
-        "id": 7136,
-        "title": "Calle Corazón",
-        "googlePlaceId": "ChIJmbD84S9DTo8RJM9EVwt0U5k"
-      },
-      {
         "id": 2769,
         "title": "Museo Frida Kahlo Playa Del Carmen",
         "googlePlaceId": "ChIJb5nqRDpDTo8RqjSz-M_fjUA"
+      },
+      {
+        "id": 35131,
+        "title": "La tarraya",
+        "googlePlaceId": "ChIJDYB2EXtDTo8R_5trrd2aq9o"
+      },
+      {
+        "id": 35130,
+        "title": "Hotel Posada Sian Ka an",
+        "googlePlaceId": "ChIJNboTT6Hi0YURIS9lUMzAZqM"
+      },
+      {
+        "id": 23896,
+        "title": "Quinta avenida",
+        "googlePlaceId": "ChIJpc6uTpRDTo8RKNJ7Y-_rPMw"
+      },
+      {
+        "id": 35132,
+        "title": "The Palm at Playa",
+        "googlePlaceId": "ChIJPevLljpDTo8RveotjgpjKKs"
+      },
+      {
+        "id": 35133,
+        "title": "Palacio Municipal de Playa del Carmen",
+        "googlePlaceId": "ChIJYSMtzSRDTo8Rt18xsUDsJsk"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/6580/free-walking-tour-playa-del-carmen-15.jpg",
@@ -1481,18 +1497,18 @@
     ],
     "videoURL": null,
     "rating": 4.7,
-    "reviewsNumber": 92
+    "reviewsNumber": 93
   },
   {
     "id": 6581,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
-      "en": "Free Tour in Puebla",
-      "es": "Visita libre en Puebla",
-      "pt": "Visita livre em Puebla",
-      "de": "Kostenlose Tour in Puebla",
-      "fr": "Visite libre à Puebla",
-      "it": "Visita libera a Puebla"
+      "en": "Free Walking Tour in Puebla",
+      "es": "Paseo gratuito por Puebla",
+      "pt": "Passeio a pé gratuito em Puebla",
+      "de": "Kostenloser Rundgang in Puebla",
+      "fr": "Visite à pied gratuite à Puebla",
+      "it": "Tour a piedi gratuito a Puebla"
     },
     "brief": {
       "de": "Erkunden Sie die alte Kolonialstadt Puebla mit ihren jahrhundertealten Traditionen, ihrer märchenhaften Schönheit, ihren faszinierenden Landschaften und ihrer großartigen Architektur in Begleitung eines ortskundigen Führers.",
@@ -1534,12 +1550,6 @@
     "cityId": 2947,
     "countryId": 99,
     "includes": [
-      "Catedral de Puebla",
-      "Capilla del Rosario",
-      "Biblioteca Palafoxiana",
-      "Artist Quarter",
-      "Parian market",
-      "Museo Regional De La Revolución Mexicana Casa De Los Hermanos Serdán",
       "Walking Tours",
       "Local guide",
       "Catedral ",
@@ -1551,53 +1561,50 @@
       "Iglesia de San Francisco",
       "Barrio de los Sapos"
     ],
-    "POIs": [
-      {
-        "id": 5289,
-        "title": "Catedral de Puebla",
-        "googlePlaceId": "ChIJhwilCijGz4URxQHHgRUmIVs"
-      },
-      {
-        "id": 5205,
-        "title": "Capilla del Rosario",
-        "googlePlaceId": "ChIJHfG-3ubAz4UR73wIKQaRI7c"
-      },
-      {
-        "id": 8647,
-        "title": "Biblioteca Palafoxiana",
-        "googlePlaceId": "ChIJQ4N18efAz4URNECWN60l15o"
-      },
-      {
-        "id": 7235,
-        "title": "Artist Quarter",
-        "googlePlaceId": "ChIJMRZqt-XAz4URq54au_E7V8I"
-      },
-      {
-        "id": 4302,
-        "title": "Parian market",
-        "googlePlaceId": "ChIJF5SiUObAz4URhs1BAKB7BxE"
-      },
-      {
-        "id": 6612,
-        "title": "Museo Regional De La Revolución Mexicana Casa De Los Hermanos Serdán",
-        "googlePlaceId": "ChIJl2jClObAz4UREGiVcn6AzKE"
-      }
-    ],
-    "titleImageURL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-08.jpg",
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-21.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 54920,
-        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-08.jpg"
+        "id": 300989,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-21.jpg"
+      },
+      {
+        "id": 300982,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-09.jpg"
+      },
+      {
+        "id": 300983,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-10.jpg"
+      },
+      {
+        "id": 300984,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-14.jpg"
+      },
+      {
+        "id": 300985,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-15.jpg"
+      },
+      {
+        "id": 300986,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-18.jpg"
+      },
+      {
+        "id": 300987,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-19.jpg"
+      },
+      {
+        "id": 300988,
+        "URL": "https://www.freetour.com/images/tours/6581/free-walking-tour-puebla-20.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.5600000000000005,
-    "reviewsNumber": 229
+    "rating": 4.57,
+    "reviewsNumber": 231
   },
   {
     "id": 7169,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Mexico City: The Best Introduction ",
       "es": "Free Tour Ciudad de México: La Mejor Introducción ",
@@ -1791,11 +1798,11 @@
     ],
     "videoURL": null,
     "rating": 4.85,
-    "reviewsNumber": 787
+    "reviewsNumber": 792
   },
   {
     "id": 7496,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mexico: Past and Present",
       "es": "México: Pasado y Presente",
@@ -1909,7 +1916,7 @@
   },
   {
     "id": 7517,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "TacoTour Mexico City: Gastronomic Introduction",
       "es": "TacoTour Ciudad de México: Introducción Gastronómica",
@@ -2014,12 +2021,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.58,
-    "reviewsNumber": 184
+    "rating": 4.59,
+    "reviewsNumber": 185
   },
   {
     "id": 7542,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Alternative Walking Tour in Mexico City",
       "es": "Recorrido alternativo a pie por Ciudad de México",
@@ -2145,7 +2152,7 @@
   },
   {
     "id": 7695,
-    "updatedAt": "2025-12-01 03:51:11",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Secrets of Mexico City Center Walking Tour",
       "es": "Recorrido a pie por el centro de México",
@@ -2331,11 +2338,11 @@
     ],
     "videoURL": null,
     "rating": 4.97,
-    "reviewsNumber": 95
+    "reviewsNumber": 96
   },
   {
     "id": 7843,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Mexico City Free Tour: Chapultepec Forest, Castle & Lake",
       "es": "México DF Free Tour: Bosque de Chapultepec, Castillo y Lago",
@@ -2479,7 +2486,7 @@
   },
   {
     "id": 8050,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Coyoacan & Frida Kahlo Free Tour in Mexico City",
       "es": "Coyoacán y Frida Kahlo Free Tour en Ciudad de México",
@@ -2614,7 +2621,7 @@
   },
   {
     "id": 8052,
-    "updatedAt": "2025-12-01 13:28:49",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Roma & Condesa Neighbordhoods Free Tour in Mexico City",
       "es": "Visita gratuita a los barrios Roma y Condesa de Ciudad de México",
@@ -2756,11 +2763,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=bGC2k3mgEFo",
     "rating": 4.78,
-    "reviewsNumber": 518
+    "reviewsNumber": 520
   },
   {
     "id": 10564,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "The Free Walking Tour in the Historic Center",
       "es": "Recorrido gratuito a pie por el Centro Histórico",
@@ -2981,11 +2988,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=g7Rgs9nRtzk",
     "rating": 4.9,
-    "reviewsNumber": 192
+    "reviewsNumber": 194
   },
   {
     "id": 14955,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour in Teotihuacan",
       "es": "Tour a Pie in Teotihuacan",
@@ -3077,7 +3084,7 @@
   },
   {
     "id": 16486,
-    "updatedAt": "2025-12-01 20:42:30",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Essential Mérida Free Tour",
       "es": "Mérida Esencial Free Tour",
@@ -3095,12 +3102,12 @@
       "pt": "Não há melhor maneira de desfrutar de Mérida Yucantán do que ser acompanhado pelos nossos guias profissionais com camisolas cor-de-rosa. Desfrute das incríveis paisagens que este Free Tour tem para oferecer especialmente para si!"
     },
     "description": {
-      "de": "Nehmen Sie an der besten kostenlosen Tour in Mérida teil und entdecken Sie die Stadt auf eine authentische und persönliche Weise! Kleine Gruppen!\r\n\r\nDie beste Art und Weise, das historische Zentrum von Mérida zu erkunden, ist, durch die Straßen zu gehen und in die Plätze, Kirchen und die koloniale Architektur einzutauchen. Unsere Free Walking Tour ist speziell für Reisende konzipiert, die die Stadt wie ein Einheimischer erleben und ihre Geheimnisse und reiche kulturelle Vielfalt in einer kleinen, intimen Gruppe entdecken möchten.\r\n\r\nTauchen Sie ein in die Geschichte, die Kunst und die Traditionen von Mérida mit leidenschaftlichen Führern, die jeden Winkel und jede Geschichte kennen. Auf dieser Tour sind Sie mehr als nur ein Besucher; Sie sind unser Gast, um zu entdecken, was Mérida so besonders macht.\r\n\r\nSind Sie bereit, Mérida von innen zu erleben? Buchen Sie jetzt und nehmen Sie an der besten Tour der Stadt teil!\r\n\r\nWIR BIETEN KEINE ZWEISPRACHIGEN TOUREN AN UND DIE GRUPPEN SIND KLEIN.",
-      "en": "Join the best Free Tour in Mérida and discover the city in an authentic, personal way! Smalls Groups!\r\n\r\nThe best way to explore Mérida’s Historic Center is by walking its streets and immersing yourself in its plazas, churches, and colonial architecture. Our Free Walking Tour is specially designed for travelers who want to experience the city like a local, uncovering its secrets and rich cultural diversity in a small, intimate group setting.\r\n\r\nDive into Mérida’s history, art, and traditions with passionate guides who know every corner and story. On this tour, you’re more than just a visitor; you’re our guest, here to discover what makes Mérida truly special.\r\n\r\nReady to experience Mérida from the inside? Book now and join the best tour experience in the city!\r\n\r\nWE DO NOT DO BILINGUAL TOURS AND THEY ARE SMALL GROUPS.",
-      "es": "¡Únete al mejor Free Tour de Mérida y descubre la ciudad de una forma auténtica y personal! ¡Grupos reducidos!\r\n\r\nLa mejor manera de explorar el Centro Histórico de Mérida es caminando por sus calles y sumergiéndose en sus plazas, iglesias y arquitectura colonial. Nuestro Free Walking Tour está especialmente diseñado para los viajeros que quieren experimentar la ciudad como un local, descubriendo sus secretos y su rica diversidad cultural en un grupo pequeño e íntimo.\r\n\r\nSumérjase en la historia, el arte y las tradiciones de Mérida con guías apasionados que conocen cada rincón y cada historia. En esta excursión, usted es más que un simple visitante; es nuestro invitado, aquí para descubrir lo que hace que Mérida sea realmente especial.\r\n\r\n¿Listo para vivir Mérida desde dentro? Reserve ahora y únase a la mejor experiencia turística de la ciudad\r\n\r\nNO HACEMOS TOURS BILINGÜES Y SON GRUPOS REDUCIDOS.",
-      "fr": "Rejoignez le meilleur Free Tour de Mérida et découvrez la ville de manière authentique et personnelle ! Petits groupes !\r\n\r\nLa meilleure façon d'explorer le centre historique de Mérida est de marcher dans ses rues et de s'immerger dans ses places, ses églises et son architecture coloniale. Notre visite à pied gratuite est spécialement conçue pour les voyageurs qui souhaitent découvrir la ville comme un habitant, en découvrant ses secrets et sa riche diversité culturelle dans le cadre d'un petit groupe intime.\r\n\r\nPlongez dans l'histoire, l'art et les traditions de Mérida avec des guides passionnés qui en connaissent tous les recoins et toutes les histoires. Lors de cette visite, vous êtes plus qu'un simple visiteur, vous êtes notre invité, venu découvrir ce qui fait de Mérida une ville vraiment spéciale.\r\n\r\nPrêt à découvrir Mérida de l'intérieur ? Réservez dès maintenant et participez à la meilleure expérience touristique de la ville !\r\n\r\nNOUS N'ORGANISONS PAS DE VISITES BILINGUES ET ELLES SE FONT EN PETITS GROUPES.",
-      "it": "Unitevi al miglior Free Tour di Mérida e scoprite la città in modo autentico e personale! Piccoli gruppi!\r\n\r\nIl modo migliore per esplorare il centro storico di Mérida è camminare per le sue strade e immergersi nelle sue piazze, chiese e architetture coloniali. Il nostro tour a piedi gratuito è stato progettato appositamente per i viaggiatori che desiderano vivere la città come un abitante del luogo, scoprendo i suoi segreti e la sua ricca diversità culturale in un ambiente di gruppo piccolo e intimo.\r\n\r\nImmergetevi nella storia, nell'arte e nelle tradizioni di Mérida con guide appassionate che conoscono ogni angolo e ogni storia. In questo tour non sarete solo un visitatore, ma un nostro ospite, che scoprirà ciò che rende Mérida davvero speciale.\r\n\r\nSiete pronti a vivere Mérida dall'interno? Prenotate ora e partecipate alla migliore esperienza di tour della città!\r\n\r\nNON EFFETTUIAMO TOUR BILINGUE E SI TRATTA DI PICCOLI GRUPPI.",
-      "pt": "Junte-se ao melhor Free Tour de Mérida e descubra a cidade de uma forma autêntica e pessoal! Grupos pequenos!\r\n\r\nA melhor maneira de conhecer o Centro Histórico de Mérida é percorrer as suas ruas e mergulhar nas suas praças, igrejas e arquitetura colonial. O nosso Free Walking Tour foi especialmente concebido para os viajantes que querem conhecer a cidade como um local, descobrindo os seus segredos e a sua rica diversidade cultural num grupo pequeno e íntimo.\r\n\r\nMergulhe na história, arte e tradições de Mérida com guias apaixonados que conhecem cada canto e cada história. Neste passeio, é mais do que um simples visitante; é o nosso convidado, aqui para descobrir o que torna Mérida verdadeiramente especial.\r\n\r\nPronto para conhecer Mérida por dentro? Reserve agora e junte-se à melhor experiência turística da cidade!\r\n\r\nNÃO REALIZAMOS VISITAS BILINGUES E OS GRUPOS SÃO PEQUENOS."
+      "de": "Entdecken Sie den Zauber von Mérida, dem weißen Juwel im Süden Mexikos.\r\n\r\n Begleiten Sie uns auf diesem kostenlosen Rundgang durch das historische Zentrum und lassen Sie sich von der Kunst, der Geschichte und der herzlichen Atmosphäre der Stadt verzaubern.\r\nWir besuchen die Casa Montejo, das Haus der Gründer von Mérida, und die Kathedrale von San Ildefonso, die erste Kathedrale, die in Amerika gebaut wurde. Bewundern Sie die Wandmalereien im Regierungspalast, schlendern Sie am eleganten Gran Hotel im porfirischen Stil vorbei und erkunden Sie die Kirche Jesús de la Tercera Orden, die aus Fragmenten alter Maya-Tempel errichtet wurde.\r\n\r\nAußerdem entdecken wir das Theater José Peón Contreras, in dem der erste Feministenkongress Lateinamerikas stattfand, und die Autonome Universität von Yucatán, ein Symbol für lokale Kultur und Wissen.\r\n\r\n Unsere Tour endet im Parque de Santa Lucía, einem lebendigen Platz voller Musik, Tradition und dem wahren Geist von Mérida.\r\nEin Muss, um sich in den Charme und die Seele von Mérida zu verlieben.",
+      "en": "Discover the magic of Mérida, the white jewel of southern Mexico.\r\n\r\n Join us on this free walking tour through the historic center and let yourself be captivated by the city’s art, history, and warm local atmosphere.\r\nWe’ll visit Casa Montejo, home of Mérida’s founders, and the Cathedral of San Ildefonso, the first cathedral built in the Americas. Admire the murals inside the Government Palace, stroll past the elegant Porfirian-style Gran Hotel, and explore the Church of Jesús de la Tercera Orden, built using fragments of ancient Mayan temples.\r\n\r\nWe’ll also discover the José Peón Contreras Theater, which hosted the first Feminist Congress in Latin America, and the Autonomous University of Yucatán, a symbol of local culture and knowledge.\r\n\r\n Our tour ends at Parque de Santa Lucía, a lively square filled with music, tradition, and the true spirit of Mérida.\r\nA must-do experience to fall in love with Mérida’s charm and soul.",
+      "es": "Descubra la magia de Mérida, la joya blanca del sur de México.\r\n\r\n Acompáñenos en este recorrido gratuito a pie por el centro histórico y déjese cautivar por el arte, la historia y el cálido ambiente local de la ciudad.\r\nVisitaremos la Casa Montejo, hogar de los fundadores de Mérida, y la Catedral de San Ildefonso, la primera catedral construida en América. Admire los murales del Palacio de Gobierno, pasee por el elegante Gran Hotel de estilo porfiriano y explore la Iglesia de Jesús de la Tercera Orden, construida con fragmentos de antiguos templos mayas.\r\n\r\nTambién descubriremos el Teatro José Peón Contreras, que albergó el primer Congreso Feminista de América Latina, y la Universidad Autónoma de Yucatán, símbolo de la cultura y el conocimiento local.\r\n\r\n Nuestro recorrido termina en el Parque de Santa Lucía, una animada plaza llena de música, tradición y el verdadero espíritu de Mérida.\r\nUna experiencia imprescindible para enamorarse del encanto y el alma de Mérida.",
+      "fr": "Découvrez la magie de Mérida, le joyau blanc du sud du Mexique.\r\n\r\n Rejoignez-nous pour cette visite à pied gratuite du centre historique et laissez-vous séduire par l'art, l'histoire et l'atmosphère chaleureuse de la ville.\r\nNous visiterons la Casa Montejo, maison des fondateurs de Mérida, et la cathédrale de San Ildefonso, la première cathédrale construite dans les Amériques. Admirez les peintures murales à l'intérieur du palais du gouvernement, flânez devant l'élégant Gran Hotel de style porfirien et explorez l'église de Jesús de la Tercera Orden, construite à partir de fragments d'anciens temples mayas.\r\n\r\nNous découvrirons également le théâtre José Peón Contreras, qui a accueilli le premier congrès féministe d'Amérique latine, et l'université autonome du Yucatán, symbole de la culture et du savoir locaux.\r\n\r\n Notre visite s'achève au Parque de Santa Lucía, une place animée par la musique, la tradition et le véritable esprit de Mérida.\r\nUne expérience à ne pas manquer pour tomber amoureux du charme et de l'âme de Mérida.",
+      "it": "Scoprite la magia di Mérida, il gioiello bianco del Messico meridionale.\r\n\r\n Unitevi a noi in questo tour gratuito a piedi attraverso il centro storico e lasciatevi affascinare dall'arte, dalla storia e dalla calda atmosfera locale della città.\r\nVisiteremo Casa Montejo, dimora dei fondatori di Mérida, e la Cattedrale di San Ildefonso, la prima cattedrale costruita nelle Americhe. Ammireremo i murales all'interno del Palazzo del Governo, passeggeremo davanti all'elegante Gran Hotel in stile porfiriano ed esploreremo la Chiesa di Jesús de la Tercera Orden, costruita con frammenti di antichi templi maya.\r\n\r\nScopriremo anche il Teatro José Peón Contreras, che ha ospitato il primo Congresso Femminista dell'America Latina, e l'Università Autonoma dello Yucatán, simbolo della cultura e del sapere locale.\r\n\r\n Il nostro tour si conclude al Parque de Santa Lucía, una vivace piazza piena di musica, tradizioni e del vero spirito di Mérida.\r\nUn'esperienza da non perdere per innamorarsi del fascino e dell'anima di Mérida.",
+      "pt": "Descubra a magia de Mérida, a joia branca do sul do México.\r\n\r\n Junte-se a nós neste passeio a pé gratuito pelo centro histórico e deixe-se cativar pela arte, pela história e pela atmosfera calorosa da cidade.\r\nVisitaremos a Casa Montejo, casa dos fundadores de Mérida, e a Catedral de San Ildefonso, a primeira catedral construída nas Américas. Admire os murais no interior do Palácio do Governo, passeie pelo elegante Gran Hotel de estilo porfiriano e explore a Igreja de Jesús de la Tercera Orden, construída com fragmentos de antigos templos maias.\r\n\r\nTambém descobriremos o Teatro José Peón Contreras, que acolheu o primeiro Congresso Feminista da América Latina, e a Universidade Autónoma de Yucatán, símbolo da cultura e do conhecimento locais.\r\n\r\n O nosso passeio termina no Parque de Santa Lucía, uma praça animada, cheia de música, tradição e o verdadeiro espírito de Mérida.\r\nUma experiência imperdível para se apaixonar pelo encanto e a alma de Mérida."
     },
     "providerTitle": "Estación",
     "providerPhone": "+525575051530",
@@ -3129,12 +3136,11 @@
       "Museo Casa Montejo",
       "Catedral de Mérida - San Ildefonso",
       "Palacio de Gobierno del Estado de Yucatán",
-      "Plaza Grande",
       "Parque de Santa Lucía",
-      "Palacio de la Música",
       "Gran Hotel de Mérida",
       "Jose Peon Contreras Theater",
       "Autonomous University of Yucatan",
+      "The rectory Jesus (Third Order)",
       "Walking tour",
       "Guide",
       "and more..."
@@ -3156,19 +3162,9 @@
         "googlePlaceId": "ChIJ2drQLmJxVo8RvqnuL_izkJQ"
       },
       {
-        "id": 11138,
-        "title": "Plaza Grande",
-        "googlePlaceId": "ChIJw9QPPGJxVo8R4t89L2PCQto"
-      },
-      {
         "id": 11990,
         "title": "Parque de Santa Lucía",
         "googlePlaceId": "ChIJySogAmFxVo8Rxkkp6OGhQgM"
-      },
-      {
-        "id": 3639,
-        "title": "Palacio de la Música",
-        "googlePlaceId": "ChIJdfpoaGFxVo8RFMNFg45baP4"
       },
       {
         "id": 3587,
@@ -3184,6 +3180,11 @@
         "id": 7800,
         "title": "Autonomous University of Yucatan",
         "googlePlaceId": "ChIJo0Y6pV5xVo8RlVP7jSdyJwM"
+      },
+      {
+        "id": 17022,
+        "title": "The rectory Jesus (Third Order)",
+        "googlePlaceId": "ChIJu1Q8eGFxVo8R7zhiRPdZrQ8"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-04.jpg",
@@ -3194,12 +3195,24 @@
         "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-04.jpg"
       },
       {
+        "id": 301406,
+        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-02.jpg"
+      },
+      {
         "id": 165970,
         "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-29.jpg"
       },
       {
-        "id": 63783,
-        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-10.jpg"
+        "id": 301407,
+        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-12.jpg"
+      },
+      {
+        "id": 165971,
+        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-30.jpg"
+      },
+      {
+        "id": 165965,
+        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-07.jpg"
       },
       {
         "id": 165968,
@@ -3210,20 +3223,12 @@
         "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-01.jpg"
       },
       {
-        "id": 165971,
-        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-30.jpg"
+        "id": 63783,
+        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-10.jpg"
       },
       {
         "id": 165964,
         "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-06.jpg"
-      },
-      {
-        "id": 64024,
-        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-12.jpg"
-      },
-      {
-        "id": 165965,
-        "URL": "https://www.freetour.com/images/tours/16486/free-walking-tour-merida-estacion-mexico-07.jpg"
       },
       {
         "id": 254177,
@@ -3248,11 +3253,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 340
+    "reviewsNumber": 342
   },
   {
     "id": 20145,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Secrets and Nooks of the Basilica of Guadalupe",
       "es": "Secretos y Rincones de la Basílica de Guadalupe",
@@ -3370,11 +3375,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 5
+    "reviewsNumber": 7
   },
   {
     "id": 27753,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Walking Tour Guadalajara",
       "es": "Recorrido Gratuito Guadalajara",
@@ -3498,7 +3503,7 @@
   },
   {
     "id": 28415,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kayak Adventure: Mangroves and Hidden Beach",
       "es": "Aventura en Kayak: Manglares y Playa Oculta",
@@ -3594,7 +3599,7 @@
   },
   {
     "id": 28715,
-    "updatedAt": "2025-12-01 01:06:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Street Food & Bar Crawl in Mexico City Tour",
       "es": "Tour privado de comida callejera y bares en Ciudad de México",
@@ -3709,7 +3714,7 @@
   },
   {
     "id": 28716,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Walking Tour of Basilica de Guadalupe in Mexico City",
       "es": "Visita privada a pie a la Basílica de Guadalupe en Ciudad de México",
@@ -3798,7 +3803,7 @@
   },
   {
     "id": 28748,
-    "updatedAt": "2025-12-01 01:06:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private History & Food Tour of Condesa & Roma Districts in Mexico City",
       "es": "Recorrido gastronómico e histórico privado por los barrios de Condesa y Roma en Ciudad de México",
@@ -3878,7 +3883,7 @@
   },
   {
     "id": 28749,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of Chapultepec Castle in Mexico City",
       "es": "Visita privada al Castillo de Chapultepec en Ciudad de México",
@@ -4007,7 +4012,7 @@
   },
   {
     "id": 28750,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private History & Food Tour of Coyoacan Neighborhood in Mexico City",
       "es": "Tour Privado de Historia y Gastronomía por el Barrio de Coyoacán en la Ciudad de México",
@@ -4172,7 +4177,7 @@
   },
   {
     "id": 28751,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tacos & History Tour of the Historic Center of Mexico City",
       "es": "Tour Privado de Tacos e Historia por el Centro Histórico de la Ciudad de México",
@@ -4293,7 +4298,7 @@
   },
   {
     "id": 30967,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of the National Museum of Anthropology in Mexico City",
       "es": "Visita privada al Museo Nacional de Antropología de Ciudad de México",
@@ -4472,7 +4477,7 @@
   },
   {
     "id": 31587,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mexico City Market tour (by Walk / Private 4 h)",
       "es": "Tour por el Mercado de la Ciudad de México (a pie / Privado 4 h)",
@@ -4600,7 +4605,7 @@
   },
   {
     "id": 33522,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Transportation Service in Puerto Escondido from (PXM) Airport",
       "es": "Servicio de Transporte Privado en Pto Escondido Desde Aeropuerto PXM",
@@ -4704,7 +4709,7 @@
   },
   {
     "id": 33542,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Make Your Own Craft in Hidalgo",
       "es": "Haz Tu Propia Artesanía en Hidalgo",
@@ -4811,7 +4816,7 @@
   },
   {
     "id": 33544,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Thermal Paradise of Grutas de Tolantongo Experience",
       "es": "Paraíso Termal de Las Grutas de Tolantongo",
@@ -4922,7 +4927,7 @@
   },
   {
     "id": 35938,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Zona Rosa, Independence Angel and Chapultepec: Reforma’s highlights",
       "es": "Zona Rosa, Ángel de la Independencia y Chapultepec: Lo más destacado de Reforma",
@@ -5054,11 +5059,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=bGC2k3mgEFo",
     "rating": 4.92,
-    "reviewsNumber": 142
+    "reviewsNumber": 144
   },
   {
     "id": 36194,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour in Valladolid",
       "es": "Free Tour en Valladolid",
@@ -5176,11 +5181,11 @@
     ],
     "videoURL": null,
     "rating": 4.62,
-    "reviewsNumber": 261
+    "reviewsNumber": 264
   },
   {
     "id": 37112,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Discover Mexico Through its Murals",
       "es": "Descubre México a través de sus murales",
@@ -5284,7 +5289,7 @@
   },
   {
     "id": 37530,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Day of the Dead - How is it Celebrated?",
       "es": "Día de los Muertos - ¿Cómo se celebra?",
@@ -5390,7 +5395,7 @@
   },
   {
     "id": 38193,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Guadalajara's History and Culture",
       "es": "Free Tour por la Historia y la Cultura de Guadalajara",
@@ -5558,7 +5563,7 @@
   },
   {
     "id": 40500,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Walking Tour: The Stones Speak in Nahuatl & Baroque Spanish",
       "es": "Walking Tour: Las Piedras Hablan en Nahuatl y Español Barroco",
@@ -5694,7 +5699,7 @@
   },
   {
     "id": 40980,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Puebla Center Free Tour",
       "es": "Free Tour por el Centro de Puebla",
@@ -5818,7 +5823,7 @@
   },
   {
     "id": 41223,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mexico Social and Political Tour",
       "es": "Gira social y política por México",
@@ -5906,7 +5911,7 @@
   },
   {
     "id": 41643,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Exploring The Other Side of Mexico City from a Cable Car",
       "es": "Conoce la Otra Ciudad de México en Teleférico",
@@ -5986,7 +5991,7 @@
   },
   {
     "id": 42193,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cenotes By Bike Plus Mayan Style Cooking Tulum",
       "es": "Cenotes en Bicicleta y Cocina al Estilo Maya en Tulum",
@@ -6169,7 +6174,7 @@
   },
   {
     "id": 42396,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Get to Know the Nooks & Crannies of Downtown Valle de Bravo",
       "es": "Conoce los Rincones del Centro de Valle de Bravo",
@@ -6257,7 +6262,7 @@
   },
   {
     "id": 42606,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour: Basilica of Guadalupe: The Miracle of Tepeyac",
       "es": "Visita a pie: Basílica de Guadalupe: El Milagro del Tepeyac",
@@ -6421,7 +6426,7 @@
   },
   {
     "id": 42852,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Cable Car &amp; Urban Art: Free Tour of Mexico City",
       "es": "Teleférico y Arte Urbano: Free Tour de la Ciudad de Mexico",
@@ -6526,12 +6531,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.73,
-    "reviewsNumber": 72
+    "rating": 4.72,
+    "reviewsNumber": 77
   },
   {
     "id": 42968,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cultural Tour of San Cristobal de las Casas",
       "es": "Tour Cultural por San Cristobal de las Casas",
@@ -6622,7 +6627,7 @@
   },
   {
     "id": 43550,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Golden Hour in Guadalajara: Free Tour",
       "es": "Hora Dorada en Guadalajara: Free Tour",
@@ -6766,7 +6771,7 @@
   },
   {
     "id": 43668,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cancun Airport Transportation",
       "es": "Transporte Aeropuerto Cancun",
@@ -6857,7 +6862,7 @@
   },
   {
     "id": 43703,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Adventure Tour in Cancun",
       "es": "Excursión de aventura en Cancún",
@@ -6950,7 +6955,7 @@
   },
   {
     "id": 43869,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour to the City Guanajuato",
       "es": "Tour Gratis a la Ciudad Guanajuato",
@@ -7058,7 +7063,7 @@
   },
   {
     "id": 45663,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lucha Libre Tour with Tacos & Mezcal",
       "es": "Tour de Lucha Libre con Tacos y Mezcal",
@@ -7192,7 +7197,7 @@
   },
   {
     "id": 46424,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Downtown Free Walking Tour in Campeche",
       "es": "Paseo gratuito por el centro de Campeche",
@@ -7309,12 +7314,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.61,
-    "reviewsNumber": 86
+    "rating": 4.62,
+    "reviewsNumber": 87
   },
   {
     "id": 46840,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Eco Tourism in San Luis Potosi",
       "es": "Ecoturismo en San Luis Potosí",
@@ -7403,14 +7408,14 @@
   },
   {
     "id": 47537,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
-      "en": "Paseo Montejo, The Only Walking Tour Across this Beautiful Avenue",
-      "es": "Paseo Montejo, el único recorrido a pie por esta bella avenida",
-      "pt": "Paseo Montejo, o único passeio a pé por esta bela avenida",
-      "de": "Paseo Montejo, der einzige Rundgang durch diese wunderschöne Straße",
-      "fr": "Paseo Montejo, la seule visite à pied de cette belle avenue",
-      "it": "Paseo Montejo, l'unico tour a piedi attraverso questo bellissimo viale"
+      "en": "Paseo Montejo in Merida Free Tour",
+      "es": "Paseo Montejo en Mérida Recorrido gratuito",
+      "pt": "Paseo Montejo em Mérida Free Tour",
+      "de": "Paseo Montejo in Merida Kostenlose Tour",
+      "fr": "Paseo Montejo à Mérida Visite libre",
+      "it": "Paseo Montejo a Merida Tour gratuito"
     },
     "brief": {
       "de": "Schlendern Sie den Paseo Montejo entlang, eine historische Allee in Mérida, die von eleganten Herrenhäusern gesäumt ist, die die reiche Geschichte und kulturelle Vielfalt der Stadt widerspiegeln. Entdecken Sie lebendige Märkte, verschiedene Restaurants und Boutiquen und tauchen Sie in die Traditionen Yucatáns ein.",
@@ -7421,12 +7426,12 @@
       "pt": "Passeie pelo Paseo Montejo, uma avenida histórica em Mérida, ladeada por elegantes mansões que reflectem a sua rica história e fusão cultural. Explore mercados vibrantes, restaurantes diversificados e boutiques, mergulhando nas tradições de Yucatán."
     },
     "description": {
-      "de": "Tauchen Sie bei einem gemütlichen Spaziergang über den Paseo Montejo in den bezaubernden Charme von Mérida ein. Diese historische Allee zeigt eine Fülle architektonischer Wunderwerke, die die reiche Geschichte der Stadt und die kulturelle Verschmelzung widerspiegeln. Bewundern Sie die eleganten Herrenhäuser, die von den Stilen des Neoklassizismus, der Renaissance und des Art déco beeinflusst sind und deren Geschichte bis in die Zeit des Henequén-Handels zurückreicht. \r\n\r\nDer Paseo Montejo ist nicht nur ein optischer Leckerbissen, sondern auch ein kulturelles Zentrum mit vielfältigen gastronomischen Angeboten, Boutiquen und Museen, die den Kontrast zwischen der Moderne und dem pulsierenden Leben in Yucatán veranschaulichen. \r\n\r\nNehmen Sie an unserem kostenlosen Rundgang teil, um mehr über die Geschichte, Kunst und Traditionen des Paseo Montejo zu erfahren und Mérida wie ein Einheimischer zu erleben",
-      "en": "Immerse yourself in the captivating charm of Mérida through a leisurely walk across Paseo Montejo. This historic avenue showcases a wealth of architectural marvels, reflecting the city's rich history and cultural fusion. Admire the elegant mansions, influenced by neoclassical, Renaissance, and Art Deco styles, each with its unique story harkening back to the henequén trade era. \r\n\r\nPaseo Montejo is not only a visual delight but also a cultural hub, offering diverse dining options, boutique shopping, and museums that showcase the contrast between modernity and the vibrant life of Yucatán. \r\n\r\nJoin our Free Walking Tour to delve deeper into the history, art, and traditions of Paseo Montejo and experience Mérida like a local",
-      "es": "Sumérjase en el cautivador encanto de Mérida a través de un tranquilo paseo por el Paseo Montejo. Esta histórica avenida exhibe una gran riqueza de maravillas arquitectónicas, reflejo de la rica historia y fusión cultural de la ciudad. Admire las elegantes mansiones, influenciadas por los estilos neoclásico, renacentista y art déco, cada una con una historia única que se remonta a la época del comercio henequén. \r\n\r\nEl Paseo Montejo no es sólo un deleite visual, sino también un centro cultural, que ofrece diversas opciones gastronómicas, tiendas boutique y museos que muestran el contraste entre la modernidad y la vibrante vida de Yucatán. \r\n\r\nÚnete a nuestro recorrido a pie gratuito para profundizar en la historia, el arte y las tradiciones del Paseo Montejo y vive Mérida como un lugareño más",
-      "fr": "Plongez dans le charme captivant de Mérida en vous promenant tranquillement sur le Paseo Montejo. Cette avenue historique présente une multitude de merveilles architecturales, reflet de la riche histoire de la ville et de sa fusion culturelle. Admirez les élégantes demeures, influencées par les styles néoclassique, Renaissance et Art déco, chacune avec son histoire unique qui remonte à l'époque du commerce du henequén. \r\n\r\nLe Paseo Montejo n'est pas seulement un plaisir pour les yeux, c'est aussi un centre culturel qui offre de nombreuses possibilités de restauration, des boutiques et des musées qui mettent en valeur le contraste entre la modernité et la vie animée du Yucatán. \r\n\r\nParticipez à notre visite à pied gratuite pour découvrir l'histoire, l'art et les traditions du Paseo Montejo et vivez Mérida comme un habitant",
-      "it": "Immergetevi nel fascino accattivante di Mérida attraverso una piacevole passeggiata sul Paseo Montejo. Questo viale storico è ricco di meraviglie architettoniche che riflettono la ricca storia e la fusione culturale della città. Ammirate gli eleganti palazzi, influenzati dagli stili neoclassico, rinascimentale e Art Déco, ognuno con una storia unica che risale all'epoca del commercio dell'henequén. \r\n\r\nIl Paseo Montejo non è solo una delizia visiva, ma anche un centro culturale che offre diversi punti di ristoro, boutique e musei che mostrano il contrasto tra la modernità e la vita vibrante dello Yucatán. \r\n\r\nUnitevi al nostro tour a piedi gratuito per approfondire la storia, l'arte e le tradizioni del Paseo Montejo e vivere Mérida come un abitante del luogo",
-      "pt": "Mergulhe no charme cativante de Mérida através de um passeio pelo Paseo Montejo. Esta avenida histórica apresenta uma riqueza de maravilhas arquitectónicas, reflectindo a rica história e a fusão cultural da cidade. Admire as elegantes mansões, influenciadas pelos estilos neoclássico, renascentista e Art Deco, cada uma com a sua história única que remonta à era do comércio do henequén. \r\n\r\nO Paseo Montejo não é apenas um deleite visual, mas também um centro cultural, oferecendo diversas opções de restaurantes, boutiques e museus que mostram o contraste entre a modernidade e a vida vibrante de Yucatán. \r\n\r\nJunte-se à nossa excursão a pé gratuita para se aprofundar na história, arte e tradições do Paseo Montejo e viver Mérida como um local"
+      "de": "Begleiten Sie uns auf einen Spaziergang entlang des Paseo de Montejo, der von lokalen Führern geleitet wird, die Ihnen die Geschichte und die wichtigsten Sehenswürdigkeiten dieser symbolträchtigen Straße von Mérida näher bringen.\r\nDer Rundgang beginnt am Denkmal für Montejo und seinen Sohn, einem wichtigen Punkt, um die Ursprünge der Stadt zu verstehen. Dann geht es weiter zu den Zwillingshäusern, zwei Wohnhäusern, die für ihre Symmetrie und Präsenz im Stadtbild bekannt sind.\r\nWeiter geht es zum Felipe-Carrillo-Puerto-Denkmal, wo Sie etwas über das Leben und das Vermächtnis einer zentralen Figur der Geschichte Yucatáns erfahren. Etwas weiter entfernt befindet sich das Herrenhaus El Minaret, das für sein Design und seinen einzigartigen Turm bekannt ist.\r\nAuf dem Programm steht auch ein Besuch des Anthropologischen Museums, das einen Einblick in das kulturelle Erbe der Region bietet, sowie der Quinta Montes Molina, einer historischen Residenz, die die Atmosphäre der Vergangenheit von Mérida bewahrt.\r\nDanach geht es weiter zum Justo-Sierra-Denkmal und schließlich zum Vaterlandsdenkmal, einem der bekanntesten Symbole des Paseo de Montejo.\r\n\r\n\r\nEin Spaziergang mit gutem Tempo, der Ihnen hilft, die Stadt mit dem Kontext, der örtlichen Führung und einem umfassenden Blick auf ihr Erbe zu entdecken.",
+      "en": "Join us for a walking tour  along Paseo de Montejo, led by local guides who will share the history and key landmarks of this emblematic avenue in Mérida.\r\nThe tour begins at the Monument to Montejo and Son, an important point for understanding the city’s origins. We then continue to the Twin Houses, two residences known for their symmetry and presence within the urban landscape.\r\nOur route moves on to the Monument to Felipe Carrillo Puerto, where you will learn about the life and legacy of a central figure in Yucatán’s history. A little farther ahead is El Minaret Mansion, a distinctive site recognized for its design and unique tower.\r\nThe tour includes a stop at the Museum of Anthropology, offering insight into the region’s cultural heritage, as well as the Quinta Montes Molina, a historic residence that preserves the atmosphere of Mérida’s past.\r\nWe will then head toward the Monument to Justo Sierra and finish at the Monument to the Fatherland, one of the most recognized symbols of Paseo de Montejo.\r\n\r\n\r\nA well-paced walk designed to help you discover the city with context, local guidance, and a comprehensive view of its heritage.",
+      "es": "Acompáñanos en un recorrido a pie por el Paseo de Montejo, de la mano de guías locales que compartirán la historia y los hitos clave de esta emblemática avenida de Mérida.\r\nEl recorrido comienza en el Monumento a Montejo e Hijo, un punto importante para entender los orígenes de la ciudad. Continuamos hacia las Casas Gemelas, dos residencias conocidas por su simetría y presencia dentro del paisaje urbano.\r\nNuestro recorrido continúa hacia el Monumento a Felipe Carrillo Puerto, donde conocerá la vida y legado de un personaje central en la historia de Yucatán. Un poco más adelante se encuentra la Mansión El Alminar, sitio distintivo reconocido por su diseño y singular torre.\r\nEl recorrido incluye una parada en el Museo de Antropología, que ofrece una visión del patrimonio cultural de la región, así como la Quinta Montes Molina, una residencia histórica que conserva la atmósfera del pasado de Mérida.\r\nDespués nos dirigiremos hacia el Monumento a Justo Sierra y terminaremos en el Monumento a la Patria, uno de los símbolos más reconocidos del Paseo de Montejo.\r\n\r\n\r\nUn paseo a buen ritmo diseñado para descubrir la ciudad con contexto, guía local y una visión completa de su patrimonio.",
+      "fr": "Rejoignez-nous pour une visite à pied le long du Paseo de Montejo, menée par des guides locaux qui partageront l'histoire et les principaux points de repère de cette avenue emblématique de Mérida.\r\nLa visite commence par le Monument à Montejo et Fils, un point important pour comprendre les origines de la ville. Nous continuerons ensuite vers les Maisons Jumelles, deux résidences connues pour leur symétrie et leur présence dans le paysage urbain.\r\nNous nous dirigeons ensuite vers le monument à Felipe Carrillo Puerto, où nous découvrons la vie et l'héritage d'un personnage central de l'histoire du Yucatán. Un peu plus loin se trouve le manoir El Minaret, un site distinctif reconnu pour son design et sa tour unique.\r\nLa visite comprend un arrêt au musée d'anthropologie, qui offre un aperçu du patrimoine culturel de la région, ainsi qu'à la Quinta Montes Molina, une résidence historique qui préserve l'atmosphère du passé de Mérida.\r\nNous nous dirigerons ensuite vers le monument à Justo Sierra et terminerons par le monument à la patrie, l'un des symboles les plus connus du Paseo de Montejo.\r\n\r\n\r\nUne promenade bien rythmée conçue pour vous aider à découvrir la ville dans son contexte, avec des conseils locaux et une vue d'ensemble de son patrimoine.",
+      "it": "Unitevi a noi in un tour a piedi lungo il Paseo de Montejo, condotto da guide locali che vi illustreranno la storia e i principali punti di riferimento di questo viale emblematico di Mérida.\r\nIl tour inizia dal Monumento a Montejo e Figlio, un punto importante per comprendere le origini della città. Si prosegue poi con le Case Gemelle, due residenze note per la loro simmetria e presenza nel paesaggio urbano.\r\nIl nostro percorso si sposta al Monumento a Felipe Carrillo Puerto, dove potrete conoscere la vita e l'eredità di una figura centrale nella storia dello Yucatán. Poco più avanti si trova El Minaret Mansion, un sito caratteristico riconosciuto per il suo design e la sua torre unica.\r\nIl tour prevede una sosta al Museo di Antropologia, che offre una panoramica del patrimonio culturale della regione, e alla Quinta Montes Molina, una residenza storica che conserva l'atmosfera del passato di Mérida.\r\nCi dirigeremo poi verso il Monumento a Justo Sierra e termineremo al Monumento alla Patria, uno dei simboli più riconosciuti del Paseo de Montejo.\r\n\r\n\r\nUna passeggiata di buon passo, pensata per farvi scoprire la città con un contesto, una guida locale e una visione completa del suo patrimonio.",
+      "pt": "Junte-se a nós para um passeio a pé pelo Paseo de Montejo, conduzido por guias locais que partilharão a história e os principais marcos desta avenida emblemática de Mérida.\r\nO passeio começa no Monumento a Montejo e Filho, um ponto importante para compreender as origens da cidade. Seguimos depois para as Casas Gémeas, duas residências conhecidas pela sua simetria e presença na paisagem urbana.\r\nO nosso percurso continua até ao Monumento a Felipe Carrillo Puerto, onde se conhecerá a vida e o legado de uma figura central da história de Yucatán. Um pouco mais adiante, encontra-se a Mansão El Minarete, um local distinto, reconhecido pelo seu design e torre única.\r\nA visita inclui uma paragem no Museu de Antropologia, que permite conhecer o património cultural da região, bem como a Quinta Montes Molina, uma residência histórica que conserva a atmosfera do passado de Mérida.\r\nSeguiremos depois em direção ao Monumento a Justo Sierra e terminaremos no Monumento à Pátria, um dos símbolos mais reconhecidos do Paseo de Montejo.\r\n\r\n\r\nUm passeio bem ritmado, concebido para o ajudar a descobrir a cidade com contexto, orientação local e uma visão abrangente do seu património."
     },
     "providerTitle": "Estación",
     "providerPhone": "+525575051530",
@@ -7446,55 +7451,22 @@
     "length": "2:00",
     "meetingPoint": {
       "title": "Glorieta Monumento A Los Conquistadores y Fundadores de la blanca Mérida",
-      "coordinates": "20.97536772846868,-89.619409309787",
+      "coordinates": "20.975315031405692,-89.61963057518005",
       "googlePlaceId": "ChIJ9ZvOpF5xVo8RcayhBxa7E9E"
     },
     "cityId": 2937,
     "countryId": 99,
     "includes": [
-      "Monument to the Montejo",
-      "Merida Yucatan. Central Park",
-      "Peon de Regil Vega y Asociados SCP",
-      "Monument to Felipe Carrillo Puerto",
-      "Casas gemelas",
-      "MONUMENT JUSTO SIERRA",
       "Monumento a La Patria",
       "El Minaret",
       "Quinta Montes Molina",
+      "Monument to the Montejo",
+      "Monument to Felipe Carrillo Puerto",
+      "MONUMENT JUSTO SIERRA",
       "Walking tour",
       "Guide"
     ],
     "POIs": [
-      {
-        "id": 16203,
-        "title": "Monument to the Montejo",
-        "googlePlaceId": "ChIJ__9j6V1xVo8RceglyHPaaNU"
-      },
-      {
-        "id": 16204,
-        "title": "Merida Yucatan. Central Park",
-        "googlePlaceId": "ChIJo5Spz6VxVo8RYlRYoJmjUBI"
-      },
-      {
-        "id": 16251,
-        "title": "Peon de Regil Vega y Asociados SCP",
-        "googlePlaceId": "ChIJ_66jeVtxVo8RNpqJsLm_weg"
-      },
-      {
-        "id": 16249,
-        "title": "Monument to Felipe Carrillo Puerto",
-        "googlePlaceId": "ChIJ01lKn1txVo8RXjg2q3c0hrY"
-      },
-      {
-        "id": 16248,
-        "title": "Casas gemelas",
-        "googlePlaceId": "ChIJba1JLNZxVo8R8RfI93eU79k"
-      },
-      {
-        "id": 16253,
-        "title": "MONUMENT JUSTO SIERRA",
-        "googlePlaceId": "ChIJlzvZglpxVo8RK7N6l2IEVW0"
-      },
       {
         "id": 16254,
         "title": "Monumento a La Patria",
@@ -7509,6 +7481,21 @@
         "id": 16252,
         "title": "Quinta Montes Molina",
         "googlePlaceId": "ChIJZzHOV1pxVo8RgLOWCB9zi9s"
+      },
+      {
+        "id": 16203,
+        "title": "Monument to the Montejo",
+        "googlePlaceId": "ChIJ__9j6V1xVo8RceglyHPaaNU"
+      },
+      {
+        "id": 16249,
+        "title": "Monument to Felipe Carrillo Puerto",
+        "googlePlaceId": "ChIJ01lKn1txVo8RXjg2q3c0hrY"
+      },
+      {
+        "id": 16253,
+        "title": "MONUMENT JUSTO SIERRA",
+        "googlePlaceId": "ChIJlzvZglpxVo8RK7N6l2IEVW0"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-14.jpg",
@@ -7519,20 +7506,24 @@
         "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-14.jpg"
       },
       {
-        "id": 158152,
-        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-06.jpg"
+        "id": 301405,
+        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-05.jpg"
       },
       {
-        "id": 158155,
-        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-09.jpg"
+        "id": 301404,
+        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-04.jpg"
       },
       {
-        "id": 158158,
-        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-12.jpg"
+        "id": 301403,
+        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-03.jpg"
       },
       {
-        "id": 158159,
-        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-13.jpg"
+        "id": 301402,
+        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-02.jpg"
+      },
+      {
+        "id": 301401,
+        "URL": "https://www.freetour.com/images/tours/47537/free-tour-across-the-beautiful-paseo-montejo-01.jpg"
       }
     ],
     "videoURL": null,
@@ -7541,7 +7532,7 @@
   },
   {
     "id": 47723,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cenote Experience",
       "es": "Experiencia en cenotes",
@@ -7618,7 +7609,7 @@
   },
   {
     "id": 48592,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 14:07:03",
     "title": {
       "en": "Free Tour of Merida Through Time",
       "es": "Free Tour por Mérida a Través del Tiempo",
@@ -7751,12 +7742,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.76,
-    "reviewsNumber": 68
+    "rating": 4.77,
+    "reviewsNumber": 69
   },
   {
     "id": 50222,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Architecture Tour of Guadalajara's Bohemian Quarter",
       "es": "Free Tour de Arquitectura por el Barrio Bohemio de Guadalajara",
@@ -7878,7 +7869,7 @@
   },
   {
     "id": 51012,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Historical and Archaeological Secrets of the CDMX Free Tour",
       "es": "Secretos Históricos y Arqueológicos de la CDMX Free Tour",
@@ -8025,7 +8016,7 @@
   },
   {
     "id": 51254,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Coyoacán: Frida Kahlo, Markets & Urban Art",
       "es": "Coyoacán: Frida Kahlo, mercados y arte urbano",
@@ -8158,7 +8149,7 @@
   },
   {
     "id": 52096,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tepito: History and Tradition",
       "es": "Tepito: Historia y Tradición",
@@ -8256,7 +8247,7 @@
   },
   {
     "id": 52146,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Playa del Carmen: the Sunrise",
       "es": "Free Tour Playa del Carmen: el Amanecer",
@@ -8362,7 +8353,7 @@
   },
   {
     "id": 52357,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cenotes Excursion",
       "es": "Excursión a los Cenotes",
@@ -8436,7 +8427,7 @@
   },
   {
     "id": 52513,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Queretaro Tour Guide",
       "es": "Guía de Querétaro",
@@ -8509,7 +8500,7 @@
   },
   {
     "id": 52566,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Mazatlán by Pulmonia",
       "es": "Descubre Mazatlán de la mano de Pulmonia",
@@ -8613,7 +8604,7 @@
   },
   {
     "id": 53938,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Creative Meetings",
       "es": "Encuentros Creativos",
@@ -8756,7 +8747,7 @@
   },
   {
     "id": 54166,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pyramids of Teotihuacan and Basilica of Guadalupe",
       "es": "Pirámides de Teotihuacán y Basílica de Guadalupe",
@@ -8909,7 +8900,7 @@
   },
   {
     "id": 54359,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mexico City Tour: La Merced & Sonora Market with Tastings",
       "es": "Tour Ciudad de México: La Merced y Mercado de Sonora con Degustaciones",
@@ -9067,7 +9058,7 @@
   },
   {
     "id": 54603,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cozumel: History and Nature (From Cozu)",
       "es": "Descubre Cozumel: Historia y Naturaleza (From Cozu)",
@@ -9164,7 +9155,7 @@
   },
   {
     "id": 54813,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Creative Free Tour in Mazatlan",
       "es": "Free Tour Creativo en Mazatlan",
@@ -9246,7 +9237,7 @@
   },
   {
     "id": 55120,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chapultepec Castle Tour: Imperial Palace of Maximilian of Habsburg",
       "es": "Visita al Castillo de Chapultepec: Palacio Imperial de Maximiliano de Habsburgo",
@@ -9428,7 +9419,7 @@
   },
   {
     "id": 55273,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Explore Downtown: From the Aztecs to Modern Mexico",
       "es": "Explora el centro de la ciudad: De los aztecas al México moderno",
@@ -9550,7 +9541,7 @@
   },
   {
     "id": 56625,
-    "updatedAt": "2025-12-01 20:07:13",
+    "updatedAt": "2025-12-11 05:01:53",
     "title": {
       "en": "Discover the Heroic City: Free Tour Valladolid",
       "es": "Descubre la Ciudad Heroica: Free Tour Valladolid",
@@ -9568,12 +9559,12 @@
       "pt": "participe no nosso passeio histórico-cultural. Explore o antigo convento de San Bernardino e a igreja de San Servacio enquanto mergulha na fascinante história cultural da região Maia - uma experiência perfeita para os amantes da história!"
     },
     "description": {
-      "de": "Anhand von Kunstwerken und emblematischen Denkmälern werden wir Jahrhunderte zurückreisen und etwas über das Leben der Maya in Valladolid, die Eroberung der Stadt und ihre Beteiligung an historischen Ereignissen von nationaler Bedeutung wie dem \"Kastenkrieg\" und der mexikanischen Sozialrevolution erfahren.\r\n\r\nKommen Sie und genießen Sie mit mir diese Tour, die für Geschichts- und Kulturliebhaber perfekt geeignet ist und für die ich mich sehr interessiere.\r\n\r\nIch kann Ihnen auch dabei helfen, weitere interessante Orte in Valladolid und Umgebung zu finden. \r\n\r\nTreffpunkt H. Ayuntamiento de Valladolid.\r\n\r\nHINWEIS:\r\n Der Großteil der Tour findet im Saal der Wandmalereien des H. Ayuntamiento statt und endet im Hauptpark. Natürlich können je nach Verfügbarkeit der Gruppe und des Fremdenführers auch andere Orte besucht werden.\r\n\r\nWICHTIG!\r\nDie Führungen können am selben Tag der Aktivität gebucht werden, jedoch mindestens 1 Stunde im Voraus, um pünktlich am Treffpunkt zu sein und \"No-Shows\" zu vermeiden.",
-      "en": "Through art and emblematic monuments we will travel back centuries to learn about pre-Hispanic Mayan life in Valladolid, its conquest and its participation in historical events of national importance such as the \"Caste War\" and the Mexican Social Revolution.\r\n\r\nCome and enjoy with me this tour that I am so passionate about, perfect for history and culture lovers.\r\n\r\nI can also help you find more places of interest in Valladolid and its surroundings. \r\n\r\nMeeting point H. City Hall of Valladolid.\r\n\r\nNOTE:\r\n Most of the tour takes place in the hall of the murals of the H. Ayuntamiento and ends in the main park. Of course, more sites could be visited depending on the availability of the group and the guide.\r\n\r\nIMPORTANT:\r\nTours can be booked the same day of the activity but with a minimum of 1 hour in advance in order to arrive on time at the meeting point and avoid \"no-shows\".",
-      "es": "A través de arte y monumentos emblemáticos nos trasladaremos unos siglos atrás para conocer la vida maya prehispánica de Valladolid, su conquista y su participación en sucesos históricos de trascendencia nacional como la \"guerra de castas\" y la revolución social mexicana\".\r\n\r\nVen y disfruta conmigo de este tour que tanto me apasiona realizar, perfecto para los amantes de la historia y la cultura.\r\n\r\nTambién puedo ayudarte a encontrar más sitios de interés en Valladolid y sus alrededores. \r\n\r\nPunto de reunión H. Ayuntamiento de Valladolid.\r\n\r\nNOTA:\r\n La mayor parte del tour se realiza en el salón de los murales del H. Ayuntamiento y finaliza en el parque principal. Por supuesto, se podrían visitar más sitios dependiendo de la disponibilidad del grupo y del guía.\r\n\r\nIMPORTANTE:\r\nLos tours pueden ser reservados el mismo día de la actividad pero con un mínimo de 1 hora de anticipación para poder llegar a tiempo al punto de reunión y evitar “no-shows”.",
-      "fr": "À travers l'art et les monuments emblématiques, nous voyagerons des siècles en arrière pour découvrir la vie maya préhispanique à Valladolid, sa conquête et sa participation à des événements historiques d'importance nationale tels que la \"guerre des castes\" et la révolution sociale mexicaine.\r\n\r\nVenez profiter avec moi de cette visite qui me passionne, idéale pour les amateurs d'histoire et de culture.\r\n\r\nJe peux également vous aider à trouver d'autres lieux d'intérêt à Valladolid et dans ses environs. \r\n\r\nPoint de rencontre H. Ayuntamiento de Valladolid.\r\n\r\nREMARQUE :\r\n La majeure partie de la visite se déroule dans la salle des peintures murales du H. Ayuntamiento et se termine dans le parc principal. Bien entendu, d'autres sites peuvent être visités en fonction de la disponibilité du groupe et du guide.\r\n\r\nIMPORTANT :\r\nLes visites peuvent être réservées le jour même de l'activité mais avec un minimum d'une heure d'avance afin d'arriver à l'heure au point de rendez-vous et d'éviter les \"no-shows\".",
-      "it": "Attraverso l'arte e i monumenti emblematici viaggeremo indietro nei secoli per conoscere la vita preispanica dei Maya a Valladolid, la sua conquista e la sua partecipazione a eventi storici di importanza nazionale come la \"Guerra delle Caste\" e la Rivoluzione Sociale Messicana.\r\n\r\nVenite a godervi con me questo tour che mi appassiona molto, perfetto per gli amanti della storia e della cultura.\r\n\r\nPosso anche aiutarvi a trovare altri luoghi di interesse a Valladolid e dintorni. \r\n\r\nPunto d'incontro H. Ayuntamiento de Valladolid.\r\n\r\nNOTA:\r\n La maggior parte del tour si svolge nella sala dei murales dell'H. Ayuntamiento e termina nel parco principale. Naturalmente si possono visitare altri siti a seconda della disponibilità del gruppo e della guida.\r\n\r\nIMPORTANTE:\r\nI tour possono essere prenotati il giorno stesso dell'attività, ma con un minimo di 1 ora di anticipo per arrivare in tempo al punto di incontro ed evitare \"no-show\".",
-      "pt": "Através da arte e de monumentos emblemáticos, viajaremos séculos atrás para conhecer a vida pré-hispânica maia em Valladolid, a sua conquista e a sua participação em acontecimentos históricos de importância nacional como a \"Guerra das Castas\" e a Revolução Social Mexicana.\r\n\r\nVenha e desfrute comigo deste passeio que me apaixona tanto, perfeito para os amantes da história e da cultura.\r\n\r\nTambém o posso ajudar a encontrar mais locais de interesse em Valladolid e nos seus arredores. \r\n\r\nPonto de encontro H. Ayuntamiento de Valladolid.\r\n\r\nNOTA:\r\n A maior parte do passeio tem lugar no salão dos murais do H. Ayuntamiento e termina no parque principal. É claro que se podem visitar mais sítios, dependendo da disponibilidade do grupo e do guia.\r\n\r\nIMPORTANTE:\r\nAs visitas podem ser reservadas no próprio dia da atividade, mas com um mínimo de 1 hora de antecedência, para chegar a tempo ao ponto de encontro e evitar \"no-shows\"."
+      "de": "Anhand von Kunstwerken und emblematischen Denkmälern werden wir Jahrhunderte zurückreisen und etwas über das Leben der Maya in Valladolid, die Eroberung der Stadt und ihre Beteiligung an historischen Ereignissen von nationaler Bedeutung wie dem \"Kastenkrieg\" und der mexikanischen Sozialrevolution erfahren.\r\n\r\nKommen Sie und genießen Sie mit mir diese Tour, die für Geschichts- und Kulturliebhaber perfekt geeignet ist und für die ich mich sehr interessiere.\r\n\r\nIch kann Ihnen auch dabei helfen, weitere interessante Orte in Valladolid und Umgebung zu finden. \r\n\r\nTreffpunkt H. Ayuntamiento de Valladolid.\r\n\r\nHINWEIS:\r\n Der Großteil der Tour findet im Saal der Wandmalereien des H. Ayuntamiento statt und endet im Hauptpark. Natürlich können je nach Verfügbarkeit der Gruppe und des Fremdenführers auch andere Orte besucht werden.\r\n\r\nWICHTIG!\r\nDie Führungen können am Tag der Aktivität gebucht werden, jedoch mindestens 2 Stunden im Voraus, um pünktlich am Treffpunkt zu sein und \"No-Shows\" zu vermeiden.",
+      "en": "Through art and emblematic monuments we will travel back centuries to learn about pre-Hispanic Mayan life in Valladolid, its conquest and its participation in historical events of national importance such as the \"Caste War\" and the Mexican Social Revolution.\r\n\r\nCome and enjoy with me this tour that I am so passionate about, perfect for history and culture lovers.\r\n\r\nI can also help you find more places of interest in Valladolid and its surroundings. \r\n\r\nMeeting point H. City Hall of Valladolid.\r\n\r\nNOTE:\r\n Most of the tour takes place in the hall of the murals of the H. Ayuntamiento and ends in the main park. Of course, more sites could be visited depending on the availability of the group and the guide.\r\n\r\nIMPORTANT:\r\nTours can be booked the same day of the activity but with a minimum of 2 hours in advance in order to arrive on time at the meeting point and avoid \"no-shows\".",
+      "es": "A través de arte y monumentos emblemáticos nos trasladaremos unos siglos atrás para conocer la vida maya prehispánica de Valladolid, su conquista y su participación en sucesos históricos de trascendencia nacional como la \"guerra de castas\" y la revolución social mexicana\".\r\n\r\nVen y disfruta conmigo de este tour que tanto me apasiona realizar, perfecto para los amantes de la historia y la cultura.\r\n\r\nTambién puedo ayudarte a encontrar más sitios de interés en Valladolid y sus alrededores. \r\n\r\nPunto de reunión H. Ayuntamiento de Valladolid.\r\n\r\nNOTA:\r\n La mayor parte del tour se realiza en el salón de los murales del H. Ayuntamiento y finaliza en el parque principal. Por supuesto, se podrían visitar más sitios dependiendo de la disponibilidad del grupo y del guía.\r\n\r\nIMPORTANTE:\r\nLos tours pueden ser reservados el mismo día de la actividad pero con un mínimo de 2 horas de anticipación para poder llegar a tiempo al punto de reunión y evitar “no-shows”.",
+      "fr": "À travers l'art et les monuments emblématiques, nous voyagerons des siècles en arrière pour découvrir la vie maya préhispanique à Valladolid, sa conquête et sa participation à des événements historiques d'importance nationale tels que la \"guerre des castes\" et la révolution sociale mexicaine.\r\n\r\nVenez profiter avec moi de cette visite qui me passionne, idéale pour les amateurs d'histoire et de culture.\r\n\r\nJe peux également vous aider à trouver d'autres lieux d'intérêt à Valladolid et dans ses environs. \r\n\r\nPoint de rencontre H. Ayuntamiento de Valladolid.\r\n\r\nREMARQUE :\r\n La majeure partie de la visite se déroule dans la salle des peintures murales du H. Ayuntamiento et se termine dans le parc principal. Bien entendu, d'autres sites peuvent être visités en fonction de la disponibilité du groupe et du guide.\r\n\r\nIMPORTANT :\r\nLes visites peuvent être réservées le jour même de l'activité mais avec un minimum de 2 heures d'avance afin d'arriver à l'heure au point de rendez-vous et d'éviter les \"no-shows\".",
+      "it": "Attraverso l'arte e i monumenti emblematici viaggeremo indietro nei secoli per conoscere la vita preispanica dei Maya a Valladolid, la sua conquista e la sua partecipazione a eventi storici di importanza nazionale come la \"Guerra delle Caste\" e la Rivoluzione Sociale Messicana.\r\n\r\nVenite a godervi con me questo tour che mi appassiona molto, perfetto per gli amanti della storia e della cultura.\r\n\r\nPosso anche aiutarvi a trovare altri luoghi di interesse a Valladolid e dintorni. \r\n\r\nPunto d'incontro H. Ayuntamiento de Valladolid.\r\n\r\nNOTA:\r\n La maggior parte del tour si svolge nella sala dei murales dell'H. Ayuntamiento e termina nel parco principale. Naturalmente si possono visitare altri siti a seconda della disponibilità del gruppo e della guida.\r\n\r\nIMPORTANTE:\r\nI tour possono essere prenotati il giorno stesso dell'attività, ma con un minimo di 2 ore di anticipo per arrivare in tempo al punto di incontro ed evitare \"no-show\".",
+      "pt": "Através da arte e de monumentos emblemáticos, viajaremos séculos atrás para conhecer a vida pré-hispânica maia em Valladolid, a sua conquista e a sua participação em acontecimentos históricos de importância nacional como a \"Guerra das Castas\" e a Revolução Social Mexicana.\r\n\r\nVenha e desfrute comigo deste passeio que me apaixona tanto, perfeito para os amantes da história e da cultura.\r\n\r\nTambém o posso ajudar a encontrar mais locais de interesse em Valladolid e nos seus arredores. \r\n\r\nPonto de encontro H. Ayuntamiento de Valladolid.\r\n\r\nNOTA:\r\n A maior parte do passeio tem lugar no salão dos murais do H. Ayuntamiento e termina no parque principal. É claro que se podem visitar mais sítios, dependendo da disponibilidade do grupo e do guia.\r\n\r\nIMPORTANTE:\r\nAs visitas podem ser reservadas no próprio dia da atividade, mas com um mínimo de 2 horas de antecedência para chegar a tempo ao ponto de encontro e evitar \"no-shows\"."
     },
     "providerTitle": "Joel Omar Chan Alcocer",
     "providerPhone": "9871179688",
@@ -9599,16 +9590,10 @@
     "cityId": 2975,
     "countryId": 99,
     "includes": [
-      "Oficina de Turismo de ValladolidMX",
       "Valladolid",
       "Salon de los murales del H. Ayuntamiento de Valladolid"
     ],
     "POIs": [
-      {
-        "id": 22863,
-        "title": "Oficina de Turismo de ValladolidMX",
-        "googlePlaceId": "ChIJl5aVWxYLUY8RdPtoY58yIL8"
-      },
       {
         "id": 22862,
         "title": "Valladolid",
@@ -9645,15 +9630,51 @@
       {
         "id": 293611,
         "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-08.jpg"
+      },
+      {
+        "id": 301559,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-01.jpg"
+      },
+      {
+        "id": 301560,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-03.jpg"
+      },
+      {
+        "id": 301561,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-04.jpg"
+      },
+      {
+        "id": 301562,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-05.jpg"
+      },
+      {
+        "id": 301563,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-06.jpg"
+      },
+      {
+        "id": 301564,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-07.jpg"
+      },
+      {
+        "id": 301565,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-09.jpg"
+      },
+      {
+        "id": 301566,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-10.jpg"
+      },
+      {
+        "id": 301567,
+        "URL": "https://www.freetour.com/images/tours/56625/descubre-la-ciudad-heroica-de-valladolid-11.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.3,
-    "reviewsNumber": 27
+    "rating": 4.24,
+    "reviewsNumber": 28
   },
   {
     "id": 57112,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour Tlaquepaque: The Most Mexican City",
       "es": "Free Tour Tlaquepaque: La Ciudad Más Mexicana",
@@ -9785,7 +9806,7 @@
   },
   {
     "id": 57115,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Colonia Americana: Modernity & Architecture of Guadalajara",
       "es": "Colonia Americana: Modernidad y Arquitectura de Guadalajara",
@@ -9934,7 +9955,7 @@
   },
   {
     "id": 57119,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour Historic Downtown: Everyday Life, Art & Gastronomy",
       "es": "Free Tour Centro Histórico: Vida Cotidiana, Arte y Gastronomía",
@@ -10099,7 +10120,7 @@
   },
   {
     "id": 57144,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of Guadalajara: History, Architecture and Art",
       "es": "Free Tour por Guadalajara: Historia, Arquitectura y Arte",
@@ -10252,11 +10273,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 9
+    "reviewsNumber": 10
   },
   {
     "id": 57804,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Historic Center, Top Sites & Hidden Gems",
       "es": "Centro histórico, lugares de interés y joyas ocultas",
@@ -10329,7 +10350,7 @@
   },
   {
     "id": 57921,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Walking Tour CDMX Historic Center + Museum + Tacos + Subway",
       "es": "Caminata Privada Centro Histórico CDMX + Museo + Tacos + Metro",
@@ -10471,7 +10492,7 @@
   },
   {
     "id": 58320,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Excursión to Playa del Carmen",
       "es": "Excursión a pie a Playa del Carmen",
@@ -10570,7 +10591,7 @@
   },
   {
     "id": 58325,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Maya Museum Ruins and Cenote Exploration",
       "es": "Ruinas del Museo Maya y Exploración de Cenotes",
@@ -10667,7 +10688,7 @@
   },
   {
     "id": 59371,
-    "updatedAt": "2025-12-01 22:14:02",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Cultural Free Tour of Puebla: Сity of Angels",
       "es": "Recorrido cultural gratuito por Puebla: Ciudad de los Ángeles",
@@ -10808,14 +10829,14 @@
   },
   {
     "id": 59372,
-    "updatedAt": "2025-12-01 21:49:01",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
-      "en": "Discover Cholula: Sacred City & Heritage Walking Tour",
-      "es": "Descubre Cholula: Paseo por la Ciudad Sagrada y su Patrimonio",
-      "pt": "Descobrir Cholula: Cidade Sagrada e excursão a pé pelo património",
-      "de": "Entdecken Sie Cholula: Heilige Stadt &amp; Heritage Walking Tour",
-      "fr": "Découvrez Cholula : Visite à pied de la ville sacrée et du patrimoine",
-      "it": "Scoprite Cholula: Tour a piedi della città sacra e del patrimonio"
+      "en": "Discover Cholula: Sacred City & Heritage Free Tour",
+      "es": "Descubre Cholula: Ciudad Sagrada y Patrimonio Free Tour",
+      "pt": "Descobrir Cholula: Cidade Sagrada e Património Tour gratuito",
+      "de": "Entdecken Sie Cholula: Heilige Stadt &amp; Kulturerbe Kostenlose Tour",
+      "fr": "Découvrez Cholula : Visite libre de la ville sacrée et du patrimoine",
+      "it": "Scoprire Cholula: Città sacra e patrimonio culturale Tour gratuito"
     },
     "brief": {
       "de": "Kommen Sie mit uns und entdecken Sie die heilige Stadt Cholula! Spazieren Sie durch die lebhaften Straßen, in denen sich vorspanische Wurzeln mit kolonialer Schönheit vermischen, und entdecken Sie die reiche Geschichte, Kultur und den Geist, die diese Stadt so einzigartig machen.",
@@ -10851,8 +10872,8 @@
     "length": "2:15",
     "meetingPoint": {
       "title": "Oxxo pirámide ",
-      "coordinates": "19.0601319,-98.30247340000001",
-      "googlePlaceId": "ChIJGUmBpyjGz4UR3ffGPgS8xm0"
+      "coordinates": "19.05714895383656,-98.29988121986389",
+      "googlePlaceId": "ChIJnTrqxjHGz4URYfR7oNEIzAQ"
     },
     "cityId": 2947,
     "countryId": 99,
@@ -10919,7 +10940,7 @@
   },
   {
     "id": 59646,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Walking Tour in Monterrey (Official)",
       "es": "Free Walking Tour en Monterrey (Oficial)",
@@ -11139,7 +11160,7 @@
   },
   {
     "id": 60281,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Food Tour in Mexico City Historic Center",
       "es": "Tour de Comida Callejera en el Centro Histórico de México",
@@ -11219,7 +11240,7 @@
   },
   {
     "id": 60333,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Mexico City: Teotihuacan Guided tour with Breakfast in a Cave ",
       "es": "Desde Ciudad de México: Teotihuacan Visita guiada con desayuno en una cueva ",
@@ -11354,7 +11375,7 @@
   },
   {
     "id": 63216,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cabo Airport Shuttle Service",
       "es": "Servicio de Transporte al Aeropuerto de Cabo",
@@ -11450,7 +11471,7 @@
   },
   {
     "id": 63319,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Cenotes by Bike",
       "es": "Free Tour en Bicicleta por los Cenotes",
@@ -11567,7 +11588,7 @@
   },
   {
     "id": 63492,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Playa del Carmen Virgin Beaches",
       "es": "Free Tour por Playas Vírgenes Playa del Carmen",
@@ -11639,7 +11660,7 @@
   },
   {
     "id": 63494,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Playa del Carmen's Fifth Avenue",
       "es": "Free Tour por la Quinta Avenida de Playa del Carmen",
@@ -11761,7 +11782,7 @@
   },
   {
     "id": 64555,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tacos & Bike Fun Tour",
       "es": "Recorrido Divertido con Tacos y Bicicletas",
@@ -11856,7 +11877,7 @@
   },
   {
     "id": 64875,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Wine, Beer &amp; Horror in Ensenada",
       "es": "Vino, Cerveza y Terror en Ensenada",
@@ -11932,7 +11953,7 @@
   },
   {
     "id": 65280,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Nature Healing Hike in Puerto Vallarta",
       "es": "Caminata Curativas por la Naturaleza en Puerto Vallarta",
@@ -12024,7 +12045,7 @@
   },
   {
     "id": 65534,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking and Gastronomic Tour in Mexico",
       "es": "Recorrido a pie y Gastronómico por México",
@@ -12119,7 +12140,7 @@
   },
   {
     "id": 65639,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "San Cristobal Gastronomic Tour",
       "es": "Tour Gastronomico de San Cristóbal",
@@ -12331,7 +12352,7 @@
   },
   {
     "id": 65749,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Otomi Ceremonial Center One Day Trip",
       "es": "Excursión de un Día al Centro Ceremonial Otomí",
@@ -12418,7 +12439,7 @@
   },
   {
     "id": 66715,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Walking Tour Oaxaca",
       "es": "Paseo gratuito por Oaxaca",
@@ -12531,12 +12552,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.76,
-    "reviewsNumber": 34
+    "rating": 4.78,
+    "reviewsNumber": 36
   },
   {
     "id": 66763,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Jalatlaco Street Art Walking Tour",
       "es": "Recorrido a pie por las calles de Jalatlaco",
@@ -12651,12 +12672,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.84,
-    "reviewsNumber": 29
+    "rating": 4.86,
+    "reviewsNumber": 32
   },
   {
     "id": 66840,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Sweet Bakeries & Cafes in Querétaro",
       "es": "Explora Dulces Panaderías y Cafés en Querétaro",
@@ -12775,7 +12796,7 @@
   },
   {
     "id": 67099,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour in Mexico City",
       "es": "Tour Privado en la Ciudad de México",
@@ -12931,7 +12952,7 @@
   },
   {
     "id": 67957,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Flavors of Coyoacan: Culinary Tour",
       "es": "Sabores de Coyoacán: Tour Culinario",
@@ -13029,7 +13050,7 @@
   },
   {
     "id": 69257,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Taxco and the Cristal Clear Waters of Atzala",
       "es": "Descubre Taxco y las aguas cristalinas de Atzala",
@@ -13118,7 +13139,7 @@
   },
   {
     "id": 69960,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking Adventure in Tepoztlán’s Sacred Mountains",
       "es": "Aventura de Senderismo en los Montes Sagrados de Tepoztlán",
@@ -13230,7 +13251,7 @@
   },
   {
     "id": 71294,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guadalajara City Center Tour",
       "es": "Guadalajara Centro",
@@ -13426,7 +13447,7 @@
   },
   {
     "id": 74938,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Narco in Mexico: The History of the Mexican Cartels",
       "es": "El Narco en México: La Historia de los Cárteles Mexicanos",
@@ -13537,7 +13558,7 @@
   },
   {
     "id": 75693,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Tour of the Historical Center, Tlatelolco and Garibaldi",
       "es": "Tour por el Centro Histórico, Tlatelolco y Garibaldi",
@@ -13641,14 +13662,14 @@
   },
   {
     "id": 76224,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
-      "en": "Free Tour: Murals and Arts of Oaxaca",
-      "es": "Recorrido gratuito: Murales y Artes de Oaxaca",
-      "pt": "Visita gratuita: Murais e artes de Oaxaca",
-      "de": "Kostenlose Tour: Wandmalereien und Kunst von Oaxaca",
-      "fr": "Visite gratuite : Les peintures murales et les arts de Oaxaca",
-      "it": "Tour gratuito: Murales e arti di Oaxaca"
+      "en": "Free Tour Murals and Arts of Oaxaca",
+      "es": "Tour Gratis Murales y Artes de Oaxaca",
+      "pt": "Tour gratuito Murais e artes de Oaxaca",
+      "de": "Kostenlose Tour Wandmalereien und Kunst in Oaxaca",
+      "fr": "Visite gratuite Murales et arts de Oaxaca",
+      "it": "Tour gratuito Murales e arti di Oaxaca"
     },
     "brief": {
       "de": "Begleiten Sie einen lokalen Künstler und entdecken Sie die lebendigen Wandmalereien, die Straßenkunst und die versteckten Galerien von Jalatlaco. Erkunden Sie eines der bekanntesten und farbenfrohesten Viertel Oaxacas mit seiner kreativen Seele! Verpassen Sie es nicht!",
@@ -13756,12 +13777,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.72,
-    "reviewsNumber": 21
+    "rating": 4.74,
+    "reviewsNumber": 22
   },
   {
     "id": 76290,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Heart of Mexico City",
       "es": "Descubre el Corazón de Ciudad de México",
@@ -14035,7 +14056,7 @@
   },
   {
     "id": 77336,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore the National Museum of Anthropology and History",
       "es": "Explore el Museo Nacional de Antropología e Historia",
@@ -14115,7 +14136,7 @@
   },
   {
     "id": 77343,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tlaquepaque: Living Culture of a Magic Town",
       "es": "Tlaquepaque: Cultura Viva de un Pueblo Mágico",
@@ -14204,7 +14225,7 @@
   },
   {
     "id": 77664,
-    "updatedAt": "2025-12-01 19:38:11",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Discover the Beautiful City of Oaxaca with a Local Vision",
       "es": "Descubre la Hermosa Ciudad de Oaxaca con una Visión Local",
@@ -14222,12 +14243,12 @@
       "pt": "junte-se à melhor excursão gratuita de Oaxaca! Descubra a sua história, cultura e cantos encantadores com o olhar de um local. Viva uma autêntica experiência em pequenos grupos enquanto explora esta joia mexicana a pé."
     },
     "description": {
-      "de": "Die beste Art, das historische Zentrum von Oaxaca zu erkunden, ist ein Spaziergang durch seine Straßen, Plätze, Kirchen und die koloniale Architektur. Auf unserer kostenlosen Tour erkunden Sie das pulsierende Herz der Stadt in kleinen Gruppen und mit einem intimen Ansatz.\r\n\r\nWir beginnen am Zócalo und der majestätischen Kathedrale von Oaxaca, dem Mittelpunkt des sozialen, kulturellen und politischen Lebens der Stadt. Sie werden die Geschichte und die Traditionen Oaxacas entdecken, während wir zum Mezcal-Kulturzentrum schlendern, einem Ort, der das Erbe dieses uralten Getränks feiert. \r\n\r\nWeiter geht es zum imposanten Theater Macedonio Alcalá, einem Wahrzeichen der lokalen Architektur. Wir halten am Tempel von Santo Domingo de Guzman, einer Ikone des oaxacaischen Glaubens und der Geschichte. Danach besichtigen wir das Guelaguetza-Auditorium, Symbol der wichtigsten Feste der Region. \r\n\r\nSchließlich erreichen wir die malerische Plaza Cruz de Piedra, ein perfekter Ort, um diese Reise durch die Geschichte und das Wesen Oaxacas zu beenden. Lassen Sie sich von den Geheimnissen, Empfehlungen und Kuriositäten überraschen, die Ihren Besuch in Oaxaca zu einem unvergesslichen Erlebnis machen werden!",
-      "en": "The best way to explore the historic center of Oaxaca is by walking its streets, squares, churches, and colonial architecture. On our Free Tour, you will explore the vibrant heart of the city in small groups and with an intimate approach.\r\n\r\nWe will start at the Zócalo and the majestic Metropolitan Cathedral of Oaxaca, epicenter of the social, cultural, and political life of the city. You will discover Oaxacan history and traditions as we stroll to the Mezcal Cultural Center, a space that celebrates the legacy of this ancestral beverage. \r\n\r\nWe will continue on to the imposing Macedonio Alcalá Theater, an emblem of local architecture. We will stop at the Temple of Santo Domingo de Guzman, an icon of Oaxacan faith and history. Later, we will see the Guelaguetza Auditorium, symbol of the most important celebrations in the region. \r\n\r\nFinally, we will arrive at the picturesque Cruz de Piedra Square, a perfect place to conclude this journey through the history and essence of Oaxaca. Let yourself be surprised by the secrets, recommendations, and curiosities that will make your visit to Oaxaca an unforgettable experience!",
-      "es": "La mejor manera de explorar el Centro Histórico de Oaxaca es recorriendo sus calles, sus plazas, iglesias y su arquitectura colonial. En nuestro Free Tour, explorarás el vibrante corazón de la ciudad en grupos pequeños y con un enfoque íntimo.\r\n\r\nIniciaremos en el Zócalo y la majestuosa Catedral Metropolitana de Oaxaca, epicentro de la vida social, cultural y política de la ciudad. Descubrirás la historia y tradiciones oaxaqueñas mientras paseamos hacia el Centro Cultural del Mezcal, un espacio que celebra el legado de esta bebida ancestral. \r\n\r\nSeguiremos hacia el imponente Teatro Macedonio Alcalá, emblema de la arquitectura local. Nos detendremos en el Templo de Santo Domingo de Guzmán, un icono de la fe y la historia oaxaqueña. Posteriormente, veremos el Auditorio Guelaguetza, símbolo de las celebraciones más importantes de la región. \r\n\r\nFinalmente, llegaremos a la pintoresca Plaza Cruz de Piedra, un lugar perfecto para concluir este viaje por la historia y la esencia oaxaqueña. ¡Déjate sorprender por los secretos, recomendaciones y curiosidades que harán de tu visita a Oaxaca una experiencia inolvidable!",
-      "fr": "La meilleure façon d'explorer le centre historique d'Oaxaca est de se promener dans ses rues, ses places, ses églises et son architecture coloniale. Lors de notre visite libre, vous explorerez le cœur vibrant de la ville en petits groupes et avec une approche intime.\r\n\r\nNous commencerons par le Zócalo et la majestueuse cathédrale métropolitaine de Oaxaca, épicentre de la vie sociale, culturelle et politique de la ville. Vous découvrirez l'histoire et les traditions de Oaxaca en vous promenant jusqu'au centre culturel Mezcal, un espace qui célèbre l'héritage de cette boisson ancestrale. \r\n\r\nNous continuerons jusqu'à l'imposant théâtre Macedonio Alcalá, un emblème de l'architecture locale. Nous nous arrêterons au temple de Santo Domingo de Guzman, icône de la foi et de l'histoire de Oaxaca. Ensuite, nous verrons l'auditorium Guelaguetza, symbole des célébrations les plus importantes de la région. \r\n\r\nEnfin, nous arriverons à la pittoresque Plaza Cruz de Piedra, un endroit idéal pour conclure ce voyage à travers l'histoire et l'essence de Oaxaca. Laissez-vous surprendre par les secrets, les recommandations et les curiosités qui feront de votre visite à Oaxaca une expérience inoubliable !",
-      "it": "Il modo migliore per esplorare il centro storico di Oaxaca è camminare per le sue strade, le piazze, le chiese e l'architettura coloniale. Durante il nostro tour gratuito, esplorerete il cuore vibrante della città in piccoli gruppi e con un approccio intimo.\r\n\r\nInizieremo dallo Zócalo e dalla maestosa Cattedrale Metropolitana di Oaxaca, epicentro della vita sociale, culturale e politica della città. Scoprirete la storia e le tradizioni oaxacane passeggiando fino al Centro Culturale del Mezcal, uno spazio che celebra l'eredità di questa bevanda ancestrale. \r\n\r\nProseguiremo verso l'imponente Teatro Macedonio Alcalá, emblema dell'architettura locale. Ci fermeremo al Tempio di Santo Domingo de Guzman, un'icona della fede e della storia oaxacana. In seguito, vedremo l'Auditorium Guelaguetza, simbolo delle celebrazioni più importanti della regione. \r\n\r\nInfine, arriveremo alla pittoresca Plaza Cruz de Piedra, un luogo perfetto per concludere questo viaggio attraverso la storia e l'essenza di Oaxaca. Lasciatevi sorprendere da segreti, consigli e curiosità che renderanno la vostra visita a Oaxaca un'esperienza indimenticabile!",
-      "pt": "A melhor maneira de explorar o centro histórico de Oaxaca é caminhando pelas suas ruas, praças, igrejas e arquitetura colonial. No nosso Free Tour, irá explorar o coração vibrante da cidade em pequenos grupos e com uma abordagem íntima.\r\n\r\nComeçaremos no Zócalo e na majestosa Catedral Metropolitana de Oaxaca, o epicentro da vida social, cultural e política da cidade. Descobriremos a história e as tradições de Oaxaca enquanto passeamos até ao Centro Cultural Mezcal, um espaço que celebra o legado desta bebida ancestral. \r\n\r\nContinuaremos até ao imponente Teatro Macedonio Alcalá, um emblema da arquitetura local. Faremos uma paragem no Templo de Santo Domingo de Guzman, um ícone da fé e da história de Oaxaca. De seguida, veremos o Auditório de Guelaguetza, símbolo das celebrações mais importantes da região. \r\n\r\nFinalmente, chegaremos à pitoresca Plaza Cruz de Piedra, um lugar perfeito para concluir esta viagem pela história e essência de Oaxaca. Deixe-se surpreender pelos segredos, recomendações e curiosidades que farão da sua visita a Oaxaca uma experiência inesquecível!"
+      "de": "Auf diesem Rundgang werden Sie einige der repräsentativsten Orte von Oaxaca entdecken, einer Stadt, die für ihren kulturellen, historischen und architektonischen Reichtum bekannt ist.\r\nWir beginnen auf dem Zócalo, dem Herzen des sozialen und politischen Lebens der Stadt. Von dort aus besichtigen wir die Kathedrale Unserer Lieben Frau von der Himmelfahrt, einen der wichtigsten Tempel in Oaxaca, und fahren weiter zum Tempel Santo Domingo, der als ein Meisterwerk des mexikanischen Barocks gilt. In der Nähe halten wir am Instituto de Artes Gráficas de Oaxaca (IAGO), das von Francisco Toledo gegründet wurde und in dem Sie die starke grafische Tradition der Stadt kennen lernen können.\r\nDie Tour führt auch zu kulturellen Zentren wie dem Kulturzentrum San Pablo und dem Theater Macedonio Alcalá, architektonische Ikonen, die Tradition und Kunst miteinander verbinden.\r\n\r\nDen Abschluss bildet das Auditorium Guelaguetza, Schauplatz des bedeutendsten Festes von Oaxaca und Symbol der Identität der Stadt.\r\nEin Rundgang, der darauf abzielt, die Geschichte und das Erbe Oaxacas anhand der wichtigsten Monumente zu verstehen... und der Sie dazu inspirieren soll, all das weiter zu erkunden, was diese außergewöhnliche Stadt zu bieten hat.",
+      "en": "In this walking tour you will discover some of the most representative places of Oaxaca, a city known for its cultural, historical and architectural richness.\r\nWe will start at the Zócalo, the heart of the city's social and political life. From there we will visit the Metropolitan Cathedral of Our Lady of the Assumption, one of the most important temples in Oaxaca, and continue to the Temple of Santo Domingo, considered a masterpiece of Mexican baroque. Nearby we will stop at the Institute of Graphic Arts of Oaxaca (IAGO), founded by Francisco Toledo, a cozy space where you can appreciate the strong graphic tradition of the city.\r\nThe tour will also include cultural centers such as the San Pablo Cultural Center and the Macedonio Alcalá Theater, architectural icons that combine tradition and art.\r\n\r\nWe will conclude at the Guelaguetza Auditorium, the stage of Oaxaca's most emblematic festival and a symbol of its identity.\r\nAn itinerary designed to understand the history and heritage of Oaxaca through its main monuments... and to inspire you to continue exploring all that this extraordinary city has to offer.",
+      "es": "En este recorrido walking tour descubrirás algunos de los lugares más representativos de Oaxaca, una ciudad reconocida por su riqueza cultural, histórica y arquitectónica.\r\nComenzaremos en el Zócalo, el corazón de la vida social y política de la ciudad. Desde ahí visitaremos la Catedral Metropolitana de Nuestra Señora de la Asunción, uno de los templos más importantes de Oaxaca, y continuaremos hacia el Templo de Santo Domingo, considerado una obra maestra del barroco mexicano. Muy cerca haremos una parada en el Instituto de Artes Gráficas de Oaxaca (IAGO), fundado por Francisco Toledo, un espacio acogedor donde podrás apreciar la fuerte tradición gráfica de la ciudad.\r\nEl recorrido también incluirá centros culturales como el Centro Cultural San Pablo y el Teatro Macedonio Alcalá, íconos arquitectónicos que combinan tradición y arte.\r\n\r\nConcluiremos en el Auditorio Guelaguetza, el escenario del festival más emblemático de Oaxaca y un símbolo de su identidad.\r\nUn itinerario diseñado para comprender la historia y el patrimonio de Oaxaca a través de sus principales monumentos… y para inspirarte a seguir explorando todo lo que esta ciudad extraordinaria tiene para ofrecer.",
+      "fr": "Cette visite à pied vous permettra de découvrir quelques-uns des lieux les plus représentatifs d'Oaxaca, une ville réputée pour sa richesse culturelle, historique et architecturale.\r\nNous commencerons par le Zócalo, le cœur de la vie sociale et politique de la ville. De là, nous visiterons la cathédrale métropolitaine de Notre-Dame de l'Assomption, l'un des temples les plus importants d'Oaxaca, puis le temple de Santo Domingo, considéré comme un chef-d'œuvre du baroque mexicain. Nous nous arrêterons ensuite à l'Instituto de Artes Gráficas de Oaxaca (IAGO), fondé par Francisco Toledo, un espace accueillant où l'on peut apprécier la forte tradition graphique de la ville.\r\nLa visite comprendra également des centres culturels tels que le centre culturel San Pablo et le théâtre Macedonio Alcalá, des icônes architecturales qui allient tradition et art.\r\n\r\nNous terminerons par l'auditorium Guelaguetza, scène du festival le plus emblématique de Oaxaca et symbole de son identité.\r\nUn itinéraire conçu pour comprendre l'histoire et le patrimoine de Oaxaca à travers ses principaux monuments... et pour vous donner envie de continuer à explorer tout ce que cette ville extraordinaire a à offrir.",
+      "it": "In questo tour a piedi scoprirete alcuni dei luoghi più rappresentativi di Oaxaca, una città rinomata per la sua ricchezza culturale, storica e architettonica.\r\nInizieremo dallo Zócalo, cuore della vita sociale e politica della città. Da lì visiteremo la Cattedrale Metropolitana di Nostra Signora dell'Assunzione, uno dei templi più importanti di Oaxaca, e proseguiremo verso il Tempio di Santo Domingo, considerato un capolavoro del barocco messicano. Nelle vicinanze ci fermeremo all'Instituto de Artes Gráficas de Oaxaca (IAGO), fondato da Francisco Toledo, uno spazio accogliente dove si può apprezzare la forte tradizione grafica della città.\r\nLa visita includerà anche centri culturali come il Centro Culturale San Pablo e il Teatro Macedonio Alcalá, icone architettoniche che uniscono tradizione e arte.\r\n\r\nSi concluderà all'Auditorium Guelaguetza, palcoscenico del festival più emblematico di Oaxaca e simbolo della sua identità.\r\nUn itinerario pensato per comprendere la storia e il patrimonio di Oaxaca attraverso i suoi principali monumenti... e per ispirarvi a continuare a esplorare tutto ciò che questa straordinaria città ha da offrire.",
+      "pt": "Neste passeio a pé, descobrirá alguns dos locais mais representativos de Oaxaca, uma cidade conhecida pela sua riqueza cultural, histórica e arquitetónica.\r\nComeçaremos no Zócalo, o coração da vida social e política da cidade. A partir daí, visitaremos a Catedral Metropolitana de Nossa Senhora da Assunção, um dos templos mais importantes de Oaxaca, e continuaremos até ao Templo de Santo Domingo, considerado uma obra-prima do barroco mexicano. Perto dali, faremos uma paragem no Instituto de Artes Gráficas de Oaxaca (IAGO), fundado por Francisco Toledo, um espaço acolhedor onde se pode apreciar a forte tradição gráfica da cidade.\r\nA visita incluirá também centros culturais como o Centro Cultural San Pablo e o Teatro Macedonio Alcalá, ícones arquitectónicos que combinam tradição e arte.\r\n\r\nTerminaremos no Auditório Guelaguetza, palco da festa mais emblemática de Oaxaca e símbolo da sua identidade.\r\nUm itinerário concebido para compreender a história e o património de Oaxaca através dos seus principais monumentos... e para o inspirar a continuar a explorar tudo o que esta extraordinária cidade tem para oferecer."
     },
     "providerTitle": "Estación",
     "providerPhone": "+525575051530",
@@ -14253,43 +14274,20 @@
     "cityId": 2942,
     "countryId": 99,
     "includes": [
-      "Quinta Real",
-      "Centro Cultural del Mezcal",
-      "Parroquia del Carmen Alto",
       "Templo de Santo Domingo de Guzmán",
-      "Zócalo Oaxaca",
       "Oaxaca Graphic Arts Institute",
       "Catedral Metropolitana de Oaxaca",
-      "Auditorio Guelaguetza",
       "Centro Cultural San Pablo",
       "Plaza Cruz de Piedra",
-      "TEATRO MACEDONIO ALCALÁ"
+      "TEATRO MACEDONIO ALCALÁ",
+      "zocalo de oaxaca",
+      "Parroquia del Carmen Alto"
     ],
     "POIs": [
-      {
-        "id": 32006,
-        "title": "Quinta Real",
-        "googlePlaceId": "ChIJ-xDm1j4ix4URbrmtjOW388I"
-      },
-      {
-        "id": 32004,
-        "title": "Centro Cultural del Mezcal",
-        "googlePlaceId": "ChIJ5SPFRAAjx4URN8BicE5JsEw"
-      },
-      {
-        "id": 27719,
-        "title": "Parroquia del Carmen Alto",
-        "googlePlaceId": "ChIJ7fpiJjwix4URyyiwNDx9bIg"
-      },
       {
         "id": 4734,
         "title": "Templo de Santo Domingo de Guzmán",
         "googlePlaceId": "ChIJg9-i1kuEzoYReGAmJh3n7Ro"
-      },
-      {
-        "id": 5110,
-        "title": "Zócalo Oaxaca",
-        "googlePlaceId": "ChIJh7bVf0Aix4UR-GfJMt6DY1A"
       },
       {
         "id": 32007,
@@ -14300,11 +14298,6 @@
         "id": 7174,
         "title": "Catedral Metropolitana de Oaxaca",
         "googlePlaceId": "ChIJMdYyeD8ix4URBaOeem-OYNA"
-      },
-      {
-        "id": 32008,
-        "title": "Auditorio Guelaguetza",
-        "googlePlaceId": "ChIJMz4V9xYix4URe1Q7xjIyrzo"
       },
       {
         "id": 32005,
@@ -14320,6 +14313,16 @@
         "id": 12320,
         "title": "TEATRO MACEDONIO ALCALÁ",
         "googlePlaceId": "ChIJZccch0cix4URss1yEDUMcgw"
+      },
+      {
+        "id": 26469,
+        "title": "zocalo de oaxaca",
+        "googlePlaceId": "ChIJa2h1BwAjx4UREm0Wda8FVDM"
+      },
+      {
+        "id": 27719,
+        "title": "Parroquia del Carmen Alto",
+        "googlePlaceId": "ChIJ7fpiJjwix4URyyiwNDx9bIg"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/77664/-96-04.jpg",
@@ -14330,37 +14333,45 @@
         "URL": "https://www.freetour.com/images/tours/77664/-96-04.jpg"
       },
       {
-        "id": 268716,
-        "URL": "https://www.freetour.com/images/tours/77664/-96-01.jpg"
+        "id": 301376,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-08.jpg"
       },
       {
-        "id": 268721,
-        "URL": "https://www.freetour.com/images/tours/77664/-96-06.jpg"
+        "id": 301375,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-07.jpg"
       },
       {
-        "id": 268722,
-        "URL": "https://www.freetour.com/images/tours/77664/-96-07.jpg"
+        "id": 301374,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-06.jpg"
       },
       {
-        "id": 268723,
-        "URL": "https://www.freetour.com/images/tours/77664/-96-08.jpg"
+        "id": 301373,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-05.jpg"
       },
       {
-        "id": 268724,
-        "URL": "https://www.freetour.com/images/tours/77664/-96-09.jpg"
+        "id": 301372,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-04.jpg"
       },
       {
-        "id": 268725,
-        "URL": "https://www.freetour.com/images/tours/77664/-96-10.jpg"
+        "id": 301370,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-02.jpg"
+      },
+      {
+        "id": 301371,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-03.jpg"
+      },
+      {
+        "id": 301369,
+        "URL": "https://www.freetour.com/images/tours/77664/descubre-la-hermosa-ciudad-de-oaxaca-con-una-vision-local-01.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.84,
-    "reviewsNumber": 43
+    "rating": 4.85,
+    "reviewsNumber": 46
   },
   {
     "id": 77710,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Oaxaca Mezcal Cocktail Tour",
       "es": "Tour de Cócteles de Mezcal en Oaxaca",
@@ -14468,7 +14479,7 @@
   },
   {
     "id": 77751,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Oaxaca Morning Experience: Art, Market, and Cuisine",
       "es": "Experiencia Matutina en Oaxaca: Arte, Mercado y Gastronomía",
@@ -14580,7 +14591,7 @@
   },
   {
     "id": 77799,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Essential Guadalajara Tour: Art, History and Flavor",
       "es": "Tour de Guadalajara Esencial: Arte, Historia y Sabor",
@@ -14599,7 +14610,7 @@
     },
     "description": {
       "de": "Wir besichtigen die wichtigsten Plätze des Stadtzentrums von Guadalajara und entdecken die Kunst, die die Straßen des historischen Zentrums umgibt, seine kulturellen Gebäude und seine beeindruckende Architektur.\r\nSie werden die kulturellen Veranstaltungen kennenlernen, die jede Woche in der Stadt stattfinden, sowie die saisonalen Veranstaltungen.\r\n\r\nSie werden die Wandmalereien kennen lernen, die die Geschichte Mexikos erzählen, und die Kritik, die die Künstler an ihnen hinterlassen haben. Sie werden etwas über die traditionelle Küche Guadalajaras und Mexikos und die Orte, an denen man sie findet, erfahren.",
-      "en": "We will tour the main squares of downtown Guadalajara and discover the art that surrounds the streets of the historic center, its cultural buildings, and impressive architecture.\r\nYou will learn about the cultural events we have in the city, which we have every week, and seasonal events.\r\n\r\nYou will learn about the murals that tell the history of Mexico and the critique that the artists left on them. You will learn about the traditional food of Guadalajara and Mexico, and the places where you can find it.",
+      "en": "We will tour the main squares of downtown Guadalajara and discover the art that surrounds the streets of the historic center, its cultural buildings and impressive architecture.\r\nYou will learn about the cultural events we have in the city that we have every week and seasonal events.\r\n\r\nYou will learn about the murals that tell the history of Mexico and the criticism that the artists left on them. You will learn about the traditional food of Guadalajara and Mexico as well as the places to find it.",
       "es": "Recorreremos las plazas principales del centro de Guadalajara y descubriremos el arte que rodea las calles del centro histórico, sus edificios culturales y la impresionante arquitectura.\r\nConocerás los eventos culturales que tenemos en la ciudad que tenemos todas las semanas y los de temporada.\r\n\r\nConocerás los murales que platican la historia de México y la crítica que los artistas dejaron plasmados en ellos. Te enterarás del cual es la comida tradicional de Guadalajara y México así como de los lugares donde encontrarla.",
       "fr": "Nous visiterons les principales places du centre-ville de Guadalajara et découvrirons l'art qui entoure les rues du centre historique, ses bâtiments culturels et son architecture impressionnante.\r\nVous découvrirez les événements culturels qui ont lieu dans la ville chaque semaine et les événements saisonniers.\r\n\r\nVous découvrirez les peintures murales qui racontent l'histoire du Mexique et la critique que les artistes ont laissée sur elles. Vous découvrirez la cuisine traditionnelle de Guadalajara et du Mexique et les endroits où vous pouvez la trouver.",
       "it": "Visiteremo le piazze principali del centro di Guadalajara e scopriremo l'arte che circonda le strade del centro storico, i suoi edifici culturali e la sua impressionante architettura.\r\nConoscerete gli eventi culturali che si tengono in città ogni settimana e gli eventi stagionali.\r\n\r\nConoscerete i murales che raccontano la storia del Messico e la critica che gli artisti hanno lasciato su di essi. Conoscerete il cibo tradizionale di Guadalajara e del Messico e i luoghi in cui è possibile trovarlo.",
@@ -14733,7 +14744,7 @@
   },
   {
     "id": 78031,
-    "updatedAt": "2025-12-01 15:39:01",
+    "updatedAt": "2025-12-11 13:52:02",
     "title": {
       "en": "Historical, Cultural, and Artistic tour of Downtown Merida",
       "es": "Recorrido Histórico, Cultural y Artístico por el Centro de Mérida",
@@ -14871,7 +14882,7 @@
   },
   {
     "id": 79109,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Trails and Secrets of Xaaga",
       "es": "Senderos y Secretos de Xaaga",
@@ -14960,7 +14971,7 @@
   },
   {
     "id": 80762,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour through San Ángel & the Heart of UNAM",
       "es": "Free Tour por San Ángel y el Corazón de la UNAM",
@@ -15119,7 +15130,7 @@
   },
   {
     "id": 81669,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Discover Coyoacán on a Free Walking Tour",
       "es": "Descubre Coyoacán en un Free Tour a pie",
@@ -15195,7 +15206,7 @@
   },
   {
     "id": 82039,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Taco Free Tour: From Street Stalls to the Michelin Guide",
       "es": "Taco Free Tour: De los Puestos Callejeros a la Guía Michelin",
@@ -15305,7 +15316,7 @@
   },
   {
     "id": 82089,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Tulum Ruins",
       "es": "App de Audio Guía: Ruinas de Tulum",
@@ -15450,7 +15461,7 @@
   },
   {
     "id": 82272,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Tijuana Free Tour: History, Culture and Gastronomy",
       "es": "Free Tour por Tijuana: Historia, Cultura y Gastronomía",
@@ -15580,7 +15591,7 @@
   },
   {
     "id": 82684,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Full UNAM Immersion: Art, Architecture & Student Life",
       "es": "Inmersión Total en la UNAM: Arte, Arquitectura y Vida Estudiantil",
@@ -15684,7 +15695,7 @@
   },
   {
     "id": 83548,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Merida: History, Culture and Enchantment",
       "es": "Explora Mérida: Historia, Cultura y Encanto",
@@ -15838,7 +15849,7 @@
   },
   {
     "id": 84228,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Coatepec: Historic Coatepec Coffee Town",
       "es": "Free Tour Coatepec: Histórica de la Ciudad del Café",
@@ -15922,7 +15933,7 @@
   },
   {
     "id": 84251,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Cholula Free Tour: The Great Pyramid, Churches & Legends",
       "es": "Cholula Free Tour: La Gran Pirámide, Iglesias y Leyendas",
@@ -16024,7 +16035,7 @@
   },
   {
     "id": 84998,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Cerro de la Estrella Pyramid and Museum Tour",
       "es": "Visita a la Pirámide y Museo del Cerro de la Estrella",
@@ -16168,7 +16179,7 @@
   },
   {
     "id": 85376,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Legends, Histories and Mysteries of Guadalajara Free Tour",
       "es": "Leyendas, Historias y Misterios de Guadalajara Free Tour",
@@ -16274,7 +16285,7 @@
   },
   {
     "id": 85402,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Historical and Archaeological Secrets of the CDMX",
       "es": "Secretos Históricos y Arqueológicos de la CDMX",
@@ -16395,7 +16406,7 @@
   },
   {
     "id": 86528,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Chichén Itzá (no ticket)",
       "es": "App Audioguía: Chichén Itzá (sin entrada)",
@@ -16522,7 +16533,7 @@
   },
   {
     "id": 86622,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Teotihuacan Pyramids, Mexico City - no ticket",
       "es": "App Audioguía: Pirámides de Teotihuacán, Ciudad de México - sin entrada",
@@ -16689,7 +16700,7 @@
   },
   {
     "id": 86623,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Mexico City Walk",
       "es": "App Audioguía: Paseo por Ciudad de México",
@@ -16897,5 +16908,145 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
+  },
+  {
+    "id": 49100,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Tour of Merida with a Mayan Guide",
+      "es": "Excursión a Mérida con un guía maya",
+      "pt": "Visita a Mérida com um guia Maia",
+      "de": "Tour durch Merida mit einem Maya-Führer",
+      "fr": "Visite de Mérida avec un guide maya",
+      "it": "Tour di Merida con guida Maya"
+    },
+    "brief": {
+      "de": "Entdecken Sie die faszinierende Stadt Mérida mit einem Maya-Führer und bestaunen Sie ihre beeindruckenden Sehenswürdigkeiten. Verpassen Sie nicht dieses großartige Abenteuer und begleiten Sie uns auf dieser unglaublichen Reise durch Geschichte und Kultur.",
+      "en": "Discover the fascinating city of Mérida with a Mayan guide and marvel at its impressive attractions. Don't miss this magnificent adventure, and join us on this incredible journey of history and culture.",
+      "es": "Descubra la fascinante ciudad de Mérida con un guía maya y maravíllese con sus impresionantes atracciones. No te pierdas esta magnífica aventura y acompáñanos en este increíble viaje de historia y cultura.",
+      "fr": "Découvrez la fascinante ville de Mérida avec un guide maya et admirez ses impressionnantes attractions. Ne manquez pas cette magnifique aventure, et rejoignez-nous pour cet incroyable voyage historique et culturel.",
+      "it": "Scoprite l'affascinante città di Mérida con una guida Maya e ammirate le sue impressionanti attrazioni. Non perdete questa magnifica avventura e unitevi a noi in questo incredibile viaggio di storia e cultura.",
+      "pt": "Descubra a fascinante cidade de Mérida com um guia Maia e maravilhe-se com as suas impressionantes atracções. Não perca esta magnífica aventura e junte-se a nós nesta incrível viagem de história e cultura."
+    },
+    "description": {
+      "de": "Mérida, ein Stück Maya-Paradies, pulsiert mit pulsierender Energie und erzählt fesselnde Geschichten in seinen charmanten Kolonialstraßen. Unsere Erkundung umfasst die folgenden Highlights:\r\n\r\n- Kathedrale von San Idelfonso\r\n- Das Haus von Montejo\r\n- Der Regierungspalast mit seinen Wandmalereien\r\n- Die Universität von Yucatan\r\n- Kirche des \"Dritten Ordens\r\n- Theater \"José Peón Contreras\r\n- Santa-Lucia-Park\r\n- Palast der Musik\r\n\r\nDarüber hinaus stehe ich Ihnen gerne zur Verfügung, wenn Sie Empfehlungen für Restaurants, Informationen zu kulturellen Veranstaltungen oder Erläuterungen zu einem bestimmten Thema benötigen. Mit rund vier Jahren Erfahrung als Stadtführerin in dieser Stadt versichere ich Ihnen, dass jede Tour mit höchster Professionalität und großem Respekt vor der Geschichte Méridas durchgeführt wird.\r\n\r\nJeden Sonntagmorgen werden wir den berühmten und wichtigsten lokalen Markt \"Lucas de Gálvez\" besuchen, um Früchte, Süßigkeiten, Piñatas, und warum nicht? Um Tacos zu essen.",
+      "en": "Mérida, a piece of Mayan paradise, pulsates with vibrant energy and narrates captivating tales through its charming colonial streets. Our exploration includes the following highlights:\r\n\r\n- Cathedral of San Idelfonso\r\n- The House of Montejo\r\n- Government Palace, with its mural-adorned site\r\n- The University of Yucatan\r\n- Church of the \"Third Order\r\n- José Peón Contreras\" Theater\r\n- Santa Lucia Park\r\n- Palace of Music\r\n\r\nIn addition, whether you seek recommendations for dining, information on cultural events, or clarification on any specific topic, I am at your service. With approximately four years of guiding experience in this city, I assure you that each tour is delivered with the utmost professionalism and deep respect for the history of Mérida.\r\n\r\nEvery Sunday morning we will visit the famous and most important local market \"Lucas de Gálvez\" to see fruits, candies, piñatas, and why not? To eat some tacos.",
+      "es": "Mérida, un pedazo del paraíso maya, palpita con vibrante energía y narra cautivadoras historias a través de sus encantadoras calles coloniales. Nuestra exploración incluye los siguientes puntos destacados:\r\n\r\n- Catedral de San Idelfonso\r\n- La Casa de Montejo\r\n- Palacio de Gobierno, con su recinto decorado con murales\r\n- La Universidad de Yucatán\r\n- Iglesia de la \"Tercera Orden\r\n- Teatro \"José Peón Contreras\r\n- Parque de Santa Lucía\r\n- Palacio de la Música\r\n\r\nAdemás, si busca recomendaciones para comer, información sobre eventos culturales o aclaraciones sobre algún tema específico, estoy a sus órdenes. Con aproximadamente cuatro años de experiencia como guía en esta ciudad, le aseguro que cada visita se realiza con la máxima profesionalidad y un profundo respeto por la historia de Mérida.\r\n\r\nTodos los domingos por la mañana visitaremos el famoso y más importante mercado local \"Lucas de Gálvez\" para ver frutas, dulces, piñatas, y ¿por qué no? Para comer unos tacos.",
+      "fr": "Mérida, un coin de paradis maya, est animée d'une énergie vibrante et raconte des histoires captivantes à travers ses charmantes rues coloniales. Notre exploration comprend les points forts suivants :\r\n\r\n- La cathédrale de San Idelfonso\r\n- La maison de Montejo\r\n- Le palais du gouvernement, avec son site orné de peintures murales\r\n- L'université du Yucatan\r\n- Église du \"Troisième Ordre\r\n- Théâtre José Peón Contreras\r\n- Parc Santa Lucia\r\n- Le palais de la musique\r\n\r\nEn outre, que vous souhaitiez des recommandations sur les restaurants, des informations sur les événements culturels ou des éclaircissements sur un sujet spécifique, je suis à votre disposition. Avec environ quatre ans d'expérience en tant que guide dans cette ville, je vous assure que chaque visite est effectuée avec le plus grand professionnalisme et un profond respect pour l'histoire de Mérida.\r\n\r\nTous les dimanches matin, nous visiterons le célèbre et plus important marché local \"Lucas de Gálvez\" pour voir des fruits, des bonbons, des piñatas, et pourquoi pas ? pour manger des tacos Pour manger des tacos.",
+      "it": "Mérida, un pezzo di paradiso Maya, pulsa di energia vibrante e racconta storie accattivanti attraverso le sue affascinanti strade coloniali. La nostra esplorazione comprende le seguenti attrazioni:\r\n\r\n- Cattedrale di San Idelfonso\r\n- Casa di Montejo\r\n- Palazzo del Governo, con il suo sito decorato da murales\r\n- Università dello Yucatan\r\n- Chiesa del \"Terzo Ordine\r\n- Teatro José Peón Contreras\r\n- Parco di Santa Lucia\r\n- Palazzo della Musica\r\n\r\nInoltre, se desiderate consigli per la ristorazione, informazioni sugli eventi culturali o chiarimenti su qualsiasi argomento specifico, sono a vostra disposizione. Con circa quattro anni di esperienza come guida in questa città, vi assicuro che ogni tour è realizzato con la massima professionalità e profondo rispetto per la storia di Mérida.\r\n\r\nOgni domenica mattina visiteremo il famoso e più importante mercato locale \"Lucas de Gálvez\" per vedere frutta, caramelle, piñatas e, perché no? Per mangiare dei tacos.",
+      "pt": "Mérida, um pedaço do paraíso maia, pulsa com uma energia vibrante e narra histórias cativantes através das suas encantadoras ruas coloniais. A nossa exploração inclui os seguintes destaques:\r\n\r\n- Catedral de San Idelfonso\r\n- A Casa de Montejo\r\n- Palácio do Governo, com o seu sítio adornado com murais\r\n- A Universidade de Yucatán\r\n- Igreja da \"Ordem Terceira\r\n- Teatro \"José Peón Contreras\r\n- Parque Santa Lucia\r\n- Palácio da Música\r\n\r\nPara além disso, se procura recomendações para jantar, informações sobre eventos culturais ou esclarecimentos sobre qualquer tópico específico, estou ao seu dispor. Com cerca de quatro anos de experiência como guia nesta cidade, garanto-vos que cada visita é feita com o máximo profissionalismo e profundo respeito pela história de Mérida.\r\n\r\nTodos os domingos de manhã visitaremos o famoso e mais importante mercado local \"Lucas de Gálvez\" para ver frutas, doces, piñatas, e porque não? Para comer uns tacos."
+    },
+    "providerTitle": "Santos Gabriel Pech Chi",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/merida/walking-in-merida-with-a-mayan?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/merida/walking-in-merida-with-a-mayan?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/merida/walking-in-merida-with-a-mayan?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/merida/walking-in-merida-with-a-mayan?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/merida/walking-in-merida-with-a-mayan?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/merida/walking-in-merida-with-a-mayan?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/merida/walking-in-merida-with-a-mayan?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 15,
+      "currency": "EUR"
+    },
+    "length": "1:30",
+    "meetingPoint": {
+      "title": "Catedral de San Ildefonso ",
+      "coordinates": "20.967200322740762,-89.6228814125061",
+      "googlePlaceId": "ChIJvfwNFWRxVo8RwDTI2Go4pOI"
+    },
+    "cityId": 2937,
+    "countryId": 99,
+    "includes": [
+      "Palacio de Gobierno del Estado de Yucatán",
+      "Gran Hotel de Mérida",
+      "Palacio de la Música",
+      "Catedral de Mérida - San Ildefonso",
+      "Merida City Council",
+      "Autonomous University of Yucatan",
+      "Jose Peon Contreras Theater",
+      "Parque de Santa Lucía",
+      "Museo Casa Montejo"
+    ],
+    "POIs": [
+      {
+        "id": 862,
+        "title": "Palacio de Gobierno del Estado de Yucatán",
+        "googlePlaceId": "ChIJ2drQLmJxVo8RvqnuL_izkJQ"
+      },
+      {
+        "id": 3587,
+        "title": "Gran Hotel de Mérida",
+        "googlePlaceId": "ChIJDaPQgn1xVo8RRxeSNCUapII"
+      },
+      {
+        "id": 3639,
+        "title": "Palacio de la Música",
+        "googlePlaceId": "ChIJdfpoaGFxVo8RFMNFg45baP4"
+      },
+      {
+        "id": 4038,
+        "title": "Catedral de Mérida - San Ildefonso",
+        "googlePlaceId": "ChIJeQemNFNxVo8RXwtqNokpDHc"
+      },
+      {
+        "id": 17078,
+        "title": "Merida City Council",
+        "googlePlaceId": "ChIJF--f_aZ0Vo8R-kTOetyj9_s"
+      },
+      {
+        "id": 7800,
+        "title": "Autonomous University of Yucatan",
+        "googlePlaceId": "ChIJo0Y6pV5xVo8RlVP7jSdyJwM"
+      },
+      {
+        "id": 8406,
+        "title": "Jose Peon Contreras Theater",
+        "googlePlaceId": "ChIJPRD_cmFxVo8RhPl9E_vnzi4"
+      },
+      {
+        "id": 11990,
+        "title": "Parque de Santa Lucía",
+        "googlePlaceId": "ChIJySogAmFxVo8Rxkkp6OGhQgM"
+      },
+      {
+        "id": 12453,
+        "title": "Museo Casa Montejo",
+        "googlePlaceId": "ChIJZx1GamJxVo8RQ1Gi60uq08A"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/49100/walk-in-merida-with-a-mayan-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 164622,
+        "URL": "https://www.freetour.com/images/tours/49100/walk-in-merida-with-a-mayan-01.jpg"
+      },
+      {
+        "id": 164623,
+        "URL": "https://www.freetour.com/images/tours/49100/walk-in-merida-with-a-mayan-02.jpg"
+      },
+      {
+        "id": 164625,
+        "URL": "https://www.freetour.com/images/tours/49100/walk-in-merida-with-a-mayan-04.jpg"
+      },
+      {
+        "id": 164627,
+        "URL": "https://www.freetour.com/images/tours/49100/walk-in-merida-with-a-mayan-06.jpg"
+      },
+      {
+        "id": 164632,
+        "URL": "https://www.freetour.com/images/tours/49100/walk-in-merida-with-a-mayan-11.jpg"
+      },
+      {
+        "id": 165200,
+        "URL": "https://www.freetour.com/images/tours/49100/walking-in-merida-with-a-mayan-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 65
   }
 ]

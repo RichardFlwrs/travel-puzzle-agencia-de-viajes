@@ -1,7 +1,7 @@
 [
   {
     "id": 276,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Ultimate Free Tour Baku: Old and New City",
       "es": "Ultimate Free Tour Bakú: Ciudad vieja y nueva",
@@ -182,7 +182,7 @@
   },
   {
     "id": 277,
-    "updatedAt": "2025-12-01 01:00:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pub Crawl Tour",
       "es": "Ruta de bares",
@@ -276,7 +276,7 @@
   },
   {
     "id": 1219,
-    "updatedAt": "2025-12-01 08:28:02",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Baku Free Tour: Old Town, Legends & Hidden Gems",
       "es": "Bakú Free Tour: Casco antiguo, leyendas y joyas ocultas",
@@ -445,11 +445,11 @@
     ],
     "videoURL": null,
     "rating": 4.84,
-    "reviewsNumber": 208
+    "reviewsNumber": 209
   },
   {
     "id": 1265,
-    "updatedAt": "2025-12-01 01:01:10",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Old Town Walking Tour",
       "es": "Paseo por el casco antiguo de Bakú",
@@ -575,7 +575,7 @@
   },
   {
     "id": 1266,
-    "updatedAt": "2025-12-01 01:01:10",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gobustan and Mud Volcano Tour",
       "es": "Excursión al Gobustán y al Volcán de Barro",
@@ -736,7 +736,7 @@
   },
   {
     "id": 1267,
-    "updatedAt": "2025-12-01 01:01:10",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mystic Ateshgah and Burning Mountain Tour",
       "es": "Excursión a Ateshgah Místico y la Montaña Ardiente",
@@ -859,7 +859,7 @@
   },
   {
     "id": 1268,
-    "updatedAt": "2025-12-01 01:01:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Night  Walking Tour",
       "es": "Paseo nocturno por Bakú",
@@ -972,7 +972,7 @@
   },
   {
     "id": 4581,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Private Sightseeing Tour",
       "es": "Visita turística privada de Bakú",
@@ -1070,7 +1070,7 @@
   },
   {
     "id": 5355,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Private City Tour",
       "es": "Visita privada de Bakú",
@@ -1170,7 +1170,7 @@
   },
   {
     "id": 6542,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku City Walking Tour",
       "es": "Visita a pie de Bakú",
@@ -1268,7 +1268,7 @@
   },
   {
     "id": 13941,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Downtown Original Walking Tour",
       "es": "Recorrido original a pie por el centro de Bakú",
@@ -1570,7 +1570,7 @@
   },
   {
     "id": 14397,
-    "updatedAt": "2025-12-01 01:04:14",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Shopping Tour",
       "es": "De compras por Bakú",
@@ -1714,7 +1714,7 @@
   },
   {
     "id": 34896,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Baku Tour",
       "es": "Recorrido a pie por Bakú",
@@ -1794,7 +1794,7 @@
   },
   {
     "id": 46122,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Soviet Architecture Guided Walking Tour",
       "es": "Visita guiada a pie por la arquitectura soviética de Bakú",
@@ -1895,7 +1895,7 @@
   },
   {
     "id": 65203,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Baku on a City Tour",
       "es": "Explora Bakú en un Recorrido por la Ciudad",
@@ -2014,7 +2014,7 @@
   },
   {
     "id": 67273,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Wonders of Baku",
       "es": "Explore las Maravillas de Bakú",
@@ -2127,7 +2127,7 @@
   },
   {
     "id": 68289,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Vibrant World of Sufi Hamid",
       "es": "Explore el Vibrante Mundo de Sufi Hamid",
@@ -2221,7 +2221,7 @@
   },
   {
     "id": 70081,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Baku's Old and Modern Wonders",
       "es": "Visita a las maravillas antiguas y modernas de Bakú",
@@ -2408,7 +2408,7 @@
   },
   {
     "id": 72314,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Old and Modern Baku City Tour",
       "es": "Visita gratuita a la ciudad antigua y moderna de Bakú",
@@ -2566,7 +2566,7 @@
   },
   {
     "id": 75298,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Highlights of Baku and Absheron",
       "es": "Lo más Destacado de Bakú y Absheron",
@@ -2702,7 +2702,7 @@
   },
   {
     "id": 75300,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Azerbaijan in Ten Days",
       "es": "Descubra Azerbaiyán en Diez Días",
@@ -2969,7 +2969,7 @@
   },
   {
     "id": 75364,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku & Beyond: Absheron, Gabala, Sheki, Quba & Shahdag Tour",
       "es": "Bakú y más Allá: Absheron, Gabala, Sheki, Quba y Shahdag",
@@ -3117,7 +3117,7 @@
   },
   {
     "id": 76063,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku: Gobustan, Mud Volcanoes, Fire Temple & Night Tour",
       "es": "Bakú: Gobustán, volcanes de barro, templo del fuego y visita nocturna",
@@ -3233,7 +3233,7 @@
   },
   {
     "id": 76065,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku: Gobustan and Absheron Adventure Tour",
       "es": "Bakú: Aventura en Gobustán y Absherón",
@@ -3347,7 +3347,7 @@
   },
   {
     "id": 76073,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Baku’s Architecture and Polish Legacy",
       "es": "Descubra la Arquitectura y el Legado Polaco de Bakú",
@@ -3493,7 +3493,7 @@
   },
   {
     "id": 76272,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Gobustan & Absheron Peninsula",
       "es": "Explora Gobustán y la Península de Absherón",
@@ -3612,7 +3612,7 @@
   },
   {
     "id": 76776,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Baku: Old Town to Modern Marvel",
       "es": "Explora Bakú: Del Casco Antiguo a la Maravilla Moderna",
@@ -3718,7 +3718,7 @@
   },
   {
     "id": 76995,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Baku Old City Tour",
       "es": "Visita al casco antiguo de Bakú",
@@ -3899,12 +3899,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=YWKqQk9oKpA",
-    "rating": 4.9399999999999995,
-    "reviewsNumber": 7
+    "rating": 4.95,
+    "reviewsNumber": 8
   },
   {
     "id": 77142,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of the Highlights of Baku's Old and Modern City",
       "es": "Visita gratuita a los lugares más destacados de la ciudad antigua y moderna de Bakú",
@@ -4098,7 +4098,7 @@
   },
   {
     "id": 77145,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of Main Highlights of Old & Modern Baku",
       "es": "Visita gratuita a los principales lugares de interés de la Bakú antigua y moderna",
@@ -4436,7 +4436,7 @@
   },
   {
     "id": 77349,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Sheki: Full-Day Cultural Tour",
       "es": "Descubra Sheki: Excursión Cultural de un día",
@@ -4522,7 +4522,7 @@
   },
   {
     "id": 77365,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Escape: Nature, Mountains & Candy-Colored Hills",
       "es": "Escapada a Bakú: Naturaleza, Montañas y Colinas color Caramelo",
@@ -4650,7 +4650,7 @@
   },
   {
     "id": 77372,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku to Gabala: Mountains, Lakes & Waterfalls Tour",
       "es": "De Bakú a Gabala: Montañas, Lagos y Cascadas",
@@ -4792,7 +4792,7 @@
   },
   {
     "id": 77387,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 14:55:05",
     "title": {
       "en": "Walk the Wind: Baku’s Ultimate Walking Tour",
       "es": "Camina por el viento: la mejor ruta a pie de Bakú",
@@ -5076,7 +5076,7 @@
   },
   {
     "id": 78101,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Miracle at Night: Baku’s History in Modern Lights",
       "es": "Milagro de Noche: La Historia de Bakú a la luz de la Modernidad",
@@ -5214,7 +5214,7 @@
   },
   {
     "id": 78141,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Night Experience: Historic & Modern",
       "es": "Experiencia Nocturna en Bakú: Histórica y Moderna",
@@ -5351,7 +5351,7 @@
   },
   {
     "id": 78156,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Discover All Baku in One Day Free Tour",
       "es": "Descubra todo Bakú en una excursión gratuita de un día",
@@ -5572,7 +5572,7 @@
   },
   {
     "id": 78183,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Baku Religious Architectural Tour",
       "es": "Visita arquitectónica religiosa de Bakú",
@@ -5681,7 +5681,7 @@
   },
   {
     "id": 78184,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Old Сity Iceriseher Baku Free Tour with Caspian Sea View & History",
       "es": "Antigua ciudad de Iceriseher Bakú Tour gratuito con vistas al mar Caspio y la historia",
@@ -5805,7 +5805,7 @@
   },
   {
     "id": 78295,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Night Baku Free Tour",
       "es": "Visita nocturna gratuita de Bakú",
@@ -5977,7 +5977,7 @@
   },
   {
     "id": 78353,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Azerbaijani Cuisine: History, Traditions & Flavors",
       "es": "Cocina azerbaiyana: historia, tradiciones y sabores",
@@ -6060,12 +6060,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.96,
-    "reviewsNumber": 5
+    "rating": 4.3,
+    "reviewsNumber": 6
   },
   {
     "id": 78846,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Gobustan & Absheron: Land of Fire & History",
       "es": "Gobustán y Absherón: Tierra de Fuego e Historia",
@@ -6164,12 +6164,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 3.67,
+    "reviewsNumber": 3
   },
   {
     "id": 79005,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Jewish Heritage Gems  in Azerbaijan ",
       "es": "Joyas del patrimonio judío en Azerbaiyán ",
@@ -6276,7 +6276,7 @@
   },
   {
     "id": 79199,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Soviet Baku: Traces of Socialist Architecture",
       "es": "El Bakú soviético: Huellas de la Arquitectura Socialista",
@@ -6614,7 +6614,7 @@
   },
   {
     "id": 79887,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Discover Baku by Subway: A Journey Through Landmarks",
       "es": "Descubra Bakú en Metro: Un Viaje a través de Lugares Emblemáticos",
@@ -6726,7 +6726,7 @@
   },
   {
     "id": 80135,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Azerbaijani Food: A Local Feast",
       "es": "Descubra la Comida Azerbaiyana: Un Festín Local",
@@ -6822,7 +6822,7 @@
   },
   {
     "id": 80146,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Old Town Baku: A Walk Through History",
       "es": "El casco antiguo de Bakú: Un paseo por la historia",
@@ -6946,11 +6946,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 13
+    "reviewsNumber": 16
   },
   {
     "id": 81082,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Baku City Tour: Take a Gondola & Ferris Wheel Ride",
       "es": "Tour por Bakú: Paseo en Góndola y Noria",
@@ -7102,7 +7102,7 @@
   },
   {
     "id": 81904,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Guba and Shahdag Tour of Baku",
       "es": "Explorar Guba y Shahdag Tour de Bakú",
@@ -7216,7 +7216,7 @@
   },
   {
     "id": 81989,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Gabala & Shamakhi",
       "es": "Descubra Gabala y Shamakhi",
@@ -7310,7 +7310,7 @@
   },
   {
     "id": 82857,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Absheron & Gobustan: Petroglyphs & Mud Volcanoes",
       "es": "Absheron y Gobustán: Petroglifos y volcanes de lodo",
@@ -7511,7 +7511,7 @@
   },
   {
     "id": 82954,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quba & Shahdag Mountain Adventure from Baku",
       "es": "Aventura en las montañas de Quba y Shahdag desde Bakú",
@@ -7611,7 +7611,7 @@
   },
   {
     "id": 82978,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Magical Journey to Guba and Shahdag Mountains",
       "es": "Viaje Mágico a las Montañas de Guba y Shahdag",
@@ -7711,7 +7711,7 @@
   },
   {
     "id": 83090,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Baku: Top Five Places to visit in Gobustan and Absheron",
       "es": "Bakú: Los cinco mejores lugares para visitar en Gobustán y Absherón",
@@ -7830,7 +7830,7 @@
   },
   {
     "id": 83101,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Baku Photography Free Tour",
       "es": "Bakú Fotografía Free Tour",
@@ -7955,12 +7955,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 3.6,
+    "reviewsNumber": 3
   },
   {
     "id": 83134,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sheki: Full-Day Journey to the Heart of the Caucasus",
       "es": "Sheki: Viaje de un día al Corazón del Cáucaso",
@@ -8101,7 +8101,7 @@
   },
   {
     "id": 83150,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guba & Khinaliq Discovery: Full-Day Tour from Baku",
       "es": "Descubrimiento de Guba y Khinaliq: Excursión de un día desde Bakú",
@@ -8230,7 +8230,7 @@
   },
   {
     "id": 83258,
-    "updatedAt": "2025-12-01 11:11:51",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of Baku: Old City & Beyond",
       "es": "Visita gratuita a Bakú: Casco antiguo y alrededores",
@@ -8329,11 +8329,11 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 16
+    "reviewsNumber": 20
   },
   {
     "id": 83373,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Baku’s Journey from Past to Present",
       "es": "Descubra el Viaje de Bakú del Pasado al Presente",
@@ -8459,7 +8459,7 @@
   },
   {
     "id": 84097,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Ultimate Free Tour of Baku: Stones, Stories & Sea Breezes",
       "es": "La visita gratuita definitiva de Bakú: Piedras, historias y brisa marina",
@@ -8727,7 +8727,7 @@
   },
   {
     "id": 84331,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Old City of Baku Photo Walk in Traditional Azerbaijani Costume",
       "es": "Paseo fotográfico por el casco antiguo de Bakú en traje tradicional azerbaiyano",
@@ -8848,7 +8848,7 @@
   },
   {
     "id": 84636,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Oil History Guided Walking Tour",
       "es": "Visita guiada a pie por la historia del petróleo de Bakú",
@@ -8978,7 +8978,7 @@
   },
   {
     "id": 84849,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Spiritual Tour Baku and Shamakhi",
       "es": "Visita espiritual a Bakú y Shamakhi",
@@ -9166,7 +9166,7 @@
   },
   {
     "id": 84879,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baku Pub Crawl with Locals",
       "es": "Pub de Bakú con los lugareños",
@@ -9270,7 +9270,7 @@
   },
   {
     "id": 84889,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Azerbaijani Elegance: Wine Tour of Baku",
       "es": "Elegancia azerbaiyana: Ruta del vino por Bakú",
@@ -9382,7 +9382,7 @@
   },
   {
     "id": 85277,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Azerbaijan in Color: Candy Cane & Five Fingers",
       "es": "Azerbaiyán en color: bastón de caramelo y cinco dedos",
@@ -9477,7 +9477,7 @@
   },
   {
     "id": 85584,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taste of Azerbaijan: Authentic Cuisine & Cultural Heritage Tour",
       "es": "Sabor a Azerbaiyán: auténtica cocina y patrimonio cultural",

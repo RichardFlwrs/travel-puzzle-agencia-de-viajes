@@ -1,7 +1,7 @@
 [
   {
     "id": 4907,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Tiraspol",
       "es": "Visita gratuita a Tiraspol",
@@ -96,12 +96,12 @@
       }
     ],
     "videoURL": "https://youtube.com/shorts/gQ_JMFC2854?si=0c5E-Jj6HX-3hZcf",
-    "rating": 4.74,
-    "reviewsNumber": 16
+    "rating": 4.92,
+    "reviewsNumber": 17
   },
   {
     "id": 9372,
-    "updatedAt": "2025-12-01 01:03:52",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pridnestrovie Full Day Tour - to Tiraspol and Beyond!",
       "es": "Excursión de un día a Pridnestrovie: ¡a Tiraspol y más allá!",
@@ -241,7 +241,7 @@
   },
   {
     "id": 38710,
-    "updatedAt": "2025-12-01 01:07:19",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tiraspol Must-See Tour ",
       "es": "Visita obligada a Tiraspol ",
@@ -375,7 +375,7 @@
   },
   {
     "id": 54174,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chisinau City Tour & Visit Milesti Mici Winery",
       "es": "Visita de Chisinau y Bodega Milesti Mici",
@@ -506,7 +506,7 @@
   },
   {
     "id": 83914,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour around Chisinau",
       "es": "Paseo gratuito por Chisinau",
@@ -632,6 +632,6 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 17
+    "reviewsNumber": 22
   }
 ]

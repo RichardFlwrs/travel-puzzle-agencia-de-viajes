@@ -1,7 +1,7 @@
 [
   {
     "id": 782,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Istanbul",
       "es": "Visita gratuita a Estambul",
@@ -144,11 +144,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=d43fYV1oFC0",
     "rating": 4.67,
-    "reviewsNumber": 2459
+    "reviewsNumber": 2474
   },
   {
     "id": 855,
-    "updatedAt": "2025-12-01 01:00:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Golden Horn and Bosphorus Cruise Tour",
       "es": "Crucero por el Cuerno de Oro y el Bósforo",
@@ -215,7 +215,7 @@
   },
   {
     "id": 3491,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Traditional Turkish Breakfast in Antalya",
       "es": "Desayuno tradicional turco en Antalya",
@@ -283,7 +283,7 @@
   },
   {
     "id": 3594,
-    "updatedAt": "2025-12-01 01:02:09",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Best of Istanbul: Basilica Cistern, Blue Mosque, Grand Bazaar",
       "es": "Lo mejor de Estambul: Cisterna Basílica, Mezquita Azul, Gran Bazar",
@@ -517,7 +517,7 @@
   },
   {
     "id": 3718,
-    "updatedAt": "2025-12-01 01:02:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Modern City Walking: Taksim To Galata With Secret Passages",
       "es": "Tour por la Ciudad Moderna de Estambul: Taksim a Galata con Pasaje",
@@ -794,7 +794,7 @@
   },
   {
     "id": 3725,
-    "updatedAt": "2025-12-01 01:02:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Topkapı Palace with Harem & Blue Mosque Guided Tour",
       "es": "Palacio Topkapı con Harén y Visita Guiada a la Mezquita Azul",
@@ -965,7 +965,7 @@
   },
   {
     "id": 3726,
-    "updatedAt": "2025-12-01 01:02:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul City and Secret Streets Tour",
       "es": "Visita a Estambul y sus calles secretas",
@@ -1204,7 +1204,7 @@
   },
   {
     "id": 3946,
-    "updatedAt": "2025-12-01 01:02:16",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Culinary Tour: Local Tavern and Gourmet Street Foods",
       "es": "Tour Culinario de Estambul: Taberna Local y Comida Callejera Gourmet",
@@ -1433,7 +1433,7 @@
   },
   {
     "id": 5687,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Private 6-hour Walking Tour",
       "es": "Tour a Pie Privado de 6 Horas por Estambul",
@@ -1533,7 +1533,7 @@
   },
   {
     "id": 5894,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Old City Full Day Tour",
       "es": "Excursión de un día por el casco antiguo de Estambul",
@@ -1640,7 +1640,7 @@
   },
   {
     "id": 6028,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Breakfast Morning Bosphorus Tour ",
       "es": "Desayuno Por la mañana Excursión al Bósforo ",
@@ -1718,7 +1718,7 @@
   },
   {
     "id": 6072,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bosphorous Noon and Evening  Cruise",
       "es": "Crucero de mediodía y noche por el Bósforo",
@@ -1791,7 +1791,7 @@
   },
   {
     "id": 6274,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Dinner Cruise On The Bosphorus",
       "es": "Estambul Cena en crucero por el Bósforo",
@@ -1884,7 +1884,7 @@
   },
   {
     "id": 6275,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Daily Bursa Tour From Istanbul",
       "es": "Excursión diaria a Bursa desde Estambul",
@@ -2002,7 +2002,7 @@
   },
   {
     "id": 6634,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul: One Day Two Continents Tour",
       "es": "Estambul: Visita de un día a dos continentes",
@@ -2108,7 +2108,7 @@
   },
   {
     "id": 13607,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cultural Izmir Tour",
       "es": "Visita cultural a Izmir",
@@ -2194,7 +2194,7 @@
   },
   {
     "id": 14327,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Beyazit to Galata Tour",
       "es": "De Beyazit a Galata",
@@ -2304,7 +2304,7 @@
   },
   {
     "id": 16314,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Tour with Amateur Local Guide",
       "es": "Tour de Estambul con Guía Local Aficionado",
@@ -2402,7 +2402,7 @@
   },
   {
     "id": 20944,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Istanbul: Essential History & Inner Visit to a Mosque",
       "es": "Recorrido gratuito por Estambul: historia esencial y visita interior a una mezquita",
@@ -2555,7 +2555,7 @@
   },
   {
     "id": 26064,
-    "updatedAt": "2025-12-01 23:08:02",
+    "updatedAt": "2025-12-11 10:11:05",
     "title": {
       "en": "Old & New Part of İstanbul  With Panoramic View Spots",
       "es": "Parte antigua y nueva de Estambul con vistas panorámicas",
@@ -2655,7 +2655,7 @@
   },
   {
     "id": 26139,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Old City Highlights Cultural Walking Tour of Istanbul",
       "es": "Tour Cultural por lo más Destacado de la Ciudad Vieja de Estambul",
@@ -2772,7 +2772,7 @@
   },
   {
     "id": 28553,
-    "updatedAt": "2025-12-01 18:16:10",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Istanbul Fener-Balat Free Tour",
       "es": "Estambul Fener-Balat Free Tour",
@@ -2905,11 +2905,11 @@
     ],
     "videoURL": null,
     "rating": 4.87,
-    "reviewsNumber": 121
+    "reviewsNumber": 122
   },
   {
     "id": 28581,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Old City Tour: From Constantinople to Istanbul",
       "es": "Visita a la Ciudad Vieja: De Constantinopla a Estambul",
@@ -3021,11 +3021,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 204
+    "reviewsNumber": 214
   },
   {
     "id": 28872,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "The Alternative Free Tour: Daily Life, Customs, Stories",
       "es": "El Free Tour Alternativo: Vida cotidiana, costumbres, historias",
@@ -3143,7 +3143,7 @@
   },
   {
     "id": 30250,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "An Essential Free Tour of Istanbul",
       "es": "Una visita gratuita imprescindible por Estambul",
@@ -3283,7 +3283,7 @@
   },
   {
     "id": 31157,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Alternative Istanbul Free Tour",
       "es": "Free Tour por el Estambul Alternativo",
@@ -3365,12 +3365,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=K7vyjUeYV9w",
-    "rating": 4.59,
-    "reviewsNumber": 23
+    "rating": 4.57,
+    "reviewsNumber": 24
   },
   {
     "id": 33319,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Antalya Oldtown Free Walking Tour",
       "es": "Paseo gratuito por el casco antiguo de Antalya",
@@ -3509,7 +3509,7 @@
   },
   {
     "id": 33572,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Cappadocia Tour with Private Car",
       "es": "Tour Privado de Capadocia con Coche Privado",
@@ -3588,7 +3588,7 @@
   },
   {
     "id": 34657,
-    "updatedAt": "2025-12-01 19:04:04",
+    "updatedAt": "2025-12-11 10:11:05",
     "title": {
       "en": "Blue Mosque Inside & Out with Dr Sib",
       "es": "La Mezquita Azul por dentro y por fuera con el Dr. Sib",
@@ -3606,12 +3606,12 @@
       "pt": "Explore a história e a arquitetura de Istambul numa excursão que abrange a Praça Sultanahmet, a Coluna da Serpente, o Obelisco Egípcio, a Fonte Alemã e a Mesquita Azul. Saiba mais sobre as raízes antigas da cidade."
     },
     "description": {
-      "de": "Innenbesichtigung der Blauen Moschee mit Dr. Sib\r\n\r\nEntdecken Sie die Geheimnisse der Blauen Moschee von Sultanahmet mit einem erfahrenen Führer! Diese Tour führt Sie ins Innere der Blauen Moschee, um ihre einzigartigen Kuppeln und Kacheln zu bewundern. Wir werden auch das römische Hippodrom (Obelisk, Schlangensäule) und die majestätische Hagia Sophia von außen erkunden und ihre verborgenen Geschichten aufdecken. Geführt von Dr. Sib, einem Historiker und Forscher. \r\n\r\nVergessen Sie die Menschenmassen: Unsere Gruppen sind klein und bieten Ihnen ein persönliches Erlebnis.\r\n\r\nTreffpunkt: Schlangensäule. Ich werde unter dem großen Baum zwischen der Schlangensäule und der Blauen Moschee stehen.\r\n\r\nKleiderordnung: Schultern und Knie bedeckt für die Moschee (Männer und Frauen). Frauen benötigen ein Kopftuch (wir können eines ausleihen).\r\n\r\nBuchen Sie jetzt und sichern Sie sich Ihren Platz auf dieser unvergesslichen Reise in das Herz von Istanbul!\r\n\r\nIch wünsche Ihnen eine gute Reise,\r\nDr. Sib",
-      "en": "Blue Mosque Interior Tour with Dr. Sib\r\n\r\nDiscover the secrets of Sultanahmet Blue Mosque with an expert guide! This tour takes you inside the Blue Mosque to admire its unique domes and tiles. We'll also explore the Roman Hippodrome (Obelisk, Serpentine Column) and the majestic Hagia Sophia from the outside, uncovering their hidden stories. Guided by Dr. Sib, a historian and researcher. \r\n\r\nForget the crowds: our groups are small for a personalized experience.\r\n\r\nMeeting point: Serpent Column. I will be under the big tree between Serpent Column and Blue Mosque.\r\n\r\nDress code: Shoulders and knees covered for the mosque (men and women). Women will need a headscarf (we can lend one).\r\n\r\nBook now and guarantee your spot on this unforgettable trip to the heart of Istanbul!\r\n\r\nHave a safe trip,\r\nDr. Sib",
-      "es": "Visita interior de la Mezquita Azul con el Dr. Sib\r\n\r\nDescubra los secretos de la Mezquita Azul de Sultanahmet con un guía experto Este recorrido le llevará al interior de la Mezquita Azul para admirar sus cúpulas y azulejos únicos. También exploraremos el Hipódromo Romano (Obelisco, Columna Serpentina) y la majestuosa Santa Sofía desde el exterior, descubriendo sus historias ocultas. Guiados por el Dr. Sib, historiador e investigador. \r\n\r\nOlvídese de las multitudes: nuestros grupos son reducidos para una experiencia personalizada.\r\n\r\nPunto de encuentro: Columna de la Serpiente. Estaré bajo el gran árbol situado entre la Columna de la Serpiente y la Mezquita Azul.\r\n\r\nCódigo de vestimenta: Hombros y rodillas cubiertos para la mezquita (hombres y mujeres). Las mujeres necesitarán un pañuelo en la cabeza (podemos prestar uno).\r\n\r\nReserve ahora y garantice su plaza en este inolvidable viaje al corazón de Estambul\r\n\r\nBuen viaje,\r\nDr. Sib",
-      "fr": "Visite de l'intérieur de la Mosquée bleue avec le Dr\r\n\r\nDécouvrez les secrets de la Mosquée bleue de Sultanahmet avec un guide expert ! Cette visite vous emmène à l'intérieur de la Mosquée bleue pour admirer ses dômes et ses tuiles uniques. Nous explorerons également l'hippodrome romain (obélisque, colonne serpentine) et la majestueuse Sainte-Sophie de l'extérieur, en découvrant leurs histoires cachées. Guidés par le Dr Sib, historien et chercheur. \r\n\r\nOubliez les foules : nos groupes sont restreints pour une expérience personnalisée.\r\n\r\nPoint de rencontre : Colonne du Serpent. Je serai sous le grand arbre entre la Colonne du Serpent et la Mosquée bleue.\r\n\r\nCode vestimentaire : Épaules et genoux couverts pour la mosquée (hommes et femmes). Les femmes ont besoin d'un foulard (nous pouvons en prêter un).\r\n\r\nRéservez dès maintenant et garantissez votre place pour ce voyage inoubliable au cœur d'Istanbul !\r\n\r\nBon voyage,\r\nDr. Sib",
-      "it": "Tour degli interni della Moschea Blu con il Dr. Sib\r\n\r\nScoprite i segreti della Moschea Blu di Sultanahmet con una guida esperta! Questo tour vi porterà all'interno della Moschea Blu per ammirare le sue cupole e le sue piastrelle uniche. Esploreremo anche l'Ippodromo romano (Obelisco, Colonna Serpentina) e la maestosa Basilica di Santa Sofia dall'esterno, scoprendo le loro storie nascoste. Guidati dal Dr. Sib, storico e ricercatore. \r\n\r\nDimenticate le folle: i nostri gruppi sono piccoli per un'esperienza personalizzata.\r\n\r\nPunto d'incontro: Colonna del Serpente. Sarò sotto il grande albero tra la Colonna del Serpente e la Moschea Blu.\r\n\r\nCodice di abbigliamento: Spalle e ginocchia coperte per la moschea (uomini e donne). Le donne avranno bisogno di un foulard (possiamo prestarne uno).\r\n\r\nPrenotate ora e garantitevi un posto in questo viaggio indimenticabile nel cuore di Istanbul!\r\n\r\nBuon viaggio,\r\nDr. Sib",
-      "pt": "Visita ao interior da Mesquita Azul com o Dr. Sib\r\n\r\nDescubra os segredos da Mesquita Azul de Sultanahmet com um guia especializado! Este passeio leva-o ao interior da Mesquita Azul para admirar as suas cúpulas e azulejos únicos. Exploraremos também o Hipódromo Romano (Obelisco, Coluna Serpentina) e a majestosa Hagia Sophia a partir do exterior, descobrindo as suas histórias escondidas. Guiados pelo Dr. Sib, historiador e investigador. \r\n\r\nEsqueça as multidões: os nossos grupos são pequenos para uma experiência personalizada.\r\n\r\nPonto de encontro: Coluna da Serpente. Estarei debaixo da grande árvore entre a Coluna da Serpente e a Mesquita Azul.\r\n\r\nCódigo de vestuário: Ombros e joelhos cobertos para a mesquita (homens e mulheres). As mulheres precisam de um lenço na cabeça (podemos emprestar um).\r\n\r\nReserve já e garanta o seu lugar nesta viagem inesquecível ao coração de Istambul!\r\n\r\nBoa viagem,\r\nDr. Sib"
+      "de": "Innere Besichtigung der Blauen Moschee und Denkmäler in der Umgebung mit Dr. Sib\r\n\r\nEntdecken Sie die Geheimnisse der Blauen Moschee von Sultanahmet mit einem erfahrenen Führer! Diese Tour führt Sie ins Innere der Blauen Moschee, um ihre einzigartigen Kuppeln und Kacheln zu bewundern. Wir werden auch das römische Hippodrom (Obelisk, Schlangensäule) und die majestätische Hagia Sophia von außen erkunden und ihre verborgenen Geschichten aufdecken. Geführt von Dr. Sib, einem Historiker und Forscher. \r\n\r\nVergessen Sie die Menschenmassen: Unsere Gruppen sind klein und bieten Ihnen ein persönliches Erlebnis. Treffpunkt: Schlangensäule. Ich werde unter dem großen Baum zwischen der Schlangensäule und der Blauen Moschee stehen.\r\n\r\nKleiderordnung: Schultern und Knie bedeckt für die Moschee (Männer und Frauen). Frauen benötigen ein Kopftuch (wir können eines ausleihen).\r\n\r\nBuchen Sie jetzt und sichern Sie sich Ihren Platz auf dieser unvergesslichen Reise in das Herz von Istanbul!\r\n\r\nIch wünsche Ihnen eine gute Reise,\r\nDr. Sib",
+      "en": "Blue Mosque Inner Visit and Monuments Around with Dr. Sib\r\n\r\nDiscover the secrets of Sultanahmet Blue Mosque with an expert guide! This tour takes you inside the Blue Mosque to admire its unique domes and tiles. We'll also explore the Roman Hippodrome (Obelisk, Serpentine Column) and the majestic Hagia Sophia from the outside, uncovering their hidden stories. Guided by Dr. Sib, a historian and researcher. \r\n\r\nForget the crowds: our groups are small for a personalized experience. Meeting point: Serpent Column. I will be under the big tree between Serpent Column and Blue Mosque.\r\n\r\nDress code: Shoulders and knees covered for the mosque (men and women). Women will need a headscarf (we can lend one).\r\n\r\nBook now and guarantee your spot on this unforgettable trip to the heart of Istanbul!\r\n\r\nHave a safe trip,\r\nDr. Sib",
+      "es": "Visita interior de la Mezquita Azul y monumentos de los alrededores con el Dr. Sib\r\n\r\nDescubra los secretos de la Mezquita Azul de Sultanahmet con un guía experto Este recorrido le llevará al interior de la Mezquita Azul para admirar sus cúpulas y azulejos únicos. También exploraremos el Hipódromo Romano (Obelisco, Columna Serpentina) y la majestuosa Santa Sofía desde el exterior, descubriendo sus historias ocultas. Guiados por el Dr. Sib, historiador e investigador. \r\n\r\nOlvídese de las multitudes: nuestros grupos son reducidos para una experiencia personalizada. Punto de encuentro: Columna de la Serpiente. Estaré bajo el gran árbol situado entre la Columna de la Serpiente y la Mezquita Azul.\r\n\r\nCódigo de vestimenta: Hombros y rodillas cubiertos para la mezquita (hombres y mujeres). Las mujeres necesitarán un pañuelo en la cabeza (podemos prestar uno).\r\n\r\nReserve ahora y garantice su plaza en este inolvidable viaje al corazón de Estambul\r\n\r\nBuen viaje,\r\nDr. Sib",
+      "fr": "Visite intérieure de la Mosquée bleue et des monuments environnants avec le Dr Sib\r\n\r\nDécouvrez les secrets de la Mosquée bleue de Sultanahmet avec un guide expert ! Cette visite vous emmène à l'intérieur de la Mosquée bleue pour admirer ses dômes et ses tuiles uniques. Nous explorerons également l'hippodrome romain (obélisque, colonne serpentine) et la majestueuse Sainte-Sophie de l'extérieur, en découvrant leurs histoires cachées. Guidés par le Dr Sib, historien et chercheur. \r\n\r\nOubliez les foules : nos groupes sont restreints pour une expérience personnalisée. Point de rencontre : Colonne du Serpent. Je serai sous le grand arbre entre la Colonne du Serpent et la Mosquée Bleue.\r\n\r\nCode vestimentaire : Épaules et genoux couverts pour la mosquée (hommes et femmes). Les femmes ont besoin d'un foulard (nous pouvons en prêter un).\r\n\r\nRéservez dès maintenant et garantissez votre place pour ce voyage inoubliable au cœur d'Istanbul !\r\n\r\nBon voyage,\r\nDr. Sib",
+      "it": "Visita interna della Moschea Blu e dei monumenti circostanti con il Dr. Sib\r\n\r\nScoprite i segreti della Moschea Blu di Sultanahmet con una guida esperta! Questo tour vi porterà all'interno della Moschea Blu per ammirare le sue cupole e le sue piastrelle uniche. Esploreremo anche l'Ippodromo romano (Obelisco, Colonna Serpentina) e la maestosa Basilica di Santa Sofia dall'esterno, scoprendo le loro storie nascoste. Guidati dal Dr. Sib, storico e ricercatore. \r\n\r\nDimenticate le folle: i nostri gruppi sono piccoli per un'esperienza personalizzata. Punto d'incontro: Colonna del Serpente. Sarò sotto il grande albero tra la Colonna del Serpente e la Moschea Blu.\r\n\r\nCodice di abbigliamento: Spalle e ginocchia coperte per la moschea (uomini e donne). Le donne avranno bisogno di un foulard (possiamo prestarne uno).\r\n\r\nPrenotate ora e garantitevi un posto in questo viaggio indimenticabile nel cuore di Istanbul!\r\n\r\nBuon viaggio,\r\nDr. Sib",
+      "pt": "Visita interior à Mesquita Azul e monumentos em redor com o Dr. Sib\r\n\r\nDescubra os segredos da Mesquita Azul de Sultanahmet com um guia especializado! Esta excursão leva-o ao interior da Mesquita Azul para admirar as suas cúpulas e azulejos únicos. Exploraremos também o Hipódromo Romano (Obelisco, Coluna Serpentina) e a majestosa Hagia Sophia a partir do exterior, descobrindo as suas histórias escondidas. Guiados pelo Dr. Sib, historiador e investigador. \r\n\r\nEsqueça as multidões: os nossos grupos são pequenos para uma experiência personalizada. Ponto de encontro: Coluna da Serpente. Estarei debaixo da grande árvore entre a Coluna da Serpente e a Mesquita Azul.\r\n\r\nCódigo de vestuário: Ombros e joelhos cobertos para a mesquita (homens e mulheres). As mulheres precisam de um lenço na cabeça (podemos emprestar um).\r\n\r\nReserve já e garanta o seu lugar nesta viagem inesquecível ao coração de Istambul!\r\n\r\nBoa viagem,\r\nDr. Sib"
     },
     "providerTitle": "Dr Sib",
     "providerPhone": "+905425490063",
@@ -3625,7 +3625,7 @@
       "it": "https://www.freetour.com/it/istanbul/blue-mosque-inside-out-a-serenity-tour?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 15,
+      "value": 0,
       "currency": "EUR"
     },
     "length": "1:15",
@@ -3713,7 +3713,7 @@
   },
   {
     "id": 34929,
-    "updatedAt": "2025-12-01 20:06:15",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Two Continents one City: Istanbul Free Tour from Europe to Asia",
       "es": "Dos continentes, una ciudad: Estambul Free Tour de Europa a Asia",
@@ -3827,11 +3827,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 290
+    "reviewsNumber": 292
   },
   {
     "id": 35868,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour of Didim",
       "es": "Visita a pie de Didim",
@@ -3923,7 +3923,7 @@
   },
   {
     "id": 35941,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Everything to See in Urfa at Once",
       "es": "Todo lo que hay que ver en Urfa a la vez",
@@ -4037,14 +4037,14 @@
   },
   {
     "id": 36824,
-    "updatedAt": "2025-12-01 19:04:04",
+    "updatedAt": "2025-12-11 10:11:05",
     "title": {
-      "en": "Istanbul Old City Essentials: A Premium Tour with Dr. Sib",
-      "es": "Lo esencial de la Ciudad Vieja de Estambul: Un recorrido de primera con el Dr. Sib",
-      "pt": "Essenciais da Cidade Velha de Istambul: Uma visita guiada com o Dr. Sib",
-      "de": "Istanbul Altstadt Essentials: Eine Premium-Tour mit Dr. Sib",
-      "fr": "L'essentiel de la vieille ville d'Istanbul : Une visite premium avec le Dr. Sib",
-      "it": "Gli elementi essenziali della città vecchia di Istanbul: Un tour premium con il Dr. Sib"
+      "en": "Istanbul Old Town: Gems and Tales with Dr Sib",
+      "es": "Casco antiguo de Estambul: joyas y cuentos con el Dr. Sib",
+      "pt": "Cidade velha de Istambul: jóias e contos com o Dr. Sib",
+      "de": "Die Altstadt von Istanbul: Juwelen und Geschichten mit Dr. Sib",
+      "fr": "Vieille ville d'Istanbul : joyaux et contes avec le Dr Sib",
+      "it": "Il centro storico di Istanbul: gemme e racconti con il Dr Sib"
     },
     "brief": {
       "de": "Erkunden Sie die mächtigen Reiche der Geschichte auf einer Kleingruppenreise durch Istanbul. Entdecken Sie die Vergangenheit durch die Erhabenheit monumentaler Bauwerke, während wir ihre Bedeutung interpretieren und die Geheimnisse einiger der mächtigsten Reiche der Geschichte lüften.",
@@ -4055,12 +4055,12 @@
       "pt": "Explore os poderosos impérios da história numa excursão a Istambul em pequenos grupos. Descubra o passado através da grandiosidade de estruturas monumentais enquanto interpretamos o seu significado, desvendando os segredos de alguns dos impérios mais poderosos da história."
     },
     "description": {
-      "de": "Die Premium-Tour durch die Altstadt von Istanbul Essentials\r\n\r\nLassen Sie sich in einer kleinen Gruppe von der bezaubernden Schönheit Istanbuls verzaubern. Unser Rundgang ist ein gemütlicher Spaziergang ohne Steigungen und Eintrittsgelder. \r\nWährend der Tour werden wir sehen:\r\n- Sultanahmet-Platz (Hippodrom)\r\n- Blaue Moschee (innen und außen) *\r\n- Hagia Sofia (außen)\r\n- Obelisk des Theodosius\r\n- Obelisk von Konstantin\r\n- Schlangensäule\r\n- Madrasa von Sultanahmet\r\n- Hurrem-Sultan-Bad\r\n- Brunnen von Ahmad III\r\n- Topkapi-Palast\r\n- Osmanische Holzhäuser\r\n- Basillica-Zisterne (Yerebatan)\r\n- Der Millionenstein\r\n- Der Deutsche Springbrunnen\r\n- Tipps für Restaurants, Einkaufsmöglichkeiten und Fähranleger\r\n- Möglichkeiten für malerische Fotostopps und Ideen für weitere Orte. \r\n\r\nZum Betreten der Moscheen ist angemessene Kleidung erforderlich. Damen auch mit Kopftuch.\r\n\r\nBitte zögern Sie nicht, mich für private Führungen auf Arabisch, Englisch oder Spanisch zu kontaktieren.",
-      "en": "The Premium Tour of Istanbul Old Town Essentials\r\n\r\nPrepare to be captivated by the enchanting beauty of Istanbul in a small group. Our itinerary encompasses a leisurely stroll with no inclines or admission fees. \r\nDuring the tour, we'll see:\r\n- Sultanahmet Square (Hippodrome)\r\n- Blue Mosque (inside & outside) *\r\n- Hagia Sofia (outside)\r\n- Obelisk of Theodosius\r\n- Obelisk of Constantin\r\n- Serpent Column\r\n- Madrasa of Sultanahmet\r\n- Hurrem Sultan Bath\r\n- Fountain of Ahmad III\r\n- Topkapi Palace\r\n- Ottoman Wooden Houses\r\n- Basillica Cistern (Yerebatan)\r\n- The Million Stone\r\n- The German Fountain\r\n- Advises for restaurants, shopping places and ferry piers\r\n- Opportunities for picturesque photo stops and ideas for more places. \r\n\r\nAdequate dressing is needed to enter the mosques. Ladies, headscarves too.\r\n\r\nPlease feel free to contact me for private tours in Arabic, English or Spanish.",
-      "es": "El Tour Premium del Casco Antiguo de Estambul Esencial\r\n\r\nPrepárese para dejarse cautivar por la encantadora belleza de Estambul en un grupo reducido. Nuestro itinerario abarca un paseo tranquilo sin cuestas ni entradas. \r\nDurante el recorrido, veremos\r\n- Plaza Sultanahmet (Hipódromo)\r\n- Mezquita Azul (interior y exterior)\r\n- Hagia Sofia (exterior)\r\n- Obelisco de Teodosio\r\n- Obelisco de Constantino\r\n- Columna de la Serpiente\r\n- Madraza de Sultanahmet\r\n- Baño del Sultán Hurrem\r\n- Fuente de Ahmad III\r\n- Palacio de Topkapi\r\n- Casas otomanas de madera\r\n- Cisterna Basílica (Yerebatan)\r\n- La Piedra del Millón\r\n- Fuente Alemana\r\n- Consejos para restaurantes, lugares de compras y muelles de transbordadores\r\n- Oportunidades para paradas fotográficas pintorescas e ideas para más lugares. \r\n\r\nEs necesario vestir adecuadamente para entrar en las mezquitas. Las señoras, también pañuelo en la cabeza.\r\n\r\nNo dude en ponerse en contacto conmigo para visitas privadas en árabe, inglés o español.",
-      "fr": "La visite Premium de la vieille ville d'Istanbul : l'essentiel\r\n\r\nPréparez-vous à être captivé par la beauté enchanteresse d'Istanbul en petit groupe. Notre itinéraire comprend une promenade tranquille, sans dénivellation ni frais d'entrée. \r\nAu cours de la visite, nous verrons\r\n- La place Sultanahmet (Hippodrome)\r\n- Mosquée bleue (intérieur et extérieur) *\r\n- Hagia Sofia (extérieur)\r\n- Obélisque de Théodose\r\n- Obélisque de Constantin\r\n- Colonne du Serpent\r\n- Madrasa de Sultanahmet\r\n- Bain du sultan Hurrem\r\n- Fontaine d'Ahmad III\r\n- Palais de Topkapi\r\n- Maisons ottomanes en bois\r\n- Citerne Basillica (Yerebatan)\r\n- La pierre du million\r\n- La fontaine allemande\r\n- Conseils pour les restaurants, les magasins et les embarcadères des ferries\r\n- Possibilités d'arrêts photos pittoresques et idées pour d'autres endroits. \r\n\r\nUne tenue adéquate est nécessaire pour entrer dans les mosquées. Les dames doivent également porter le foulard.\r\n\r\nN'hésitez pas à me contacter pour des visites privées en arabe, anglais ou espagnol.",
-      "it": "Il tour premium del centro storico di Istanbul\r\n\r\nPreparatevi a lasciarvi affascinare dall'incantevole bellezza di Istanbul in un piccolo gruppo. Il nostro itinerario prevede una piacevole passeggiata senza pendenze o biglietti d'ingresso. \r\nDurante il tour, vedremo:\r\n- Piazza Sultanahmet (Ippodromo)\r\n- Moschea Blu (interno ed esterno)\r\n- Hagia Sofia (esterno)\r\n- Obelisco di Teodosio\r\n- Obelisco di Costantino\r\n- Colonna del Serpente\r\n- Madrasa di Sultanahmet\r\n- Bagno del Sultano Hurrem\r\n- Fontana di Ahmad III\r\n- Palazzo Topkapi\r\n- Case ottomane in legno\r\n- Cisterna Basillica (Yerebatan)\r\n- La Pietra del Milione\r\n- La fontana tedesca\r\n- Consigli per ristoranti, negozi e moli dei traghetti\r\n- Opportunità di soste fotografiche pittoresche e idee per altri luoghi. \r\n\r\nPer entrare nelle moschee è necessario un abbigliamento adeguato. Per le signore, anche il foulard.\r\n\r\nNon esitate a contattarmi per tour privati in arabo, inglese o spagnolo.",
-      "pt": "A excursão Premium da Cidade Velha de Istambul Essentials\r\n\r\nPrepare-se para ser cativado pela beleza encantadora de Istambul num pequeno grupo. O nosso itinerário inclui um passeio sem pressa, sem inclinações ou taxas de entrada. \r\nDurante o passeio, veremos:\r\n- Praça de Sultanahmet (Hipódromo)\r\n- Mesquita Azul (interior e exterior) *\r\n- Hagia Sofia (exterior)\r\n- Obelisco de Teodósio\r\n- Obelisco de Constantino\r\n- Coluna da Serpente\r\n- Madrasa de Sultanahmet\r\n- Banho do Sultão Hurrem\r\n- Fonte de Ahmad III\r\n- Palácio Topkapi\r\n- Casas de madeira otomanas\r\n- Cisterna da Basílica (Yerebatan)\r\n- A Pedra do Milhão\r\n- A Fonte Alemã\r\n- Conselhos para restaurantes, locais de compras e cais de ferries\r\n- Oportunidades para paragens fotográficas pitorescas e ideias para mais locais. \r\n\r\nÉ necessário um vestuário adequado para entrar nas mesquitas. Senhoras, véu também.\r\n\r\nNão hesite em contactar-me para visitas privadas em árabe, inglês ou espanhol."
+      "de": "Eine Premium-Tour durch die Altstadt von Istanbul\r\nZeitlose Geschichten mit Dr. Sib\r\n\r\nDies ist keine Vorlesung, sondern eine Reise, bei der die Steine selbst die Geschichten von Menschen erzählen, die die Geschichte geprägt haben. Begleiten Sie Dr. Sib, einen sachkundigen Führer und Forscher, auf einem Premium-Rundgang, der die Vergangenheit lebendig werden lässt. \r\n\r\n- Blaue Moschee (Innenbesichtigung)\r\n- Sokullu-Moschee (Innenbesichtigung)\r\n- Hippodrom-Platz\r\n- Der gemauerte Obelisk\r\n- Obelisk des Theodosius\r\n- Schlangensäule\r\n- Das Museum für türkische und islamische Kunst\r\n- Die Sphendon-Mauern\r\n- Arasta-Basar (fakultativ)\r\n- Tipps für Restaurants, Einkaufsmöglichkeiten und Fähranleger\r\n- Möglichkeiten für malerische Fotostopps und Ideen für weitere Orte... \r\n\r\nHinweis: Sollte es Schwierigkeiten geben, eine Moschee zu besuchen (Gebete etc.), werden wir zumindest in eine Moschee gehen. \r\nZum Betreten der Moscheen ist angemessene Kleidung erforderlich. Damen, auch Kopftücher.\r\n\r\nBitte zögern Sie nicht, mich für private Führungen auf Arabisch, Englisch oder Spanisch zu kontaktieren.\r\n\r\nSichern Sie sich jetzt Ihren Platz - Legenden erwarten Sie! \r\n\r\nGute Reise! \r\nDr. Sib",
+      "en": "A Premium Tour of Istanbul Old Town\r\nTimeless Stories with Dr. Sib\r\n\r\nThis is not a lecture; it is a journey where the very stones tell stories of people who shaped history. Join Dr. Sib, an expert guide and researcher, for a premium walking tour designed to bring the past vividly to life. \r\n\r\n- Blue Mosque (interior visit)\r\n- Sokullu Mosque (interior visit)\r\n- Hippodrome Square\r\n- The Walled Obelisk\r\n- Obelisk of Theodosius\r\n- Serpent Column\r\n- The Museum of Turkish and Islamic Arts\r\n- The Sphendon Walls\r\n- Arasta Bazaar (optional)\r\n- Advises for restaurants, shopping places and ferry piers\r\n- Opportunities for picturesque photo stops and ideas for more places... \r\n\r\nNote: In case there is a difficulty visiting a mosque (prayers etc.) we will go at least inside one of them. \r\nAdequate dressing is needed to enter the mosques. Ladies, headscarves too.\r\n\r\nPlease feel free to contact me for private tours in Arabic, English or Spanish.\r\n\r\nSecure Your Spot Now – Legends Await! \r\n\r\nHave a nice trip! \r\nDr. Sib",
+      "es": "Visita guiada por el casco antiguo de Estambul\r\nHistorias eternas con el Dr. Sib\r\n\r\nEsto no es una conferencia, es un viaje en el que las piedras cuentan historias de personas que marcaron la historia. Acompañe a la Dra. Sib, guía e investigadora experta, en una visita guiada de primera categoría diseñada para revivir el pasado. \r\n\r\n- Mezquita Azul (visita interior)\r\n- Mezquita de Sokullu (visita interior)\r\n- Plaza del Hipódromo\r\n- Obelisco amurallado\r\n- Obelisco de Teodosio\r\n- Columna de la Serpiente\r\n- Museo de Arte Turco e Islámico\r\n- Murallas de Esfendón\r\n- Bazar de Arasta (opcional)\r\n- Consejos para restaurantes, lugares de compras y muelles de ferry\r\n- Oportunidades para paradas fotográficas pintorescas e ideas para más lugares... \r\n\r\nNota: En caso de que haya alguna dificultad para visitar una mezquita (oraciones, etc.) entraremos al menos en una de ellas. \r\nEs necesario vestir adecuadamente para entrar en las mezquitas. Las señoras, también pañuelo en la cabeza.\r\n\r\nNo dude en ponerse en contacto conmigo para visitas privadas en árabe, inglés o español.\r\n\r\nAsegure su plaza ahora - ¡Las leyendas le esperan! \r\n\r\n¡Buen viaje! \r\nDr. Sib",
+      "fr": "Visite guidée de la vieille ville d'Istanbul\r\nHistoires intemporelles avec le Dr Sib\r\n\r\nIl ne s'agit pas d'une conférence, mais d'un voyage où les pierres mêmes racontent les histoires des personnes qui ont façonné l'histoire. Rejoignez le Dr. Sib, un guide et chercheur expert, pour une visite à pied haut de gamme conçue pour faire revivre le passé. \r\n\r\n- Mosquée bleue (visite intérieure)\r\n- Mosquée Sokullu (visite intérieure)\r\n- Place de l'Hippodrome\r\n- Obélisque des remparts\r\n- Obélisque de Théodose\r\n- Colonne du Serpent\r\n- Musée des arts turcs et islamiques\r\n- Les murs de Sphendon\r\n- Le bazar d'Arasta (facultatif)\r\n- Conseils pour les restaurants, les magasins et les embarcadères des ferries\r\n- Possibilités d'arrêts photos pittoresques et idées pour d'autres endroits... \r\n\r\nNote : En cas de difficulté à visiter une mosquée (prières, etc.), nous irons au moins à l'intérieur de l'une d'entre elles. \r\nUne tenue adéquate est nécessaire pour entrer dans les mosquées. Les dames doivent également porter le foulard.\r\n\r\nN'hésitez pas à me contacter pour des visites privées en arabe, anglais ou espagnol.\r\n\r\nRéservez votre place dès maintenant - les légendes vous attendent ! \r\n\r\nBon voyage ! \r\nDr. Sib",
+      "it": "Tour premium del centro storico di Istanbul\r\nStorie senza tempo con il Dr. Sib\r\n\r\nQuesta non è una lezione, ma un viaggio in cui le pietre stesse raccontano storie di persone che hanno segnato la storia. Unitevi al Dr. Sib, guida esperta e ricercatore, per un tour premium a piedi progettato per far rivivere il passato in modo vivido. \r\n\r\n- Moschea Blu (visita interna)\r\n- Moschea di Sokullu (visita interna)\r\n- Piazza dell'Ippodromo\r\n- Obelisco murato\r\n- Obelisco di Teodosio\r\n- Colonna del Serpente\r\n- Il Museo delle Arti Turche e Islamiche\r\n- Le mura di Sphendon\r\n- Bazar Arasta (facoltativo)\r\n- Consigli per ristoranti, negozi e moli dei traghetti\r\n- Opportunità di soste fotografiche pittoresche e idee per altri luoghi... \r\n\r\nNota: in caso di difficoltà a visitare una moschea (preghiere, ecc.), ci recheremo almeno all'interno di una di esse. \r\nPer entrare nelle moschee è necessario un abbigliamento adeguato. Per le signore, anche il foulard.\r\n\r\nNon esitate a contattarmi per tour privati in arabo, inglese o spagnolo.\r\n\r\nAssicuratevi subito il vostro posto - le leggende vi aspettano! \r\n\r\nBuon viaggio! \r\nDr. Sib",
+      "pt": "Uma visita guiada Premium à Cidade Velha de Istambul\r\nHistórias intemporais com o Dr. Sib\r\n\r\nIsto não é uma palestra; é uma viagem onde as próprias pedras contam histórias de pessoas que moldaram a história. Junte-se ao Dr. Sib, um guia especializado e investigador, para uma excursão a pé de alta qualidade concebida para dar vida ao passado. \r\n\r\n- Mesquita Azul (visita ao interior)\r\n- Mesquita Sokullu (visita ao interior)\r\n- Praça do Hipódromo\r\n- Obelisco murado\r\n- Obelisco de Teodósio\r\n- Coluna da Serpente\r\n- O Museu de Artes Turcas e Islâmicas\r\n- As muralhas de Sphendon\r\n- Bazar de Arasta (opcional)\r\n- Conselhos para restaurantes, locais de compras e cais de ferries\r\n- Oportunidades para paragens fotográficas pitorescas e ideias para mais locais... \r\n\r\nNota: No caso de haver dificuldade em visitar uma mesquita (orações, etc.), entraremos pelo menos numa delas. \r\nÉ necessário um vestuário adequado para entrar nas mesquitas. Senhoras, véu também.\r\n\r\nPor favor, não hesite em contactar-me para visitas privadas em árabe, inglês ou espanhol.\r\n\r\nGaranta já o seu lugar - As lendas esperam-no! \r\n\r\nBoa viagem! \r\nDr. Sib"
     },
     "providerTitle": "Dr Sib",
     "providerPhone": "+905425490063",
@@ -4074,10 +4074,10 @@
       "it": "https://www.freetour.com/it/istanbul/blue-mosque-inner-visit-sultanahmet-square?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 15,
+      "value": 0,
       "currency": "EUR"
     },
-    "length": "1:45",
+    "length": "2:00",
     "meetingPoint": {
       "title": "Serpent Column",
       "coordinates": "41.0056303102202,28.975157081134313",
@@ -4097,7 +4097,8 @@
       "The Stone of Million",
       "Cafer Ağa Madrasa",
       "Fountain Sultan Ahmed III",
-      "Topkapi Palace Museum"
+      "Topkapi Palace Museum",
+      "Inner visit of Blue Mosque "
     ],
     "POIs": [
       {
@@ -4219,7 +4220,7 @@
   },
   {
     "id": 40182,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bosphorus Segway Tour",
       "es": "Excursión en Segway por el Bósforo",
@@ -4332,7 +4333,7 @@
   },
   {
     "id": 41160,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Kekova Sea Kayaking Tour",
       "es": "Excursión guiada en kayak de mar por Kekova",
@@ -4434,7 +4435,7 @@
   },
   {
     "id": 42051,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Must-See Istanbul: Old City & Daily Life",
       "es": "Estambul: Ciudad Vieja y Vida Cotidiana",
@@ -4609,11 +4610,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 538
+    "reviewsNumber": 547
   },
   {
     "id": 43946,
-    "updatedAt": "2025-12-01 01:08:06",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Private Tour",
       "es": "Tour Privado por Capadocia",
@@ -4697,7 +4698,7 @@
   },
   {
     "id": 44068,
-    "updatedAt": "2025-12-01 01:08:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ephesus Tour From Izmir",
       "es": "Excursión a Éfeso desde Esmirna",
@@ -4794,7 +4795,7 @@
   },
   {
     "id": 44489,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amazing Walking Tour in Antalya Old City",
       "es": "Paseo por el casco antiguo de Antalya",
@@ -4931,7 +4932,7 @@
   },
   {
     "id": 45640,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour to Spaghetti Cave/Unveil the Secrets of Antalya",
       "es": "Excursión privada a la Cueva de los Espaguetis/Descubra los secretos de Antalya",
@@ -5003,7 +5004,7 @@
   },
   {
     "id": 45642,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antalya: Enchanting Green Canyon Cruise Tour",
       "es": "Antalya: Encantadora excursión en crucero por el Cañón Verde",
@@ -5086,7 +5087,7 @@
   },
   {
     "id": 45657,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Amazing Antalya: St.Paul's Cave & Kurshunlu Waterfall & Perge",
       "es": "Excursión a la increíble Antalya: Cueva de San Pablo, Cascada de Kurshunlu y Perge",
@@ -5182,7 +5183,7 @@
   },
   {
     "id": 45744,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cruise Tour to Lower Duden Falls from Antalya Harbour",
       "es": "Excursión en crucero a las cataratas del Bajo Duden desde el puerto de Antalya",
@@ -5299,7 +5300,7 @@
   },
   {
     "id": 46373,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the European Side of Istanbul",
       "es": "Explore el lado europeo de Estambul",
@@ -5389,7 +5390,7 @@
   },
   {
     "id": 47481,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Magical Hagia Sophia: Evening Tour",
       "es": "La mágica Santa Sofía: Visita nocturna",
@@ -5492,7 +5493,7 @@
   },
   {
     "id": 47612,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Grand Bazaar: From Rooftops to the Secret Passages",
       "es": "El Gran Bazar: De los tejados a los pasadizos secretos",
@@ -5590,7 +5591,7 @@
   },
   {
     "id": 47819,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Off the Beaten Path Istanbul: A Free Walking Tour  - Small Groups",
       "es": "Estambul fuera de lo común: Recorrido gratuito a pie - Grupos reducidos",
@@ -5716,7 +5717,7 @@
   },
   {
     "id": 48139,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pamukkale & Hierapolis Small Group Tour",
       "es": "Pamukkale y Hierápolis en grupo reducido",
@@ -5839,7 +5840,7 @@
   },
   {
     "id": 48142,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pamukkale Tour From Izmir",
       "es": "Excursión a Pamukkale desde Esmirna",
@@ -5949,7 +5950,7 @@
   },
   {
     "id": 48148,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ephesus Tour From Kusadasi",
       "es": "Excursión a Éfeso desde Kusadasi",
@@ -6062,7 +6063,7 @@
   },
   {
     "id": 48149,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pergamon Historical Tour in Izmir",
       "es": "Visita histórica de Pérgamo en Esmirna",
@@ -6160,7 +6161,7 @@
   },
   {
     "id": 48179,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ephesus & Virgin Mary: All-Inclusive Izmir Tour",
       "es": "Éfeso y la Virgen María: Excursión a Esmirna con todo incluido",
@@ -6264,7 +6265,7 @@
   },
   {
     "id": 48245,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "All Inclusive Boat Trip with Lunch & Soft Drinks in Alanya",
       "es": "Paseo en Barco Todo Incluido con Almuerzo y Refrescos en Alanya",
@@ -6433,7 +6434,7 @@
   },
   {
     "id": 48379,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jeep Safari at Taurus Mountains with Lunch at Dimcay River in Alanya",
       "es": "Safari en jeep por los Montes Tauro con almuerzo en el río Dimcay en Alanya",
@@ -6545,7 +6546,7 @@
   },
   {
     "id": 48381,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Turkish Bath Tour Experience in Alanya",
       "es": "Baño turco en Alanya",
@@ -6640,7 +6641,7 @@
   },
   {
     "id": 48382,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "2 in 1 - Rafting & Buggy Safari Tour from Alanya",
       "es": "2 en 1 - Rafting y Safari en Buggy desde Alanya",
@@ -6763,7 +6764,7 @@
   },
   {
     "id": 48412,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "5 in 1 Super Combo Tour - Rafting & 4 different activities from Alanya",
       "es": "5 en 1 Super Combo Tour - Rafting y 4 actividades diferentes desde Alanya",
@@ -6880,7 +6881,7 @@
   },
   {
     "id": 48438,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alanya City Tour by Cable Car, Castle & Panorama",
       "es": "Visita a la ciudad de Alanya en teleférico, castillo y panorámica",
@@ -7006,7 +7007,7 @@
   },
   {
     "id": 48665,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Green Canyon Boat Trip from Alanya with Lunch & Soft Drinks",
       "es": "Excursión en barco por el Cañón Verde desde Alanya con almuerzo y refrescos",
@@ -7151,7 +7152,7 @@
   },
   {
     "id": 48668,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Turkish Bath & Spa Experience Tour in Side",
       "es": "Baño turco y balneario en Side",
@@ -7245,7 +7246,7 @@
   },
   {
     "id": 48671,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Safari Tour at Taurus Mountain in Alanya",
       "es": "Safari en quad por la montaña Taurus en Alanya",
@@ -7345,7 +7346,7 @@
   },
   {
     "id": 48672,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Buggy Safari Tour in Alanya",
       "es": "Safari en buggy por Alanya",
@@ -7432,7 +7433,7 @@
   },
   {
     "id": 48713,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Sapadere Canyon Tour in Alanya",
       "es": "Excursión de día completo al Cañón del Sapadere en Alanya",
@@ -7579,7 +7580,7 @@
   },
   {
     "id": 48715,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jeep Safari Tour and Canyon Boat Trip from Side with Lunch",
       "es": "Excursión en Jeep Safari y Paseo en Barco por el Cañón de Side con Almuerzo",
@@ -7747,7 +7748,7 @@
   },
   {
     "id": 48716,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad (ATV) Safari Tour in Side",
       "es": "Safari en quad (ATV) por Side",
@@ -7859,7 +7860,7 @@
   },
   {
     "id": 48717,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Buggy Safari Tour in Side",
       "es": "Safari en buggy por Side",
@@ -7946,7 +7947,7 @@
   },
   {
     "id": 48718,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "3 in 1 - Rafting, Buggy Safari & Zipline Tour from Side and Manavgat",
       "es": "3 en 1 - Rafting, Safari en Buggy y Excursión en Tirolina desde Side y Manavgat",
@@ -8082,7 +8083,7 @@
   },
   {
     "id": 49443,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Basilica Cistern Guided Tour - Skip The Line",
       "es": "Cisterna Basílica Visita Guiada - Sáltese la cola",
@@ -8191,7 +8192,7 @@
   },
   {
     "id": 49537,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kemeralti Bazaar & Agora Ancient Site Historical Tour",
       "es": "Visita histórica del Bazar y el Ágora de Kemeralti",
@@ -8291,7 +8292,7 @@
   },
   {
     "id": 49540,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Daily Tour",
       "es": "Excursión diaria a Capadocia",
@@ -8412,7 +8413,7 @@
   },
   {
     "id": 49973,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pamukkale & Hierapolis Private Tour",
       "es": "Pamukkale &amp; Hierápolis Tour Privado",
@@ -8535,7 +8536,7 @@
   },
   {
     "id": 50611,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Guided Ephesus Tour for Cruise Passengers",
       "es": "Visita guiada privada de Éfeso para pasajeros de cruceros",
@@ -8650,7 +8651,7 @@
   },
   {
     "id": 51088,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia: Full-Day Private Tour",
       "es": "Capadocia: Excursión privada de un día",
@@ -8807,7 +8808,7 @@
   },
   {
     "id": 51258,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Best of Istanbul Old City  2024",
       "es": "Lo mejor del casco antiguo de Estambul 2024",
@@ -8975,7 +8976,7 @@
   },
   {
     "id": 51878,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Manavgat Boat Tour from Side Visit Public Bazaar & Waterfall",
       "es": "Manavgat Excursión en Barco desde Side Visita Bazar Público y Cascada",
@@ -9151,7 +9152,7 @@
   },
   {
     "id": 51891,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fire of Anatolian Dance Show from Side and Alanya",
       "es": "Espectáculo de danza anatolia de Side y Alanya",
@@ -9282,7 +9283,7 @@
   },
   {
     "id": 51939,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "All Inclusive Catamaran Yacht Tour from Alanya",
       "es": "Excursión en catamarán todo incluido desde Alanya",
@@ -9425,7 +9426,7 @@
   },
   {
     "id": 52025,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "All Inclusive Green Canyon Boat Tour from Side with Lunch",
       "es": "Todo incluido Excursión en barco al Cañón Verde desde Side con almuerzo",
@@ -9599,7 +9600,7 @@
   },
   {
     "id": 52067,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Scuba Diving Tour in Alanya with Lunch",
       "es": "Excursión de buceo en Alanya con almuerzo",
@@ -9717,7 +9718,7 @@
   },
   {
     "id": 52068,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "All Inclusive Aquapark Tour from Alanya",
       "es": "Excursión al parque acuático con todo incluido desde Alanya",
@@ -9846,7 +9847,7 @@
   },
   {
     "id": 52072,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tandem Paragliding in Alanya",
       "es": "Parapente biplaza en Alanya",
@@ -9942,7 +9943,7 @@
   },
   {
     "id": 52184,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Essentials of Istanbul For a First Timer",
       "es": "Lo esencial de Estambul para un primerizo",
@@ -10107,7 +10108,7 @@
   },
   {
     "id": 52625,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Princess Island Tour with Lunch From Istanbul",
       "es": "Excursión a la Isla de la Princesa con almuerzo desde Estambul",
@@ -10286,7 +10287,7 @@
   },
   {
     "id": 52629,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bosphorus Dinner Cruise Tour",
       "es": "Excursión en Crucero con Cena por el Bósforo",
@@ -10478,7 +10479,7 @@
   },
   {
     "id": 52725,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fire of Anatolian Dance Show from Alanya",
       "es": "Espectáculo de danza anatolia de Alanya",
@@ -10587,7 +10588,7 @@
   },
   {
     "id": 52726,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Pamukkale & Salda Lake Tour from Side",
       "es": "Excursión de un día a Pamukkale y el lago Salda desde Side",
@@ -10792,7 +10793,7 @@
   },
   {
     "id": 52727,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Aspendos, Side & Manavgat Waterfall Tour from Side",
       "es": "Aspendos, Side y Cascada de Manavgat desde Side",
@@ -10928,7 +10929,7 @@
   },
   {
     "id": 52728,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Manavgat River Boat Tour from Alanya with Waterfall & Turkish Bazaar",
       "es": "Excursión en barco por el río Manavgat desde Alanya con cascada y bazar turco",
@@ -11077,7 +11078,7 @@
   },
   {
     "id": 52874,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Photographing Istanbul Experience",
       "es": "Fotografiar la experiencia de Estambul",
@@ -11198,7 +11199,7 @@
   },
   {
     "id": 52882,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amazing Topkapi Palace & Basics of Ottoman Civilization",
       "es": "Asombroso Palacio de Topkapi y aspectos básicos de la civilización otomana",
@@ -11353,7 +11354,7 @@
   },
   {
     "id": 53001,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Bazaars & Backstreets of Istanbul Free Tour",
       "es": "Bazares y callejuelas de Estambul Visita gratuita",
@@ -11511,7 +11512,7 @@
   },
   {
     "id": 53141,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Taste of Europe & Asia - Walking Tour",
       "es": "Sabor a Europa y Asia - Recorrido a pie",
@@ -11673,7 +11674,7 @@
   },
   {
     "id": 53160,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Half Day Bodrum (Halicarnasos) Tour by car",
       "es": "Excursión de medio día a Bodrum (Halicarnasos) en coche",
@@ -11774,7 +11775,7 @@
   },
   {
     "id": 53161,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Olive Tasting & Rustic Lunch with Live Music",
       "es": "Cata privada de aceitunas y almuerzo rústico con música en directo",
@@ -11901,7 +11902,7 @@
   },
   {
     "id": 54236,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Istanbul Essentials in Two Hours!",
       "es": "Lo esencial de Estambul en dos horas",
@@ -12025,11 +12026,11 @@
     ],
     "videoURL": null,
     "rating": 4.9399999999999995,
-    "reviewsNumber": 148
+    "reviewsNumber": 149
   },
   {
     "id": 54284,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Hot Air Balloon Tour",
       "es": "Excursión en globo por Capadocia",
@@ -12147,7 +12148,7 @@
   },
   {
     "id": 54290,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dinner Cruise & Turkish Night Show",
       "es": "Crucero con Cena y Espectáculo Turco Nocturno",
@@ -12258,7 +12259,7 @@
   },
   {
     "id": 54335,
-    "updatedAt": "2025-12-01 18:12:17",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Street Food and Local Life on the Asian Side of Istanbul",
       "es": "Comida Callejera y Vida Local en la Parte Asiática de Estambul",
@@ -12356,7 +12357,7 @@
   },
   {
     "id": 54446,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Capital: Insightful Walking Tour",
       "es": "Explore la capital: Visita guiada a pie",
@@ -12442,7 +12443,7 @@
   },
   {
     "id": 54496,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Guided Bosphorus Tour",
       "es": "Visita guiada del Bósforo de Estambul",
@@ -12547,14 +12548,14 @@
   },
   {
     "id": 54628,
-    "updatedAt": "2025-12-01 18:03:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Bosphorus Cruise Half-Day Morning",
-      "es": "Crucero por el Bósforo de Medio Día por la Mañana",
-      "pt": "Cruzeiro no Bósforo - meio dia de manhã",
-      "de": "Bosporus-Kreuzfahrt halbtags morgens",
-      "fr": "Croisière sur le Bosphore - Demi-journée matinale",
-      "it": "Crociera sul Bosforo di mezza giornata al mattino"
+      "en": "Istanbul New Year Party Tour On The Bosphorus",
+      "es": "Fiesta de fin de año en Estambul por el Bósforo",
+      "pt": "Excursão para a festa de Ano Novo de Istambul no Bósforo",
+      "de": "Istanbul Neujahr Party Tour auf dem Bosporus",
+      "fr": "Tour d'Istanbul pour la fête du Nouvel An sur le Bosphore",
+      "it": "Tour della festa di Capodanno a Istanbul sul Bosforo"
     },
     "brief": {
       "de": "Begeben Sie sich auf eine faszinierende Bosporus-Kreuzfahrt und bewundern Sie die beeindruckende Festung Rumeli, den majestätischen Dolmabahce-Palast und das luxuriöse Ciragan Kempinski, alles vom Meer aus! Lassen Sie sich dieses einmalige Erlebnis nicht entgehen. Schließen Sie sich uns jetzt an.",
@@ -12565,12 +12566,12 @@
       "pt": "Embarque num fascinante cruzeiro pelo Bósforo e admire o impressionante Forte Rumeli, o majestoso Palácio Dolmabahce e o luxuoso Ciragan Kempinski, tudo a partir do mar! Não perca esta experiência única. Junte-se a nós agora."
     },
     "description": {
-      "de": "Erkunden Sie die historischen Schätze Istanbuls mit der Bosporus-Kreuzfahrt (Halbtagestour am Morgen). Nachdem Sie am Morgen von Ihrem Hotel abgeholt wurden, bewundern Sie die herrliche Aussicht auf das Goldene Horn, während Sie entlang der Stadtmauern fahren und in die bunte Atmosphäre des Gewürzbasars eintauchen. \r\n\r\nAnschließend begeben Sie sich auf eine unvergessliche Seereise entlang des Bosporus, bei der Sie die Rumeli-Festung vom Wasser aus bewundern können. Die Tour endet in Eminönü. Dieses einzigartige Erlebnis ist perfekt für alle, die die unvergleichliche Schönheit Istanbuls entdecken möchten.",
-      "en": "Explore Istanbul's historical treasures with the Bosphorus Cruise (Half Day Morning Tour). After being picked up from your hotel in the morning, marvel at the magnificent views of the Golden Horn as you journey along the City Walls and immerse yourself in the colorful atmosphere of the Spice Bazaar. \r\n\r\nThen, embark on an unforgettable sea voyage along the Bosphorus, where you'll have the opportunity to admire the Rumeli Fortress from the water. The tour concludes at Eminönü. This unique experience is perfect for those seeking to discover the unparalleled beauty of Istanbul.",
-      "es": "Explore los tesoros históricos de Estambul con el Crucero por el Bósforo (Excursión matinal de medio día). Tras ser recogido en su hotel por la mañana, maravíllese con las magníficas vistas del Cuerno de Oro mientras recorre las murallas de la ciudad y se sumerge en el colorido ambiente del Bazar de las Especias. \r\n\r\nA continuación, embárquese en un inolvidable viaje por mar a lo largo del Bósforo, donde tendrá la oportunidad de admirar la Fortaleza de Rumeli desde el agua. La excursión concluye en Eminönü. Esta experiencia única es perfecta para quienes buscan descubrir la incomparable belleza de Estambul.",
-      "fr": "Explorez les trésors historiques d'Istanbul avec la croisière sur le Bosphore (excursion matinale d'une demi-journée). Après avoir été pris en charge à votre hôtel le matin, admirez les magnifiques vues sur la Corne d'Or en longeant les remparts de la ville et plongez dans l'atmosphère colorée du bazar aux épices. \r\n\r\nEmbarquez ensuite pour un inoubliable voyage en mer le long du Bosphore, où vous aurez l'occasion d'admirer la forteresse de Rumeli depuis l'eau. L'excursion se termine à Eminönü. Cette expérience unique est parfaite pour ceux qui souhaitent découvrir la beauté inégalée d'Istanbul.",
-      "it": "Esplorate i tesori storici di Istanbul con la Crociera sul Bosforo (tour mattutino di mezza giornata). Dopo essere stati prelevati dal vostro hotel al mattino, ammirate la magnifica vista del Corno d'Oro mentre percorrete le Mura della città e vi immergete nell'atmosfera colorata del Bazar delle Spezie. \r\n\r\nPoi, si parte per un indimenticabile viaggio in mare lungo il Bosforo, dove si avrà l'opportunità di ammirare la Fortezza di Rumeli dall'acqua. Il tour si conclude a Eminönü. Questa esperienza unica è perfetta per chi vuole scoprire l'impareggiabile bellezza di Istanbul.",
-      "pt": "Explore os tesouros históricos de Istambul com o Cruzeiro pelo Bósforo (excursão de meio dia pela manhã). Depois de ser recolhido no seu hotel pela manhã, maravilhe-se com as magníficas vistas do Corno de Ouro enquanto percorre as muralhas da cidade e mergulha na atmosfera colorida do Bazar das Especiarias. \r\n\r\nDepois, embarque numa inesquecível viagem marítima ao longo do Bósforo, onde terá a oportunidade de admirar a Fortaleza de Rumeli a partir da água. A excursão termina em Eminönü. Esta experiência única é perfeita para quem procura descobrir a beleza inigualável de Istambul."
+      "de": "Begrüßen Sie das Jahr 2026 mit Stil: Die Istanbuler Silvesterfahrt auf dem Bosporus! Erleben Sie die unvergesslichste Feier in Istanbul: Segeln Sie zwischen zwei Kontinenten, während ein prächtiges Feuerwerk die ikonische Skyline erhellt! Diese nächtliche Party bietet die perfekte Mischung aus Luxus, Kultur und Feier.\r\n\r\nHöhepunkte der Nacht:\r\nUnbegrenzte alkoholische Getränke die ganze Nacht.\r\nSpezielles Silvester-Dinner: Mit einem reichhaltigen Angebot an Mezes und Hauptgerichten.\r\nInternationale DJ-Performance und Live-Countdown bis 2026!\r\nFaszinierende türkische Shows: Bauchtanz, wirbelnde Derwische und Volkstänze.\r\nMitternachts-Feuerwerk direkt aus der Mitte des Bosporus.\r\n\r\nPanoramablick auf die Wahrzeichen Istanbuls im Lichtermeer der Stadt.\r\nOb Sie zu zweit, mit Freunden oder allein unterwegs sind, diese exklusive Kreuzfahrt ist das ultimative Ziel für den Jahreswechsel. Die Plätze sind streng limitiert - buchen Sie frühzeitig, um sich Ihren Platz zu sichern!\r\n\r\nAblauf der Tour:\r\n\r\n19:00 / 20:00 Uhr: Abholung vom Hotel und Transfer zum Partyboot am Bosporus. (Die genaue Zeit variiert je nach Ort.)\r\n02:00: Rücktransfer zu Ihrem Hotel in Istanbul nach einer aufregenden Nacht.",
+      "en": "Welcome 2026 in Style: The Istanbul New Year's Eve Bosphorus Cruise! Experience the most unforgettable celebration in Istanbul: sailing between two continents as magnificent fireworks light up the iconic skyline! This all-night party offers the perfect blend of luxury, culture, and celebration.\r\n\r\nHighlights of the Night:\r\nUnlimited Alcoholic Beverages served all night.\r\nSpecial New Year’s Eve Dinner: Featuring a rich array of mezes and main courses.\r\nInternational DJ Performance & Live Countdown to 2026!\r\nMesmerizing Turkish Shows: Belly Dance, Whirling Dervishes, and Folk Dances.\r\nMidnight Fireworks Show viewed directly from the middle of the Bosphorus.\r\n\r\nPanoramic Views of Istanbul’s landmarks under city lights.\r\nWhether you are a couple, with friends, or solo, this exclusive cruise is the ultimate New Year's destination. Seats are strictly limited—book early to secure your spot!\r\n\r\nTour Itinerary:\r\n\r\n19:00 / 20:00: Hotel pick-up and transfer to the Bosphorus party boat. (Exact time varies by location.)\r\n02:00: Return transfer to your hotel in Istanbul after an epic night.",
+      "es": "Dé la bienvenida a 2026 con estilo: ¡El Crucero por el Bósforo en Nochevieja en Estambul! Viva la celebración más inolvidable de Estambul: ¡navegar entre dos continentes mientras magníficos fuegos artificiales iluminan el icónico horizonte! Esta fiesta nocturna ofrece la mezcla perfecta de lujo, cultura y celebración.\r\n\r\nLo más destacado de la noche:\r\nBebidas alcohólicas ilimitadas servidas toda la noche.\r\nCena especial de Nochevieja: Con una rica variedad de mezes y platos principales.\r\nActuación de un DJ internacional y cuenta atrás para 2026\r\nEspectáculos turcos fascinantes: Danza del vientre, derviches giratorios y danzas folclóricas.\r\nEspectáculo de fuegos artificiales a medianoche vistos directamente desde el medio del Bósforo.\r\n\r\nVistas panorámicas de los lugares emblemáticos de Estambul bajo las luces de la ciudad.\r\nYa sea en pareja, con amigos o en solitario, este exclusivo crucero es el destino de Año Nuevo por excelencia. Las plazas son estrictamente limitadas: ¡reserve con antelación para asegurarse su plaza!\r\n\r\nItinerario de la excursión:\r\n\r\n19:00 / 20:00: Recogida en el hotel y traslado al party boat del Bósforo. (La hora exacta varía según el lugar)\r\n02:00: Traslado de vuelta a su hotel en Estambul después de una noche épica.",
+      "fr": "Accueillez 2026 avec style : La croisière du Nouvel An d'Istanbul sur le Bosphore ! Vivez la fête la plus inoubliable d'Istanbul : naviguez entre deux continents tandis que de magnifiques feux d'artifice illuminent la ligne d'horizon emblématique ! Cette fête qui dure toute la nuit offre un mélange parfait de luxe, de culture et de célébration.\r\n\r\nPoints forts de la soirée :\r\nBoissons alcoolisées illimitées servies toute la nuit.\r\nDîner spécial de la Saint-Sylvestre : Avec un riche éventail de mezes et de plats principaux.\r\nPerformance d'un DJ international et compte à rebours en direct jusqu'à 2026 !\r\nSpectacles turcs envoûtants : Danse du ventre, derviches tourneurs et danses folkloriques.\r\nFeu d'artifice de minuit vu directement du milieu du Bosphore.\r\n\r\nVues panoramiques des monuments d'Istanbul sous les lumières de la ville.\r\nQue vous soyez en couple, entre amis ou en solo, cette croisière exclusive est la destination idéale pour le Nouvel An. Le nombre de places est strictement limité - réservez tôt pour vous assurer une place !\r\n\r\nItinéraire de la visite :\r\n\r\n19:00 / 20:00 : Prise en charge à l'hôtel et transfert vers le bateau de fête du Bosphore. (L'heure exacte varie selon l'endroit)\r\n02:00 : Transfert retour à votre hôtel à Istanbul après une nuit épique.",
+      "it": "Accogliete il 2026 con stile: La crociera di Capodanno sul Bosforo! Vivete la festa più indimenticabile di Istanbul: navigate tra due continenti mentre i magnifici fuochi d'artificio illuminano l'iconico skyline! Questa festa che dura tutta la notte offre un mix perfetto di lusso, cultura e festeggiamenti.\r\n\r\nI punti salienti della serata:\r\nBevande alcoliche illimitate servite tutta la notte.\r\nCena speciale di Capodanno: Con un ricco assortimento di mezes e piatti principali.\r\nEsibizione di DJ internazionali e conto alla rovescia in diretta per il 2026!\r\nSpettacoli turchi ipnotici: Danza del ventre, dervisci rotanti e danze popolari.\r\nSpettacolo pirotecnico di mezzanotte direttamente dal Bosforo.\r\n\r\nViste panoramiche dei monumenti di Istanbul sotto le luci della città.\r\nChe siate in coppia, con amici o da soli, questa crociera esclusiva è la destinazione ideale per il Capodanno. I posti sono strettamente limitati: prenotate in anticipo per assicurarvi il vostro posto!\r\n\r\nItinerario del tour:\r\n\r\n19:00 / 20:00: prelievo dall'hotel e trasferimento al battello per le feste sul Bosforo. (L'orario esatto varia a seconda della località)\r\n02:00: Trasferimento di ritorno al vostro hotel a Istanbul dopo una notte epica.",
+      "pt": "Dê as boas-vindas a 2026 em grande estilo: O Cruzeiro de Ano Novo no Bósforo de Istambul! Experimente a celebração mais inesquecível de Istambul: navegar entre dois continentes enquanto magníficos fogos de artifício iluminam a icónica linha do horizonte! Esta festa que dura toda a noite oferece a mistura perfeita de luxo, cultura e celebração.\r\n\r\nDestaques da noite:\r\nBebidas alcoólicas ilimitadas servidas durante toda a noite.\r\nJantar especial de véspera de Ano Novo: Com uma rica variedade de mezes e pratos principais.\r\nAtuação de DJ internacional e contagem decrescente ao vivo para 2026!\r\nEspectáculos turcos fascinantes: Dança do ventre, dervixes rodopiantes e danças folclóricas.\r\nEspetáculo de fogo de artifício à meia-noite, visto diretamente do meio do Bósforo.\r\n\r\nVistas panorâmicas dos pontos de referência de Istambul sob as luzes da cidade.\r\nQuer esteja em casal, com amigos ou sozinho, este cruzeiro exclusivo é o destino ideal para o Ano Novo. Os lugares são estritamente limitados - reserve com antecedência para garantir o seu lugar!\r\n\r\nItinerário da excursão:\r\n\r\n19:00 / 20:00: Recolha no hotel e transporte para o barco de festa no Bósforo. (A hora exacta varia consoante o local)\r\n02:00: Transporte de regresso ao seu hotel em Istambul após uma noite épica."
     },
     "providerTitle": "GRAND TOUR LINE",
     "providerPhone": null,
@@ -12584,10 +12585,10 @@
       "it": "https://www.freetour.com/it/istanbul/bosphorus-cruise-half-day-morning?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 19,
+      "value": 170,
       "currency": "EUR"
     },
-    "length": "5:00",
+    "length": "6:00",
     "meetingPoint": {
       "title": "İstanbul Eminönü",
       "coordinates": "41.0173631,28.9709325",
@@ -12601,10 +12602,14 @@
       "15 July Martyrs Bridge",
       "Istanbul Bosphorus Cruise",
       "Pick up from hotel",
-      "Bosphorus cruise 1,5 hours",
-      "Golden horn",
-      "City Walls",
-      "Spice Bazaar"
+      "Bosphorus Cruise",
+      "Bosphorus Bridge",
+      "Belly Dancer",
+      "Turkish Traditional Dance Shows",
+      "Unlimited Alcoholic Drinks",
+      "Fix Menu Dinner",
+      "Champagne",
+      "Fireworks Show on the Bosphorus"
     ],
     "POIs": [
       {
@@ -12628,12 +12633,12 @@
         "googlePlaceId": "ChIJgTwV5pm5yhQRANoqJqd1WPk"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/54628/bosphorus-cruise-half-day-morning-06.jpg",
-    "categoryId": 4,
+    "titleImageURL": "https://www.freetour.com/images/tours/54628/bosphorus-cruise-half-day-morning-09.jpg",
+    "categoryId": 7,
     "images": [
       {
-        "id": 299961,
-        "URL": "https://www.freetour.com/images/tours/54628/bosphorus-cruise-half-day-morning-06.jpg"
+        "id": 299969,
+        "URL": "https://www.freetour.com/images/tours/54628/bosphorus-cruise-half-day-morning-09.jpg"
       },
       {
         "id": 299962,
@@ -12644,8 +12649,8 @@
         "URL": "https://www.freetour.com/images/tours/54628/bosphorus-cruise-half-day-morning-08.jpg"
       },
       {
-        "id": 299969,
-        "URL": "https://www.freetour.com/images/tours/54628/bosphorus-cruise-half-day-morning-09.jpg"
+        "id": 299961,
+        "URL": "https://www.freetour.com/images/tours/54628/bosphorus-cruise-half-day-morning-06.jpg"
       },
       {
         "id": 299970,
@@ -12662,7 +12667,7 @@
   },
   {
     "id": 54720,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Popular Red Tour",
       "es": "Capadocia Popular Red Tour",
@@ -12785,7 +12790,7 @@
   },
   {
     "id": 54766,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Balat and Fener: Istanbul Free Tour",
       "es": "Balat y Fener: Estambul Free Tour",
@@ -12933,12 +12938,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.91,
-    "reviewsNumber": 35
+    "rating": 4.89,
+    "reviewsNumber": 36
   },
   {
     "id": 54792,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Adventure: Off-Road Jeep Expedition",
       "es": "Aventura en Capadocia: Expedición en jeep todoterreno",
@@ -13024,7 +13029,7 @@
   },
   {
     "id": 55148,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bosphorus Cruise & Pierre Loti by Cable Car",
       "es": "Crucero por el Bósforo y Pierre Loti en Teleférico",
@@ -13122,7 +13127,7 @@
   },
   {
     "id": 55155,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Taksim to Galata: Historic Istanbul Tour",
       "es": "De Taksim a Gálata: Recorrido Histórico por Estambul",
@@ -13287,7 +13292,7 @@
   },
   {
     "id": 55189,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Journey Through Istanbul's Timeless Old City",
       "es": "Viaje por el intemporal casco antiguo de Estambul",
@@ -13447,7 +13452,7 @@
   },
   {
     "id": 55319,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sapanca - Masukiye Full Day Tour with Lunch",
       "es": "Sapanca - Masukiye Excursión de día completo con almuerzo",
@@ -13637,7 +13642,7 @@
   },
   {
     "id": 55328,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul & Sabiha Gokcen Airport Transfers",
       "es": "Traslados Aeropuerto Estambul &amp; Sabiha Gokcen",
@@ -13762,7 +13767,7 @@
   },
   {
     "id": 55788,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Cappadocia on Jeep",
       "es": "Explore Capadocia en Jeep",
@@ -13847,7 +13852,7 @@
   },
   {
     "id": 56501,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Culinary & Cultural Experience in Multicultural Beyoglu & Galata",
       "es": "Experiencia culinaria y cultural en la multicultural Beyoglu y Galata",
@@ -14080,7 +14085,7 @@
   },
   {
     "id": 56748,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of The Ancient City of Ephesus & Ephesus Museum",
       "es": "Visita a la antigua ciudad de Éfeso y al Museo de Éfeso",
@@ -14215,7 +14220,7 @@
   },
   {
     "id": 56863,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Bosphorus Like No Other",
       "es": "Descubra el Bósforo como ningún otro",
@@ -14378,7 +14383,7 @@
   },
   {
     "id": 58467,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alanya Catamaran Boat Cruise with BBQ Lunch",
       "es": "Crucero en catamarán por Alanya con almuerzo barbacoa",
@@ -14466,7 +14471,7 @@
   },
   {
     "id": 58473,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "River Rafting Tour in Koprulu Canyon with Lunch & Transfer",
       "es": "Excursión de rafting por el cañón de Koprulu con almuerzo y traslado",
@@ -14551,7 +14556,7 @@
   },
   {
     "id": 58474,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sapadere Canyon & Waterfall Tour with BBQ",
       "es": "Cañón del Sapadere y excursión a las cascadas con barbacoa",
@@ -14665,7 +14670,7 @@
   },
   {
     "id": 58476,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ATV Quad Safari Tour with Roundtrip Transfer from Alanya",
       "es": "Safari en quad ATV con traslado de ida y vuelta desde Alanya",
@@ -14752,7 +14757,7 @@
   },
   {
     "id": 58551,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Airport Transfer",
       "es": "Traslado al Aeropuerto de Estambul",
@@ -14834,7 +14839,7 @@
   },
   {
     "id": 59527,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antalya Tour: From Mountain to Sea",
       "es": "Excursión a Antalya: De la montaña al mar",
@@ -14931,7 +14936,7 @@
   },
   {
     "id": 60761,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Spiritual Free Tour in Istanbul",
       "es": "Visita espiritual gratuita en Estambul",
@@ -15065,7 +15070,7 @@
   },
   {
     "id": 61304,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Whirling Dervish Ceremony in a Cave",
       "es": "Ceremonia de los Derviches Giradores en una Cueva",
@@ -15151,7 +15156,7 @@
   },
   {
     "id": 61659,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Food Tour: Taste Istanbul Like a Local",
       "es": "Recorrido gastronómico: Saborea Estambul como un lugareño",
@@ -15269,7 +15274,7 @@
   },
   {
     "id": 61909,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cultural Tour: Strolling  Around Kemeralti Bazaar",
       "es": "Visita cultural: Paseando por el Bazar de Kemeralti",
@@ -15377,7 +15382,7 @@
   },
   {
     "id": 62218,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Highlights of the Cappadocia Tour",
       "es": "Lo más Destacado de la Ruta por Capadocia",
@@ -15490,7 +15495,7 @@
   },
   {
     "id": 62416,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Small Group Adventure in Ephesus",
       "es": "Aventura en Grupo Reducido en Éfeso",
@@ -15620,7 +15625,7 @@
   },
   {
     "id": 65133,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Balloon Tour",
       "es": "Tour en Globo en Capadocia",
@@ -15697,7 +15702,7 @@
   },
   {
     "id": 65170,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Dinner Cruise",
       "es": "Crucero con Cena en Estambul",
@@ -15816,7 +15821,7 @@
   },
   {
     "id": 66118,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Unique City of Ephesus",
       "es": "Explora la Unica Ciudad de Éfeso",
@@ -15909,7 +15914,7 @@
   },
   {
     "id": 66623,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exclusive Bosphorus View at Rumeli",
       "es": "Vista Exclusiva al Bósforo en Rumeli",
@@ -16016,7 +16021,7 @@
   },
   {
     "id": 66752,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Ephesus Tour from Kusadasi or Selcuk Tickets & Lunch Included",
       "es": "Excursión de un día a Éfeso desde Kusadasi o Selcuk Entradas y almuerzo incluidos",
@@ -16099,7 +16104,7 @@
   },
   {
     "id": 66754,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ephesus Full-Day Experience with Skip the Line Access",
       "es": "Día completo en Éfeso sin colas de espera",
@@ -16200,7 +16205,7 @@
   },
   {
     "id": 66816,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Mysteries of Gobeklitepe",
       "es": "Descubra los Misterios de Gobeklitepe",
@@ -16280,7 +16285,7 @@
   },
   {
     "id": 67117,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bodrum Castle and Underwater Museum Adventure",
       "es": "Castillo de Bodrum y Aventura en el Museo Submarino",
@@ -16353,7 +16358,7 @@
   },
   {
     "id": 67127,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Charm of Antalya",
       "es": "Descubra el Encanto de Antalya",
@@ -16467,7 +16472,7 @@
   },
   {
     "id": 67145,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antalya Shopping Tour",
       "es": "De compras por Antalya",
@@ -16548,7 +16553,7 @@
   },
   {
     "id": 67743,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Top Sights to Explore Tour",
       "es": "Recorrido por los principales monumentos de Estambul",
@@ -16643,7 +16648,7 @@
   },
   {
     "id": 67983,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Bodrum Old Town",
       "es": "Visita al casco antiguo de Bodrum",
@@ -16798,7 +16803,7 @@
   },
   {
     "id": 68188,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Ephesus and its Ancient Wonders",
       "es": "Descubra Éfeso y sus Antiguas Maravillas",
@@ -16946,7 +16951,7 @@
   },
   {
     "id": 68749,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Red Tour & Underground City Adventure",
       "es": "Tour Rojo y Aventura en la Ciudad Subterránea",
@@ -17037,7 +17042,7 @@
   },
   {
     "id": 68753,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Green Tour and Underground City",
       "es": "Explore el Tour Verde y la Ciudad Subterránea",
@@ -17120,7 +17125,7 @@
   },
   {
     "id": 68759,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full-Day Private Tour of Cappadocia",
       "es": "Excursión privada de un día a Capadocia",
@@ -17237,7 +17242,7 @@
   },
   {
     "id": 68770,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Guided Old City Tour in Istanbul",
       "es": "Visita Guiada Privada del Casco Antiguo de Estambul",
@@ -17348,7 +17353,7 @@
   },
   {
     "id": 69095,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Halikarnasos on a Walking Tour",
       "es": "Descubra Halikarnasos a pie",
@@ -17455,7 +17460,7 @@
   },
   {
     "id": 69598,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Highlights Tour",
       "es": "Recorrido por lo más Destacado de Capadocia",
@@ -17555,7 +17560,7 @@
   },
   {
     "id": 69668,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Explore Istanbul’s All-in-One Free Walking Tour",
       "es": "Explora el Free Tour a pie todo en uno de Estambul",
@@ -17673,7 +17678,7 @@
   },
   {
     "id": 69880,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tandem Paragliding Over Cleopatra Beach",
       "es": "Parapente Biplaza Sobre la Playa de Cleopatra",
@@ -17763,7 +17768,7 @@
   },
   {
     "id": 69881,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antalya: The Land of Legends Night Show",
       "es": "Espectáculo Nocturno Antalya: La Tierra de las Leyendas",
@@ -17847,7 +17852,7 @@
   },
   {
     "id": 69882,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Tour from Antalya",
       "es": "Excursión a Capadocia desde Antalya",
@@ -17929,7 +17934,7 @@
   },
   {
     "id": 70923,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Luxury Yacht Tour",
       "es": "Excursión Privada en Yate de Lujo",
@@ -18058,7 +18063,7 @@
   },
   {
     "id": 71161,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Night Tour through the Old Town",
       "es": "Free Tour Nocturno por el Casco Antiguo",
@@ -18164,7 +18169,7 @@
   },
   {
     "id": 71209,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Orak Island Boat Adventure",
       "es": "Aventura en Barco por la isla de Orak",
@@ -18289,7 +18294,7 @@
   },
   {
     "id": 72304,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alanya Adventure: Jeep Safari & Boat Cruise",
       "es": "Aventura en Alanya: Safari en Jeep y Crucero en Barco",
@@ -18389,7 +18394,7 @@
   },
   {
     "id": 72769,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Old City Tour of Istanbul",
       "es": "Visita gratuita del casco antiguo de Estambul",
@@ -18497,11 +18502,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 1
+    "reviewsNumber": 2
   },
   {
     "id": 72847,
-    "updatedAt": "2025-12-01 01:16:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Istanbul Private Tour",
       "es": "Tour privado por Estambul",
@@ -18642,7 +18647,7 @@
   },
   {
     "id": 73280,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour: Stroll Like a Local, Savor Like a Gourmet",
       "es": "Visita gratuita: Pasea como un lugareño, saborea como un gourmet",
@@ -18844,7 +18849,7 @@
   },
   {
     "id": 73623,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antalya Culture, Food, and Wine Experience",
       "es": "Experiencia Cultural, Gastronómica y Vinícola en Antalya",
@@ -18972,7 +18977,7 @@
   },
   {
     "id": 73850,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antalya City Walking Tour",
       "es": "Recorrido a pie por la Ciudad de Antalya",
@@ -19098,7 +19103,7 @@
   },
   {
     "id": 74957,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Legends of the Night: Istanbul's Historical Old City Free Tour",
       "es": "Leyendas de la noche: visita gratuita del casco antiguo de Estambul",
@@ -19224,7 +19229,7 @@
   },
   {
     "id": 75383,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Vegetarian Food Tour: Taste Istanbul Like a Local",
       "es": "Recorrido gastronómico vegetariano: Saborea Estambul como un lugareño",
@@ -19350,7 +19355,7 @@
   },
   {
     "id": 76128,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Izmir Cultural Heritage Tour",
       "es": "Excursión por el Patrimonio Cultural de Izmir",
@@ -19455,12 +19460,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9399999999999995,
-    "reviewsNumber": 7
+    "rating": 4.88,
+    "reviewsNumber": 8
   },
   {
     "id": 78045,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of the Genoese Quarter: Galata and Karakoy",
       "es": "Free Tour por el Barrio de los Genoveses: Galata y Karakoy",
@@ -19548,7 +19553,7 @@
   },
   {
     "id": 78238,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Red Route: Explore North Cappadocia with Locals",
       "es": "Ruta Roja: Explore el Norte de Capadocia con los Lugareños",
@@ -19646,7 +19651,7 @@
   },
   {
     "id": 78239,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Red Valley Evening Adventure",
       "es": "Aventura nocturna en Red Valley",
@@ -19733,7 +19738,7 @@
   },
   {
     "id": 78250,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Your Way: Personalized Tour",
       "es": "Capadocia a tu Manera: Tour Personalizado",
@@ -19831,7 +19836,7 @@
   },
   {
     "id": 78282,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Love Valley Walking Tour",
       "es": "Paseo por el Valle del Amor",
@@ -19914,7 +19919,7 @@
   },
   {
     "id": 78750,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Photo Shoot in Istanbul's Top Location",
       "es": "Sesión de Fotos en el Mejor Lugar de Estambul",
@@ -20078,7 +20083,7 @@
   },
   {
     "id": 79588,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Istanbul: Mystical and Dragons Free Walking Tour",
       "es": "Estambul: Mística y Dragones Free Tour a pie",
@@ -20236,7 +20241,7 @@
   },
   {
     "id": 79673,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Karahayit Thermal Walk: Springs & Local Life",
       "es": "Paseo Termal de Karahayit: Manantiales y Vida Local",
@@ -20324,7 +20329,7 @@
   },
   {
     "id": 80634,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Canoeing & Wine Tasting in a Historic Cellar",
       "es": "Paseo en Canoa y Cata de Vinos en una Bodega Histórica",
@@ -20436,7 +20441,7 @@
   },
   {
     "id": 81961,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of the Suleymaniye Mosque and the Grand Bazaar of Istanbul",
       "es": "Visita gratuita a la Mezquita de Solimán y el Gran Bazar de Estambul",
@@ -20562,7 +20567,7 @@
   },
   {
     "id": 82419,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Grand Bazaar & Suleymaniye: A Grand Taste of Istanbul",
       "es": "Gran Bazar y Suleymaniye: Estambul a lo grande",
@@ -20706,7 +20711,7 @@
   },
   {
     "id": 82538,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Luxury Jeep Safari",
       "es": "Safari de Lujo en Jeep por Capadocia",
@@ -20797,7 +20802,7 @@
   },
   {
     "id": 82596,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Turkish Night in Cappadocia",
       "es": "Noche Turca en Capadocia",
@@ -20873,7 +20878,7 @@
   },
   {
     "id": 82754,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Cappadocia: Red Tour Adventure",
       "es": "Explora Capadocia: Aventura del Tour Rojo",
@@ -20979,7 +20984,7 @@
   },
   {
     "id": 82758,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Green Valley Exploration",
       "es": "Exploración al  Valle Verde de Capadocia",
@@ -21081,7 +21086,7 @@
   },
   {
     "id": 82760,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cappadocia Balloon Tour",
       "es": "Excursión en globo por Capadocia",
@@ -21147,7 +21152,7 @@
   },
   {
     "id": 85504,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Istanbul Free Tour",
       "es": "Descubra Estambul Free Tour",
@@ -21290,19 +21295,19 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.75,
-    "reviewsNumber": 4
+    "rating": 4.68,
+    "reviewsNumber": 5
   },
   {
     "id": 85931,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Whirling Dervishes Ceremony At Binbirdirek Cistern of Istanbul",
-      "es": "Ceremonia de los derviches giradores en la cisterna de Binbirdirek de Estambul",
-      "pt": "Cerimónia dos dervixes rodopiantes na cisterna Binbirdirek de Istambul",
-      "de": "Zeremonie der wirbelnden Derwische in der Binbirdirek-Zisterne in Istanbul",
-      "fr": "Cérémonie des derviches tourneurs à la citerne de Binbirdirek à Istanbul",
-      "it": "Cerimonia dei dervisci rotanti alla cisterna di Binbirdirek di Istanbul"
+      "en": "Whirling Dervishes Ceremony & Binbirdirek Cistern Entry Ticket",
+      "es": "Ceremonia de los derviches giradores y entrada a la cisterna de Binbirdirek",
+      "pt": "Cerimónia dos dervixes rodopiantes e bilhete de entrada na cisterna Binbirdirek",
+      "de": "Zeremonie der wirbelnden Derwische und Eintrittskarte für die Binbirdirek-Zisterne",
+      "fr": "Cérémonie des derviches tourneurs et billet d'entrée à la citerne de Binbirdirek",
+      "it": "Cerimonia dei dervisci rotanti e biglietto d'ingresso per la cisterna di Binbirdirek"
     },
     "brief": {
       "de": "Erleben Sie die mystischen wirbelnden Derwische auf dieser kostenlosen Tour in einer 1600 Jahre alten Zisterne. Entdecken Sie eine Sufi-Zeremonie voller Liebe, Musik und Spiritualität in der bezaubernden Binbirdirek-Zisterne.",
@@ -21401,7 +21406,7 @@
   },
   {
     "id": 86264,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Hidden Antalya City Center Free Tour",
       "es": "Visita gratuita al centro oculto de Antalya",
@@ -21483,7 +21488,7 @@
   },
   {
     "id": 86319,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ephesus and Sirince Village Tour from Kusadasi Port ",
       "es": "Excursión a Éfeso y el pueblo de Sirince desde el puerto de Kusadasi ",
@@ -21603,7 +21608,7 @@
   },
   {
     "id": 86464,
-    "updatedAt": "2025-12-01 09:20:13",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Antalya Kaleiçi Free Tour: Tales & Trails With Local Taste",
       "es": "Antalya Kaleiçi Free Tour: Cuentos y senderos con sabor local",
@@ -21751,15 +21756,19 @@
       {
         "id": 299741,
         "URL": "https://www.freetour.com/images/tours/86464/antalya-kaleici-free-tour-tales-trails-with-local-taste-13.jpg"
+      },
+      {
+        "id": 300777,
+        "URL": "https://www.freetour.com/images/tours/86464/antalya-kaleici-free-tour-tales-trails-with-local-taste-14.jpg"
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=Ga6EcDcSIn0",
-    "rating": null,
-    "reviewsNumber": 0
+    "rating": 5,
+    "reviewsNumber": 6
   },
   {
     "id": 86614,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Istanbul City Walk",
       "es": "Audioguía App: Estambul City Walk",

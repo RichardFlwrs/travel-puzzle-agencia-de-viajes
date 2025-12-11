@@ -1,7 +1,7 @@
 [
   {
     "id": 1178,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Go Pink - Bangkok Chinatown Tour on a Bike",
       "es": "Go Pink - Recorrido en bicicleta por el Barrio Chino de Bangkok",
@@ -108,12 +108,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=4WX6Fx6dEyw",
-    "rating": 4.75,
-    "reviewsNumber": 4
+    "rating": 4.76,
+    "reviewsNumber": 5
   },
   {
     "id": 1179,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Go Red - Bangkok Culture Tour on Bike",
       "es": "Go Red - Recorrido cultural en bicicleta por Bangkok",
@@ -217,7 +217,7 @@
   },
   {
     "id": 1181,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Go Black - Bangkok Bike Tour at Night",
       "es": "Go Black - Recorrido nocturno en bicicleta por Bangkok",
@@ -330,7 +330,7 @@
   },
   {
     "id": 1182,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Go Gold - Bangkok Temple Tour",
       "es": "Go Gold - Visita a los templos de Bangkok",
@@ -443,7 +443,7 @@
   },
   {
     "id": 1349,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Thai Cooking Class",
       "es": "Clase de cocina tailandesa",
@@ -542,7 +542,7 @@
   },
   {
     "id": 15126,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour in the Old Town of Bangkok",
       "es": "Visita gratuita al casco antiguo de Bangkok",
@@ -616,12 +616,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.5600000000000005,
-    "reviewsNumber": 194
+    "rating": 4.57,
+    "reviewsNumber": 198
   },
   {
     "id": 15344,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Bangkok: The Old Districts",
       "es": "Free Tour Bangkok: Los barrios antiguos",
@@ -704,7 +704,7 @@
   },
   {
     "id": 39255,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking to Big Buddha & Yoga",
       "es": "Senderismo al Gran Buda y yoga",
@@ -824,7 +824,7 @@
   },
   {
     "id": 47920,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Phuket Custom Tour with Private Local Guide",
       "es": "Phuket Tour personalizado con guía local privado",
@@ -939,7 +939,7 @@
   },
   {
     "id": 47957,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Old Bangkok History with 3 Religions",
       "es": "La historia antigua de Bangkok con 3 religiones",
@@ -1148,7 +1148,7 @@
   },
   {
     "id": 47959,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "All About China Town with a Local Guide",
       "es": "Todo sobre China Town con un guía local",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 49597,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Fantastic Thai Cooking Class",
       "es": "Una fantástica clase de cocina tailandesa",
@@ -1453,7 +1453,7 @@
   },
   {
     "id": 50994,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Day Tour: Food, Temple & Tuk-Tuk",
       "es": "Excursión de un día a Bangkok: Comida, Templo y Tuk-Tuk",
@@ -1587,7 +1587,7 @@
   },
   {
     "id": 54549,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Night Tour: Food, Temple & Tuk-Tuk",
       "es": "Bangkok Tour Nocturno: Comida, templos y Tuk-Tuk",
@@ -1721,7 +1721,7 @@
   },
   {
     "id": 54587,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour through Historic Bangkok Train Station to Chinatown!",
       "es": "Recorrido gratuito por la histórica estación de tren de Bangkok hasta Chinatown",
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 58275,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Landmark Temples Market & Food Taste",
       "es": "Mercado de templos emblemáticos de Bangkok y degustación de comida",
@@ -1956,7 +1956,7 @@
   },
   {
     "id": 61788,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Canal Tour to Big Buddha & Cultural Markets",
       "es": "Recorrido por los canales de Bangkok hasta el Gran Buda y los mercados culturales",
@@ -2061,7 +2061,7 @@
   },
   {
     "id": 61790,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Twilight Cultures Market & Food Taste",
       "es": "Mercado de las Culturas Crepusculares de Bangkok y Degustación de Alimentos",
@@ -2173,7 +2173,7 @@
   },
   {
     "id": 62147,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Street Food - Variety Cultures Local Tasty",
       "es": "Comida Callejera de Bangkok - Variedad de Culturas Locales Sabrosas",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": 64314,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Experience Bangkok's Local Culture, Shopping & Food",
       "es": "Experimente la Cultura, las Compras y la Gastronomía Local de Bangkok",
@@ -2347,7 +2347,7 @@
   },
   {
     "id": 72169,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of Chiang Mai",
       "es": "Free Tour a Chiang Mai",
@@ -2429,14 +2429,14 @@
   },
   {
     "id": 74727,
-    "updatedAt": "2025-12-01 19:38:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Tour of Bangkok: Railway & Floating Markets with Boat Ride",
-      "es": "Tour de Bangkok: Ferrocarril y Mercados Flotantes con Paseo en Barco",
-      "pt": "Visita a Banguecoque: Caminhos-de-ferro e mercados flutuantes com passeio de barco",
-      "de": "Tour durch Bangkok: Eisenbahn und schwimmende Märkte mit Bootsfahrt",
-      "fr": "Visite de Bangkok : Chemin de fer et marchés flottants avec promenade en bateau",
-      "it": "Tour di Bangkok: Ferrovia e mercati galleggianti con giro in barca"
+      "en": "Bangkok Floating Market Authentic Local Food & Boat Ride Tour",
+      "es": "Mercado Flotante de Bangkok: auténtica comida local y paseo en barco",
+      "pt": "Mercado Flutuante de Banguecoque Comida local autêntica e passeio de barco",
+      "de": "Bangkok Floating Market Authentisches lokales Essen &amp; Bootsfahrt Tour",
+      "fr": "Visite du marché flottant de Bangkok : nourriture locale authentique et promenade en bateau",
+      "it": "Mercato galleggiante di Bangkok Cibo autentico locale e giro in barca"
     },
     "brief": {
       "de": "Entdecken Sie Bangkoks versteckte Juwelen! Beobachten Sie, wie Züge durch einen belebten Markt rollen, lassen Sie sich durch bunte Kanäle treiben und bestaunen Sie den atemberaubenden Drachentempel. Begleiten Sie uns auf eine unvergessliche Reise voller Sehenswürdigkeiten, Klänge und Überraschungen!\r\n",
@@ -2447,12 +2447,12 @@
       "pt": "Descubra as jóias escondidas de Banguecoque! Veja os comboios a circular por um mercado animado, flutue ao longo de canais coloridos e maravilhe-se com o deslumbrante Templo do Dragão. Junte-se a nós para uma viagem inesquecível cheia de paisagens, sons e surpresas!\r\n"
     },
     "description": {
-      "de": "** Private Tour **\r\nUnser Preis beinhaltet bereits eine 1-stündige Motorbootfahrt, lokale thailändische Speisen und Trinkwasser zum Mittagessen.\r\n\r\n9:00 Uhr: Der Reiseleiter holt Sie an Ihrem Hotel in Bangkok ab. \r\n\r\nFahren Sie zum Railway Market. Schauen Sie! Der Zug kommt an! Dies ist eine hervorragende Gelegenheit, um viele Fotos und Videos zu machen, die Sie mit nach Hause nehmen können! Ob Sie es glauben oder nicht, diese ungewöhnliche Szene ist ganz typisch für die Einheimischen. Schauen Sie sich nur an, wie lässig jeder Verkäufer seine Waren einpackt und weiterverkauft, als wäre nichts geschehen!\r\n\r\nBeginnen wir unseren Tag mit einem Besuch des Damnoen Saduak Floating Market! Wir beginnen mit einem Spaziergang über den Markt und genießen die lebhaften Szenen entlang des Kanals. Aber der wahre Höhepunkt? Eine private Longtail-Bootstour, bei der Sie durch die malerischen Kanäle gleiten, die ruhige lokale Landschaft genießen und das authentische Leben am Fluss erleben können. Mittagessen in einem lokalen Restaurant\r\n\r\nBesuchen Sie den bezaubernden Wat Bang Kung, einen einzigartigen Tempel, der von den Wurzeln eines riesigen Banyan-Baums umhüllt ist! Ein verstecktes Juwel voller Geschichte und Charme, perfekt für alle, die etwas ganz Besonderes entdecken wollen.\r\n\r\n16:00 Uhr Rückfahrt nach Bangkok und sichere Abholung in Ihrem Hotel.",
-      "en": "** Private Tour **\r\nOur price already includes a 1-hour motorboat ride, Thai local food, and drinking water for lunch.\r\n\r\n9:00 A.M. The Tour guide meets and picks you up at your hotel in Bangkok. \r\n\r\nHead to the Railway Market. Look! The train is arriving! This is an excellent opportunity for you to take lots of photos and videos to take home! Believe it or not, this unusual scene is entirely typical for the locals. Just have a look at how casually each vendor packs away their goods and resells them as if nothing happened!\r\n\r\nLet's start our day by visiting the Damnoen Saduak Floating Market! We'll start by walking around the market and enjoying the lively scenes along the canal. But the true highlight? A private long-tail boat ride, where you’ll glide through the picturesque canals, enjoying the serene local scenery and witnessing the authentic riverside lifestyle. Lunch at a local restaurant\r\n\r\nLet’s visit the enchanting Wat Bang Kung, a one-of-a-kind temple beautifully wrapped in the roots of a giant banyan tree! It’s a hidden gem full of history and charm, perfect for those looking to discover something truly special.\r\n\r\n16:00 Back to Bangkok and drop you off at your hotel safely.",
-      "es": "** Tour Privado **\r\nNuestro precio ya incluye un paseo de 1 hora en lancha motora, comida local tailandesa y agua potable para el almuerzo.\r\n\r\n9:00 A.M. El guía le recoge en su hotel de Bangkok. \r\n\r\nDiríjase al Mercado Ferroviario. ¡Mire! ¡El tren está llegando! Esta es una excelente oportunidad para hacer muchas fotos y vídeos y llevárselos a casa Lo crea o no, esta escena inusual es totalmente típica de los lugareños. Fíjese en la despreocupación con la que los vendedores recogen sus mercancías y las revenden como si nada\r\n\r\nEmpecemos el día visitando el Mercado Flotante de Damnoen Saduak Empezaremos paseando por el mercado y disfrutando de las animadas escenas a lo largo del canal. Pero, ¿lo mejor? Un paseo privado en barco de cola larga, donde se deslizará por los pintorescos canales, disfrutando del sereno paisaje local y siendo testigo del auténtico estilo de vida ribereño. Almuerzo en un restaurante local\r\n\r\nVisitaremos el encantador Wat Bang Kung, un templo único entre las raíces de un baniano gigante Es una joya oculta llena de historia y encanto, perfecta para quienes buscan descubrir algo verdaderamente especial.\r\n\r\n16:00 Regreso a Bangkok y traslado a su hotel.",
-      "fr": "** Private Tour **\r\nNotre prix comprend déjà une promenade d'une heure en bateau à moteur, de la nourriture locale thaïlandaise et de l'eau potable pour le déjeuner.\r\n\r\n9:00 A.M. Le guide touristique vient vous chercher à votre hôtel à Bangkok. \r\n\r\nDirigez-vous vers le marché des chemins de fer. Regardez ! Le train arrive ! C'est une excellente occasion pour vous de prendre beaucoup de photos et de vidéos à ramener à la maison ! Croyez-le ou non, cette scène inhabituelle est tout à fait typique des habitants. Il suffit de voir avec quelle désinvolture chaque vendeur range ses marchandises et les revend comme si de rien n'était !\r\n\r\nCommençons notre journée par une visite du marché flottant de Damnoen Saduak ! Nous commencerons par nous promener dans le marché et profiterons des scènes animées le long du canal. Mais le clou de la journée ? Une promenade privée en bateau à longue queue, où vous glisserez à travers les canaux pittoresques, appréciant le paysage local serein et témoignant de l'authentique mode de vie au bord de la rivière. Déjeuner dans un restaurant local\r\n\r\nVisite du Wat Bang Kung, un temple unique en son genre, magnifiquement enveloppé dans les racines d'un banyan géant ! C'est un joyau caché plein d'histoire et de charme, parfait pour ceux qui cherchent à découvrir quelque chose de vraiment spécial.\r\n\r\n16:00 Retour à Bangkok et dépôt à votre hôtel en toute sécurité.",
-      "it": "** Tour privato **\r\nIl nostro prezzo include già un giro in motoscafo di 1 ora, cibo locale tailandese e acqua potabile per il pranzo.\r\n\r\n9:00 La guida turistica vi viene a prendere al vostro hotel di Bangkok. \r\n\r\nDirigetevi verso il mercato ferroviario. Guardate! Il treno sta arrivando! Questa è un'ottima occasione per scattare molte foto e video da portare a casa! Che ci crediate o no, questa scena insolita è del tutto tipica della gente del posto. Basta guardare con quanta disinvoltura ogni venditore impacchetta la propria merce e la rivende come se nulla fosse!\r\n\r\nIniziamo la nostra giornata visitando il mercato galleggiante di Damnoen Saduak! Inizieremo passeggiando per il mercato e godendoci le vivaci scene lungo il canale. Ma il vero momento clou? Un giro privato in barca a coda lunga, dove scivolerete attraverso i pittoreschi canali, godendo del sereno scenario locale e assistendo all'autentico stile di vita fluviale. Pranzo in un ristorante locale\r\n\r\nVisitiamo l'incantevole Wat Bang Kung, un tempio unico nel suo genere, splendidamente avvolto dalle radici di un gigantesco albero di banyan! È una gemma nascosta ricca di storia e fascino, perfetta per chi vuole scoprire qualcosa di veramente speciale.\r\n\r\n16:00 Ritorno a Bangkok e riconsegna al vostro hotel in tutta sicurezza.",
-      "pt": "** Excursão privada\r\nO nosso preço já inclui um passeio de barco a motor de 1 hora, comida local tailandesa e água potável para o almoço.\r\n\r\n9:00 A.M. O guia turístico encontra-o e apanha-o no seu hotel em Bangkok. \r\n\r\nDirija-se ao Mercado Ferroviário. Veja! O comboio está a chegar! Esta é uma excelente oportunidade para tirar muitas fotografias e vídeos para levar para casa! Acredite ou não, esta cena invulgar é totalmente típica dos habitantes locais. Basta ver como cada vendedor arruma as suas mercadorias e as revende como se nada tivesse acontecido!\r\n\r\nVamos começar o nosso dia visitando o Mercado Flutuante Damnoen Saduak! Começamos por passear pelo mercado e apreciar as cenas animadas ao longo do canal. Mas o verdadeiro ponto alto? Um passeio privado de barco de cauda longa, onde deslizará pelos pitorescos canais, apreciando a serena paisagem local e testemunhando o autêntico estilo de vida ribeirinho. Almoço num restaurante local\r\n\r\nVamos visitar o encantador Wat Bang Kung, um templo único, lindamente envolto nas raízes de uma figueira-de-bengala gigante! É uma joia escondida cheia de história e charme, perfeita para quem procura descobrir algo verdadeiramente especial.\r\n\r\n16:00 Regresso a Banguecoque e entrega no seu hotel em segurança."
+      "de": "Sie möchten einen schwimmenden Markt erkunden und dabei die Menschenmassen meiden? Auf dem schwimmenden Markt Khlong Lat Mayom erleben Sie einen der authentischsten schwimmenden Märkte Bangkoks und gleichzeitig ein Paradies für Feinschmecker. Hier fahren wir mit einem Boot auf dem begrünten Kanal hinter den Häusern der Einheimischen entlang und probieren köstliche thailändische Gerichte rund um den Markt. Lasst uns entspannen! \r\n\r\nZunächst erreichen wir den schwimmenden Markt Khlong Lat Mayom. Hier steigen wir in ein Boot und gleiten auf dem Kanal entlang, um die Landschaft und die einfachen Häuser der Einheimischen zu bewundern. Auf dem Weg dorthin werden Sie viel Grün sehen und einige Einheimische, die ihrem Leben nachgehen.\r\nWir fahren mit dem Boot zu einem örtlichen Tempel und einem Markt, wo Sie noch mehr Einheimische sehen werden, die ihrem Leben nachgehen. Anschließend bringen wir Sie zu einer nahe gelegenen Orchideenfarm, wo Sie noch mehr von den Einheimischen sehen können. \r\n\r\nNachdem wir die lokale Atmosphäre auf dem Boot erkundet haben, kehren wir zum schwimmenden Markt von Khlong Lat Mayom zurück. Hier können Sie viele verschiedene lokale Speisen und Snacks probieren und einzigartige Souvenirs erwerben. Wenn Sie nicht wissen, welche Gerichte oder Snacks Sie probieren sollen, machen Sie sich keine Sorgen! Ich gebe Ihnen gerne Empfehlungen. \r\n\r\nWir setzen Sie an der MRT-U-Bahn-Station ab.",
+      "en": "Want to explore a floating market, and avoid the crowds? At Khlong Lat Mayom Floating Market, you'll experience one of Bangkok's most authentic floating markets and a foodie's paradise at the same time. Here, we'll ride a boat along the leafy canal at the back of local homes, and sample tasty Thai food around the market. Let's chill out! \r\n\r\nWe start by arriving at Khlong Lat Mayom Floating Market. Here, we'll hop on a boat, and we'll glide along the canal and to see and absorb the local scenery and simple local houses. Along the way, you will see some greenery and some locals living about their lives.\r\nWe'll ride the boat to a local temple and market, where you'll see even more local people going about their day. Then, we'll take you to a nearby local orchid farm to check out more of the local community. \r\n\r\nAfter checking out the local atmosphere on the boat, we'll come back to Khlong Lat Mayom Floating Market. Here, I'll let you try many types of local food and snacks, and you can get some unique souvenirs. If you don't know which dishes or snacks to try, don't worry! I'm here to give you recommendations. \r\n\r\nWe'll drop you off at MRT subway station.",
+      "es": "¿Quiere explorar un mercado flotante y evitar las multitudes? En el mercado flotante de Khlong Lat Mayom, conocerá uno de los mercados flotantes más auténticos de Bangkok y un paraíso gastronómico al mismo tiempo. Aquí, pasearemos en barca por el frondoso canal a espaldas de las casas locales, y degustaremos sabrosa comida tailandesa en los alrededores del mercado. ¡A relajarse! \r\n\r\nEmpezaremos llegando al mercado flotante de Khlong Lat Mayom. Aquí, subiremos a un barco y nos deslizaremos por el canal para ver y absorber el paisaje local y las sencillas casas locales. Por el camino, verá algo de vegetación y a algunos lugareños haciendo su vida.\r\nIremos en barco hasta un templo local y un mercado, donde verá a más lugareños haciendo su vida cotidiana. A continuación, le llevaremos a una granja de orquídeas cercana para que vea más de la comunidad local. \r\n\r\nDespués de disfrutar del ambiente local en el barco, volveremos al mercado flotante de Khlong Lat Mayom. Aquí, le dejaré probar muchos tipos de comida y aperitivos locales, y podrá conseguir algunos recuerdos únicos. Si no sabes qué platos o aperitivos probar, ¡no te preocupes! Estoy aquí para darte recomendaciones. \r\n\r\nTe dejaremos en la estación de metro MRT.",
+      "fr": "Vous voulez découvrir un marché flottant tout en évitant les foules ? Au marché flottant de Khlong Lat Mayom, vous découvrirez l'un des marchés flottants les plus authentiques de Bangkok et un paradis pour les gastronomes. Nous nous promènerons en bateau le long du canal verdoyant, à l'arrière des maisons locales, et nous dégusterons de délicieux plats thaïlandais sur le marché. Détendez-vous ! \r\n\r\nNous commençons par arriver au marché flottant de Khlong Lat Mayom. Nous monterons à bord d'un bateau et nous glisserons le long du canal pour voir et absorber le paysage local et les maisons simples de la région. En chemin, vous verrez un peu de verdure et des habitants qui vivent leur vie.\r\nNous irons en bateau jusqu'à un temple local et un marché, où vous verrez encore plus de gens locaux vaquer à leurs occupations. Ensuite, nous vous emmènerons dans une ferme d'orchidées voisine pour découvrir d'autres membres de la communauté locale. \r\n\r\nAprès avoir découvert l'atmosphère locale sur le bateau, nous reviendrons au marché flottant de Khlong Lat Mayom. Ici, je vous ferai goûter de nombreux types de plats et d'en-cas locaux, et vous pourrez acheter des souvenirs uniques. Si vous ne savez pas quels plats ou snacks essayer, ne vous inquiétez pas ! Je suis là pour vous donner des recommandations. \r\n\r\nNous vous déposerons à la station de métro MRT.",
+      "it": "Volete esplorare un mercato galleggiante evitando la folla? Al mercato galleggiante di Khlong Lat Mayom vivrete uno dei mercati galleggianti più autentici di Bangkok e allo stesso tempo un paradiso per i buongustai. Qui, percorreremo in barca il canale verdeggiante sul retro delle case locali e assaggeremo gustosi piatti thailandesi in giro per il mercato. Rilassiamoci! \r\n\r\nSi inizia arrivando al mercato galleggiante di Khlong Lat Mayom. Qui saliremo su una barca e scivoleremo lungo il canale per ammirare e assorbire il paesaggio locale e le semplici case locali. Lungo il percorso, vedrete un po' di verde e alcuni abitanti del luogo che vivono la loro vita.\r\nCon la barca raggiungeremo un tempio e un mercato locale, dove vedrete ancora più gente del posto intenta a svolgere la propria giornata. In seguito, vi porteremo in una vicina fattoria di orchidee per conoscere meglio la comunità locale. \r\n\r\nDopo aver osservato l'atmosfera locale sulla barca, torneremo al mercato galleggiante di Khlong Lat Mayom. Qui, vi farò assaggiare molti tipi di cibo e snack locali e potrete acquistare alcuni souvenir unici. Se non sapete quali piatti o snack provare, non preoccupatevi! Sono qui per darvi consigli. \r\n\r\nVi lasceremo alla stazione della metropolitana MRT.",
+      "pt": "Quer explorar um mercado flutuante e evitar as multidões? No Mercado Flutuante de Khlong Lat Mayom, irá conhecer um dos mercados flutuantes mais autênticos de Banguecoque e, ao mesmo tempo, um paraíso gastronómico. Aqui, andaremos de barco ao longo do canal frondoso nas traseiras das casas locais e provaremos a saborosa comida tailandesa à volta do mercado. Vamos relaxar! \r\n\r\nComeçamos por chegar ao mercado flutuante de Khlong Lat Mayom. Aqui, embarcaremos num barco e deslizaremos ao longo do canal para ver e absorver a paisagem local e as casas simples da região. Ao longo do caminho, verá alguma vegetação e alguns habitantes locais a viverem as suas vidas.\r\nIremos de barco até um templo e um mercado local, onde verá ainda mais pessoas locais a viver o seu dia. Depois, levamo-lo a uma quinta de orquídeas próxima para conhecer melhor a comunidade local. \r\n\r\nDepois de verificarmos o ambiente local no barco, regressamos ao mercado flutuante de Khlong Lat Mayom. Aqui, deixá-lo-ei experimentar muitos tipos de comida e petiscos locais, e poderá comprar algumas lembranças únicas. Se não souber que pratos ou petiscos experimentar, não se preocupe! Estou aqui para vos dar recomendações. \r\n\r\nDeixamo-lo na estação de metro MRT."
     },
     "providerTitle": "Sirisun Enterprise",
     "providerPhone": "+66991177728",
@@ -2466,168 +2466,152 @@
       "it": "https://www.freetour.com/it/bangkok/bangkok-tour-markets-the-dragon-temple?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 40,
+      "value": 20,
       "currency": "EUR"
     },
-    "length": "7:00",
+    "length": "3:30",
     "meetingPoint": {
-      "title": "Bangkok",
-      "coordinates": "13.6818969,100.7468694",
-      "googlePlaceId": "ChIJTydCFXdnHTERB3oVT1UZDRI"
+      "title": "MRT Itsaraphap subway station, Exit 1 (outside)",
+      "coordinates": "13.7383192,100.4852881",
+      "googlePlaceId": "ChIJn5i1NgCZ4jARl65KVKampi0"
     },
     "cityId": 4216,
     "countryId": 154,
     "includes": [
-      "Car",
+      "Air-conditioned Car or Van ",
       "English Speaking Tour Guide",
-      "Motor Boat Ride 1 hour",
-      "Thai local food for lunch",
+      "Motor Boat Ride 90 minutes",
+      "Snack",
       "Drinking Water",
-      "Pick up & Drop off at your hotel"
+      "Food Suggestion"
     ],
     "POIs": null,
-    "titleImageURL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-04.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-25.jpg",
     "categoryId": 4,
     "images": [
-      {
-        "id": 269208,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-04.jpg"
-      },
-      {
-        "id": 299972,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-01.jpg"
-      },
-      {
-        "id": 299973,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-02.jpg"
-      },
-      {
-        "id": 299974,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-03.jpg"
-      },
-      {
-        "id": 299978,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-08.jpg"
-      },
-      {
-        "id": 299982,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-12.jpg"
-      },
-      {
-        "id": 299983,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-13.jpg"
-      },
-      {
-        "id": 299984,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-14.jpg"
-      },
-      {
-        "id": 299986,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-16.jpg"
-      },
-      {
-        "id": 299987,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-17.jpg"
-      },
-      {
-        "id": 299988,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-18.jpg"
-      },
-      {
-        "id": 299989,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-19.jpg"
-      },
-      {
-        "id": 299990,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-20.jpg"
-      },
-      {
-        "id": 299992,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-22.jpg"
-      },
-      {
-        "id": 299994,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-24.jpg"
-      },
       {
         "id": 299995,
         "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-25.jpg"
       },
       {
-        "id": 299996,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-26.jpg"
+        "id": 300407,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-47.jpg"
       },
       {
-        "id": 299997,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-27.jpg"
+        "id": 300408,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-48.jpg"
       },
       {
-        "id": 299998,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-28.jpg"
+        "id": 300409,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-49.jpg"
       },
       {
-        "id": 299999,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-29.jpg"
+        "id": 300410,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-50.jpg"
       },
       {
-        "id": 300001,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-31.jpg"
+        "id": 300411,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-51.jpg"
       },
       {
-        "id": 300002,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-32.jpg"
+        "id": 300412,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-52.jpg"
       },
       {
-        "id": 300003,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-33.jpg"
+        "id": 300413,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-53.jpg"
       },
       {
-        "id": 300004,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-34.jpg"
+        "id": 300414,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-54.jpg"
       },
       {
-        "id": 300005,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-35.jpg"
+        "id": 300415,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-55.jpg"
       },
       {
-        "id": 300006,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-36.jpg"
+        "id": 300416,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-56.jpg"
       },
       {
-        "id": 300008,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-38.jpg"
+        "id": 300417,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-57.jpg"
       },
       {
-        "id": 300009,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-39.jpg"
+        "id": 300418,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-58.jpg"
       },
       {
-        "id": 300010,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-40.jpg"
+        "id": 300419,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-59.jpg"
       },
       {
-        "id": 300011,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-41.jpg"
+        "id": 300420,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-60.jpg"
       },
       {
-        "id": 300012,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-42.jpg"
+        "id": 300421,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-61.jpg"
       },
       {
-        "id": 300013,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-43.jpg"
+        "id": 300422,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-62.jpg"
       },
       {
-        "id": 300014,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-44.jpg"
+        "id": 300423,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-63.jpg"
       },
       {
-        "id": 300015,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-45.jpg"
+        "id": 300424,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-64.jpg"
       },
       {
-        "id": 300016,
-        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-46.jpg"
+        "id": 300425,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-65.jpg"
+      },
+      {
+        "id": 300426,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-66.jpg"
+      },
+      {
+        "id": 300427,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-67.jpg"
+      },
+      {
+        "id": 300428,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-68.jpg"
+      },
+      {
+        "id": 300429,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-69.jpg"
+      },
+      {
+        "id": 300430,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-70.jpg"
+      },
+      {
+        "id": 300431,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-71.jpg"
+      },
+      {
+        "id": 300432,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-72.jpg"
+      },
+      {
+        "id": 300433,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-73.jpg"
+      },
+      {
+        "id": 300434,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-74.jpg"
+      },
+      {
+        "id": 300435,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-75.jpg"
+      },
+      {
+        "id": 300436,
+        "URL": "https://www.freetour.com/images/tours/74727/bangkok-tour-markets-the-dragon-temple-76.jpg"
       }
     ],
     "videoURL": null,
@@ -2636,7 +2620,7 @@
   },
   {
     "id": 75076,
-    "updatedAt": "2025-12-01 18:07:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Food Tour in Bangkok Chinatown",
       "es": "Comida Callejera en el Barrio Chino de Bangkok",
@@ -2869,7 +2853,7 @@
   },
   {
     "id": 75077,
-    "updatedAt": "2025-12-01 18:02:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Grand Palace and Temple Tour",
       "es": "Visita al Gran Palacio y los templos de Bangkok",
@@ -3021,7 +3005,7 @@
   },
   {
     "id": 76546,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Maeklong Train market and Floating Market",
       "es": "Mercado Ferroviario y Flotante de Maeklong",
@@ -3119,7 +3103,7 @@
   },
   {
     "id": 76639,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Airport Private Transfer to/from Bangkok City",
       "es": "Traslado privado desde/hacia el aeropuerto de Bangkok",
@@ -3262,7 +3246,7 @@
   },
   {
     "id": 76654,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Old Town History, Culture, and Life Tour",
       "es": "Historia, cultura y vida en el casco antiguo de Bangkok",
@@ -3388,7 +3372,7 @@
   },
   {
     "id": 77632,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bangkok Hopping Bar Tour",
       "es": "Recorrido por los Bares de Bangkok",

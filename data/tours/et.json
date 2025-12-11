@@ -1,7 +1,7 @@
 [
   {
     "id": 2394,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Addis Ababa Free Walking Tour",
       "es": "Visita guiada gratuita a pie por Addis Abeba",
@@ -104,12 +104,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.5,
-    "reviewsNumber": 37
+    "rating": 4.52,
+    "reviewsNumber": 39
   },
   {
     "id": 5133,
-    "updatedAt": "2025-12-01 01:02:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Axum Private Tour by Car",
       "es": "Tour privado en coche por Aksum",
@@ -204,7 +204,7 @@
   },
   {
     "id": 44277,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour of Addis Ababa",
       "es": "Visita a la ciudad de Addis Abeba",
@@ -286,7 +286,7 @@
   },
   {
     "id": 44399,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Semien Mountains & Danakil Depression - 8 Days Nature expedition",
       "es": "Montes Semien y Depresión del Danakil - Expedición de 8 días por la naturaleza",
@@ -371,7 +371,7 @@
   },
   {
     "id": 48948,
-    "updatedAt": "2025-12-01 01:09:38",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bahir Dar Day Tour, Blue Nile & Lake Tana",
       "es": "Excursión de un día a Bahir Dar, Nilo Azul y Lago Tana",
@@ -466,7 +466,7 @@
   },
   {
     "id": 56091,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Addis Ababa City Tour Full or Half Day",
       "es": "Addis Abeba City Tour de día completo o medio día",
@@ -571,7 +571,7 @@
   },
   {
     "id": 57974,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Walking Tour Around Addis Ababa",
       "es": "Visita a pie por Addis Abeba",
@@ -677,7 +677,7 @@
   },
   {
     "id": 59402,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Addis Ababa Cultural City Tour",
       "es": "Visita cultural de Addis Abeba",
@@ -765,7 +765,7 @@
   },
   {
     "id": 59435,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Ethiopian Capital",
       "es": "Exploraa la Capital Etíope",
@@ -873,7 +873,7 @@
   },
   {
     "id": 59437,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Addis Ababa: Full Cooking Class Tour",
       "es": "Addis Abeba: Tour completo de clases de cocina",
@@ -964,7 +964,7 @@
   },
   {
     "id": 60700,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Debre Zeit",
       "es": "Excursión de un Día a Debre Zeit",
@@ -1076,7 +1076,7 @@
   },
   {
     "id": 61333,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Addis Ababa with a Local Guide",
       "es": "Explore Addis Abeba con un Guía Local",
@@ -1163,7 +1163,7 @@
   },
   {
     "id": 61698,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Ancient Churches of Lalibela",
       "es": "Explore las Antiguas Iglesias de Lalibela",
@@ -1269,7 +1269,7 @@
   },
   {
     "id": 69237,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Addis Ababa's Merkato on Foot",
       "es": "Explore a pie el Merkato de Addis Abeba",
@@ -1370,7 +1370,7 @@
   },
   {
     "id": 69932,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Omo Valley Immersive Tribal Journey",
       "es": "Viaje Tribal Inmersivo al Valle del Omo",
@@ -1527,7 +1527,7 @@
   },
   {
     "id": 77755,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip: Debre Libanos, Blue Nile Gorge & Bridge",
       "es": "Excursión de un Día: Debre Libanos, Garganta y Puente del Nilo Azul",
@@ -1646,7 +1646,7 @@
   },
   {
     "id": 78477,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip in Debrelibanos and Adadi Maryam",
       "es": "Excursión de un día a Debrelibanos y Adadi Maryam",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 79035,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Blue Nile & Debre Libanos Day Adventure",
       "es": "Aventura de un día en el Nilo Azul y Debre Líbano",
@@ -1861,7 +1861,7 @@
   },
   {
     "id": 82661,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Addis Ababa Highlights: Museums, Market & Landmarks",
       "es": "Lo más Destacado de Addis Abeba: Mercado, Museos y Monumentos",
@@ -1959,7 +1959,7 @@
   },
   {
     "id": 83137,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Mercato Market & National Museum Free Tour with Coffee Tasting",
       "es": "Mercado y Museo Nacional Visita gratuita con degustación de café",
@@ -2119,7 +2119,7 @@
   },
   {
     "id": 85939,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Addis Ababa Morning Free Tour",
       "es": "Excursión gratuita por la mañana en Addis Abeba",
@@ -2233,7 +2233,7 @@
   },
   {
     "id": 86140,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Night Life in Addis Ababa Free Tour",
       "es": "Visita gratuita a la vida nocturna de Addis Abeba",

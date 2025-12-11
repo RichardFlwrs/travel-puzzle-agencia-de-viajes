@@ -1,7 +1,7 @@
 [
   {
     "id": 1093,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Taipei Golden Age Free Tour",
       "es": "Taipei Edad de Oro Free Tour",
@@ -127,11 +127,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=wwqoiAylKJw&list=PLJDA_2G16RU0Dy4337Es70315QkOcxUNM&index=1",
     "rating": 4.84,
-    "reviewsNumber": 62
+    "reviewsNumber": 63
   },
   {
     "id": 1095,
-    "updatedAt": "2025-12-01 09:26:08",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Taipei Historic Free Walking Tour",
       "es": "Recorrido histórico gratuito por Taipei",
@@ -251,11 +251,11 @@
     ],
     "videoURL": "https://youtu.be/wwqoiAylKJw",
     "rating": 4.82,
-    "reviewsNumber": 200
+    "reviewsNumber": 201
   },
   {
     "id": 9293,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Taichung Historic Downtown Free Tour",
       "es": "Free Tour del Centro Histórico de Taichung",
@@ -408,12 +408,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=umuHJziWC2A",
-    "rating": 4.25,
-    "reviewsNumber": 38
+    "rating": 4.27,
+    "reviewsNumber": 39
   },
   {
     "id": 13301,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Tainan Downtown Free Tour",
       "es": "Visita gratuita al centro de Tainan",
@@ -523,7 +523,7 @@
   },
   {
     "id": 15612,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Tainan Old Town Free Tour",
       "es": "Visita gratuita al casco antiguo de Tainan",
@@ -601,7 +601,7 @@
   },
   {
     "id": 15613,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Kaohsiung Harbor City Free Tour",
       "es": "Visita gratuita a la ciudad portuaria de Kaohsiung",
@@ -689,7 +689,7 @@
   },
   {
     "id": 15616,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Kaohsiung Religion Free Tour",
       "es": "Recorrido religioso gratuito por Kaohsiung",
@@ -801,7 +801,7 @@
   },
   {
     "id": 41516,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Taichung Rail & River Free Walking Tour",
       "es": "Excursión gratuita a pie por el río y el ferrocarril de Taichung",
@@ -933,7 +933,7 @@
   },
   {
     "id": 42188,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Taipei Old Town - Free Taiwan Introduction Tour",
       "es": "Casco antiguo de Taipei - Visita introductoria gratuita a Taiwán",
@@ -1071,11 +1071,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=X5ERm2g8ZjM",
     "rating": 4.8100000000000005,
-    "reviewsNumber": 126
+    "reviewsNumber": 128
   },
   {
     "id": 42200,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Taipei's Origin & Longshan Temple - Taiwan Cultural Free Walking Tour",
       "es": "El origen de Taipei y el templo de Longshan - Visita cultural gratuita a pie por Taiwán",
@@ -1209,7 +1209,7 @@
   },
   {
     "id": 42259,
-    "updatedAt": "2025-12-01 01:07:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taipei Nightlife Pub Crawl",
       "es": "Pub Crawl en Taipei",
@@ -1312,7 +1312,7 @@
   },
   {
     "id": 46294,
-    "updatedAt": "2025-12-01 01:09:15",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taipei Food Tour: Historic Night Market (Food Included)",
       "es": "Tour gastronómico de Taipei: Mercado nocturno histórico (comida incluida)",
@@ -1464,12 +1464,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=JsKNiQ9Frfk",
-    "rating": 4.78,
-    "reviewsNumber": 13
+    "rating": 4.8,
+    "reviewsNumber": 14
   },
   {
     "id": 47430,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taipei Jiufen & Shifen Full Day Trip Tour",
       "es": "Excursión de un día a Taipei Jiufen y Shifen",
@@ -1571,7 +1571,7 @@
   },
   {
     "id": 52118,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taipei Nightlife: Taipei 101 Xinyi Pub Crawl",
       "es": "Vida nocturna en Taipei: Taipei 101 Xinyi Pub Crawl",
@@ -1667,7 +1667,7 @@
   },
   {
     "id": 59826,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Vintage Taipei - Best of Taiwan and Sunset Free Walking Tour",
       "es": "Vintage Taipei - Lo mejor de Taiwán y paseo gratuito al atardecer",
@@ -1828,12 +1828,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 3.65,
-    "reviewsNumber": 4
+    "rating": 3.12,
+    "reviewsNumber": 5
   },
   {
     "id": 67954,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taipei Food Tour: Taiwan Traditional Breakfast & Market & Tea Tasting",
       "es": "Taipei Food Tour: Desayuno tradicional de Taiwán, mercado y degustación de té",
@@ -1969,7 +1969,7 @@
   },
   {
     "id": 68293,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Taiwan Wedding and Casual Wear Photography Experience",
       "es": "Experiencia en fotografía de bodas y ropa informal en Taiwán",
@@ -2049,7 +2049,7 @@
   },
   {
     "id": 71128,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Tour to Monkey Mountain in Kaohsiung",
       "es": "Excursión a la Montaña de los Monos en Kaohsiung",
@@ -2201,11 +2201,11 @@
     ],
     "videoURL": null,
     "rating": 4.2,
-    "reviewsNumber": 10
+    "reviewsNumber": 9
   },
   {
     "id": 71162,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Exploring Taichung's Migrant Worker Life",
       "es": "Explorando la Vida de los Trabajadores Migrantes de Taichung",
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 76846,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Keelung Port Local History & Food Tour",
       "es": "Recorrido Gastronómico e Histórico por el Puerto de Keelung",
@@ -2443,11 +2443,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 77667,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Walking Tour from CKS Memorial Hall to Rongjin",
       "es": "Recorrido a pie desde el CKS Memorial Hall hasta Rongjin",
@@ -2539,7 +2539,7 @@
   },
   {
     "id": 82388,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Gods & Myths of Taiwan: Free Tour of Xinzhuang Temple Street",
       "es": "Dioses y mitos de Taiwán: Visita gratuita a la calle del Templo de Xinzhuang",

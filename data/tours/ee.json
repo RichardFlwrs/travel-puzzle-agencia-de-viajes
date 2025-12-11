@@ -1,7 +1,7 @@
 [
   {
     "id": 5464,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Communist Stories of Tallinn Free Walking Tour",
       "es": "Historias comunistas de Tallin Visita gratuita a pie",
@@ -143,11 +143,11 @@
     ],
     "videoURL": null,
     "rating": 4.86,
-    "reviewsNumber": 255
+    "reviewsNumber": 257
   },
   {
     "id": 5513,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Tallinn in a Nutshell Free Tour",
       "es": "Tallin en pocas palabras Visita gratuita",
@@ -333,11 +333,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 2276
+    "reviewsNumber": 2283
   },
   {
     "id": 7990,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Tales of Reval Free Tour",
       "es": "Gira gratuita de Tales of Reval",
@@ -467,11 +467,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=Oc-ZmiJ5NOw",
     "rating": 4.88,
-    "reviewsNumber": 983
+    "reviewsNumber": 996
   },
   {
     "id": 36405,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Vana Lugu: Tartu Old Town Free Tour",
       "es": "Vana Lugu: Visita gratuita del casco antiguo de Tartu",
@@ -571,7 +571,7 @@
   },
   {
     "id": 39114,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tallinn Legends and Local Market Walking Tour",
       "es": "Leyendas de Tallinn y Mercado Local Walking Tour",
@@ -667,7 +667,7 @@
   },
   {
     "id": 45759,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Incredible Photographs in Tallinn City",
       "es": "Fotografías Increíbles en la Ciudad de Tallinn",
@@ -755,7 +755,7 @@
   },
   {
     "id": 52535,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of the Medieval Tallinn",
       "es": "Free Tour de la Tallinn Medieval",
@@ -887,7 +887,7 @@
   },
   {
     "id": 57130,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 07:16:01",
     "title": {
       "en": "Old Tallinn Highlights & its Medieval Past Free Tour",
       "es": "Free Tour por lo más Destacado del Casco Antiguo de Tallin y su Pasado Medieval",
@@ -1053,7 +1053,7 @@
   },
   {
     "id": 58210,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tallinn Medieval City Wall Tour",
       "es": "Visita a la muralla medieval de Tallin",
@@ -1090,7 +1090,7 @@
       "it": "https://www.freetour.com/it/tallinn/tallinn-unique-medieval-wall-towers?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 20,
+      "value": 15,
       "currency": "EUR"
     },
     "length": "1:00",
@@ -1238,7 +1238,7 @@
   },
   {
     "id": 62661,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "The Hidden Magic of Tallinn: Free Tour",
       "es": "La Magia Oculta de Tallin: Free Tour",
@@ -1461,12 +1461,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.57,
-    "reviewsNumber": 98
+    "rating": 4.58,
+    "reviewsNumber": 100
   },
   {
     "id": 63321,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Hidden Magic of Tallinn Free Tour",
       "es": "Magia Oculta de Tallinn Free Tour",
@@ -1616,12 +1616,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.83,
-    "reviewsNumber": 30
+    "rating": 4.84,
+    "reviewsNumber": 32
   },
   {
     "id": 64913,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Medieval Tallinn & Merchant House Architecture",
       "es": "Explorar la Tallin Medieval y la Arquitectura de las Casas Mercantiles",
@@ -1697,7 +1697,7 @@
   },
   {
     "id": 64987,
-    "updatedAt": "2025-12-01 17:33:34",
+    "updatedAt": "2025-12-11 13:58:02",
     "title": {
       "en": "Free Tour Through the Medieval Streets of Tallinn",
       "es": "Recorrido gratuito por las calles medievales de Tallin",
@@ -1737,9 +1737,9 @@
       "value": 0,
       "currency": "EUR"
     },
-    "length": "2:00",
+    "length": "2:30",
     "meetingPoint": {
-      "title": "Estonian Maritime Museum and Fat Margaret Tower",
+      "title": "Estonian Maritime Museum and Fat Margaret Tower Location: Pikk 70",
       "coordinates": "59.4425251854083,24.749453365802765",
       "googlePlaceId": "ChIJZ5T9cWSTkkYRuUu1Qp85518"
     },
@@ -1860,12 +1860,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.71,
-    "reviewsNumber": 241
+    "rating": 4.72,
+    "reviewsNumber": 254
   },
   {
     "id": 65927,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: Daily Life in Medieval Tallinn",
       "es": "Visita gratuita: La vida cotidiana en la Tallin medieval",
@@ -2056,7 +2056,7 @@
   },
   {
     "id": 70023,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour in Fotografiska Museum of Tallinn with the Insider",
       "es": "Visita guiada por el Museo Fotografiska de Tallin",
@@ -2152,7 +2152,7 @@
   },
   {
     "id": 71534,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "The Bee That Broke an Empire: The Power of Song",
       "es": "La Abeja que Rompió un Imperio: El Poder de la Canción",
@@ -2250,7 +2250,7 @@
   },
   {
     "id": 71535,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Tallinn Coastal Tales: The Three Ls That Changed History",
       "es": "Historias de la costa de Tallin: Las tres \"L\" que cambiaron la historia",
@@ -2368,11 +2368,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 5
+    "reviewsNumber": 7
   },
   {
     "id": 71536,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Tallinn 1940 Free Tour: Between Factories and Frontiers",
       "es": "Tallin 1940 Free Tour: Entre fábricas y fronteras",
@@ -2477,12 +2477,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.62,
-    "reviewsNumber": 11
+    "rating": 4.68,
+    "reviewsNumber": 13
   },
   {
     "id": 85196,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Advent Calendar of Tallinn Tour",
       "es": "Calendario de Adviento de Tallin",
@@ -2612,7 +2612,7 @@
   },
   {
     "id": 85406,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tallinn Old Town History and Legends Tour",
       "es": "Historia y leyendas del casco antiguo de Tallin",

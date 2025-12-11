@@ -1,7 +1,7 @@
 [
   {
     "id": 968,
-    "updatedAt": "2025-12-01 01:00:51",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Dark Shadows of the Old Town - Ghosts of Prague Walking Tour",
       "es": "Las oscuras sombras de la Ciudad Vieja - Visita guiada a los fantasmas de Praga",
@@ -99,7 +99,7 @@
   },
   {
     "id": 995,
-    "updatedAt": "2025-12-01 01:00:55",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Best of Prague Tour: Castle Area, Bus & River Cruise",
       "es": "Lo mejor de Praga: Zona del Castillo, Autobús y Crucero por el Río",
@@ -225,7 +225,7 @@
   },
   {
     "id": 1007,
-    "updatedAt": "2025-12-01 01:00:56",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Panoramic Vltava River Cruise",
       "es": "Crucero Panorámico por el río Vltava",
@@ -367,7 +367,7 @@
   },
   {
     "id": 1008,
-    "updatedAt": "2025-12-01 01:00:56",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague: Sightseeing Boat Cruise with Buffet Dinner",
       "es": "Praga: Crucero turístico en barco con cena buffet",
@@ -510,7 +510,7 @@
   },
   {
     "id": 1544,
-    "updatedAt": "2025-12-01 01:01:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague by Vintage Car & Walking Tour",
       "es": "Praga en coche antiguo y a pie",
@@ -621,7 +621,7 @@
   },
   {
     "id": 1546,
-    "updatedAt": "2025-12-01 01:01:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old Town tour with a Relaxing Boat Ride with snack",
       "es": "Visita del casco antiguo con un relajante paseo en barco con aperitivo",
@@ -718,7 +718,7 @@
   },
   {
     "id": 1548,
-    "updatedAt": "2025-12-01 01:01:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jewish Quarter Walking Tour",
       "es": "Paseo por el Barrio Judío",
@@ -839,7 +839,7 @@
   },
   {
     "id": 1569,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Full-Day City Tour with Cruise and Lunch",
       "es": "Visita de Praga de un día con crucero y almuerzo",
@@ -1118,7 +1118,7 @@
   },
   {
     "id": 1570,
-    "updatedAt": "2025-12-01 01:01:18",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Highlights of Prague Old Town & Jewish Ghetto",
       "es": "Lo más destacado del casco antiguo de Praga y el gueto judío",
@@ -1333,7 +1333,7 @@
   },
   {
     "id": 1571,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alchemy and Mysteries of Prague Castle Tour",
       "es": "Alquimia y misterios en el Castillo de Praga",
@@ -1495,7 +1495,7 @@
   },
   {
     "id": 1573,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mysteries, Ghosts and Legends of Old Town",
       "es": "Misterios, fantasmas y leyendas de la Ciudad Vieja",
@@ -1635,12 +1635,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=9-nrMxmXqf0",
-    "rating": 4.34,
-    "reviewsNumber": 19
+    "rating": 4.35,
+    "reviewsNumber": 20
   },
   {
     "id": 1673,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Pub Crawl",
       "es": "Pub Crawl",
@@ -1752,7 +1752,7 @@
   },
   {
     "id": 1676,
-    "updatedAt": "2025-12-01 01:01:20",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "World War II and Communism Tour",
       "es": "Tour sobre la Segunda Guerra Mundial y el Comunismo",
@@ -1852,7 +1852,7 @@
   },
   {
     "id": 1677,
-    "updatedAt": "2025-12-01 01:01:21",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kutna Hora Bone Chapel Tour",
       "es": "Excursión a Kutná Hora y Capilla Católica",
@@ -1964,7 +1964,7 @@
   },
   {
     "id": 1678,
-    "updatedAt": "2025-12-01 01:01:21",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Terezin Concentration Camp",
       "es": "Campo de Concentración de Terezín",
@@ -2066,7 +2066,7 @@
   },
   {
     "id": 1679,
-    "updatedAt": "2025-12-01 01:01:21",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Czech Beer Tasting in Prague",
       "es": "Degustación de Cerveza Checa en Praga",
@@ -2153,7 +2153,7 @@
   },
   {
     "id": 1680,
-    "updatedAt": "2025-12-01 01:01:21",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Brewery Tour",
       "es": "Tour de Cerveza por Praga",
@@ -2249,7 +2249,7 @@
   },
   {
     "id": 1859,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Castle and Canal River Boat Tour",
       "es": "Castillo de Praga y Canal",
@@ -2437,7 +2437,7 @@
   },
   {
     "id": 1974,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague: WWII & Anthropoid Walking Tour",
       "es": "Praga: La Segunda Guerra Mundial y el Antropoide",
@@ -2649,7 +2649,7 @@
   },
   {
     "id": 1976,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Psychiatric Hospital and Abandoned Cemetery Tour",
       "es": "Visita al hospital psiquiátrico y al cementerio abandonado",
@@ -2781,7 +2781,7 @@
   },
   {
     "id": 4498,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Tandem Skydiving with Free Transfers",
       "es": "Paracaidismo en tándem en Praga con traslados gratuitos",
@@ -2898,7 +2898,7 @@
   },
   {
     "id": 15557,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Prague Night Free Tour: Legends & Beer",
       "es": "Recorrido nocturno gratuito por Praga: Leyendas y cerveza",
@@ -3004,12 +3004,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.64,
-    "reviewsNumber": 46
+    "rating": 4.58,
+    "reviewsNumber": 50
   },
   {
     "id": 15934,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Prague: Old Town and Jewish Quarter",
       "es": "Visita gratuita de Praga: casco antiguo y barrio judío",
@@ -3262,7 +3262,7 @@
   },
   {
     "id": 15984,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Savour Cocktails by Mixology Artists Experience",
       "es": "Saboree los cócteles de Mixology Artists Experience",
@@ -3357,7 +3357,7 @@
   },
   {
     "id": 16926,
-    "updatedAt": "2025-12-01 01:04:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the New City and the Anthropoid Mission",
       "es": "Visita a la Ciudad Nueva y a la Misión Antropoide",
@@ -3497,7 +3497,7 @@
   },
   {
     "id": 17296,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Straz nad Nezarkou Free Tour: Guardians of the Blue Rose",
       "es": "Visita gratuita a Straz nad Nezarkou: Guardianes de la Rosa Azul",
@@ -3607,7 +3607,7 @@
   },
   {
     "id": 17609,
-    "updatedAt": "2025-12-01 01:04:30",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Night Tour of Esoteric Prague",
       "es": "Visita nocturna a la Praga esotérica",
@@ -3733,7 +3733,7 @@
   },
   {
     "id": 19841,
-    "updatedAt": "2025-12-01 01:04:40",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Castle & Malá Strana Tour in Italian",
       "es": "Tour a Castillo de Praga y Malá Strana en Italiano",
@@ -3857,7 +3857,7 @@
   },
   {
     "id": 19844,
-    "updatedAt": "2025-12-01 01:04:40",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "New Town Tour: Prague in the 20th Century in Italian",
       "es": "Visita de la Ciudad Nueva: Praga en el siglo XX en italiano",
@@ -3945,7 +3945,7 @@
   },
   {
     "id": 19845,
-    "updatedAt": "2025-12-01 01:04:40",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Terezín Concentration Camp Tour in Italian",
       "es": "Tour al Campo de Concentración de Terezín en Italiano",
@@ -4038,7 +4038,7 @@
   },
   {
     "id": 19846,
-    "updatedAt": "2025-12-01 01:04:40",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kutná Hora & Chapel of Bones Tour in Italian",
       "es": "Tour de Kutná Hora y la Capilla de los Huesos en Italiano",
@@ -4141,7 +4141,7 @@
   },
   {
     "id": 20714,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Walking Tour of Prague",
       "es": "Visita gratuita a pie por Praga",
@@ -4290,11 +4290,11 @@
     ],
     "videoURL": null,
     "rating": 4.87,
-    "reviewsNumber": 343
+    "reviewsNumber": 345
   },
   {
     "id": 21150,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Treasures of Prague - in French Only",
       "es": "Los Tesoros de Praga - solo en Francés",
@@ -4375,7 +4375,7 @@
   },
   {
     "id": 21703,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of the Castle, Cathedral, Charles Bridge, and Malá Strana",
       "es": "Free tour por el Castillo, Catedral, Puente de Carlos y Malá Strana",
@@ -4511,11 +4511,11 @@
     ],
     "videoURL": null,
     "rating": 4.86,
-    "reviewsNumber": 660
+    "reviewsNumber": 663
   },
   {
     "id": 21705,
-    "updatedAt": "2025-12-01 16:18:30",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Castle of Prague Free Tour: Charles Bridge, Cathedral and Malá Strana",
       "es": "Castillo de Praga Free Tour: Puente de Carlos, Catedral y Malá Strana",
@@ -4624,11 +4624,11 @@
     ],
     "videoURL": null,
     "rating": 4.83,
-    "reviewsNumber": 1125
+    "reviewsNumber": 1129
   },
   {
     "id": 21708,
-    "updatedAt": "2025-12-01 20:53:08",
+    "updatedAt": "2025-12-11 05:24:45",
     "title": {
       "en": "Prague Free Tour : Old Town & Jewish Quarter, Incl Astronomical Clock",
       "es": "Praga Free Tour : Ciudad Vieja y Barrio Judío, incluido el Reloj Astronómico",
@@ -4752,11 +4752,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 1475
+    "reviewsNumber": 1499
   },
   {
     "id": 22227,
-    "updatedAt": "2025-12-01 17:40:18",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Prague Must: Old Town, Jewish Quarter and Astronomical Clock",
       "es": "Praga Imprescindible: Ciudad Vieja, Barrio Judío y Reloj Astronómico",
@@ -4914,11 +4914,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 2108
+    "reviewsNumber": 2124
   },
   {
     "id": 24179,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Welcome to Prague Free Tour",
       "es": "Bienvenido a Praga Free Tour",
@@ -5002,11 +5002,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=gsReY0qwV-0",
     "rating": 4.92,
-    "reviewsNumber": 1328
+    "reviewsNumber": 1331
   },
   {
     "id": 26821,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gothic Prague: Self-Guided Exploration Game",
       "es": "Praga Gótica: Juego de exploración autoguiada",
@@ -5122,7 +5122,7 @@
   },
   {
     "id": 29777,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Prague: World War & Communism",
       "es": "Free Tour Praga: Guerra Mundial y Comunismo",
@@ -5220,7 +5220,7 @@
   },
   {
     "id": 31694,
-    "updatedAt": "2025-12-01 01:06:25",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Castle Tour and Malá Strana",
       "es": "Castillo de Praga y Ciudad Pequeña",
@@ -5443,7 +5443,7 @@
   },
   {
     "id": 31695,
-    "updatedAt": "2025-12-01 01:06:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Communism and the Antiatomic Bunker",
       "es": "Recorrido por el comunismo y el búnker antiatómico",
@@ -5561,7 +5561,7 @@
   },
   {
     "id": 32071,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Prague Castle Free Tour: Big Change of Guards or Golden Lane",
       "es": "Visita gratuita al Castillo de Praga: Gran Cambio de Guardia o Callejón del Oro",
@@ -5684,7 +5684,7 @@
   },
   {
     "id": 34018,
-    "updatedAt": "2025-12-01 15:14:36",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Ciudad Nueva: History of 20th Century Nazism and Communism",
       "es": "Free Tour Ciudad Nueva: Historia del Siglo XX Nazismo y Comunismo",
@@ -5814,11 +5814,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 263
+    "reviewsNumber": 267
   },
   {
     "id": 34042,
-    "updatedAt": "2025-12-01 01:06:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Beer Tasting Tour in Prague",
       "es": "Tour de Degustación de Cerveza en Praga",
@@ -5898,12 +5898,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.83,
-    "reviewsNumber": 54
+    "rating": 4.84,
+    "reviewsNumber": 56
   },
   {
     "id": 36934,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Prague: World War II and Communism",
       "es": "Free Tour Praga: Segunda Guerra Mundial y Comunismo",
@@ -5985,12 +5985,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.78,
-    "reviewsNumber": 107
+    "rating": 4.77,
+    "reviewsNumber": 108
   },
   {
     "id": 39185,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Skydiving from 4200m + GoPro Documentation with Free Transfers",
       "es": "Paracaidismo en Praga desde 4200m + Documentación GoPro con Traslados Gratuitos",
@@ -6092,7 +6092,7 @@
   },
   {
     "id": 39929,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Tandem Jump from 4000m + HD  Video + Photos",
       "es": "Praga Salto en tándem desde 4000m + Vídeo HD + Fotos",
@@ -6202,7 +6202,7 @@
   },
   {
     "id": 46820,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore Pilsen - The Beautiful City",
       "es": "Explore Pilsen - La ciudad bonita",
@@ -6304,7 +6304,7 @@
   },
   {
     "id": 49070,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Medieval Prague: Astronomical Clock and Jewish Quarter",
       "es": "Praga Medieval: Reloj Astronomico y Barrio Judío",
@@ -6476,7 +6476,7 @@
   },
   {
     "id": 49106,
-    "updatedAt": "2025-12-01 01:09:38",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Day Tour of Prague",
       "es": "Tour de Día Completo por Praga",
@@ -6750,7 +6750,7 @@
   },
   {
     "id": 49117,
-    "updatedAt": "2025-12-01 01:09:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alternative Prague Tour",
       "es": "Recorrido alternativo por Praga",
@@ -6890,7 +6890,7 @@
   },
   {
     "id": 49166,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Malastrana: Charles Bridge & Prague Castle",
       "es": "Free Tour Malastrana: Puente de Carlos y Castillo de Praga",
@@ -7097,7 +7097,7 @@
   },
   {
     "id": 49194,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of the Interior of the Jewish Cemetery and Synagogues of Prague",
       "es": "Tour Guiado al Interior del Cementerio Judío y las Sinagogas de Praga",
@@ -7225,7 +7225,7 @@
   },
   {
     "id": 49217,
-    "updatedAt": "2025-12-01 08:33:27",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Prague Free Tour: Old Town and Jewish Quarter",
       "es": "Praga Free Tour: Ciudad Vieja y Barrio Judío",
@@ -7478,12 +7478,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.73,
-    "reviewsNumber": 226
+    "rating": 4.72,
+    "reviewsNumber": 227
   },
   {
     "id": 49222,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of Prague Castle, Charles Bridge and Malá Strana",
       "es": "Free Tour por el Castillo de Praga, Puente de Carlos y Malá Strana",
@@ -7693,7 +7693,7 @@
   },
   {
     "id": 49231,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Castle Interiors",
       "es": "Castillo de Praga Interiores",
@@ -7884,7 +7884,7 @@
   },
   {
     "id": 49380,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Combo: Castle Interiors, Bus & Free Boat",
       "es": "Combo Praga: Interiores del Castillo, Autobús y Barco Gratis",
@@ -8023,7 +8023,7 @@
   },
   {
     "id": 49434,
-    "updatedAt": "2025-12-01 16:29:40",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Complete Prague Free Tour",
       "es": "Visita libre completa de Praga",
@@ -8156,12 +8156,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=Zhv_GnAk474",
-    "rating": 4.64,
-    "reviewsNumber": 629
+    "rating": 4.65,
+    "reviewsNumber": 639
   },
   {
     "id": 49452,
-    "updatedAt": "2025-12-01 15:27:01",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Prague: Christmas Decorations",
       "es": "Free Tour Praga: Decoraciones navideñas",
@@ -8280,12 +8280,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.88,
-    "reviewsNumber": 10
+    "rating": 4.86,
+    "reviewsNumber": 17
   },
   {
     "id": 49606,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Old Town and Jewish Quarter Free Tour of Prague",
       "es": "Visita gratuita del casco antiguo y el barrio judío de Praga",
@@ -8418,11 +8418,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=g2ZW68Hhg48",
     "rating": 4.85,
-    "reviewsNumber": 105
+    "reviewsNumber": 108
   },
   {
     "id": 50517,
-    "updatedAt": "2025-12-01 01:09:51",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Live-Guided ️Trike: Harley️ Viewpoints Tour of Prague",
       "es": "Visita guiada en directo ️Trike: Harley️ Viewpoints Tour of Prague",
@@ -8559,7 +8559,7 @@
   },
   {
     "id": 50520,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Live-Guided Segway Tour",
       "es": "Visita guiada en Segway",
@@ -8681,7 +8681,7 @@
   },
   {
     "id": 50607,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Guided Electric Fat Bike Tour",
       "es": "Recorrido guiado en Fat Bike eléctrica por Praga",
@@ -8819,7 +8819,7 @@
   },
   {
     "id": 50909,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hidden Tour of Prague & the Center",
       "es": "Recorrido oculto por Praga y el centro",
@@ -8899,7 +8899,7 @@
   },
   {
     "id": 51137,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "1-Hour Audio QR Guided Sightseeing Cruises ",
       "es": "cruceros turísticos de 1 hora con audioguía QR ",
@@ -8972,7 +8972,7 @@
   },
   {
     "id": 51161,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "2-Hour Evening Cruises",
       "es": "cruceros nocturnos de 2 horas",
@@ -9056,7 +9056,7 @@
   },
   {
     "id": 52181,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour New Town of Prague, WWII & Communism",
       "es": "Free Tour Ciudad Nueva de Praga, Segunda Guerra Mundial y Comunismo",
@@ -9193,7 +9193,7 @@
   },
   {
     "id": 52983,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Prague's Iconic Free Tour Old Town & Jewish Quarter",
       "es": "Visita gratuita a la Ciudad Vieja y el Barrio Judío de Praga",
@@ -9277,11 +9277,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 307
+    "reviewsNumber": 309
   },
   {
     "id": 53017,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 05:50:30",
     "title": {
       "en": "Classic Prague Castle Free Tour, Strahov Monastery & Castle District",
       "es": "Visita clásica gratuita del Castillo de Praga, Monasterio de Strahov y Barrio del Castillo",
@@ -9384,12 +9384,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.84,
-    "reviewsNumber": 156
+    "rating": 4.83,
+    "reviewsNumber": 160
   },
   {
     "id": 54026,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Prague Free Tour: Mysteries & Legends",
       "es": "Praga Free Tour: Misterios y leyendas",
@@ -9465,11 +9465,11 @@
     ],
     "videoURL": null,
     "rating": 4.74,
-    "reviewsNumber": 66
+    "reviewsNumber": 67
   },
   {
     "id": 54849,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Around the Prague Castle (incl. Big Changing of the Guards)",
       "es": "Recorrido gratuito por el Castillo de Praga (incluido el gran cambio de guardia)",
@@ -9586,12 +9586,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=ZrwUk-nC5Is",
-    "rating": 4.6,
-    "reviewsNumber": 44
+    "rating": 4.61,
+    "reviewsNumber": 46
   },
   {
     "id": 63528,
-    "updatedAt": "2025-12-01 01:14:53",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour: Prague Castle, Prague Cathedral, Royal Palace and Golden Street",
       "es": "Tour Guiado: Castillo de Praga, Catedral, Palacio Real y Calle del Oro",
@@ -9730,7 +9730,7 @@
   },
   {
     "id": 68641,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "Free Tour of Charles Bridge and Campa Island",
       "es": "Free Tour al Puente de Carlos y a la Isla Campa",
@@ -9872,7 +9872,7 @@
   },
   {
     "id": 68643,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "Discover Prague Castle Through Centuries of History",
       "es": "Descubra el Castillo de Praga a través de Siglos de Historia",
@@ -10008,7 +10008,7 @@
   },
   {
     "id": 69127,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion to the Terezín Concentration Camp",
       "es": "Excursión al Campo de Concentración de Terezín",
@@ -10120,7 +10120,7 @@
   },
   {
     "id": 69221,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion to Ceský Krumlov",
       "es": "Excursión a Ceský Krumlov",
@@ -10230,7 +10230,7 @@
   },
   {
     "id": 71095,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Terezin Concentration Camp",
       "es": "Recorrido al Campo de Concentración Terezin",
@@ -10310,7 +10310,7 @@
   },
   {
     "id": 71102,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion to Karlovy Vary",
       "es": "Excursión a Karlovy Vary",
@@ -10396,7 +10396,7 @@
   },
   {
     "id": 71110,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Magic of Cesky Krumlov",
       "es": "Descubre la Magia de Cesky Krumlov",
@@ -10476,7 +10476,7 @@
   },
   {
     "id": 71112,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fascinating Dresden Excursion: History and Enchantment",
       "es": "Fascinante Excursión a Dresden: Historia y Encanto",
@@ -10568,7 +10568,7 @@
   },
   {
     "id": 71342,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Magic of Kutná Hora",
       "es": "Descubre la Magia de Kutná Hora",
@@ -10664,7 +10664,7 @@
   },
   {
     "id": 71345,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to the Vojna Lesetice Memorial and the Czech Gulag",
       "es": "Tour al Memorial Vojna Lesetice y el Gulag Checo",
@@ -10728,7 +10728,7 @@
   },
   {
     "id": 71369,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Excursion to Dresden",
       "es": "Excursion Privada a Dresde",
@@ -10969,7 +10969,7 @@
   },
   {
     "id": 72930,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Prague at Your Own Pace",
       "es": "Explora Praga a tu Propio Ritmo",
@@ -11065,7 +11065,7 @@
   },
   {
     "id": 75060,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Prague Complete: The Express Tour That Has It All",
       "es": "Praga al Completo: El Tour Express que lo Tiene Todo",
@@ -11287,7 +11287,7 @@
   },
   {
     "id": 75144,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague in a day - Guided Tour",
       "es": "Praga en un día - Visita Guiada",
@@ -11485,7 +11485,7 @@
   },
   {
     "id": 75167,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Prague, its Castle and Charles Bridge",
       "es": "Explora Praga, su Castillo y el Puente de Carlos",
@@ -11671,7 +11671,7 @@
   },
   {
     "id": 75571,
-    "updatedAt": "2025-12-01 01:16:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Prague Escape Game Experience",
       "es": "Experiencia de Juego de Escape en Praga",
@@ -11814,7 +11814,7 @@
   },
   {
     "id": 76221,
-    "updatedAt": "2025-12-01 01:16:50",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Prague: Terezín Camp & Ghetto Museum Tour",
       "es": "Desde Praga: Visita al Campo de Terezín y al Museo del Gueto",
@@ -11906,7 +11906,7 @@
   },
   {
     "id": 78284,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 12:44:21",
     "title": {
       "en": "Walking Tour: Old Town & Jewish Quarter",
       "es": "Visita a pie: Casco Viejo y Barrio Judío",
@@ -12094,12 +12094,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9399999999999995,
-    "reviewsNumber": 104
+    "rating": 4.95,
+    "reviewsNumber": 113
   },
   {
     "id": 78307,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Prague Essentials: Castle, Bridge & Lesser Town",
       "es": "Imprescindibles de Praga: Castillo, Puente y Malá Strana",
@@ -12256,11 +12256,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 25
+    "reviewsNumber": 26
   },
   {
     "id": 78388,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Essential Prague: Stories, Sights & Secrets",
       "es": "Praga Esencial: Historias, Monumentos y Secretos",
@@ -12410,7 +12410,7 @@
   },
   {
     "id": 78514,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Around Kutna Hora",
       "es": "Recorrido a pie por Kutna Hora",
@@ -12486,7 +12486,7 @@
   },
   {
     "id": 78516,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Kutná Hora on Foot",
       "es": "Descubra Kutná Hora a pie",
@@ -12568,7 +12568,7 @@
   },
   {
     "id": 78815,
-    "updatedAt": "2025-12-01 20:08:00",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Royal Road Tour of Prague: Old Town and Castle",
       "es": "Tour por el Camino Real de Praga: Ciudad Vieja y Castillo",
@@ -12718,11 +12718,11 @@
     ],
     "videoURL": null,
     "rating": 4.98,
-    "reviewsNumber": 55
+    "reviewsNumber": 61
   },
   {
     "id": 78933,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour: Old Town & Jewish Quarter",
       "es": "Tour Privado: Casco Antiguo y Barrio Judío",
@@ -12917,7 +12917,7 @@
   },
   {
     "id": 78950,
-    "updatedAt": "2025-12-01 01:22:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Kutna Hora and Bone Church",
       "es": "Excursión de un día a Kutna Hora y la Iglesia de los Huesos",
@@ -13051,7 +13051,7 @@
   },
   {
     "id": 79383,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Guided Tour: Castle, Malá Strana & Charles Bridge",
       "es": "Visita Guiada Privada: Castillo, Malá Strana y Puente de Carlos",
@@ -13177,7 +13177,7 @@
   },
   {
     "id": 79488,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Prague Through Beer",
       "es": "Descubre Praga a Través de la Cerveza",
@@ -13273,7 +13273,7 @@
   },
   {
     "id": 82750,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Time travel through Golden Prague",
       "es": "Viaje en el Tiempo a Través de la Praga Dorada",
@@ -13389,7 +13389,7 @@
   },
   {
     "id": 83136,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Welcome to Brno Free Tour",
       "es": "Bienvenido a Brno Free Tour",
@@ -13488,12 +13488,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9,
-    "reviewsNumber": 6
+    "rating": 4.92,
+    "reviewsNumber": 8
   },
   {
     "id": 86632,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Prague Castle (no ticket)",
       "es": "App Audioguía: Castillo de Praga (sin entrada)",
@@ -13665,7 +13665,7 @@
   },
   {
     "id": 86669,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Prague, Old Town City Walk",
       "es": "Audioguía App: Praga, Paseo por la Ciudad Vieja",

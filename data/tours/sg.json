@@ -1,7 +1,7 @@
 [
   {
     "id": 35606,
-    "updatedAt": "2025-12-01 01:06:55",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Singapore Uncut Tour",
       "es": "Singapur al desnudo",
@@ -154,7 +154,7 @@
   },
   {
     "id": 55789,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Pinch of Singapore: Free Walking Tour",
       "es": "Una pizca de Singapur: Recorrido gratuito a pie",
@@ -197,7 +197,7 @@
     "length": "3:00",
     "meetingPoint": {
       "title": "Chinatown MRT Station Exit A - Street Level",
-      "coordinates": "1.2838399,103.8438519",
+      "coordinates": "1.283774830572081,103.84388253092766",
       "googlePlaceId": "ChIJo8cvPgsZ2jERzUp0v52SdI0"
     },
     "cityId": 3673,
@@ -285,11 +285,11 @@
     ],
     "videoURL": null,
     "rating": 4.73,
-    "reviewsNumber": 71
+    "reviewsNumber": 72
   },
   {
     "id": 56951,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Walk Through the Past, Present & Future",
       "es": "Paseo por el pasado, presente y futuro",
@@ -403,7 +403,7 @@
   },
   {
     "id": 57528,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "A Glimpse of Singapore: Free Tour",
       "es": "Un vistazo a Singapur: Visita gratuita",
@@ -530,12 +530,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.87,
-    "reviewsNumber": 34
+    "rating": 4.88,
+    "reviewsNumber": 36
   },
   {
     "id": 59074,
-    "updatedAt": "2025-12-01 01:11:18",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Learn About Vanishing Craftsmen",
       "es": "Conozca a los artesanos desaparecidos",
@@ -634,7 +634,7 @@
   },
   {
     "id": 62519,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Singapore: Your Lion City Adventure Begins",
       "es": "Singapur: Comienza tu Aventura en la Ciudad de los Leones",
@@ -755,7 +755,7 @@
   },
   {
     "id": 76870,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "700 Years of Singapore’s History: From Hill to River",
       "es": "700 años de Historia de Singapur: De la Colina al Río",
@@ -877,7 +877,7 @@
   },
   {
     "id": 77345,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the Real Singapore Beyond the Tourist Trails",
       "es": "Descubra el Auténtico Singapur más Allá de las Rutas Turísticas",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 82100,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Singapore City Walk",
       "es": "App Audioguía: Paseo por la Ciudad de Singapur",
@@ -1170,7 +1170,7 @@
   },
   {
     "id": 83047,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "History, Heritage & Hip: The Kampong Glam Singapore Free Tour",
       "es": "Historia, patrimonio y moda: Kampong Glam Singapur Free Tour",
@@ -1283,6 +1283,6 @@
     ],
     "videoURL": null,
     "rating": 4.97,
-    "reviewsNumber": 6
+    "reviewsNumber": 7
   }
 ]

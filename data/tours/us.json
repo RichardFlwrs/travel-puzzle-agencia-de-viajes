@@ -1,7 +1,7 @@
 [
   {
     "id": 729,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour in San Francisco ",
       "es": "Visita gratuita en San Francisco ",
@@ -277,7 +277,7 @@
   },
   {
     "id": 4881,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Seattle City Tour 3-Hours (Private Tour)",
       "es": "Seattle City Tour 3-Hours (Tour Privado)",
@@ -407,7 +407,7 @@
   },
   {
     "id": 6229,
-    "updatedAt": "2025-12-01 01:03:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skyline Tour of New York City",
       "es": "Recorrido por el horizonte de Nueva York",
@@ -524,7 +524,7 @@
   },
   {
     "id": 6735,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "San Francisco Free Tour in Spanish",
       "es": "San Francisco Free Tour en español",
@@ -705,7 +705,7 @@
   },
   {
     "id": 7686,
-    "updatedAt": "2025-12-01 01:03:43",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "New York City High-Line & Hudson Yards Walking Tour",
       "es": "Recorrido a pie por la High-Line y Hudson Yards de Nueva York",
@@ -791,7 +791,7 @@
   },
   {
     "id": 28058,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "RAD Rising: From Flood to Flourish Walking Tour",
       "es": "La RAD en alza: De la inundación al florecimiento",
@@ -909,7 +909,7 @@
   },
   {
     "id": 35265,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Mission & Castro Hidden Stories Free Walking Tour",
       "es": "Free Walking Tour Historias Ocultas de Misión y Castro",
@@ -1031,7 +1031,7 @@
   },
   {
     "id": 37159,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free San Francisco City Tour",
       "es": "Visita gratuita a la ciudad de San Francisco",
@@ -1143,7 +1143,7 @@
   },
   {
     "id": 37625,
-    "updatedAt": "2025-12-01 11:09:15",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour New York: Manhattan & Financial District",
       "es": "Free Tour Nueva York: Manhattan y el distrito financiero",
@@ -1259,11 +1259,11 @@
     ],
     "videoURL": null,
     "rating": 4.64,
-    "reviewsNumber": 689
+    "reviewsNumber": 691
   },
   {
     "id": 42843,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "LIttle Italy - Lombard St - Chocolate Tour",
       "es": "Pequeña Italia - Lombard St - Chocolate Tour",
@@ -1365,7 +1365,7 @@
   },
   {
     "id": 44485,
-    "updatedAt": "2025-12-01 18:03:06",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Central Park Free Walking Tour & Landscaping",
       "es": "Paseo gratuito por Central Park",
@@ -1524,11 +1524,11 @@
     ],
     "videoURL": null,
     "rating": 4.61,
-    "reviewsNumber": 404
+    "reviewsNumber": 406
   },
   {
     "id": 44955,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Night Tour: From Chinatown to Little Italy in San Francisco",
       "es": "Recorrido nocturno: De Chinatown a Little Italy en San Francisco",
@@ -1640,7 +1640,7 @@
   },
   {
     "id": 47996,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "New York Free  street  Food & Nightlife Tour in Greenwich Village",
       "es": "Comida callejera y vida nocturna gratis en Greenwich Village, Nueva York",
@@ -1807,7 +1807,7 @@
   },
   {
     "id": 48848,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Romantic Sacramento: Self-Guided Exploration Game",
       "es": "Sacramento Romántico: Juego de exploración autoguiada",
@@ -1903,7 +1903,7 @@
   },
   {
     "id": 52512,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Grand Central Terminal, Rockefeller Center and Midtown ",
       "es": "Grand Central Terminal, Rockefeller Center y Midtown ",
@@ -2046,12 +2046,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.65,
-    "reviewsNumber": 155
+    "rating": 4.64,
+    "reviewsNumber": 156
   },
   {
     "id": 53651,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour in Miami Downtown",
       "es": "Visita gratuita al centro de Miami",
@@ -2144,12 +2144,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.61,
-    "reviewsNumber": 39
+    "rating": 4.62,
+    "reviewsNumber": 40
   },
   {
     "id": 53652,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour in Miami Beach",
       "es": "Visita gratuita en Miami Beach",
@@ -2242,7 +2242,7 @@
   },
   {
     "id": 54607,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Niagara Falls Night Time Walking Tour",
       "es": "Excursión nocturna a pie por las cataratas del Niágara",
@@ -2337,7 +2337,7 @@
   },
   {
     "id": 55380,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour The Loop Chicago",
       "es": "Visita gratuita The Loop Chicago",
@@ -2430,11 +2430,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 108
+    "reviewsNumber": 110
   },
   {
     "id": 56214,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "The New York Free Tour in Midtown Manhattan",
       "es": "El Free Tour de Nueva York en el centro de Manhattan",
@@ -2548,24 +2548,16 @@
         "googlePlaceId": "ChIJPaCcdf5YwokRQMbOzSn_amg"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-02.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-07.jpg",
     "categoryId": 12,
     "images": [
       {
+        "id": 236991,
+        "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-07.jpg"
+      },
+      {
         "id": 236986,
         "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-02.jpg"
-      },
-      {
-        "id": 236987,
-        "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-03.jpg"
-      },
-      {
-        "id": 236994,
-        "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-10.jpg"
-      },
-      {
-        "id": 193333,
-        "URL": "https://www.freetour.com/images/tours/56214/discover-the-magic-of-new-york-an-unforgettable-journey-in-history-01.jpg"
       },
       {
         "id": 193336,
@@ -2588,25 +2580,29 @@
         "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-06.jpg"
       },
       {
-        "id": 236991,
-        "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-07.jpg"
-      },
-      {
         "id": 236992,
         "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-08.jpg"
       },
       {
         "id": 236995,
         "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-11.jpg"
+      },
+      {
+        "id": 301271,
+        "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-09.jpg"
+      },
+      {
+        "id": 301273,
+        "URL": "https://www.freetour.com/images/tours/56214/midtown-manhattan-magic-history-culture-broadway-12.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.79,
-    "reviewsNumber": 47
+    "rating": 4.8,
+    "reviewsNumber": 49
   },
   {
     "id": 56612,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "San Diego Free Walking Tour",
       "es": "Recorrido gratuito a pie por San Diego",
@@ -2738,7 +2734,7 @@
   },
   {
     "id": 57169,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour The Mall Washington DC",
       "es": "Visita gratuita The Mall Washington DC",
@@ -2844,12 +2840,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.33,
-    "reviewsNumber": 85
+    "rating": 4.28,
+    "reviewsNumber": 87
   },
   {
     "id": 59273,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Essential Manhattan Tour with a New Yorker",
       "es": "Visita imprescindible de Manhattan con un neoyorquino",
@@ -2978,12 +2974,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.87,
-    "reviewsNumber": 27
+    "rating": 4.88,
+    "reviewsNumber": 28
   },
   {
     "id": 60474,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Discover  The Secrets Of Wall Street & Financial District & WTC 9/11",
       "es": "Descubra los secretos de Wall Street, el distrito financiero y el WTC del 11-S",
@@ -3140,12 +3136,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.66,
-    "reviewsNumber": 28
+    "rating": 4.67,
+    "reviewsNumber": 29
   },
   {
     "id": 62682,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour in New York",
       "es": "Free Tour en Nueva York",
@@ -3270,12 +3266,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.47,
-    "reviewsNumber": 16
+    "rating": 4.52,
+    "reviewsNumber": 18
   },
   {
     "id": 63008,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "WTC Memorial Experience: A Journey of Resilience",
       "es": "Experiencia Conmemorativa del WTC: Un Viaje de Resiliencia",
@@ -3391,7 +3387,7 @@
   },
   {
     "id": 63213,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Local Colorado Guided Tour",
       "es": "Visita guiada por Colorado",
@@ -3472,7 +3468,7 @@
   },
   {
     "id": 63759,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Sunrise Bike Tour of Hollywood Beach & City Highlights",
       "es": "Paseo en Bicicleta al Amanecer por la Playa de Hollywood y lo más Destacado de la Ciudad",
@@ -3628,7 +3624,7 @@
   },
   {
     "id": 63795,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore New York's Sights, Dining, & Shopping Delights",
       "es": "Explora los Monumentos, Restaurantes y Tiendas de Nueva York",
@@ -3710,7 +3706,7 @@
   },
   {
     "id": 65635,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Grand Central Terminal History & Hidden Gems Tour of New York",
       "es": "Recorrido por la historia y las joyas ocultas de la Grand Central Terminal de Nueva York",
@@ -3808,7 +3804,7 @@
   },
   {
     "id": 67616,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour Al Capone and the Secrets of Chicago",
       "es": "Free Tour Al Capone y los Secretos de Chicago",
@@ -3916,12 +3912,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.7,
-    "reviewsNumber": 45
+    "rating": 4.71,
+    "reviewsNumber": 47
   },
   {
     "id": 67735,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Walking Tour: Highlights of Boston",
       "es": "Free Tour a pie: Lo más Destacado de Boston",
@@ -4067,7 +4063,7 @@
   },
   {
     "id": 67918,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Las Vegas Like a Local",
       "es": "Explore Las Vegas como un Lugareño",
@@ -4139,7 +4135,7 @@
   },
   {
     "id": 67973,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free French Quarter History Tour of New Orleans",
       "es": "Recorrido histórico gratuito por el Barrio Francés de Nueva Orleans",
@@ -4255,7 +4251,7 @@
   },
   {
     "id": 68552,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Historic Plymouth: Free Walking Tour",
       "es": "Plymouth Histórico: Free Tour a pie",
@@ -4487,7 +4483,7 @@
   },
   {
     "id": 69247,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "French Quarter History Tour",
       "es": "Recorrido Histórico por el Barrio Francés",
@@ -4597,7 +4593,7 @@
   },
   {
     "id": 69648,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: Discover the Nightlife of Manhattan",
       "es": "Free Tour: Descubre la Vida Nocturna de Manhattan",
@@ -4760,12 +4756,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 3.67,
-    "reviewsNumber": 3
+    "rating": 3,
+    "reviewsNumber": 4
   },
   {
     "id": 72437,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Historic Sunset Walking Tour of Kihei",
       "es": "Recorrido a Pie al Atardecer por el Histórico Kihei",
@@ -4863,7 +4859,7 @@
   },
   {
     "id": 76165,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Boston Highlights & Hidden Smiles",
       "es": "Lo más Destacado de Boston y sus Sonrisas Ocultas",
@@ -5009,7 +5005,7 @@
   },
   {
     "id": 77058,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Austin Domain District Free Tour: Shops & Restaurants",
       "es": "Visita gratuita al Distrito Domain de Austin: Tiendas y restaurantes",
@@ -5115,7 +5111,7 @@
   },
   {
     "id": 78332,
-    "updatedAt": "2025-12-01 23:20:07",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Explore Brooklyn: Bridge, Heights & Dumbo",
       "es": "Explora Brooklyn: Puente, Heights y Dumbo",
@@ -5280,11 +5276,11 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 56
+    "reviewsNumber": 57
   },
   {
     "id": 78361,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The East Village Noho Food Tour",
       "es": "Recorrido Gastronómico por East Village Noho",
@@ -5449,7 +5445,7 @@
   },
   {
     "id": 78448,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Discover the Soul of Soho, Chinatown and Little Italy",
       "es": "Descubre el Alma de Soho, Chinatown y Little Italy",
@@ -5583,7 +5579,7 @@
   },
   {
     "id": 78573,
-    "updatedAt": "2025-12-01 23:20:07",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Soho, Little Italy & Chinatown Walking Tour",
       "es": "Recorrido a pie por el Soho, Little Italy y Chinatown",
@@ -5746,18 +5742,18 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 44
+    "reviewsNumber": 45
   },
   {
     "id": 78579,
-    "updatedAt": "2025-12-01 23:20:07",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
-      "en": "Lower Manhattan: From Financial Power to Enduring Hope",
-      "es": "Bajo Manhattan: Del poder Financiero a la Esperanza Duradera",
-      "pt": "Baixa Manhattan: Do poder financeiro à esperança duradoura",
-      "de": "Lower Manhattan: Von der Finanzkraft zur dauerhaften Hoffnung",
-      "fr": "Lower Manhattan : De la puissance financière à l'espoir durable",
-      "it": "Lower Manhattan: Dal potere finanziario alla speranza duratura"
+      "en": "Lower Manhattan New York Free Tour",
+      "es": "Visita gratuita al Bajo Manhattan de Nueva York",
+      "pt": "Excursão gratuita a Lower Manhattan, Nova Iorque",
+      "de": "Lower Manhattan New York Kostenlose Tour",
+      "fr": "Visite gratuite du Lower Manhattan à New York",
+      "it": "Tour gratuito di Lower Manhattan New York"
     },
     "brief": {
       "de": "Nehmen Sie an dieser eindrucksvollen Tour durch Lower Manhattan teil und entdecken Sie die holländischen Wurzeln von New York City, die Ikonen der Wall Street, das Vermächtnis von Hamilton und das bewegende 9/11 Memorial. Entdecken Sie die Geschichte, die Widerstandsfähigkeit und den Geist von Amerikas Finanzzentrum.",
@@ -5928,19 +5924,19 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.98,
-    "reviewsNumber": 13
+    "rating": 4.99,
+    "reviewsNumber": 14
   },
   {
     "id": 78629,
-    "updatedAt": "2025-12-01 23:20:07",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
-      "en": "Times Square, Grand Central, Rockefeller Tour",
-      "es": "Recorrido por Times Square, Grand Central y Rockefeller",
-      "pt": "Times Square, Grand Central, Rockefeller Tour",
-      "de": "Times Square, Grand Central, Rockefeller Tour",
-      "fr": "Times Square, Grand Central, Rockefeller Tour",
-      "it": "Times Square, Grand Central, Rockefeller Tour"
+      "en": "Times Square, Grand Central, Rockefeller Free Tour of New York",
+      "es": "Times Square, Grand Central, Rockefeller Recorrido gratuito por Nueva York",
+      "pt": "Times Square, Grand Central, Rockefeller Visita gratuita a Nova Iorque",
+      "de": "Times Square, Grand Central, Rockefeller Kostenlose Tour durch New York",
+      "fr": "Times Square, Grand Central, Rockefeller Visite gratuite de New York",
+      "it": "Times Square, Grand Central, Rockefeller Tour gratuito di New York"
     },
     "brief": {
       "de": "Begleiten Sie uns auf einer lebhaften Tour vom Times Square zum Rockefeller Center! Entdecken Sie ikonische Wahrzeichen wie Grand Central, die St. Patrick's Cathedral und atemberaubende Ausblicke auf die Stadt. Erkunden Sie das Herz und die Geschichte von New York City auf einem unvergesslichen Spaziergang.",
@@ -6150,7 +6146,7 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 19
+    "reviewsNumber": 20
   },
   {
     "id": 78850,
@@ -6246,7 +6242,7 @@
   },
   {
     "id": 79350,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of Washington D. C.: Spies and Power",
       "es": "Free Tour por Washington D. C.: Espías y Poder",
@@ -6374,7 +6370,7 @@
   },
   {
     "id": 79453,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "The Greenwich Village Ghost Tour",
       "es": "El Recorrido de los Fantasmas de Greenwich Village",
@@ -6546,7 +6542,7 @@
   },
   {
     "id": 79474,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Flavors of Chinatown & Little Italy Food Tour",
       "es": "Recorrido Gastronómico por los Sabores de Chinatown y Little Italy",
@@ -6719,7 +6715,7 @@
   },
   {
     "id": 79585,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The 911 Memorial Full Story Tour",
       "es": "Recorrido Completo de la Historia del Memorial del 11-S",
@@ -6910,14 +6906,14 @@
   },
   {
     "id": 79586,
-    "updatedAt": "2025-12-01 23:21:01",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
-      "en": "The Christmas Holiday Lights Tour",
-      "es": "El Recorrido de las Luces Navideñas",
-      "pt": "A visita guiada das luzes de Natal",
-      "de": "Die Lichtertour zur Weihnachtszeit",
-      "fr": "La tournée des lumières de Noël",
-      "it": "Il tour delle luci di Natale"
+      "en": "The Christmas Holiday Lights Free Tour of New York",
+      "es": "Recorrido gratuito por las luces navideñas de Nueva York",
+      "pt": "A excursão gratuita às luzes de Natal de Nova Iorque",
+      "de": "Die kostenlose Tour der Weihnachtsbeleuchtung in New York",
+      "fr": "Tournée gratuite des lumières de Noël de New York",
+      "it": "Il tour gratuito delle luci natalizie di New York"
     },
     "brief": {
       "de": "Erleben Sie das ultimative Weihnachtsabenteuer! Entdecken Sie den Weihnachtszauber von NYC vom Bryant Park bis zu Macy's, der 5th Avenue und dem Rockefeller Center. Lichter, Freude und festliche Stimmung erwarten Sie an jeder Ecke!",
@@ -7019,11 +7015,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 79899,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "NYC Walking Tour from Dumbo to Downtown",
       "es": "Recorrido a pie por Nueva York desde Dumbo hasta el Centro",
@@ -7110,7 +7106,7 @@
   },
   {
     "id": 81889,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "The Greenwich Village Food Tour",
       "es": "Recorrido Gastronómico por Greenwich Village",
@@ -7285,7 +7281,7 @@
   },
   {
     "id": 81890,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "The Broadway Ghost Tour",
       "es": "El Recorrido de los Fantasmas de Broadway",
@@ -7404,7 +7400,7 @@
   },
   {
     "id": 81891,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Lower East Side Food Tour",
       "es": "Recorrido Gastronómico por el Lower East Side",
@@ -7607,7 +7603,7 @@
   },
   {
     "id": 81939,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Grand Central Terminal: Secrets and Stories Tour",
       "es": "Grand Central Terminal: Secretos e Historias",
@@ -7754,7 +7750,7 @@
   },
   {
     "id": 82676,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Brownstones to Bethel: A Brooklyn Heights Journey",
       "es": "De Brownstones a Bethel: un viaje a Brooklyn Heights",
@@ -7922,7 +7918,7 @@
   },
   {
     "id": 82941,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Tampa's Best Kept Secret: Free Golf Cart Tour",
       "es": "El secreto mejor guardado de Tampa: visita gratuita en carrito de golf",
@@ -8050,7 +8046,7 @@
   },
   {
     "id": 83510,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover San Diego on a Free Tour",
       "es": "Descubre San Diego en un Free Tour",
@@ -8212,7 +8208,7 @@
   },
   {
     "id": 83729,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Garden District History Tour of New Orleans",
       "es": "Recorrido Histórico gratuito por el Garden District de Nueva Orleans",
@@ -8333,7 +8329,7 @@
   },
   {
     "id": 83792,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Chinatown, Little Italy, and SoHo",
       "es": "Visita gratuita a Chinatown, Little Italy y SoHo",
@@ -8436,7 +8432,7 @@
   },
   {
     "id": 83796,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "New York between History and Creativity",
       "es": "Nueva York entre Historia y Creatividad",
@@ -8549,7 +8545,7 @@
   },
   {
     "id": 84456,
-    "updatedAt": "2025-12-01 17:08:07",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free History Tour of Little Havana Neighborhood in Miami",
       "es": "Recorrido histórico gratuito por el barrio de la Pequeña Habana en Miami",
@@ -8675,7 +8671,7 @@
   },
   {
     "id": 84583,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Midtown Express! Free Tour in New York",
       "es": "El Midtown Express Visita gratuita en Nueva York",
@@ -8813,7 +8809,7 @@
   },
   {
     "id": 84680,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Downtown Los Angeles",
       "es": "Visita gratuita al centro de Los Ángeles",
@@ -8962,12 +8958,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 5,
+    "reviewsNumber": 5
   },
   {
     "id": 86211,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Photos and Landscapes : From Brooklyn Bridge to Dumbo",
       "es": "Fotos y Paisajes : Del Puente de Brooklyn a Dumbo",
@@ -9072,12 +9068,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 5,
+    "reviewsNumber": 3
   },
   {
     "id": 86627,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Lower Manhattan, New York",
       "es": "App Audioguía: Bajo Manhattan, Nueva York",
@@ -9350,6 +9346,99 @@
       {
         "id": 298620,
         "URL": "https://www.freetour.com/images/tours/86627/audio-guide-app-lower-manhattan-new-york-17.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 87053,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Free Historic Architecture Tour of Downtown Austin",
+      "es": "Recorrido arquitectónico histórico gratuito por el centro de Austin",
+      "pt": "Visita gratuita à arquitetura histórica da baixa de Austin",
+      "de": "Kostenlose Tour durch die historische Architektur von Downtown Austin",
+      "fr": "Visite gratuite de l'architecture historique du centre-ville d'Austin",
+      "it": "Tour gratuito dell'architettura storica del centro di Austin"
+    },
+    "brief": {
+      "de": "Erkunden Sie die architektonische Entwicklung von Austin auf diesem 1,5 Meilen langen, zweistündigen Spaziergang. Entdecken Sie Kalksteinbauten aus den 1850er Jahren, viktorianische Häuser und moderne Türme. Eine Tour mit gleichmäßigem Tempo; nicht für Rollstühle oder Kinderwagen geeignet.",
+      "en": "Explore Austin’s architectural evolution on this 1.5-mile, two-hour walk. Discover 1850s limestone structures, Victorian homes, and modern towers. A steady-pace tour; not suitable for wheelchairs or strollers.",
+      "es": "Explore la evolución arquitectónica de Austin en este paseo de 2 horas y 1,5 millas. Descubra estructuras de piedra caliza de la década de 1850, casas victorianas y torres modernas. Recorrido a ritmo constante; no apto para sillas de ruedas ni cochecitos.",
+      "fr": "Explorez l'évolution architecturale d'Austin au cours de cette promenade de 2 heures sur 1,5 miles. Découvrez les structures en pierre calcaire des années 1850, les maisons victoriennes et les tours modernes. Cette visite se fait à un rythme soutenu ; elle n'est pas adaptée aux fauteuils roulants ni aux poussettes.",
+      "it": "Esplorate l'evoluzione architettonica di Austin con questa passeggiata di due ore e mezzo. Scoprite le strutture in pietra calcarea del 1850, le case vittoriane e le torri moderne. È un tour a passo sostenuto, non adatto a sedie a rotelle o passeggini.",
+      "pt": "Explore a evolução arquitetónica de Austin neste passeio de duas horas e 1,5 milhas. Descubra as estruturas de pedra calcária de 1850, as casas vitorianas e as torres modernas. Um passeio de ritmo constante; não adequado para cadeiras de rodas ou carrinhos de bebé."
+    },
+    "description": {
+      "de": "Die Geschichte von Austin zeigt sich deutlich in seiner Architektur. Wir beginnen am Austin Visitor's Center und arbeiten uns durch einige der ältesten Teile der Innenstadt, während ich Ihnen erkläre, wie Austin wuchs, warum bestimmte Stile zum richtigen Zeitpunkt auftauchten und was uns diese Gebäude über die Menschen erzählen, die die Stadt geprägt haben.\r\n\r\nRund um den Capitol Square werden Sie alles sehen, von Regierungsgebäuden aus Kalkstein aus den 1850er Jahren bis hin zu den ehrgeizigen Entwürfen der frühen 1900er Jahre. Ein paar Blocks weiter, in ruhigen Wohnstraßen, verbergen sich viktorianische Häuser und frühe Nachbarschaften, die die meisten Besucher nie erkunden. Wir besuchen auch das Geschäftsviertel, wo alte Schaufenster und moderne Türme Seite an Seite stehen und die sich wandelnde Identität der Stadt an der Architektur ablesbar ist.\r\n\r\nDie Route ist etwa 1,5 Meilen lang und dauert etwa 2 Stunden. Es handelt sich um ein gleichmäßiges, aktives Tempo und ist nicht rollstuhl- oder kinderwagentauglich, was Sie bitte vor der Buchung bedenken sollten.",
+      "en": "The story of Austin's history shows up clearly in its architecture. We start at the Austin Visitor’s Center and work our way through some of the oldest parts of downtown while I explain how Austin grew, why certain styles appeared when they did, and what these buildings tell us about the people who shaped the city.\r\n\r\nAround Capitol Square, you’ll see everything from 1850s limestone government buildings to the more ambitious designs of the early 1900s. A few blocks away on quiet residential streets, Victorian homes and early neighborhoods hide where most visitors never explore. We also visit the commercial district, where old storefronts and modern towers sit side-by-side, and you can read the city’s changing identity in the architecture.\r\n\r\nThe route is about 1.5 miles and takes roughly 2 hours. It’s a steady, active pace and not wheelchair or stroller accessible, so please keep that in mind before booking.",
+      "es": "La historia de Austin se refleja claramente en su arquitectura. Empezaremos en el Austin Visitor's Center y recorreremos algunas de las zonas más antiguas del centro mientras explico cómo creció Austin, por qué aparecieron ciertos estilos en el momento en que lo hicieron y qué nos dicen estos edificios sobre las personas que dieron forma a la ciudad.\r\n\r\nAlrededor de Capitol Square, verá de todo, desde edificios gubernamentales de piedra caliza de la década de 1850 hasta los diseños más ambiciosos de principios del siglo XX. A unas manzanas de distancia, en tranquilas calles residenciales, se esconden casas victorianas y barrios primitivos que la mayoría de los visitantes nunca exploran. También visitamos el distrito comercial, donde se codean antiguos escaparates y modernas torres, y en cuya arquitectura puede leerse la identidad cambiante de la ciudad.\r\n\r\nEl recorrido es de unos 2,5 km y dura aproximadamente 2 horas. Se trata de un ritmo constante y activo, y no está adaptado para sillas de ruedas o carritos de bebé, por lo que le rogamos que lo tenga en cuenta antes de reservar.",
+      "fr": "L'histoire d'Austin se reflète clairement dans son architecture. Nous commençons par le Austin Visitor's Center et nous nous dirigeons vers les parties les plus anciennes du centre-ville pendant que j'explique comment Austin s'est développée, pourquoi certains styles sont apparus à ce moment-là et ce que ces bâtiments nous apprennent sur les personnes qui ont façonné la ville.\r\n\r\nAutour de Capitol Square, vous verrez tout, des bâtiments gouvernementaux en pierre calcaire des années 1850 aux conceptions plus ambitieuses du début des années 1900. À quelques rues de là, dans des rues résidentielles tranquilles, des maisons victoriennes et des quartiers anciens se cachent dans des endroits que la plupart des visiteurs n'explorent jamais. Nous visitons également le quartier commercial, où se côtoient d'anciennes devantures de magasins et des tours modernes, et où l'on peut lire dans l'architecture l'évolution de l'identité de la ville.\r\n\r\nL'itinéraire est d'environ 1,5 miles et dure approximativement 2 heures. Il s'agit d'un rythme soutenu et actif qui n'est pas accessible aux fauteuils roulants ou aux poussettes.",
+      "it": "La storia di Austin emerge chiaramente dalla sua architettura. Partiamo dall'Austin Visitor's Center e attraversiamo alcune delle zone più antiche del centro, mentre vi spiego come Austin è cresciuta, perché sono apparsi certi stili e cosa ci dicono questi edifici sulle persone che hanno plasmato la città.\r\n\r\nIntorno a Capitol Square, vedrete di tutto, dagli edifici governativi in pietra calcarea del 1850 ai progetti più ambiziosi dei primi anni del 1900. A pochi isolati di distanza, nelle tranquille strade residenziali, le case vittoriane e i primi quartieri si nascondono dove la maggior parte dei visitatori non esplora mai. Visitiamo anche il quartiere commerciale, dove le vecchie vetrine e le torri moderne si trovano una accanto all'altra, e si può leggere nell'architettura il cambiamento dell'identità della città.\r\n\r\nIl percorso è di circa 1,5 miglia e dura circa 2 ore. Si tratta di un'attività a ritmo sostenuto e non è accessibile alle sedie a rotelle o ai passeggini, quindi tenetene conto prima di prenotare.",
+      "pt": "A história da história de Austin aparece claramente na sua arquitetura. Começamos no Austin Visitor's Center e percorremos algumas das partes mais antigas do centro da cidade enquanto eu explico como Austin cresceu, por que certos estilos apareceram quando apareceram e o que esses edifícios nos dizem sobre as pessoas que moldaram a cidade.\r\n\r\nEm torno da Capitol Square, verá tudo, desde edifícios governamentais de pedra calcária de 1850 até aos projectos mais ambiciosos do início do século XX. A alguns quarteirões de distância, em ruas residenciais tranquilas, casas vitorianas e bairros antigos escondem-se onde a maioria dos visitantes nunca explora. Também visitamos a zona comercial, onde as montras antigas e as torres modernas se encontram lado a lado, e é possível ler a mudança de identidade da cidade na arquitetura.\r\n\r\nO percurso tem cerca de 1,5 quilómetros e demora aproximadamente 2 horas. É um ritmo constante e ativo e não é acessível a cadeiras de rodas ou carrinhos de bebé, pelo que deve ter isso em conta antes de efetuar a reserva."
+    },
+    "providerTitle": "Emily Chappelear",
+    "providerPhone": "+15125072067",
+    "URL": "https://www.freetour.com/austin/free-historic-architecture-tour-of-downtown-austin?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/austin/free-historic-architecture-tour-of-downtown-austin?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/austin/free-historic-architecture-tour-of-downtown-austin?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/austin/free-historic-architecture-tour-of-downtown-austin?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/austin/free-historic-architecture-tour-of-downtown-austin?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/austin/free-historic-architecture-tour-of-downtown-austin?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/austin/free-historic-architecture-tour-of-downtown-austin?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Austin Visitor's Center",
+      "coordinates": "30.2666777,-97.74239039999999",
+      "googlePlaceId": "ChIJ4yWPfKe1RIYRui8YMpjSzaA"
+    },
+    "cityId": 4567,
+    "countryId": 164,
+    "includes": [
+      "Texas Capitol",
+      "Local Guide"
+    ],
+    "POIs": [
+      {
+        "id": 12210,
+        "title": "Texas Capitol",
+        "googlePlaceId": "ChIJz42sFKC1RIYROdCVpyJXb8s"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/87053/free-historic-architecture-tour-of-downtown-austin-06.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 300289,
+        "URL": "https://www.freetour.com/images/tours/87053/free-historic-architecture-tour-of-downtown-austin-06.jpg"
+      },
+      {
+        "id": 300285,
+        "URL": "https://www.freetour.com/images/tours/87053/free-historic-architecture-tour-of-downtown-austin-02.jpg"
+      },
+      {
+        "id": 300288,
+        "URL": "https://www.freetour.com/images/tours/87053/free-historic-architecture-tour-of-downtown-austin-05.jpg"
+      },
+      {
+        "id": 300287,
+        "URL": "https://www.freetour.com/images/tours/87053/free-historic-architecture-tour-of-downtown-austin-04.jpg"
+      },
+      {
+        "id": 300290,
+        "URL": "https://www.freetour.com/images/tours/87053/free-historic-architecture-tour-of-downtown-austin-07.jpg"
+      },
+      {
+        "id": 300286,
+        "URL": "https://www.freetour.com/images/tours/87053/free-historic-architecture-tour-of-downtown-austin-03.jpg"
       }
     ],
     "videoURL": null,

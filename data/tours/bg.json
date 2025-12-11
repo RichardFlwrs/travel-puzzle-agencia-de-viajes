@@ -1,7 +1,7 @@
 [
   {
     "id": 189,
-    "updatedAt": "2025-12-01 19:57:50",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Sofia Sightseeing Free Tour",
       "es": "Visita gratuita a Sofía",
@@ -327,11 +327,11 @@
     ],
     "videoURL": null,
     "rating": 4.84,
-    "reviewsNumber": 1721
+    "reviewsNumber": 1726
   },
   {
     "id": 674,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Plovdiv Tour",
       "es": "Free Tour por Plovdiv",
@@ -482,11 +482,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=98g31VJ5CX4",
     "rating": 4.78,
-    "reviewsNumber": 401
+    "reviewsNumber": 402
   },
   {
     "id": 885,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sofia Breakfast Tour",
       "es": "Tour con desayuno en Sofía",
@@ -606,7 +606,7 @@
   },
   {
     "id": 886,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Afternoon Delights with Sofia",
       "es": "Tarde de delicias con Sofía",
@@ -735,7 +735,7 @@
   },
   {
     "id": 888,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rila Monastery and Boyana Church Tour",
       "es": "Visita al monasterio de Rila y la iglesia de Boyana",
@@ -825,7 +825,7 @@
   },
   {
     "id": 891,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "One Day Tour of Vitosha Mountain of Sofia",
       "es": "Excursión de un día a la montaña Vitosha de Sofía",
@@ -919,7 +919,7 @@
   },
   {
     "id": 895,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Plovdiv and Bachkovo Monastery Tour in Sofia",
       "es": "Visita a Plovdiv y al monasterio de Bachkovo en Sofía",
@@ -1016,7 +1016,7 @@
   },
   {
     "id": 1842,
-    "updatedAt": "2025-12-01 01:01:28",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rila Monastery and Boyana Church Group Day Trip from Sofia",
       "es": "Excursión en grupo de un día al Monasterio de Rila y la Iglesia de Boyana desde Sofía",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": 1863,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bulgaria and Macedonia Day Tour from Sofia",
       "es": "Excursión de un día a Bulgaria y Macedonia desde Sofía",
@@ -1220,7 +1220,7 @@
   },
   {
     "id": 1864,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bulgaria and Serbia Day Tour from Sofia",
       "es": "Excursión de un día a Bulgaria y Serbia desde Sofía",
@@ -1306,7 +1306,7 @@
   },
   {
     "id": 1866,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lovech and Krushunski Waterfalls Tour from Sofia",
       "es": "Excursión a las cascadas de Lovech y Krushunski desde Sofía",
@@ -1392,7 +1392,7 @@
   },
   {
     "id": 1869,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Veliko Tarnovo and Arbanasi Trip from Sofia",
       "es": "Viaje a Veliko Tarnovo y Arbanasi desde Sofía",
@@ -1491,7 +1491,7 @@
   },
   {
     "id": 2924,
-    "updatedAt": "2025-12-01 01:01:51",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Plovdiv Group Day Trip",
       "es": "Excursión en grupo de un día a Plovdiv",
@@ -1644,7 +1644,7 @@
   },
   {
     "id": 4636,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full-Day Rila Monastery and Boyana Church Guided Tour from Sofia",
       "es": "Visita guiada de un día al Monasterio de Rila y la Iglesia de Boyana desde Sofía",
@@ -1747,7 +1747,7 @@
   },
   {
     "id": 6239,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Three Caves Day Tour",
       "es": "Excursión de un día a las Tres Cuevas",
@@ -1857,7 +1857,7 @@
   },
   {
     "id": 6240,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Communist Day Tour in Sofia",
       "es": "Día comunista en Sofía",
@@ -1968,7 +1968,7 @@
   },
   {
     "id": 6241,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Small Group Tour to Rila Monastery and Boyana Church",
       "es": "Excursión en grupo reducido al monasterio de Rila y la iglesia de Boyana",
@@ -2070,7 +2070,7 @@
   },
   {
     "id": 6242,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day tour to Plovdiv, Asen's Fortress and Bachkovo Monastery",
       "es": "Excursión de un día a Plovdiv, la Fortaleza de Asen y el Monasterio de Bachkovo",
@@ -2180,7 +2180,7 @@
   },
   {
     "id": 6243,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Veliko Tarnovo and Hotnitsa Waterfall",
       "es": "Excursión a Veliko Tarnovo y la cascada de Hotnitsa",
@@ -2283,7 +2283,7 @@
   },
   {
     "id": 6419,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip: Sofia - Nis, Serbia",
       "es": "Excursión de un día: Sofía - Nis, Serbia",
@@ -2377,7 +2377,7 @@
   },
   {
     "id": 9665,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bulgarian Food and Culture Tour in Plovdiv",
       "es": "Comida y cultura búlgaras en Plovdiv",
@@ -2473,7 +2473,7 @@
   },
   {
     "id": 20011,
-    "updatedAt": "2025-12-01 01:04:41",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sofia Communist Walking Tour",
       "es": "Tour Comunista de Sofía",
@@ -2561,7 +2561,7 @@
   },
   {
     "id": 22103,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Plovdiv Graffiti Tour",
       "es": "Tour de Graffiti de Plovdiv",
@@ -2649,7 +2649,7 @@
   },
   {
     "id": 44769,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Belogradchik Free Rocky Tour",
       "es": "Tour Gratuito por las Rocas de Belogradchik",
@@ -2757,7 +2757,7 @@
   },
   {
     "id": 48729,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Borovets Ski Bliss: Exclusive Private Sessions",
       "es": "Borovets Ski Bliss: Sesiones privadas exclusivas",
@@ -2856,7 +2856,7 @@
   },
   {
     "id": 54463,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Samokov and Borovets Walking Tour",
       "es": "Recorrido a pie por Samokov y Borovets",
@@ -2957,7 +2957,7 @@
   },
   {
     "id": 54621,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Plovdiv & Asen's Fortress",
       "es": "Excursión de un día a Plovdiv y la fortaleza de Asen",
@@ -3047,7 +3047,7 @@
   },
   {
     "id": 55258,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking to Seven Rila lakes",
       "es": "Senderismo a los siete lagos de Rila",
@@ -3126,7 +3126,7 @@
   },
   {
     "id": 64794,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Sofia's Historic Centre Free Tour",
       "es": "Free Tour al Centro Histórico de Sofía",
@@ -3258,11 +3258,11 @@
     ],
     "videoURL": null,
     "rating": 4.85,
-    "reviewsNumber": 31
+    "reviewsNumber": 32
   },
   {
     "id": 76922,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Sofia City Tour: Culture, History, & Food",
       "es": "Visita a Sofía: Cultura, Historia y Gastronomía",
@@ -3378,7 +3378,7 @@
   },
   {
     "id": 77834,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Sofia: History, Culture & Charm",
       "es": "Descubra Sofía: Historia, Cultura y Encanto",
@@ -3543,7 +3543,7 @@
   },
   {
     "id": 77836,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rila Monastery Private Day Trip",
       "es": "Excursión Privada de un día al Monasterio de Rila",
@@ -3688,7 +3688,7 @@
   },
   {
     "id": 78291,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of Sofia",
       "es": "Tour Privado por Sofía",

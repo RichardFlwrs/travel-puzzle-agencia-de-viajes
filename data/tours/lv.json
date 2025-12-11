@@ -1,7 +1,7 @@
 [
   {
     "id": 40,
-    "updatedAt": "2025-12-01 20:14:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Old Town in Riga Free Tour",
       "es": "Visita gratuita al casco antiguo de Riga",
@@ -179,11 +179,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=jh0JxSa6FAU",
     "rating": 4.89,
-    "reviewsNumber": 784
+    "reviewsNumber": 795
   },
   {
     "id": 1490,
-    "updatedAt": "2025-12-01 01:01:16",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Daily Walking Tours of Riga",
       "es": "Visitas diarias a pie por Riga",
@@ -281,7 +281,7 @@
   },
   {
     "id": 1630,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old & New Riga Walking Tour",
       "es": "Visita a pie de la antigua y la nueva Riga",
@@ -367,7 +367,7 @@
   },
   {
     "id": 1631,
-    "updatedAt": "2025-12-01 01:01:19",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Art Nouveau Tour in Riga",
       "es": "Art Nouveau Tour en Riga",
@@ -473,7 +473,7 @@
   },
   {
     "id": 1637,
-    "updatedAt": "2025-12-01 01:01:19",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Culinary Tour Riga Central Market",
       "es": "Visita culinaria al mercado central de Riga",
@@ -583,7 +583,7 @@
   },
   {
     "id": 1854,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Old Riga Free Walking Tour",
       "es": "Visita gratuita a pie del casco antiguo de Riga",
@@ -723,7 +723,7 @@
   },
   {
     "id": 1922,
-    "updatedAt": "2025-12-01 01:01:30",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rundale Palace Day Trip from Riga",
       "es": "Excursión de un día al Palacio de Rundale desde Riga",
@@ -804,7 +804,7 @@
   },
   {
     "id": 1923,
-    "updatedAt": "2025-12-01 01:01:30",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jurmala Sightseeing Day Trip from Riga",
       "es": "Excursión a Jurmala desde Riga",
@@ -897,7 +897,7 @@
   },
   {
     "id": 4860,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Riga Market & Moscow District Free Tour",
       "es": "Mercado de Riga y Barrio de Moscú Visita gratuita",
@@ -1035,7 +1035,7 @@
   },
   {
     "id": 5016,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Riga Old Town Tour",
       "es": "Visita al casco antiguo de Riga",
@@ -1122,7 +1122,7 @@
   },
   {
     "id": 5767,
-    "updatedAt": "2025-12-01 15:56:12",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Old Riga Main Sights Free Tour",
       "es": "Visita gratuita al casco antiguo de Riga",
@@ -1276,11 +1276,11 @@
     ],
     "videoURL": "https://youtu.be/X_xCbZswWd0",
     "rating": 4.85,
-    "reviewsNumber": 532
+    "reviewsNumber": 537
   },
   {
     "id": 7908,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Art Nouveau & Central Riga Free Tour",
       "es": "Art Nouveau y Centro de Riga Free Tour",
@@ -1456,7 +1456,7 @@
   },
   {
     "id": 10120,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 12:15:34",
     "title": {
       "en": "Riga Old Town Must-see Free Tour by locals",
       "es": "Visita guiada por el casco antiguo de Riga",
@@ -1579,12 +1579,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.67,
-    "reviewsNumber": 351
+    "rating": 4.68,
+    "reviewsNumber": 353
   },
   {
     "id": 19292,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Hidden Gems of Riga & Art Nouveau Free Tour",
       "es": "Gemas ocultas de Riga y Art Nouveau Free Tour",
@@ -1651,12 +1651,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=3tBHXfF58sY",
-    "rating": 4.89,
-    "reviewsNumber": 192
+    "rating": 4.9,
+    "reviewsNumber": 193
   },
   {
     "id": 30095,
-    "updatedAt": "2025-12-01 08:09:52",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Evening Old Riga Free Tour",
       "es": "Visita nocturna gratuita del casco antiguo de Riga",
@@ -1787,11 +1787,11 @@
     ],
     "videoURL": null,
     "rating": 4.86,
-    "reviewsNumber": 108
+    "reviewsNumber": 110
   },
   {
     "id": 34563,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jewish History Tour in Riga",
       "es": "Historia de los judíos en Riga",
@@ -1892,7 +1892,7 @@
   },
   {
     "id": 36193,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Soviet Riga Tour",
       "es": "Visita a la Riga soviética",
@@ -1981,12 +1981,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.93,
-    "reviewsNumber": 9
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 10
   },
   {
     "id": 38318,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old Riga Tour in Italian: History & Legends",
       "es": "El casco antiguo de Riga en italiano: historia y leyendas",
@@ -2097,7 +2097,7 @@
   },
   {
     "id": 42175,
-    "updatedAt": "2025-12-01 01:07:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Riga: Stories of Soviet Riga Guided Walking Tour",
       "es": "Riga: Historias de la Riga Soviética Visita Guiada a Pie",
@@ -2184,7 +2184,7 @@
   },
   {
     "id": 45834,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Afternoon Free Tour Around Old Riga",
       "es": "Tarde libre para visitar el casco antiguo de Riga",
@@ -2297,7 +2297,7 @@
   },
   {
     "id": 47413,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Soviet Riga Free Tour",
       "es": "Visita gratuita a la Riga soviética",
@@ -2397,7 +2397,7 @@
   },
   {
     "id": 51991,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Jurmala Seaside & Vibes",
       "es": "Tour por Jurmala Junto al mar y Vibraciones",
@@ -2495,7 +2495,7 @@
   },
   {
     "id": 55651,
-    "updatedAt": "2025-12-01 13:28:54",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Walking Tour in Riga Old Town",
       "es": "Paseo por el casco antiguo de Riga",
@@ -2571,12 +2571,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.87,
-    "reviewsNumber": 22
+    "rating": 4.88,
+    "reviewsNumber": 24
   },
   {
     "id": 61548,
-    "updatedAt": "2025-12-01 19:09:28",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Discover Riga's Stories & Legends",
       "es": "Descubra las historias y leyendas de Riga",
@@ -2688,7 +2688,7 @@
   },
   {
     "id": 63955,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "A Private Insightful Riga Free Tour",
       "es": "Excursión privada y gratuita por Riga",
@@ -2768,7 +2768,7 @@
   },
   {
     "id": 68730,
-    "updatedAt": "2025-12-01 06:59:01",
+    "updatedAt": "2025-12-11 07:54:02",
     "title": {
       "en": "Architectural Diversity of Riga Old Town",
       "es": "Diversidad Arquitectónica del Casco Antiguo de Riga",
@@ -2936,14 +2936,14 @@
   },
   {
     "id": 73229,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
-      "en": "Natural Wonders Near Riga Free Tour",
-      "es": "Maravillas naturales cerca de Riga Free Tour",
-      "pt": "Excursão gratuita às maravilhas naturais perto de Riga",
-      "de": "Naturwunder bei Riga Kostenlose Tour",
-      "fr": "Merveilles naturelles près de Riga : visite gratuite",
-      "it": "Meraviglie naturali vicino a Riga Tour gratuito"
+      "en": "Riga Winter Magic Free Tour: Beautiful Lights & Warming Pitstops",
+      "es": "Riga Winter Magic Free Tour: Hermosas luces y cálidas paradas",
+      "pt": "Visita guiada gratuita à magia de inverno de Riga: Lindas luzes e paragens de aquecimento",
+      "de": "Riga Winter Magic Free Tour: Wunderschöne Lichter &amp; wärmende Boxenstopps",
+      "fr": "Visite gratuite de la magie hivernale de Riga : De belles lumières et des arrêts chaleureux",
+      "it": "Tour gratuito della magia invernale di Riga: Luci splendide e soste riscaldanti"
     },
     "brief": {
       "de": "Entfliehen Sie der Stadt und entdecken Sie Lettlands atemberaubende Natur! Begleiten Sie mich auf ein Abenteuer jenseits von Riga, wo ruhige Wälder, malerische Seen und versteckte Kleinode auf Sie warten. Ein wunderbarer Ausflug für Naturliebhaber, die Ruhe und atemberaubende Landschaften suchen.",
@@ -2954,12 +2954,12 @@
       "pt": "Fuja da cidade e descubra a natureza deslumbrante da Letónia! Junte-se a mim numa aventura para além de Riga, onde o esperam florestas serenas, lagos panorâmicos e jóias escondidas. Uma escapadela maravilhosa para os amantes da natureza que procuram tranquilidade e paisagens de cortar a respiração."
     },
     "description": {
-      "de": "Wenn Sie etwas mehr Zeit als nötig haben, um Riga zu erkunden, würde ich mich freuen, Ihnen die schöne lettische Landschaft in der Nähe zu zeigen.\r\n\r\nHaupttour: Moorpromenade\r\nBegleiten Sie mich zu einer typischen Moorpromenade, einem 3,4 km langen Spaziergang mit einem Aussichtsturm. Auf diesem Spaziergang können Sie sowohl Wald- als auch frische Wiesenluft schnuppern, schöne Aussichten genießen und verschiedene Vogelstimmen hören.\r\n\r\nAlternative Möglichkeiten: \r\n1) Ein Spaziergang um eine malerische Seenkette in den Dünen eines Meeresufers,\r\n2) Ein Spaziergang entlang eines kleinen, malerischen Flusses (diese Option ist in einigen Abschnitten etwas steil, perfekt, wenn Sie etwas abenteuerlustiger sind).\r\n\r\nBonus-Erlebnis: Eine lettische Süßigkeit, die Sie unbedingt probieren müssen, wird arrangiert, um Ihrer Tour einen köstlichen lokalen Geschmack zu verleihen. Je nach Zeitplan können wir auch an einem weniger touristischen Ort essen gehen.",
-      "en": "If you have a bit more time than needed to explore Riga, I would be delighted to show you the beautiful Latvian countryside nearby.\r\n\r\nMain Tour: Bog Boardwalk\r\nJoin me for a ride to a typical bog boardwalk, a 3.4km long walk complete with a viewing tower. On this walk, you would get charged in both forest and fresh meadow air, experiencing nice views and diverse bird songs.\r\n\r\nAlternative options: \r\n1) A walk around a picturesque chain of lakes within dunes of a seaside,\r\n2) A walk along a small, picturesque river (this option is a bit steep in some sections, perfect if you are a bit more adventurous!).\r\n\r\nBonus Experience: A must-try Latvian sweet treat will be arranged, adding a delightful local flavor to your tour. Also, depending on our time arrangement, we can have a meal in some less touristic place.",
-      "es": "Si dispone de más tiempo del necesario para explorar Riga, estaré encantada de mostrarle la hermosa campiña letona de los alrededores.\r\n\r\nRecorrido principal: Paseo por el pantano\r\nAcompáñeme a dar un paseo por el típico paseo de la ciénaga, de 3,4 km de longitud, con una torre de observación. En este paseo, se impregnará tanto del aire del bosque como del aire fresco de la pradera, disfrutará de bonitas vistas y del canto de diversos pájaros.\r\n\r\nOpciones alternativas: \r\n1) Un paseo alrededor de una pintoresca cadena de lagos entre las dunas de una playa,\r\n2) Un paseo a lo largo de un pequeño y pintoresco río (esta opción es un poco empinada en algunos tramos, ¡perfecta si eres un poco más aventurero!)\r\n\r\nExperiencia extra: Organizaremos una degustación de dulces letones que añadirá un delicioso sabor local a su visita. Además, dependiendo del tiempo de que dispongamos, podremos comer en algún lugar menos turístico.",
-      "fr": "Si vous disposez d'un peu plus de temps que nécessaire pour explorer Riga, je serais ravie de vous faire découvrir la magnifique campagne lettone à proximité.\r\n\r\nVisite principale : Promenade dans les tourbières\r\nRejoignez-moi pour une promenade typique dans une tourbière, une promenade de 3,4 km de long avec une tour d'observation. Au cours de cette promenade, vous respirerez l'air frais de la forêt et de la prairie, découvrirez de belles vues et entendrez divers chants d'oiseaux.\r\n\r\nAutres options : \r\n1) Une promenade autour d'une chaîne pittoresque de lacs dans les dunes d'un bord de mer,\r\n2) Une promenade le long d'une petite rivière pittoresque (cette option est un peu raide dans certaines sections, parfaite si vous êtes un peu plus aventureux !)\r\n\r\nExpérience bonus : Une sucrerie lettone incontournable sera organisée, ajoutant une délicieuse saveur locale à votre excursion. De plus, en fonction de notre emploi du temps, nous pourrons prendre un repas dans un endroit moins touristique.",
-      "it": "Se avete un po' più di tempo a disposizione per esplorare Riga, sarò lieto di mostrarvi la splendida campagna lettone nelle vicinanze.\r\n\r\nTour principale: Passerella di torbiera\r\nUnitevi a me per un giro su una tipica passerella di palude, una passeggiata di 3,4 km completa di torre panoramica. Durante questa passeggiata, sarete caricati sia dall'aria della foresta che da quella dei prati, sperimentando bei panorami e diversi canti di uccelli.\r\n\r\nOpzioni alternative: \r\n1) Una passeggiata intorno a una pittoresca catena di laghi tra le dune del mare,\r\n2) Una passeggiata lungo un piccolo fiume pittoresco (questa opzione è un po' ripida in alcuni tratti, perfetta se siete un po' più avventurosi).\r\n\r\nEsperienza bonus: Verrà organizzato un dolce lettone da provare, che aggiungerà un delizioso sapore locale al vostro tour. Inoltre, a seconda del tempo a disposizione, potremo mangiare in un luogo meno turistico.",
-      "pt": "Se tiver um pouco mais de tempo do que o necessário para explorar Riga, terei todo o prazer em mostrar-lhe a bela paisagem rural da Letónia nas proximidades.\r\n\r\nPasseio principal: Passeio no pântano\r\nJunte-se a mim para um passeio a um típico passeio de pântano, um passeio de 3,4 km com uma torre de observação. Neste passeio, será carregado tanto pelo ar da floresta como pelo ar fresco dos prados, desfrutando de belas vistas e do canto de diversas aves.\r\n\r\nOpções alternativas: \r\n1) Um passeio à volta de uma pitoresca cadeia de lagos nas dunas à beira-mar,\r\n2) Um passeio ao longo de um pequeno e pitoresco rio (esta opção é um pouco íngreme em algumas secções, perfeita se for um pouco mais aventureiro!)\r\n\r\nExperiência bónus: Um doce letão imperdível será preparado, acrescentando um delicioso sabor local ao seu passeio. Além disso, dependendo da nossa disponibilidade de tempo, podemos tomar uma refeição num local menos turístico."
+      "de": "Entdecken Sie Riga auf die gemütlichste Art und Weise!\r\nBegleiten Sie mich auf einem Winterspaziergang durch die Altstadt von Riga, bei dem wir entlang der sehenswerten Orte versteckte Innenhöfe und warm beleuchtete Straßen erkunden, lettische Hausmannskost probieren, festliche Getränke genießen und Geschichten über baltische Wintertraditionen, alte Sonnenwendrituale und den ersten Weihnachtsbaum der Welt hören.\r\n\r\nDa wir wissen, wie kalt es in diesen Tagen werden kann, werden wir unterwegs die wärmsten Ecken der Stadt finden, um kleine Leckerbissen wie traditionelle Lebkuchen, lettisches Gebäck oder heißen Balsam (optional) zu genießen und zu erfahren, wie die Menschen vor Jahrhunderten die langen dunklen Winter überlebt haben.",
+      "en": "Discover Riga in the coziest way possible!\r\nJoin me for a winter walk through Old Riga, where, along the must-see places, we will explore hidden courtyards, warmly-lit streets, taste Latvian comfort food, try festive drinks, and hear stories about the Baltic winter traditions, ancient solstice rituals, and the first Christmas tree in the world.\r\n\r\nKnowing how cold it can get these days, along the way, we will find the warmest corners of the city to enjoy small bites like traditional gingerbread, Latvian pastries, or hot balsam (optional), and learn how people survived the long dark winters centuries ago.",
+      "es": "¡Descubra Riga de la forma más acogedora posible!\r\nAcompáñeme en un paseo invernal por el casco antiguo de Riga, donde, a lo largo de los lugares de visita obligada, exploraremos patios escondidos, calles cálidamente iluminadas, degustaremos reconfortantes platos letones, probaremos bebidas festivas y escucharemos historias sobre las tradiciones invernales bálticas, los antiguos rituales del solsticio y el primer árbol de Navidad del mundo.\r\n\r\nSabiendo el frío que puede hacer estos días, por el camino encontraremos los rincones más cálidos de la ciudad para disfrutar de pequeños bocados como el tradicional pan de jengibre, pasteles letones o bálsamo caliente (opcional), y aprender cómo sobrevivía la gente a los largos y oscuros inviernos de hace siglos.",
+      "fr": "Découvrez Riga de la manière la plus chaleureuse qui soit !\r\nRejoignez-moi pour une promenade hivernale dans le vieux Riga, où, le long des lieux incontournables, nous explorerons des cours cachées, des rues chaleureusement éclairées, goûterons des plats réconfortants lettons, essaierons des boissons festives et entendrons des histoires sur les traditions hivernales baltes, les anciens rituels du solstice et le premier arbre de Noël au monde.\r\n\r\nSachant à quel point il peut faire froid ces jours-ci, nous trouverons en chemin les coins les plus chauds de la ville pour déguster de petites bouchées comme du pain d'épices traditionnel, des pâtisseries lettones ou du baume chaud (facultatif), et apprendre comment les gens survivaient aux longs hivers sombres il y a des siècles.",
+      "it": "Scoprite Riga nel modo più accogliente possibile!\r\nUnisciti a me per una passeggiata invernale nella Vecchia Riga, dove, lungo i luoghi imperdibili, esploreremo cortili nascosti, strade illuminate da luci calde, assaggeremo cibo lettone di conforto, proveremo bevande festive e ascolteremo storie sulle tradizioni invernali del Baltico, su antichi rituali solstiziali e sul primo albero di Natale del mondo.\r\n\r\nSapendo quanto può fare freddo in questi giorni, lungo il percorso troveremo gli angoli più caldi della città per gustare piccoli bocconcini come il tradizionale pan di zenzero, i dolci lettoni o il balsamo caldo (facoltativo), e impareremo come si sopravviveva ai lunghi e bui inverni di secoli fa.",
+      "pt": "Descubra Riga da forma mais acolhedora possível!\r\nJunte-se a mim para um passeio de inverno pela Velha Riga, onde, ao longo dos locais de visita obrigatória, exploraremos pátios escondidos, ruas com luz quente, provaremos a comida de conforto letã, experimentaremos bebidas festivas e ouviremos histórias sobre as tradições de inverno do Báltico, antigos rituais de solstício e a primeira árvore de Natal do mundo.\r\n\r\nSabendo como pode ficar frio hoje em dia, ao longo do caminho, encontraremos os cantos mais quentes da cidade para saborear pequenos petiscos como o tradicional pão de gengibre, pastelaria letã ou bálsamo quente (opcional), e aprender como as pessoas sobreviveram aos longos e escuros Invernos de séculos atrás."
     },
     "providerTitle": "Janis",
     "providerPhone": "28334624",
@@ -2979,27 +2979,19 @@
     "length": "4:00",
     "meetingPoint": {
       "title": "Vērmanes dārzs",
-      "coordinates": "56.9516031,24.1187193",
-      "googlePlaceId": "ChIJ16tBDc7P7kYRyBFlgD59e7c"
+      "coordinates": "56.9474572,24.1065772",
+      "googlePlaceId": "ChIJW152L9fP7kYRl8NvUMkIywg"
     },
     "cityId": 2803,
     "countryId": 84,
     "includes": null,
     "POIs": null,
-    "titleImageURL": "https://www.freetour.com/images/tours/73229/-03.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/73229/explore-rigas-natural-wonders-01.jpg",
     "categoryId": 6,
     "images": [
       {
-        "id": 254852,
-        "URL": "https://www.freetour.com/images/tours/73229/-03.jpg"
-      },
-      {
-        "id": 254850,
-        "URL": "https://www.freetour.com/images/tours/73229/-01.jpg"
-      },
-      {
-        "id": 254851,
-        "URL": "https://www.freetour.com/images/tours/73229/-02.jpg"
+        "id": 300331,
+        "URL": "https://www.freetour.com/images/tours/73229/explore-rigas-natural-wonders-01.jpg"
       }
     ],
     "videoURL": null,
@@ -3008,7 +3000,7 @@
   },
   {
     "id": 73951,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Riga Center and Art Nouveau Tour",
       "es": "Centro de Riga y visita Art Nouveau",
@@ -3144,7 +3136,7 @@
   },
   {
     "id": 74022,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Riga Ghosts and Legends Free Tour",
       "es": "Visita gratuita a los fantasmas y leyendas de Riga",
@@ -3220,14 +3212,14 @@
   },
   {
     "id": 80156,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Nature and Wildlife Road Trip",
-      "es": "Viaje por Carretera en Busca de Naturaleza y Vida Salvaje",
-      "pt": "Viagem de carro pela natureza e vida selvagem",
-      "de": "Natur und Tierwelt Road Trip",
-      "fr": "Road Trip nature et faune",
-      "it": "Viaggio in auto nella natura e nella fauna selvatica"
+      "en": "Nature and Wildlife Road Trip in Riga",
+      "es": "Viaje por carretera en busca de naturaleza y vida salvaje en Riga",
+      "pt": "Viagem pela natureza e vida selvagem em Riga",
+      "de": "Natur und Tierwelt Road Trip in Riga",
+      "fr": "Road Trip nature et faune à Riga",
+      "it": "Viaggio in auto nella natura e nella fauna selvatica a Riga"
     },
     "brief": {
       "de": "Begleiten Sie uns auf einen Road Trip durch die Natur und die Tierwelt und entdecken Sie verborgene Schätze in einem einzigen Abenteuer! Erkunden Sie malerische Moorpfade, spazieren Sie durch die Dünen am Meer, genießen Sie ein optionales Mittagessen vor Ort und erleben Sie Musik und Kultur in den Mezaparks. Entdecken, erforschen und Kontakte knüpfen!",
@@ -3238,12 +3230,12 @@
       "pt": "Junte-se a nós numa viagem pela natureza e vida selvagem e descubra jóias escondidas numa só aventura! Explore os trilhos panorâmicos dos pântanos, passeie pelas dunas à beira-mar, desfrute de um almoço local opcional e experimente a música e a cultura em Mezaparks. Descubra, explore e ligue-se!"
     },
     "description": {
-      "de": "Die lettische Natur ist meine Leidenschaft, und ich freue mich sehr darauf, ein wenig davon mit Ihnen zu teilen! \r\n\r\nHier ein Plan:\r\n1) Start in Riga (Abholung an Ihrem Wohnort), um zu einem speziellen Holzmoorpfad zu gehen, auf dem man sich in der Natur die Beine vertreten kann (ca. 3 km=1 Std.).\r\n2) Weiter zu einem kurzen Dünenpfad am Meer entlang eines kleinen Flusses (weniger als 1 km, bis zum Meer) und zurück.\r\n3) Mittagessen in einem netten lokalen Restaurant (fakultativ).\r\n4) Auf dem Rückweg halten wir am Mezaparks. Ein riesiger grüner Platz in Riga, hier die große Freilichtbühne mit einer Ausstellung über die Traditionen des lettischen Gesangs- und Tanzfestivals.\r\n\r\nAuch der Rigaer Zoo befindet sich in den Mezaparks, und die Gegend ist sehr schön und gut mit dem Stadtzentrum durch die Straßenbahn und andere öffentliche Verkehrsmittel verbunden, so gibt es eine Option, unsere Tour hier zu beenden, damit Sie unabhängig weiter erkunden können.",
-      "en": "Latvian nature is my passion, and I am very eager to share a bit of it with you as well! \r\n\r\nHereby a plan:\r\n1) Start in Riga (pick-up at your location) to head to a special wooden bog trail for stretching legs nicely in nature (around 3km=1h walk).\r\n2) Continue to a short seaside dunes trail along a small river (less than 1km, reaching the sea, and back.\r\n3) Lunch in a nice local restaurant (optional).\r\n4) On our way back, stop by Mezaparks. A huge green place in Riga, here the Grand Open-Air Stage with an exhibition about Latvian Song and Dance Festival traditions.\r\n\r\nAlso, Riga Zoo is located in Mezaparks, and the area is very nice + well connected to the city center by tram and other public transport, so there is an option to end our tour here for you to keep exploring independently.",
-      "es": "La naturaleza letona es mi pasión, ¡y tengo muchas ganas de compartir un poco de ella contigo también! \r\n\r\nHe aquí un plan:\r\n1) Comienzo en Riga (recogida en el lugar donde se encuentre) para dirigirnos a un sendero especial de madera para estirar las piernas en plena naturaleza (unos 3 km = 1 hora a pie).\r\n2) Continuación hacia un corto sendero de dunas junto al mar a lo largo de un pequeño río (menos de 1 km, hasta llegar al mar) y vuelta.\r\n3) Almuerzo en un bonito restaurante local (opcional).\r\n4) De regreso, parada en Mezaparks. Un enorme lugar verde en Riga, aquí se encuentra el Gran Escenario al Aire Libre con una exposición sobre las tradiciones del Festival de Canto y Danza de Letonia.\r\n\r\nAdemás, el zoológico de Riga se encuentra en Mezaparks, y la zona es muy agradable y está bien comunicada con el centro de la ciudad por tranvía y otros medios de transporte público, por lo que existe la opción de terminar nuestro recorrido aquí para que pueda seguir explorando de forma independiente.",
-      "fr": "La nature lettone est ma passion, et j'ai très envie d'en partager un peu avec vous aussi ! \r\n\r\nVoici un plan :\r\n1) Départ de Riga (prise en charge à votre domicile) pour se diriger vers un sentier spécial de tourbières en bois pour se dégourdir les jambes dans la nature (environ 3km=1h de marche).\r\n2) Continuation vers un petit sentier de dunes en bord de mer le long d'une petite rivière (moins d'1km, jusqu'à la mer) et retour.\r\n3) Déjeuner dans un restaurant local (facultatif).\r\n4) Sur le chemin du retour, arrêt à Mezaparks. Un immense espace vert à Riga, où se trouve la grande scène en plein air avec une exposition sur les traditions du festival de la chanson et de la danse lettone.\r\n\r\nLe zoo de Riga est également situé à Mezaparks, et le quartier est très agréable et bien relié au centre-ville par le tramway et d'autres transports publics. Il est donc possible de terminer notre visite ici pour que vous puissiez continuer à explorer indépendamment.",
-      "it": "La natura lettone è la mia passione e sono molto desiderosa di condividerne un po' anche con voi! \r\n\r\nEcco il programma:\r\n1) Si parte da Riga (prelievo presso la vostra sede) per dirigersi verso uno speciale sentiero di torbiere in legno per sgranchirsi le gambe nella natura (circa 3 km = 1 ora di cammino).\r\n2) Proseguire per un breve sentiero di dune sul mare lungo un piccolo fiume (meno di 1 km, fino al mare) e tornare indietro.\r\n3) Pranzo in un bel ristorante locale (facoltativo).\r\n4) Sulla via del ritorno, sosta al Mezaparks. Un enorme spazio verde a Riga, dove si trova il Grand Open-Air Stage con una mostra sulle tradizioni del Festival della canzone e della danza lettone.\r\n\r\nInoltre, lo zoo di Riga si trova a Mezaparks e l'area è molto bella e ben collegata al centro della città con il tram e altri mezzi pubblici, quindi c'è la possibilità di terminare il nostro tour qui per continuare a esplorare in modo indipendente.",
-      "pt": "A natureza da Letónia é a minha paixão e estou ansiosa por partilhar um pouco dela convosco! \r\n\r\nEis um plano:\r\n1) Comece em Riga (recolha no local onde se encontra) e dirija-se a um trilho especial de pântanos de madeira para esticar as pernas na natureza (cerca de 3km = 1h de caminhada).\r\n2) Continuar para um pequeno trilho de dunas à beira-mar ao longo de um pequeno rio (menos de 1km, chegando ao mar, e voltar.\r\n3) Almoço num restaurante local agradável (opcional).\r\n4) No regresso, paragem no Mezaparks. Um enorme espaço verde em Riga, onde se encontra o Grande Palco ao Ar Livre com uma exposição sobre as tradições do Festival da Canção e da Dança da Letónia.\r\n\r\nAlém disso, o jardim zoológico de Riga está localizado em Mezaparks, e a área é muito agradável + bem ligada ao centro da cidade por elétrico e outros transportes públicos, pelo que existe a opção de terminar a nossa visita aqui para que possa continuar a explorar de forma independente."
+      "de": "Die lettische Natur ist meine Leidenschaft, und ich möchte gerne auch etwas davon mit Ihnen teilen! \r\n\r\nHier ist der Plan:\r\n1) Start in Riga (Abholung an Ihrem Wohnort), um zu einem speziellen Holzmoorpfad zu gehen, auf dem man sich in der Natur die Beine vertreten kann (ca. 3 km=1 Std.).\r\n2) Weiter zu einem kurzen Dünenpfad am Meer entlang eines kleinen Flusses (weniger als 1 km, bis zum Meer) und zurück.\r\n3) Mittagessen in einem netten lokalen Restaurant (fakultativ).\r\n4) Auf dem Rückweg halten wir am Mezaparks. Ein riesiger grüner Platz in Riga, hier die große Freilichtbühne mit einer Ausstellung über die Traditionen des lettischen Gesangs- und Tanzfestivals.\r\n\r\nAuch der Rigaer Zoo befindet sich in den Mezaparks, und die Gegend ist sehr schön und gut mit dem Stadtzentrum durch die Straßenbahn und andere öffentliche Verkehrsmittel verbunden, so gibt es eine Option, unsere Tour hier zu beenden, damit Sie unabhängig weiter erkunden können.",
+      "en": "Latvian nature is my passion, and I am very eager to share a bit of it with you as well! \r\n\r\nHere is the plan:\r\n1) Start in Riga (pick-up at your location) to head to a special wooden bog trail for stretching legs nicely in nature (around 3km=1h walk).\r\n2) Continue to a short seaside dunes trail along a small river (less than 1km, reaching the sea, and back.\r\n3) Lunch in a nice local restaurant (optional).\r\n4) On our way back, stop by Mezaparks. A huge green place in Riga, here the Grand Open-Air Stage with an exhibition about Latvian Song and Dance Festival traditions.\r\n\r\nAlso, Riga Zoo is located in Mezaparks, and the area is very nice + well connected to the city center by tram and other public transport, so there is an option to end our tour here for you to keep exploring independently.",
+      "es": "La naturaleza letona es mi pasión, ¡y tengo muchas ganas de compartir un poco de ella contigo también! \r\n\r\nEste es el plan\r\n1) Comienzo en Riga (recogida en el lugar donde te encuentres) para dirigirnos a un sendero especial de turberas de madera para estirar las piernas agradablemente en la naturaleza (unos 3km=1h a pie).\r\n2) Continuación hacia un corto sendero de dunas junto al mar a lo largo de un pequeño río (menos de 1 km, hasta llegar al mar) y vuelta.\r\n3) Almuerzo en un bonito restaurante local (opcional).\r\n4) De regreso, parada en Mezaparks. Un enorme lugar verde en Riga, aquí se encuentra el Gran Escenario al Aire Libre con una exposición sobre las tradiciones del Festival de Canto y Danza de Letonia.\r\n\r\nAdemás, el zoológico de Riga se encuentra en Mezaparks, y la zona es muy agradable y está bien comunicada con el centro de la ciudad por tranvía y otros medios de transporte público, por lo que existe la opción de terminar nuestro recorrido aquí para que pueda seguir explorando de forma independiente.",
+      "fr": "La nature lettone est ma passion, et j'ai très envie d'en partager un peu avec vous aussi ! \r\n\r\nVoici le programme :\r\n1) Départ de Riga (prise en charge à votre emplacement) pour se diriger vers un sentier spécial de tourbières en bois pour se dégourdir les jambes dans la nature (environ 3km=1h de marche).\r\n2) Continuation vers un petit sentier de dunes en bord de mer le long d'une petite rivière (moins de 1km, jusqu'à la mer) et retour.\r\n3) Déjeuner dans un restaurant local (facultatif).\r\n4) Sur le chemin du retour, arrêt à Mezaparks. Un immense espace vert à Riga, où se trouve la grande scène en plein air avec une exposition sur les traditions du festival de la chanson et de la danse lettone.\r\n\r\nLe zoo de Riga est également situé à Mezaparks, et le quartier est très agréable et bien relié au centre-ville par le tramway et d'autres transports publics. Il est donc possible de terminer notre visite ici pour que vous puissiez continuer à explorer indépendamment.",
+      "it": "La natura lettone è la mia passione e sono molto desiderosa di condividere un po' di essa anche con voi! \r\n\r\nEcco il programma:\r\n1) Si parte da Riga (prelievo presso la vostra sede) per dirigersi verso uno speciale sentiero di torbiere in legno per sgranchirsi le gambe nella natura (circa 3 km=1 ora di cammino).\r\n2) Proseguire per un breve sentiero di dune sul mare lungo un piccolo fiume (meno di 1 km, fino al mare) e tornare indietro.\r\n3) Pranzo in un bel ristorante locale (facoltativo).\r\n4) Sulla via del ritorno, sosta al Mezaparks. Un enorme spazio verde a Riga, dove si trova il Grand Open-Air Stage con una mostra sulle tradizioni del Festival della canzone e della danza lettone.\r\n\r\nInoltre, lo zoo di Riga si trova a Mezaparks e l'area è molto bella e ben collegata al centro della città con il tram e altri mezzi pubblici, quindi c'è la possibilità di terminare il nostro tour qui per continuare a esplorare in modo indipendente.",
+      "pt": "A natureza da Letónia é a minha paixão e estou muito ansiosa por partilhar um pouco dela convosco! \r\n\r\nEis o plano:\r\n1) Comece em Riga (recolha no local onde se encontra) e dirija-se a um trilho especial de pântanos de madeira para esticar as pernas na natureza (cerca de 3km = 1h de caminhada).\r\n2) Continuar para um pequeno trilho de dunas à beira-mar ao longo de um pequeno rio (menos de 1km, chegando ao mar, e voltar.\r\n3) Almoço num restaurante local agradável (opcional).\r\n4) No regresso, paragem no Mezaparks. Um enorme espaço verde em Riga, onde se encontra o Grande Palco ao Ar Livre com uma exposição sobre as tradições do Festival da Canção e da Dança da Letónia.\r\n\r\nAlém disso, o jardim zoológico de Riga está localizado em Mezaparks, e a área é muito agradável + bem ligada ao centro da cidade por elétrico e outros transportes públicos, pelo que existe a opção de terminar a nossa visita aqui para que possa continuar a explorar de forma independente."
     },
     "providerTitle": "Janis",
     "providerPhone": "28334624",
@@ -3314,7 +3306,7 @@
   },
   {
     "id": 80161,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Riga Beyond the City Center",
       "es": "Descubra Riga más allá del Centro de la Ciudad",

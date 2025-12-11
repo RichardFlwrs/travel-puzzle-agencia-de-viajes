@@ -1,7 +1,7 @@
 [
   {
     "id": 386,
-    "updatedAt": "2025-12-01 01:00:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Central Amsterdam Pub Crawl and Nightlife Experience",
       "es": "Pub Crawl y experiencia nocturna en el centro de Ámsterdam",
@@ -119,7 +119,7 @@
   },
   {
     "id": 521,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Art and Alternative Walking Tour in Amsterdam",
       "es": "Arte callejero y paseo alternativo por Ámsterdam ",
@@ -264,7 +264,7 @@
   },
   {
     "id": 522,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Alternative Amsterdam Bike Tour",
       "es": "Tour Alternativo por Amsterdam en Bicicleta",
@@ -340,7 +340,7 @@
   },
   {
     "id": 559,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Leeuwarden Free Tour",
       "es": "Free Tour de Leeuwarden",
@@ -497,7 +497,7 @@
   },
   {
     "id": 561,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Art Murals Walking Tour",
       "es": "Tour de Murales Artísticos a Pie",
@@ -587,7 +587,7 @@
   },
   {
     "id": 2345,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "The Heart of Amsterdam Free Tour",
       "es": "Free Tour por el Corazón de Ámsterdam",
@@ -683,11 +683,11 @@
     ],
     "videoURL": null,
     "rating": 4.7,
-    "reviewsNumber": 4790
+    "reviewsNumber": 4802
   },
   {
     "id": 2350,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Red Light District Tour in Spanish",
       "es": "Tour del Barrio Rojo en Español",
@@ -786,12 +786,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.75,
-    "reviewsNumber": 95
+    "rating": 4.74,
+    "reviewsNumber": 98
   },
   {
     "id": 2538,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of The Hague",
       "es": "Free Tour de La Haya",
@@ -953,7 +953,7 @@
   },
   {
     "id": 3458,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour: Amsterdam Historical Center",
       "es": "Visita gratuita: Centro Histórico de Ámsterdam",
@@ -1051,11 +1051,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=_l4H34WEA14",
     "rating": 4.71,
-    "reviewsNumber": 61
+    "reviewsNumber": 63
   },
   {
     "id": 3463,
-    "updatedAt": "2025-12-01 01:02:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Group Tour: Windmills, Edam, Volendam & Marken",
       "es": "Excursión en grupo: Molinos de viento, Edam, Volendam y Marken",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 3471,
-    "updatedAt": "2025-12-01 01:02:04",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip in Group to Bruges from Amsterdam",
       "es": "Excursión en Grupo a Brujas desde Ámsterdam en Español",
@@ -1247,7 +1247,7 @@
   },
   {
     "id": 3521,
-    "updatedAt": "2025-12-01 01:02:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Red Walking Tour in Amsterdam",
       "es": "Paseo Rojo por Ámsterdam",
@@ -1374,7 +1374,7 @@
   },
   {
     "id": 3793,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Leiden",
       "es": "Visita gratuita a Leiden ",
@@ -1446,7 +1446,7 @@
   },
   {
     "id": 5131,
-    "updatedAt": "2025-12-01 01:02:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion to Rotterdam & The Hague",
       "es": "Excursión a Rotterdam y La Haya",
@@ -1562,7 +1562,7 @@
   },
   {
     "id": 6926,
-    "updatedAt": "2025-12-01 01:03:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Visit to the Van Gogh Museum",
       "es": "Visita Guiada al Museo Van Gogh",
@@ -1660,7 +1660,7 @@
   },
   {
     "id": 6927,
-    "updatedAt": "2025-12-01 01:03:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Keukenhof Gardens Day Tour",
       "es": "Excursión a los Jardines de Keukenhof en Español",
@@ -1753,7 +1753,7 @@
   },
   {
     "id": 11107,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion To The Mills Of Zaanse Schans",
       "es": "Excursión a los molinos de Zaanse Schans",
@@ -1855,7 +1855,7 @@
   },
   {
     "id": 12351,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Red Light District Pub Crawl",
       "es": "Ruta de bares por el Barrio Rojo de Ámsterdam",
@@ -1973,7 +1973,7 @@
   },
   {
     "id": 16092,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Visit to the Rijksmuseum",
       "es": "Visita guiada al Rijksmuseum",
@@ -2063,7 +2063,7 @@
   },
   {
     "id": 19233,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "World War II Tour (Jewish Quarter) of Amsterdam",
       "es": "Tour de la Segunda Guerra Mundial (Barrio Judío) de Ámsterdam",
@@ -2175,7 +2175,7 @@
   },
   {
     "id": 20515,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Utrecht's Monster Mystery: Self-Guided Exploration Game",
       "es": "El misterio de los monstruos de Utrecht: juego de exploración autoguiado",
@@ -2288,7 +2288,7 @@
   },
   {
     "id": 21926,
-    "updatedAt": "2025-12-01 01:05:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam: the Glory of Holland",
       "es": "Ámsterdam: la gloria de Holanda",
@@ -2398,7 +2398,7 @@
   },
   {
     "id": 33535,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Zaanse Schans, Edam, Volendam, and Marken",
       "es": "Tour a Zaanse Schans, Edam, Volendam y Marken",
@@ -2568,7 +2568,7 @@
   },
   {
     "id": 33536,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Bike Tour (Small Groups)",
       "es": "Tour en Bicicleta por Amsterdam (en Grupos Pequeños)",
@@ -2740,7 +2740,7 @@
   },
   {
     "id": 33537,
-    "updatedAt": "2025-12-01 01:06:42",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Combo Tour to Dutch Countryside with Amsterdam Canal Cruise",
       "es": "Tour por la Campiña Holandesa con Paseo por los Canales de Amsterdam",
@@ -2869,14 +2869,14 @@
   },
   {
     "id": 35059,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 12:38:03",
     "title": {
-      "en": "Free Tour Amsterdam: Art, Nature and Local Life",
-      "es": "Free Tour Amsterdam: Arte Naturaleza y Vida Local",
-      "pt": "Free Tour Amesterdão: Arte, Natureza e Vida Local",
-      "de": "Kostenlose Tour Amsterdam: Kunst, Natur und lokales Leben",
-      "fr": "Visite libre d'Amsterdam : art, nature et vie locale",
-      "it": "Tour gratuito Amsterdam: arte, natura e vita locale"
+      "en": "Free Tour Amsterdam: Art and Freedom",
+      "es": "Free Tour Amsterdam: Arte y Libertad",
+      "pt": "Free Tour Amesterdão: Arte e Liberdade",
+      "de": "Free Tour Amsterdam: Kunst und Freiheit",
+      "fr": "Visite libre d'Amsterdam : art et liberté",
+      "it": "Tour gratuito Amsterdam: arte e libertà"
     },
     "brief": {
       "de": "Tauchen Sie ein in das mittelalterliche Amsterdam und erfahren Sie, wie es zur Vormachtstellung im Welthandel kam und wie es zu einer der liberalsten Städte der Welt wurde.",
@@ -2957,24 +2957,44 @@
         "googlePlaceId": "ChIJZapZuvIJxkcRmAvJTwrtnNE"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-04.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-01.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 298392,
-        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-04.jpg"
+        "id": 301668,
+        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-01.jpg"
       },
       {
-        "id": 298393,
-        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-05.jpg"
+        "id": 301669,
+        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-02.jpg"
+      },
+      {
+        "id": 298392,
+        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-04.jpg"
       },
       {
         "id": 298394,
         "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-06.jpg"
       },
       {
+        "id": 301673,
+        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-15.jpg"
+      },
+      {
         "id": 298395,
         "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-07.jpg"
+      },
+      {
+        "id": 301670,
+        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-03.jpg"
+      },
+      {
+        "id": 298393,
+        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-05.jpg"
+      },
+      {
+        "id": 298398,
+        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-10.jpg"
       },
       {
         "id": 298396,
@@ -2985,33 +3005,21 @@
         "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-09.jpg"
       },
       {
-        "id": 298398,
-        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-10.jpg"
-      },
-      {
         "id": 298401,
         "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-11.jpg"
       },
       {
-        "id": 298402,
-        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-12.jpg"
-      },
-      {
         "id": 298406,
         "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-13.jpg"
-      },
-      {
-        "id": 298407,
-        "URL": "https://www.freetour.com/images/tours/35059/free-tour-esencial-amsterdam-14.jpg"
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 0
+    "rating": 4.92,
+    "reviewsNumber": 5
   },
   {
     "id": 36285,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Hague Royal Quarter Free Tour",
       "es": "Visita gratuita al Barrio Real de La Haya",
@@ -3104,7 +3112,7 @@
   },
   {
     "id": 36881,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam through the Centuries and its Life on the Canals Tour",
       "es": "Ámsterdam a través de los siglos y su vida en los canales",
@@ -3285,7 +3293,7 @@
   },
   {
     "id": 36977,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jewish History of Amsterdam - Private Tour with a Local Guide",
       "es": "Historia judía de Ámsterdam - Visita privada con guía local",
@@ -3452,7 +3460,7 @@
   },
   {
     "id": 36996,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "LGBT (LGBTQ) Amsterdam: Private Tour with a Local Guide",
       "es": "LGBT (LGBTQ) Amsterdam: Private Tour with a Local Guide",
@@ -3569,7 +3577,7 @@
   },
   {
     "id": 37059,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour in Leiden",
       "es": "Visita gratuita a pie por Leiden",
@@ -3657,7 +3665,7 @@
   },
   {
     "id": 37075,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Daily Walking City-Break Tour Rotterdam & Surrounding (Kinderdijk)",
       "es": "Excursión diaria a pie por Róterdam y sus alrededores (Kinderdijk)",
@@ -3797,7 +3805,7 @@
   },
   {
     "id": 38413,
-    "updatedAt": "2025-12-01 01:07:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Walking Tour With Dutch Pancake",
       "es": "Recorrido a pie por Ámsterdam con Tortitas Holandesas",
@@ -3970,14 +3978,14 @@
   },
   {
     "id": 39680,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
-      "en": "Rude Bastards Tour of Amsterdam",
-      "es": "Rude Bastards Tour de Ámsterdam",
-      "pt": "Rude Bastards Tour de Amesterdão",
-      "de": "Rude Bastards Tour durch Amsterdam",
-      "fr": "Visite d'Amsterdam en compagnie de bâtards grossiers",
-      "it": "Tour dei Bastardi maleducati di Amsterdam"
+      "en": "Rude Bastards Tour of Amsterdam Free Tour",
+      "es": "Rude Bastards Tour por Ámsterdam Visita gratuita",
+      "pt": "Rude Bastards Tour de Amesterdão Tour gratuito",
+      "de": "Rude Bastards Tour durch Amsterdam Kostenlose Tour",
+      "fr": "Visite guidée gratuite d'Amsterdam par les grossiers bâtards",
+      "it": "Tour dei Bastardi maleducati di Amsterdam Tour gratuito"
     },
     "brief": {
       "de": "Entdecken Sie eine andere Seite von Amsterdam mit unserer politisch unkorrekten Tour. Trauen Sie sich auf die respektloseste Tour der Stadt, voll von schwarzem Humor und einer Dosis Geschichte. Machen Sie sich bereit für eine einzigartige Erfahrung ist nicht geeignet für die empfindlichsten.",
@@ -3988,12 +3996,12 @@
       "pt": "Descubra um lado diferente de Amesterdão com a nossa excursão politicamente incorrecta. Atreva-se a participar no passeio mais irreverente da cidade, cheio de humor negro e uma dose de história. Preparar-se para uma experiência única não é adequado para os mais sensíveis."
     },
     "description": {
-      "de": "Machen Sie sich bereit für eine wilde Fahrt durch die Straßen von Amsterdam! Dies ist nicht die typische, langweilige, politisch korrekte Tour. \r\n\r\nBetrachten Sie sie als eine unverschämt freche und witzige Tour durch die Stadt. \r\n\r\nFreuen Sie sich auf eine farbenfrohe Sprache, Humor, der an die Grenzen gehen kann, und, ja, auch eine gesunde Portion Geschichte. \r\n\r\nWenn Sie also bereit sind, aus der Norm auszubrechen und Amsterdam wie nie zuvor zu erleben, dann ist dies die richtige Tour für Sie! \r\n\r\nKeine Hemmungen, keine Schneeflocken erlaubt.",
-      "en": "Get ready for a wild ride through the streets of Amsterdam! This isn't your typical, boring, politically correct tour. \r\n\r\nThink of it as the unapologetically bold and hilarious tour of the city. \r\n\r\nExpect lots of colorful language, humor that may push the envelope, and, yes, a healthy dose of history thrown in for good measure. \r\n\r\nSo, if you're ready to break away from the norm and experience Amsterdam like never before, then this is the tour for you! \r\n\r\nNo holds barred, no snowflakes allowed.",
-      "es": "Prepárese para un paseo salvaje por las calles de Ámsterdam Este no es el típico tour aburrido y políticamente correcto. \r\n\r\nConsidérelo como un recorrido por la ciudad sin complejos y desternillante. \r\n\r\nLe espera un lenguaje muy colorido, un humor que puede llegar a sobrepasar los límites y, por supuesto, una buena dosis de historia. \r\n\r\nAsí que, si está listo para romper con la norma y experimentar Ámsterdam como nunca antes, ¡este es su tour! \r\n\r\nSin barreras, sin copos de nieve.",
-      "fr": "Préparez-vous à un voyage endiablé dans les rues d'Amsterdam ! Il ne s'agit pas d'une visite typique, ennuyeuse et politiquement correcte. \r\n\r\nIl s'agit plutôt d'une visite audacieuse et hilarante de la ville. \r\n\r\nAttendez-vous à un langage très coloré, à un humour qui peut dépasser les limites et, oui, à une bonne dose d'histoire pour faire bonne mesure. \r\n\r\nSi vous êtes prêt à sortir de la norme et à découvrir Amsterdam comme jamais auparavant, cette visite est faite pour vous ! \r\n\r\nTous les coups sont permis, tous les flocons de neige sont interdits.",
-      "it": "Preparatevi a una corsa selvaggia per le strade di Amsterdam! Questo non è il tipico tour noioso e politicamente corretto. \r\n\r\nPensate a questo tour come a un tour della città senza fronzoli e divertente. \r\n\r\nAspettatevi un linguaggio colorito, un umorismo che può andare oltre i limiti e, sì, una sana dose di storia per una buona misura. \r\n\r\nSe siete pronti a staccarvi dalla norma e a vivere Amsterdam come mai prima d'ora, questo è il tour che fa per voi! \r\n\r\nNon ci sono limiti, non sono ammessi fiocchi di neve.",
-      "pt": "Prepare-se para um passeio selvagem pelas ruas de Amesterdão! Esta não é a típica visita guiada, aborrecida e politicamente correcta. \r\n\r\nPense nela como a excursão mais ousada e hilariante da cidade. \r\n\r\nEspere muita linguagem colorida, humor que pode ultrapassar os limites e, sim, uma dose saudável de história para uma boa medida. \r\n\r\nPortanto, se está pronto para fugir à norma e conhecer Amesterdão como nunca antes, então esta é a excursão para si! \r\n\r\nSem barreiras, sem flocos de neve permitidos."
+      "de": "Machen Sie sich bereit für eine wilde Fahrt durch die Straßen von Amsterdam! Dies ist nicht Ihre typische, langweilige, politisch korrekte Tour.  Betrachten Sie sie als eine unverschämt freche und witzige Tour durch die Stadt.  Freuen Sie sich auf eine farbenfrohe Sprache, Humor, der an die Grenzen gehen kann, und, ja, auch auf eine gesunde Portion Geschichte.  Wenn Sie also bereit sind, aus der Norm auszubrechen und Amsterdam wie nie zuvor zu erleben, dann ist dies die richtige Tour für Sie! \r\n\r\nKeine Hemmungen, keine Schneeflocken erlaubt.\r\n\r\n***BITTE BEACHTEN**** \"Bitte buchen Sie mindestens 2 Stunden im Voraus, da wir es unmöglich in weniger als einer Stunde zum Treffpunkt schaffen können\".",
+      "en": "Get ready for a wild ride through the streets of Amsterdam! This isn't your typical, boring, politically correct tour.  Think of it as the unapologetically bold and hilarious tour of the city.  Expect lots of colorful language, humor that may push the envelope, and, yes, a healthy dose of history thrown in for good measure.  So, if you're ready to break away from the norm and experience Amsterdam like never before, then this is the tour for you! \r\n\r\nNo holds barred, no snowflakes allowed.\r\n\r\n***PLEASE NOTE****  \"Be sure to book with at least 2 hours in advance, since we can't possibly make it to the meeting point in less than 1 hour\".",
+      "es": "Prepárese para un paseo salvaje por las calles de Ámsterdam Este no es el típico tour aburrido y políticamente correcto.  Considérelo como un recorrido por la ciudad sin complejos y desternillante.  Le espera un lenguaje muy colorido, un humor que puede llegar a sobrepasar los límites y, por supuesto, una buena dosis de historia.  Así que, si está listo para romper con la norma y experimentar Ámsterdam como nunca antes, ¡este es su tour! \r\n\r\nSin restricciones y sin copos de nieve.\r\n\r\n*nOTA: **** \"Asegúrese de reservar con al menos 2 horas de antelación, ya que es imposible llegar al punto de encuentro en menos de 1 hora\".",
+      "fr": "Préparez-vous à un voyage endiablé dans les rues d'Amsterdam ! Il ne s'agit pas d'une visite typique, ennuyeuse et politiquement correcte.  Il s'agit plutôt d'une visite audacieuse et hilarante de la ville.  Attendez-vous à un langage très coloré, à un humour qui peut dépasser les limites et, oui, à une bonne dose d'histoire pour faire bonne mesure.  Si vous êtes prêt à sortir de la norme et à découvrir Amsterdam comme jamais auparavant, cette visite est faite pour vous ! \r\n\r\nTous les coups sont permis, tous les flocons de neige sont interdits.\r\n\r\n*nOTEZ BIEN**** \"Assurez-vous de réserver au moins 2 heures à l'avance, car nous ne pouvons pas nous rendre au point de rencontre en moins d'une heure\".",
+      "it": "Preparatevi a una corsa selvaggia per le strade di Amsterdam! Questo non è il tipico tour noioso e politicamente corretto.  Pensate a questo tour come a un tour della città senza fronzoli e divertente.  Aspettatevi un linguaggio colorito, un umorismo che può andare oltre i limiti e, sì, una sana dose di storia per una buona misura.  Se siete pronti a staccarvi dalla norma e a vivere Amsterdam come mai prima d'ora, questo è il tour che fa per voi! \r\n\r\nSenza esclusione di colpi, non sono ammessi fiocchi di neve.\r\n\r\n***Si prega di notare**** \"Assicuratevi di prenotare con almeno 2 ore di anticipo, poiché non è possibile raggiungere il punto di incontro in meno di un'ora\".",
+      "pt": "Prepare-se para um passeio selvagem pelas ruas de Amesterdão! Esta não é a típica excursão aborrecida e politicamente correta.  Pense nela como a excursão mais ousada e hilariante da cidade.  Espere muita linguagem colorida, humor que pode ultrapassar os limites e, sim, uma dose saudável de história para uma boa medida.  Portanto, se está pronto para fugir à norma e conhecer Amesterdão como nunca antes, então esta é a excursão para si! \r\n\r\nSem barreiras, sem flocos de neve permitidos.\r\n\r\n***PLEASE NOTE**** \"Não se esqueça de reservar com pelo menos 2 horas de antecedência, uma vez que não é possível chegar ao ponto de encontro em menos de 1 hora\"."
     },
     "providerTitle": "Can You Handle It Tours",
     "providerPhone": null,
@@ -4121,12 +4129,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.75,
-    "reviewsNumber": 147
+    "rating": 4.74,
+    "reviewsNumber": 148
   },
   {
     "id": 39905,
-    "updatedAt": "2025-12-01 01:07:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Countryside Bike Tour",
       "es": "Tour en bici por la campiña holandesa",
@@ -4236,7 +4244,7 @@
   },
   {
     "id": 40019,
-    "updatedAt": "2025-12-01 01:07:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Full Day Tour: Walk, Bike & Cruise",
       "es": "Excursión de un día por Ámsterdam: A pie, en bicicleta y en crucero",
@@ -4417,7 +4425,7 @@
   },
   {
     "id": 42004,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour of the Historic Center of Amsterdam",
       "es": "Visita gratuita al centro histórico de Ámsterdam",
@@ -4665,7 +4673,7 @@
   },
   {
     "id": 42226,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Hague Free Walking Tour",
       "es": "Visita Guiada Gratuita a pie por La Haya",
@@ -4817,7 +4825,7 @@
   },
   {
     "id": 42399,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam and North City Canals",
       "es": "Canales de Amsterdam y Norte de la Ciudad",
@@ -5007,7 +5015,7 @@
   },
   {
     "id": 42838,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Getting to know Delft - Free Tour",
       "es": "Conociendo Delft - Free Tour",
@@ -5153,7 +5161,7 @@
   },
   {
     "id": 44343,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Walking Tour Gouda All Inclusive",
       "es": "Excursión a pie por Gouda Todo incluido",
@@ -5281,7 +5289,7 @@
   },
   {
     "id": 45810,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Iconic & Historical Free Tour Rotterdam",
       "es": "Free Tour Icónico e Histórico de Róterdam",
@@ -5419,12 +5427,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.61,
-    "reviewsNumber": 82
+    "rating": 4.62,
+    "reviewsNumber": 84
   },
   {
     "id": 47020,
-    "updatedAt": "2025-12-01 10:43:32",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour: Amsterdam Historical Center",
       "es": "Free Tour: Centro Histórico de Ámsterdam",
@@ -5526,7 +5534,7 @@
   },
   {
     "id": 47720,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Windmills Tour",
       "es": "Tour de los Molinos de Amsterdam",
@@ -5609,7 +5617,7 @@
   },
   {
     "id": 48845,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Romantic Highlights of Amsterdam: Self-Guided Exploration Game",
       "es": "Lo más romántico de Ámsterdam: Juego de exploración autoguiada",
@@ -5713,7 +5721,7 @@
   },
   {
     "id": 49984,
-    "updatedAt": "2025-12-01 01:09:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Walking Tour for Small Groups",
       "es": "Visita a pie de Ámsterdam para grupos reducidos",
@@ -5874,7 +5882,7 @@
   },
   {
     "id": 49992,
-    "updatedAt": "2025-12-01 01:09:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Walking Tour with a Canal Cruise",
       "es": "Recorrido a pie por Ámsterdam con crucero por los canales",
@@ -6030,7 +6038,7 @@
   },
   {
     "id": 49993,
-    "updatedAt": "2025-12-01 01:09:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amsterdam Walking Tour + Canal Cruise with Drinks & Cheese Tasting",
       "es": "Visita a pie de Ámsterdam + Crucero por el Canal con bebidas y degustación de queso",
@@ -6197,7 +6205,7 @@
   },
   {
     "id": 53300,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Tour Westerparkt, Haarlemmer and The Flowers Windmill",
       "es": "Visita Westerparkt, Haarlemmer y el Molino de Flores",
@@ -6409,7 +6417,7 @@
   },
   {
     "id": 54963,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Edam, Volendam and Marken from Amsterdam",
       "es": "Tour de Edam, Volendam y Marken desde Amsterdam",
@@ -6634,7 +6642,7 @@
   },
   {
     "id": 54968,
-    "updatedAt": "2025-12-01 17:51:03",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of the Jewish Quarter of Amsterdam",
       "es": "Free Tour por el Barrio Judío de Amsterdam",
@@ -6850,7 +6858,7 @@
   },
   {
     "id": 55279,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zaanse Schans tour from Amsterdam",
       "es": "Tour a Zaanse Schans desde Amsterdam",
@@ -7433,7 +7441,7 @@
   },
   {
     "id": 57452,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Amsterdam: Visit to the Museum Quarter",
       "es": "Free Tour Amsterdam: Visita al Barrio de los Museos",
@@ -7651,7 +7659,7 @@
   },
   {
     "id": 60695,
-    "updatedAt": "2025-12-01 16:20:23",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Amsterdam: The World's Playground",
       "es": "Ámsterdam: El patio de recreo del mundo",
@@ -7763,11 +7771,11 @@
     ],
     "videoURL": null,
     "rating": 4.9399999999999995,
-    "reviewsNumber": 56
+    "reviewsNumber": 57
   },
   {
     "id": 64018,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Rotterdam's Must-Visit Spots Free Tour",
       "es": "Visita gratuita a los lugares imprescindibles de Rotterdam",
@@ -7907,7 +7915,7 @@
   },
   {
     "id": 64080,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Tour Along the Medieval City Walls of Amsterdam",
       "es": "Recorrido por las Murallas Medievales de Ámsterdam",
@@ -8057,7 +8065,7 @@
   },
   {
     "id": 64505,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: Amsterdam Highlights",
       "es": "Free Tour: Lo más Destacado de Ámsterdam",
@@ -8237,11 +8245,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=XfC6PWYfE2s",
     "rating": 4.91,
-    "reviewsNumber": 117
+    "reviewsNumber": 118
   },
   {
     "id": 64508,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 11:10:06",
     "title": {
       "en": "Free Tour Amsterdam: World War II and Anne Frank",
       "es": "Free Tour Amsterdam: Guerra Mundial II y Ana Frank",
@@ -8434,12 +8442,12 @@
       }
     ],
     "videoURL": "https://youtu.be/mOM0QDBpP_o",
-    "rating": 4.68,
-    "reviewsNumber": 109
+    "rating": 4.6899999999999995,
+    "reviewsNumber": 113
   },
   {
     "id": 64860,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Delft’s Historic Treasures Walking Tour",
       "es": "Ruta a pie por los Tesoros Históricos de Delft",
@@ -8575,7 +8583,7 @@
   },
   {
     "id": 68142,
-    "updatedAt": "2025-12-01 22:14:21",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Amsterdam Red Light District Free Tour (Adults Only)",
       "es": "Free Tour por el Barrio Rojo de Ámsterdam (Solo Adultos)",
@@ -8698,12 +8706,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.6899999999999995,
-    "reviewsNumber": 66
+    "rating": 4.71,
+    "reviewsNumber": 69
   },
   {
     "id": 68346,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Amsterdam and its Surroundings",
       "es": "Descubra Ámsterdam y sus Alrededores",
@@ -8956,7 +8964,7 @@
   },
   {
     "id": 70432,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Utrecht Highlights Free Walking Tour",
       "es": "Free Tour a pie por lo más Destacado de Utrecht",
@@ -9037,12 +9045,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.89,
-    "reviewsNumber": 11
+    "rating": 4.9,
+    "reviewsNumber": 12
   },
   {
     "id": 71170,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Dark Tales and Ghosts in Old Amsterdam",
       "es": "Relatos Oscuros y Fantasmas en la vieja Ámsterdam",
@@ -9156,7 +9164,7 @@
   },
   {
     "id": 71518,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Through Anne Frank's History",
       "es": "Recorrido a pie por la historia de Ana Frank",
@@ -9258,7 +9266,7 @@
   },
   {
     "id": 72191,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Most Beautiful Castle in the Netherlands",
       "es": "Descubre el Castillo más Hermoso de los Países Bajos",
@@ -9355,7 +9363,7 @@
   },
   {
     "id": 72667,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Unforgettable Cruise on the Amsterdam Canals",
       "es": "Crucero Inolvidable por los Canales de Ámsterdam",
@@ -9543,7 +9551,7 @@
   },
   {
     "id": 73077,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Amsterdam Historical FreeTour: Golden Age, Anne Frank, World War II and 70s' ",
       "es": "FreeTour Histórico de Ámsterdam: Siglo de Oro, Anna Frank, IIGM y 70' ",
@@ -9714,7 +9722,7 @@
   },
   {
     "id": 75523,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "The Hague Highlights Free Tour",
       "es": "Lo más destacado de La Haya Visita gratuita",
@@ -9802,7 +9810,7 @@
   },
   {
     "id": 77468,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "The Hague: History, Power and Diplomacy",
       "es": "La Haya: Historia, Poder y Diplomacia",
@@ -9925,12 +9933,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.67,
-    "reviewsNumber": 15
+    "rating": 4.6899999999999995,
+    "reviewsNumber": 17
   },
   {
     "id": 78867,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Valkenburg Free Tour: Caves, Chairlifts, & Local Surprises",
       "es": "Valkenburg Free Tour: Cuevas, telesillas y sorpresas locales",
@@ -10044,7 +10052,7 @@
   },
   {
     "id": 79514,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Art FreeTour: From the Great Dutch Masters to Street Art",
       "es": "FreeTour de Arte: De Los Grandes Maestros Holandeses al Street Art",
@@ -10184,7 +10192,7 @@
   },
   {
     "id": 79522,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of the Dutch Countryside: Mills, Cheese and Clogs",
       "es": "Free Tour por la Campiña Holandesa: Molinos, Queso y Zuecos",
@@ -10318,7 +10326,7 @@
   },
   {
     "id": 79596,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Jewish Quarter and Anne Frank's Story with an Official Guide",
       "es": "Descubre el Barrio Judío y la Historia de Ana Frank con Guía Oficial",
@@ -10434,7 +10442,7 @@
   },
   {
     "id": 79698,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour: Windmills, Edam, Volendam and Marken",
       "es": "Tour Privado: Molinos, Edam, Volendam y Marken",
@@ -10598,7 +10606,7 @@
   },
   {
     "id": 80021,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Welcome to Amsterdam: Everything You Need to See and Know",
       "es": "Bienvenidos a Ámsterdam: Todo lo que Tienes que Ver y Saber",
@@ -10787,12 +10795,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9,
-    "reviewsNumber": 37
+    "rating": 4.91,
+    "reviewsNumber": 41
   },
   {
     "id": 80689,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Leiden: A City Walk Through History",
       "es": "Leiden: Un Paseo por la Historia",
@@ -10902,7 +10910,7 @@
   },
   {
     "id": 80709,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Discover Delft and its Hidden History",
       "es": "Descubre Delft y su Historia Escondida",
@@ -11018,7 +11026,7 @@
   },
   {
     "id": 81152,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Eindhoven: From Village to Global Tech Capital",
       "es": "Descubra Eindhoven: De Pueblo a Capital Mundial de la Tecnología",
@@ -11132,7 +11140,7 @@
   },
   {
     "id": 81771,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Delft Highlights and Hidden Gems",
       "es": "Lo más Destacado de Delft y sus Joyas Ocultas",
@@ -11246,7 +11254,7 @@
   },
   {
     "id": 82167,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of the History and Secrets of Amsterdam",
       "es": "Free Tour de la Historia y los Secretos de Ámsterdam",
@@ -11386,7 +11394,7 @@
   },
   {
     "id": 82168,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Discover The Hague like never before",
       "es": "Descubra La Haya como nunca",
@@ -11510,7 +11518,7 @@
   },
   {
     "id": 83645,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Hague, art, history and culture in the capital of the Netherlands",
       "es": "La Haya, arte, historia y cultura en la capital de los Paises Bajos",
@@ -11648,7 +11656,7 @@
   },
   {
     "id": 83779,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of The Hague: The Other Side of Holland on Wheels",
       "es": "Tour de Haya: La Otra Cara de Holanda Sobre Ruedas",
@@ -11771,7 +11779,7 @@
   },
   {
     "id": 86472,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Amsterdam City Walk",
       "es": "Audioguía App: Amsterdam City Walk",
@@ -11926,7 +11934,7 @@
   },
   {
     "id": 86510,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Red Light District Sights, Amsterdam",
       "es": "Audioguía App: Lugares de interés del Barrio Rojo de Ámsterdam",
@@ -12073,6 +12081,122 @@
       {
         "id": 297989,
         "URL": "https://www.freetour.com/images/tours/86510/audio-guide-app-red-light-district-sights-amsterdam-16.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 69212,
+    "updatedAt": "2025-12-11 03:32:37",
+    "title": {
+      "en": "Anne Frank and Free River Cruise: Mural, NDSM Shipyard",
+      "es": "Anne Frank y Crucero del Rio Gratis: Mural, Astillero NDSM",
+      "pt": "Anne Frank e o cruzeiro no rio Free: Mural, Estaleiro NDSM",
+      "de": "Anne Frank und Free River Cruise: Wandgemälde, NDSM-Werft",
+      "fr": "Anne Frank et la croisière fluviale gratuite : peinture murale, chantier naval de NDSM",
+      "it": "Crociera fluviale Anne Frank e Free: Murale, Cantiere NDSM"
+    },
+    "brief": {
+      "de": "nehmen Sie an diesem einzigartigen Spaziergang durch Amsterdam teil und entdecken Sie die in den Straßen der Stadt versteckten Vintage-Schätze! Kleidung, antike Schätze und einzigartige Märkte erwarten Sie auf dieser mit lokaler Leidenschaft gestalteten Route.",
+      "en": "Join this unique walk through Amsterdam and discover the vintage gems hidden among its streets! Clothes, antique treasures, and unique markets await you on this route made with local passion.",
+      "es": "¡Únete a este paseo único por Ámsterdam y descubre las joyas vintage escondidas entre sus calles! Ropa, tesoros antiguos y mercados únicos te esperan en esta ruta hecha con pasión local.",
+      "fr": "participez à cette promenade unique à travers Amsterdam et découvrez les joyaux vintage cachés dans ses rues ! Vêtements, trésors antiques et marchés uniques vous attendent sur cet itinéraire réalisé avec la passion locale.",
+      "it": "partecipate a questa passeggiata unica attraverso Amsterdam e scoprite le gemme vintage nascoste nelle sue strade! Vestiti, tesori d'antiquariato e mercati unici vi aspettano in questo percorso realizzato con passione locale.",
+      "pt": "junte-se a este passeio único por Amesterdão e descubra as jóias vintage escondidas nas suas ruas! Roupas, tesouros antigos e mercados únicos esperam por si neste percurso feito com paixão local."
+    },
+    "description": {
+      "de": "hallo an alle Liebhaber von Anne Frank, Flussbooten, Kunst und Geschichte!\r\n\r\nmöchten Sie eine einzigartige Erfahrung in Amsterdam machen? Kommen Sie mit auf eine kostenlose Flussfährentour.\r\n\r\nUnsere Reise beginnt im Herzen der Stadt und führt uns zum NDSM, einem Gebiet, das einst eine geschäftige Werft war und heute ein pulsierendes kulturelles Epizentrum ist. Dieser Ort ist ein Zeugnis der Transformation, eine riesige Leinwand, auf der Künstler und Kreative ihre Träume zum Leben erwecken.\r\n\r\nWir werden durch eine faszinierende Künstlerkolonie schlendern, einen Schmelztiegel von Talenten, in dem Kunst in jeder Ecke zu finden ist. Und für einen Moment der tiefen Besinnung besuchen wir ein beeindruckendes Wandgemälde von Anne Frank, eine ergreifende Erinnerung an die Geschichte.\r\n\r\nSchließlich kehren wir mit einer kostenlosen Fähre zum Hauptbahnhof zurück und genießen den Panoramablick auf den Hafen.\r\n\r\nlassen Sie sich dieses Abenteuer nicht entgehen! Es ist die perfekte Gelegenheit, eine andere Seite Amsterdams zu entdecken, einen Ort, an dem Kunst, Geschichte und Gemeinschaft miteinander verwoben sind.\r\n\r\nwir freuen uns darauf, Sie zu sehen!",
+      "en": "hello to all Anne Frank, riverboat, art and history lovers!\r\n\r\nwant to live a unique experience in Amsterdam? Join us for a free River Ferry tour.\r\n\r\nOur journey begins in the heart of the city and takes us to NDSM, an area that was once a bustling shipyard and is now a vibrant cultural epicenter. This place is a testament to transformation, a giant canvas where artists and creators bring their dreams to life.\r\n\r\nWe will stroll through a fascinating artists' colony, a melting pot of talents where art is breathed in every corner. And for a moment of deep reflection, we'll visit an impressive mural of Anne Frank, a poignant reminder of history.\r\n\r\nFinally, we'll return to Central Station on a free ferry, enjoying panoramic views of the harbor.\r\n\r\ndon't miss this adventure! It's a perfect opportunity to discover a different side of Amsterdam, a place where art, history and community intertwine.\r\n\r\nwe look forward to seeing you!",
+      "es": "¡Hola a todos los amantes de Anne Frank, de los barcos de Río, del arte y de la historia!\r\n\r\n¿Quieren vivir una experiencia única en Ámsterdam? Únanse a nosotros para un tour gratuito en Ferry por el Río.\r\n\r\nNuestro viaje comienza en el corazón de la ciudad y nos lleva a NDSM, una zona que alguna vez fue un bullicioso astillero y que hoy es un vibrante epicentro cultural. Este lugar es un testimonio de la transformación, un lienzo gigante donde artistas y creadores dan vida a sus sueños.\r\n\r\nPasearemos por una fascinante colonia de artistas, un crisol de talentos donde el arte se respira en cada esquina. Y para un momento de profunda reflexión, visitaremos un impresionante mural de Ana Frank, un conmovedor recordatorio de la historia.\r\n\r\nFinalmente, regresaremos a la Estación Central en un ferry gratuito, disfrutando de las vistas panorámicas del puerto.\r\n\r\n¡No se pierdan esta aventura! Es una oportunidad perfecta para descubrir un lado diferente de Ámsterdam, un lugar donde el arte, la historia y la comunidad se entrelazan.\r\n\r\n¡Los esperamos!",
+      "fr": "bonjour à tous les amoureux d'Anne Frank, des bateaux fluviaux, de l'art et de l'histoire !\r\n\r\nvoulez-vous vivre une expérience unique à Amsterdam ? Rejoignez-nous pour une visite gratuite en ferry.\r\n\r\nNotre voyage commence au cœur de la ville et nous emmène au NDSM, un quartier qui était autrefois un chantier naval animé et qui est aujourd'hui un épicentre culturel vibrant. Ce lieu est un témoignage de la transformation, une toile géante où les artistes et les créateurs donnent vie à leurs rêves.\r\n\r\nNous nous promènerons dans une fascinante colonie d'artistes, un creuset de talents où l'art est présent à chaque coin de rue. Et pour un moment de réflexion profonde, nous visiterons une impressionnante peinture murale d'Anne Frank, un rappel poignant de l'histoire.\r\n\r\nEnfin, nous retournerons à la gare centrale à bord d'un ferry gratuit, en profitant d'une vue panoramique sur le port.\r\n\r\nne manquez pas cette aventure ! C'est l'occasion rêvée de découvrir une autre facette d'Amsterdam, un lieu où l'art, l'histoire et la communauté s'entremêlent.\r\n\r\nnous vous attendons avec impatience !",
+      "it": "ciao a tutti gli amanti di Anna Frank, dei battelli fluviali, dell'arte e della storia!\r\n\r\nvolete vivere un'esperienza unica ad Amsterdam? Unitevi a noi per un tour gratuito in traghetto fluviale.\r\n\r\nIl nostro viaggio inizia nel cuore della città e ci porta a NDSM, un'area che un tempo era un vivace cantiere navale e che oggi è un vibrante epicentro culturale. Questo luogo è una testimonianza di trasformazione, una tela gigante dove artisti e creatori danno vita ai loro sogni.\r\n\r\nPasseggeremo in un'affascinante colonia di artisti, un crogiolo di talenti dove l'arte si respira in ogni angolo. Per un momento di profonda riflessione, visiteremo un impressionante murale di Anna Frank, uno struggente ricordo della storia.\r\n\r\nInfine, torneremo alla Stazione Centrale con un traghetto gratuito, godendo di una vista panoramica sul porto.\r\n\r\nnon perdetevi questa avventura! È un'occasione perfetta per scoprire un lato diverso di Amsterdam, un luogo dove arte, storia e comunità si intrecciano.\r\n\r\nnon vediamo l'ora di vedervi!",
+      "pt": "olá a todos os amantes de Anne Frank, dos barcos fluviais, da arte e da história!\r\n\r\nquerem viver uma experiência única em Amesterdão? Junte-se a nós para um passeio gratuito de barco pelo rio.\r\n\r\nA nossa viagem começa no coração da cidade e leva-nos ao NDSM, uma área que foi outrora um movimentado estaleiro naval e é agora um epicentro cultural vibrante. Este local é um testemunho da transformação, uma tela gigante onde artistas e criadores dão vida aos seus sonhos.\r\n\r\nPassearemos por uma fascinante colónia de artistas, um caldeirão de talentos onde se respira arte em cada canto. E para um momento de reflexão profunda, visitaremos um impressionante mural de Anne Frank, uma recordação pungente da história.\r\n\r\nFinalmente, regressaremos à Estação Central num ferry gratuito, desfrutando de vistas panorâmicas sobre o porto.\r\n\r\nnão perca esta aventura! É uma oportunidade perfeita para descobrir um lado diferente de Amesterdão, um lugar onde a arte, a história e a comunidade se entrelaçam.\r\n\r\nestamos ansiosos por o ver!"
+    },
+    "providerTitle": "Pleyades Explorers",
+    "providerPhone": "+31628091301",
+    "URL": "https://www.freetour.com/amsterdam/descubre-los-tesoros-vintage-de-amsterdam?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/amsterdam/descubre-los-tesoros-vintage-de-amsterdam?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/amsterdam/descubre-los-tesoros-vintage-de-amsterdam?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/amsterdam/descubre-los-tesoros-vintage-de-amsterdam?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/amsterdam/descubre-los-tesoros-vintage-de-amsterdam?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/amsterdam/descubre-los-tesoros-vintage-de-amsterdam?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/amsterdam/descubre-los-tesoros-vintage-de-amsterdam?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:45",
+    "meetingPoint": {
+      "title": "Wagamama Amsterdam Centraal Station",
+      "coordinates": "52.3801915,4.8997434",
+      "googlePlaceId": "ChIJk_GE1rcJxkcR9Np8w4KYTro"
+    },
+    "cityId": 3058,
+    "countryId": 110,
+    "includes": [
+      "NDSM"
+    ],
+    "POIs": [
+      {
+        "id": 4718,
+        "title": "NDSM",
+        "googlePlaceId": "ChIJg7YwoTkIxkcRdRzJp-FRIIg"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 296277,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-01.jpg"
+      },
+      {
+        "id": 296278,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-02.jpg"
+      },
+      {
+        "id": 296279,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-03.jpg"
+      },
+      {
+        "id": 296280,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-04.jpg"
+      },
+      {
+        "id": 296281,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-05.jpg"
+      },
+      {
+        "id": 296282,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-06.jpg"
+      },
+      {
+        "id": 296283,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-07.jpg"
+      },
+      {
+        "id": 296284,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-08.jpg"
+      },
+      {
+        "id": 296285,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-09.jpg"
+      },
+      {
+        "id": 296286,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-10.jpg"
+      },
+      {
+        "id": 296287,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-11.jpg"
+      },
+      {
+        "id": 296288,
+        "URL": "https://www.freetour.com/images/tours/69212/descubre-los-tesoros-vintage-de-amsterdam-12.jpg"
       }
     ],
     "videoURL": null,

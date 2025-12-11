@@ -1,7 +1,7 @@
 [
   {
     "id": 21833,
-    "updatedAt": "2025-12-01 01:05:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxembourg & Dinant tour: the Beauty of the Ardennes",
       "es": "Tour de Luxemburgo y Dinant: la Belleza de las Ardenas",
@@ -137,7 +137,7 @@
   },
   {
     "id": 35869,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour of Schengen",
       "es": "Recorrido a pie por Schengen",
@@ -235,7 +235,7 @@
   },
   {
     "id": 48675,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Romantic Luxembourg: Self-Guided Exploration Game",
       "es": "Luxemburgo romántico: Juego de exploración autoguiada",
@@ -552,7 +552,7 @@
   },
   {
     "id": 76797,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of the Heart of Luxembourg",
       "es": "Tour Privado por el Corazón de Luxemburgo",
@@ -644,7 +644,7 @@
   },
   {
     "id": 81937,
-    "updatedAt": "2025-12-01 15:24:02",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour Luxembourg Christmas Luxembourg",
       "es": "Free Tour Luxemburgo Navideño Luxembourg",
@@ -819,12 +819,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 2.33,
+    "reviewsNumber": 3
   },
   {
     "id": 85383,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Luxembourg City Walk",
       "es": "App Audioguía: Paseo por Luxemburgo",

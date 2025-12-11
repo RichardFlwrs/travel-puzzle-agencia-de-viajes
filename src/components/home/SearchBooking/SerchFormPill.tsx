@@ -1,12 +1,14 @@
 'use client';
 
 import { useMemo, useState } from 'react';
+import { useRouter } from 'next/navigation';
 import { useLanguage } from "@/lib/language-context";
 import { transformCountryForFilter } from '@/lib/db/tour-transformer';
 import { SearchDropdown } from '@/components/forms/SearchDropdown';
 import { DateRangePicker } from '@/components/forms';
 import type { CountryWithTranslations } from '@/types';
 import type { SupportedLanguage } from '@/types';
+import { Button } from '@/components/ui';
 
 type CountryFilter = {
     id: number;
@@ -21,6 +23,8 @@ interface SearchFormPillProps {
 
 export function SearchFormPill({ initialCountriesData, initialLanguage }: SearchFormPillProps) {
     const { t, language } = useLanguage();
+    const router = useRouter();
+    const [selectedCountry, setSelectedCountry] = useState<CountryFilter | null>(null);
 
     // Transform countries data using the same logic as ToursPageClient
     // Use the language from context (which may have changed) for transformation
@@ -43,7 +47,13 @@ export function SearchFormPill({ initialCountriesData, initialLanguage }: Search
 
     const handleCountrySelect = (country: CountryFilter) => {
         console.log('Selected country:', country);
-        // Handle country selection here
+        setSelectedCountry(country);
+    };
+
+    const handleGoToTours = () => {
+        if (selectedCountry) {
+            router.push(`/tours?countryId=${selectedCountry.id}`);
+        }
     };
 
     const [startDate, setStartDate] = useState<string | undefined>(undefined);
@@ -74,12 +84,23 @@ export function SearchFormPill({ initialCountriesData, initialLanguage }: Search
                 className="w-full"
             />
 
-            <DateRangePicker
+            {/* Go to tours page with the country filter */}
+            <Button 
+                onClick={handleGoToTours}
+                disabled={!selectedCountry}
+                variant="primary"
+                size="md"
+                className="shrink-0"
+            >
+                {t('home.searchBooking.goToTours', 'Go to Tours')}
+            </Button>
+
+            {/* <DateRangePicker
                 placeholder={t('home.searchBooking.dateRangePlaceholder', 'Select date range')}
                 startDate={startDate}
                 endDate={endDate}
                 onDateRangeChange={handleDateRangeChange}
-            />
+            /> */}
         </div>
     );
 }

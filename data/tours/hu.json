@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "updatedAt": "2025-12-01 23:05:01",
+    "updatedAt": "2025-12-11 14:06:43",
     "title": {
       "en": "Free Tour of Budapest",
       "es": "Free Tour de Budapest en Español",
@@ -171,11 +171,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=JHDawJmzNms",
     "rating": 4.78,
-    "reviewsNumber": 11914
+    "reviewsNumber": 11947
   },
   {
     "id": 2,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 06:16:50",
     "title": {
       "en": "Free Buda Castle District Tour",
       "es": "Free Tour del Castillo de Buda en Español",
@@ -349,11 +349,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=_HnreIzNItc",
     "rating": 4.8100000000000005,
-    "reviewsNumber": 1197
+    "reviewsNumber": 1200
   },
   {
     "id": 3,
-    "updatedAt": "2025-12-01 21:28:45",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour Budapest: Jewish Quarter & Holocaust",
       "es": "Free Tour Budapest: Barrio Judío y Holocausto",
@@ -581,11 +581,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=fc0T5XuVQVs",
     "rating": 4.84,
-    "reviewsNumber": 1669
+    "reviewsNumber": 1680
   },
   {
     "id": 970,
-    "updatedAt": "2025-12-01 01:00:52",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bloody Tales from within the Castle Walls - Night Walking Tour",
       "es": "Historias sangrientas entre las murallas del castillo - Visita nocturna a pie",
@@ -689,7 +689,7 @@
   },
   {
     "id": 1075,
-    "updatedAt": "2025-12-01 01:00:59",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Dinner & Cruise on the Danube with Folklore Dance Show & Live Music",
       "es": "Cena y Crucero con Música en Vivo en Budapest",
@@ -801,7 +801,7 @@
   },
   {
     "id": 1084,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jewish Heritage Essential Tour of Budapest",
       "es": "Visita guiada por el patrimonio judío de Budapest",
@@ -929,7 +929,7 @@
   },
   {
     "id": 1087,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jewish Heritage Private Small Tour of Budapest",
       "es": "Pequeño tour privado por el patrimonio judío de Budapest",
@@ -1049,7 +1049,7 @@
   },
   {
     "id": 1109,
-    "updatedAt": "2025-12-01 01:01:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Organ Concert in St. Stephen's Basilica",
       "es": "Concierto de Órgano en la Basílica de San Esteban",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": 1111,
-    "updatedAt": "2025-12-01 01:01:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cocktail & Beer Cruise on the Danube",
       "es": "Crucero por el Danubio con Cócteles y Cerveza",
@@ -1253,7 +1253,7 @@
   },
   {
     "id": 1367,
-    "updatedAt": "2025-12-01 15:19:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Christmas & New Year Cruise with Live Music",
       "es": "Crucero de Navidad y Año Nuevo con Música en Directo",
@@ -1358,7 +1358,7 @@
   },
   {
     "id": 1728,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Budapest Free Tour in Spanish",
       "es": "Budapest Free Tour en Español",
@@ -1476,11 +1476,11 @@
     ],
     "videoURL": null,
     "rating": 4.65,
-    "reviewsNumber": 1591
+    "reviewsNumber": 1597
   },
   {
     "id": 3758,
-    "updatedAt": "2025-12-01 01:02:12",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tokaji & Cruise with Live Music",
       "es": "Crucero con Bebidas y Música en Directo",
@@ -1588,7 +1588,7 @@
   },
   {
     "id": 4735,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Free Tour Budapest A Must",
       "es": "Free Tour Budapest Imprescindible",
@@ -1719,12 +1719,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.53,
-    "reviewsNumber": 204
+    "rating": 4.51,
+    "reviewsNumber": 206
   },
   {
     "id": 4738,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Free Tour Buda Castle",
       "es": "Free Tour Castillo de Buda",
@@ -1849,12 +1849,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.49,
-    "reviewsNumber": 51
+    "rating": 4.51,
+    "reviewsNumber": 53
   },
   {
     "id": 4984,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Free Tour Budapest by Night",
       "es": "Free Tour Budapest Nocturno",
@@ -1981,12 +1981,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.66,
-    "reviewsNumber": 209
+    "rating": 4.67,
+    "reviewsNumber": 210
   },
   {
     "id": 6127,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sightseeing Cruise on the Danube",
       "es": "Crucero Turístico por el Danubio",
@@ -2101,7 +2101,7 @@
   },
   {
     "id": 14434,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Budapest Essentials Free Tour",
       "es": "Budapest Essentials Free Tour",
@@ -2211,12 +2211,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.87,
-    "reviewsNumber": 17
+    "rating": 4.88,
+    "reviewsNumber": 18
   },
   {
     "id": 17993,
-    "updatedAt": "2025-12-01 15:18:01",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Budapest Christmas Markets Tour",
       "es": "Tour Mercados de Navidad en Budapest",
@@ -2341,7 +2341,7 @@
   },
   {
     "id": 21660,
-    "updatedAt": "2025-12-01 01:04:56",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Adventure Caving Tour under Budapest",
       "es": "Espeleología de aventura bajo Budapest",
@@ -2450,7 +2450,7 @@
   },
   {
     "id": 21757,
-    "updatedAt": "2025-12-01 01:04:59",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cave Walk Tour into two caves of Budapest",
       "es": "Excursión a pie por dos cuevas de Budapest",
@@ -2578,7 +2578,7 @@
   },
   {
     "id": 24442,
-    "updatedAt": "2025-12-01 21:39:36",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Buda Castle Tour: Fisherman's Bastion, Royal Palace",
       "es": "Visita al Castillo de Buda: Bastión de los Pescadores, Palacio Real",
@@ -2725,11 +2725,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 570
+    "reviewsNumber": 574
   },
   {
     "id": 26820,
-    "updatedAt": "2025-12-01 01:05:50",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Haunted Budapest, Ghost & Horror Stories: Self-Guided Exploration Game",
       "es": "Budapest embrujada, historias de fantasmas y terror: Juego de exploración autoguiado",
@@ -2845,7 +2845,7 @@
   },
   {
     "id": 28001,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Hungarian Culture and Gastronomy",
       "es": "Free Tour Budapest Gastronómico",
@@ -3023,7 +3023,7 @@
   },
   {
     "id": 30712,
-    "updatedAt": "2025-12-01 19:22:46",
+    "updatedAt": "2025-12-11 06:14:02",
     "title": {
       "en": "Free Tour First Day in Budapest",
       "es": "Free Tour Primer Día en Budapest",
@@ -3175,12 +3175,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9,
-    "reviewsNumber": 224
+    "rating": 4.88,
+    "reviewsNumber": 233
   },
   {
     "id": 30713,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of the Jewish Quarter and World War 2",
       "es": "Free Tour del Barrio Judío y 2ª Guerra Mundial",
@@ -3312,7 +3312,7 @@
   },
   {
     "id": 30718,
-    "updatedAt": "2025-12-01 12:28:08",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Budapest Free Tour: Shoes Memorial & Parliament",
       "es": "Budapest Free Tour: Memorial de los Zapatos y Parlamento",
@@ -3441,7 +3441,7 @@
   },
   {
     "id": 30721,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Budapest: Buda Castle",
       "es": "Free Tour Budapest: El Castillo de Buda",
@@ -3496,7 +3496,6 @@
       "Buda Castle",
       "Mirador",
       "Castle Garden Bazaar",
-      "Clark Ádám tér",
       "Sándor Palace",
       "Torre de María Magdalena",
       "Uri utca o calle de los caballeros",
@@ -3538,11 +3537,6 @@
         "id": 4135,
         "title": "Castle Garden Bazaar",
         "googlePlaceId": "ChIJex7cTjncQUcRSo4Ea9F-gdU"
-      },
-      {
-        "id": 5989,
-        "title": "Clark Ádám tér",
-        "googlePlaceId": "ChIJjeQjsqfdQUcRDftUeWD0YYo"
       },
       {
         "id": 9771,
@@ -3616,11 +3610,11 @@
     ],
     "videoURL": null,
     "rating": 4.74,
-    "reviewsNumber": 153
+    "reviewsNumber": 155
   },
   {
     "id": 30840,
-    "updatedAt": "2025-12-01 01:06:13",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Evening Cruise with Hungarian Dinner on the Danube",
       "es": "Crucero Nocturno con Cena Húngara en el Danubio",
@@ -3740,7 +3734,7 @@
   },
   {
     "id": 31740,
-    "updatedAt": "2025-12-01 15:54:18",
+    "updatedAt": "2025-12-11 11:00:20",
     "title": {
       "en": "Budapest Free Tour by Locals",
       "es": "Budapest Free Tour",
@@ -3860,11 +3854,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=1EJQflppnAc",
     "rating": 4.88,
-    "reviewsNumber": 1155
+    "reviewsNumber": 1180
   },
   {
     "id": 31841,
-    "updatedAt": "2025-12-01 01:06:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Danube Cruise with Welcome Drink",
       "es": "Crucero por el Danubio con bebida de bienvenida",
@@ -3984,7 +3978,7 @@
   },
   {
     "id": 32289,
-    "updatedAt": "2025-12-01 08:00:15",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Urban Safari Budarpest Free Tour: Art and Underground Movements",
       "es": "Safari Urbano Budarpest Free Tour: Arte y Movimientos Subterráneos",
@@ -4058,11 +4052,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 21
+    "reviewsNumber": 22
   },
   {
     "id": 35835,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Essential Free Bike Tour of Budapest",
       "es": "Recorrido esencial y gratuito en bicicleta por Budapest",
@@ -4198,7 +4192,7 @@
   },
   {
     "id": 36007,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour: Mysteries and Legends of Budapest",
       "es": "Free Tour: Misterios y Leyendas de Budapest",
@@ -4374,12 +4368,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.8,
-    "reviewsNumber": 86
+    "rating": 4.8100000000000005,
+    "reviewsNumber": 87
   },
   {
     "id": 37325,
-    "updatedAt": "2025-12-01 12:39:37",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Budapest Darker Sides & Giant Street Art Free Tour",
       "es": "Los lados más oscuros de Budapest y el arte callejero gigante Free Tour",
@@ -4474,11 +4468,11 @@
     ],
     "videoURL": null,
     "rating": 4.87,
-    "reviewsNumber": 259
+    "reviewsNumber": 261
   },
   {
     "id": 37391,
-    "updatedAt": "2025-12-01 13:29:36",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "All-Around Budapest Free Tour",
       "es": "Visita guiada gratuita por Budapest",
@@ -4592,11 +4586,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 414
+    "reviewsNumber": 419
   },
   {
     "id": 39528,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Budapest Jewish Quarter Free Tour",
       "es": "Visita gratuita al Barrio Judío de Budapest",
@@ -4720,7 +4714,7 @@
   },
   {
     "id": 41908,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Brunch & Cruise Budapest Experience",
       "es": "Brunch y crucero por Budapest",
@@ -4841,7 +4835,7 @@
   },
   {
     "id": 44007,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of Communism in Budapest",
       "es": "Free Tour del Comunismo en Budapest",
@@ -4985,7 +4979,7 @@
   },
   {
     "id": 44009,
-    "updatedAt": "2025-12-01 01:08:06",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Budapest Danube Night Cruise",
       "es": "Crucero Nocturno por el Danubio de Budapest",
@@ -5063,7 +5057,7 @@
   },
   {
     "id": 44723,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Highlights & Secrets of Budapest In Depth Free Tour",
       "es": "Lo más destacado y los secretos de Budapest en profundidad Free Tour",
@@ -5264,12 +5258,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.83,
-    "reviewsNumber": 6
+    "rating": 4.86,
+    "reviewsNumber": 7
   },
   {
     "id": 45036,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "3-hour private tour of Budapest in Spanish",
       "es": "Tour Privado por Budapest de 3 horas en español",
@@ -5419,7 +5413,7 @@
   },
   {
     "id": 45120,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "6 Hours Private Tour of Budapest in Spanish",
       "es": "Tour Privado por Budapest de 6 Horas en Español",
@@ -5794,7 +5788,7 @@
   },
   {
     "id": 47657,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Museum of Ethnography Entry Ticket in Budapest",
       "es": "Entrada al Museo Etnográfico de Budapest",
@@ -5879,7 +5873,7 @@
   },
   {
     "id": 52001,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Budapest Bike Tour",
       "es": "Budapest en bicicleta",
@@ -6013,7 +6007,7 @@
   },
   {
     "id": 52903,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 09:35:58",
     "title": {
       "en": "An Unforgettable First Day in Budapest - Free Tour",
       "es": "Un primer día inolvidable en Budapest - Visita gratuita",
@@ -6167,7 +6161,7 @@
   },
   {
     "id": 53234,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Madame Tussauds in Budapest",
       "es": "Madame Tussauds en Budapest",
@@ -6254,7 +6248,7 @@
   },
   {
     "id": 54097,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Grand Organ Concert in Budapest with Treasury Visit",
       "es": "Concierto de Gran Órgano en Budapest con visita al Tesoro",
@@ -6346,7 +6340,7 @@
   },
   {
     "id": 54195,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wine & Dine Cruise in Budapest",
       "es": "Crucero gastronómico por Budapest",
@@ -6431,7 +6425,7 @@
   },
   {
     "id": 54777,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Local Guide Perspective on Communist History",
       "es": "Perspectiva de un guía local sobre la historia comunista",
@@ -6540,7 +6534,7 @@
   },
   {
     "id": 54783,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Pest to Buda: Your Essential Tour with a Local Guide",
       "es": "De Pest a Buda: Su visita imprescindible con un guía local",
@@ -6674,7 +6668,7 @@
   },
   {
     "id": 55014,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "St. Stephen's Basilica Tickets",
       "es": "Entradas Basílica de San Esteban",
@@ -6711,7 +6705,7 @@
       "it": "https://www.freetour.com/it/budapest/visit-the-st-stephens-basilica?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 9,
+      "value": 11,
       "currency": "EUR"
     },
     "length": "1:00",
@@ -6767,7 +6761,7 @@
   },
   {
     "id": 55303,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Local guide's perspectives on Jewish history",
       "es": "Perspectivas del guía local sobre la historia judía",
@@ -6853,7 +6847,7 @@
   },
   {
     "id": 55468,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Food Heaven Budapest",
       "es": "El paraíso de la comida callejera en Budapest",
@@ -6955,7 +6949,7 @@
   },
   {
     "id": 55860,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wheels & Meals Budapest Bike Tour with a Goulash Meal",
       "es": "Wheels &amp; Meals Budapest Bike Tour con una comida Goulash",
@@ -7064,7 +7058,7 @@
   },
   {
     "id": 56198,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "St. Stephen's Basilica: Organ Concert & VIP Cupola Visit",
       "es": "Basílica de San Esteban: Concierto de órgano y visita VIP a la cúpula",
@@ -7151,7 +7145,7 @@
   },
   {
     "id": 56237,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Budapest Adventure & Wine Experience",
       "es": "Aventura y experiencia enológica en Budapest",
@@ -7244,7 +7238,7 @@
   },
   {
     "id": 56320,
-    "updatedAt": "2025-12-01 13:07:06",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Just Landed! Welcome to Budapest Free Tour",
       "es": "¡Acaba de aterrizar! Bienvenido a Budapest Free Tour",
@@ -7344,7 +7338,7 @@
   },
   {
     "id": 56947,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Summer Daytime Cruise with Coffee & Cake",
       "es": "Crucero diurno de verano con café y tarta",
@@ -7446,7 +7440,7 @@
   },
   {
     "id": 56948,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Summertime Daylight Cruise with Cocktails",
       "es": "Crucero estival diurno con cócteles",
@@ -7550,7 +7544,7 @@
   },
   {
     "id": 58993,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Walking Tour of Keszthely: The Capital City of Balaton",
       "es": "Visita a pie de Keszthely: La capital de Balaton",
@@ -7639,7 +7633,7 @@
   },
   {
     "id": 60268,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Budapest Tour: Explore the City",
       "es": "Visita gratuita a Budapest: Explore la ciudad",
@@ -7745,7 +7739,7 @@
   },
   {
     "id": 60439,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour in the Center of Budapest",
       "es": "Free Tour por el Centro de Budapest",
@@ -7824,7 +7818,7 @@
   },
   {
     "id": 64668,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Budapest Castle District Walking Tour",
       "es": "Visita a pie del barrio del Castillo de Budapest",
@@ -7976,7 +7970,7 @@
   },
   {
     "id": 68646,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "All in One in Budapest: Essential Tour",
       "es": "Todo en uno en Budapest: Visita Imprescindible",
@@ -8091,12 +8085,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.59,
-    "reviewsNumber": 54
+    "rating": 4.6,
+    "reviewsNumber": 56
   },
   {
     "id": 68647,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 13:11:02",
     "title": {
       "en": "Buda Castle Free Walking Tour with Hidden Gems",
       "es": "Free Tour a pie al Castillo de Buda con Joyas Ocultas",
@@ -8193,12 +8187,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.6,
-    "reviewsNumber": 102
+    "rating": 4.61,
+    "reviewsNumber": 104
   },
   {
     "id": 72067,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 07:54:02",
     "title": {
       "en": "Buda and Pest in a Unique Free Tour",
       "es": "Buda y Pest en un recorrido gratuito único",
@@ -8223,7 +8217,7 @@
       "it": "Salutate la mia bella Budapest,\r\n\r\nSolo piccoli gruppi per rendere il viaggio personale. Tutti sono i benvenuti. Unitevi a me per un'esperienza autentica nel cuore della mia città. Visitate entrambe le sponde del Danubio, arricchite da un po' di storia e cultura locale. Vi guiderò attraverso le principali attrazioni e condividerò ulteriori raccomandazioni.\r\n\r\nUn punto di partenza facile da trovare, una distanza piacevole da percorrere a piedi e tante opportunità per scattare foto impagabili.\r\n\r\nPunti salienti del tour:\r\n- Il Parlamento ungherese\r\n- Scarpe sulla riva del Danubio (lato Pest)\r\n- Palazzo Grasham (esterno)\r\n- Attraversamento del Danubio attraverso il Ponte delle Catene\r\n- Palazzo di Buda\r\n-  Quartiere del castello \r\n- Piazza della Trinità \r\n- Chiesa di Mattia (esterno)\r\n- Il famoso Bastione dei Pescatori (esterno)\r\n\r\nIl nostro tour termina in Piazza Batthyány, dove si può godere di una vista panoramica di Pest.\r\n\r\n\r\nIl viaggio dura dalle 2 alle 2,5 ore. Mi piace mantenere un ritmo attivo ma confortevole, che spero si adatti a tutti.\r\nNon vedo l'ora di farvi partecipare al mio tour.",
       "pt": "Diga olá à minha bela Budapeste,\r\n\r\nGrupos pequenos apenas para tornar a viagem pessoal. Todos são bem-vindos. Junte-se a mim para uma experiência autêntica no coração da minha cidade. Visite os dois lados do Danúbio, que é enriquecido com um pouco de história e cultura local. Guiar-vos-ei pelas principais atracções e partilharei recomendações adicionais.\r\n\r\nUm ponto de partida fácil de encontrar, uma distância agradável a pé e muitas oportunidades para fotografias inestimáveis.\r\n\r\nDestaques da visita guiada:\r\n- O Parlamento Húngaro\r\n- Sapatos na margem do Danúbio (lado Peste)\r\n- Palácio Grasham (exterior)\r\n- Atravessar o Danúbio através da Ponte das Correntes\r\n- Palácio de Buda\r\n-  Bairro do Castelo \r\n- Praça da Trindade \r\n- Igreja de Matias (exterior)\r\n- O famoso Bastião dos Pescadores (exterior)\r\n\r\nO nosso passeio termina na Praça Batthyány, onde pode desfrutar de uma vista panorâmica de Peste.\r\n\r\n\r\nA viagem dura entre 2 a 2,5 horas. Gosto de manter um ritmo ativo mas confortável que, espero, seja do agrado de todos.\r\nEstou ansioso por o ter na minha excursão."
     },
-    "providerTitle": "Viktoria",
+    "providerTitle": "Walk with Viki",
     "providerPhone": "+36702389916",
     "URL": "https://www.freetour.com/budapest/explore-buda-pest-in-a-unique-walking-tour?referralID=elOi919SrKG94LbT",
     "URLs": {
@@ -8322,11 +8316,11 @@
     ],
     "videoURL": null,
     "rating": 4.98,
-    "reviewsNumber": 191
+    "reviewsNumber": 194
   },
   {
     "id": 74126,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Hungary Through its Wines",
       "es": "Descubra Hungría a Través de sus Vinos",
@@ -8413,7 +8407,7 @@
   },
   {
     "id": 74188,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Uncover Budapest’s Charm on Foot Tour",
       "es": "Descubra el encanto de Budapest a pie",
@@ -8535,7 +8529,7 @@
   },
   {
     "id": 74603,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Buda & Pest in One Step Free Tour",
       "es": "Buda y Pest en un solo paso Free Tour",
@@ -8671,11 +8665,11 @@
     ],
     "videoURL": null,
     "rating": 4.95,
-    "reviewsNumber": 63
+    "reviewsNumber": 68
   },
   {
     "id": 76251,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "Journey Through Jewish History: World Wars & Holocaust",
       "es": "Viaje a través de la Historia Judía: Guerras Mundiales y Holocausto",
@@ -8785,11 +8779,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 22
+    "reviewsNumber": 23
   },
   {
     "id": 79197,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Budapest After Dark: City Lights",
       "es": "Budapest de noche: Luces de la ciudad",
@@ -8923,7 +8917,7 @@
   },
   {
     "id": 79421,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:06",
     "title": {
       "en": "Night Tour: Explore the Magic of Budapest",
       "es": "Tour Nocturno: Explora la Magia de Budapest",
@@ -9077,7 +9071,7 @@
   },
   {
     "id": 79852,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Budapest on a MonsteRoller E-Scooter",
       "es": "Descubre Budapest en una MonsteRoller E-Scooter",
@@ -9213,7 +9207,7 @@
   },
   {
     "id": 80284,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "MOL SkyDeck: Discover Budapest’s Skyline",
       "es": "MOL SkyDeck: Descubre el Horizonte de Budapest",
@@ -9309,7 +9303,7 @@
   },
   {
     "id": 82642,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Andrassy Avenue to Heroes' Square & Famous Baths",
       "es": "De la avenida Andrassy a la Plaza de los Héroes y los Baños Famosos",
@@ -9433,7 +9427,7 @@
   },
   {
     "id": 86527,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Buda Castle, Budapest",
       "es": "App Audioguía: Castillo de Buda, Budapest",
@@ -9582,6 +9576,212 @@
       {
         "id": 298219,
         "URL": "https://www.freetour.com/images/tours/86527/audio-guide-app-buda-castle-budapest-16.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 56706,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Heroes' Square & City Park Hidden Gems Free Tour_Small Group",
+      "es": "Plaza de los Héroes y Parque de la Ciudad Gemas ocultas Visita gratuita_Grupo pequeño",
+      "pt": "Praça dos Heróis e Parque da Cidade Jóias escondidas Tour gratuito_Grupo pequeno",
+      "de": "Heldenplatz &amp; Stadtpark Versteckte Juwelen Kostenlose Tour_Kleine Gruppe",
+      "fr": "Heroes' Square &amp; City Park Hidden Gems Free Tour_Small Group",
+      "it": "Piazza degli Eroi e Parco della Città Gemme nascoste Tour gratuito_Piccolo gruppo"
+    },
+    "brief": {
+      "de": "Kommen Sie mit uns und entdecken Sie Budapest mit unserer kostenlosen Stadtpark-Tour! Entdecken Sie die Geheimnisse und Wunder der Stadt, von der kleinsten Insel bis zu den künstlerischen Geheimnissen. Wir sehen uns auf dem Heldenplatz. Verpassen Sie es nicht.",
+      "en": "Join us and discover Budapest with our amazing free City Park tour! Explore its secrets and wonders, from its smallest island to its artistic mysteries. See you at Heroes' Square. Do not miss it.",
+      "es": "Únase a nosotros y descubra Budapest con nuestro increíble recorrido gratuito por el Parque de la Ciudad Explore sus secretos y maravillas, desde su isla más pequeña hasta sus misterios artísticos. Nos vemos en la Plaza de los Héroes. No se lo pierda.",
+      "fr": "Rejoignez-nous et découvrez Budapest avec notre incroyable visite gratuite du parc de la ville ! Explorez ses secrets et ses merveilles, de sa plus petite île à ses mystères artistiques. Rendez-vous à la Place des Héros. A ne pas manquer.",
+      "it": "Unitevi a noi e scoprite Budapest con il nostro fantastico tour gratuito del Parco della Città! Esplorate i suoi segreti e le sue meraviglie, dalla sua isola più piccola ai suoi misteri artistici. Ci vediamo in Piazza degli Eroi. Da non perdere.",
+      "pt": "Junte-se a nós e descubra Budapeste com a nossa fantástica visita gratuita ao Parque da Cidade! Explore os seus segredos e maravilhas, desde a sua ilha mais pequena até aos seus mistérios artísticos. Vemo-nos na Praça dos Heróis. Não perca."
+    },
+    "description": {
+      "de": "Der Heldenplatz ist der beste Ort, um die Stadt zu entdecken. Wir werden mit der Vergangenheit Ungarns beginnen, um die Gegenwart zu verstehen. Ich werde Sie zu den wichtigsten Orten führen und Sie werden Hinweise auf andere Attraktionen finden, damit Sie sich ein vollständiges Bild davon machen können, was Sie später besuchen möchten. \r\n\r\nWo ist die kleinste Insel in Budapest? Was ist der Zahnstocher und was der Junikäfer? Wo fand der größte Kunstschatzdiebstahl des Landes statt? Sind Sie interessiert? Treffen wir uns am Platz der Helden. Ich werde auf dich warten.",
+      "en": "Heroes Square is the best spot to discover the city. We’ll start with the past of Hungary to understand the present. I’m going to guide you to essential places and you’ll find hints of other attractions to get a whole picture of what you’d like to visit later. \r\n\r\nWhere is the smallest island in Budapest? What is the toothpick and the June bug? Where did the greatest art treasure theft in the country take place? Are you interested? Let’s meet at the Heroes’ Square. I’ll be waiting for you.",
+      "es": "La Plaza de los Héroes es el mejor lugar para descubrir la ciudad. Empezaremos por el pasado de Hungría para entender el presente. Te guiaré por los lugares imprescindibles y encontrarás pistas de otras atracciones para hacerte una idea completa de lo que te gustaría visitar después. \r\n\r\n¿Dónde está la isla más pequeña de Budapest? ¿Qué es el palillo y el bicho de junio? ¿Dónde tuvo lugar el mayor robo de tesoros artísticos del país? ¿Te interesa? Encontrémonos en la Plaza de los Héroes. Te estaré esperando.",
+      "fr": "La place des Héros est le meilleur endroit pour découvrir la ville. Nous commencerons par le passé de la Hongrie pour comprendre le présent. Je vais vous guider vers les endroits essentiels et vous trouverez des indications sur d'autres attractions pour vous faire une idée globale de ce que vous aimeriez visiter plus tard. \r\n\r\nOù se trouve la plus petite île de Budapest ? Qu'est-ce que le cure-dent et la punaise de juin ? Où a eu lieu le plus grand vol de trésor d'art du pays ? Cela vous intéresse ? Rendez-vous sur la place des Héros. Je vous y attendrai.",
+      "it": "Piazza degli Eroi è il punto migliore per scoprire la città. Inizieremo dal passato dell'Ungheria per capire il presente. Vi guiderò nei luoghi essenziali e troverete accenni ad altre attrazioni per avere un quadro completo di ciò che vorrete visitare in seguito. \r\n\r\nDove si trova l'isola più piccola di Budapest? Cosa sono lo stuzzicadenti e l'insetto di giugno? Dove è avvenuto il più grande furto di tesori d'arte del Paese? Siete interessati? Incontriamoci in Piazza degli Eroi. Vi aspetto.",
+      "pt": "A Praça dos Heróis é o melhor sítio para descobrir a cidade. Começaremos pelo passado da Hungria para compreender o presente. Vou guiá-lo aos locais essenciais e encontrará dicas de outras atracções para ter uma ideia geral do que gostaria de visitar mais tarde. \r\n\r\nOnde fica a ilha mais pequena de Budapeste? O que é o palito de dentes e o inseto de junho? Onde é que ocorreu o maior roubo de um tesouro de arte no país? Está interessado? Vamos encontrar-nos na Praça dos Heróis. Fico à vossa espera."
+    },
+    "providerTitle": "Budapest Trips and Tips",
+    "providerPhone": "+36209249070",
+    "URL": "https://www.freetour.com/budapest/fabulous-city-park-free-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/budapest/fabulous-city-park-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/budapest/fabulous-city-park-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/budapest/fabulous-city-park-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/budapest/fabulous-city-park-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/budapest/fabulous-city-park-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/budapest/fabulous-city-park-free-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Heroes' Square",
+      "coordinates": "47.51494280000001,19.0778626",
+      "googlePlaceId": "ChIJxzdHEG7cQUcRkTR6EIodRlA"
+    },
+    "cityId": 1776,
+    "countryId": 69,
+    "includes": [
+      "Museum of Fine Arts",
+      "Széchenyi Thermal Bath",
+      "Kunsthalle",
+      "Vajdahunyad Castle",
+      "Museum of Ethnography",
+      "House of Music, Hungary",
+      "City Park",
+      "Heroes' Square"
+    ],
+    "POIs": [
+      {
+        "id": 256,
+        "title": "Museum of Fine Arts",
+        "googlePlaceId": "ChIJ-6FvO4jbQUcROeO39pe3Sxs"
+      },
+      {
+        "id": 3473,
+        "title": "Széchenyi Thermal Bath",
+        "googlePlaceId": "ChIJd1VnBYbbQUcREiSNtgjDwMs"
+      },
+      {
+        "id": 3507,
+        "title": "Kunsthalle",
+        "googlePlaceId": "ChIJd4t1FHjcQUcR6I49YlZiUg4"
+      },
+      {
+        "id": 7919,
+        "title": "Vajdahunyad Castle",
+        "googlePlaceId": "ChIJoaLtEYfbQUcRjp9d1Wfk97w"
+      },
+      {
+        "id": 9040,
+        "title": "Museum of Ethnography",
+        "googlePlaceId": "ChIJR4DLohHcQUcRvfdxH33oMxI"
+      },
+      {
+        "id": 9467,
+        "title": "House of Music, Hungary",
+        "googlePlaceId": "ChIJS6NslUbdQUcRIDaPb1o2sAE"
+      },
+      {
+        "id": 9576,
+        "title": "City Park",
+        "googlePlaceId": "ChIJsenYr4DbQUcRl-orSA-5fXU"
+      },
+      {
+        "id": 2558,
+        "title": "Heroes' Square",
+        "googlePlaceId": "ChIJaSHx-YfbQUcRPylIurx8QTQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/56706/fabulous-city-park-free-walking-tour-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 195612,
+        "URL": "https://www.freetour.com/images/tours/56706/fabulous-city-park-free-walking-tour-01.jpg"
+      },
+      {
+        "id": 195614,
+        "URL": "https://www.freetour.com/images/tours/56706/fabulous-city-park-free-walking-tour-03.jpg"
+      },
+      {
+        "id": 195616,
+        "URL": "https://www.freetour.com/images/tours/56706/fabulous-city-park-free-walking-tour-05.jpg"
+      },
+      {
+        "id": 195618,
+        "URL": "https://www.freetour.com/images/tours/56706/fabulous-city-park-free-walking-tour-07.jpg"
+      },
+      {
+        "id": 236032,
+        "URL": "https://www.freetour.com/images/tours/56706/fabulous-city-park-free-walking-tour-06.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.97,
+    "reviewsNumber": 13
+  },
+  {
+    "id": 72452,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Budapest Danube Cruise with Audioguide",
+      "es": "Crucero por el Danubio en Budapest con Audioguía",
+      "pt": "Cruzeiro no Danúbio em Budapeste com Audioguia",
+      "de": "Budapest Donau-Kreuzfahrt mit Audioguide",
+      "fr": "Croisière sur le Danube à Budapest avec Audioguide",
+      "it": "Crociera sul Danubio a Budapest con audioguida"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf einer atemberaubenden Donaukreuzfahrt und entdecken Sie Budapest vom Wasser aus! Bewundern Sie ikonische Wahrzeichen, während Sie den Fluss entlang gleiten, und lassen Sie sich von einem Audioguide über die reiche Geschichte der Stadt informieren. Verpassen Sie nicht diese einzigartige Art, Budapest zu erleben!\r\n",
+      "en": "Join us for a breathtaking Danube cruise and discover Budapest from the water! Admire iconic landmarks as you glide along the river, with an audioguide revealing the city's rich history. Don't miss this unique way to experience Budapest!\r\n",
+      "es": "Acompáñenos en un impresionante crucero por el Danubio y descubra Budapest desde el agua Admire lugares emblemáticos mientras se desliza por el río, con una audioguía que le revelará la rica historia de la ciudad. No se pierda esta forma única de conocer Budapest",
+      "fr": "Rejoignez-nous pour une croisière sur le Danube à couper le souffle et découvrez Budapest depuis l'eau ! Admirez les monuments emblématiques en glissant le long du fleuve, avec un audioguide qui vous dévoilera la riche histoire de la ville. Ne manquez pas cette façon unique de découvrir Budapest !\r\n",
+      "it": "Unitevi a noi in una crociera mozzafiato sul Danubio e scoprite Budapest dall'acqua! Ammirate i punti di riferimento iconici mentre scivolate lungo il fiume, con un'audioguida che vi svelerà la ricca storia della città. Non perdetevi questo modo unico di vivere Budapest!\r\n",
+      "pt": "Junte-se a nós para um deslumbrante cruzeiro no Danúbio e descubra Budapeste a partir da água! Admire marcos icónicos enquanto desliza ao longo do rio, com um audioguia que revela a rica história da cidade. Não perca esta forma única de conhecer Budapeste!\r\n"
+    },
+    "description": {
+      "de": "Begleiten Sie uns auf eine unvergessliche Kreuzfahrt auf der Donau und entdecken Sie die schöne Stadt Budapest aus einer anderen Perspektive. Fahren Sie unter allen 6 Hauptbrücken von Budapest hindurch und entdecken Sie viele historisch und kulturell interessante Orte. Lehnen Sie sich zurück und entspannen Sie sich, während das Schiff auf dem schimmernden Wasser der Donau dahinfährt. Tauchen Sie ein in die Schönheiten Budapests, während Sie faszinierenden Geschichten und historischen Leckerbissen über die Wahrzeichen am Flussufer lauschen.\r\n\r\nEnthält:\r\n50 Minuten Flussfahrt\r\nAudioguide\r\nBegrüßungsgetränk (ein Glas Prosecco oder Orangensaft)\r\nBar an Bord (gegen Aufpreis)",
+      "en": "Join us on an unforgettable cruise on the Danube to discover the beautiful city of Budapest from a different perspective. Cruise under all 6 of the main bridges of Budapest and explore many historically and culturally interesting spots. Sit back and relax as the ship glides along the shimmering waters of the Danube. Immerse yourself in the beauties of Budapest as you listen to fascinating stories and historical tidbits about the landmarks that line the riverbanks.\r\n\r\nIncludes:\r\n50 minutes river cruise\r\nAudioguide\r\nWelcome drink (glass of prosecco or orange juice)\r\nBar on board (additional charge)",
+      "es": "Únase a nosotros en un inolvidable crucero por el Danubio para descubrir la hermosa ciudad de Budapest desde una perspectiva diferente. Navegue bajo los 6 puentes principales de Budapest y explore muchos lugares de interés histórico y cultural. Siéntese y relájese mientras el barco se desliza por las brillantes aguas del Danubio. Sumérjase en las bellezas de Budapest mientras escucha historias fascinantes y curiosidades históricas sobre los lugares emblemáticos que bordean las orillas del río.\r\n\r\nIncluye:\r\n50 minutos de crucero fluvial\r\nAudioguía\r\nBebida de bienvenida (copa de prosecco o zumo de naranja)\r\nBar a bordo (cargo adicional)",
+      "fr": "Rejoignez-nous pour une croisière inoubliable sur le Danube afin de découvrir la belle ville de Budapest sous un angle différent. Vous passerez sous les six ponts principaux de Budapest et explorerez de nombreux sites intéressants d'un point de vue historique et culturel. Installez-vous confortablement et détendez-vous pendant que le bateau glisse sur les eaux scintillantes du Danube. Immergez-vous dans les beautés de Budapest tout en écoutant des histoires fascinantes et des anecdotes historiques sur les sites qui bordent le fleuve.\r\n\r\nComprend :\r\n50 minutes de croisière fluviale\r\nAudioguide\r\nBoisson de bienvenue (verre de prosecco ou de jus d'orange)\r\nBar à bord (supplément)",
+      "it": "Unitevi a noi in un'indimenticabile crociera sul Danubio per scoprire la splendida città di Budapest da una prospettiva diversa. Passate sotto i 6 ponti principali di Budapest ed esplorate molti luoghi di interesse storico e culturale. Sedetevi e rilassatevi mentre la nave scivola lungo le acque scintillanti del Danubio. Immergetevi nelle bellezze di Budapest mentre ascoltate storie affascinanti e curiosità storiche sui monumenti che costeggiano il fiume.\r\n\r\nInclude:\r\n50 minuti di crociera sul fiume\r\nAudioguida\r\nDrink di benvenuto (bicchiere di prosecco o succo d'arancia)\r\nBar a bordo (a pagamento)",
+      "pt": "Junte-se a nós num cruzeiro inesquecível no Danúbio para descobrir a bela cidade de Budapeste de uma perspetiva diferente. Passeie por baixo das 6 pontes principais de Budapeste e explore muitos locais de interesse histórico e cultural. Sente-se e relaxe enquanto o navio desliza ao longo das águas cintilantes do Danúbio. Mergulhe nas belezas de Budapeste, enquanto ouve histórias fascinantes e curiosidades históricas sobre os pontos de referência que se alinham nas margens do rio.\r\n\r\nInclui:\r\n50 minutos de cruzeiro no rio\r\nAudioguia\r\nBebida de boas-vindas (copo de prosecco ou sumo de laranja)\r\nBar a bordo (custo adicional)"
+    },
+    "providerTitle": "Hungaria Koncert",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/budapest/budapest-danube-cruise-with-audioguide?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/budapest/budapest-danube-cruise-with-audioguide?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/budapest/budapest-danube-cruise-with-audioguide?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/budapest/budapest-danube-cruise-with-audioguide?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/budapest/budapest-danube-cruise-with-audioguide?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/budapest/budapest-danube-cruise-with-audioguide?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/budapest/budapest-danube-cruise-with-audioguide?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 21,
+      "currency": "EUR"
+    },
+    "length": "1:00",
+    "meetingPoint": {
+      "title": "Akadémia Port 2",
+      "coordinates": "47.501137,19.0455491",
+      "googlePlaceId": "ChIJRyXXtz_cQUcRDcrCLn6nP-E"
+    },
+    "cityId": 1776,
+    "countryId": 69,
+    "includes": null,
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/72452/-01.jpg",
+    "categoryId": 3,
+    "images": [
+      {
+        "id": 252411,
+        "URL": "https://www.freetour.com/images/tours/72452/-01.jpg"
+      },
+      {
+        "id": 252412,
+        "URL": "https://www.freetour.com/images/tours/72452/-02.jpg"
+      },
+      {
+        "id": 252413,
+        "URL": "https://www.freetour.com/images/tours/72452/-03.jpg"
+      },
+      {
+        "id": 252414,
+        "URL": "https://www.freetour.com/images/tours/72452/-04.jpg"
       }
     ],
     "videoURL": null,

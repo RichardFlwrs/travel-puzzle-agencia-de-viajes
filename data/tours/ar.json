@@ -1,7 +1,7 @@
 [
   {
     "id": 52,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Buenos Aires Free Tour Recoleta",
       "es": "Buenos Aires Free tour por la Recoleta",
@@ -231,7 +231,7 @@
   },
   {
     "id": 251,
-    "updatedAt": "2025-12-01 17:58:24",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour Recoleta and Retiro",
       "es": "Free Tour Recoleta y Retiro",
@@ -302,12 +302,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=ClBloU_tZyc",
-    "rating": 4.74,
-    "reviewsNumber": 102
+    "rating": 4.7,
+    "reviewsNumber": 103
   },
   {
     "id": 252,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free City Center Tour: Buenos Aires",
       "es": "City Center Tour Gratis: Buenos Aires",
@@ -410,11 +410,11 @@
     ],
     "videoURL": null,
     "rating": 4.84,
-    "reviewsNumber": 195
+    "reviewsNumber": 198
   },
   {
     "id": 377,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Historical Centre Cordoba Tour",
       "es": "Tour por el Centro Histórico de Córdoba",
@@ -532,12 +532,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.66,
-    "reviewsNumber": 92
+    "rating": 4.68,
+    "reviewsNumber": 97
   },
   {
     "id": 1063,
-    "updatedAt": "2025-12-01 01:00:58",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Buenos Aires Small Group City Tour",
       "es": "Visita a Buenos Aires en grupo reducido",
@@ -701,7 +701,7 @@
   },
   {
     "id": 1065,
-    "updatedAt": "2025-12-01 01:00:58",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Different Buenos Aires Tour",
       "es": "Un tour diferente por Buenos Aires",
@@ -906,7 +906,7 @@
   },
   {
     "id": 1066,
-    "updatedAt": "2025-12-01 01:00:59",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Recoleta & Palermo Bike Tour",
       "es": "Recoleta y Palermo Bike Tour",
@@ -1048,11 +1048,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=BogihB58Pkc",
     "rating": 5,
-    "reviewsNumber": 8
+    "reviewsNumber": 9
   },
   {
     "id": 1320,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Modern Cordoba Tour",
       "es": "Tour por Cordoba Moderna",
@@ -1143,12 +1143,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.65,
-    "reviewsNumber": 38
+    "rating": 4.66,
+    "reviewsNumber": 39
   },
   {
     "id": 2248,
-    "updatedAt": "2025-12-01 01:01:35",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Indigenous Peoples in Patagonia Walking Tour",
       "es": "Tour a Pie por los Pueblos Indígenas en la Patagonia",
@@ -1276,7 +1276,7 @@
   },
   {
     "id": 2322,
-    "updatedAt": "2025-12-01 01:01:36",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bariloche German Footprint Walking Tour",
       "es": "Tour a Pie sobre la Huella Alemana en Bariloche",
@@ -1412,7 +1412,7 @@
   },
   {
     "id": 2332,
-    "updatedAt": "2025-12-01 01:01:36",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bariloche Private Walking Tour",
       "es": "Tour Privado a Pie por Bariloche",
@@ -1502,7 +1502,7 @@
   },
   {
     "id": 2844,
-    "updatedAt": "2025-12-01 01:01:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tigre Delta Tour in Small Group",
       "es": "Excursión al Delta del Tigre en grupo reducido",
@@ -1598,7 +1598,7 @@
   },
   {
     "id": 2845,
-    "updatedAt": "2025-12-01 01:01:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "San Antonio de Areco Trip in Small Group",
       "es": "Viaje a San Antonio de Areco en Grupo Reducido",
@@ -1691,7 +1691,7 @@
   },
   {
     "id": 4670,
-    "updatedAt": "2025-12-01 01:02:31",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ten Secrets of Bariloche, Nahuel Huapi & Patagonia Walking Tour",
       "es": "Diez Secretos de Bariloche, Nahuel Huapi & Patagonia Tour a Pie",
@@ -1813,7 +1813,7 @@
   },
   {
     "id": 9186,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Messi Tour in Rosario",
       "es": "Tour de Messi en Rosario",
@@ -1908,7 +1908,7 @@
   },
   {
     "id": 11598,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour La Boca of Buenos Aires",
       "es": "Free Tour La Boca de Buenos Aires",
@@ -1998,11 +1998,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=1jzRnQWm0zw",
     "rating": 4.77,
-    "reviewsNumber": 77
+    "reviewsNumber": 78
   },
   {
     "id": 17862,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Buenos Aires: San Telmo Market & Neighborhood",
       "es": "Tour Gratis Buenos Aires: Mercado y Barrio de San Telmo",
@@ -2107,12 +2107,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.88,
-    "reviewsNumber": 40
+    "rating": 4.89,
+    "reviewsNumber": 42
   },
   {
     "id": 33896,
-    "updatedAt": "2025-12-01 01:06:43",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "La Boca Walking Tour",
       "es": "Recorrido a Pie por La Boca",
@@ -2203,7 +2203,7 @@
   },
   {
     "id": 33897,
-    "updatedAt": "2025-12-01 01:06:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "San Telmo Market and Neighborhood Tour",
       "es": "Tour por el Mercado y el Barrio de San Telmo",
@@ -2304,7 +2304,7 @@
   },
   {
     "id": 44146,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Masterpieces of the National Museum of Fine Arts",
       "es": "Obras Maestras del Museo Nacional de Bellas Artes",
@@ -2404,7 +2404,7 @@
   },
   {
     "id": 45888,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Buenos Aires and its Avenida de Mayo",
       "es": "Buenos Aires y su Avenida de Mayo",
@@ -2784,7 +2784,7 @@
   },
   {
     "id": 51047,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Western Capital Nature Walk",
       "es": "Caminata Sobre La Naturaleza del Oeste Capitalino",
@@ -2865,7 +2865,7 @@
   },
   {
     "id": 51207,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Checking out Museums & Restaurants",
       "es": "Museos y restaurantes",
@@ -2988,7 +2988,7 @@
   },
   {
     "id": 51371,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Cordoba: Historic Center",
       "es": "Tour de Córdoba: Centro Histórico",
@@ -3076,7 +3076,7 @@
   },
   {
     "id": 52706,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip in Esquel & Trevelin Patagonia Argentina",
       "es": "Excursión de un día en Esquel y Trevelin Patagonia Argentina",
@@ -3169,7 +3169,7 @@
   },
   {
     "id": 53451,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Retiro, Microcentro and Puerto Madero Tour of Buenos Aires",
       "es": "Retiro, Microcentro y Puerto Madero Tour de Buenos Aires",
@@ -3335,7 +3335,7 @@
   },
   {
     "id": 56507,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Recoleta Tour, Neighborhood with Parisian Style",
       "es": "Recoleta Tour, Barrio con Estilo Parisino",
@@ -3493,7 +3493,7 @@
   },
   {
     "id": 56780,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Buenos Aires Free Tour: The Europe of America",
       "es": "Buenos Aires Free Tour: La Europa de América",
@@ -3723,7 +3723,7 @@
   },
   {
     "id": 58026,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The B Side of Buenos Aires",
       "es": "El lado B de Buenos Aires",
@@ -3859,7 +3859,7 @@
   },
   {
     "id": 58285,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour: Salta de Ensueño",
       "es": "Free Tour: Salta de Ensueño",
@@ -3962,12 +3962,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 3.51,
-    "reviewsNumber": 7
+    "rating": 3.7,
+    "reviewsNumber": 8
   },
   {
     "id": 58316,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking around Cordoba Walking Tour: Nueva Cordoba Neighborhood",
       "es": "Andar por Córdoba Walking Tour: Barrio Nueva Córdoba",
@@ -4049,7 +4049,7 @@
   },
   {
     "id": 59638,
-    "updatedAt": "2025-12-01 12:34:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enjoy the Mountain with Friends",
       "es": "Disfruta la Montaña con Amigos",
@@ -4215,7 +4215,7 @@
   },
   {
     "id": 59888,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Comic Tour in San Telmo: Paseo de la Historieta (Comic Strip Walk)",
       "es": "Comic Tour en San Telmo: Paseo de la Historieta",
@@ -4291,7 +4291,7 @@
   },
   {
     "id": 60082,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour in Mendoza",
       "es": "Free Tour en Mendoza",
@@ -4408,12 +4408,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.78,
-    "reviewsNumber": 9
+    "rating": 4.8,
+    "reviewsNumber": 10
   },
   {
     "id": 60461,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Concordia: The Paths of \"The Little Prince\"",
       "es": "Free Tour Concordia: Los Caminos de \"El Principito\"",
@@ -4499,7 +4499,7 @@
   },
   {
     "id": 60806,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Essential Tour in Buenos Aires for First-Time Visitors",
       "es": "Free Tour de Buenos Aires Imprescindible",
@@ -4648,12 +4648,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.92,
-    "reviewsNumber": 69
+    "rating": 4.93,
+    "reviewsNumber": 74
   },
   {
     "id": 60898,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "The Heart of Buenos Aires Free Tour",
       "es": "El corazón de Buenos Aires Free Tour",
@@ -4862,19 +4862,19 @@
       }
     ],
     "videoURL": "https://youtu.be/n0347pNm33s",
-    "rating": 4.23,
+    "rating": 4.03,
     "reviewsNumber": 15
   },
   {
     "id": 62076,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
-      "en": "Plaza de Mayo and Puerto Madero: from History to Modernity",
-      "es": "Plaza de Mayo y Puerto Madero: de la Historia a la Modernidad",
-      "pt": "Plaza de Mayo e Puerto Madero: da história à modernidade",
-      "de": "Plaza de Mayo und Puerto Madero: von der Geschichte zur Modernität",
-      "fr": "Plaza de Mayo et Puerto Madero : de l'histoire à la modernité",
-      "it": "Plaza de Mayo e Puerto Madero: dalla storia alla modernità"
+      "en": "Free Night Tour of Buenos Aires: Illuminated Historic District",
+      "es": "Free Tour Nocturno por Buenos Aires: Casco Histórico iluminado",
+      "pt": "Tour noturno gratuito de Buenos Aires: Centro Histórico Iluminado",
+      "de": "Kostenlose Nachttour durch Buenos Aires: Beleuchtetes historisches Zentrum",
+      "fr": "Visite nocturne gratuite de Buenos Aires : Centre historique illuminé",
+      "it": "Tour notturno gratuito di Buenos Aires: centro storico illuminato"
     },
     "brief": {
       "de": "Nehmen Sie an einer Tour durch Puerto Madero und Casco Historico teil, wo sich Wahrheiten, Legenden und Fake News vermischen. Entdecken Sie das \"Europa Amerikas\", während wir die Geheimnisse lüften, die die \"Stadt des Zorns\" geschmiedet haben",
@@ -4885,12 +4885,12 @@
       "pt": "Participe numa visita guiada a Puerto Madero e ao Casco Histórico, onde se misturam verdades, lendas e notícias falsas. Descubra a \"Europa da América\" enquanto revelamos os segredos que forjaram \"a cidade da fúria\""
     },
     "description": {
-      "de": "Erleben Sie den Wandel von Buenos Aires auf einer einzigartigen Tour: von der Kolonialzeit auf der Plaza de Mayo, wo die argentinische Geschichte ihren Anfang nahm, bis hin zur architektonischen Avantgarde von Puerto Madero, dem Symbol der Moderne. Entdecken Sie Legenden, Geheimnisse, Kuriositäten und Kontraste, die diese Stadt zur Königin des Río de la Plata machen.",
-      "en": "Experience the transformation of Buenos Aires in a unique tour: from the colonial days in Plaza de Mayo, where Argentine history was born, to the architectural avant-garde of Puerto Madero, symbol of modernity. Discover legends, secrets, curiosities, and contrasts that make this city the Queen of the Plata.",
-      "es": "Vive la transformación de Buenos Aires en un recorrido único: desde los días coloniales en la Plaza de Mayo, donde nació la historia argentina, hasta la vanguardia arquitectónica de Puerto Madero, símbolo de modernidad. Descubre leyendas, secretos, curiosidades y contrastes que hacen de esta ciudad la Reina del Plata.",
-      "fr": "Découvrez la transformation de Buenos Aires au cours d'une visite unique : de l'époque coloniale sur la Plaza de Mayo, où est née l'histoire argentine, à l'avant-garde architecturale de Puerto Madero, symbole de la modernité. Découvrez les légendes, les secrets, les curiosités et les contrastes qui font de cette ville la Reine de la Plata.",
-      "it": "Vivete la trasformazione di Buenos Aires in un tour unico: dai tempi coloniali di Plaza de Mayo, dove è nata la storia argentina, all'avanguardia architettonica di Puerto Madero, simbolo della modernità. Scoprite leggende, segreti, curiosità e contrasti che fanno di questa città la Regina della Plata.",
-      "pt": "Experimente a transformação de Buenos Aires num passeio único: desde os tempos coloniais na Plaza de Mayo, onde nasceu a história argentina, até à vanguarda arquitetónica de Puerto Madero, símbolo da modernidade. Descubra lendas, segredos, curiosidades e contrastes que fazem desta cidade a Rainha do Rio da Prata."
+      "de": "können Sie sich vorstellen, das historische Zentrum von Buenos Aires bei Nacht zu besichtigen? Zur verabredeten Zeit treffen wir uns am U-Bahn-Ausgang der Plaza de Mayo, einem idealen Ort, um diese nächtliche Stadtbesichtigung zu beginnen. Dort angekommen, werden wir entdecken, wie die Beleuchtung das Aussehen der bedeutendsten Gebäude völlig verändert. Die Casa Rosada, die Metropolitan-Kathedrale, das Cabildo und die Banco Nación werden vor uns neue Texturen und Schatten enthüllen, die nur nachts zu sehen sind.\r\n\r\nAnschließend gehen wir zur Kirche San Ignacio, deren kolonialer Barockstil und die Eleganz der Zwillingstürme durch die Beleuchtung noch besser zur Geltung kommen. Weiter geht es zur Kirche San Francisco, deren geschnitztes Äußeres in der Dunkelheit einen ganz anderen Charakter annimmt. Weiter geht es zur Casa de la Cultura, dem ehemaligen Gebäude der Zeitung La Prensa, das durch sein historisches beleuchtetes Vordach auffällt. Von dort aus geht es weiter über die Avenida de Mayo zum imposanten Palacio de Correos.\r\n\r\nZum Schluss geht es nach Puerto Madero: Die in weißen Tönen leuchtende Frauenbrücke und der beleuchtete Dique (Staudamm) sind die perfekte Postkarte zum Abschluss dieser zweistündigen Tour.",
+      "en": "can you imagine touring the historic center of Buenos Aires at night? At the appointed time we will meet at the subway exit in Plaza de Mayo, an ideal place to start this night tour of the city. Once we are all there, we will discover how the lighting completely transforms the appearance of the most emblematic buildings. In front of us, the Casa Rosada, the Metropolitan Cathedral, the Cabildo and the Banco Nación will reveal new textures and shadows that only appear at night.\r\n\r\nThen we will walk to the Church of San Ignacio, where the lights enhance its colonial baroque style and the elegance of its twin towers. We will continue to the Church of San Francisco, whose carved exterior takes on a totally different character in the dark. Further on we will arrive at the Casa de la Cultura, former building of the newspaper La Prensa, which stands out for its historic illuminated canopy. From there we will continue along Avenida de Mayo to the imposing Palacio de Correos.\r\n\r\nFinally, we will go to Puerto Madero: the Women's Bridge shining in white tones and the illuminated Dam will be the perfect postcard to close this tour of approximately two hours.",
+      "es": "¿Se imaginan recorrer el centro histórico de Buenos Aires de noche? A la hora indicada nos encontraremos en la salida del subte en Plaza de Mayo, un punto ideal para comenzar este recorrido nocturno por la ciudad. Cuando estemos todos, descubriremos cómo la iluminación transforma por completo la apariencia de los edificios más emblemáticos. Frente a nosotros, la Casa Rosada, la Catedral Metropolitana, el Cabildo y el Banco Nación revelarán nuevas texturas y sombras que solo aparecen de noche.\r\n\r\nLuego caminaremos hacia la Iglesia de San Ignacio, donde las luces realzan su estilo barroco colonial y la elegancia de sus torres gemelas. Continuaremos hacia la Iglesia de San Francisco, cuyo exterior tallado adquiere un carácter totalmente distinto en la oscuridad. Más adelante llegaremos a la Casa de la Cultura, antiguo edificio del diario La Prensa, que destaca por su histórica marquesina iluminada. Desde allí seguiremos por la Avenida de Mayo hasta el imponente Palacio de Correos.\r\n\r\nPara finalizar, nos dirigiremos a Puerto Madero: el Puente de la Mujer brillando en tonos blancos y el Dique iluminado serán la postal perfecta para cerrar este recorrido de aproximadamente dos horas.",
+      "fr": "pouvez-vous imaginer une visite nocturne du centre historique de Buenos Aires ? À l'heure prévue, nous nous retrouverons à la sortie du métro de la Plaza de Mayo, un endroit idéal pour commencer cette visite nocturne de la ville. Une fois sur place, nous découvrirons comment l'éclairage transforme complètement l'aspect des bâtiments les plus emblématiques. Devant nous, la Casa Rosada, la cathédrale métropolitaine, le Cabildo et le Banco Nación révèleront de nouvelles textures et des ombres qui n'apparaissent que la nuit.\r\n\r\nNous nous dirigerons ensuite vers l'église San Ignacio, où les lumières mettent en valeur son style baroque colonial et l'élégance de ses tours jumelles. Nous continuerons jusqu'à l'église de San Francisco, dont l'extérieur sculpté prend un caractère totalement différent dans l'obscurité. Plus loin, nous arriverons à la Casa de la Cultura, l'ancien bâtiment du journal La Prensa, qui se distingue par son auvent historique illuminé. De là, nous continuerons le long de l'Avenida de Mayo jusqu'à l'imposant Palacio de Correos.\r\n\r\nEnfin, nous nous rendrons à Puerto Madero : le Puente de la Mujer (pont de la femme) aux tons blancs et le Dique (barrage) illuminé constitueront la carte postale idéale pour clore cette visite de deux heures.",
+      "it": "riuscite a immaginare di visitare il centro storico di Buenos Aires di notte? All'ora stabilita ci incontreremo all'uscita della metropolitana di Plaza de Mayo, un luogo ideale per iniziare questa visita notturna della città. Una volta arrivati, scopriremo come l'illuminazione trasforma completamente l'aspetto degli edifici più emblematici. Davanti a noi, la Casa Rosada, la Cattedrale Metropolitana, il Cabildo e il Banco Nación riveleranno nuove trame e ombre che appaiono solo di notte.\r\n\r\nPoi cammineremo fino alla Chiesa di San Ignacio, dove le luci esaltano il suo stile barocco coloniale e l'eleganza delle sue torri gemelle. Proseguiremo verso la Chiesa di San Francisco, il cui esterno scolpito assume un carattere totalmente diverso al buio. Più avanti arriveremo alla Casa de la Cultura, l'ex edificio del quotidiano La Prensa, che si distingue per la sua storica tettoia illuminata. Da lì proseguiremo lungo Avenida de Mayo fino all'imponente Palacio de Correos.\r\n\r\nInfine, andremo a Puerto Madero: il Puente de la Mujer (Ponte delle Donne) che risplende nei toni del bianco e il Dique (Diga) illuminato saranno la cartolina perfetta per chiudere questo tour di due ore.",
+      "pt": "já imaginou percorrer o centro histórico de Buenos Aires à noite? À hora marcada, encontrar-nos-emos na saída do metro da Plaza de Mayo, um lugar ideal para começar este passeio noturno pela cidade. Quando estivermos todos lá, descobriremos como a iluminação transforma completamente a aparência dos edifícios mais emblemáticos. À nossa frente, a Casa Rosada, a Catedral Metropolitana, o Cabildo e o Banco Nación revelarão novas texturas e sombras que só aparecem à noite.\r\n\r\nDepois caminharemos até à Igreja de San Ignacio, onde as luzes realçam o seu estilo barroco colonial e a elegância das suas torres gémeas. Continuaremos até à Igreja de São Francisco, cujo exterior esculpido adquire um carácter totalmente diferente na escuridão. Mais adiante, chegaremos à Casa de la Cultura, antigo edifício do jornal La Prensa, que se destaca pela sua histórica cobertura iluminada. A partir daí, continuaremos pela Avenida de Mayo até ao imponente Palácio de Correos.\r\n\r\nPor fim, iremos até Puerto Madero: a Puente de la Mujer (Ponte da Mulher) brilhando em tons brancos e o Dique iluminado serão o cartão postal perfeito para encerrar este passeio de duas horas."
     },
     "providerTitle": "Pablo Kaswalder",
     "providerPhone": "+541150203876",
@@ -4943,64 +4943,64 @@
         "googlePlaceId": "ChIJYSkWn9Y0o5URXuJM6JOAdms"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/62076/puerto-madero-casco-historico-historias-misterios-01.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-12.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 216220,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-casco-historico-historias-misterios-01.jpg"
+        "id": 216195,
+        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-12.jpg"
+      },
+      {
+        "id": 300903,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-06.jpg"
+      },
+      {
+        "id": 300899,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-02.jpg"
+      },
+      {
+        "id": 300898,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-01.jpg"
+      },
+      {
+        "id": 300900,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-03.jpg"
+      },
+      {
+        "id": 300901,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-04.jpg"
+      },
+      {
+        "id": 300902,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-05.jpg"
+      },
+      {
+        "id": 300907,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-10.jpg"
       },
       {
         "id": 216193,
         "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-10.jpg"
       },
       {
-        "id": 216186,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-03.jpg"
+        "id": 300904,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-07.jpg"
       },
       {
-        "id": 216184,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-01.jpg"
+        "id": 300905,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-08.jpg"
       },
       {
-        "id": 234302,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-casco-historico-historias-misterios-02.jpg"
-      },
-      {
-        "id": 216185,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-02.jpg"
-      },
-      {
-        "id": 216192,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-09.jpg"
-      },
-      {
-        "id": 216187,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-04.jpg"
-      },
-      {
-        "id": 216188,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-05.jpg"
-      },
-      {
-        "id": 216189,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-06.jpg"
-      },
-      {
-        "id": 216190,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-07.jpg"
-      },
-      {
-        "id": 216194,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-11.jpg"
-      },
-      {
-        "id": 216195,
-        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-y-casco-historico-verdades-leyendas-y-fake-news-12.jpg"
+        "id": 300906,
+        "URL": "https://www.freetour.com/images/tours/62076/plaza-de-mayo-puerto-madero-historia-modernidad-09.jpg"
       },
       {
         "id": 277624,
         "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-casco-historico-historias-misterios-03.jpg"
+      },
+      {
+        "id": 234302,
+        "URL": "https://www.freetour.com/images/tours/62076/puerto-madero-casco-historico-historias-misterios-02.jpg"
       }
     ],
     "videoURL": null,
@@ -5009,7 +5009,7 @@
   },
   {
     "id": 62089,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "La Boca de Buenos Aires Tour: Colors, Tango and History",
       "es": "Tour La Boca de Buenos Aires: Colores, Tango e Historia",
@@ -5125,7 +5125,7 @@
   },
   {
     "id": 62445,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "¨Recoleta Free Tour¨ In the Footsteps of the Aristocracy",
       "es": "¨Recoleta Free Tour¨ Tras las Huellas de la Aristocracia",
@@ -5387,7 +5387,7 @@
   },
   {
     "id": 63031,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Puerto Madero: From Failed Port to Tourist Hotspot",
       "es": "Puerto Madero: De puerto fallido a centro turístico",
@@ -5580,12 +5580,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=n0347pNm33s&ab",
-    "rating": 4.97,
-    "reviewsNumber": 37
+    "rating": 4.95,
+    "reviewsNumber": 38
   },
   {
     "id": 63466,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Recoleta Cemetery of Buenos Aires Free Tour",
       "es": "Cementerio de la Recoleta de Buenos Aires Visita gratuita",
@@ -5712,7 +5712,7 @@
   },
   {
     "id": 63540,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "San Telmo Essential Free Tour: Tango, Market & Museums",
       "es": "San Telmo Free Tour Esencial: Tango, Mercado y Museos",
@@ -5802,7 +5802,7 @@
   },
   {
     "id": 63691,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "San Carlos City Tour",
       "es": "City Tour por San Carlos",
@@ -5899,7 +5899,7 @@
   },
   {
     "id": 64015,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Boca Tour: Tango, Football, Art and Immigration",
       "es": "Boca Tour: Tango, fútbol, arte e inmigración",
@@ -6037,7 +6037,7 @@
   },
   {
     "id": 64016,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Buenos Aires: Colonial Times and Revolution",
       "es": "Buenos Aires: Colonia y Revolución",
@@ -6151,7 +6151,7 @@
   },
   {
     "id": 64021,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Recoleta: Landmarks and Elegance in Buenos Aires",
       "es": "Recoleta: Hitos y elegancia en Buenos Aires",
@@ -6283,7 +6283,7 @@
   },
   {
     "id": 64247,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour to Tafi Valley",
       "es": "Free Tour al Valle de Tafi",
@@ -6369,7 +6369,7 @@
   },
   {
     "id": 64283,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 12:36:01",
     "title": {
       "en": "Buenos Aires Essence Tour",
       "es": "Tour de la Esencia de Buenos Aires",
@@ -6389,7 +6389,7 @@
     "description": {
       "de": "Ein Besuch für alle, die das Argentinien von gestern, heute und morgen kennen lernen wollen.\r\n\r\nWir beginnen an der Plaza Congreso, wo wir über die aktuelle politische und wirtschaftliche Lage sprechen werden.\r\n\r\n- Wir gehen die Avenida de Mayo entlang, die Hauptstraße mit europäischem Flair.\r\n- Wir werden auf der breitesten Straße der Welt spazieren gehen und über einige weltberühmte Persönlichkeiten Argentiniens sprechen.\r\n- Unser letzter Halt wird an der Plaza de Mayo sein, einem Ort der Proteste und Demonstrationen, an dem sich das Cabildo, die Casa Rosada und die Kathedrale befinden.\r\n\r\nWir werden über eine Bewegung sprechen, die während der Diktatur von 1978 entstanden ist: die Mütter und Großmütter der Plaza de Mayo. Am Ende der Tour werden Sie das Beste aus unserer Geschichte, Kultur und Gastronomie entdecken, mit Empfehlungen, die Sie in Buenos Aires nicht verpassen sollten.\r\n\r\nMeine Gruppen sind klein (maximal 12 Personen), um eine bessere Interaktion zwischen allen zu ermöglichen.\r\nich warte auf Sie!",
       "en": "A visit for those who want to know the Argentina of yesterday, today and tomorrow.\r\n\r\nWe will start at Plaza Congreso where we will talk about our political and economic situation these days.\r\n\r\n- We will walk along Avenida de Mayo, the main street with a European flair.\r\n- We will walk along the widest avenue in the world and talk about some of Argentina's world famous personalities.\r\n- Our last stop will be at Plaza de Mayo, a place of protests and demonstrations, where the Cabildo, the Casa Rosada and the Cathedral are located.\r\n\r\nWe will talk about a movement that emerged during the dictatorship of 1978: the mothers and grandmothers of Plaza de Mayo. At the end of the tour you will discover the best of our history, culture, gastronomy with recommendations that you cannot miss in Buenos Aires.\r\n\r\nMy groups are small (maximum 12) for a better interaction between everyone.\r\ni'll be waiting for you!",
-      "es": "Una visita para quienes quieran conocer la Argentina de ayer, hoy y mañana.\r\n\r\nComenzaremos en Plaza Congreso donde hablaremos de nuestra situación política y económica de estos días.\r\n\r\n- Recorreremos Avenida de Mayo, la calle principal con aire europeo.\r\n- Recorreremos la avenida más ancha del mundo y hablaremos de algunas de las personalidades de Argentina mundialmente conocidas.\r\n- Nuestra última parada será en Plaza de Mayo, lugar de protestas y manifestaciones, donde se encuentra el Cabildo, la Casa Rosada y la Catedral.\r\n\r\nHablaremos de un movimiento surgido durante la dictadura de 1978: las madres y abuelas de Plaza de Mayo. Al final del recorrido descubrirás lo mejor de nuestra historia, cultura, gastronomía con recomendaciones que no te puedes perder en Buenos Aires.\r\n\r\nMis grupos son reducidos (máximo 12) para una mejor interacción entre todos.\r\n¡Te espero!",
+      "es": "Una visita para quienes quieran conocer la Argentina de ayer, hoy y mañana.\r\n\r\nComenzaremos en Plaza Congreso donde hablaremos de nuestra situación política y económica de estos días.\r\n\r\n- Recorreremos la Avenida de Mayo, la calle principal con aire europeo.\r\n- Recorreremos la avenida más ancha del mundo y hablaremos de algunas de las personalidades de Argentina mundialmente conocidas.\r\n- Nuestra última parada será en Plaza de Mayo, lugar de protestas y manifestaciones, donde se encuentra el Cabildo, la Casa Rosada y la Catedral.\r\n\r\nHablaremos de un movimiento surgido durante la dictadura de 1978: las madres y abuelas de Plaza de Mayo. Al final del recorrido descubrirás lo mejor de nuestra historia, cultura, gastronomía con recomendaciones que no te puedes perder en Buenos Aires.\r\n\r\nMis grupos son reducidos (máximo 12) para una mejor interacción entre todos.\r\n¡Te espero!",
       "fr": "Une visite pour ceux qui veulent connaître l'Argentine d'hier, d'aujourd'hui et de demain.\r\n\r\nNous commencerons par la Plaza Congreso où nous parlerons de notre situation politique et économique actuelle.\r\n\r\n- Nous nous promènerons le long de l'Avenida de Mayo, la rue principale avec un flair européen.\r\n- Nous marcherons le long de l'avenue la plus large du monde et nous parlerons de quelques-unes des personnalités argentines les plus célèbres.\r\n- Notre dernière étape sera la Plaza de Mayo, lieu de protestations et de manifestations, où se trouvent le Cabildo, la Casa Rosada et la cathédrale.\r\n\r\nNous parlerons d'un mouvement qui a vu le jour pendant la dictature de 1978 : les Mères et Grand-mères de la Plaza de Mayo. À la fin de la visite, vous découvrirez le meilleur de notre histoire, de notre culture et de notre gastronomie, avec des recommandations que vous ne pouvez pas manquer à Buenos Aires.\r\n\r\nMes groupes sont petits (maximum 12 personnes) pour une meilleure interaction entre tous.\r\nje vous attends !",
       "it": "Una visita per chi vuole conoscere l'Argentina di ieri, oggi e domani.\r\n\r\nInizieremo da Plaza Congreso dove parleremo della situazione politica ed economica di questi giorni.\r\n\r\n- Percorreremo l'Avenida de Mayo, la strada principale dal sapore europeo.\r\n- Cammineremo lungo il viale più largo del mondo e parleremo di alcuni personaggi argentini famosi in tutto il mondo.\r\n- L'ultima tappa sarà Plaza de Mayo, luogo di proteste e manifestazioni, dove si trovano il Cabildo, la Casa Rosada e la Cattedrale.\r\n\r\nParleremo di un movimento sorto durante la dittatura del 1978: le Madri e le Nonne di Plaza de Mayo. Alla fine del tour scoprirete il meglio della nostra storia, della nostra cultura e della nostra gastronomia, con consigli da non perdere a Buenos Aires.\r\n\r\nI miei gruppi sono piccoli (massimo 12 persone) per una migliore interazione tra tutti.\r\nvi aspetto!",
       "pt": "Uma visita para aqueles que querem conhecer a Argentina de ontem, de hoje e de amanhã.\r\n\r\nComeçaremos na Plaza Congreso, onde falaremos sobre a situação política e económica dos nossos dias.\r\n\r\n- Caminharemos pela Avenida de Mayo, a rua principal com um toque europeu.\r\n- Percorreremos a avenida mais larga do mundo e falaremos sobre algumas das personalidades mais famosas da Argentina.\r\n- A nossa última paragem será na Plaza de Mayo, um local de protestos e manifestações, onde se encontram o Cabildo, a Casa Rosada e a Catedral.\r\n\r\nFalaremos sobre um movimento que surgiu durante a ditadura de 1978: as Mães e Avós da Plaza de Mayo. No final do passeio descobrirá o melhor da nossa história, cultura e gastronomia com recomendações que não pode perder em Buenos Aires.\r\n\r\nOs meus grupos são pequenos (máximo 12 pessoas) para uma melhor interação entre todos.\r\nestou à vossa espera!"
@@ -6411,8 +6411,8 @@
     },
     "length": "2:00",
     "meetingPoint": {
-      "title": "Whoopies, Avenida rivadavia 1697",
-      "coordinates": "-34.608991480264606,-58.39049130678177",
+      "title": "Pain du Jour store; Avenida Rivadavai 1699",
+      "coordinates": "-34.6091408,-58.39065429999999",
       "googlePlaceId": "ChIJh8S3BsPKvJURhv7ebUj0U6g"
     },
     "cityId": 29,
@@ -6491,7 +6491,7 @@
   },
   {
     "id": 65434,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Belgrano: Parks, Upper Class, Embassies and Chinatown",
       "es": "Belgrano: Parques, Clase Alta, Embajadas y Barrio Chino",
@@ -6604,7 +6604,7 @@
   },
   {
     "id": 65609,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Savor Mate and Facturas in the Park",
       "es": "Saborea el Mate y Facturas en el Parque",
@@ -6686,7 +6686,7 @@
   },
   {
     "id": 66451,
-    "updatedAt": "2025-12-01 19:39:02",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: Conspiracies of Argentine History in Buenos Aires",
       "es": "Free Tour: Conspiraciones de la Historia Argentina en Buenos Aires",
@@ -6792,11 +6792,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 50
+    "reviewsNumber": 53
   },
   {
     "id": 66793,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Essential Free Tour: San Telmo, Plaza de Mayo & Puerto Madero",
       "es": "Free Tour Esencial: San Telmo, Plaza de Mayo y Puerto Madero",
@@ -6891,12 +6891,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.85,
-    "reviewsNumber": 4
+    "rating": 4.88,
+    "reviewsNumber": 5
   },
   {
     "id": 67622,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "City Tour Around Córdoba",
       "es": "Recorrido por la Ciudad de Córdoba",
@@ -6980,7 +6980,7 @@
   },
   {
     "id": 67679,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Abasto, Cradle of Tango and Buenos Aires Culture Buenos Aires Free Tour",
       "es": "Abasto, Cuna del Tango y la Cultura Porteña Buenos Aires Free Tour",
@@ -7074,7 +7074,7 @@
   },
   {
     "id": 68623,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour through the Mystic Mendoza",
       "es": "Free Tour por la Mística Mendoza",
@@ -7170,7 +7170,7 @@
     ],
     "videoURL": null,
     "rating": 4.85,
-    "reviewsNumber": 12
+    "reviewsNumber": 13
   },
   {
     "id": 68811,
@@ -7285,7 +7285,7 @@
   },
   {
     "id": 69035,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Buenos Aires Social and Political Tour",
       "es": "Buenos Aires Tour Social y Político",
@@ -7373,7 +7373,7 @@
   },
   {
     "id": 69081,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Mysteries and Crimes in Recoleta",
       "es": "Tour Guiado por los Misterios y Crímenes en Recoleta",
@@ -7473,7 +7473,7 @@
   },
   {
     "id": 69196,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cerro El Pelao in Tafí del Valle",
       "es": "Descubre el Cerro El Pelao en Tafí del Valle",
@@ -7559,7 +7559,7 @@
   },
   {
     "id": 69692,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Trail to the Bandurrias Viewpoint of San Martin de Los Andes",
       "es": "Sendero al Mirador Bandurrias de San Martin de Los Andes",
@@ -7691,7 +7691,7 @@
   },
   {
     "id": 70199,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: The Hidden History of the Former Buenos Aires Zoo",
       "es": "Free tour: La Historia Oculta del Ex Zoológico de Buenos Aires",
@@ -7809,7 +7809,7 @@
   },
   {
     "id": 70515,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Experience La Boca! Between Art, Football and Tradition",
       "es": "¡Vive La Boca! Entre Arte, Fútbol y Tradición",
@@ -7950,12 +7950,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.83,
-    "reviewsNumber": 32
+    "rating": 4.84,
+    "reviewsNumber": 33
   },
   {
     "id": 72509,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Explore the History of Belgrano",
       "es": "Explora la Historia de Belgrano",
@@ -8059,7 +8059,7 @@
   },
   {
     "id": 73239,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Buenos Aires: Where Your Identity Was Born",
       "es": "Buenos Aires: Donde Nació su Identidad",
@@ -8223,7 +8223,7 @@
   },
   {
     "id": 74530,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Authentic Retreat: Among Palaces and Secret Corners",
       "es": "Retiro Auténtico: Entre Palacios y Rincones Secretos",
@@ -8393,7 +8393,7 @@
   },
   {
     "id": 75180,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Photo Tour in Buenos Aires",
       "es": "Recorrido Fotográfico a pie por Buenos Aires",
@@ -8569,7 +8569,7 @@
   },
   {
     "id": 75508,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore La Boca with your Personal Photographer",
       "es": "Explora La Boca con tu Fotógrafo Personal",
@@ -8719,7 +8719,7 @@
   },
   {
     "id": 76370,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 13:10:07",
     "title": {
       "en": "Palermo’s Parks: Where History and Nature Come Together",
       "es": "Los Parques de Palermo: Donde la Historia y la Naturaleza se Unen",
@@ -8865,7 +8865,7 @@
   },
   {
     "id": 76488,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Historic Prisoner's Trail in Ushuaia",
       "es": "Camino Histórico de los Presos en Ushuaia",
@@ -8989,7 +8989,7 @@
   },
   {
     "id": 76936,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Best Brunch Spots Around Plaza Italia Mendoza Free Tour",
       "es": "Los mejores lugares para tomar el brunch en los alrededores de Plaza Italia Mendoza Free Tour",
@@ -9061,7 +9061,7 @@
   },
   {
     "id": 76987,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Recoleta: Treasures of History, Art and Architecture",
       "es": "Recoleta: Tesoros de Historia, Arte y Arquitectura",
@@ -9213,11 +9213,11 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 25
+    "reviewsNumber": 30
   },
   {
     "id": 77043,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "City Tour Through San Telmo",
       "es": "City Tour por San Telmo",
@@ -9305,7 +9305,7 @@
   },
   {
     "id": 77112,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 13:08:04",
     "title": {
       "en": "Discovering the Secrets of Belgrano",
       "es": "Descubriendo los Secretos de Belgrano",
@@ -9429,7 +9429,7 @@
   },
   {
     "id": 77125,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour Costanera Sur: Natural Oasis in Buenos Aires",
       "es": "Free Tour Costanera Sur: Oasis Natural en Buenos Aires",
@@ -9510,7 +9510,7 @@
   },
   {
     "id": 77175,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Andean Asado: Argentine Flavor in the Mountains",
       "es": "Asado Andino: Sabor Argentino en la Montaña",
@@ -9598,7 +9598,7 @@
   },
   {
     "id": 77180,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Flavors of Mendoza: Fish Your Own Food!",
       "es": "Sabores de Mendoza: ¡Pesca Tu Propia Comida!",
@@ -9682,7 +9682,7 @@
   },
   {
     "id": 77262,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Gonnet Bell: A Walk through History",
       "es": "Descubre Gonnet Bell: Un Paseo por la Historia",
@@ -9766,7 +9766,7 @@
   },
   {
     "id": 79096,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of the Recoleta Cemetery in Buenos Aires",
       "es": "Free Tour por el Cementerio de la Recoleta de Buenos Aires",
@@ -9874,7 +9874,7 @@
   },
   {
     "id": 79281,
-    "updatedAt": "2025-12-01 23:18:01",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "La Boca: Land of Passion, Struggle and Art",
       "es": "La Boca: Tierra de Pasión, Lucha y Arte",
@@ -10080,11 +10080,11 @@
     ],
     "videoURL": null,
     "rating": 4.97,
-    "reviewsNumber": 18
+    "reviewsNumber": 19
   },
   {
     "id": 80437,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 13:04:03",
     "title": {
       "en": "Palermo Night Tour: Art, Bars & Backstreets",
       "es": "Tour Nocturno de Palermo: Arte, Bares y Callejuelas",
@@ -10180,7 +10180,7 @@
   },
   {
     "id": 80722,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Hidden Stories of Recoleta Cemetery Free Tour",
       "es": "Historias Ocultas del Cementerio de la Recoleta Free Tour",
@@ -10286,11 +10286,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 4
+    "reviewsNumber": 5
   },
   {
     "id": 81580,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Cafayate’s Artisans",
       "es": "Descubra a los Artesanos de Cafayate",
@@ -10384,7 +10384,7 @@
   },
   {
     "id": 81747,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Walking Tour in Mendoza",
       "es": "Free Tour a pie por Mendoza",
@@ -10479,12 +10479,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.73,
-    "reviewsNumber": 9
+    "rating": 4.8,
+    "reviewsNumber": 12
   },
   {
     "id": 81757,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Palermo Soho & Hollywood: Art, Culture and Style",
       "es": "Palermo Soho & Hollywood: Arte, Cultura y Estilo",
@@ -10628,7 +10628,7 @@
   },
   {
     "id": 82165,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of the Heart of Buenos Aires: The City of Fury",
       "es": "Free Tour del Corazón de Buenas Aires: la Ciudad de la Furia",
@@ -10752,7 +10752,7 @@
   },
   {
     "id": 82306,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of San Juan: Explore its History and Culture",
       "es": "Free Tour por San Juan: Explora su Historia y Cultura",
@@ -10960,7 +10960,7 @@
   },
   {
     "id": 82371,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour: Explore Salta and Its Secrets",
       "es": "Free Tour: Explora Salta y Sus Secretos",
@@ -11070,7 +11070,7 @@
   },
   {
     "id": 82443,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Buenos Aires Bookstore Tour",
       "es": "Tour por las Librerías de Buenos Aires",
@@ -11174,7 +11174,7 @@
   },
   {
     "id": 82915,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 14:48:02",
     "title": {
       "en": "Discover the charms of Mendoza Free Tour",
       "es": "Descubre los Encantos de Mendoza Free Tour",
@@ -11281,12 +11281,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.97,
-    "reviewsNumber": 8
+    "rating": 4.98,
+    "reviewsNumber": 9
   },
   {
     "id": 83045,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Women in Argentine History",
       "es": "Mujeres en la Historia de Argentina",
@@ -11398,7 +11398,7 @@
   },
   {
     "id": 84799,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour City in Motion: from the Colony to the XXI Century",
       "es": "Free Tour Ciudad en Movimiento: de la Colonia al Siglo XXI",
@@ -11532,7 +11532,7 @@
   },
   {
     "id": 85465,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 14:48:02",
     "title": {
       "en": "El Damero Cultural: Free Tour of Mendoza's Squares",
       "es": "El Damero Cultural: Free Tour Plazas de Mendoza",
@@ -11616,7 +11616,7 @@
   },
   {
     "id": 85818,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Ushuaia Encerrada Bay Tour, along walkways, viewpoints and trails",
       "es": "Tour Bahía Encerrada de Ushuaia, por Pasarelas, Miradores y Senderos",
@@ -11698,13 +11698,9 @@
         "googlePlaceId": "ChIJz4o9ZxcjTLwRmNLcZSVrZZQ"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/85818/-498-01.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/85818/-498-02.jpg",
     "categoryId": 12,
     "images": [
-      {
-        "id": 295803,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-01.jpg"
-      },
       {
         "id": 295804,
         "URL": "https://www.freetour.com/images/tours/85818/-498-02.jpg"
@@ -11716,38 +11712,6 @@
       {
         "id": 295806,
         "URL": "https://www.freetour.com/images/tours/85818/-498-04.jpg"
-      },
-      {
-        "id": 295807,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-05.jpg"
-      },
-      {
-        "id": 295808,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-06.jpg"
-      },
-      {
-        "id": 295809,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-07.jpg"
-      },
-      {
-        "id": 295810,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-08.jpg"
-      },
-      {
-        "id": 295811,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-09.jpg"
-      },
-      {
-        "id": 295812,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-10.jpg"
-      },
-      {
-        "id": 295813,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-11.jpg"
-      },
-      {
-        "id": 295814,
-        "URL": "https://www.freetour.com/images/tours/85818/-498-12.jpg"
       },
       {
         "id": 295815,
@@ -11788,15 +11752,43 @@
       {
         "id": 295824,
         "URL": "https://www.freetour.com/images/tours/85818/-498-22.jpg"
+      },
+      {
+        "id": 300459,
+        "URL": "https://www.freetour.com/images/tours/85818/tour-enclosed-bay-ushuaia-01.jpg"
+      },
+      {
+        "id": 300460,
+        "URL": "https://www.freetour.com/images/tours/85818/tour-enclosed-bay-ushuaia-02.jpg"
+      },
+      {
+        "id": 300461,
+        "URL": "https://www.freetour.com/images/tours/85818/tour-enclosed-bay-ushuaia-03.jpg"
+      },
+      {
+        "id": 300462,
+        "URL": "https://www.freetour.com/images/tours/85818/tour-enclosed-bay-ushuaia-04.jpg"
+      },
+      {
+        "id": 300463,
+        "URL": "https://www.freetour.com/images/tours/85818/tour-enclosed-bay-ushuaia-05.jpg"
+      },
+      {
+        "id": 300464,
+        "URL": "https://www.freetour.com/images/tours/85818/tour-enclosed-bay-ushuaia-06.jpg"
+      },
+      {
+        "id": 300465,
+        "URL": "https://www.freetour.com/images/tours/85818/tour-enclosed-bay-ushuaia-07.jpg"
       }
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 86090,
-    "updatedAt": "2025-12-01 22:29:01",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour: The Oil Region of the Patagonian Desert",
       "es": "Free Tour: La comarca Petrolera del Desierto Patagónico",
@@ -12115,7 +12107,7 @@
   },
   {
     "id": 86108,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "San Isidro Free Tour: History and Nature",
       "es": "San Isidro Free Tour: Historia y Naturaleza",
@@ -12438,7 +12430,7 @@
   },
   {
     "id": 86291,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour La Boca with a Local Guide!",
       "es": "Free Tour La Boca con una Guía Local!",
@@ -12515,5 +12507,1175 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 1
+  },
+  {
+    "id": 39977,
+    "updatedAt": "2025-12-11 03:32:34",
+    "title": {
+      "en": "Heart of the City - Lights & Shadows of Argentina's History",
+      "es": "Corazón de la ciudad - Luces y sombras de la historia de Argentina",
+      "pt": "Coração da Cidade - Luzes e Sombras da História da Argentina",
+      "de": "Das Herz der Stadt - Lichter und Schatten der argentinischen Geschichte",
+      "fr": "Le cœur de la ville - Lumières et ombres de l'histoire de l'Argentine",
+      "it": "Il cuore della città - Luci e ombre della storia argentina"
+    },
+    "brief": {
+      "de": "Begleiten Sie uns und lassen Sie uns das Herz der Stadt erkunden und über die faszinierende Geschichte der argentinischen Hauptstadt sprechen und lernen. Alles, was Sie über Buenos Aires wissen müssen, erfahren Sie bei dieser dreistündigen Tour.",
+      "en": "Join us and let's explore the heart of the city and talk and learn about the fascinating history of the Argentinian capital. Everything you need to know about Buenos Aires in this wonderful tour of three hours.",
+      "es": "Acompáñenos a explorar el corazón de la ciudad y a hablar y aprender sobre la fascinante historia de la capital argentina. Todo lo que necesita saber sobre Buenos Aires en este maravilloso recorrido de tres horas.",
+      "fr": "Rejoignez-nous et explorons le cœur de la ville tout en discutant et en apprenant l'histoire fascinante de la capitale argentine. Tout ce que vous devez savoir sur Buenos Aires dans cette merveilleuse visite de trois heures.",
+      "it": "Unitevi a noi ed esploriamo il cuore della città, parlando e imparando l'affascinante storia della capitale argentina. Tutto quello che c'è da sapere su Buenos Aires in questo meraviglioso tour di tre ore.",
+      "pt": "Junte-se a nós e vamos explorar o coração da cidade e conversar e aprender sobre a fascinante história da capital argentina. Tudo o que precisa de saber sobre Buenos Aires neste maravilhoso passeio de três horas."
+    },
+    "description": {
+      "de": "Vom Leben vor der Kolonialzeit, dem Kampf und dem Unabhängigkeitskrieg, dem Versuch, die Ureinwohner und die Afroargentinier auszurotten, und den Einwanderungswellen, die das Gesicht der Stadt und des Landes für immer veränderten.\r\n\r\nDie \"Scheune der Welt\" und wie eines der reichsten Länder der Erde im Zuge des 20. Jahrhunderts ein Jahrhundert später in einer der größten Wirtschaftskrisen des Planeten endete. \r\n\r\nDie Licht- und Schattenseiten des Mythos vom \"Europa Amerikas\".\r\n\r\nTango, Fußball, Literatur, Psychotherapie, Politik, Diktaturen und Widerstand - die Geschichte Argentiniens bietet alle Zutaten für ein leidenschaftliches Drama. Und das spiegelt sich auch in der Bevölkerung wider.\r\n\r\n\"Für mich ist Buenos Aires ewig, wie Wasser oder Luft\" (wie der berühmte Schriftsteller Jorge Luis Borges einmal sagte)\r\n\r\nWarum fasziniert die scheinbar unendliche Energie der Stadt die Betrachter und bringt die Passanten in Schwung?\r\n\r\nWährend der Tour werden wir sehen: \r\nDen Parlamentspalast\r\nDer Kongressplatz \r\nPalacio Barolo\r\nAvenida de Mayo \r\navenida 9 de Julio\r\nDer Obelisk \r\nDie riesige Hommage an Evita \r\nWandgemälde von Messi\r\nCalle Florida \r\nMetropolitan-Kathedrale \r\nCasa rosada (das rosafarbene Haus) \r\nPlaza de Mayo (das pulsierende Herz der Stadt)",
+      "en": "From life before the colonial times, the struggle and war of independence, the attempt to exterminate the indigenous and the Afro-Argentinians, and the waves of immigrants that forever changed the face of the city and the country.\r\n\r\nThe “barn of the world” and how one of the richest countries on earth, in the wake of the 20th century, ended in one of the biggest economic crises of the planet a century later. \r\n\r\nThe lights and shadows behind the myth of the “Europe of the Americas”.\r\n\r\nTango, football, literature, psychotherapy, politics, dictatorships, and resistance, the history of Argentina has all of the ingredients for a passionate drama. And that reflects on its population.\r\n\r\n“To me, Buenos Aires is eternal, like water or air“ ( as the famed writer Jorge Luis Borges once said)\r\n\r\nWhy does the seemingly never-ending energy of the city mystify onlookers and energize passers-by?\r\n\r\nDuring the tour, we will see: \r\nThe Palace of the Parliament\r\nThe square of the congress \r\nPalacio Barolo\r\nAvenida de Mayo \r\n9 de Julio Avenue\r\nThe obelisk \r\nEvita’s giant homage \r\nMessi's Mural\r\nCalle Florida \r\nMetropolitan cathedral \r\nCasa rosada (the pink house) \r\nPlaza de Mayo (the pulsating heart of the city)",
+      "es": "Desde la vida antes de la época colonial, la lucha y la guerra de la independencia, el intento de exterminio de los indígenas y los afroargentinos, y las oleadas de inmigrantes que cambiaron para siempre la faz de la ciudad y del país.\r\n\r\nEl \"granero del mundo\" y cómo uno de los países más ricos de la tierra, en los albores del siglo XX, acabó en una de las mayores crisis económicas del planeta un siglo después. \r\n\r\nLuces y sombras tras el mito de la \"Europa de las Américas\".\r\n\r\nTango, fútbol, literatura, psicoterapia, política, dictaduras y resistencia, la historia de Argentina tiene todos los ingredientes para un drama apasionante. Y eso se refleja en su población.\r\n\r\n\"Para mí, Buenos Aires es eterna, como el agua o el aire\" (como dijo una vez el famoso escritor Jorge Luis Borges)\r\n\r\n¿Por qué la energía aparentemente interminable de la ciudad desconcierta a los espectadores y llena de energía a los transeúntes?\r\n\r\nDurante el recorrido, veremos \r\nEl Palacio del Parlamento\r\nLa plaza del Congreso \r\nEl Palacio Barolo\r\nAvenida de Mayo \r\nla avenida 9 de Julio\r\nEl obelisco \r\nEl gigantesco homenaje a Evita \r\nMural de Messi\r\nCalle Florida \r\nCatedral Metropolitana \r\nCasa rosada \r\nPlaza de Mayo (el corazón palpitante de la ciudad)",
+      "fr": "Depuis la vie avant l'époque coloniale, la lutte et la guerre d'indépendance, la tentative d'extermination des indigènes et des Afro-Argentins, et les vagues d'immigrants qui ont changé à jamais le visage de la ville et du pays.\r\n\r\nLa \"grange du monde\" et comment l'un des pays les plus riches de la planète, au lendemain du XXe siècle, s'est retrouvé un siècle plus tard dans l'une des plus grandes crises économiques de la planète. \r\n\r\nLes ombres et les lumières du mythe de l'\"Europe des Amériques\".\r\n\r\nTango, football, littérature, psychothérapie, politique, dictatures, résistance, l'histoire de l'Argentine possède tous les ingrédients d'un drame passionnant. Et cela se reflète sur sa population.\r\n\r\n\"Pour moi, Buenos Aires est éternelle, comme l'eau ou l'air\" (comme l'a dit le célèbre écrivain Jorge Luis Borges)\r\n\r\nPourquoi l'énergie apparemment inépuisable de la ville mystifie-t-elle les spectateurs et dynamise-t-elle les passants ?\r\n\r\nAu cours de la visite, nous verrons \r\nLe palais du Parlement\r\nLa place du congrès \r\nLe palais Barolo\r\nAvenue de Mayo \r\navenue 9 de Julio\r\nL'obélisque \r\nL'hommage géant d'Evita \r\nLa peinture murale de Messi\r\nRue Florida \r\nCathédrale métropolitaine \r\nCasa rosada (la maison rose) \r\nPlaza de Mayo (le cœur palpitant de la ville)",
+      "it": "Dalla vita prima dell'epoca coloniale, alla lotta e alla guerra d'indipendenza, al tentativo di sterminio degli indigeni e degli afro-argentini, alle ondate di immigrati che hanno cambiato per sempre il volto della città e del Paese.\r\n\r\nIl \"granaio del mondo\" e come uno dei Paesi più ricchi della Terra, all'indomani del XX secolo, sia finito un secolo dopo in una delle più grandi crisi economiche del pianeta. \r\n\r\nLuci e ombre dietro il mito dell'\"Europa delle Americhe\".\r\n\r\nTango, calcio, letteratura, psicoterapia, politica, dittature e resistenza: la storia dell'Argentina ha tutti gli ingredienti per un dramma appassionante. E questo si riflette sulla sua popolazione.\r\n\r\n\"Per me Buenos Aires è eterna, come l'acqua o l'aria\" (come disse una volta il famoso scrittore Jorge Luis Borges)\r\n\r\nPerché l'energia apparentemente infinita della città mistifica gli spettatori ed energizza i passanti?\r\n\r\nDurante il tour, vedremo: \r\nIl Palazzo del Parlamento\r\nLa piazza del Congresso \r\nIl Palazzo Barolo\r\nAvenida de Mayo \r\nviale 9 de Julio\r\nL'obelisco \r\nIl gigantesco omaggio a Evita \r\nIl murale di Messi\r\nCalle Florida \r\nCattedrale metropolitana \r\nCasa rosada (la casa rosa) \r\nPlaza de Mayo (il cuore pulsante della città)",
+      "pt": "Desde a vida antes do período colonial, a luta e a guerra de independência, a tentativa de extermínio dos indígenas e dos afro-argentinos, e as ondas de imigrantes que mudaram para sempre a face da cidade e do país.\r\n\r\nO \"celeiro do mundo\" e como um dos países mais ricos do planeta, no rescaldo do século XX, acabou numa das maiores crises económicas do planeta um século depois. \r\n\r\nAs luzes e as sombras por detrás do mito da \"Europa das Américas\".\r\n\r\nTango, futebol, literatura, psicoterapia, política, ditaduras e resistência, a história da Argentina tem todos os ingredientes para um drama apaixonante. E isso reflecte-se na sua população.\r\n\r\n\"Para mim, Buenos Aires é eterna, como a água ou o ar\" (como disse uma vez o famoso escritor Jorge Luis Borges)\r\n\r\nPor que é que a energia aparentemente interminável da cidade mistifica os espectadores e energiza os transeuntes?\r\n\r\nDurante a visita, veremos: \r\nO Palácio do Parlamento\r\nA praça do congresso \r\nPalácio Barolo\r\nAvenida de Mayo \r\navenida 9 de Julio\r\nO obelisco \r\nA homenagem gigante a Evita \r\nMural de Messi\r\nCalle Florida \r\nCatedral Metropolitana \r\nCasa rosada (a casa cor-de-rosa) \r\nPlaza de Mayo (o coração pulsante da cidade)"
+    },
+    "providerTitle": "Vive Buenos Aires Tours",
+    "providerPhone": "+5491123954356",
+    "URL": "https://www.freetour.com/buenos-aires/heart-of-the-city-lights-shadows-of-argentina?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/buenos-aires/heart-of-the-city-lights-shadows-of-argentina?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/buenos-aires/heart-of-the-city-lights-shadows-of-argentina?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/buenos-aires/heart-of-the-city-lights-shadows-of-argentina?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/buenos-aires/heart-of-the-city-lights-shadows-of-argentina?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/buenos-aires/heart-of-the-city-lights-shadows-of-argentina?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/buenos-aires/heart-of-the-city-lights-shadows-of-argentina?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Entrance of the Argentine Senate",
+      "coordinates": "-34.6103569,-58.39094660000001",
+      "googlePlaceId": "ChIJh8S3BsPKvJURhv7ebUj0U6g"
+    },
+    "cityId": 29,
+    "countryId": 4,
+    "includes": [
+      "Congreso de la Nación Argentina",
+      "Palacio Barolo",
+      "Avenida de mayo temporario",
+      "Obelisco",
+      "Block of the Lights Historical-Cultural Complex",
+      "Plaza de Mayo"
+    ],
+    "POIs": [
+      {
+        "id": 2356,
+        "title": "Congreso de la Nación Argentina",
+        "googlePlaceId": "ChIJA5WFzcLKvJURRrnyrvraXAc"
+      },
+      {
+        "id": 11055,
+        "title": "Palacio Barolo",
+        "googlePlaceId": "ChIJW3Va2NrKvJUROiaH5K0ualk"
+      },
+      {
+        "id": 8962,
+        "title": "Avenida de mayo temporario",
+        "googlePlaceId": "ChIJqZw0Ao_LvJURyuQgc48WMgk"
+      },
+      {
+        "id": 792,
+        "title": "Obelisco",
+        "googlePlaceId": "ChIJ217apvCpSgARi1VOI06tvhE"
+      },
+      {
+        "id": 4365,
+        "title": "Block of the Lights Historical-Cultural Complex",
+        "googlePlaceId": "ChIJfb4NY9TKvJURcgEHRKvcNf4"
+      },
+      {
+        "id": 11699,
+        "title": "Plaza de Mayo",
+        "googlePlaceId": "ChIJXx79V9vKvJURS2GosE58c8w"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 129305,
+        "URL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-01.jpg"
+      },
+      {
+        "id": 129306,
+        "URL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-02.jpg"
+      },
+      {
+        "id": 129307,
+        "URL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-03.jpg"
+      },
+      {
+        "id": 129308,
+        "URL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-04.jpg"
+      },
+      {
+        "id": 129309,
+        "URL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-05.jpg"
+      },
+      {
+        "id": 129310,
+        "URL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-06.jpg"
+      },
+      {
+        "id": 129311,
+        "URL": "https://www.freetour.com/images/tours/39977/heart-of-the-city-lights-and-shadows-of-argentina-07.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.9,
+    "reviewsNumber": 134
+  },
+  {
+    "id": 42636,
+    "updatedAt": "2025-12-11 03:32:34",
+    "title": {
+      "en": "Free tour Retiro and Recoleta: Aristocratic Buenos Aires",
+      "es": "Free tour Retiro y Recoleta: El Buenos Aires aristocrático",
+      "pt": "Visita livre a Retiro e Recoleta: Buenos Aires Aristocrática",
+      "de": "Kostenlose Besichtigung von Retiro und Recoleta: Das aristokratische Buenos Aires",
+      "fr": "Visite libre de Retiro et Recoleta : Le Buenos Aires aristocratique",
+      "it": "Visita libera di Retiro e Recoleta: La Buenos Aires aristocratica"
+    },
+    "brief": {
+      "de": "Begleiten Sie mich auf einem faszinierenden Spaziergang durch die architektonisch beeindruckenden Viertel von Buenos Aires, in denen die von Frankreich besessenen oligarchischen Eliten Ende des 19. Jahrhunderts ihre Spuren hinterlassen haben. ",
+      "en": "Join me on a fascinating stroll through Buenos Aires' architecturally stunning neighborhoods, where the late 1800s French-obsessed oligarchic elites left their mark. ",
+      "es": "Acompáñeme en un fascinante paseo por los barrios arquitectónicamente impresionantes de Buenos Aires, donde las élites oligárquicas obsesionadas con Francia de finales del siglo XIX dejaron su huella. ",
+      "fr": "Rejoignez-moi pour une promenade fascinante dans les quartiers de Buenos Aires à l'architecture étonnante, où les élites oligarchiques obsédées par la France à la fin du XIXe siècle ont laissé leur empreinte. ",
+      "it": "Unitevi a me in un'affascinante passeggiata nei quartieri architettonici di Buenos Aires, dove le élite oligarchiche ossessionate dalla Francia di fine Ottocento hanno lasciato il loro segno. ",
+      "pt": "Junte-se a mim num passeio fascinante pelos bairros arquitetonicamente deslumbrantes de Buenos Aires, onde as elites oligárquicas obcecadas pelos franceses de finais de 1800 deixaram a sua marca. "
+    },
+    "description": {
+      "de": "Entdecken Sie den Glamour und die Extravaganz des \"Paris von Südamerika\" bei einem Besuch von Retiro und Recoleta. Jahrhunderts und zu Beginn des 20. Jahrhunderts, wo sie französische Paläste mit 60 Zimmern bauten, um ihren Reichtum und ihre Macht zu demonstrieren und um Ruhm und Einfluss zu kämpfen.\r\nSan Martin und die Befreiungskampagne, das goldene Zeitalter Argentiniens, Geschichten von Liebe und Rache, die durch die Zeit widerhallen, Eigenheiten und skurrile Fakten und Gewohnheiten von Buenos Aires und seinen Bewohnern, den \"los porteños\".\r\nTauchen Sie ein in den Glanz der alten Zeiten und erfahren Sie mehr über die argentinische \"Belle Époque\" und wie ihr Glück (und Unglück) mit dem Auf und Ab des Landes im 20.\r\n\r\nWir werden sehen: \r\n\r\nPlatz San Martín: \r\n - Anchorena-Palast \r\n - Kavanagh-Gebäude\r\n - Paz-Palast\r\n - Denkmal für José de San Martín (Argentiniens wichtigster Nationalheld)\r\nDer Monumentalturm\r\nArroyo-Straße\r\nBotschaft von Frankreich\r\nBotschaft von Brasilien\r\nAvenida Alvear: Heimat der schönsten Paläste Argentiniens\r\n\r\nNützliche Informationen:\r\n\r\nDie Tour endet direkt vor dem Friedhof von Recoleta, beinhaltet aber NICHT den Friedhof",
+      "en": "Discover the glamour and extravagance of the \"Paris of South America\" by visiting Retiro and Recoleta. The chosen neighborhoods by Argentina's French-obsessed economic (and oligarchic) elites in the late 1800s and the beginning of the 20th century, where they built 60-room French palaces to show off their wealth and power, and competed for fame and influence.\r\nSan Martin and the liberation campaign, the golden age of Argentina, stories of love and revenge that echo through time, quirks, and bizarre facts and habits of Buenos Aires and its people, \"los porteños\".\r\nGo back into the glamour of the old days, as you learn about Argentina's \"Belle Époque\", and how their fortunes (and misfortunes) intertwined with the ups and downs of the country throughout the 20th century and until today.\r\n\r\nWe will see: \r\n\r\nSan Martín Square: \r\n - Anchorena Palace \r\n - Kavanagh building\r\n - Paz Palace\r\n - Monument to José de San Martín (Argentina's main National Hero)\r\nThe Monumental Tower\r\nArroyo Street\r\nEmbassy of France\r\nEmbassy of Brazil\r\nAlvear Avenue: home to Argentina's finest palaces\r\n\r\nUseful information:\r\n\r\nThe tour will end right in front of the Cemetery of Recoleta but DOES NOT include the cemetery",
+      "es": "Descubra el glamour y la extravagancia del \"París de Sudamérica\" visitando Retiro y Recoleta. Los barrios elegidos por las élites económicas (y oligárquicas) argentinas obsesionadas con Francia a finales del siglo XIX y principios del XX, donde construyeron palacios franceses de 60 habitaciones para presumir de riqueza y poder, y compitieron por la fama y la influencia.\r\nSan Martín y la campaña de liberación, la edad de oro de Argentina, historias de amor y venganza que resuenan a través del tiempo, peculiaridades y extraños hechos y costumbres de Buenos Aires y su gente, \"los porteños\".\r\nAdéntrese en el glamour de antaño, conozca la \"Belle Époque\" argentina y cómo sus fortunas (y desventuras) se entrelazaron con los avatares del país a lo largo del siglo XX y hasta nuestros días.\r\n\r\nVeremos: \r\n\r\nPlaza San Martín: \r\n - Palacio Anchorena \r\n - Edificio Kavanagh\r\n - Palacio Paz\r\n - Monumento a José de San Martín (principal Héroe Nacional de Argentina)\r\nTorre Monumental\r\nCalle Arroyo\r\nEmbajada de Francia\r\nEmbajada de Brasil\r\nAvenida Alvear: sede de los mejores palacios de Argentina\r\n\r\nInformación útil:\r\n\r\nEl tour terminará justo enfrente del Cementerio de la Recoleta, pero NO incluye el cementerio",
+      "fr": "Découvrez le glamour et l'extravagance du \"Paris de l'Amérique du Sud\" en visitant Retiro et Recoleta. Ces quartiers ont été choisis par les élites économiques (et oligarchiques) argentines obsédées par la France à la fin du XIXe siècle et au début du XXe siècle, où elles ont construit des palais français de 60 pièces pour faire étalage de leur richesse et de leur pouvoir, et où elles ont rivalisé de célébrité et d'influence.\r\nSan Martin and the liberation campaign, the golden age of Argentina, stories of love and revenge that echo through time, quirks, and bizarre facts and habits of Buenos Aires and its people, \"los porteños\".\r\nReplongez dans le glamour de l'ancien temps, en découvrant la \"Belle Époque\" argentine, et comment leurs fortunes (et leurs infortunes) se sont mêlées aux hauts et aux bas du pays tout au long du XXe siècle et jusqu'à aujourd'hui.\r\n\r\nNous verrons : \r\n\r\nLa place San Martín \r\n - Le palais Anchorena \r\n - Bâtiment Kavanagh\r\n - Palais de la Paz\r\n - Monument à José de San Martín (principal héros national argentin)\r\nTour monumentale\r\nRue Arroyo\r\nAmbassade de France\r\nAmbassade du Brésil\r\nAvenue Alvear : où se trouvent les plus beaux palais d'Argentine\r\n\r\nInformations utiles :\r\n\r\nLa visite se termine juste devant le cimetière de Recoleta mais ne comprend pas le cimetière",
+      "it": "Scoprite il fascino e la stravaganza della \"Parigi del Sud America\" visitando Retiro e Recoleta. I quartieri scelti dalle élite economiche (e oligarchiche) argentine ossessionate dalla Francia tra la fine dell'Ottocento e l'inizio del Novecento, dove costruirono palazzi francesi di 60 stanze per ostentare la loro ricchezza e il loro potere, e dove si contendevano fama e influenza.\r\nSan Martin e la campagna di liberazione, l'età d'oro dell'Argentina, le storie d'amore e di vendetta che riecheggiano nel tempo, le stranezze e le bizzarrie di Buenos Aires e dei suoi abitanti, \"los porteños\".\r\nRipercorrete il fascino di un tempo, imparando a conoscere la \"Belle Époque\" argentina e a capire come le sue fortune (e sfortune) si siano intrecciate con le alterne vicende del Paese nel corso del XX secolo e fino ai giorni nostri.\r\n\r\nVedremo: \r\n\r\nPiazza San Martín: \r\n - Palazzo Anchorena \r\n - Palazzo Kavanagh\r\n - Palazzo Paz\r\n - Monumento a José de San Martín (il principale eroe nazionale argentino)\r\nTorre Monumentale\r\nVia Arroyo\r\nAmbasciata di Francia\r\nAmbasciata del Brasile\r\nViale Alvear: sede dei più bei palazzi argentini\r\n\r\nInformazioni utili:\r\n\r\nIl tour termina davanti al Cimitero della Recoleta ma NON include il cimitero",
+      "pt": "Descubra o glamour e a extravagância da \"Paris da América do Sul\" visitando Retiro e Recoleta. Os bairros escolhidos pelas elites económicas (e oligárquicas) argentinas obcecadas pela França no final do século XIX e início do século XX, onde construíram palácios franceses de 60 quartos para exibir a sua riqueza e poder, e competiram pela fama e influência.\r\nSan Martín e a campanha de libertação, a idade de ouro da Argentina, histórias de amor e vingança que ecoam através do tempo, curiosidades, bizarrices e hábitos de Buenos Aires e do seu povo, \"los porteños\".\r\nVolte ao glamour dos velhos tempos e conheça a \"Belle Époque\" argentina, e como suas fortunas (e infortúnios) se entrelaçaram com os altos e baixos do país ao longo do século XX e até hoje.\r\n\r\nVeremos: \r\n\r\nPraça San Martín: \r\n - Palácio Anchorena \r\n - Edifício Kavanagh\r\n - Palácio da Paz\r\n - Monumento a José de San Martín (principal Herói Nacional da Argentina)\r\nA Torre Monumental\r\nRua Arroyo\r\nEmbaixada da França\r\nEmbaixada do Brasil\r\nAvenida Alvear: onde se encontram os mais belos palácios da Argentina\r\n\r\nInformações úteis:\r\n\r\nO passeio termina em frente ao Cemitério da Recoleta, mas NÃO inclui o cemitério"
+    },
+    "providerTitle": "Vive Buenos Aires Tours",
+    "providerPhone": "+5491123954356",
+    "URL": "https://www.freetour.com/buenos-aires/free-tour-retiro-recoleta-aristocratic-buenos-aires?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/buenos-aires/free-tour-retiro-recoleta-aristocratic-buenos-aires?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/buenos-aires/free-tour-retiro-recoleta-aristocratic-buenos-aires?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/buenos-aires/free-tour-retiro-recoleta-aristocratic-buenos-aires?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/buenos-aires/free-tour-retiro-recoleta-aristocratic-buenos-aires?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/buenos-aires/free-tour-retiro-recoleta-aristocratic-buenos-aires?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/buenos-aires/free-tour-retiro-recoleta-aristocratic-buenos-aires?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Monumento al Libertador Don José de San Martín",
+      "coordinates": "-34.59502567676602,-58.37720364332199",
+      "googlePlaceId": "ChIJTVHYTrbKvJURddjKiT67Luo"
+    },
+    "cityId": 29,
+    "countryId": 4,
+    "includes": [
+      "Retiro",
+      "Recoleta",
+      "Plaza General San Martín",
+      "Edificio Kavanagh",
+      "Palacio San Martin",
+      "Embassy of France, Buenos Aires",
+      "Brazilian Embassy (Chancery building)",
+      "Palacio Duhau - Park Hyatt Buenos Aires",
+      "Alvear Palace Hotel",
+      "Plaza Francia",
+      "Torre Monumental",
+      "Palacio Paz",
+      "Retiro",
+      "Recoleta",
+      "Palacio San Martin",
+      "Plaza San Martin",
+      "Kavanagh",
+      "Calle Arroyo",
+      "Embassy of France",
+      "Avenida Alvear",
+      "Embassy of Brazil",
+      "Park Hyatt"
+    ],
+    "POIs": [
+      {
+        "id": 5586,
+        "title": "Retiro",
+        "googlePlaceId": "ChIJIe3XSfPLvJUR4MWI1yQmg-Y"
+      },
+      {
+        "id": 3464,
+        "title": "Recoleta",
+        "googlePlaceId": "ChIJD14OnBLLvJURuoe80-vIHMA"
+      },
+      {
+        "id": 12114,
+        "title": "Plaza General San Martín",
+        "googlePlaceId": "ChIJYzGZlbXKvJURUJe-nyl12bU"
+      },
+      {
+        "id": 2008,
+        "title": "Edificio Kavanagh",
+        "googlePlaceId": "ChIJ8eI9gbXKvJURvZomb6dQUzc"
+      },
+      {
+        "id": 9855,
+        "title": "Palacio San Martin",
+        "googlePlaceId": "ChIJT5RBfbbKvJURL5CHaxFDDZ8"
+      },
+      {
+        "id": 8721,
+        "title": "Embassy of France, Buenos Aires",
+        "googlePlaceId": "ChIJq8OksYwto5URmuHgp6HXCnM"
+      },
+      {
+        "id": 5813,
+        "title": "Brazilian Embassy (Chancery building)",
+        "googlePlaceId": "ChIJj-fIp7DKvJUR0N_BMD1a8Is"
+      },
+      {
+        "id": 364,
+        "title": "Palacio Duhau - Park Hyatt Buenos Aires",
+        "googlePlaceId": "ChIJ-Xo_LrvKvJURcj-osegOgis"
+      },
+      {
+        "id": 9222,
+        "title": "Alvear Palace Hotel",
+        "googlePlaceId": "ChIJrVCUfKPKvJURAcHULil-35w"
+      },
+      {
+        "id": 564,
+        "title": "Plaza Francia",
+        "googlePlaceId": "ChIJ0XpO66HKvJURIZRvf7N9y4s"
+      },
+      {
+        "id": 7164,
+        "title": "Torre Monumental",
+        "googlePlaceId": "ChIJMcYzB7XKvJURDiQPXjxCqTU"
+      },
+      {
+        "id": 391,
+        "title": "Palacio Paz",
+        "googlePlaceId": "ChIJ0_7IXybLvJURkT_Bqj0MXLI"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/42636/free-tour-retiro-and-recoleta-aristocratic-buenos-aires-06.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 138897,
+        "URL": "https://www.freetour.com/images/tours/42636/free-tour-retiro-and-recoleta-aristocratic-buenos-aires-06.jpg"
+      },
+      {
+        "id": 138894,
+        "URL": "https://www.freetour.com/images/tours/42636/free-tour-retiro-and-recoleta-aristocratic-buenos-aires-03.jpg"
+      },
+      {
+        "id": 138892,
+        "URL": "https://www.freetour.com/images/tours/42636/free-tour-retiro-and-recoleta-aristocratic-buenos-aires-01.jpg"
+      },
+      {
+        "id": 138893,
+        "URL": "https://www.freetour.com/images/tours/42636/free-tour-retiro-and-recoleta-aristocratic-buenos-aires-02.jpg"
+      },
+      {
+        "id": 138895,
+        "URL": "https://www.freetour.com/images/tours/42636/free-tour-retiro-and-recoleta-aristocratic-buenos-aires-04.jpg"
+      },
+      {
+        "id": 138896,
+        "URL": "https://www.freetour.com/images/tours/42636/free-tour-retiro-and-recoleta-aristocratic-buenos-aires-05.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.78,
+    "reviewsNumber": 52
+  },
+  {
+    "id": 46554,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Free Tour of Nueva Cordoba and Sarmiento Park",
+      "es": "Tour gratuito por Nueva Córdoba y Parque Sarmiento",
+      "pt": "Visita livre a Nueva Córdoba e ao Parque Sarmiento",
+      "de": "Kostenlose Besichtigung von Nueva Cordoba und des Sarmiento-Parks",
+      "fr": "Visite libre de la nouvelle Cordoue et du parc Sarmiento",
+      "it": "Tour gratuito di Nueva Cordoba e del Parco Sarmiento"
+    },
+    "brief": {
+      "de": "Neu-Córdoba ist ein junges Viertel mit Museen, Palästen, einer Kirche, Parks und Spazierwegen wie dem Paseo del Buen Pastor. Der Sarmiento-Park, einer der ältesten Südamerikas, wurde an den Hängen um Córdoba herum angelegt",
+      "en": "New Córdoba is a youthful neighborhood with museums, palaces, a church, parks, and walks like Paseo del Buen Pastor. Sarmiento Park, one of South America’s oldest, was built along the slopes surrounding Córdoba",
+      "es": "Nueva Córdoba es un barrio juvenil con museos, palacios, una iglesia, parques y paseos como el Paseo del Buen Pastor. El Parque Sarmiento, uno de los más antiguos de Sudamérica, se construyó a lo largo de las laderas que rodean Córdoba",
+      "fr": "Le Nouveau Cordoue est un quartier jeune avec des musées, des palais, une église, des parcs et des promenades comme le Paseo del Buen Pastor. Le parc Sarmiento, l'un des plus anciens d'Amérique du Sud, a été construit le long des pentes entourant Cordoue",
+      "it": "La Nuova Córdoba è un quartiere giovane con musei, palazzi, una chiesa, parchi e passeggiate come il Paseo del Buen Pastor. Il Parco Sarmiento, uno dei più antichi del Sud America, è stato costruito lungo i pendii che circondano Córdoba",
+      "pt": "Nova Córdoba é um bairro jovem com museus, palácios, uma igreja, parques e passeios como o Paseo del Buen Pastor. O Parque Sarmiento, um dos mais antigos da América do Sul, foi construído ao longo das encostas que cercam Córdoba"
+    },
+    "description": {
+      "de": "Wir beginnen am Patio Olmos, lernen etwas über seine Geschichte und Umgebung, gehen weiter entlang der Av. Hipólito Yrigoyen, erreichen den Paseo Buen Pastor und die Kapuzinerkirche, die majestätischen Paläste der Gegend, die Plaza España, den Parque Sarmiento, die Plaza del Bicentenario, den See, die Isla Encantada, den Parque de la Biodiversidad, Aussichtspunkte und wenn Sie möchten, können Sie ein paar Churros mit Dulce de Leche oder eine köstliche Choripan essen, bevor wir nach Patio Olmos zurückkehren, um die Tour zu beenden.",
+      "en": "We start from Patio Olmos, learning about its history and surroundings, continuing along Av. Hipólito Yrigoyen, arriving at Paseo Buen Pastor and the Capuchin Church, the majestic palaces of the area, Plaza España, in Parque Sarmiento, Plaza del Bicentenario, the lake, Isla Encantada, Parque de la Biodiversidad, viewpoints and if you like you can eat some churros with dulce de leche or a delicious Choripan, we return to Patio Olmos to end the tour.",
+      "es": "Comenzamos desde el Patio Olmos, conociendo su historia y alrededores, continuando por Av. Hipólito Yrigoyen, llegando al Paseo Buen Pastor y la Iglesia de los Capuchinos, los majestuosos palacios de la zona, Plaza España, en Parque Sarmiento, Plaza del Bicentenario, el lago, Isla Encantada, Parque de la Biodiversidad, miradores y si gustas puedes comer unos churros con dulce de leche o un delicioso Choripan, regresamos a Patio Olmos para finalizar el recorrido.",
+      "fr": "Nous commençons par le Patio Olmos, en découvrant son histoire et ses environs, puis nous continuons par l'Av. Hipólito Yrigoyen, en arrivant au Paseo Buen Pastor et à l'église des Capucins, aux majestueux palais de la région, à la Plaza España, au Parque Sarmiento, à la Plaza del Bicentenario, au lac, à la Isla Encantada, au Parque de la Biodiversidad, aux points de vue et, si vous le souhaitez, vous pourrez manger des churros avec du dulce de leche ou un délicieux Choripan, puis nous retournerons au Patio Olmos pour terminer la visite.",
+      "it": "Si parte dal Patio Olmos, conoscendo la sua storia e i suoi dintorni, si prosegue lungo Av. Hipólito Yrigoyen, arrivando al Paseo Buen Pastor e alla Chiesa dei Cappuccini, ai maestosi palazzi della zona, a Plaza España, al Parque Sarmiento, alla Plaza del Bicentenario, al lago, all'Isla Encantada, al Parque de la Biodiversidad, ai punti panoramici e, se volete, potete mangiare dei churros con dulce de leche o un delizioso Choripan, torniamo al Patio Olmos per concludere il tour.",
+      "pt": "We start from Patio Olmos, learning about its history and surroundings, continuing along Av. Hipólito Yrigoyen, chegando ao Paseo Buen Pastor e à Igreja dos Capuchinhos, aos majestosos palácios da zona, à Plaza España, no Parque Sarmiento, à Plaza del Bicentenario, ao lago, à Isla Encantada, ao Parque de la Biodiversidad, aos miradouros e, se quiser, pode comer uns churros com doce de leite ou um delicioso Choripan, regressamos ao Patio Olmos para terminar o passeio."
+    },
+    "providerTitle": "Karina Bosaz",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/cordoba-ar/free-tour-new-cordoba-park-sarmiento?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/cordoba-ar/free-tour-new-cordoba-park-sarmiento?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/cordoba-ar/free-tour-new-cordoba-park-sarmiento?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/cordoba-ar/free-tour-new-cordoba-park-sarmiento?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/cordoba-ar/free-tour-new-cordoba-park-sarmiento?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/cordoba-ar/free-tour-new-cordoba-park-sarmiento?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/cordoba-ar/free-tour-new-cordoba-park-sarmiento?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 15,
+      "currency": "EUR"
+    },
+    "length": "2:15",
+    "meetingPoint": {
+      "title": "Patio Olmos",
+      "coordinates": "-31.4198818,-64.1882711",
+      "googlePlaceId": "ChIJmYvZdIGiMpQRFiG_tC_Z5KQ"
+    },
+    "cityId": 39,
+    "countryId": 4,
+    "includes": [
+      "Patio Olmos Shopping",
+      "Parque de la Biodiversidad",
+      "Plaza del Bicentenario",
+      "Sarmiento Park",
+      "Isla Encantada"
+    ],
+    "POIs": [
+      {
+        "id": 19349,
+        "title": "Patio Olmos Shopping",
+        "googlePlaceId": "ChIJf3Rdzy2jMpQRrECRsiAyN0A"
+      },
+      {
+        "id": 35062,
+        "title": "Parque de la Biodiversidad",
+        "googlePlaceId": "ChIJfUauqEmjMpQRvwHeGf4EuYI"
+      },
+      {
+        "id": 35060,
+        "title": "Plaza del Bicentenario",
+        "googlePlaceId": "ChIJkyNf9I2iMpQRE7xd_If6_Ok"
+      },
+      {
+        "id": 16100,
+        "title": "Sarmiento Park",
+        "googlePlaceId": "ChIJN6i2hZSiMpQRidU-PUn3T9s"
+      },
+      {
+        "id": 35061,
+        "title": "Isla Encantada",
+        "googlePlaceId": "ChIJo_BAHpOiMpQRBDD2D7BR3TY"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-03.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 153469,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-03.jpg"
+      },
+      {
+        "id": 153470,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-04.jpg"
+      },
+      {
+        "id": 153471,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-05.jpg"
+      },
+      {
+        "id": 153472,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-06.jpg"
+      },
+      {
+        "id": 153473,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-07.jpg"
+      },
+      {
+        "id": 153474,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-08.jpg"
+      },
+      {
+        "id": 153475,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-09.jpg"
+      },
+      {
+        "id": 153476,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-10.jpg"
+      },
+      {
+        "id": 153478,
+        "URL": "https://www.freetour.com/images/tours/46554/free-tour-por-nueva-cordoba-y-parque-sarmiento-12.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 76279,
+    "updatedAt": "2025-12-11 03:32:38",
+    "title": {
+      "en": "Palermo: Urban Art and Graffiti Tour",
+      "es": "Palermo: Arte Urbano y Graffiti",
+      "pt": "Palermo: Tour de arte urbana e graffiti",
+      "de": "Palermo: Stadtkunst und Graffiti-Tour",
+      "fr": "Palerme : visite de l'art urbain et des graffitis",
+      "it": "Palermo: tour dell'arte urbana e dei graffiti"
+    },
+    "brief": {
+      "de": "Begleiten Sie mich auf einem sorgfältig ausgewählten Straßenkunst-Spaziergang durch das dynamischste Viertel von Buenos Aires! Lassen Sie stickige Museen und Galerien hinter sich und entdecken Sie, wie aufstrebende Künstler lebendige Kunstkorridore schaffen, die Palermo Soho zu einem Mekka der Straßenkunst machen.",
+      "en": "Join me on a carefully curated street art walk in Buenos Aires’ most dynamic district! Leave behind stuffy museums and galleries to explore how emerging artists are creating vibrant art corridors to put Palermo Soho on the map as a street art mecca.",
+      "es": "Acompáñame en un paseo de arte callejero cuidadosamente seleccionado por el barrio más dinámico de Buenos Aires Deja atrás los museos y galerías para explorar cómo los artistas emergentes están creando vibrantes corredores de arte para poner Palermo Soho en el mapa como una meca del arte callejero.",
+      "fr": "Rejoignez-moi pour une promenade artistique dans le quartier le plus dynamique de Buenos Aires ! Laissez derrière vous les musées et galeries étouffants pour découvrir comment les artistes émergents créent des couloirs artistiques dynamiques qui font de Palermo Soho la Mecque de l'art de rue.",
+      "it": "Unitevi a me in una passeggiata curata di street art nel quartiere più dinamico di Buenos Aires! Lasciatevi alle spalle musei e gallerie soffocanti e scoprite come gli artisti emergenti stiano creando corridoi artistici vibranti per far diventare Palermo Soho una mecca della street art.",
+      "pt": "Junte-se a mim em uma caminhada de arte de rua cuidadosamente selecionada no bairro mais dinâmico de Buenos Aires! Deixe para trás museus e galerias abafados para explorar como artistas emergentes estão criando corredores de arte vibrantes para colocar Palermo Soho no mapa como uma meca da arte de rua."
+    },
+    "description": {
+      "de": "Ähnlich wie der Weg der Straßenkunst von ihren schattenhaften Anfängen als Guerilla-Kunstform, die als \"Vandalismus\" angesehen wurde, bis hin zu ihrer späteren Anerkennung als Hochkultur, hatte auch Palermo bescheidene Anfänge als Arbeiterbezirk, der sich jedoch in das trendigste Viertel der Stadt verwandeln sollte. Wir werden untersuchen, welche Rolle die Straßenkunst bei dieser städtischen Wiederbelebung spielte.\r\n\r\nWir werden uns mit den Wurzeln von Graffiti in Argentinien beschäftigen, die den Unterdrückten inmitten von Zensur und Autoritarismus eine Stimme gaben, und damit, wie Graffiti oft ein Spiegel der Gesellschaft war und das Auf und Ab der wirtschaftlichen und politischen Zyklen widerspiegelte. Die Straßenkunst hat zu einer jugendlichen Wiederbelebung der städtischen Kultur durch Wandmaler geführt, die die Kunst nutzen, um das Stadtbild zu vermenschlichen, indem sie die tiefsten Leidenschaften des Landes - Fußball, Politik und Identität - in einem lebendigen städtischen Wandteppich zusammenfassen. \r\n\r\nDiese Tour ist keine traditionelle historische Tour, sondern bietet vielmehr die Möglichkeit, die wichtigen sozialen und politischen Themen Argentiniens durch Straßenkunst und Wandmalerei besser zu verstehen.\r\n\r\nWährend dieser Tour werden wir besuchen:\r\n- Plaza Serrano\r\n- Villa Alvear\r\n- Palermo Soho\r\n- Der marokkanische Garten\r\n- Der Gemeinschaftsgarten von Don Julio\r\n- Palermo Viejo\r\n- Die Bar Desarmadero\r\n\r\nDiese Tour wird geführt von: LUKE.",
+      "en": "Much like the path of street art, from its shadowy origins as a guerrilla artform regarded as “vandalism” to later being embraced as high culture, Palermo too had humble beginnings as a working-class borough but would become transformed into the trendiest area of the city. We'll explore the role street art played in this urban revitalisation.\r\n\r\nWe'll engage with graffiti's roots in Argentina, which gave the oppressed a voice amidst censorship and authoritarianism, and how it has often mirrored society, reflecting the ups and downs of economic and political cycles. Street art has empowered a youthful revival of urban culture from muralists who use art to humanise the urban landscape, encapsulating the country's deepest passions from football, politics, and identity into a vibrant urban tapestry. \r\n\r\nNot a traditional historical tour, but rather offers the opportunity to better understand the important social and political issues facing Argentina through its street art and muralism.\r\n\r\nDuring this tour, we will visit:\r\n- Plaza Serrano\r\n- Villa Alvear\r\n- Palermo Soho\r\n- The Moroccan garden\r\n- Don Julio's community garden\r\n- Palermo Viejo\r\n- Desarmadero bar\r\n\r\nThis tour is guided by: LUKE.",
+      "es": "Al igual que el arte callejero, desde sus oscuros orígenes como arte de guerrilla considerado \"vandalismo\" hasta su posterior aceptación como alta cultura, Palermo también tuvo unos humildes comienzos como barrio obrero, pero se transformó en la zona más de moda de la ciudad. Exploraremos el papel que desempeñó el arte callejero en esta revitalización urbana.\r\n\r\nAnalizaremos las raíces del graffiti en Argentina, que dio voz a los oprimidos en medio de la censura y el autoritarismo, y cómo a menudo ha reflejado la sociedad, reflejando los altibajos de los ciclos económicos y políticos. El arte callejero ha impulsado un renacimiento juvenil de la cultura urbana de la mano de muralistas que utilizan el arte para humanizar el paisaje urbano, encapsulando las pasiones más profundas del país desde el fútbol, la política y la identidad en un vibrante tapiz urbano. \r\n\r\nNo se trata de un recorrido histórico tradicional, sino que ofrece la oportunidad de comprender mejor las importantes cuestiones sociales y políticas a las que se enfrenta Argentina a través de su arte callejero y su muralismo.\r\n\r\nDurante este recorrido, visitaremos\r\n- Plaza Serrano\r\n- Villa Alvear\r\n- Palermo Soho\r\n- El jardín marroquí\r\n- La huerta comunitaria de Don Julio\r\n- Palermo Viejo\r\n- Bar Desarmadero\r\n\r\nEste tour es guiado por: LUKE",
+      "fr": "À l'instar du parcours du street art, de ses origines obscures en tant qu'art de guérilla considéré comme du \"vandalisme\" à sa reconnaissance ultérieure en tant que haute culture, Palerme a également connu des débuts modestes en tant que quartier ouvrier avant de devenir le quartier le plus branché de la ville. Nous explorerons le rôle que l'art de la rue a joué dans cette revitalisation urbaine.\r\n\r\nNous nous pencherons sur les racines du graffiti en Argentine, qui a permis aux opprimés de s'exprimer au milieu de la censure et de l'autoritarisme, et sur la manière dont il a souvent été le reflet de la société, reflétant les hauts et les bas des cycles économiques et politiques. L'art de la rue a donné naissance à un renouveau de la culture urbaine grâce aux muralistes qui utilisent l'art pour humaniser le paysage urbain, en résumant les passions les plus profondes du pays, telles que le football, la politique et l'identité, en une tapisserie urbaine vibrante. \r\n\r\nIl ne s'agit pas d'une visite historique traditionnelle, mais plutôt d'une occasion de mieux comprendre les questions sociales et politiques importantes auxquelles l'Argentine est confrontée à travers l'art de la rue et le muralisme.\r\n\r\nAu cours de cette visite, nous visiterons\r\n- Plaza Serrano\r\n- Villa Alvear\r\n- Palermo Soho\r\n- Le jardin marocain\r\n- Le jardin communautaire de Don Julio\r\n- Palermo Viejo\r\n- Bar Desarmadero\r\n\r\nCette visite est guidée par : LUKE.",
+      "it": "Proprio come il percorso della street art, dalle sue origini oscure come forma d'arte di guerriglia considerata \"vandalismo\" fino a essere abbracciata come alta cultura, anche Palermo ha avuto umili inizi come quartiere operaio, ma si è trasformata nell'area più trendy della città. Esploreremo il ruolo della street art in questa rivitalizzazione urbana.\r\n\r\nCi occuperemo delle radici dei graffiti in Argentina, che hanno dato voce agli oppressi in mezzo alla censura e all'autoritarismo, e di come essi abbiano spesso rispecchiato la società, riflettendo gli alti e bassi dei cicli economici e politici. La street art ha dato vita a una rinascita giovanile della cultura urbana grazie a muralisti che usano l'arte per umanizzare il paesaggio urbano, incapsulando le passioni più profonde del Paese, dal calcio alla politica, all'identità, in un vibrante arazzo urbano. \r\n\r\nNon è un tour storico tradizionale, ma offre piuttosto l'opportunità di comprendere meglio le importanti questioni sociali e politiche che l'Argentina deve affrontare attraverso la sua arte di strada e il muralismo.\r\n\r\nDurante questo tour, visiteremo:\r\n- Plaza Serrano\r\n- Villa Alvear\r\n- Palermo Soho\r\n- Il giardino marocchino\r\n- Il giardino comunitario di Don Julio\r\n- Palermo Viejo\r\n- Bar Desarmadero\r\n\r\nQuesta visita è guidata da: LUKE.",
+      "pt": "Tal como o percurso da arte de rua, desde as suas origens obscuras como uma forma de arte de guerrilha considerada \"vandalismo\" até ser mais tarde abraçada como alta cultura, também Palermo teve origens humildes como um bairro da classe trabalhadora, mas viria a transformar-se na zona mais moderna da cidade. Iremos explorar o papel que a arte de rua desempenhou nesta revitalização urbana.\r\n\r\nVamos abordar as raízes do graffiti na Argentina, que deu voz aos oprimidos no meio da censura e do autoritarismo, e a forma como muitas vezes espelhou a sociedade, reflectindo os altos e baixos dos ciclos económicos e políticos. A arte de rua deu poder a um renascimento jovem da cultura urbana de muralistas que usam a arte para humanizar a paisagem urbana, encapsulando as paixões mais profundas do país, desde o futebol, à política e à identidade, numa vibrante tapeçaria urbana. \r\n\r\nNão é um passeio histórico tradicional, mas oferece a oportunidade de entender melhor as importantes questões sociais e políticas que a Argentina enfrenta através de sua arte de rua e muralismo.\r\n\r\nDurante este passeio, visitaremos:\r\n- Plaza Serrano\r\n- Villa Alvear\r\n- Palermo Soho\r\n- O jardim marroquino\r\n- O jardim comunitário de Don Julio\r\n- Palermo Viejo\r\n- Bar Desarmadero\r\n\r\nEsta visita é guiada por: LUKE."
+    },
+    "providerTitle": "Vive Buenos Aires Tours",
+    "providerPhone": "+5491123954356",
+    "URL": "https://www.freetour.com/buenos-aires/palermo-urban-art-graffiti-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/buenos-aires/palermo-urban-art-graffiti-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/buenos-aires/palermo-urban-art-graffiti-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/buenos-aires/palermo-urban-art-graffiti-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/buenos-aires/palermo-urban-art-graffiti-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/buenos-aires/palermo-urban-art-graffiti-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/buenos-aires/palermo-urban-art-graffiti-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Plaza Serrano",
+      "coordinates": "-34.5887764,-58.43020889999999",
+      "googlePlaceId": "ChIJ2y5Sso61vJURiQJkA5umdPc"
+    },
+    "cityId": 29,
+    "countryId": 4,
+    "includes": [
+      "Nola",
+      "Palermo soho",
+      "Desarmadero Bar/Session",
+      "Plazoleta Luna de Enfrente",
+      "Palermo viejo",
+      "MURALES DE MESSI",
+      "Patio de Marruecos",
+      "Plaza Serrano",
+      "Plaza serrano",
+      "Villa Alvear",
+      "Palermo Soho",
+      "Palermo viejo",
+      "Some of the most impressive street art in the continent"
+    ],
+    "POIs": [
+      {
+        "id": 31489,
+        "title": "Nola",
+        "googlePlaceId": "ChIJ-aUIr4m1vJURAlkHv5HhbSE"
+      },
+      {
+        "id": 31484,
+        "title": "Palermo soho",
+        "googlePlaceId": "ChIJD9doXQDLvJURwSsrZI6Moh0"
+      },
+      {
+        "id": 31486,
+        "title": "Desarmadero Bar/Session",
+        "googlePlaceId": "ChIJezauXHnKvJURhbBLjnB4oJY"
+      },
+      {
+        "id": 31488,
+        "title": "Plazoleta Luna de Enfrente",
+        "googlePlaceId": "ChIJO5Pg7oa1vJURvvYW_ZgV1gg"
+      },
+      {
+        "id": 28990,
+        "title": "Palermo viejo",
+        "googlePlaceId": "ChIJP1meyqDLvJUR85kcpcFE9eY"
+      },
+      {
+        "id": 31485,
+        "title": "MURALES DE MESSI",
+        "googlePlaceId": "ChIJTU-GHCm1vJURExVcooxgDOs"
+      },
+      {
+        "id": 31487,
+        "title": "Patio de Marruecos",
+        "googlePlaceId": "ChIJWUc8FQC1vJURwqVrg6Au5xU"
+      },
+      {
+        "id": 13778,
+        "title": "Plaza Serrano",
+        "googlePlaceId": "ChIJF12v9Ii1vJURv5oJP__mD1Y"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-10.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 264321,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-10.jpg"
+      },
+      {
+        "id": 264320,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-09.jpg"
+      },
+      {
+        "id": 264312,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-01.jpg"
+      },
+      {
+        "id": 264313,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-02.jpg"
+      },
+      {
+        "id": 264316,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-05.jpg"
+      },
+      {
+        "id": 264317,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-06.jpg"
+      },
+      {
+        "id": 264319,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-08.jpg"
+      },
+      {
+        "id": 264322,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-11.jpg"
+      },
+      {
+        "id": 264323,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-12.jpg"
+      },
+      {
+        "id": 264324,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-13.jpg"
+      },
+      {
+        "id": 264325,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-14.jpg"
+      },
+      {
+        "id": 264326,
+        "URL": "https://www.freetour.com/images/tours/76279/palermo-urban-art-and-graffiti-tour-15.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 5,
+    "reviewsNumber": 7
+  },
+  {
+    "id": 76348,
+    "updatedAt": "2025-12-11 03:32:38",
+    "title": {
+      "en": "Puerto Madero: From Port Failure to Touristic Success",
+      "es": "Puerto Madero: De Fracaso Portuario a Éxito Turístico",
+      "pt": "Puerto Madero: do fracasso portuário ao sucesso turístico",
+      "de": "Puerto Madero: Vom gescheiterten Hafen zum touristischen Erfolg",
+      "fr": "Puerto Madero : de l'échec portuaire au succès touristique",
+      "it": "Puerto Madero: dal fallimento del porto al successo turistico"
+    },
+    "brief": {
+      "de": "entdecken Sie Puerto Madero, das Viertel, in dem die Vergangenheit des Hafens mit der Moderne neu interpretiert wird! Nehmen Sie an dieser Tour teil und erfahren Sie, wie Buenos Aires einen Misserfolg in eine touristische Ikone voller Geschichte und Stil verwandelt hat.",
+      "en": "discover Puerto Madero, the neighborhood where the port past is reinvented with modernity! Join this tour and learn how Buenos Aires transformed a failure into a tourist icon full of history and style.",
+      "es": "¡Descubre Puerto Madero, el barrio donde el pasado portuario se reinventa con modernidad! Únete a este recorrido y conoce cómo Buenos Aires transformó un fracaso en un ícono turístico lleno de historia y estilo.",
+      "fr": "découvrez Puerto Madero, le quartier où le passé portuaire est réinventé avec modernité ! Participez à cette visite et apprenez comment Buenos Aires a transformé un échec en une icône touristique pleine d'histoire et de style.",
+      "it": "scoprite Puerto Madero, il quartiere in cui il passato portuale si reinventa con la modernità! Partecipate a questo tour e scoprite come Buenos Aires ha trasformato un fallimento in un'icona turistica piena di storia e di stile.",
+      "pt": "descubra Puerto Madero, o bairro onde o passado portuário é reinventado com modernidade! Participe deste passeio e saiba como Buenos Aires transformou um fracasso em um ícone turístico cheio de história e estilo."
+    },
+    "description": {
+      "de": "Wir beginnen unseren Rundgang am Denkmal von Juana Azurduy, von wo aus wir einen besonderen Blick auf das historische Zentrum und ein weites Panorama von Puerto Madero genießen können. Diese Umgebung ermöglicht es uns, das Viertel von Puerto Madero zu verstehen und in einen Kontext zu setzen. \r\n\r\nWir werden über die kuriose Geschichte sprechen, wie sich ein gescheiterter Hafen im Laufe der Jahrzehnte in ein blühendes Touristenziel und ein Avantgarde-Viertel verwandelt hat. Von dem Wunsch, Macht und Geld zu demonstrieren, über die anschließende Aufgabe des Viertels bis hin zu seiner Wiederentdeckung in den 1990er Jahren, so dass das Viertel heute die besten Restaurants der Stadt beherbergt. Wir machen einen Panoramaspaziergang entlang der malerischen Kanäle, der emblematischen Kriegsschiffe ARA Sarmiento und ARA Uruguay und ihrer Geschichte, der Puente de la Mujer, dem Symbol des Viertels. \r\n\r\nWir spazieren durch die Wohnviertel von Puerto Madero und die historischen Gebäude des alten Hafens, die in Museen und Kunstgalerien umgewandelt wurden. Wir werden uns über die Beziehung des Viertels zum Zentrum erkundigen und die Gelegenheit haben, die beeindruckende Aussicht auf das historische Zentrum von Puerto Madero im Kontrast zur avantgardistischen Architektur, die sie dem Viertel verliehen haben, zu genießen. \r\n\r\nEin Misserfolg, der sich in einen Erfolg verwandelt.",
+      "en": "We will start our tour at the monument to Juana Azurduy, enjoying a particular view of the historic center and a wide panorama of Puerto Madero. This scenery allows us to understand and put into context the neighborhood of Puerto Madero. \r\n\r\nWe will talk about the curious story of how a failed port was transformed into a thriving tourist destination and avant-garde neighborhood over the decades. From the desire to demonstrate power and money, its subsequent abandonment and its rediscovery in the 90's so that today the neighborhood is home to the best restaurants in the city. We will take a panoramic walk through its picturesque canals, the emblematic warships ARA Sarmiento and ARA Uruguay and their stories, El Puente de la Mujer, symbol of the neighborhood. \r\n\r\nWe will stroll through the residential areas of Puerto Madero along with historic structures of the old port, converted into museums and art galleries. We will inquire about the relationship of the neighborhood with the center, and we will have the opportunity to enjoy the impressive views of the historic center from Puerto Madero in contrast with the avant-garde architecture that was imprinted on the neighborhood. \r\n\r\nA failure transformed into a success.",
+      "es": "Comenzaremos nuestro recorrido en el monumento a Juana Azurduy, disfrutando de una mirada particular del centro histórico y un amplio panorama de Puerto Madero. Este escenario nos permite comprender y poner en contexto al barrio de Puerto Madero. \r\n\r\nHablaremos de la curiosa historia de cómo un puerto fallido se transformó en un próspero destino turístico y un barrio vanguardista a lo largo de las décadas. Del deseo de demostración de poder y dinero, su posterior abandono y su redescubrimiento en la década del 90 para que hoy el barrio sea hogar de los mejores restaurantes de la ciudad. Daremos un paseo panorámico por sus pintorescos canales, los emblemáticos buques de guerra ARA Sarmiento y ARA Uruguay y sus historias, El Puente de la Mujer, símbolo del barrio. \r\n\r\nPasearemos por las zonas residenciales de Puerto Madero junto con estructuras históricas del viejo puerto, reconvertidas en museos y galerías de arte. Indagaremos sobre la relación del barrio con el centro, y tendremos oportunidad disfrutar de las impresionantes vistas del centro histórico desde Puerto Madero en contraste con la arquitectura vanguardista que le imprimieron al barrio. \r\n\r\nUn fracaso transformado en un éxito.",
+      "fr": "Nous commencerons notre visite au monument de Juana Azurduy, en profitant d'une vue particulière sur le centre historique et d'un large panorama de Puerto Madero. Ce cadre nous permet de comprendre et de replacer dans son contexte le quartier de Puerto Madero. \r\n\r\nNous parlerons de l'histoire curieuse de la transformation d'un port en faillite en une destination touristique prospère et un quartier d'avant-garde au fil des décennies. Depuis le désir de démontrer le pouvoir et l'argent, jusqu'à son abandon ultérieur et sa redécouverte dans les années 1990, de sorte qu'aujourd'hui, le quartier abrite les meilleurs restaurants de la ville. Nous ferons une promenade panoramique le long de ses canaux pittoresques, des emblématiques navires de guerre ARA Sarmiento et ARA Uruguay et de leurs histoires, du Puente de la Mujer, symbole du quartier. \r\n\r\nNous nous promènerons dans les quartiers résidentiels de Puerto Madero, le long des structures historiques du vieux port, transformées en musées et galeries d'art. Nous nous interrogerons sur la relation du quartier avec le centre, et nous aurons l'occasion d'apprécier les vues impressionnantes du centre historique depuis Puerto Madero, en contraste avec l'architecture d'avant-garde qu'ils ont donné au quartier. \r\n\r\nUn échec transformé en succès.",
+      "it": "Inizieremo la nostra visita dal monumento a Juana Azurduy, godendo di una vista particolare del centro storico e di un ampio panorama di Puerto Madero. Questo scenario ci permette di capire e contestualizzare il quartiere di Puerto Madero. \r\n\r\nParleremo della curiosa storia di come un porto fallito sia stato trasformato in una fiorente destinazione turistica e in un quartiere all'avanguardia nel corso dei decenni. Dal desiderio di dimostrare potere e denaro, al successivo abbandono e alla sua riscoperta negli anni '90, tanto che oggi il quartiere ospita i migliori ristoranti della città. Faremo una passeggiata panoramica lungo i suoi pittoreschi canali, le emblematiche navi da guerra ARA Sarmiento e ARA Uruguay e le loro storie, il Puente de la Mujer, simbolo del quartiere. \r\n\r\nPasseggeremo tra le zone residenziali di Puerto Madero e le strutture storiche del vecchio porto, trasformate in musei e gallerie d'arte. Ci informeremo sul rapporto del quartiere con il centro e avremo l'opportunità di godere delle impressionanti viste del centro storico da Puerto Madero in contrasto con l'architettura d'avanguardia che hanno dato al quartiere. \r\n\r\nUn fallimento trasformato in un successo.",
+      "pt": "Começaremos o nosso passeio no monumento a Juana Azurduy, desfrutando de uma vista particular do centro histórico e de um amplo panorama de Puerto Madero. Este cenário permite-nos compreender e contextualizar o bairro de Puerto Madero. \r\n\r\nFalaremos sobre a curiosa história de como um porto falido foi transformado num próspero destino turístico e num bairro vanguardista ao longo das décadas. Desde o desejo de demonstrar poder e dinheiro, ao seu posterior abandono e à sua redescoberta nos anos 90, para que hoje o bairro albergue os melhores restaurantes da cidade. Faremos um passeio panorâmico pelos seus pitorescos canais, os emblemáticos navios de guerra ARA Sarmiento e ARA Uruguay e as suas histórias, a Puente de la Mujer, símbolo do bairro. \r\n\r\nPercorreremos as zonas residenciais de Puerto Madero e as estruturas históricas do antigo porto, convertidas em museus e galerias de arte. Perguntaremos sobre a relação do bairro com o centro e teremos a oportunidade de apreciar as impressionantes vistas do centro histórico a partir de Puerto Madero em contraste com a arquitetura vanguardista que deram ao bairro. \r\n\r\nUm fracasso transformado em sucesso."
+    },
+    "providerTitle": "Vive Buenos Aires Tours",
+    "providerPhone": "+5491123954356",
+    "URL": "https://www.freetour.com/buenos-aires/puerto-madero-de-fracaso-portuario-a-exito-turistico?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/buenos-aires/puerto-madero-de-fracaso-portuario-a-exito-turistico?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/buenos-aires/puerto-madero-de-fracaso-portuario-a-exito-turistico?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/buenos-aires/puerto-madero-de-fracaso-portuario-a-exito-turistico?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/buenos-aires/puerto-madero-de-fracaso-portuario-a-exito-turistico?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/buenos-aires/puerto-madero-de-fracaso-portuario-a-exito-turistico?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/buenos-aires/puerto-madero-de-fracaso-portuario-a-exito-turistico?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Monumento a Juana Azurduy",
+      "coordinates": "-34.60468049999999,-58.36934890000001",
+      "googlePlaceId": "ChIJk6q-xzI1o5URGxac3FQzIDM"
+    },
+    "cityId": 29,
+    "countryId": 4,
+    "includes": [
+      "Centro Cultural Kirchner (CCK)",
+      "Woman's Bridge",
+      "Alvear Tower",
+      "Casa Rosada",
+      "Buque Museo Fragata A.R.A. \"Presidente Sarmiento\"",
+      "Libertador Building",
+      "Monumento a Juana Azurduy",
+      "Puerto Madero, Buenos Aires",
+      "Aduana Argentina",
+      "Parque Mujeres Argentinas"
+    ],
+    "POIs": [
+      {
+        "id": 2653,
+        "title": "Centro Cultural Kirchner (CCK)",
+        "googlePlaceId": "ChIJAYdZgzI1o5URUlEv3u3nFP8"
+      },
+      {
+        "id": 2908,
+        "title": "Woman's Bridge",
+        "googlePlaceId": "ChIJbSLzQyk1o5URPBMjt-fRU98"
+      },
+      {
+        "id": 3232,
+        "title": "Alvear Tower",
+        "googlePlaceId": "ChIJCcQPHtg0o5URJt751e2psSY"
+      },
+      {
+        "id": 3730,
+        "title": "Casa Rosada",
+        "googlePlaceId": "ChIJdW8nviw1o5URbfhFBe8haeE"
+      },
+      {
+        "id": 4862,
+        "title": "Buque Museo Fragata A.R.A. \"Presidente Sarmiento\"",
+        "googlePlaceId": "ChIJgTHy5i01o5URJicCegiXzV0"
+      },
+      {
+        "id": 31499,
+        "title": "Libertador Building",
+        "googlePlaceId": "ChIJgWCGvCs1o5URwgXVNmzdKME"
+      },
+      {
+        "id": 27013,
+        "title": "Monumento a Juana Azurduy",
+        "googlePlaceId": "ChIJSba5eyw1o5URuQwc6lq2L6c"
+      },
+      {
+        "id": 10141,
+        "title": "Puerto Madero, Buenos Aires",
+        "googlePlaceId": "ChIJu-g7srE1o5URz-qiKvwNL4g"
+      },
+      {
+        "id": 31500,
+        "title": "Aduana Argentina",
+        "googlePlaceId": "ChIJV426mEw1o5URgDZylQXXOjg"
+      },
+      {
+        "id": 27014,
+        "title": "Parque Mujeres Argentinas",
+        "googlePlaceId": "ChIJY7v2kSg1o5URwfnHzj56_6M"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/76348/-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 264428,
+        "URL": "https://www.freetour.com/images/tours/76348/-02.jpg"
+      },
+      {
+        "id": 264427,
+        "URL": "https://www.freetour.com/images/tours/76348/-01.jpg"
+      },
+      {
+        "id": 264430,
+        "URL": "https://www.freetour.com/images/tours/76348/-04.jpg"
+      },
+      {
+        "id": 264431,
+        "URL": "https://www.freetour.com/images/tours/76348/-05.jpg"
+      },
+      {
+        "id": 264432,
+        "URL": "https://www.freetour.com/images/tours/76348/-06.jpg"
+      },
+      {
+        "id": 264433,
+        "URL": "https://www.freetour.com/images/tours/76348/-07.jpg"
+      },
+      {
+        "id": 264434,
+        "URL": "https://www.freetour.com/images/tours/76348/-08.jpg"
+      },
+      {
+        "id": 264435,
+        "URL": "https://www.freetour.com/images/tours/76348/-09.jpg"
+      },
+      {
+        "id": 264436,
+        "URL": "https://www.freetour.com/images/tours/76348/-10.jpg"
+      },
+      {
+        "id": 264437,
+        "URL": "https://www.freetour.com/images/tours/76348/-11.jpg"
+      },
+      {
+        "id": 264438,
+        "URL": "https://www.freetour.com/images/tours/76348/-12.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 1
+  },
+  {
+    "id": 79466,
+    "updatedAt": "2025-12-11 03:32:39",
+    "title": {
+      "en": "San Telmo Free Tour: The Cradle of the City",
+      "es": "San Telmo Free Tour: La Cuna de la Ciudad",
+      "pt": "Visita guiada gratuita a San Telmo: O berço da cidade",
+      "de": "Kostenlose Tour durch San Telmo: Die Wiege der Stadt",
+      "fr": "Visite gratuite de San Telmo : Le berceau de la ville",
+      "it": "Tour gratuito di San Telmo: La culla della città"
+    },
+    "brief": {
+      "de": "Entdecken Sie Jahrhunderte fesselnder Geschichte auf unserer San Telmo Free Walking Tour! Schlendern Sie durch die kopfsteingepflasterten Straßen, wo Tangomelodien durch die Luft schweben, Wandmalereien an jeder Ecke zum Leben erwachen und jedes Gebäude eine Geschichte zu erzählen hat.",
+      "en": "Uncover centuries of captivating history on our San Telmo Free Walking Tour! Wander along cobblestone streets where tango melodies float through the air, murals come to life on every corner, and every building has a story to tell.",
+      "es": "Descubra siglos de historia cautivadora en nuestro recorrido gratuito a pie por San Telmo Pasee por calles empedradas donde las melodías de tango flotan en el aire, los murales cobran vida en cada esquina y cada edificio tiene una historia que contar.",
+      "fr": "Découvrez des siècles d'histoire captivante lors de notre visite à pied gratuite de San Telmo ! Promenez-vous dans les rues pavées où les mélodies de tango flottent dans l'air, où les peintures murales prennent vie à chaque coin de rue et où chaque bâtiment a une histoire à raconter.",
+      "it": "Scoprite secoli di storia affascinante con il nostro tour a piedi gratuito di San Telmo! Passeggiate lungo le strade acciottolate dove le melodie del tango fluttuano nell'aria, i murales prendono vita a ogni angolo e ogni edificio ha una storia da raccontare.",
+      "pt": "Descubra séculos de história cativante no nosso passeio a pé gratuito por San Telmo! Passeie por ruas de paralelepípedos onde melodias de tango flutuam no ar, murais ganham vida em cada esquina e cada prédio tem uma história para contar."
+    },
+    "description": {
+      "de": "Entdecken Sie Jahrhunderte fesselnder Geschichte auf unserer San Telmo Free Walking Tour!\r\n\r\nBeginnen Sie am kultigen Cabildo und tauchen Sie ein in die feurigen Anfänge von Buenos Aires, von der Landung Mendozas 1536 bis zur Mairevolution 1810. Entdecken Sie die Geheimnisse der Kolonialzeit, das mächtige Erbe der Jesuiten in der Manzana de las Luces (mit ihren mysteriösen Tunneln!) und die strategische Vergangenheit der Stadt, die von Schmuggelware geprägt ist.\r\n\r\nSchlendern Sie durch die kopfsteingepflasterten Straßen, wo Tangomelodien durch die Luft schweben, Wandmalereien an jeder Ecke zum Leben erwachen und jedes Gebäude eine Geschichte zu erzählen hat. Dieser kostenlose Rundgang führt Sie tief in die Seele der Stadt, in der Buenos Aires geboren wurde und deren pulsierendes Herz noch heute schlägt.\r\n\r\nSchlendern Sie durch die Wiege des Tangos, voller Antiquitätengeschäfte, bunter Charaktere und künstlerischer Rebellion. Vom historischen Markt von San Telmo bis zur skurrilen Welt von Mafalda und dem Comic Strip Walk - jeder Halt fügt einen Pinselstrich zu dieser lebendigen Leinwand der Porteño-Kultur hinzu.\r\n\r\nDies ist mehr als eine Geschichtsstunde; es ist eine sinnliche Reise durch Kunst, Leidenschaft und Zeit.",
+      "en": "Uncover centuries of captivating history on our San Telmo Free Walking Tour!\r\n\r\nBegin at the iconic Cabildo, delving into Buenos Aires' fiery foundations, from Mendoza's 1536 landing to the 1810 May Revolution. Discover colonial secrets, the powerful legacy of the Jesuits at Manzana de las Luces (and its mysterious tunnels!), and the city's strategic yet contraband-filled past.\r\n\r\nWander along cobblestone streets where tango melodies float through the air, murals come to life on every corner, and every building has a story to tell. This free walking tour takes you deep into the soul of the city, where Buenos Aires was born and where its vibrant heart still beats today.\r\n\r\nStroll through the cradle of tango, filled with antique shops, colorful characters, and artistic rebellion. From the historic San Telmo Market to the whimsical world of Mafalda and the Comic Strip Walk, every stop adds a brushstroke to this living canvas of porteño culture.\r\n\r\nThis is more than a history lesson; it’s a sensory journey through art, passion, and time.",
+      "es": "Descubra siglos de historia cautivadora en nuestro recorrido gratuito a pie por San Telmo\r\n\r\nComience en el emblemático Cabildo y adéntrese en los ardientes cimientos de Buenos Aires, desde el desembarco de Mendoza en 1536 hasta la Revolución de Mayo de 1810. Descubra los secretos coloniales, el poderoso legado de los jesuitas en la Manzana de las Luces (¡y sus misteriosos túneles!), y el pasado estratégico y lleno de contrabando de la ciudad.\r\n\r\nDeambule por calles adoquinadas donde las melodías del tango flotan en el aire, los murales cobran vida en cada esquina y cada edificio tiene una historia que contar. Este recorrido gratuito a pie le adentrará en el alma de la ciudad, donde nació Buenos Aires y donde aún hoy late su vibrante corazón.\r\n\r\nPasee por la cuna del tango, repleta de tiendas de antigüedades, personajes pintorescos y rebeldía artística. Desde el histórico Mercado de San Telmo hasta el caprichoso mundo de Mafalda y el Paseo de la Historieta, cada parada añade una pincelada a este lienzo vivo de la cultura porteña.\r\n\r\nEsto es más que una lección de historia; es un viaje sensorial a través del arte, la pasión y el tiempo.",
+      "fr": "Découvrez des siècles d'histoire captivante lors de notre visite à pied gratuite de San Telmo !\r\n\r\nCommencez par l'emblématique Cabildo et plongez dans les fondations enflammées de Buenos Aires, du débarquement de Mendoza en 1536 à la révolution de mai en 1810. Découvrez les secrets coloniaux, le puissant héritage des Jésuites à la Manzana de las Luces (et ses mystérieux tunnels !), et le passé stratégique de la ville, pourtant rempli de contrebande.\r\n\r\nPromenez-vous dans les rues pavées où les mélodies du tango flottent dans l'air, où les peintures murales prennent vie à chaque coin de rue et où chaque bâtiment a une histoire à raconter. Cette visite à pied gratuite vous emmène au cœur de l'âme de la ville, là où Buenos Aires est née et où son cœur vibrant bat encore aujourd'hui.\r\n\r\nFlânez dans le berceau du tango, rempli de boutiques d'antiquités, de personnages colorés et de rébellion artistique. Du marché historique de San Telmo au monde fantaisiste de Mafalda, en passant par la promenade de la bande dessinée, chaque arrêt ajoute un coup de pinceau à cette toile vivante de la culture porteño.\r\n\r\nPlus qu'une leçon d'histoire, c'est un voyage sensoriel à travers l'art, la passion et le temps.",
+      "it": "Scoprite secoli di storia affascinante con il nostro tour a piedi gratuito di San Telmo!\r\n\r\nPartendo dall'iconico Cabildo, vi addentrerete nelle ardenti fondamenta di Buenos Aires, dallo sbarco di Mendoza nel 1536 alla Rivoluzione di Maggio del 1810. Scoprite i segreti coloniali, la potente eredità dei gesuiti a Manzana de las Luces (e i suoi misteriosi tunnel!) e il passato strategico e pieno di contrabbando della città.\r\n\r\nPasseggiate lungo le strade acciottolate dove le melodie del tango fluttuano nell'aria, i murales prendono vita a ogni angolo e ogni edificio ha una storia da raccontare. Questo tour a piedi gratuito vi porterà nel cuore della città, dove Buenos Aires è nata e dove il suo cuore vibrante batte ancora oggi.\r\n\r\nPasseggiate nella culla del tango, piena di negozi di antiquariato, personaggi colorati e ribellione artistica. Dallo storico mercato di San Telmo all'estroso mondo di Mafalda e alla Passeggiata dei Fumetti, ogni tappa aggiunge una pennellata a questa tela vivente della cultura porteño.\r\n\r\nÈ più di una lezione di storia: è un viaggio sensoriale attraverso l'arte, la passione e il tempo.",
+      "pt": "Descubra séculos de história cativante em nosso San Telmo Free Walking Tour!\r\n\r\nComece no emblemático Cabildo, mergulhando nas fundações ardentes de Buenos Aires, desde o desembarque de Mendoza em 1536 até a Revolução de maio de 1810. Descubra os segredos coloniais, o poderoso legado dos jesuítas na Manzana de las Luces (e seus misteriosos túneis!), e o passado estratégico e cheio de contrabando da cidade.\r\n\r\nPasseie pelas ruas de paralelepípedos onde melodias de tango flutuam no ar, murais ganham vida em cada esquina e cada prédio tem uma história para contar. Este passeio a pé gratuito leva-o até à alma da cidade, onde Buenos Aires nasceu e onde o seu coração vibrante ainda hoje bate.\r\n\r\nPasseie pelo berço do tango, repleto de lojas de antiguidades, personagens coloridos e rebeldia artística. Desde o histórico Mercado de San Telmo até o caprichoso mundo de Mafalda e o Passeio dos Quadrinhos, cada parada acrescenta uma pincelada a esta tela viva da cultura portenha.\r\n\r\nMais do que uma aula de história, esta é uma viagem sensorial através da arte, da paixão e do tempo."
+    },
+    "providerTitle": "Vive Buenos Aires Tours",
+    "providerPhone": "+5491123954356",
+    "URL": "https://www.freetour.com/buenos-aires/san-telmo-the-cradle-of-the-city?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/buenos-aires/san-telmo-the-cradle-of-the-city?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/buenos-aires/san-telmo-the-cradle-of-the-city?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/buenos-aires/san-telmo-the-cradle-of-the-city?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/buenos-aires/san-telmo-the-cradle-of-the-city?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/buenos-aires/san-telmo-the-cradle-of-the-city?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/buenos-aires/san-telmo-the-cradle-of-the-city?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Cabildo de Buenos Aires",
+      "coordinates": "-34.6087606,-58.3737851",
+      "googlePlaceId": "ChIJo23KaNPKvJURK3BsapwMVDU"
+    },
+    "cityId": 29,
+    "countryId": 4,
+    "includes": [
+      "San Telmo Market",
+      "Convento Santo Domingo - Basílica Nuestra Señora del Rosario de la Defensa y Reconquista de Buenos A",
+      "Mausoleo del General Manuel Belgrano",
+      "Feria San Telmo calle defensa y chile",
+      "San Telmo",
+      "Estatua de Mafalda",
+      "Block of the Lights Historical-Cultural Complex",
+      "Edificio Otto Wulff",
+      "Plaza Dorrego",
+      "Paseo de la Historieta",
+      "Parroquia San Ignacio de Loyola",
+      "Plaza de Mayo",
+      "montserrat"
+    ],
+    "POIs": [
+      {
+        "id": 12999,
+        "title": "San Telmo Market",
+        "googlePlaceId": "ChIJ21OGjCrLvJUR8SKFKrz5eX8"
+      },
+      {
+        "id": 1063,
+        "title": "Convento Santo Domingo - Basílica Nuestra Señora del Rosario de la Defensa y Reconquista de Buenos A",
+        "googlePlaceId": "ChIJ39kcLdXKvJURTENDzemSdak"
+      },
+      {
+        "id": 3462,
+        "title": "Mausoleo del General Manuel Belgrano",
+        "googlePlaceId": "ChIJd12n0io1o5URmJZFAAB9tGU"
+      },
+      {
+        "id": 26907,
+        "title": "Feria San Telmo calle defensa y chile",
+        "googlePlaceId": "ChIJD76Hos01o5URBQPPX7duj6o"
+      },
+      {
+        "id": 21593,
+        "title": "San Telmo",
+        "googlePlaceId": "ChIJdeZ0J9XKvJURvfFjdDoGe9w"
+      },
+      {
+        "id": 24604,
+        "title": "Estatua de Mafalda",
+        "googlePlaceId": "ChIJeRQn1k01o5UR5o5Yb5aJJ5Y"
+      },
+      {
+        "id": 4365,
+        "title": "Block of the Lights Historical-Cultural Complex",
+        "googlePlaceId": "ChIJfb4NY9TKvJURcgEHRKvcNf4"
+      },
+      {
+        "id": 32707,
+        "title": "Edificio Otto Wulff",
+        "googlePlaceId": "ChIJI2uTVtTKvJURFnC25rlJMJA"
+      },
+      {
+        "id": 5614,
+        "title": "Plaza Dorrego",
+        "googlePlaceId": "ChIJifSktCzLvJURsTMaMFXLu3E"
+      },
+      {
+        "id": 32708,
+        "title": "Paseo de la Historieta",
+        "googlePlaceId": "ChIJMSPIdAA1o5URqno8fU3WNzA"
+      },
+      {
+        "id": 7974,
+        "title": "Parroquia San Ignacio de Loyola",
+        "googlePlaceId": "ChIJoeWwm9TKvJURrKa3siFbBPY"
+      },
+      {
+        "id": 11699,
+        "title": "Plaza de Mayo",
+        "googlePlaceId": "ChIJXx79V9vKvJURS2GosE58c8w"
+      },
+      {
+        "id": 32706,
+        "title": "montserrat",
+        "googlePlaceId": "ChIJZ7QXlzLLvJURnoWB5fMqLIQ"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 275046,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-02.jpg"
+      },
+      {
+        "id": 275047,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-03.jpg"
+      },
+      {
+        "id": 275048,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-04.jpg"
+      },
+      {
+        "id": 275049,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-05.jpg"
+      },
+      {
+        "id": 275050,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-06.jpg"
+      },
+      {
+        "id": 275051,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-07.jpg"
+      },
+      {
+        "id": 275052,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-08.jpg"
+      },
+      {
+        "id": 275054,
+        "URL": "https://www.freetour.com/images/tours/79466/san-telmo-the-cradle-of-the-city-10.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 86905,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "La Cumbre Free Tour: English Style",
+      "es": "La Cumbre  Free Tour: De Estilo Ingles",
+      "pt": "La Cumbre Free Tour: Estilo inglês",
+      "de": "La Cumbre Free Tour: Englischer Stil",
+      "fr": "La Cumbre Free Tour : English Style",
+      "it": "Tour gratuito de La Cumbre: stile inglese"
+    },
+    "brief": {
+      "de": "Von der Plaza 25 de Mayo zum Golfclub La Cumbre, über Sarmiento und Av. Argentina mit Blick auf das Castillo de Mandl. Dann entlang der 9 de Julio zur Iglesia del Carmen und dem alten Bahnhof. Ein Spaziergang voller Geschichte und Landschaften.",
+      "en": "Tour from Plaza 25 de Mayo to the Golf Club of La Cumbre, going up Sarmiento and Argentina Avenue with a view of the Mandl Castle. Then along 9 de Julio to the Iglesia del Carmen and the old station. A walk full of history and landscapes.",
+      "es": "Recorrido desde Plaza 25 de Mayo hasta el Golf Club de La Cumbre, subiendo por Sarmiento y Av. Argentina con vistas al Castillo de Mandl. Luego por 9 de Julio hasta la Iglesia del Carmen y la antigua estación. Un paseo lleno de historia y paisajes.",
+      "fr": "De la Plaza 25 de Mayo au Golf Club de La Cumbre, en passant par Sarmiento et l'Av. Argentina avec vue sur le Castillo de Mandl. Puis le long du 9 de Julio jusqu'à l'Iglesia del Carmen et l'ancienne gare. Une promenade pleine d'histoire et de paysages.",
+      "it": "Da Plaza 25 de Mayo al Golf Club de La Cumbre, risalendo Sarmiento e Av. Argentina con vista sul Castillo de Mandl. Poi lungo il 9 de Julio fino alla Iglesia del Carmen e alla vecchia stazione. Una passeggiata ricca di storia e di paesaggi.",
+      "pt": "Da Plaza 25 de Mayo até ao Clube de Golfe de La Cumbre, subindo a Sarmiento e a Av. Argentina com vista para o Castillo de Mandl. Depois, pela 9 de Julio até à Iglesia del Carmen e à antiga estação. Um passeio cheio de história e de paisagens."
+    },
+    "description": {
+      "de": "Wir beginnen an der \"Plaza 25 de Mayo\" und gehen weiter über die Calle Sarmiento und die Avenida Argentina, wobei wir die großen Häuser und Gasthäuser im englischen Stil bewundern. Von einem idealen Aussichtspunkt aus sehen wir das \"Castillo de Mandl\", dessen Geschichte ich Ihnen erzählen werde, dann nähern wir uns über eine Seitenstraße dem Golfclub von La Cumbre, und wir gehen in Richtung der Carmen-Kirche (anglikanischer Stil) und etwa 300 Meter weiter beenden wir unsere Tour am Bahnhof (heute Fremdenverkehrsbüro) und dort werde ich Ihnen nützliche Informationen für Ihren Besuch und/oder Aufenthalt in diesem Bergdorf (Historische Stadt seit 2021) geben.\r\n\r\nHerzliche Grüße!",
+      "en": "We start in the \"Plaza 25 de Mayo\" we continue along Sarmiento street and Avenida Argentina admiring large houses and inns of English style in its architecture, from an ideal panoramic point we see the \"Castillo de Mandl\" and there I will tell you its history, then we approach by a side street of the Golf Club of La Cumbre, and we head towards the Church of Carmen (Anglican style) and about 300 meters ahead we finish our tour at the Railway Station (today Tourist Office) and there I will give you useful information for your passage and / or stay in this mountain town (Historic Town since 2021).\r\n\r\nGreetings!",
+      "es": "Comenzamos en la \"Plaza 25 de Mayo\" seguimos por calle Sarmiento y Avenida Argentina admirando casonas y posadas de estilo inglés en su arquitectura, desde un punto panorámico ideal vemos el \"Castillo de Mandl\" y allí les contaré su historia, luego nos acercamos por una calle lateral del Golf Club de La Cumbre, y nos dirigimos hacia la Iglesia del Carmen (de estilo anglicano) y en unos 300 metros más adelante terminamos nuestro recorrido en la Estación del ferrocarril (hoy Oficina de Turismo) y allí les daré informaciones útiles para su paso y/o estadía por esta localidad serrana (Pueblo Histórico desde el 2021).\r\n\r\nSaludos!",
+      "fr": "Nous partons de la \"Plaza 25 de Mayo\" et continuons par la rue Sarmiento et l'avenue Argentina en admirant les grandes maisons et les auberges de style anglais, d'un point panoramique idéal nous voyons le \"Castillo de Mandl\" et là je vous raconterai son histoire, puis nous nous approchons par une rue latérale du Club de Golf de La Cumbre, et nous nous dirigeons vers l'église du Carmen (style anglican) et environ 300 mètres plus loin, nous terminons notre visite à la gare (aujourd'hui office du tourisme) et là, je vous donnerai des informations utiles pour votre visite et/ou séjour dans ce village de montagne (ville historique depuis 2021).\r\n\r\nJe vous salue !",
+      "it": "Partiamo dalla \"Plaza 25 de Mayo\" e proseguiamo lungo la via Sarmiento e l'Avenida Argentina ammirando le grandi case e le locande di architettura inglese, da un punto panoramico ideale vediamo il \"Castillo de Mandl\" e lì vi racconterò la sua storia, poi ci avviciniamo da una strada laterale del Golf Club de La Cumbre, e ci dirigiamo verso la Chiesa del Carmen (in stile anglicano) e circa 300 metri più avanti terminiamo il nostro tour alla Stazione Ferroviaria (oggi Ufficio del Turismo) e lì vi darò informazioni utili per il vostro soggiorno in questo villaggio di montagna (Città Storica dal 2021).\r\n\r\nSaluti!",
+      "pt": "Começamos na \"Plaza 25 de Mayo\" e continuamos pela Rua Sarmiento e Avenida Argentina admirando as grandes casas e pousadas de arquitetura inglesa, de um ponto panorâmico ideal vemos o \"Castillo de Mandl\" e aí contarei a sua história, depois aproximamo-nos por uma rua lateral do Clube de Golfe de La Cumbre, e dirigimo-nos para a Igreja de Carmen (estilo anglicano) e cerca de 300 metros mais adiante terminamos o nosso passeio na Estação Ferroviária (hoje Posto de Turismo) e aí dar-vos-ei informações úteis para a vossa visita e/ou estadia nesta aldeia de montanha (Cidade Histórica desde 2021).\r\n\r\nSaudações!"
+    },
+    "providerTitle": "Martin",
+    "providerPhone": "+393917359460",
+    "URL": "https://www.freetour.com/la-cumbre/la-cumbre-estilo-ingles-free-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/la-cumbre/la-cumbre-estilo-ingles-free-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/la-cumbre/la-cumbre-estilo-ingles-free-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/la-cumbre/la-cumbre-estilo-ingles-free-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/la-cumbre/la-cumbre-estilo-ingles-free-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/la-cumbre/la-cumbre-estilo-ingles-free-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/la-cumbre/la-cumbre-estilo-ingles-free-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:15",
+    "meetingPoint": {
+      "title": "plaza 25 de mayo",
+      "coordinates": "-30.98036953062287,-64.48884794329167",
+      "googlePlaceId": "ChIJI5V-CXKFLZQRWHIG0ypOvdc"
+    },
+    "cityId": 51,
+    "countryId": 4,
+    "includes": [
+      "El Castillo de Mandl, Estacion del ferrocarril, Iglesia del Carmen, Golf Club"
+    ],
+    "POIs": [
+      {
+        "id": 34988,
+        "title": "El Castillo de Mandl, Estacion del ferrocarril, Iglesia del Carmen, Golf Club",
+        "googlePlaceId": "ChIJjyzSfHuFLZQRjwHUu8vcvEc"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86905/-532-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 299574,
+        "URL": "https://www.freetour.com/images/tours/86905/-532-01.jpg"
+      },
+      {
+        "id": 299556,
+        "URL": "https://www.freetour.com/images/tours/86905/-01.jpg"
+      },
+      {
+        "id": 299575,
+        "URL": "https://www.freetour.com/images/tours/86905/-532-02.jpg"
+      },
+      {
+        "id": 299557,
+        "URL": "https://www.freetour.com/images/tours/86905/-02.jpg"
+      },
+      {
+        "id": 299576,
+        "URL": "https://www.freetour.com/images/tours/86905/-532-03.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 86953,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "A corner of Recoleta and Palermo Chico: Free Tour",
+      "es": "Un rincón de Recoleta y Palermo Chico: Free Tour",
+      "pt": "Um canto da Recoleta e Palermo Chico: visita guiada gratuita",
+      "de": "Eine Ecke von Recoleta und Palermo Chico: Kostenlose Tour",
+      "fr": "Un coin de Recoleta et Palermo Chico : visite gratuite",
+      "it": "Un angolo di Recoleta e Palermo Chico: visita gratuita"
+    },
+    "brief": {
+      "de": "Eine versteckte Ecke zwischen eleganten Straßen und historischen Gebäuden, ideal für eine gemütliche Erkundung. Die Zeit scheint stillzustehen: Jedes Detail erzählt eine Geschichte, die nur wenige Reisende kennen. Sollen wir sie gemeinsam durchwandern?",
+      "en": "A hidden corner between elegant streets and historic buildings, ideal for leisurely exploration. Time seems to stand still: every detail tells a story and few travelers know about it. Shall we walk through it together?",
+      "es": "Un rincón oculto entre calles elegantes y edificios históricos, ideal para explorar sin prisa. El tiempo parece detenerse: cada detalle cuenta una historia y pocos viajeros lo conocen. ¿La recorremos juntos?",
+      "fr": "Un coin caché entre des rues élégantes et des bâtiments historiques, idéal pour une exploration tranquille. Le temps semble s'être arrêté : chaque détail raconte une histoire et peu de voyageurs la connaissent... Allons-nous la parcourir ensemble ?",
+      "it": "Un angolo nascosto tra strade eleganti e palazzi storici, ideale per una piacevole esplorazione. Il tempo sembra essersi fermato: ogni dettaglio racconta una storia e pochi viaggiatori la conoscono. Vogliamo percorrerla insieme?",
+      "pt": "Um recanto escondido entre ruas elegantes e edifícios históricos, ideal para uma exploração sem pressas. O tempo parece ter parado: cada pormenor conta uma história e poucos viajantes a conhecem. Vamos passear juntos por ela?"
+    },
+    "description": {
+      "de": "Erkunden Sie die Stadt in aller Ruhe, sprechen Sie mit denen, die ihre Geschichte lebendig halten, und erleben Sie eine Erfahrung, die Kunst, Tradition und die Seele der Porteños vereint. Ideal für alle, die auf der Suche nach Kultur, Gemütlichkeit und Charme sind.\r\nWir besichtigen die Floralis Genérica, TV Pública, das Evita-Denkmal und die Nationalbibliothek, das Automobilmuseum - was für Geschichten verbergen sich dahinter? Wir besuchen Palermo Chico: Was haben seine großen Häuser mit dem Beginn des 20. Jahrhunderts zu tun? Jahrhunderts zu tun? Der Errázuriz-Palast und das Nationale Institut Sanmartiniano: Verpassen Sie nicht diese Tour durch unsere Geschichte!",
+      "en": "Explore calmly, talk to those who keep its history alive and live an experience that combines art, tradition and porteño soul. Ideal for those who are looking for culture, unhurried and charming.\r\nWe will visit the Floralis Genérica, TV Pública, Evita Monument and National Library, the Automobile Museum. What stories do they hold? We will visit Palermo Chico: What did its big houses have to do with the beginning of the 20th century? The Errázuriz Palace and the Sanmartiniano National Institute: Don't miss this tour through our history!",
+      "es": "Explora con calma, conversa con quienes mantienen viva su historia y viví una experiencia que combina arte, tradición y alma porteña. Ideal para quienes buscan cultura, sin prisa y con encanto.\r\nVisitaremos la Floralis Genérica, TV Pública, Monumento a Evita y Biblioteca Nacional, el Museo del Automóvil. ¿Qué historias encierran? Recorreremos Palermo Chico: ¿Qué tuvieron que ver sus grandes casas con los inicios del siglo XX? El Palacio Errázuriz y el Instituto Nacional Sanmartiniano. ¡No te pierdas este recorrido por nuestra historia!",
+      "fr": "Explorez calmement, discutez avec ceux qui gardent son histoire vivante et vivez une expérience qui combine l'art, la tradition et l'âme porteño. Idéal pour ceux qui recherchent la culture, le calme et le charme.\r\nNous visiterons Floralis Genérica, TV Pública, le monument d'Evita et la bibliothèque nationale, le musée de l'automobile, quelles histoires renferment-ils ? Nous visiterons Palermo Chico : quel est le rapport entre ses grandes maisons et le début du XXe siècle ? Le palais Errázuriz et l'Institut national Sanmartiniano : ne manquez pas cette visite à travers notre histoire !",
+      "it": "Esplorare con calma, parlare con chi mantiene viva la sua storia e vivere un'esperienza che unisce arte, tradizione e anima porteño. Ideale per chi è alla ricerca di cultura, senza fretta e con fascino.\r\nVisiteremo il Floralis Genérica, la TV Pública, il Monumento a Evita e la Biblioteca Nazionale, il Museo dell'Automobile, quali storie contengono? Visiteremo Palermo Chico: cosa hanno a che fare le sue grandi case con l'inizio del XX secolo? Il Palazzo Errázuriz e l'Istituto Nazionale Sanmartiniano: non perdetevi questo tour nella nostra storia!",
+      "pt": "Explorar com calma, conversar com aqueles que mantêm viva a sua história e viver uma experiência que combina arte, tradição e alma portenha. Ideal para quem procura cultura, sem pressa e com charme.\r\nVisitaremos a Floralis Genérica, a TV Pública, o Monumento a Evita e a Biblioteca Nacional, o Museu do Automóvel, que histórias contêm? Visitaremos Palermo Chico: O que é que as suas grandes casas têm a ver com o início do século XX? O Palácio Errázuriz e o Instituto Nacional Sanmartiniano: não perca este passeio pela nossa história!"
+    },
+    "providerTitle": "Silvia Consoni",
+    "providerPhone": "+5491155125610",
+    "URL": "https://www.freetour.com/buenos-aires/free-tour-corner-recoleta-palermo-chico?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/buenos-aires/free-tour-corner-recoleta-palermo-chico?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/buenos-aires/free-tour-corner-recoleta-palermo-chico?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/buenos-aires/free-tour-corner-recoleta-palermo-chico?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/buenos-aires/free-tour-corner-recoleta-palermo-chico?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/buenos-aires/free-tour-corner-recoleta-palermo-chico?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/buenos-aires/free-tour-corner-recoleta-palermo-chico?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Av. Pres. Manuel Quintana 596, Buenos Aires, Argentina",
+      "coordinates": "-34.5879603,-58.39089559999999",
+      "googlePlaceId": "ChIJ-Xo_LrvKvJURcj-osegOgis"
+    },
+    "cityId": 29,
+    "countryId": 4,
+    "includes": [
+      "Biblioteca Nacional Mariano Moreno",
+      "Museo Nacional de Arte Decorativo",
+      "María Eva Duarte de Perón Monument",
+      "Instituto Nacional Sanmartiniano",
+      "Floralis Generica",
+      "Museo Nacional de Bellas Artes",
+      "Recoleta Cemetery",
+      "entrada a Basílica del Pilar",
+      "Entrada a Museo del Automóvil",
+      "Entrada a Instituto Nacional Sanmartiniano"
+    ],
+    "POIs": [
+      {
+        "id": 23166,
+        "title": "Biblioteca Nacional Mariano Moreno",
+        "googlePlaceId": "ChIJ_5LH-J7KvJURhSY-XxLVxnw"
+      },
+      {
+        "id": 25918,
+        "title": "Museo Nacional de Arte Decorativo",
+        "googlePlaceId": "ChIJ-TTbA2K1vJURG1oy4SQwOA4"
+      },
+      {
+        "id": 5052,
+        "title": "María Eva Duarte de Perón Monument",
+        "googlePlaceId": "ChIJH3fxs5_KvJURvnFMmMVCmV8"
+      },
+      {
+        "id": 25917,
+        "title": "Instituto Nacional Sanmartiniano",
+        "googlePlaceId": "ChIJJcwmymO1vJURHZqZfXepm2E"
+      },
+      {
+        "id": 23167,
+        "title": "Floralis Generica",
+        "googlePlaceId": "ChIJJVKN0QbLvJURL3F-pxpZUjY"
+      },
+      {
+        "id": 12765,
+        "title": "Museo Nacional de Bellas Artes",
+        "googlePlaceId": "ChIJQ_bCmaHKvJURfb4aM7hD5Uk"
+      },
+      {
+        "id": 9434,
+        "title": "Recoleta Cemetery",
+        "googlePlaceId": "ChIJs5EH8aLKvJURw6UX3MYKGKE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86953/-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 299744,
+        "URL": "https://www.freetour.com/images/tours/86953/-02.jpg"
+      },
+      {
+        "id": 299748,
+        "URL": "https://www.freetour.com/images/tours/86953/-06.jpg"
+      },
+      {
+        "id": 299749,
+        "URL": "https://www.freetour.com/images/tours/86953/-07.jpg"
+      },
+      {
+        "id": 299755,
+        "URL": "https://www.freetour.com/images/tours/86953/-13.jpg"
+      },
+      {
+        "id": 299756,
+        "URL": "https://www.freetour.com/images/tours/86953/-14.jpg"
+      },
+      {
+        "id": 299759,
+        "URL": "https://www.freetour.com/images/tours/86953/-17.jpg"
+      },
+      {
+        "id": 299761,
+        "URL": "https://www.freetour.com/images/tours/86953/-19.jpg"
+      },
+      {
+        "id": 299786,
+        "URL": "https://www.freetour.com/images/tours/86953/-44.jpg"
+      },
+      {
+        "id": 299787,
+        "URL": "https://www.freetour.com/images/tours/86953/-45.jpg"
+      },
+      {
+        "id": 299788,
+        "URL": "https://www.freetour.com/images/tours/86953/-46.jpg"
+      },
+      {
+        "id": 299792,
+        "URL": "https://www.freetour.com/images/tours/86953/-50.jpg"
+      },
+      {
+        "id": 299793,
+        "URL": "https://www.freetour.com/images/tours/86953/-51.jpg"
+      },
+      {
+        "id": 299794,
+        "URL": "https://www.freetour.com/images/tours/86953/-52.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
   }
 ]

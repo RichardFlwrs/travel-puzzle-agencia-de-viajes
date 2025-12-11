@@ -1,7 +1,7 @@
 [
   {
     "id": 5059,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "The Free Tour of Downtown Vancouver",
       "es": "Recorrido gratuito por el centro de Vancouver",
@@ -133,7 +133,7 @@
   },
   {
     "id": 8022,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Explore Toronto Free Tour",
       "es": "Free Tour Explora Toronto",
@@ -349,7 +349,7 @@
   },
   {
     "id": 36573,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore Toronto Free Tour Starting at St Lawrence Market",
       "es": "Explore Toronto Free Tour con salida desde St Lawrence Market",
@@ -543,7 +543,7 @@
   },
   {
     "id": 36706,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "The Free Tour of Calgary",
       "es": "Visita gratuita a Calgary",
@@ -678,7 +678,7 @@
   },
   {
     "id": 36707,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "The Free Tour of Victoria",
       "es": "Visita gratuita a Victoria",
@@ -843,7 +843,7 @@
   },
   {
     "id": 45108,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Old Town Free Tour of Toronto",
       "es": "Visita gratuita del casco antiguo de Toronto",
@@ -997,7 +997,7 @@
   },
   {
     "id": 58975,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Historical Highlights Walking Tour of Ottawa",
       "es": "Visita guiada gratuita a Ottawa",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": 64367,
-    "updatedAt": "2025-12-01 15:26:07",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Ottawa Christmas Lights Tour",
       "es": "Visita gratuita a las luces de Navidad de Ottawa",
@@ -1227,7 +1227,7 @@
   },
   {
     "id": 72173,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "The Free Tour of Banff",
       "es": "Visita gratuita a Banff",
@@ -1354,7 +1354,7 @@
   },
   {
     "id": 73105,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "The Free Tour of Ottawa",
       "es": "Visita gratuita a Ottawa",
@@ -1512,7 +1512,7 @@
   },
   {
     "id": 73284,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "The Free Tour of Montreal",
       "es": "Tour gratuito de Montreal",
@@ -1628,7 +1628,7 @@
   },
   {
     "id": 73335,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "The Free Tour of Québec City",
       "es": "Visita gratuita de la ciudad de Québec",
@@ -1716,7 +1716,7 @@
   },
   {
     "id": 76977,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Toronto: Discovery District Walking Tour",
       "es": "Toronto: Recorrido a pie por el Distrito del Descubrimiento",
@@ -1868,7 +1868,7 @@
   },
   {
     "id": 77261,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Port Alberni’s Hole in the Wall",
       "es": "Descubre el Hole in the Wall de Port Alberni",
@@ -1946,7 +1946,7 @@
   },
   {
     "id": 78436,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "The Free Tour of Edmonton",
       "es": "Visita gratuita a Edmonton",
@@ -2046,6 +2046,144 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=7bKt-sxnC4k",
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 85839,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Vancouver Stanley Park Highlights Tour",
+      "es": "Lo más destacado del Parque Stanley de Vancouver",
+      "pt": "Excursão ao Stanley Park em Vancouver",
+      "de": "Vancouver Stanley Park Highlights Tour",
+      "fr": "Visite des points forts du parc Stanley de Vancouver",
+      "it": "Tour dei punti salienti del parco Stanley di Vancouver"
+    },
+    "brief": {
+      "de": "Entdecken Sie den Stanley Park auf einem 2,5-stündigen Rundgang. Besuchen Sie die Totempfähle, den Rosengarten, den Causeway, das Mädchen im Neoprenanzug und den Beaver Lake, während Ihr Guide Geschichten über die Geschichte, das indigene Erbe und die reiche Tierwelt des Parks erzählt.\r\n",
+      "en": "Discover Stanley Park on a 2.5-hour walking tour. Visit Totem Poles, Rose Garden, Causeway, Girl in Wetsuit, and Beaver Lake while your guide shares stories of history, Indigenous heritage, and the park’s rich wildlife.\r\n",
+      "es": "Descubra Stanley Park en un recorrido a pie de 2,5 horas. Visita Totem Poles, Rose Garden, Causeway, Girl in Wetsuit y Beaver Lake mientras tu guía te cuenta la historia, la herencia indígena y la rica fauna del parque.\r\n",
+      "fr": "Découvrez le parc Stanley au cours d'une visite à pied de 2,5 heures. Visitez les totems, la roseraie, la chaussée, la fille en combinaison de plongée et le lac Beaver pendant que votre guide vous raconte l'histoire, le patrimoine autochtone et la riche faune du parc.\r\n",
+      "it": "Scoprite Stanley Park con un tour a piedi di 2,5 ore. Visitate i Totem, il Rose Garden, il Causeway, la Ragazza in muta e il Beaver Lake mentre la vostra guida vi racconta la storia, il patrimonio indigeno e la ricca fauna del parco.\r\n",
+      "pt": "Descubra o Stanley Park num passeio a pé de 2,5 horas. Visite Totem Poles, Rose Garden, Causeway, Girl in Wetsuit e Beaver Lake enquanto o seu guia partilha histórias sobre a história, a herança indígena e a rica vida selvagem do parque.\r\n"
+    },
+    "description": {
+      "de": "Erkunden Sie den bezaubernden Stanley Park bei einem geführten Spaziergang durch Vancouvers berühmteste Stadtoase. Spazieren Sie entlang der Seawall mit atemberaubendem Blick auf die North Shore Mountains, die Lions Gate Bridge und Downtown Vancouver, während Ihr örtlicher Guide faszinierende Geschichten und Insidertipps erzählt.\r\n\r\nBesuchen Sie die berühmten Totempfähle am Brockton Point und erfahren Sie mehr über das Erbe der Ureinwohner, und entdecken Sie dann versteckte Kleinode wie den Beaver Lake und die Lost Lagoon, wo die Tierwelt besonders gut gedeiht. Hören Sie fesselnde Geschichten über die Geschichte des Parks, von seinen indianischen Wurzeln bis zu seiner Entwicklung zu einem beliebten Wahrzeichen der Stadt.\r\n\r\nDiese Tour ist ideal für Erstbesucher, Einheimische und Naturliebhaber. Sie verbindet Geschichte, Kultur und landschaftliche Schönheit und bietet eine unvergessliche Reise voller Geschichten, Entdeckungen und Begegnungen mit anderen Abenteurern.",
+      "en": "Explore the enchanting Stanley Park on a guided walking tour through Vancouver’s most iconic urban oasis. Wander along the Seawall with stunning views of the North Shore Mountains, Lions Gate Bridge, and Downtown Vancouver, while your local guide shares fascinating stories and insider tips.\r\n\r\nVisit the famous Totem Poles at Brockton Point and learn about their Indigenous heritage, then discover hidden gems like Beaver Lake and Lost Lagoon, where wildlife thrives. Hear captivating tales of the park’s history, from its Indigenous roots to its evolution into a beloved city landmark.\r\n\r\nPerfect for first-time visitors, locals, and nature lovers, this tour combines history, culture, and scenic beauty, offering a memorable journey filled with storytelling, exploration, and connection with fellow adventurers.",
+      "es": "Explore el encantador Stanley Park en una visita guiada a pie por el oasis urbano más emblemático de Vancouver. Pasee por el paseo marítimo con impresionantes vistas de las montañas de North Shore, el puente Lions Gate y el centro de Vancouver, mientras su guía local le cuenta historias fascinantes y le da consejos.\r\n\r\nVisite los famosos tótems de Brockton Point y conozca su legado indígena; después, descubra joyas ocultas como el lago Beaver y la laguna Lost, donde prospera la vida salvaje. Escuche cautivadores relatos sobre la historia del parque, desde sus raíces indígenas hasta su evolución hasta convertirse en un querido punto de referencia de la ciudad.\r\n\r\nEsta excursión, perfecta para quienes la visitan por primera vez, para los lugareños y para los amantes de la naturaleza, combina historia, cultura y belleza paisajística, ofreciendo un viaje memorable lleno de historias, exploración y conexión con otros aventureros.",
+      "fr": "Explorez le magnifique parc Stanley lors d'une visite guidée à pied de l'oasis urbaine la plus emblématique de Vancouver. Promenez-vous le long du Seawall et admirez la vue sur les montagnes du North Shore, le pont Lions Gate et le centre-ville de Vancouver, tandis que votre guide local vous raconte des histoires fascinantes et vous donne des conseils d'initiés.\r\n\r\nVisitez les célèbres totems de Brockton Point et découvrez leur héritage indigène, puis découvrez des joyaux cachés comme le lac Beaver et le Lost Lagoon, où la faune et la flore prospèrent. Vous entendrez des récits captivants sur l'histoire du parc, depuis ses racines indigènes jusqu'à son évolution en un point de repère bien-aimé de la ville.\r\n\r\nParfaite pour les nouveaux visiteurs, les locaux et les amoureux de la nature, cette excursion combine histoire, culture et beauté des paysages, offrant un voyage mémorable rempli de récits, d'explorations et de liens avec d'autres aventuriers.",
+      "it": "Esplorate l'incantevole Stanley Park con un tour guidato a piedi attraverso l'oasi urbana più iconica di Vancouver. Passeggiate lungo il Seawall con viste mozzafiato sulle North Shore Mountains, sul Lions Gate Bridge e sul centro di Vancouver, mentre la vostra guida locale vi racconta storie affascinanti e consigli da insider.\r\n\r\nVisitate i famosi Totem di Brockton Point e imparate a conoscere la loro eredità indigena, quindi scoprite gemme nascoste come il Beaver Lake e la Lost Lagoon, dove prospera la fauna selvatica. Ascoltate i racconti accattivanti della storia del parco, dalle sue radici indigene alla sua evoluzione in un amato punto di riferimento della città.\r\n\r\nPerfetto per chi visita il parco per la prima volta, per gli abitanti del luogo e per gli amanti della natura, questo tour combina storia, cultura e bellezza paesaggistica, offrendo un viaggio memorabile pieno di racconti, esplorazioni e contatti con i compagni di avventura.",
+      "pt": "Explore o encantador Stanley Park num passeio guiado a pé pelo oásis urbano mais emblemático de Vancouver. Passeie ao longo do Seawall com vistas deslumbrantes sobre as montanhas de North Shore, a Ponte Lions Gate e o centro de Vancouver, enquanto o seu guia local partilha histórias fascinantes e dicas privilegiadas.\r\n\r\nVisite os famosos Totem Poles em Brockton Point e aprenda sobre sua herança indígena, depois descubra jóias escondidas como Beaver Lake e Lost Lagoon, onde a vida selvagem prospera. Ouça contos cativantes sobre a história do parque, desde as suas raízes indígenas até à sua evolução para um marco amado da cidade.\r\n\r\nPerfeita para quem visita o parque pela primeira vez, para os habitantes locais e para os amantes da natureza, esta excursão combina história, cultura e beleza paisagística, oferecendo uma viagem memorável repleta de histórias, exploração e ligações com outros aventureiros."
+    },
+    "providerTitle": "Toonie Tours",
+    "providerPhone": "8666431847",
+    "URL": "https://www.freetour.com/vancouver/vancouver-stanley-park-highlights-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/vancouver/vancouver-stanley-park-highlights-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/vancouver/vancouver-stanley-park-highlights-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/vancouver/vancouver-stanley-park-highlights-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/vancouver/vancouver-stanley-park-highlights-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/vancouver/vancouver-stanley-park-highlights-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/vancouver/vancouver-stanley-park-highlights-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 21,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Stanley Park Bus Loop, Stanley Park, Vancouver, BC V6G 3E2, Canada",
+      "coordinates": "49.3004743,-123.1338595",
+      "googlePlaceId": "ChIJp2zKeo1xhlQRWOMOmCcWJV8"
+    },
+    "cityId": 746,
+    "countryId": 26,
+    "includes": [
+      "Totem Poles",
+      "Beaver Lake",
+      "Stanley Park Rose Garden",
+      "Girl in Wetsuit",
+      "Stanley Park Pavilion",
+      "English Speaking",
+      "Spanish Speaking"
+    ],
+    "POIs": [
+      {
+        "id": 32147,
+        "title": "Totem Poles",
+        "googlePlaceId": "ChIJc45T4pFxhlQRQQLHRz6u6j0"
+      },
+      {
+        "id": 32148,
+        "title": "Beaver Lake",
+        "googlePlaceId": "ChIJo7mbFw1xhlQRQHnDVHt3wxs"
+      },
+      {
+        "id": 34620,
+        "title": "Stanley Park Rose Garden",
+        "googlePlaceId": "ChIJVYhbm4xxhlQReUM296jGX0Y"
+      },
+      {
+        "id": 32146,
+        "title": "Girl in Wetsuit",
+        "googlePlaceId": "ChIJwdzrH5NxhlQRVOnPFXuY9Gw"
+      },
+      {
+        "id": 32143,
+        "title": "Stanley Park Pavilion",
+        "googlePlaceId": "ChIJY2kX8IxxhlQRo6V5sOh6hBM"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/85839/-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 295756,
+        "URL": "https://www.freetour.com/images/tours/85839/-01.jpg"
+      },
+      {
+        "id": 295757,
+        "URL": "https://www.freetour.com/images/tours/85839/-02.jpg"
+      },
+      {
+        "id": 295758,
+        "URL": "https://www.freetour.com/images/tours/85839/-03.jpg"
+      },
+      {
+        "id": 295759,
+        "URL": "https://www.freetour.com/images/tours/85839/-04.jpg"
+      },
+      {
+        "id": 295760,
+        "URL": "https://www.freetour.com/images/tours/85839/-05.jpg"
+      },
+      {
+        "id": 295761,
+        "URL": "https://www.freetour.com/images/tours/85839/-06.jpg"
+      },
+      {
+        "id": 295762,
+        "URL": "https://www.freetour.com/images/tours/85839/-07.jpg"
+      },
+      {
+        "id": 295763,
+        "URL": "https://www.freetour.com/images/tours/85839/-08.jpg"
+      },
+      {
+        "id": 295764,
+        "URL": "https://www.freetour.com/images/tours/85839/-09.jpg"
+      },
+      {
+        "id": 295765,
+        "URL": "https://www.freetour.com/images/tours/85839/-10.jpg"
+      },
+      {
+        "id": 295766,
+        "URL": "https://www.freetour.com/images/tours/85839/-11.jpg"
+      }
+    ],
+    "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
   }

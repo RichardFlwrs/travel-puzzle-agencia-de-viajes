@@ -51,6 +51,7 @@ export const it = {
   'home.searchBooking.subtitle': 'Pianifica meglio con oltre 300.000 esperienze di viaggio',
   'home.searchBooking.searchPlaceholder': 'Cerca un paese...',
   'home.searchBooking.dateRangePlaceholder': 'Seleziona intervallo di date',
+  'home.searchBooking.goToTours': 'Vai ai Tour',
   
   // Top Destinations
   'home.topDestinations.badge': 'Top 20 Esperienze',
@@ -150,6 +151,15 @@ export const it = {
   'form.cancel': 'Annulla',
   'form.rememberMe': 'Ricordami',
   'form.forgotPassword': 'Password dimenticata?',
+  
+  // Date Range Picker
+  'form.dateRangePicker.placeholder': 'Seleziona intervallo di date',
+  'form.dateRangePicker.from': 'Da',
+  'form.dateRangePicker.until': 'Fino a',
+  'form.dateRangePicker.startDate': 'Data di Inizio',
+  'form.dateRangePicker.endDate': 'Data di Fine',
+  'form.dateRangePicker.clear': 'Cancella',
+  'form.dateRangePicker.done': 'Fatto',
   
   // Auth
   'auth.email': 'E-mail',

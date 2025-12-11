@@ -1,7 +1,7 @@
 [
   {
     "id": 3263,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Marrakech Medina Guided Tour",
       "es": "Tour Guiado a la Medina de Marrakech",
@@ -144,7 +144,7 @@
   },
   {
     "id": 3284,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Souks Shopping Tour: Hidden Treasures of the Medina",
       "es": "Tour de compras por los zocos de Marrakech: Tesoros ocultos de la Medina",
@@ -226,7 +226,7 @@
   },
   {
     "id": 4026,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Berber Cooking Class & Berber village Tour from Marrakech",
       "es": "Clase de Cocina Bereber y Tour de Pueblos desde Marrakech",
@@ -311,7 +311,7 @@
   },
   {
     "id": 4027,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ourika Valley Atlas Mt Half-Day Tour",
       "es": "Excursión de medio día al Valle de Ourika y el Monte Atlas",
@@ -425,7 +425,7 @@
   },
   {
     "id": 4661,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Essential Tour of Marrkech",
       "es": "Visita esencial gratuita de Marrakech",
@@ -535,7 +535,7 @@
   },
   {
     "id": 5817,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Guided City Tour Marrakech",
       "es": "Visita guiada privada de la ciudad de Marrakech",
@@ -625,7 +625,7 @@
   },
   {
     "id": 6533,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Marrakech: Day Hike & Trek To Atlas High Mountains & Waterfalls",
       "es": "Desde Marrakech: Excursión de un día a las altas montañas y cascadas del Atlas",
@@ -651,7 +651,7 @@
       "pt": "Encontramo-nos no centro de Marraquexe no (Hôtel Ali) perto da praça Jemma Elfna, e dirigimo-nos para sul em direção aos desfiladeiros de Moulay Brahim. Em cerca de 1h30, chegaremos à aldeia de Asni para visitar um mercado semanal (sábado)\r\n\r\nContinuaremos até à aldeia de Imlil (1740m), situada no sopé superior das montanhas ocidentais do Alto Atlas. Aqui, deixaremos o nosso veículo e desfrutaremos de um chá de menta de boas-vindas. Depois do chá, começa a nossa caminhada! Caminhamos para sul até à aldeia berbere de Aroumd (1900m), passando pelas aldeias. Verá o Monte Toubkal, que é o pico mais alto de Marrocos e do Norte de África. As vistas são fantásticas e eu contar-lhe-ei tudo sobre o modo de vida dos berberes.\r\n\r\nA viagem continua até chegarmos à aldeia de Ait-Souka para almoçar em casa de uma família berbere. O preço é de (6 euros por pessoa). Depois do almoço, será levado de volta a Marraquexe para chegar às 17:00 horas"
     },
     "providerTitle": "Jamal",
-    "providerPhone": "+212676738329",
+    "providerPhone": null,
     "URL": "https://www.freetour.com/marrakech/atlas-mountains--camel-ride-private-day-trip?referralID=elOi919SrKG94LbT",
     "URLs": {
       "en": "https://www.freetour.com/marrakech/atlas-mountains--camel-ride-private-day-trip?referralID=elOi919SrKG94LbT",
@@ -756,7 +756,7 @@
   },
   {
     "id": 6825,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chefchaouen City Walking Tour",
       "es": "Paseo por la ciudad de Chefchaouen",
@@ -852,7 +852,7 @@
   },
   {
     "id": 7286,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 06:00:56",
     "title": {
       "en": "Cultural & Orientation Free Tour in Marrakech",
       "es": "Visita cultural y de orientación gratuita en Marrakech",
@@ -979,11 +979,11 @@
     ],
     "videoURL": null,
     "rating": 4.68,
-    "reviewsNumber": 399
+    "reviewsNumber": 401
   },
   {
     "id": 7771,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Unmissable Marrakech Tour",
       "es": "Visita ineludible de Marrakech",
@@ -1182,12 +1182,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=k0d_ewEtivs",
-    "rating": 4.88,
-    "reviewsNumber": 457
+    "rating": 4.89,
+    "reviewsNumber": 462
   },
   {
     "id": 15316,
-    "updatedAt": "2025-12-01 18:45:24",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Marrakech: Old City Secrets",
       "es": "Free Tour Marrakech: Secretos de la Ciudad Vieja",
@@ -1267,11 +1267,11 @@
     ],
     "videoURL": null,
     "rating": 4.86,
-    "reviewsNumber": 306
+    "reviewsNumber": 309
   },
   {
     "id": 16553,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Shopping Tour Marrakech Souks",
       "es": "Tour de compras por los zocos de Marrakech",
@@ -1351,7 +1351,7 @@
   },
   {
     "id": 16946,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skydiving in Taroudant",
       "es": "Paracaidismo en Taroudant",
@@ -1427,7 +1427,7 @@
   },
   {
     "id": 18567,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Biking in Agafay Desert",
       "es": "Quad en el desierto de Agafay",
@@ -1527,7 +1527,7 @@
   },
   {
     "id": 18640,
-    "updatedAt": "2025-12-01 01:04:33",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Biking Day Tour in Atlas Mountains",
       "es": "Excursión de un día en bicicleta por el Atlas",
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 20934,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Atlas Mountains Experience",
       "es": "Experiencia en las Montañas del Atlas",
@@ -1719,7 +1719,7 @@
   },
   {
     "id": 20936,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech to Atlas Mountain Full Day Adventure",
       "es": "Aventura de un día Completo de Marrakech al Atlas",
@@ -1865,7 +1865,7 @@
   },
   {
     "id": 21011,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip biking in Morocco",
       "es": "Tour de un Día en Bicicleta en Marruecos",
@@ -1947,7 +1947,7 @@
   },
   {
     "id": 21984,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Shopping Tour Experience",
       "es": "Recorrido de Compras",
@@ -2050,7 +2050,7 @@
   },
   {
     "id": 33460,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Fes Medina Free Tour",
       "es": "Visita gratuita de la Medina de Fez",
@@ -2264,7 +2264,7 @@
   },
   {
     "id": 34713,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cultural Immersion Tour of Rabat",
       "es": "Visita de inmersión cultural a Rabat",
@@ -2418,7 +2418,7 @@
   },
   {
     "id": 35788,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Old Medina of Casablanca",
       "es": "Visita gratuita a la Medina Vieja de Casablanca",
@@ -2519,12 +2519,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.24,
-    "reviewsNumber": 21
+    "rating": 4.27,
+    "reviewsNumber": 22
   },
   {
     "id": 36368,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "A Truly Bohemian Day in Meknes",
       "es": "Un día bohemio en Meknes",
@@ -2620,14 +2620,14 @@
   },
   {
     "id": 42868,
-    "updatedAt": "2025-12-01 01:07:55",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Agafay Desert Package: Sunset & Dinner Show",
-      "es": "Paquete Desierto de Agafay: Puesta de sol y cena con espectáculo",
-      "pt": "Pacote para o deserto de Agafay: Pôr do sol e Jantar com espetáculo",
-      "de": "Agafay Wüste Paket: Sonnenuntergang &amp; Dinner-Show",
-      "fr": "Forfait désert d'Agafay : Coucher de soleil et dîner-spectacle",
-      "it": "Pacchetto Agafay Desert: Tramonto e Cena Spettacolo"
+      "en": "Agafay Desert from Marrakech: Sunset & Dinner Show",
+      "es": "Desierto de Agafay desde Marrakech: Puesta de sol y cena con espectáculo",
+      "pt": "Deserto de Agafay a partir de Marraquexe: Jantar e espetáculo ao pôr do sol",
+      "de": "Agafay Wüste von Marrakech aus: Sonnenuntergang &amp; Dinner-Show",
+      "fr": "Désert d'Agafay depuis Marrakech : Coucher de soleil et dîner-spectacle",
+      "it": "Deserto di Agafay da Marrakech: Tramonto e cena spettacolo"
     },
     "brief": {
       "de": "Entdecken Sie die Agafay-Wüste mit unserem Spezialpaket: Sonnenuntergang und Dinner-Show ab Marrakesch. Genießen Sie mit uns den Sonnenuntergang in der Agafay-Wüste und die Gastfreundschaft der Berber bei einem traditionellen Essen. Erleben Sie eine unvergessliche Erfahrung!",
@@ -2774,7 +2774,7 @@
   },
   {
     "id": 43157,
-    "updatedAt": "2025-12-01 01:07:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to the Ourika Valley & Waterfall from Marrakech",
       "es": "Excursión de un día al valle y cascada de Ourika desde Marrakech",
@@ -2858,7 +2858,7 @@
   },
   {
     "id": 43205,
-    "updatedAt": "2025-12-01 01:07:58",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Biking in the Palmeraie",
       "es": "Quad en la Palmeraie",
@@ -2937,7 +2937,7 @@
   },
   {
     "id": 43206,
-    "updatedAt": "2025-12-01 01:07:58",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Camel Ride in the Palmeraie",
       "es": "Paseo en camello por la Palmeraie",
@@ -3020,7 +3020,7 @@
   },
   {
     "id": 43216,
-    "updatedAt": "2025-12-01 01:07:58",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to the Ouzoud Waterfalls from Marrakech",
       "es": "Excursión de un día a las cascadas de Ouzoud desde Marrakech",
@@ -3108,7 +3108,7 @@
   },
   {
     "id": 43217,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Camel ride in Agafay",
       "es": "Paseo en camello por Agafay",
@@ -3191,7 +3191,7 @@
   },
   {
     "id": 43218,
-    "updatedAt": "2025-12-01 01:07:59",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to the  Essaouira from Marrakech",
       "es": "Excursión de un día a Essaouira desde Marrakech",
@@ -3274,7 +3274,7 @@
   },
   {
     "id": 43219,
-    "updatedAt": "2025-12-01 01:07:59",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakesh Shopping Tour: Secrets of the Medina",
       "es": "Marrakech de compras: Secretos de la Medina",
@@ -3367,7 +3367,7 @@
   },
   {
     "id": 43220,
-    "updatedAt": "2025-12-01 01:07:59",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Transfer From Airport To Marrakesh city",
       "es": "Traslado del aeropuerto a la ciudad de Marrakech",
@@ -3448,7 +3448,7 @@
   },
   {
     "id": 43289,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Casablanca City Tour with Licensed Tour Guide",
       "es": "Visita de la ciudad de Casablanca con guía autorizado",
@@ -3573,7 +3573,7 @@
   },
   {
     "id": 43417,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Wonders of Ourika Valley & Atlas Mountains",
       "es": "Descubra las Maravillas del Valle de Ourika y las Montañas del Atlas",
@@ -3674,7 +3674,7 @@
   },
   {
     "id": 43441,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enjoy a Journey Through Time in the Heart of Agafay with Camel Ride",
       "es": "Disfrute de un viaje en el tiempo en el corazón de Agafay con un paseo en camello",
@@ -3755,7 +3755,7 @@
   },
   {
     "id": 43453,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enjoy the Splendor of Marrakech Palm Grove.",
       "es": "Disfrute del esplendor del palmeral de Marrakech.",
@@ -3844,7 +3844,7 @@
   },
   {
     "id": 43456,
-    "updatedAt": "2025-12-01 01:08:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert Package, Quad Bike & Lunch",
       "es": "Paquete desierto de Agafay, quads y almuerzo",
@@ -3930,7 +3930,7 @@
   },
   {
     "id": 43516,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Nature Adventure in Morocco",
       "es": "Aventura en la naturaleza de Marruecos",
@@ -4028,7 +4028,7 @@
   },
   {
     "id": 43536,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exploring the Vibrant Charms of Casablanca",
       "es": "Explorar los vibrantes encantos de Casablanca",
@@ -4108,7 +4108,7 @@
   },
   {
     "id": 43551,
-    "updatedAt": "2025-12-01 01:08:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Desert Delights: Quad bike,  Pool & Lunch at Agafay",
       "es": "Delicias del desierto: Quad, piscina y almuerzo en Agafay",
@@ -4219,7 +4219,7 @@
   },
   {
     "id": 43563,
-    "updatedAt": "2025-12-01 01:08:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert Adventure: Pool & Lunch",
       "es": "Aventura en el desierto de Agafay: Piscina y almuerzo",
@@ -4347,7 +4347,7 @@
   },
   {
     "id": 43574,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Stroll Through Pottery Country",
       "es": "Un paseo por el país de la cerámica",
@@ -4434,7 +4434,7 @@
   },
   {
     "id": 43656,
-    "updatedAt": "2025-12-01 01:08:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech To Essaouira Tour | Small-group Day Trip",
       "es": "Excursión de un día de Marrakech a Essaouira | Excursión en grupo reducido",
@@ -4583,7 +4583,7 @@
   },
   {
     "id": 43659,
-    "updatedAt": "2025-12-01 01:08:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Marrakech to Merzouga Private 3-Day Tour in Desert Safari",
       "es": "De Marrakech a Merzouga Excursión privada de 3 días en safari por el desierto",
@@ -4692,7 +4692,7 @@
   },
   {
     "id": 43661,
-    "updatedAt": "2025-12-01 01:08:03",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Share Day Trip From Marrakech: Ouarzazate, Ait Ben Haddou & Kasba",
       "es": "Compartir Excursión de un día desde Marrakech: Ouarzazate, Ait Ben Haddou y Kasba",
@@ -4748,7 +4748,8 @@
       "The Atlas Mountain",
       "Visit Ait Ben Haddou Kasbah",
       "Transportation in an air-conditioned vehicle",
-      "Professional driver speaking English & French & Arabic"
+      "Professional driver speaking English & French & Arabic",
+      "Local guide in ait ben haddou"
     ],
     "POIs": [
       {
@@ -4793,7 +4794,7 @@
   },
   {
     "id": 44182,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fes Full Day Medina Cultural Tour",
       "es": "Día completo en la Medina de Fez",
@@ -4873,7 +4874,7 @@
   },
   {
     "id": 44565,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fes Cultural Tour",
       "es": "Visita cultural de Fez",
@@ -5064,7 +5065,7 @@
   },
   {
     "id": 45248,
-    "updatedAt": "2025-12-01 01:09:00",
+    "updatedAt": "2025-12-11 12:16:02",
     "title": {
       "en": "Share Day Trip: Atlas Mountains & Ourika Valley Day Trip Marrakech",
       "es": "Compartir Excursión de un día: Excursión de un día a Marrakech por las montañas del Atlas y el valle del Ourika",
@@ -5101,7 +5102,7 @@
       "it": "https://www.freetour.com/it/marrakech/atlas-mountains-ourika-valley-day-trip-from-marrakech?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 10,
+      "value": 17,
       "currency": "EUR"
     },
     "length": "7:00",
@@ -5163,7 +5164,7 @@
   },
   {
     "id": 45808,
-    "updatedAt": "2025-12-01 16:47:45",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Discover the History and Culture of Tangier by Exploring its Old Town",
       "es": "Descubre la Historia y la Cultura de Tánger Explorando su Casco Viejo",
@@ -5302,11 +5303,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 472
+    "reviewsNumber": 474
   },
   {
     "id": 45897,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Customizable Walking Tour Around Tangier",
       "es": "Visita privada a pie por Tánger",
@@ -5415,7 +5416,7 @@
   },
   {
     "id": 46077,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "1 Day Tour in Medina of Tangier",
       "es": "visita de 1 día a la Medina de Tánger",
@@ -5513,7 +5514,7 @@
   },
   {
     "id": 46758,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discovering Ourika Valley",
       "es": "Descubrir el valle de Ourika",
@@ -5776,7 +5777,7 @@
   },
   {
     "id": 46941,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Casablanca Urban Odyssey",
       "es": "Odisea urbana en Casablanca",
@@ -5844,7 +5845,7 @@
   },
   {
     "id": 48902,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Merzouga in 3 Days and 2 Nights",
       "es": "Marrakech Merzouga en 3 Días y 2 Noches",
@@ -5955,7 +5956,7 @@
   },
   {
     "id": 48909,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Marrakech to Zagora: 2 Days and 1 Night In Group",
       "es": "De Marrakech a Zagora: 2 Ddias y 1 Noche En Grupo",
@@ -6061,7 +6062,7 @@
   },
   {
     "id": 48936,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Getaway in Rabat - 3 Days 2 Nights",
       "es": "Escapada en Rabat - 3 Dias 2 Noches",
@@ -6194,7 +6195,7 @@
   },
   {
     "id": 48987,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Imperial Cities 4 Days and 3 Nights",
       "es": "Ciudades Imperiales 4 Dias y 3 Noches",
@@ -6336,7 +6337,7 @@
   },
   {
     "id": 49004,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Long weekend in Marrakech 3 days 2nights",
       "es": "Puente en Marrakech 3 dias 2noches",
@@ -6489,7 +6490,7 @@
   },
   {
     "id": 49044,
-    "updatedAt": "2025-12-01 12:53:09",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Rabat Cultural Immersion Walking Tour  Made by Love",
       "es": "Paseo de inmersión cultural por Rabat Made by Love",
@@ -6688,7 +6689,7 @@
   },
   {
     "id": 49049,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Imperial Cities Tour - 5 Days and 4 Nights",
       "es": "Ciudades Imperiales Tour - 5 Días y 4 Noches",
@@ -7149,7 +7150,7 @@
   },
   {
     "id": 49426,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Getaway to Ouarzazate 4 days 3 nights",
       "es": "Escapada a Ouarzazate 4 dias 3 noches",
@@ -7307,7 +7308,7 @@
   },
   {
     "id": 49515,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Full Morocco Desert 5 Days 4 Nights",
       "es": "Pleno Desierto de Marruecos 5 Dias 4 Noches",
@@ -7531,7 +7532,7 @@
   },
   {
     "id": 49534,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rabat: Full-Day Trip from Casablanca",
       "es": "Rabat: Excursión de un día desde Casablanca",
@@ -7662,7 +7663,7 @@
   },
   {
     "id": 49595,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Get to know Fes in 3 Days and 2 Nights",
       "es": "Conoce Fes en 3 Días y 2 Noches",
@@ -7795,7 +7796,7 @@
   },
   {
     "id": 49598,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Getaway from Fes to Chaouen 4 Days 3 Nights ",
       "es": "Escapada de Fes a Chaouen 4 Días 3 Noches",
@@ -7921,7 +7922,7 @@
   },
   {
     "id": 49759,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the City of Chefchaouen",
       "es": "Visita de la ciudad de Chefchaouen",
@@ -8042,7 +8043,7 @@
   },
   {
     "id": 49795,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rabat the City of Lights",
       "es": "Rabat, la ciudad de las luces",
@@ -8165,7 +8166,7 @@
   },
   {
     "id": 50000,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Amazing Trip to the Merzouga Desert",
       "es": "Increíble viaje al desierto de Merzouga",
@@ -8352,7 +8353,7 @@
   },
   {
     "id": 50485,
-    "updatedAt": "2025-12-01 01:09:50",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Midday Tour of the Old City of Marrakech",
       "es": "Tour de Mediodía por el Casco Antiguo de Marrakech",
@@ -8458,7 +8459,7 @@
   },
   {
     "id": 50589,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enchanting Marrakech",
       "es": "El encanto de Marrakech",
@@ -8564,7 +8565,7 @@
   },
   {
     "id": 50629,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tangier Private Tour with Luxyry Car",
       "es": "Tánger Tour Privado con Luxyry Car",
@@ -8682,7 +8683,7 @@
   },
   {
     "id": 50673,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir: Paradise Valley Half-Day Guided Trip",
       "es": "Agadir: Valle del Paraíso Excursión guiada de medio día",
@@ -8771,7 +8772,7 @@
   },
   {
     "id": 50675,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir: Wildlife National Park & Sahara Desert, including Lunch",
       "es": "Agadir: Parque Nacional de la Fauna Salvaje y Desierto del Sáhara, incluido el almuerzo",
@@ -8897,7 +8898,7 @@
   },
   {
     "id": 50678,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir: Paradise Valley & Sandboarding, Including Lunch",
       "es": "Agadir: Valle del Paraíso y Sandboard, con almuerzo incluido",
@@ -8996,7 +8997,7 @@
   },
   {
     "id": 50703,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Photoshoot Tour in Chefchaouen",
       "es": "Sesión de fotos en Chefchaouen",
@@ -9097,7 +9098,7 @@
   },
   {
     "id": 50742,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cultural Tour of Marrakech",
       "es": "Visita Cultural de Marrakech",
@@ -9216,7 +9217,7 @@
   },
   {
     "id": 50900,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Atlas Mountains from Marrakech",
       "es": "Excursión de un día al Atlas desde Marrakech",
@@ -9307,7 +9308,7 @@
   },
   {
     "id": 50955,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "ATV Quad Bike in Merzouga Desert",
       "es": "Quad ATV en el desierto de Merzouga",
@@ -9401,7 +9402,7 @@
   },
   {
     "id": 50958,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Historical Marrakech Walking & Private Souks Shopping Tour",
       "es": "Marrakech histórico a pie y tour privado de compras por los zocos",
@@ -9523,7 +9524,7 @@
   },
   {
     "id": 50959,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Essaouira",
       "es": "Excursión de un día a Essaouira",
@@ -9643,7 +9644,7 @@
   },
   {
     "id": 51529,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Day Trip from Marrakech to Essaouira",
       "es": "Excursión de un día de Marrakech a Essaouira",
@@ -9742,7 +9743,7 @@
   },
   {
     "id": 51530,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "3 Day Group Tour from Marrakech to Merzouga Desert",
       "es": "excursión en grupo de 3 días de Marrakech al desierto de Merzouga",
@@ -9863,7 +9864,7 @@
   },
   {
     "id": 51870,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Medina Sightseeing Tour",
       "es": "Visita a la Medina de Marrakech",
@@ -10044,7 +10045,7 @@
   },
   {
     "id": 51938,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Essaouira 1 Day Trip",
       "es": "Excursión de un día a Essaouira",
@@ -10150,7 +10151,7 @@
   },
   {
     "id": 51949,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Biking Experience in Marrakech",
       "es": "Experiencia en quad en Marrakech",
@@ -10263,7 +10264,7 @@
   },
   {
     "id": 52011,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Casablanca: History, Architecture & Beyond Tour",
       "es": "Casablanca: Historia, Arquitectura y Más",
@@ -10382,7 +10383,7 @@
   },
   {
     "id": 52036,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert 2 Hour Quad Biking Experience",
       "es": "Experiencia de 2 horas en quad por el desierto de Agafay",
@@ -10486,7 +10487,7 @@
   },
   {
     "id": 52107,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Visit Casablanca & Rabat - Full Day Private Tour",
       "es": "Visita Casablanca y Rabat - Excursión privada de día completo",
@@ -10679,7 +10680,7 @@
   },
   {
     "id": 52109,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Day Trip",
       "es": "Excursión de un día a Marrakech",
@@ -10792,7 +10793,7 @@
   },
   {
     "id": 52334,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Small Group Desert Odyssey: Marrakech to Merzouga 3-Day Adventure",
       "es": "Odisea por el desierto en grupo reducido: Aventura de 3 días de Marrakech a Merzouga",
@@ -10920,7 +10921,7 @@
   },
   {
     "id": 52382,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Essaouira Day Trip from Marrakech",
       "es": "Excursión de un día a Essaouira desde Marrakech",
@@ -11002,7 +11003,7 @@
   },
   {
     "id": 52418,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Skoura on Electric Bikes with a Local Guide",
       "es": "Explore Skoura en bicicleta eléctrica con un guía local",
@@ -11086,7 +11087,7 @@
   },
   {
     "id": 52593,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Complete Historical Tour of Marrakech",
       "es": "Visita histórica completa de Marrakech",
@@ -11195,7 +11196,7 @@
   },
   {
     "id": 52812,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Excursion Rabat Chefchaouen 2 days 1 night - Blue Village",
       "es": "Excursión Rabat Chefchaouen 2 Días 1 noche - Pueblo Azul",
@@ -11327,7 +11328,7 @@
   },
   {
     "id": 53247,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Chaouen",
       "es": "Visita Guiada por Chaouen",
@@ -11440,7 +11441,7 @@
   },
   {
     "id": 53695,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Flavors of Rabat: A Culinary Adventure",
       "es": "Sabores de Rabat: Una aventura culinaria",
@@ -11525,7 +11526,7 @@
   },
   {
     "id": 53984,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Marrakech City Secrets Tour",
       "es": "Marrakech City Secrets Tour",
@@ -11620,7 +11621,7 @@
   },
   {
     "id": 54017,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour of the Hidden Narrows of Chefchaouen City",
       "es": "Recorrido a pie por los estrechos ocultos de la ciudad de Chefchaouen",
@@ -11704,7 +11705,7 @@
   },
   {
     "id": 54229,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Day Trip To Chefchaouen From Fes",
       "es": "Excursión privada de un día a Chefchaouen desde Fez",
@@ -11835,7 +11836,7 @@
   },
   {
     "id": 54274,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Half Day Guided Walking Tour",
       "es": "Visita guiada a pie de medio día por Marrakech",
@@ -11940,7 +11941,7 @@
   },
   {
     "id": 54275,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hidden Treasures of Old Medina of Fes Tour",
       "es": "Tesoros ocultos de la Medina Vieja de Fez",
@@ -12026,7 +12027,7 @@
   },
   {
     "id": 54345,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Biking Tour Activity",
       "es": "Actividad en bicicleta",
@@ -12133,7 +12134,7 @@
   },
   {
     "id": 54983,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Toubkal Peak in Two Days",
       "es": "Pico del Toubkal en dos días",
@@ -12243,7 +12244,7 @@
   },
   {
     "id": 55193,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour in Akchour",
       "es": "Paseo por Akchour",
@@ -12357,7 +12358,7 @@
   },
   {
     "id": 55384,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of the Old Town of Tetouan",
       "es": "Free Tour del Casco Viejo de Tetuán",
@@ -12470,11 +12471,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 112
+    "reviewsNumber": 114
   },
   {
     "id": 55602,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Sightseeing & Medina of Coco Polizzi",
       "es": "Visita de Agadir y Medina de Coco Polizzi",
@@ -12590,7 +12591,7 @@
   },
   {
     "id": 55603,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "4WD Tour to Agadir Small Desert Including Berber Lunch",
       "es": "excursión en 4x4 al Pequeño Desierto de Agadir con almuerzo bereber incluido",
@@ -12702,7 +12703,7 @@
   },
   {
     "id": 55605,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Paradise Valley Tour",
       "es": "Excursión al Valle del Paraíso de Agadir",
@@ -12787,7 +12788,7 @@
   },
   {
     "id": 55606,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Crocodile Park, Including Ticket",
       "es": "Parque de Cocodrilos de Agadir, entrada incluida",
@@ -12908,7 +12909,7 @@
   },
   {
     "id": 55763,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech: Atlas Mountains Tedli Summit Day Hike",
       "es": "Marrakech: Excursión de un día a la cumbre del Tedli en el Atlas",
@@ -13055,7 +13056,7 @@
   },
   {
     "id": 55781,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip from Casablanca to Rabat",
       "es": "Excursión de un día de Casablanca a Rabat",
@@ -13145,7 +13146,7 @@
   },
   {
     "id": 55825,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "2 Days Toubkal Trek From Marrakech",
       "es": "excursión de 2 días al Toubkal desde Marrakech",
@@ -13255,7 +13256,7 @@
   },
   {
     "id": 55826,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "2 Days Toubkal Trek From Imlil",
       "es": "excursión de 2 días al Toubkal desde Imlil",
@@ -13360,7 +13361,7 @@
   },
   {
     "id": 55894,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip from Casablanca to Marrakech",
       "es": "Excursión de un día de Casablanca a Marrakech",
@@ -13457,7 +13458,7 @@
   },
   {
     "id": 55991,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip from Casablanca to Tangier",
       "es": "Excursión de un día de Casablanca a Tánger",
@@ -13555,7 +13556,7 @@
   },
   {
     "id": 56381,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rabat Old Medina, Hassan Tower & Kasbah Oudaya Walking Tour",
       "es": "Visita a pie de la Medina Vieja de Rabat, Torre Hassan y Kasbah Oudaya",
@@ -13670,7 +13671,7 @@
   },
   {
     "id": 57259,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Discover Fez Cultural & Historical Free Tour",
       "es": "Descubra Fez: visita cultural e histórica gratuita",
@@ -13856,7 +13857,7 @@
   },
   {
     "id": 57261,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Walking Tour - Unveil the Secret of Fes",
       "es": "Visita privada a pie - Descubra el secreto de Fez",
@@ -14012,7 +14013,7 @@
   },
   {
     "id": 57288,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enchanting Escape: A Day Trip from Fes to the Blue City of Chefchaouen",
       "es": "Escapada encantadora: Excursión de un día desde Fez a la Ciudad Azul de Chefchaouen",
@@ -14240,7 +14241,7 @@
   },
   {
     "id": 57345,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Timlaline Tour Guide & Sandboarding",
       "es": "Guía turístico de Timlaline y Sandboarding",
@@ -14337,7 +14338,7 @@
   },
   {
     "id": 57677,
-    "updatedAt": "2025-12-01 08:22:02",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour in Fes",
       "es": "Visita gratuita a Fez",
@@ -14419,7 +14420,7 @@
   },
   {
     "id": 58557,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "10 Unique Tastes you Won't Find Anywhere Else in Marrakech",
       "es": "10 sabores únicos que no encontrará en ningún otro lugar de Marrakech",
@@ -14511,7 +14512,7 @@
   },
   {
     "id": 58709,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech to Erg Chegaga tour",
       "es": "Excursión de Marrakech a Erg Chegaga",
@@ -14601,7 +14602,7 @@
   },
   {
     "id": 59226,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Medina Coco Polizzi Tour from Agadir",
       "es": "Excursión a Medina Coco Polizzi desde Agadir",
@@ -14698,7 +14699,7 @@
   },
   {
     "id": 59405,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Desert Dreams: Two Days from Marrakech to Zagora",
       "es": "Sueños del desierto: Dos días de Marrakech a Zagora",
@@ -14798,7 +14799,7 @@
   },
   {
     "id": 59411,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouzoud Falls Experience: A Day Trip from Marrakech",
       "es": "Experiencia en las cataratas de Ouzoud desde Marrakech",
@@ -14901,7 +14902,7 @@
   },
   {
     "id": 59421,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Essaouira Experience: Day Trip from Marrakech",
       "es": "Experiencia Essaouira: Excursión de un día desde Marrakech",
@@ -14990,7 +14991,7 @@
   },
   {
     "id": 59431,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Day Tour: Ouarzazate & Kasbahs Experience",
       "es": "Excursión a Marrakech: Ouarzazate y Experiencia Kasbahs",
@@ -15085,7 +15086,7 @@
   },
   {
     "id": 59486,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech to Merzouga Desert Adventure",
       "es": "Aventura en el desierto de Marrakech a Merzouga",
@@ -15182,7 +15183,7 @@
   },
   {
     "id": 59999,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of Chefchaouen and its Old Town",
       "es": "Free Tour por Chefchaouen y su Casco Antiguo",
@@ -15266,11 +15267,11 @@
     ],
     "videoURL": null,
     "rating": 4.72,
-    "reviewsNumber": 28
+    "reviewsNumber": 29
   },
   {
     "id": 61231,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Legzira Day Trip from Agadir​",
       "es": "Excursión de un Día a Legzira desde Agadir",
@@ -15372,7 +15373,7 @@
   },
   {
     "id": 61284,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouzoud Falls Day Excursion from Marrakech",
       "es": "Excursión de un día a las Cataratas de Ouzoud desde Marrakech",
@@ -15477,7 +15478,7 @@
   },
   {
     "id": 61374,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Casablanca Private Day Tour from Marrakech",
       "es": "Excursión Privada de un día a Casablanca desde Marrakech",
@@ -15599,7 +15600,7 @@
   },
   {
     "id": 61495,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fes Medina Guided Tour with Real Local",
       "es": "Visita Guiada de la Medina de Fez con un Auténtico Lugareño",
@@ -15724,7 +15725,7 @@
   },
   {
     "id": 61746,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Lunch Tour in Imlil Village, Atlas Mountains",
       "es": "Almuerzo Gratuito en el Pueblo de Imlil, en el Atlas",
@@ -15810,7 +15811,7 @@
   },
   {
     "id": 62373,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Crocopark Ticket & Tree-Climbing Goat Experience",
       "es": "Entrada al Crocopark de Agadir y experiencia con cabras trepadoras",
@@ -15922,7 +15923,7 @@
   },
   {
     "id": 62376,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Tinghir Free Walking Tour",
       "es": "Visita Guiada Gratuita a Pie por Tinghir",
@@ -16042,7 +16043,7 @@
   },
   {
     "id": 62401,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour in Agadir Souk El Had",
       "es": "Visita libre en Agadir Souk El Had",
@@ -16167,7 +16168,7 @@
   },
   {
     "id": 62474,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Magical Marrakech by Night",
       "es": "Recorrido Nocturno por la Mágica Marrakech",
@@ -16243,7 +16244,7 @@
   },
   {
     "id": 63006,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Desert Explorer: 2-Hour Quad Journey in Agafay",
       "es": "Explorador del desierto: 2 horas en quad por Agafay",
@@ -16343,7 +16344,7 @@
   },
   {
     "id": 63157,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Food Experience in Souk El Had, Agadir",
       "es": "Experiencia Gastronómica Callejera en Souk El Had, Agadir",
@@ -16445,7 +16446,7 @@
   },
   {
     "id": 63262,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Expert-Led Tour of Chefchaouen's Hidden Gems",
       "es": "Visita guiada por expertos a las joyas ocultas de Chefchaouen",
@@ -16666,7 +16667,7 @@
   },
   {
     "id": 63567,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Biking in The Rocky Desert of Agafay",
       "es": "Quad en el Desierto Rocoso de Agafay",
@@ -16819,7 +16820,7 @@
   },
   {
     "id": 63609,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Create your Own Leather Souvenir in Chefchaouen",
       "es": "Cree su Propio Recuerdo de Cuero en Chefchaouen",
@@ -16991,7 +16992,7 @@
   },
   {
     "id": 63754,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Day Trip to Ouarzazate & Ait Benhaddou",
       "es": "Marrakech Excursión de un día a Ouarzazate y Ait Benhaddou",
@@ -17150,7 +17151,7 @@
   },
   {
     "id": 63760,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouzoud Waterfalls Guided Hike and Boat Tour",
       "es": "Excursión Guiada a Pie y en Barco por las Cataratas de Ouzoud",
@@ -17293,7 +17294,7 @@
   },
   {
     "id": 63762,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Casablanca Day Tour from Marrakech & Big Mosque Visit",
       "es": "Excursión de un día a Casablanca desde Marrakech y Visita a la Mezquita Mayor",
@@ -17428,7 +17429,7 @@
   },
   {
     "id": 63809,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert Quad Adventure & Dinner Show",
       "es": "Aventura en Quad por el Desierto de Agafay y Cena con Espectáculo",
@@ -17592,7 +17593,7 @@
   },
   {
     "id": 64000,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Magic Surf Adventure & Tour of Rabat",
       "es": "Aventura mágica de surf y visita a Rabat",
@@ -17697,7 +17698,7 @@
   },
   {
     "id": 64095,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouzoud Waterfall Tour with Boat & Guide",
       "es": "Excursión a la cascada de Ouzoud con barco y guía",
@@ -17893,7 +17894,7 @@
   },
   {
     "id": 64172,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouzoud Waterfalls Adventure in Morocco",
       "es": "Aventura en las Cascadas de Ouzoud en Marruecos",
@@ -18008,7 +18009,7 @@
   },
   {
     "id": 64333,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "History and Culture of Rabat Tour",
       "es": "Historia y cultura de Rabat",
@@ -18188,7 +18189,7 @@
   },
   {
     "id": 64456,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Adventure from Chefchaouen to Akchour Paradise",
       "es": "Aventura en Quad de Chefchaouen al Paraíso de Akchour",
@@ -18302,7 +18303,7 @@
   },
   {
     "id": 64774,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech: Discover Ourika Valley and Waterfalls",
       "es": "Marrakech: Descubra el valle y las cascadas de Ourika",
@@ -18394,7 +18395,7 @@
   },
   {
     "id": 64923,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking and Cooking Class in the Atlas Mountains",
       "es": "Senderismo y Clase de Cocina en el Atlas",
@@ -18493,7 +18494,7 @@
   },
   {
     "id": 65395,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour of the Marrakech Medina",
       "es": "Visita a pie de la Medina de Marrakech",
@@ -18637,7 +18638,7 @@
   },
   {
     "id": 65699,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Artisan Painting Workshop in Marrakech",
       "es": "Taller de Pintura Artesanal en Marrakech",
@@ -18745,7 +18746,7 @@
   },
   {
     "id": 65784,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "2 Days Hidden Gems of Talassemtane Park and Akchour’s Paradise",
       "es": "2 días Joyas ocultas del Parque de Talassemtane y el Paraíso de Akchour",
@@ -18899,7 +18900,7 @@
   },
   {
     "id": 65827,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouzoud Falls Journey: Guide & Boat Tour Experience",
       "es": "Viaje a las Cataratas de Ouzoud: Guía y Experiencia en Barco",
@@ -18983,7 +18984,7 @@
   },
   {
     "id": 65868,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech To Essaouira Mogador Full Day Trip",
       "es": "Excursión de un día de Marrakech a Essaouira Mogador",
@@ -19089,7 +19090,7 @@
   },
   {
     "id": 65872,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Ait Benhaddou & Ouarzazate the Kasbah in Marrakech",
       "es": "Excursión de un día a Ait Benhaddou y Ouarzazate la Kasbah de Marrakech",
@@ -19294,7 +19295,7 @@
   },
   {
     "id": 65975,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore the wonders of Tetouan on foot",
       "es": "Explora las maravillas de Tetuán a pie",
@@ -19386,7 +19387,7 @@
   },
   {
     "id": 65976,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert Quad Adventure with Sunset & Dinner Show",
       "es": "Aventura en quad por el desierto de Agafay con puesta de sol y cena con espectáculo",
@@ -19481,7 +19482,7 @@
   },
   {
     "id": 66218,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jebel El-Kelaa Summit and Chaouen Rif Highlights",
       "es": "Cumbre de Jebel El-Kelaa y Puntos Destacados del Rif de Chaouen",
@@ -19674,14 +19675,14 @@
   },
   {
     "id": 66436,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Guided Adventure at Ouzoud Waterfalls",
-      "es": "Aventura Guiada en las Cascadas de Ouzoud",
-      "pt": "Aventura guiada nas cascatas de Ouzoud",
-      "de": "Geführtes Abenteuer an den Ouzoud-Wasserfällen",
-      "fr": "Aventure guidée aux cascades d'Ouzoud",
-      "it": "Avventura guidata alle cascate di Ouzoud"
+      "en": "From Marrakech: Day Trip to Ouzoud Waterfalls Guided & Boat Ride",
+      "es": "Desde Marrakech: Excursión de un día a las Cascadas de Ouzoud con guía y paseo en barco",
+      "pt": "De Marraquexe: Excursão de um dia às cascatas de Ouzoud guiada e passeio de barco",
+      "de": "Von Marrakech aus: Tagesausflug zu den Ouzoud-Wasserfällen mit Führung und Bootsfahrt",
+      "fr": "Au départ de Marrakech : Excursion d'une journée aux cascades d'Ouzoud avec guide et promenade en bateau",
+      "it": "Da Marrakech: Gita di un giorno alle cascate di Ouzoud con guida e giro in barca"
     },
     "brief": {
       "de": "Entdecken Sie die atemberaubenden Ouzoud-Wasserfälle bei einer geführten Wanderung, tauchen Sie ein in die Natur und genießen Sie eine ruhige Bootsfahrt am Fuße der Fälle. Dieser Tagesausflug von Marrakesch aus bietet unvergessliche Ausblicke und authentischen lokalen Charme.",
@@ -19711,7 +19712,7 @@
       "it": "https://www.freetour.com/it/marrakech/guided-adventure-at-ouzoud-waterfalls?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 18,
+      "value": 21,
       "currency": "EUR"
     },
     "length": "10:00",
@@ -19726,8 +19727,8 @@
       "Ouzoud waterfalls",
       "Hotel pickup and drop-off",
       "Transport by air-conditioned minibus , minivan / 4x4",
-      "Locals guides (If option Selected )",
-      "Boat ride (If option Selected )",
+      "Locals guides ",
+      "Boat ride ",
       "Entry/Admission - Ouzoud Falls"
     ],
     "POIs": [
@@ -19763,7 +19764,7 @@
   },
   {
     "id": 66441,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip from Marrakech to Essaouira",
       "es": "Excursión de un Día de Marrakech a Essaouira",
@@ -19866,7 +19867,7 @@
   },
   {
     "id": 66443,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ourika Valley: A Day of Exploration from Marrakech",
       "es": "Valle de Ourika: Un Día de Exploración desde Marrakech",
@@ -19956,7 +19957,7 @@
   },
   {
     "id": 66574,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert Experience",
       "es": "Experiencia en el Desierto de Agafay",
@@ -20047,7 +20048,7 @@
   },
   {
     "id": 66757,
-    "updatedAt": "2025-12-01 14:36:45",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of Authentic Marrakech",
       "es": "Free Tour por la Marrakech Auténtica",
@@ -20148,12 +20149,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.82,
-    "reviewsNumber": 141
+    "rating": 4.78,
+    "reviewsNumber": 145
   },
   {
     "id": 67090,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech City Highlights Half-Day Tour",
       "es": "Visita de Medio día a los Lugares más Destacados de Marrakech",
@@ -20278,7 +20279,7 @@
   },
   {
     "id": 67096,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Trip to Atlas Mountains and Agafay Desert",
       "es": "Viaje privado al Atlas y al desierto de Agafay",
@@ -20384,7 +20385,7 @@
   },
   {
     "id": 67235,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir City Tour ",
       "es": "Visita de la ciudad de Agadir ",
@@ -20512,7 +20513,7 @@
   },
   {
     "id": 67244,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Tour: Ourika Falls Day Trip with Guide",
       "es": "Tour en Marrakech: Excursión de un Día a las Cataratas de Ourika con Guía",
@@ -20632,7 +20633,7 @@
   },
   {
     "id": 67253,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour from Marrakech: Essaouira Mogador Full-Day Trip",
       "es": "Excursión desde Marrakech: Excursión de un día a Essaouira y Mogador",
@@ -20761,7 +20762,7 @@
   },
   {
     "id": 67258,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Tour: Ouzoud Falls Day Trip with Guide",
       "es": "Excursión a Marrakech: Excursión de un Día a las Cataratas de Ouzoud con Guía",
@@ -20866,7 +20867,7 @@
   },
   {
     "id": 67382,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hot Air Balloon Experience in Marrakech",
       "es": "Experiencia en Globo Aerostático en Marrakech",
@@ -20985,7 +20986,7 @@
   },
   {
     "id": 67383,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Guided Adventure",
       "es": "Aventura Guiada en Marrakech",
@@ -21091,7 +21092,7 @@
   },
   {
     "id": 67736,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "One Full Day Trip to Essaouira",
       "es": "Excursión de un Día Completo a Essaouira",
@@ -21193,7 +21194,7 @@
   },
   {
     "id": 67986,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Marrakech to Essaouira: History, Culture, and Sea",
       "es": "De Marrakech a Essaouira: Historia, Cultura y Mar",
@@ -21308,7 +21309,7 @@
   },
   {
     "id": 67987,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Hike and Boat at Ouzoud Waterfalls",
       "es": "Excursión Guiada a Pie y en Barco por las Cascadas de Ouzoud",
@@ -21437,7 +21438,7 @@
   },
   {
     "id": 67989,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "High Atlas Adventure to Ouarzazate and Ait Ben Haddou",
       "es": "Aventura en el Alto Atlas a Ouarzazate y Ait Ben Haddou",
@@ -21578,7 +21579,7 @@
   },
   {
     "id": 68002,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouzoud Waterfalls: A Scenic Day Trip from Marrakech",
       "es": "Cascadas de Ouzoud: Una Excursión Panorámica desde Marrakech",
@@ -21692,7 +21693,7 @@
   },
   {
     "id": 68057,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Historical Rabat Tour Made by Love",
       "es": "Visita histórica gratuita de Rabat hecha con amor",
@@ -21821,12 +21822,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=LThKR4UJNMw",
-    "rating": 4.8,
-    "reviewsNumber": 21
+    "rating": 4.8100000000000005,
+    "reviewsNumber": 22
   },
   {
     "id": 68150,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Hammam El Baraka – Authentic Moroccan Bath in the Heart of Rabat",
       "es": "Hammam El Baraka - Auténtico baño marroquí en el corazón de Rabat",
@@ -21922,7 +21923,7 @@
   },
   {
     "id": 68253,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour to Ourika Valley and Atlas Mountains",
       "es": "Excursión Guiada al Valle del Ourika y el Atlas",
@@ -22018,7 +22019,7 @@
   },
   {
     "id": 68315,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "3-Day Adventure From Marrakech to the Sahara",
       "es": "aventura de 3 días de Marrakech al Sáhara",
@@ -22189,7 +22190,7 @@
   },
   {
     "id": 68321,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert Escape: Quad Biking & Moroccan Dinner",
       "es": "Escapada al Desierto de Agafay: Quads y Cena Marroquí",
@@ -22318,7 +22319,7 @@
   },
   {
     "id": 68731,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Cultural Medina of Fes on a Walking Tour",
       "es": "Explore la Medina Cultural de Fes en un Recorrido a pie",
@@ -22438,7 +22439,7 @@
   },
   {
     "id": 68734,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Adventure: Climbing Goats & Sunday Market",
       "es": "Aventura en Agadir: Cabras Trepadoras y Mercado Dominical",
@@ -22543,7 +22544,7 @@
   },
   {
     "id": 69004,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Photo Shoot Tour in Casablanca",
       "es": "Sesión de Fotos en Casablanca",
@@ -22695,7 +22696,7 @@
   },
   {
     "id": 69123,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Marrakech: Agafay Desert Sunset & Dinner Show",
       "es": "Desde Marrakech: Puesta de sol y Cena con Espectáculo en el Desierto de Agafay",
@@ -22794,7 +22795,7 @@
   },
   {
     "id": 69508,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "2 Days 1 Night Marrakech Ait Benhaddou Ouarzazate & Rose Valley Tour",
       "es": "excursión de 2 días y 1 noche a Marrakech, Ait Benhaddou, Ouarzazate y el Valle de las Rosas",
@@ -22953,7 +22954,7 @@
   },
   {
     "id": 69548,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour from Marrakech: Ourika Valley & Setti Fatma Falls",
       "es": "Excursión de un día desde Marrakech: Valle de Ourika y cascadas de Setti Fatma",
@@ -23085,7 +23086,7 @@
   },
   {
     "id": 69609,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Wonders of Agadir",
       "es": "Explore las Maravillas de Agadir",
@@ -23233,7 +23234,7 @@
   },
   {
     "id": 69682,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir: Coastal Views & Medina Tour",
       "es": "Agadir: Vistas de la Costa y Recorrido por la Medina",
@@ -23359,7 +23360,7 @@
   },
   {
     "id": 69684,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Relaxing Hammam and Massage Experience in Agadir",
       "es": "Experiencia Relajante de Hammam y Masaje en Agadir",
@@ -23450,7 +23451,7 @@
   },
   {
     "id": 69687,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Quad Adventure Through Morocco’s Landscapes",
       "es": "Aventura en Quad por los Paisajes de Marruecos",
@@ -23540,7 +23541,7 @@
   },
   {
     "id": 69753,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Souss Massa National Park | Explore Agadir’s Wildlife Haven",
       "es": "Parque Nacional de Souss Massa | Explore el refugio de vida salvaje de Agadir",
@@ -23629,7 +23630,7 @@
   },
   {
     "id": 70554,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Paradise Valley Agadir Tour",
       "es": "Excursión al Valle del Paraíso de Agadir",
@@ -23789,7 +23790,7 @@
   },
   {
     "id": 70600,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour Around Tetouan",
       "es": "Free Tour a pie por Tetuán",
@@ -23935,7 +23936,7 @@
   },
   {
     "id": 70681,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Paradise Valley Tour with Guide & Transportation",
       "es": "Agadir Paradise Valley Tour con Guía y Transporte",
@@ -24067,7 +24068,7 @@
   },
   {
     "id": 70694,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir: Sahara Desert Exploration Tour",
       "es": "Agadir: Excursión por el Desierto del Sáhara",
@@ -24173,7 +24174,7 @@
   },
   {
     "id": 70783,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ramadan Iftar with a Local Family Experience",
       "es": "Iftar de Ramadán con una Familia Local",
@@ -24262,7 +24263,7 @@
   },
   {
     "id": 71915,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Botanical Garden Tagine and Tea Cooking Class",
       "es": "Clase de Cocina de Tagine y Té en el Jardín Botánico",
@@ -24367,7 +24368,7 @@
   },
   {
     "id": 72439,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Marrakech: Atlas Mountains & Ourika Valley",
       "es": "Explora Marrakech: Montañas del Atlas y Valle de Ourika",
@@ -24500,7 +24501,7 @@
   },
   {
     "id": 72638,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Essaouira on a Day Trip from Marrakech",
       "es": "Descubrir Essaouira en una excursión de un día desde Marrakech",
@@ -24618,7 +24619,7 @@
   },
   {
     "id": 72639,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ouarzazate Day Trip from Marrakech",
       "es": "Excursión de un Día a Ouarzazate desde Marrakech",
@@ -24754,7 +24755,7 @@
   },
   {
     "id": 72699,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of Casablanca",
       "es": "Visita privada a Casablanca",
@@ -24908,7 +24909,7 @@
   },
   {
     "id": 72824,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chefchaouen Day Escape from Fes",
       "es": "Escapada de un día a Chefchaouen desde Fez",
@@ -25007,7 +25008,7 @@
   },
   {
     "id": 72868,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Rich History of Rabat",
       "es": "Explore la Rica Historia de Rabat",
@@ -25119,7 +25120,7 @@
   },
   {
     "id": 72912,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Walking Tour of the Medina of Fes",
       "es": "Visita Guiada a pie de la Medina de Fez",
@@ -25233,7 +25234,7 @@
   },
   {
     "id": 72918,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Affordable Day Trip from Fez to Chefchaouen",
       "es": "Excursión asequible de un día de Fez a Chefchaouen",
@@ -25367,7 +25368,7 @@
   },
   {
     "id": 72920,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Roman Ruins and Imperial Cities from Fes",
       "es": "Explore las Ruinas Romanas y las Ciudades Imperiales desde Fez",
@@ -25481,7 +25482,7 @@
   },
   {
     "id": 73212,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Trip from Casablanca to Magical Marrakech",
       "es": "Viaje Privado de Casablanca a la Mágica Marrakech",
@@ -25603,7 +25604,7 @@
   },
   {
     "id": 73736,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rabat Highlights Private Tour from Casablanca",
       "es": "Recorrido Privado por lo más Destacado de Rabat desde Casablanca",
@@ -25709,7 +25710,7 @@
   },
   {
     "id": 73787,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Behind Fez's Walls: Free Tour of the World's Oldest Medina",
       "es": "Tras las murallas de Fez: Visita gratuita a la Medina más antigua del mundo",
@@ -25897,11 +25898,11 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 64
+    "reviewsNumber": 66
   },
   {
     "id": 74562,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Conquer Toubkal: Mountain Climbing Experience",
       "es": "Conquista del Toubkal: Experiencia de Alpinismo",
@@ -25977,7 +25978,7 @@
   },
   {
     "id": 74563,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Magic of Imlil Village",
       "es": "Descubra la Magia del Pueblo de Imlil",
@@ -26053,7 +26054,7 @@
   },
   {
     "id": 74851,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Trek in the Atlas Mountains: Imlil to Azzaden Valley",
       "es": "Senderismo en el Atlas: De Imlil al Valle de Azzaden",
@@ -26169,7 +26170,7 @@
   },
   {
     "id": 74924,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech : Agafay Desert Quad Biking and Dinner Shows",
       "es": "Marrakech : Agafay Desierto Quads y Cena Espectáculo",
@@ -26345,7 +26346,7 @@
   },
   {
     "id": 74986,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Agafay Desert Sunset and Dinner Show Experience",
       "es": "Atardecer en el desierto de Agafay y cena con espectáculo en Marrakech",
@@ -26457,7 +26458,7 @@
   },
   {
     "id": 74991,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Majorelle Garden & Berber Museum Tour",
       "es": "Visita al Jardín Majorelle y al Museo Bereber",
@@ -26575,7 +26576,7 @@
   },
   {
     "id": 75671,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of Rabat's Old Town and Its Wonders",
       "es": "Visita gratuita del casco antiguo de Rabat y sus maravillas",
@@ -26886,12 +26887,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=HDUnUWIUsAs",
-    "rating": 4.88,
-    "reviewsNumber": 64
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 65
   },
   {
     "id": 76602,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Beauty of Casablanca City in Morocco",
       "es": "Explore la belleza de la ciudad de Casablanca en Marruecos",
@@ -26963,7 +26964,7 @@
   },
   {
     "id": 76925,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech: Private to Ourika Valley Atlas Mountains",
       "es": "Marrakech: Excursión Privada al Valle de Ourika y las Montañas del Atlas",
@@ -27120,7 +27121,7 @@
   },
   {
     "id": 77136,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Majestic Toubkal Tour",
       "es": "Recorrido Majestuoso por el Toubkal",
@@ -27234,7 +27235,7 @@
   },
   {
     "id": 77192,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir: Sandboarding Experience & Visit to The Canyon",
       "es": "Agadir: Experiencia de sandboard y visita al cañón",
@@ -27378,7 +27379,7 @@
   },
   {
     "id": 77316,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Paradise Valley: Nature’s Hidden Gem",
       "es": "Descubra Paradise Valley: La Joya Oculta de la Naturaleza",
@@ -27593,7 +27594,7 @@
   },
   {
     "id": 77320,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Quad Safari: Goats, Trees & Berber Tea",
       "es": "Safari en Quad por Agadir: Cabras, Arboles y té Bereber",
@@ -27803,7 +27804,7 @@
   },
   {
     "id": 77321,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir: ATV Quad Biking and Goats On Argan Trees",
       "es": "Agadir: ATV, Quads y Cabras en Arboles de Argán",
@@ -27918,7 +27919,7 @@
   },
   {
     "id": 77323,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir & Taghazout: Paradise Valley Escape",
       "es": "Agadir y Taghazout: Escapada al Valle del Paraíso",
@@ -28154,7 +28155,7 @@
   },
   {
     "id": 77444,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agadir Quad Biking & Crocoparc Experience",
       "es": "Experiencia en Quad y Crocoparc en Agadir",
@@ -28299,7 +28300,7 @@
   },
   {
     "id": 77491,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Surf Experience in Taghazout",
       "es": "Experiencia de Surf en Taghazout",
@@ -28413,7 +28414,7 @@
   },
   {
     "id": 77514,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Fes Uncovered: A Walk Through History",
       "es": "Fez al Descubierto: Un Paseo por la Historia",
@@ -28552,12 +28553,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.91,
-    "reviewsNumber": 30
+    "rating": 4.9,
+    "reviewsNumber": 33
   },
   {
     "id": 78094,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Private Rabat Heritage Free Tour by Tuk-Tuk: Unique & Eco-Friendly",
       "es": "Tour privado en Tuk-Tuk por el patrimonio de Rabat: Único y ecológico",
@@ -28675,7 +28676,7 @@
   },
   {
     "id": 78610,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tangier Highlights Excursion",
       "es": "Lo más destacado de Tánger",
@@ -28798,7 +28799,7 @@
   },
   {
     "id": 78611,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Transfer from Tangier Ibn Battouta Airport",
       "es": "Traslado privado desde el aeropuerto de Tánger Ibn Battouta",
@@ -28876,7 +28877,7 @@
   },
   {
     "id": 78613,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tangier, Asilah & Cap Spartel: Full-Day Excursion",
       "es": "Tánger, Asilah y Cap Spartel: Excursión de día completo",
@@ -29034,7 +29035,7 @@
   },
   {
     "id": 78911,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Explore Tangier: Unforgettable Walking Tour of the City",
       "es": "Explora Tánger: Un Inolvidable Recorrido a pie por la Ciudad",
@@ -29139,12 +29140,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.68,
-    "reviewsNumber": 30
+    "rating": 4.6899999999999995,
+    "reviewsNumber": 31
   },
   {
     "id": 79106,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking Adventure: Asilah to Sidi Mghayet Beach",
       "es": "Aventura de Senderismo: De Asilah a la Playa de Sidi Mghayet",
@@ -29233,7 +29234,7 @@
   },
   {
     "id": 79297,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Imlil Valley from Marrakech: Half Day Tour",
       "es": "Explorar el Valle de Imlil desde Marrakech: Excursión de medio día",
@@ -29340,7 +29341,7 @@
   },
   {
     "id": 79689,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Medina to Moonlight Free Tour: Stories, Culture & Whatever Comes",
       "es": "Recorrido gratuito de Medina a la luz de la luna: Historias, cultura y lo que venga",
@@ -29498,7 +29499,7 @@
   },
   {
     "id": 80301,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ourika Valley: A Day in the Atlas",
       "es": "Valle de Ourika: Un Día en el Atlas",
@@ -29591,7 +29592,7 @@
   },
   {
     "id": 80473,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Essential Rabat: Guided Day Tour",
       "es": "Rabat Esencial: Visita Guiada de un Día",
@@ -29713,7 +29714,7 @@
   },
   {
     "id": 80877,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Marrakech Hot Air Balloon Flight, Berber Breakfast & Certificate",
       "es": "Vuelo en globo por Marrakech, desayuno bereber y certificado",
@@ -29823,7 +29824,7 @@
   },
   {
     "id": 81640,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Atlas Mountains Bike Escape",
       "es": "Escapada en Bicicleta por el Atlas",
@@ -29907,7 +29908,7 @@
   },
   {
     "id": 81788,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Luxury Day Trip to Essaouira from Marrakech",
       "es": "Excursión de lujo de un día a Essaouira desde Marrakech",
@@ -30019,7 +30020,7 @@
   },
   {
     "id": 81884,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Agafay Desert: Sunset & Traditional Dinner, Fireshow ",
       "es": "Desierto de Agafay: Puesta de sol y cena tradicional, espectáculo de fuego ",
@@ -30139,7 +30140,7 @@
   },
   {
     "id": 86675,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hassan II Mosque Photoshoot",
       "es": "Sesión de fotos de la Mezquita Hassan II",
@@ -30229,6 +30230,311 @@
       {
         "id": 298840,
         "URL": "https://www.freetour.com/images/tours/86675/-10.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 64861,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Tangier Medina Walking tour ",
+      "es": "Visita a pie de la Medina de Tánger ",
+      "pt": "Passeio a pé pela Medina de Tânger ",
+      "de": "Tanger Medina Rundgang ",
+      "fr": "Visite à pied de la médina de Tanger ",
+      "it": "Visita a piedi della Medina di Tangeri "
+    },
+    "brief": {
+      "de": "Begleiten Sie uns auf einen Rundgang durch die Medina von Tanger! Entdecken Sie verborgene Schätze und reiche Geschichte mit einem professionellen lokalen Führer mit über acht Jahren Erfahrung. Entdecken Sie die Geheimnisse von Tanger. Buchen Sie Ihr Abenteuer noch heute!",
+      "en": "Join us for an immersive walk through Tangier's Medina! Discover hidden gems and rich history with a professional local guide with over eight years of experience. Uncover the secrets of Tangier. Book your adventure today!",
+      "es": "Acompáñenos en un paseo por la Medina de Tánger Descubra joyas ocultas y una rica historia con un guía local profesional con más de ocho años de experiencia. Descubra los secretos de Tánger. Reserve su aventura hoy mismo",
+      "fr": "Rejoignez-nous pour une promenade immersive dans la Médina de Tanger ! Découvrez des joyaux cachés et une histoire riche avec un guide local professionnel ayant plus de huit ans d'expérience. Découvrez les secrets de Tanger. Réservez votre aventure dès aujourd'hui !",
+      "it": "Unitevi a noi per una passeggiata coinvolgente nella Medina di Tangeri! Scoprite le gemme nascoste e la ricchezza della storia con una guida locale professionista con oltre otto anni di esperienza. Scoprite i segreti di Tangeri. Prenotate la vostra avventura oggi stesso!",
+      "pt": "Junte-se a nós para um passeio imersivo pela Medina de Tânger! Descubra as jóias escondidas e a rica história com um guia local profissional com mais de oito anos de experiência. Descubra os segredos de Tânger. Reserve a sua aventura hoje mesmo!"
+    },
+    "description": {
+      "de": "Entdecken Sie die Medina von Tanger: Ein 3-stündiger Rundgang.\r\nTauchen Sie ein in das pulsierende Herz von Tanger auf diesem fesselnden 3-stündigen Rundgang durch die historische Medina.\r\n\r\n- Genießen Sie die lokalen Köstlichkeiten: Lassen Sie Ihre Sinne von den verlockenden Aromen der Gewürze und der traditionellen marokkanischen Küche verwöhnen. Probieren Sie lokale Delikatessen, Lebensmittel\r\n- Einkaufen bis zum Umfallen: Lassen Sie sich in den pulsierenden Souks treiben, wo Sie eine Fundgrube an handgefertigten Waren finden, von kunstvollen Teppichen und farbenfroher Keramik bis hin zu exotischen Gewürzen und authentischen Souvenirs.\r\n- Fangen Sie die Essenz von Tanger ein: Tauchen Sie ein in die pulsierende Atmosphäre, machen Sie atemberaubende Fotos und schaffen Sie bleibende Erinnerungen an dieses unvergessliche Erlebnis.\r\n\r\nWarum sollten Sie diese Tour wählen?\r\n- Ortskundiger Führer: Profitieren Sie von den Einblicken eines sachkundigen Führers, der Ihnen faszinierende Geschichten und historische Anekdoten erzählt. Unvergessliche Erinnerungen: Schaffen Sie bleibende Erinnerungen, während Sie die pulsierende Medina erkunden, atemberaubende Fotos machen und in das reiche kulturelle Erbe von Tanger eintauchen.\r\n\r\nBuchen Sie noch heute Ihren 3-stündigen Rundgang und lüften Sie die Geheimnisse von Tanger's Medina!",
+      "en": "Discover Tangier's Medina: A 3-Hour Walking Tour.\r\nImmerse yourself in the vibrant heart of Tangier on this captivating 3-hour walking tour through the historic Medina.\r\n\r\n- Savor local flavors: Indulge your senses with the tantalizing aromas of spices and traditional Moroccan cuisine. Sample local delicacies, food\r\n- Shop till you drop: Lose yourself in the vibrant souks, where you'll find a treasure trove of handcrafted goods, from intricate carpets and colorful ceramics to exotic spices and authentic souvenirs.\r\n- Capture the essence of Tangier: Immerse yourself in the vibrant atmosphere, capture stunning photos, and create lasting memories of this unforgettable experience.\r\n\r\nWhy Choose This Tour:\r\n- Expert local guide: Benefit from the insights of a knowledgeable guide who will share fascinating stories and historical anecdotes. Unforgettable memories: Create lasting memories as you explore the vibrant Medina, capture stunning photos, and immerse yourself in the rich cultural heritage of Tangier.\r\n\r\nBook your 3-hour walking tour today and unlock the secrets of Tangier's Medina!",
+      "es": "Descubra la Medina de Tánger: Recorrido a pie de 3 horas.\r\nSumérjase en el vibrante corazón de Tánger en este cautivador recorrido a pie de 3 horas por la histórica Medina.\r\n\r\n- Saboree los sabores locales: Deleite sus sentidos con los tentadores aromas de las especias y la cocina tradicional marroquí. Pruebe las delicias locales, la comida\r\n- Compre hasta caer rendido: Piérdase por los vibrantes zocos, donde encontrará un tesoro de productos artesanales, desde intrincadas alfombras y coloridas cerámicas hasta exóticas especias y auténticos souvenirs.\r\n- Capte la esencia de Tánger: Sumérjase en el vibrante ambiente, capture fotos impresionantes y cree recuerdos imborrables de esta experiencia inolvidable.\r\n\r\nPor qué elegir esta excursión:\r\n- Guía local experto: Benefíciese de los conocimientos de un guía experto que compartirá historias fascinantes y anécdotas históricas. Recuerdos inolvidables: Cree recuerdos duraderos mientras explora la vibrante Medina, captura fotos impresionantes y se sumerge en el rico patrimonio cultural de Tánger.\r\n\r\nReserve hoy mismo su visita a pie de 3 horas y descubra los secretos de la Medina de Tánger",
+      "fr": "Découvrez la Médina de Tanger : Une visite à pied de 3 heures.\r\nPlongez dans le cœur vibrant de Tanger lors de cette captivante visite à pied de 3 heures dans la Médina historique.\r\n\r\n- Savourez les saveurs locales : Laissez-vous séduire par les arômes alléchants des épices et de la cuisine marocaine traditionnelle. Goûtez aux délices locaux, à la nourriture\r\n- Faites du shopping jusqu'à ce que vous tombiez : Perdez-vous dans les souks animés, où vous trouverez un trésor de produits artisanaux, des tapis complexes aux céramiques colorées, en passant par les épices exotiques et les souvenirs authentiques.\r\n- Saisissez l'essence de Tanger : Immergez-vous dans l'atmosphère vibrante, prenez de superbes photos et créez des souvenirs impérissables de cette expérience inoubliable.\r\n\r\nPourquoi choisir cette excursion ?\r\n- Guide local expert : Bénéficiez des conseils d'un guide compétent qui vous racontera des histoires fascinantes et des anecdotes historiques. Des souvenirs inoubliables : Créez des souvenirs inoubliables en explorant la vibrante Médina, en prenant de superbes photos et en vous immergeant dans le riche patrimoine culturel de Tanger.\r\n\r\nRéservez dès aujourd'hui votre visite à pied de 3 heures et découvrez les secrets de la Médina de Tanger !",
+      "it": "Scoprite la Medina di Tangeri: Tour a piedi di 3 ore.\r\nImmergetevi nel cuore vibrante di Tangeri con questo affascinante tour a piedi di 3 ore attraverso la storica Medina.\r\n\r\n- Assaporate i sapori locali: Assecondate i vostri sensi con gli aromi stuzzicanti delle spezie e della cucina tradizionale marocchina. Assaggiate le prelibatezze locali, il cibo\r\n- Fate acquisti fino allo sfinimento: Perdetevi nei vivaci souk, dove troverete un tesoro di prodotti artigianali, da intricati tappeti e ceramiche colorate a spezie esotiche e souvenir autentici.\r\n- Catturate l'essenza di Tangeri: Immergetevi nell'atmosfera vibrante, scattate foto mozzafiato e create ricordi indelebili di questa esperienza indimenticabile.\r\n\r\nPerché scegliere questo tour:\r\n- Guida locale esperta: Approfittate delle intuizioni di una guida esperta che condividerà storie affascinanti e aneddoti storici. Ricordi indimenticabili: Create ricordi indelebili esplorando la vivace Medina, scattando foto mozzafiato e immergendovi nel ricco patrimonio culturale di Tangeri.\r\n\r\nPrenotate oggi stesso il vostro tour a piedi di 3 ore e scoprite i segreti della Medina di Tangeri!",
+      "pt": "Descubra a Medina de Tânger: Um passeio a pé de 3 horas.\r\nMergulhe no coração vibrante de Tânger neste cativante passeio a pé de 3 horas pela histórica Medina.\r\n\r\n- Saboreie os sabores locais: Delicie os seus sentidos com os aromas tentadores das especiarias e da cozinha tradicional marroquina. Prove as iguarias locais, a comida\r\n- Faça compras até cair: Perca-se nos vibrantes souks, onde encontrará um tesouro de produtos artesanais, desde tapetes intrincados e cerâmicas coloridas a especiarias exóticas e lembranças autênticas.\r\n- Capture a essência de Tânger: Mergulhe na atmosfera vibrante, tire fotos impressionantes e crie memórias duradouras desta experiência inesquecível.\r\n\r\nPorquê escolher esta excursão:\r\n- Guia local especializado: Beneficie dos conhecimentos de um guia experiente que partilhará histórias fascinantes e anedotas históricas. Memórias inesquecíveis: Crie memórias inesquecíveis enquanto explora a vibrante Medina, tira fotografias deslumbrantes e mergulha no rico património cultural de Tânger.\r\n\r\nReserve hoje o seu passeio a pé de 3 horas e desvende os segredos da Medina de Tânger!"
+    },
+    "providerTitle": "Tinjis Tour",
+    "providerPhone": "+212618202222",
+    "URL": "https://www.freetour.com/tangier/tangier-city-walking-experience?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/tangier/tangier-city-walking-experience?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/tangier/tangier-city-walking-experience?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/tangier/tangier-city-walking-experience?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/tangier/tangier-city-walking-experience?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/tangier/tangier-city-walking-experience?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/tangier/tangier-city-walking-experience?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Place 9 Avril ",
+      "coordinates": "35.78424299999999,-5.8129243",
+      "googlePlaceId": "ChIJre243YNrpw0RMU6_GHCsZNQ"
+    },
+    "cityId": 3032,
+    "countryId": 105,
+    "includes": [
+      "Tangier medina",
+      "Place 9 Avril 1947"
+    ],
+    "POIs": [
+      {
+        "id": 26985,
+        "title": "Tangier medina",
+        "googlePlaceId": "ChIJXeExBAB_DA0RW9reAp0WoPM"
+      },
+      {
+        "id": 17669,
+        "title": "Place 9 Avril 1947",
+        "googlePlaceId": "ChIJZxOT8kV_DA0RLHTLrgYZGKE"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/64861/walking-tour-30-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 226314,
+        "URL": "https://www.freetour.com/images/tours/64861/walking-tour-30-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.83,
+    "reviewsNumber": 28
+  },
+  {
+    "id": 83056,
+    "updatedAt": "2025-12-11 03:32:39",
+    "title": {
+      "en": "Introduction to Marrakech Medina Free Tour: Safe & Guided Exploration",
+      "es": "Introducción a la Medina de Marrakech Free Tour: Exploración segura y guiada",
+      "pt": "Introdução à Medina de Marraquexe - Visita livre: Exploração segura e guiada",
+      "de": "Einführung in die Medina von Marrakesch Kostenlose Tour: Sichere &amp; geführte Erkundung",
+      "fr": "Introduction à la visite libre de la médina de Marrakech : Exploration sûre et guidée",
+      "it": "Introduzione alla Medina di Marrakech Tour gratuito: Esplorazione sicura e guidata"
+    },
+    "brief": {
+      "de": "Nehmen Sie an unserem Rundgang teil und entdecken Sie den Zauber von Marrakesch! Erforschen Sie versteckte Ecken, lassen Sie sich von lokalen Traditionen inspirieren und spüren Sie, wie der pulsierende Geist der Stadt mit jedem Schritt lebendiger wird.",
+      "en": "Join our walking tour and discover the magic of Marrakech! Explore hidden corners, embrace local traditions, and feel the city’s vibrant spirit come alive with every step.",
+      "es": "Únase a nuestro recorrido a pie y descubra la magia de Marrakech Explore rincones ocultos, abrace las tradiciones locales y sienta cómo el vibrante espíritu de la ciudad cobra vida a cada paso.",
+      "fr": "Participez à notre visite à pied et découvrez la magie de Marrakech ! Explorez les coins cachés, adoptez les traditions locales et sentez l'esprit vibrant de la ville s'animer à chaque pas.",
+      "it": "Unitevi al nostro tour a piedi e scoprite la magia di Marrakech! Esplorate angoli nascosti, abbracciate le tradizioni locali e sentite lo spirito vibrante della città prendere vita a ogni passo.",
+      "pt": "Junte-se ao nosso passeio a pé e descubra a magia de Marraquexe! Explore recantos escondidos, abrace as tradições locais e sinta o espírito vibrante da cidade ganhar vida a cada passo."
+    },
+    "description": {
+      "de": "Entdecken Sie das pulsierende Herz von Marrakesch mit einem lizenzierten lokalen Führer auf dieser Hidden Gems Tour. Beginnen Sie an der ikonischen Koutoubia-Moschee, bevor Sie in den bezaubernden Souk Laksour eintauchen, eine ruhigere Ecke der Medina, wo Tradition und Handwerkskunst gedeihen.\r\n\r\nGehen Sie weiter zum historischen Mouassine-Brunnen und erkunden Sie dann den farbenfrohen Färbermarkt mit seinen traditionellen Textilfärbereien. Schlendern Sie über Rahba Lakdima, den berühmten Berbermarkt, wo Sie die lokale Handelskultur erleben und einzigartige Schätze finden können.\r\n\r\nBeenden Sie Ihr Abenteuer auf dem lebhaften Jemaa el-Fna-Platz, dem pulsierenden Herzen Marrakeschs und UNESCO-Weltkulturerbe, wo Sie Geschichtenerzähler, Künstler und fantastisches Straßenessen erwarten.\r\n\r\nDiese sichere, geführte Tour bietet einen unvergesslichen Einblick in die Seele Marrakeschs und das lokale Leben. Wichtig: Dieser kostenlose Rundgang hat keinen festen Preis - er basiert auf Trinkgeldern. Wenn Ihnen das Erlebnis gefällt, freuen wir uns über ein Trinkgeld von mindestens 10 € pro Person.",
+      "en": "Discover the vibrant heart of Marrakech with a licensed local guide on this Hidden Gems Tour. Start at the iconic Koutoubia Mosque before diving into the enchanting Souk Laksour, a quieter corner of the medina where tradition and craftsmanship thrive.\r\n\r\nContinue to the historic Mouassine Fountain, then explore the colorful Dyer Market with its traditional textile dyeing. Stroll through Rahba Lakdima, the famous Berber Market, where you’ll experience local trading culture and find unique treasures.\r\n\r\nEnd your adventure in lively Jemaa el-Fna Square, the beating heart of Marrakech and a UNESCO World Heritage site filled with storytellers, performers, and amazing street food.\r\n\r\nThis safe, guided experience offers a memorable glimpse into Marrakech’s soul and local life. Important: This free walking tour has no fixed price — it is based on tips. If you enjoy the experience, a minimum tip of 10€ per person is kindly appreciated.",
+      "es": "Descubra el vibrante corazón de Marrakech con un guía local autorizado en esta excursión por las joyas ocultas. Comience en la emblemática Mezquita Koutoubia antes de sumergirse en el encantador Zoco Laksour, un rincón más tranquilo de la medina donde prosperan la tradición y la artesanía.\r\n\r\nContinúe hasta la histórica Fuente Mouassine y, a continuación, explore el colorido Mercado de los Tintoreros, con su tradicional teñido de telas. Pasee por Rahba Lakdima, el famoso mercado bereber, donde experimentará la cultura comercial local y encontrará tesoros únicos.\r\n\r\nTermine su aventura en la animada plaza Jemaa el-Fna, el corazón palpitante de Marrakech y lugar declarado Patrimonio de la Humanidad por la UNESCO, repleto de cuentacuentos, artistas y sorprendente comida callejera.\r\n\r\nEsta experiencia segura y guiada ofrece una visión memorable del alma y la vida local de Marrakech. Importante: Este recorrido a pie gratuito no tiene un precio fijo, sino que se basa en las propinas. Si disfruta de la experiencia, le agradeceremos una propina mínima de 10 € por persona.",
+      "fr": "Découvrez le cœur vibrant de Marrakech avec un guide local agréé lors de cette visite des joyaux cachés. Commencez par l'emblématique mosquée Koutoubia avant de plonger dans l'enchanteur Souk Laksour, un coin plus tranquille de la médina où la tradition et l'artisanat se développent.\r\n\r\nContinuez jusqu'à la fontaine historique de Mouassine, puis explorez le marché coloré des teinturiers avec ses teintures textiles traditionnelles. Flânez dans Rahba Lakdima, le célèbre marché berbère, où vous découvrirez la culture commerciale locale et trouverez des trésors uniques.\r\n\r\nTerminez votre aventure sur la place animée de Jemaa el-Fna, cœur battant de Marrakech et site classé au patrimoine mondial de l'UNESCO, qui regorge de conteurs, d'artistes et de plats de rue étonnants.\r\n\r\nCette expérience sûre et guidée offre un aperçu mémorable de l'âme de Marrakech et de la vie locale. Important : cette visite à pied gratuite n'a pas de prix fixe - elle est basée sur les pourboires. Si vous appréciez l'expérience, un pourboire minimum de 10€ par personne sera apprécié.",
+      "it": "Scoprite il cuore vibrante di Marrakech con una guida locale autorizzata in questo tour delle gemme nascoste. Iniziate dall'iconica Moschea della Koutoubia prima di immergervi nell'incantevole Souk Laksour, un angolo più tranquillo della medina dove prosperano tradizione e artigianato.\r\n\r\nProseguite fino alla storica Fontana di Mouassine, quindi esplorate il colorato Mercato dei Tintori con la sua tradizionale tintura dei tessuti. Passeggiate per Rahba Lakdima, il famoso mercato berbero, dove potrete sperimentare la cultura commerciale locale e trovare tesori unici.\r\n\r\nConcludete la vostra avventura nella vivace piazza Jemaa el-Fna, cuore pulsante di Marrakech e patrimonio mondiale dell'UNESCO, ricca di cantastorie, artisti e cibo di strada.\r\n\r\nQuesta esperienza guidata e sicura offre uno sguardo memorabile sull'anima di Marrakech e sulla vita locale. Importante: questo tour a piedi gratuito non ha un prezzo fisso e si basa sulle mance. Se l'esperienza vi piace, è gradita una mancia minima di 10 € a persona.",
+      "pt": "Descubra o coração vibrante de Marraquexe com um guia local licenciado nesta excursão às jóias escondidas. Comece na icónica Mesquita Koutoubia antes de mergulhar no encantador Souk Laksour, um canto mais calmo da medina onde a tradição e o artesanato prosperam.\r\n\r\nContinue até à histórica Fonte Mouassine, depois explore o colorido Mercado Dyer com a sua tradicional tinturaria têxtil. Passeie pelo Rahba Lakdima, o famoso Mercado Berbere, onde poderá conhecer a cultura comercial local e encontrar tesouros únicos.\r\n\r\nTermine a sua aventura na animada Praça Jemaa el-Fna, o coração pulsante de Marraquexe e Património Mundial da UNESCO, repleta de contadores de histórias, artistas e comida de rua fantástica.\r\n\r\nEsta experiência segura e guiada oferece um vislumbre memorável da alma de Marraquexe e da vida local. Importante: Este passeio a pé gratuito não tem um preço fixo - é baseado em gorjetas. Se gostar da experiência, agradecemos uma gorjeta mínima de 10 euros por pessoa."
+    },
+    "providerTitle": "Rachid",
+    "providerPhone": "+212666326430",
+    "URL": "https://www.freetour.com/marrakech/marrakech-hidden-gems-tour-safe-guided-exploration?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/marrakech/marrakech-hidden-gems-tour-safe-guided-exploration?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/marrakech/marrakech-hidden-gems-tour-safe-guided-exploration?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/marrakech/marrakech-hidden-gems-tour-safe-guided-exploration?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/marrakech/marrakech-hidden-gems-tour-safe-guided-exploration?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/marrakech/marrakech-hidden-gems-tour-safe-guided-exploration?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/marrakech/marrakech-hidden-gems-tour-safe-guided-exploration?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Koutoubia mosque",
+      "coordinates": "31.6237205,-7.993619599999999",
+      "googlePlaceId": "ChIJbcqO1ULurw0RXmjhVtWU4TI"
+    },
+    "cityId": 3021,
+    "countryId": 105,
+    "includes": [
+      "Jemaa el-Fnaa Square",
+      "Koutoubia",
+      "Berber Market & Spices Place",
+      "medina, marrakech",
+      "Mellah spice market",
+      "Souk Semmarine",
+      "Bahia Palace",
+      "Ibn Youssef School"
+    ],
+    "POIs": [
+      {
+        "id": 356,
+        "title": "Jemaa el-Fnaa Square",
+        "googlePlaceId": "ChIJ-WuddEHvrw0RDeah4wzCrnI"
+      },
+      {
+        "id": 999,
+        "title": "Koutoubia",
+        "googlePlaceId": "ChIJ313XmVzurw0Rwm9umhM4zdg"
+      },
+      {
+        "id": 33892,
+        "title": "Berber Market & Spices Place",
+        "googlePlaceId": "ChIJ58IdYWzvrw0RJft_PIfni9g"
+      },
+      {
+        "id": 18815,
+        "title": "medina, marrakech",
+        "googlePlaceId": "ChIJETi_faTvrw0Rhe9_krFNyb0"
+      },
+      {
+        "id": 4116,
+        "title": "Mellah spice market",
+        "googlePlaceId": "ChIJEwJY4sHvrw0RLO9fXvQ-BRI"
+      },
+      {
+        "id": 8266,
+        "title": "Souk Semmarine",
+        "googlePlaceId": "ChIJp6e6a0Lurw0RGz7qmj7RHko"
+      },
+      {
+        "id": 8601,
+        "title": "Bahia Palace",
+        "googlePlaceId": "ChIJq0vBckfurw0R23-BRUdfmII"
+      },
+      {
+        "id": 8992,
+        "title": "Ibn Youssef School",
+        "googlePlaceId": "ChIJr0A2gGnurw0RoaPk7MWtElU"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/83056/marrakech-hidden-gems-tour-safe-guided-exploration-04.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 299890,
+        "URL": "https://www.freetour.com/images/tours/83056/marrakech-hidden-gems-tour-safe-guided-exploration-04.jpg"
+      },
+      {
+        "id": 299889,
+        "URL": "https://www.freetour.com/images/tours/83056/marrakech-hidden-gems-tour-safe-guided-exploration-03.jpg"
+      },
+      {
+        "id": 299891,
+        "URL": "https://www.freetour.com/images/tours/83056/marrakech-hidden-gems-tour-safe-guided-exploration-05.jpg"
+      },
+      {
+        "id": 299892,
+        "URL": "https://www.freetour.com/images/tours/83056/marrakech-hidden-gems-tour-safe-guided-exploration-06.jpg"
+      },
+      {
+        "id": 299895,
+        "URL": "https://www.freetour.com/images/tours/83056/marrakech-hidden-gems-tour-safe-guided-exploration-07.jpg"
+      },
+      {
+        "id": 299896,
+        "URL": "https://www.freetour.com/images/tours/83056/marrakech-hidden-gems-tour-safe-guided-exploration-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 85973,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Discover Akchour: Waterfalls, Natural Pools & God’s Bridge Tour",
+      "es": "Descubra Akchour: Cascadas, piscinas naturales y Puente de Dios",
+      "pt": "Descobrir Akchour: Visita às cascatas, piscinas naturais e ponte de Deus",
+      "de": "Entdecken Sie Akchour: Wasserfälle, Naturpools und Gottesbrücke Tour",
+      "fr": "Découvrez Akchour : Cascades, piscines naturelles et pont de Dieu",
+      "it": "Scoprire Akchour: Cascate, piscine naturali e ponte di Dio"
+    },
+    "brief": {
+      "de": "Erkunden Sie die Akchour-Wasserfälle und die Brücke Gottes bei einem Tagesausflug von Chefchaouen aus. Wandern Sie durch das Rif-Gebirge, nehmen Sie ein Bad im Fluss und genießen Sie ein Mittagessen am Flussufer.",
+      "en": "Explore the Akchour Waterfalls and the Bridge of God on a day trip from Chefchaouen. Hike through the Rif Mountains, take a dip in the river, and enjoy a riverside lunch.",
+      "es": "Explore las cascadas de Akchour y el Puente de Dios en una excursión de un día desde Chefchaouen. Camine por las montañas del Rif, dese un chapuzón en el río y disfrute de un almuerzo a orillas del río.",
+      "fr": "Explorez les cascades d'Akchour et le Pont de Dieu lors d'une excursion d'une journée au départ de Chefchaouen. Faites une randonnée dans les montagnes du Rif, plongez dans la rivière et profitez d'un déjeuner au bord de l'eau.",
+      "it": "Esplorate le cascate di Akchour e il Ponte di Dio con un'escursione di un giorno da Chefchaouen. Fate un'escursione tra le montagne del Rif, fate un tuffo nel fiume e godetevi un pranzo in riva al fiume.",
+      "pt": "Explore as cascatas de Akchour e a Ponte de Deus numa viagem de um dia a partir de Chefchaouen. Caminhe pelas montanhas do Rif, dê um mergulho no rio e desfrute de um almoço à beira-rio."
+    },
+    "description": {
+      "de": "Beginnen Sie Ihr Abenteuer mit einer bequemen Abholung in Chefchaouen. Nach einer kurzen, landschaftlich reizvollen Fahrt durch üppige Täler erreichen Sie den Talassemtane-Nationalpark, ein Gebiet, das für seine dramatischen Landschaften, seine reiche Flora und Fauna und seine friedliche natürliche Umgebung bekannt ist.\r\n\r\nMit einem erfahrenen einheimischen Führer wandern Sie auf gut markierten Pfaden durch Wälder, über kleine Bäche und natürliche Tümpel, bis Sie zu den kaskadenartigen Akchour-Wasserfällen gelangen. Lassen Sie sich von der Kraft des Wassers beeindrucken und machen Sie ein paar Fotos.\r\n\r\nJe nach Zeit und Wasserführung können Sie weiter zur berühmten Brücke Gottes wandern, einer beeindruckenden natürlichen Felsformation, die eine Flussschlucht überspannt. Genießen Sie die Aussicht, nehmen Sie eventuell ein Bad im kühlen Wasser und genießen Sie ein Mittagessen am Flussufer.\r\n\r\nGenießen Sie Momente der Ruhe an den Wasserfällen, lokale Snacks oder Tajine (falls im Preis inbegriffen) sowie Tee im Schatten der Flussufer. Am Nachmittag kehren Sie nach Chefchaouen zurück und kommen mit vielen Erinnerungen, Fotos und vielleicht einem leichteren Gemüt (und Kleidung!) an.",
+      "en": "Begin your adventure with a comfortable pickup from Chefchaouen. After a short scenic drive through lush valleys, reach Talassemtane National Park, an area known for its dramatic landscapes, rich flora and fauna, and peaceful natural surroundings.\r\n\r\nWith an experienced local guide, hike along well-marked trails, passing through forested paths, over small streams and natural pools, until you arrive at the cascading Akchour Waterfalls. Take in the power of the water and snap some photos.\r\n\r\nDepending on time and water flow, continue to the iconic Bridge of God, a striking natural rock formation spanning a river gorge. Soak in the views, possibly take a dip in cool waters, and enjoy a riverside lunch.\r\n\r\nEnjoy moments of rest beside the waterfalls, local snacks or tajine if included, plus tea in the shade of riverbanks. By afternoon, journey back to Chefchaouen, arriving with memories, photos, and perhaps a lighter spirit (and clothes!).",
+      "es": "Comience su aventura con una cómoda recogida en Chefchaouen. Tras un corto trayecto en coche a través de frondosos valles, llegará al Parque Nacional de Talassemtane, una zona conocida por sus espectaculares paisajes, su rica flora y fauna y su tranquilo entorno natural.\r\n\r\nCon un guía local experimentado, camine por senderos bien señalizados, atravesando caminos boscosos, pequeños arroyos y piscinas naturales, hasta llegar a las cascadas de Akchour. Disfrute de la fuerza del agua y saque fotos.\r\n\r\nDependiendo del tiempo y del caudal, continúe hasta el emblemático Puente de Dios, una impresionante formación rocosa natural que atraviesa la garganta de un río. Sumérjase en las vistas, dese un chapuzón en las frescas aguas y disfrute de un almuerzo a orillas del río.\r\n\r\nDisfrute de momentos de descanso junto a las cascadas, aperitivos locales o tajine si están incluidos, además de un té a la sombra de las orillas del río. Por la tarde, viaje de regreso a Chefchaouen, llegando con recuerdos, fotos y quizás un espíritu más ligero (¡y ropa!).",
+      "fr": "Commencez votre aventure par une prise en charge confortable à Chefchaouen. Après un court trajet panoramique à travers des vallées luxuriantes, vous atteindrez le parc national de Talassemtane, une région connue pour ses paysages spectaculaires, la richesse de sa flore et de sa faune, et son environnement naturel paisible.\r\n\r\nEn compagnie d'un guide local expérimenté, randonnez le long de sentiers bien marqués, en passant par des chemins forestiers, de petits ruisseaux et des piscines naturelles, jusqu'à ce que vous arriviez aux chutes d'eau en cascade d'Akchour. Admirez la puissance de l'eau et prenez quelques photos.\r\n\r\nEn fonction du temps et du débit de l'eau, continuez jusqu'à l'emblématique Pont de Dieu, une formation rocheuse naturelle saisissante qui enjambe une gorge fluviale. Admirez la vue, piquez éventuellement une tête dans les eaux fraîches et profitez d'un déjeuner au bord de la rivière.\r\n\r\nProfitez des moments de repos près des chutes d'eau, des collations locales ou du tajine s'il est inclus, ainsi que du thé à l'ombre des berges de la rivière. Dans l'après-midi, retour à Chefchaouen, avec des souvenirs, des photos et peut-être un esprit (et des vêtements) plus léger.",
+      "it": "Iniziate la vostra avventura con un comodo pick-up da Chefchaouen. Dopo un breve viaggio panoramico attraverso valli lussureggianti, raggiungete il Parco Nazionale di Talassemtane, un'area nota per i suoi paesaggi drammatici, la ricchezza della flora e della fauna e la tranquillità della natura.\r\n\r\nCon una guida locale esperta, si percorrono sentieri ben segnalati, passando per sentieri boscosi, su piccoli ruscelli e piscine naturali, fino ad arrivare alle cascate di Akchour. Ammirate la potenza dell'acqua e scattate qualche foto.\r\n\r\nA seconda del tempo e della portata dell'acqua, si può proseguire fino all'iconico Ponte di Dio, una suggestiva formazione rocciosa naturale che attraversa la gola di un fiume. Ammirate il panorama, eventualmente fate un tuffo nelle acque fresche e gustate un pranzo in riva al fiume.\r\n\r\nGodetevi i momenti di riposo accanto alle cascate, gli spuntini locali o la tajine, se inclusa, e il tè all'ombra delle rive del fiume. Nel pomeriggio, tornate a Chefchaouen, con ricordi, foto e forse uno spirito (e vestiti) più leggero.",
+      "pt": "Comece a sua aventura com um confortável serviço de recolha em Chefchaouen. Depois de uma curta viagem panorâmica através de vales verdejantes, chegará ao Parque Nacional Talassemtane, uma área conhecida pelas suas paisagens dramáticas, flora e fauna ricas e ambiente natural tranquilo.\r\n\r\nCom um guia local experiente, caminhe por trilhos bem marcados, passando por caminhos florestais, pequenos riachos e piscinas naturais, até chegar às cascatas de Akchour. Aprecie a força da água e tire algumas fotografias.\r\n\r\nDependendo do tempo e do fluxo de água, continue até à icónica Ponte de Deus, uma impressionante formação rochosa natural que atravessa o desfiladeiro do rio. Desfrute das vistas, possivelmente dê um mergulho nas águas frescas e desfrute de um almoço à beira do rio.\r\n\r\nDesfrute de momentos de descanso junto às cascatas, de petiscos locais ou de tajine, se incluído, e de chá à sombra das margens do rio. À tarde, viagem de regresso a Chefchaouen, com recordações, fotografias e talvez um espírito (e roupa!) mais leve."
+    },
+    "providerTitle": "Chefchaouen Adventures Travel Agency",
+    "providerPhone": "+212699991101",
+    "URL": "https://www.freetour.com/chefchaouen/discover-akchour-waterfalls-natural-pools-gods-bridge-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/chefchaouen/discover-akchour-waterfalls-natural-pools-gods-bridge-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/chefchaouen/discover-akchour-waterfalls-natural-pools-gods-bridge-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/chefchaouen/discover-akchour-waterfalls-natural-pools-gods-bridge-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/chefchaouen/discover-akchour-waterfalls-natural-pools-gods-bridge-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/chefchaouen/discover-akchour-waterfalls-natural-pools-gods-bridge-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/chefchaouen/discover-akchour-waterfalls-natural-pools-gods-bridge-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 50,
+      "currency": "EUR"
+    },
+    "length": "5:30",
+    "meetingPoint": {
+      "title": "Post Maroc - Al Barid Bank",
+      "coordinates": "35.1681154,-5.2656507",
+      "googlePlaceId": "ChIJf-YOiogmCw0RV5gfZjd6GLA"
+    },
+    "cityId": 3014,
+    "countryId": 105,
+    "includes": [
+      "Transportation from / to Akchour ",
+      "Hiking to the small waterfalls ",
+      "hiking to the bridge of god ",
+      "Local guide"
+    ],
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/85973/-06.jpg",
+    "categoryId": 6,
+    "images": [
+      {
+        "id": 296163,
+        "URL": "https://www.freetour.com/images/tours/85973/-06.jpg"
+      },
+      {
+        "id": 296158,
+        "URL": "https://www.freetour.com/images/tours/85973/-01.jpg"
+      },
+      {
+        "id": 296159,
+        "URL": "https://www.freetour.com/images/tours/85973/-02.jpg"
+      },
+      {
+        "id": 296160,
+        "URL": "https://www.freetour.com/images/tours/85973/-03.jpg"
+      },
+      {
+        "id": 296161,
+        "URL": "https://www.freetour.com/images/tours/85973/-04.jpg"
+      },
+      {
+        "id": 296162,
+        "URL": "https://www.freetour.com/images/tours/85973/-05.jpg"
+      },
+      {
+        "id": 296164,
+        "URL": "https://www.freetour.com/images/tours/85973/-07.jpg"
       }
     ],
     "videoURL": null,

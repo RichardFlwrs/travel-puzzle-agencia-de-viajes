@@ -1,7 +1,7 @@
 [
   {
     "id": 5819,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kuala Lumpur Half-Day City Highlights Tour",
       "es": "Tour de medio día por Kuala Lumpur",
@@ -97,7 +97,7 @@
   },
   {
     "id": 53944,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bar Hopping",
       "es": "De bar en bar",
@@ -169,7 +169,7 @@
   },
   {
     "id": 54027,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Food Tour in Kuala Lumpur",
       "es": "Comida callejera en Kuala Lumpur",
@@ -256,7 +256,7 @@
   },
   {
     "id": 55316,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Standard Sedan Car Airport Transfers to City Centre",
       "es": "Traslados al centro de la ciudad en coche sedán estándar",
@@ -331,7 +331,7 @@
   },
   {
     "id": 70853,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Kuala Lumpur: A Journey Through Cultures",
       "es": "Kuala Lumpur: Un viaje a través de las culturas",
@@ -427,16 +427,16 @@
         "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-06.jpg"
       },
       {
-        "id": 248182,
-        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-02.jpg"
-      },
-      {
         "id": 248187,
         "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-07.jpg"
       },
       {
         "id": 248194,
         "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-14.jpg"
+      },
+      {
+        "id": 286995,
+        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-04.jpg"
       },
       {
         "id": 248198,
@@ -447,24 +447,40 @@
         "URL": "https://www.freetour.com/images/tours/70853/-11.jpg"
       },
       {
-        "id": 247708,
-        "URL": "https://www.freetour.com/images/tours/70853/-14.jpg"
-      },
-      {
-        "id": 248197,
-        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-17.jpg"
-      },
-      {
         "id": 286993,
         "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-01.jpg"
       },
       {
-        "id": 286995,
-        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-04.jpg"
+        "id": 247708,
+        "URL": "https://www.freetour.com/images/tours/70853/-14.jpg"
+      },
+      {
+        "id": 300794,
+        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-08.jpg"
+      },
+      {
+        "id": 300793,
+        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-05.jpg"
+      },
+      {
+        "id": 300796,
+        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-10.jpg"
+      },
+      {
+        "id": 300795,
+        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-09.jpg"
+      },
+      {
+        "id": 248182,
+        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-02.jpg"
+      },
+      {
+        "id": 248197,
+        "URL": "https://www.freetour.com/images/tours/70853/kuala-lumpur-essentials-free-walking-tour-17.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.73,
-    "reviewsNumber": 17
+    "rating": 4.76,
+    "reviewsNumber": 19
   }
 ]

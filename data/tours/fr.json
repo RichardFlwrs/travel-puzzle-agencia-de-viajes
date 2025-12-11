@@ -1,7 +1,7 @@
 [
   {
     "id": 285,
-    "updatedAt": "2025-12-01 19:46:14",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Montmartre: Free Tour from Moulin Rouge to Sacré Coeur",
       "es": "Montmartre: Recorrido gratuito del Moulin Rouge al Sacré Coeur",
@@ -147,11 +147,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 1380
+    "reviewsNumber": 1383
   },
   {
     "id": 352,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Happy Original Free Tour of Strasbourg",
       "es": "Happy Original Visita gratuita a Estrasburgo",
@@ -287,11 +287,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 527
+    "reviewsNumber": 530
   },
   {
     "id": 428,
-    "updatedAt": "2025-12-01 01:00:33",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Strasbourg Customised Tour",
       "es": "Tour personalizado de Estrasburgo",
@@ -391,7 +391,7 @@
   },
   {
     "id": 458,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "The Soul of Paris: Latin Quarter, Sorbonne & Old Town",
       "es": "El alma de París: Barrio Latino, Sorbona y Casco Viejo",
@@ -508,7 +508,7 @@
   },
   {
     "id": 459,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Trendy Marais: Free Walking Tour",
       "es": "Marais de moda: visita gratuita a pie",
@@ -618,7 +618,7 @@
   },
   {
     "id": 696,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Free Tour Montmartre & Sacré Coeur",
       "es": "Free Tour Montmartre y Sagrado Corazón",
@@ -801,12 +801,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.5,
-    "reviewsNumber": 264
+    "rating": 4.49,
+    "reviewsNumber": 265
   },
   {
     "id": 697,
-    "updatedAt": "2025-12-01 21:55:28",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Free Tour Legends & Mysteries of Paris",
       "es": "Free Tour Leyendas y Misterios de París",
@@ -963,12 +963,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.37,
-    "reviewsNumber": 180
+    "rating": 4.35,
+    "reviewsNumber": 182
   },
   {
     "id": 817,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Béziers-Sérignan Nature Art and Cultural Cities Tour",
       "es": "Tour sobre naturaleza, arte y cultura en Béziers-Sérignan",
@@ -1043,7 +1043,7 @@
   },
   {
     "id": 1047,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Paris at Your Reach: Free Tour through the Heart of the City",
       "es": "París a su alcance: Recorrido gratuito por el corazón de la ciudad",
@@ -1180,7 +1180,7 @@
   },
   {
     "id": 1238,
-    "updatedAt": "2025-12-01 20:37:43",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Discover Marseille: Historical and Cultural Free Tour",
       "es": "Descubra Marsella: Visita histórica y cultural gratuita",
@@ -1343,11 +1343,11 @@
     ],
     "videoURL": null,
     "rating": 4.72,
-    "reviewsNumber": 1511
+    "reviewsNumber": 1521
   },
   {
     "id": 1309,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Paris Free Walking Tour",
       "es": "Recorrido gratuito a pie por París",
@@ -1483,7 +1483,7 @@
   },
   {
     "id": 1310,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour del Barrio Latino",
       "es": "Free Tour Barrio Latino en Español",
@@ -1603,7 +1603,7 @@
   },
   {
     "id": 1312,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour: Legends, Mysteries & Enigmas of Paris",
       "es": "Visita gratuita: Leyendas, misterios y enigmas de París",
@@ -1690,7 +1690,7 @@
   },
   {
     "id": 1313,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Montmartre in Paris",
       "es": "Visita gratuita a Montmartre en París",
@@ -1798,7 +1798,7 @@
   },
   {
     "id": 1732,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Paris Night Tour",
       "es": "Tour Nocturno por París",
@@ -1932,7 +1932,7 @@
   },
   {
     "id": 2328,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 14:30:04",
     "title": {
       "en": "Free Tour Paris A Must",
       "es": "Free Tour París Imprescindible",
@@ -2103,12 +2103,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.5600000000000005,
-    "reviewsNumber": 586
+    "rating": 4.55,
+    "reviewsNumber": 589
   },
   {
     "id": 3634,
-    "updatedAt": "2025-12-01 08:07:31",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Original: Free Walking Tour Bordeaux",
       "es": "Original: Recorrido gratuito a pie por Burdeos",
@@ -2306,11 +2306,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=R7t7gE_lcUQ",
     "rating": 4.73,
-    "reviewsNumber": 1054
+    "reviewsNumber": 1056
   },
   {
     "id": 4088,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Happy Petite France Free Tour of Strasbourg",
       "es": "Happy Petite France Free Tour de Estrasburgo",
@@ -2555,11 +2555,11 @@
     ],
     "videoURL": null,
     "rating": 4.83,
-    "reviewsNumber": 132
+    "reviewsNumber": 133
   },
   {
     "id": 4477,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Bordeaux Alternative Free Tour",
       "es": "Bordeaux Alternative Free Tour",
@@ -2704,12 +2704,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.48,
-    "reviewsNumber": 32
+    "rating": 4.5,
+    "reviewsNumber": 33
   },
   {
     "id": 4554,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Montpellier",
       "es": "Visita gratuita de Montpellier ",
@@ -2943,11 +2943,11 @@
     ],
     "videoURL": null,
     "rating": 4.62,
-    "reviewsNumber": 490
+    "reviewsNumber": 492
   },
   {
     "id": 5774,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Highlights of Vieux Lyon & Hidden Passageways Free Tour",
       "es": "Lo más destacado del Vieux Lyon y los pasadizos ocultos Visita gratuita",
@@ -3056,12 +3056,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=rRjJPATWDoc",
-    "rating": 4.71,
-    "reviewsNumber": 13
+    "rating": 4.75,
+    "reviewsNumber": 15
   },
   {
     "id": 6327,
-    "updatedAt": "2025-12-01 17:42:31",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "The Marvelous Historic Center of Strasbourg & Petite France",
       "es": "El maravilloso centro histórico de Estrasburgo y la Petite France",
@@ -3194,12 +3194,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.78,
-    "reviewsNumber": 585
+    "rating": 4.79,
+    "reviewsNumber": 601
   },
   {
     "id": 6709,
-    "updatedAt": "2025-12-01 13:08:24",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Essential Free Tour of Lyon",
       "es": "Visita imprescindible y gratuita de Lyon",
@@ -3336,11 +3336,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=oEIXckVApfo",
     "rating": 4.72,
-    "reviewsNumber": 641
+    "reviewsNumber": 654
   },
   {
     "id": 11261,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour in Nantes",
       "es": "Visita libre en Nantes",
@@ -3606,7 +3606,7 @@
   },
   {
     "id": 12402,
-    "updatedAt": "2025-12-01 01:04:09",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discovery Walking Tour of La Rochelle",
       "es": "Descubrimiento de La Rochelle a pie",
@@ -3730,7 +3730,7 @@
   },
   {
     "id": 14965,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Harry's Free Tour of Toulouse",
       "es": "Tour gratuito de Harry por Toulouse",
@@ -3835,7 +3835,7 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 631
+    "reviewsNumber": 632
   },
   {
     "id": 20124,
@@ -4009,7 +4009,7 @@
   },
   {
     "id": 20508,
-    "updatedAt": "2025-12-01 01:04:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Romantic Montmartre - The Lost Lovers: Self-Guided Exploration Game",
       "es": "Montmartre romántico - Los amantes perdidos: Juego de exploración autoguiada",
@@ -4107,7 +4107,7 @@
   },
   {
     "id": 22209,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Black Forest Train and Hiking Tour: Triberg & Gengenbach of Strasbourg",
       "es": "Recorrido en tren y a pie por la Selva Negra: Triberg y Gengenbach de Estrasburgo",
@@ -4210,7 +4210,7 @@
   },
   {
     "id": 22831,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Bordeaux Highlights Free Walking Tour",
       "es": "Lo más destacado de Burdeos Visita gratuita a pie",
@@ -4372,7 +4372,7 @@
   },
   {
     "id": 23877,
-    "updatedAt": "2025-12-01 11:50:59",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "The Wonderful Colmar Walking Tour",
       "es": "El Maravilloso Recorrido a pie por Colmar",
@@ -4493,12 +4493,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.77,
-    "reviewsNumber": 392
+    "rating": 4.76,
+    "reviewsNumber": 400
   },
   {
     "id": 24665,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "Paris Night Tour and Boat Trip on the Seine",
       "es": "Tour París Nocturno y Paseo en Barco por el Sena",
@@ -4665,7 +4665,7 @@
   },
   {
     "id": 24666,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "Private tour of Paris",
       "es": "Tour privado por París",
@@ -4817,7 +4817,7 @@
   },
   {
     "id": 28340,
-    "updatedAt": "2025-12-01 15:32:04",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Historic Center of Strasbourg and Christmas Markets",
       "es": "Free Tour Centro Histórico de Estrasburgo y Mercados de Navidad",
@@ -5054,12 +5054,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.79,
-    "reviewsNumber": 495
+    "rating": 4.8,
+    "reviewsNumber": 505
   },
   {
     "id": 31746,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Biarritz Basque Walking Tour",
       "es": "Tour Vasco de Biarritz",
@@ -5160,7 +5160,7 @@
   },
   {
     "id": 32087,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Van Gogh's Footsteps: Hiking Adventure Tour",
       "es": "Las Huellas de Van Gogh: Excursión de senderismo y aventura",
@@ -5251,7 +5251,7 @@
   },
   {
     "id": 32149,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking Adventure in the Fontainebleau Forest",
       "es": "Aventura de Senderismo en el Bosque de Fontainebleau",
@@ -5347,7 +5347,7 @@
   },
   {
     "id": 32727,
-    "updatedAt": "2025-12-01 11:51:49",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Full Free Tour of Bordeaux",
       "es": "El Free Tour Más Completo de Burdeos",
@@ -5547,11 +5547,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 1021
+    "reviewsNumber": 1037
   },
   {
     "id": 36261,
-    "updatedAt": "2025-12-01 15:52:54",
+    "updatedAt": "2025-12-11 14:45:17",
     "title": {
       "en": "Strasbourg Historical Walking Tour",
       "es": "Recorrido histórico a pie por Estrasburgo",
@@ -5694,11 +5694,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=SK9oUj6bRig",
     "rating": 4.76,
-    "reviewsNumber": 290
+    "reviewsNumber": 297
   },
   {
     "id": 36320,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour of Medieval Toulouse",
       "es": "Visita gratuita a la Toulouse medieval",
@@ -5814,7 +5814,7 @@
   },
   {
     "id": 37437,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour of the Wonderful City of Marseille",
       "es": "Free Tour por la Maravillosa Ciudad de Marsella",
@@ -5960,7 +5960,7 @@
   },
   {
     "id": 38215,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Paris with an Italian Guide",
       "es": "Descubrir París con un guía italiano",
@@ -6092,7 +6092,7 @@
   },
   {
     "id": 38538,
-    "updatedAt": "2025-12-01 19:29:03",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Historic Paris Tour by Walkative!",
       "es": "Recorrido histórico por París en Walkative",
@@ -6214,7 +6214,7 @@
   },
   {
     "id": 38589,
-    "updatedAt": "2025-12-01 19:03:04",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Montmartre Free Walking  Tour",
       "es": "Visita gratuita a pie por Montmartre",
@@ -6308,7 +6308,7 @@
   },
   {
     "id": 38693,
-    "updatedAt": "2025-12-01 19:06:02",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Mysteries & Legends of Paris",
       "es": "Misterios y leyendas de París",
@@ -6392,7 +6392,7 @@
   },
   {
     "id": 39545,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Essential Paris City Center Tour",
       "es": "Visita esencial del centro de París",
@@ -6568,11 +6568,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 357
+    "reviewsNumber": 362
   },
   {
     "id": 39696,
-    "updatedAt": "2025-12-01 19:58:53",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Imperial Quarter, European Parliament & Wars",
       "es": "Free Tour por el Barrio Imperial, Parlamento Europeo y Guerras",
@@ -6739,12 +6739,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.52,
-    "reviewsNumber": 21
+    "rating": 4.55,
+    "reviewsNumber": 22
   },
   {
     "id": 40752,
-    "updatedAt": "2025-12-01 19:09:02",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Latin Quarter Free Walking Tour",
       "es": "Visita gratuita a pie por el Barrio Latino",
@@ -6850,7 +6850,7 @@
   },
   {
     "id": 40820,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 06:48:57",
     "title": {
       "en": "Fun Facts and Interactive Free Walking Tour of the Rose City",
       "es": "Datos curiosos y visita interactiva gratuita a pie por la Ciudad Rosa",
@@ -6935,12 +6935,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.89,
-    "reviewsNumber": 73
+    "rating": 4.85,
+    "reviewsNumber": 74
   },
   {
     "id": 41284,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Paris Imprescindible",
       "es": "Free Tour París Imprescindible",
@@ -7074,7 +7074,7 @@
   },
   {
     "id": 41727,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Historical and Informative Tour of Nice",
       "es": "Visita histórica e informativa gratuita de Niza",
@@ -7236,7 +7236,7 @@
   },
   {
     "id": 42223,
-    "updatedAt": "2025-12-01 13:39:55",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Must-see Free Tour Colmar",
       "es": "Imprescindible Free Tour Colmar",
@@ -7346,11 +7346,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 125
+    "reviewsNumber": 131
   },
   {
     "id": 42380,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Marseille Cultural Free Tour",
       "es": "Marsella Cultural Free Tour",
@@ -7502,7 +7502,7 @@
   },
   {
     "id": 42481,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour: Explore Rouen Like a Local",
       "es": "Free Tour: Explore Ruán como un Lugareño",
@@ -7574,11 +7574,11 @@
     ],
     "videoURL": null,
     "rating": 4.86,
-    "reviewsNumber": 301
+    "reviewsNumber": 302
   },
   {
     "id": 42510,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Discover Nimes The French Rome - Free Tour",
       "es": "Descubrir Nimes La Roma francesa - Visita gratuita ",
@@ -7687,7 +7687,7 @@
   },
   {
     "id": 42858,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Historic Tour Around the City Center",
       "es": "Recorrido histórico por el centro de la ciudad",
@@ -7797,7 +7797,7 @@
   },
   {
     "id": 43552,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Montmartre Guided Tour",
       "es": "Visita guiada de Montmartre",
@@ -7911,7 +7911,7 @@
   },
   {
     "id": 43775,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Bordeaux Tour: The Golden Age: A Canele Included ",
       "es": "Visita gratuita a Burdeos: La Edad de Oro: Un Canele Incluido ",
@@ -8023,11 +8023,11 @@
     ],
     "videoURL": null,
     "rating": 4.58,
-    "reviewsNumber": 112
+    "reviewsNumber": 114
   },
   {
     "id": 44873,
-    "updatedAt": "2025-12-01 01:08:54",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Louvre Museum, Paris (no ticket)",
       "es": "App Audioguía: Museo del Louvre, París (sin entrada)",
@@ -8164,7 +8164,7 @@
   },
   {
     "id": 45082,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Essential Free Tour of Paris",
       "es": "Free Tour Esencial de París",
@@ -8174,11 +8174,11 @@
       "it": "Visita libera essenziale di Parigi"
     },
     "brief": {
-      "de": "Nehmen Sie an unserem Rundgang durch das historische Zentrum von Paris teil, bei dem wir die bedeutendsten Monumente und nicht zuletzt den Eiffelturm besichtigen werden, begleitet von einer lebendigen Geschichte und kuriosen Anekdoten.",
+      "de": "Nehmen Sie an unserem Rundgang durch das historische Zentrum von Paris teil, bei dem wir die bedeutendsten Monumente und nicht zuletzt den Eiffelturm besichtigen werden, begleitet von lebendiger Geschichte und kuriosen Anekdoten.",
       "en": "Join our must-see tour of the historic center of Paris, where we will visit the most outstanding monuments, not forgetting the Eiffel Tower, all accompanied by vibrant history and curious anecdotes.",
       "es": "Únete a nuestro imprescindible recorrido por el centro histórico de París, donde visitaremos los monumentos más destacados, sin olvidar la Torre Eiffel, todo acompañado de vibrante historia y curiosas anécdotas.",
       "fr": "Participez à notre visite incontournable du centre historique de Paris, où nous visiterons les monuments les plus remarquables, sans oublier la Tour Eiffel, le tout accompagné d'une histoire vibrante et d'anecdotes curieuses.",
-      "it": "Unitevi al nostro imperdibile tour del centro storico di Parigi, dove visiteremo i monumenti più importanti, senza dimenticare la Torre Eiffel, il tutto accompagnato da una storia vibrante e da aneddoti curiosi.",
+      "it": "Unitevi al nostro imperdibile tour del centro storico di Parigi, dove visiteremo i monumenti più importanti, senza dimenticare la Torre Eiffel, il tutto accompagnato da una storia vivace e da aneddoti curiosi.",
       "pt": "Junte-se ao nosso passeio imperdível pelo centro histórico de Paris, onde visitaremos os monumentos mais importantes, sem esquecer a Torre Eiffel, tudo acompanhado por uma história vibrante e anedotas curiosas."
     },
     "description": {
@@ -8191,14 +8191,14 @@
     },
     "providerTitle": "Wokitour",
     "providerPhone": "+33650297827",
-    "URL": "https://www.freetour.com/paris/free-walking-tour-paris-al-completo?referralID=elOi919SrKG94LbT",
+    "URL": "https://www.freetour.com/paris/free-walking-tour-essential-paris?referralID=elOi919SrKG94LbT",
     "URLs": {
-      "en": "https://www.freetour.com/paris/free-walking-tour-paris-al-completo?referralID=elOi919SrKG94LbT",
-      "es": "https://www.freetour.com/es/paris/free-walking-tour-paris-al-completo?referralID=elOi919SrKG94LbT",
-      "pt": "https://www.freetour.com/pt/paris/free-walking-tour-paris-al-completo?referralID=elOi919SrKG94LbT",
-      "de": "https://www.freetour.com/de/paris/free-walking-tour-paris-al-completo?referralID=elOi919SrKG94LbT",
-      "fr": "https://www.freetour.com/fr/paris/free-walking-tour-paris-al-completo?referralID=elOi919SrKG94LbT",
-      "it": "https://www.freetour.com/it/paris/free-walking-tour-paris-al-completo?referralID=elOi919SrKG94LbT"
+      "en": "https://www.freetour.com/paris/free-walking-tour-essential-paris?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/paris/free-walking-tour-essential-paris?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/paris/free-walking-tour-essential-paris?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/paris/free-walking-tour-essential-paris?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/paris/free-walking-tour-essential-paris?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/paris/free-walking-tour-essential-paris?referralID=elOi919SrKG94LbT"
     },
     "price": {
       "value": 0,
@@ -8299,12 +8299,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.85,
-    "reviewsNumber": 411
+    "rating": 4.84,
+    "reviewsNumber": 419
   },
   {
     "id": 45308,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "Private Tour of Paris",
       "es": "Visita privada a París",
@@ -8406,7 +8406,7 @@
   },
   {
     "id": 45764,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Lille Immersion Tour",
       "es": "Viaje de inmersión a Lille",
@@ -8494,7 +8494,7 @@
   },
   {
     "id": 46777,
-    "updatedAt": "2025-12-01 09:07:01",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Second World War Tour in Paris: Fall, Resistance & Liberation",
       "es": "Tour de la Segunda Guerra Mundial en París: Caída, Resistencia y Liberación",
@@ -8748,11 +8748,11 @@
     ],
     "videoURL": null,
     "rating": 4.95,
-    "reviewsNumber": 166
+    "reviewsNumber": 167
   },
   {
     "id": 46836,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of the French Revolution in Paris",
       "es": "Free Tour de la Revolución Francesa en París",
@@ -8873,7 +8873,7 @@
   },
   {
     "id": 47164,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Montmartre: The Bohemian Heart of Paris",
       "es": "Free Tour Montmartre: El Corazón Bohemio de París",
@@ -8986,11 +8986,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 606
+    "reviewsNumber": 609
   },
   {
     "id": 47165,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Latin Quarter of Paris",
       "es": "Free Tour Barrio Latino de París",
@@ -9138,11 +9138,11 @@
     ],
     "videoURL": null,
     "rating": 4.87,
-    "reviewsNumber": 239
+    "reviewsNumber": 242
   },
   {
     "id": 48851,
-    "updatedAt": "2025-12-01 01:09:36",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old Town of Nice: Self-Guided Exploration Game",
       "es": "Casco antiguo de Niza: Juego de exploración autoguiada",
@@ -9254,7 +9254,7 @@
   },
   {
     "id": 49644,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Welcome to Beautiful Nice - Tour by Walkative!",
       "es": "¡Bienvenido a Beautiful Nice - Tour by Walkative!",
@@ -9367,7 +9367,7 @@
   },
   {
     "id": 50016,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Boat Trip on the Seine River in Paris",
       "es": "Paseo en Barco por el Sena en París",
@@ -9498,7 +9498,7 @@
   },
   {
     "id": 52078,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of Paris: Eiffel Tower, Les Invalides and More",
       "es": "Free Tour por París: Torre Eiffel, Los Inválidos y Más",
@@ -9646,7 +9646,7 @@
   },
   {
     "id": 52319,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Daily Paris Pub Crawl: Meet, Drink & Party With Club Entry",
       "es": "Pub Crawl Diario de París: Conoce, bebe y diviértete con la entrada al club",
@@ -9731,7 +9731,7 @@
   },
   {
     "id": 53372,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "At the Heart of Brest & its History",
       "es": "En el corazón de Brest y su historia",
@@ -9809,7 +9809,7 @@
   },
   {
     "id": 54245,
-    "updatedAt": "2025-12-01 20:53:02",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Le Marais: Paris Hidden Gem, Jewish Quarter by Walkative",
       "es": "Le Marais: La joya escondida de París, el barrio judío de Walkative",
@@ -9899,7 +9899,7 @@
   },
   {
     "id": 54421,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Royal & Revolutionary Paris Tour",
       "es": "París Real y Revolucionario",
@@ -9985,7 +9985,7 @@
   },
   {
     "id": 54706,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour from Le Marais to Bastille in Paris",
       "es": "Free Tour de Le Marais a la Bastilla en Paris",
@@ -10089,7 +10089,7 @@
   },
   {
     "id": 54838,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Roman visit of Nîmes: Free Tour",
       "es": "Visita romana de Nîmes: Recorrido gratuito",
@@ -10215,7 +10215,7 @@
   },
   {
     "id": 54940,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Notre Dame & Historic Paris Walking Tour",
       "es": "Paseo por Notre Dame y el casco histórico de París",
@@ -10359,7 +10359,7 @@
   },
   {
     "id": 55276,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour: The Great History of Marseille",
       "es": "Visita gratuita: La gran historia de Marsella",
@@ -10519,7 +10519,7 @@
   },
   {
     "id": 55464,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 08:00:00",
     "title": {
       "en": "Majestic Latin Quarter of Paris Free Tour",
       "es": "Majestuoso Barrio Latino de París Visita gratuita",
@@ -10648,11 +10648,11 @@
     ],
     "videoURL": null,
     "rating": 4.9399999999999995,
-    "reviewsNumber": 55
+    "reviewsNumber": 56
   },
   {
     "id": 55848,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Blois: Guided tour of the Parc de Chambord",
       "es": "Blois: Visita guiada del Parque de Chambord",
@@ -10736,14 +10736,14 @@
   },
   {
     "id": 55914,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 10:39:02",
     "title": {
-      "en": "The Ultimate Lille Experience with Locals",
-      "es": "La mejor experiencia de Lille con los lugareños",
-      "pt": "A melhor experiência em Lille com os habitantes locais",
-      "de": "Das ultimative Lille-Erlebnis mit Einheimischen",
-      "fr": "L'expérience ultime de Lille avec les habitants",
-      "it": "L'esperienza definitiva di Lille con la gente del posto"
+      "en": "Lille Free Tour: The Ultimate Lille Experience with Locals",
+      "es": "Lille Free Tour: La mejor experiencia de Lille con los lugareños",
+      "pt": "Lille Free Tour: A derradeira experiência de Lille com os habitantes locais",
+      "de": "Kostenlose Tour durch Lille: Das ultimative Lille-Erlebnis mit Einheimischen",
+      "fr": "Lille Free Tour : L'expérience ultime de Lille avec des locaux",
+      "it": "Tour gratuito di Lille: L'esperienza definitiva di Lille con la gente del posto"
     },
     "brief": {
       "de": "Entdecken Sie mit uns den Charme von Vieux Lille! Schlendern Sie durch mittelalterliche Gassen, entdecken Sie die Geschichte der Stadt und genießen Sie lokale Leckereien und Getränke. Erleben Sie die Mischung aus Alt und Neu in den bezaubernden Straßen von Lille! Verpassen Sie es nicht!",
@@ -10754,12 +10754,12 @@
       "pt": "Junte-se a nós e descubra o encanto da Vieux Lille! Passeie pelas ruelas medievais, descubra a história da cidade e delicie-se com as iguarias e bebidas locais. Experimente a mistura do antigo e do novo nas ruas encantadoras de Lille! Não perca!"
     },
     "description": {
-      "de": "Begleiten Sie uns auf dem Rundgang \"The Ultimate Lille Experience\" und entdecken Sie die reiche Geschichte und den pulsierenden Geist dieser nordfranzösischen Stadt. Wir schlendern durch die charmanten Gassen von Vieux Lille und erzählen Geschichten aus der Vergangenheit Lilles, von seinen mittelalterlichen Wurzeln bis hin zu seinem modernen Charme. Unterwegs zeige ich Ihnen die besten Lokale, in denen Sie die berühmten Leckereien und Getränke von Lille probieren können. \r\n\r\nUnsere Reise endet in einer der klassischen Bars von Lille, ein perfekter Ort für alle, die bei einem Drink ausspannen möchten. Hier können Sie sich in aller Ruhe mit anderen Reisenden unterhalten. Egal, ob Sie ein Geschichtsfan sind oder einfach nur gerne neue Städte erkunden, diese Tour bietet Ihnen einen wunderbaren Einblick in die Kultur von Lille.",
-      "en": "Join us on the \"The Ultimate Lille Experience\" walking tour to uncover this Northern French city's rich history and vibrant spirit. We'll wander through the charming alleys of Vieux Lille, sharing stories of Lille's past, from its medieval roots to its modern-day allure. Along the way, I'll highlight the best local spots for a quick taste of Lille’s famous treats and drinks. \r\n\r\nOur journey concludes at one of Lille's classic bars, a perfect setting for those wishing to wind down with a drink. Here, you can enjoy a relaxed chat with fellow travelers. Whether you’re a history enthusiast or simply love exploring new cities, this tour offers a wonderful snapshot of Lille’s culture.",
-      "es": "Únase a nosotros en la visita a pie \"La experiencia definitiva de Lille\" para descubrir la rica historia y el vibrante espíritu de esta ciudad del norte de Francia. Pasearemos por las encantadoras callejuelas del Vieux Lille, compartiendo historias del pasado de Lille, desde sus raíces medievales hasta su encanto actual. Por el camino, destacaré los mejores lugares locales para una rápida degustación de los famosos dulces y bebidas de Lille. \r\n\r\nNuestro viaje concluye en uno de los bares clásicos de Lille, un escenario perfecto para aquellos que deseen relajarse con una copa. Aquí podrá disfrutar de una charla distendida con sus compañeros de viaje. Tanto si es un apasionado de la historia como si simplemente le gusta explorar nuevas ciudades, este recorrido le ofrece una maravillosa instantánea de la cultura de Lille.",
-      "fr": "Rejoignez-nous lors de la visite à pied \"The Ultimate Lille Experience\" pour découvrir la riche histoire et l'esprit vibrant de cette ville du nord de la France. Nous nous promènerons dans les charmantes ruelles du Vieux Lille, en partageant des histoires sur le passé de Lille, de ses racines médiévales à son attrait moderne. En chemin, je vous indiquerai les meilleurs endroits pour goûter rapidement aux célèbres friandises et boissons lilloises. \r\n\r\nNotre voyage s'achèvera dans l'un des bars classiques de Lille, un cadre idéal pour ceux qui souhaitent se détendre autour d'un verre. Vous pourrez y discuter en toute décontraction avec d'autres voyageurs. Que vous soyez un passionné d'histoire ou que vous aimiez simplement découvrir de nouvelles villes, cette visite offre un merveilleux aperçu de la culture lilloise.",
-      "it": "Unitevi a noi nel tour a piedi \"The Ultimate Lille Experience\" per scoprire la ricca storia e lo spirito vibrante di questa città della Francia settentrionale. Passeggeremo per gli affascinanti vicoli della Vieux Lille, condividendo le storie del passato di Lille, dalle sue radici medievali al suo fascino moderno. Lungo il percorso, vi indicherò i migliori locali per un assaggio veloce delle famose prelibatezze e bevande di Lille. \r\n\r\nIl nostro viaggio si conclude in uno dei classici bar di Lille, un ambiente perfetto per chi desidera rilassarsi con un drink. Qui potrete fare una chiacchierata rilassata con i vostri compagni di viaggio. Se siete appassionati di storia o semplicemente amate esplorare nuove città, questo tour offre una splendida istantanea della cultura di Lille.",
-      "pt": "Junte-se a nós no passeio a pé \"The Ultimate Lille Experience\" para descobrir a rica história e o espírito vibrante desta cidade do Norte de França. Percorreremos as encantadoras ruelas de Vieux Lille, partilhando histórias do passado de Lille, desde as suas raízes medievais até ao seu fascínio moderno. Ao longo do caminho, destacarei os melhores locais para provar as famosas iguarias e bebidas de Lille. \r\n\r\nA nossa viagem termina num dos bares clássicos de Lille, um cenário perfeito para aqueles que desejam relaxar com uma bebida. Aqui, pode desfrutar de uma conversa descontraída com outros viajantes. Quer seja um entusiasta da história ou simplesmente goste de explorar novas cidades, esta excursão oferece um maravilhoso retrato da cultura de Lille."
+      "de": "Die Tour beginnt am selben Treffpunkt (Bahnhof Rihour) jeden Samstag um 14.30 Uhr und Sonntag um 11 Uhr \r\n\r\nBegleiten Sie uns auf dem Rundgang \"Das ultimative Lille-Erlebnis\" und entdecken Sie die reiche Geschichte und den pulsierenden Geist dieser nordfranzösischen Stadt. Wir schlendern durch die charmanten Gassen von Vieux Lille und erzählen Ihnen Geschichten aus der Vergangenheit Lilles, von seinen mittelalterlichen Wurzeln bis hin zu seinem modernen Charme. Unterwegs zeige ich Ihnen die besten Lokale, in denen Sie die berühmten Leckereien und Getränke von Lille probieren können. \r\n\r\nUnsere Reise endet in einer der klassischen Bars von Lille, ein perfekter Ort für alle, die bei einem Drink ausspannen möchten. Hier können Sie sich in aller Ruhe mit anderen Reisenden unterhalten. Egal, ob Sie ein Geschichtsfan sind oder einfach nur gerne neue Städte erkunden, diese Tour bietet Ihnen einen wunderbaren Einblick in die Kultur von Lille.",
+      "en": "The tour starts in the same meeting point (Rihour Station) every Saturday at 14h30 and Sunday at 11h \r\n\r\nJoin us on the \"The Ultimate Lille Experience\" walking tour to uncover this Northern French city's rich history and vibrant spirit. We'll wander through the charming alleys of Vieux Lille, sharing stories of Lille's past, from its medieval roots to its modern-day allure. Along the way, I'll highlight the best local spots for a quick taste of Lille’s famous treats and drinks. \r\n\r\nOur journey concludes at one of Lille's classic bars, a perfect setting for those wishing to wind down with a drink. Here, you can enjoy a relaxed chat with fellow travelers. Whether you’re a history enthusiast or simply love exploring new cities, this tour offers a wonderful snapshot of Lille’s culture.",
+      "es": "El recorrido comienza en el mismo punto de encuentro (estación de Rihour) todos los sábados a las 14:30 y los domingos a las 11:00 \r\n\r\nÚnase a nosotros en el recorrido a pie \"La experiencia definitiva de Lille\" para descubrir la rica historia y el vibrante espíritu de esta ciudad del norte de Francia. Pasearemos por las encantadoras callejuelas del Vieux Lille, compartiendo historias del pasado de Lille, desde sus raíces medievales hasta su encanto actual. Por el camino, destacaré los mejores lugares locales para una rápida degustación de los famosos dulces y bebidas de Lille. \r\n\r\nNuestro viaje concluye en uno de los bares clásicos de Lille, un escenario perfecto para aquellos que deseen relajarse con una copa. Aquí podrá disfrutar de una charla distendida con sus compañeros de viaje. Tanto si es un apasionado de la historia como si simplemente le gusta explorar nuevas ciudades, este recorrido le ofrece una maravillosa instantánea de la cultura de Lille.",
+      "fr": "La visite commence au même point de rencontre (gare de Rihour) tous les samedis à 14h30 et les dimanches à 11h \r\n\r\nRejoignez-nous pour la visite à pied \"The Ultimate Lille Experience\" pour découvrir la riche histoire et l'esprit vibrant de cette ville du nord de la France. Nous nous promènerons dans les charmantes ruelles du Vieux Lille, en partageant des histoires sur le passé de Lille, de ses racines médiévales à son attrait moderne. En chemin, je vous indiquerai les meilleurs endroits pour goûter rapidement aux célèbres friandises et boissons lilloises. \r\n\r\nNotre voyage s'achèvera dans l'un des bars classiques de Lille, un cadre idéal pour ceux qui souhaitent se détendre autour d'un verre. Vous pourrez y discuter en toute décontraction avec d'autres voyageurs. Que vous soyez un passionné d'histoire ou que vous aimiez simplement découvrir de nouvelles villes, cette visite offre un merveilleux aperçu de la culture lilloise.",
+      "it": "Il tour parte dallo stesso punto di incontro (stazione di Rihour) ogni sabato alle 14.30 e domenica alle 11.00 \r\n\r\nUnitevi a noi nel tour a piedi \"The Ultimate Lille Experience\" per scoprire la ricca storia e lo spirito vibrante di questa città della Francia settentrionale. Passeggeremo per gli affascinanti vicoli della Vieux Lille, condividendo le storie del passato di Lille, dalle sue radici medievali al suo fascino moderno. Lungo il percorso, vi indicherò i migliori locali per un assaggio delle famose prelibatezze e bevande di Lille. \r\n\r\nIl nostro viaggio si conclude in uno dei classici bar di Lille, un ambiente perfetto per chi desidera rilassarsi con un drink. Qui potrete fare una chiacchierata rilassata con i vostri compagni di viaggio. Se siete appassionati di storia o semplicemente amate esplorare nuove città, questo tour offre una splendida istantanea della cultura di Lille.",
+      "pt": "O passeio começa no mesmo ponto de encontro (Estação Rihour) todos os sábados às 14h30 e domingos às 11h \r\n\r\nJunte-se a nós na excursão a pé \"The Ultimate Lille Experience\" para descobrir a rica história e o espírito vibrante desta cidade do Norte de França. Percorreremos as encantadoras ruelas de Vieux Lille, partilhando histórias do passado de Lille, desde as suas raízes medievais até ao seu encanto atual. Ao longo do caminho, destacarei os melhores locais para provar as famosas iguarias e bebidas de Lille. \r\n\r\nA nossa viagem termina num dos bares clássicos de Lille, um cenário perfeito para aqueles que desejam relaxar com uma bebida. Aqui, pode desfrutar de uma conversa descontraída com outros viajantes. Quer seja um entusiasta da história ou simplesmente goste de explorar novas cidades, esta excursão oferece um maravilhoso retrato da cultura de Lille."
     },
     "providerTitle": "Amine",
     "providerPhone": "0695539994",
@@ -10822,7 +10822,7 @@
   },
   {
     "id": 56036,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Essential Free Tour of Paris",
       "es": "Free Tour Esencial de París",
@@ -10936,11 +10936,11 @@
     ],
     "videoURL": null,
     "rating": 4.84,
-    "reviewsNumber": 211
+    "reviewsNumber": 212
   },
   {
     "id": 56121,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of Père Lachaise Cemetery",
       "es": "Free Tour por el Cementerio Père Lachaise",
@@ -11062,7 +11062,7 @@
   },
   {
     "id": 56253,
-    "updatedAt": "2025-12-01 17:54:58",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour in the Heart of Paris",
       "es": "Visita gratuita en el corazón de París",
@@ -11176,11 +11176,11 @@
     ],
     "videoURL": null,
     "rating": 4.91,
-    "reviewsNumber": 99
+    "reviewsNumber": 101
   },
   {
     "id": 56257,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour in the Heart of Montmartre",
       "es": "Visita gratuita en el corazón de Montmartre",
@@ -11286,11 +11286,11 @@
     ],
     "videoURL": null,
     "rating": 4.9,
-    "reviewsNumber": 70
+    "reviewsNumber": 72
   },
   {
     "id": 56297,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Nice: International Party Pub/Bar Crawl Unlimited Ticket",
       "es": "Niza: Fiesta Internacional Pub/Bar Crawl Entrada ilimitada",
@@ -11386,7 +11386,7 @@
   },
   {
     "id": 56419,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Explore Paris: Bike Tour to the Eiffel Tower",
       "es": "Explora París: Tour en Bicicleta Hasta la Torre Eiffel",
@@ -11616,7 +11616,7 @@
   },
   {
     "id": 56651,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Paris Icons Express Tour - Notre-Dame to Louvre. Small group",
       "es": "París Iconos Tour Express - Notre-Dame al Louvre. Grupo reducido",
@@ -11769,7 +11769,7 @@
   },
   {
     "id": 56731,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Strasbourg City Tour",
       "es": "Free Tour por la Ciudad de Estrasburgo",
@@ -11903,7 +11903,7 @@
   },
   {
     "id": 56738,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "The Wonderful Free Tour of Montmartre",
       "es": "El Maravilloso Free Tour de Montmartre",
@@ -12041,7 +12041,7 @@
   },
   {
     "id": 56788,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Montmartre: The Soul of Paris, Sacré Coeur, Moulin Rouge",
       "es": "Montmartre: El Alma de París, Sagrado Corazon, Moulin Rouge",
@@ -12169,7 +12169,7 @@
   },
   {
     "id": 56913,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "The Wonderful Free Tour of the Latin Quarter",
       "es": "El Maravilloso Free Tour del Barrio Latino",
@@ -12285,7 +12285,7 @@
   },
   {
     "id": 57384,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Montmartre Tour: The Life of the Artists and Painters",
       "es": "Tour en Montmartre: La Vida de los Artistas y Pintores",
@@ -12423,7 +12423,7 @@
   },
   {
     "id": 59090,
-    "updatedAt": "2025-12-01 06:37:48",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Saint-Germain & Saint-Michel, Historical Center of Paris Free Tour",
       "es": "Saint-Germain y Saint-Michel, centro histórico de París Visita gratuita",
@@ -12521,7 +12521,7 @@
   },
   {
     "id": 59215,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Le Marais: Must-See with Local Guide",
       "es": "Le Marais: visita obligada con guía local",
@@ -12633,7 +12633,7 @@
   },
   {
     "id": 59574,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Bicycle Tour in the Latin Quarter",
       "es": "Free Tour en Bicicleta por el Barrio Latino",
@@ -12798,7 +12798,7 @@
   },
   {
     "id": 60624,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Guide Tour to Annecy",
       "es": "Visita guiada gratuita a Annecy",
@@ -12870,7 +12870,7 @@
   },
   {
     "id": 60985,
-    "updatedAt": "2025-12-01 19:53:46",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour: History and Charm of Aix-en-Provence",
       "es": "Free Tour: Historia y Encanto de Aix-en-Provence",
@@ -12980,7 +12980,7 @@
   },
   {
     "id": 61105,
-    "updatedAt": "2025-12-01 01:14:31",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Complete Private Tour of Bordeaux",
       "es": "Visita privada completa de Burdeos",
@@ -13119,7 +13119,7 @@
   },
   {
     "id": 61963,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Avignon Free Tour: History & Legends",
       "es": "Avignon Free Tour: Historia y Leyendas",
@@ -13274,11 +13274,11 @@
     ],
     "videoURL": null,
     "rating": 4.91,
-    "reviewsNumber": 152
+    "reviewsNumber": 153
   },
   {
     "id": 62028,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Journey to the Center of Paris: Free Tour",
       "es": "Viaje al centro de París: Visita gratuita",
@@ -13420,11 +13420,11 @@
     ],
     "videoURL": null,
     "rating": 4.64,
-    "reviewsNumber": 32
+    "reviewsNumber": 31
   },
   {
     "id": 62650,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Food Tour: Taste Paris Like a Local",
       "es": "Tour gastronómico: Saborea París como un parisino más",
@@ -13586,7 +13586,7 @@
   },
   {
     "id": 64355,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of Paris During World War II",
       "es": "Free Tour de París Durante la Segunda Guerra Mundial",
@@ -13693,7 +13693,7 @@
   },
   {
     "id": 64502,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gourmet Visit of Biarritz",
       "es": "Visita Gastronómica de Biarritz",
@@ -13730,7 +13730,7 @@
       "it": "https://www.freetour.com/it/biarritz/gourmet-visit-of-biarritz?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 40,
+      "value": 35,
       "currency": "EUR"
     },
     "length": "2:00",
@@ -13743,8 +13743,8 @@
     "countryId": 50,
     "includes": [
       "Phare de Biarritz",
-      "Shopping",
-      "Humor"
+      "Humor",
+      "Shop discovery "
     ],
     "POIs": [
       {
@@ -13807,7 +13807,7 @@
   },
   {
     "id": 64865,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Historical Tour of Paris",
       "es": "Free Tour Histórico de París",
@@ -13911,7 +13911,7 @@
   },
   {
     "id": 64957,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour of Pau",
       "es": "Free Tour a pie por Pau",
@@ -14003,7 +14003,7 @@
   },
   {
     "id": 65014,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of the Dark Side of Paris",
       "es": "Free Tour del Lado Oscuro de París",
@@ -14090,12 +14090,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.88,
-    "reviewsNumber": 26
+    "rating": 4.83,
+    "reviewsNumber": 29
   },
   {
     "id": 65016,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of the Latin Quarter of Paris",
       "es": "Free Tour por el Barrio Latino De París",
@@ -14187,7 +14187,7 @@
   },
   {
     "id": 65253,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Paris through its Historic Passages Free Tour",
       "es": "París a través de sus Pasajes Históricos Visita gratuita",
@@ -14325,7 +14325,7 @@
   },
   {
     "id": 65623,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Lyon's Must-Sees with a Lyonnais!",
       "es": "Las visitas obligadas de Lyon, ¡con un Lyonnais!",
@@ -14419,65 +14419,65 @@
         "googlePlaceId": "ChIJs1rce1Pq9EcRRyCL9YWTnV0"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-45.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-24.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 292721,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-45.jpg"
+        "id": 301400,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-24.jpg"
       },
       {
-        "id": 292722,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-46.jpg"
+        "id": 301389,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-13.jpg"
       },
       {
-        "id": 292723,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-47.jpg"
+        "id": 301390,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-14.jpg"
       },
       {
-        "id": 292724,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-48.jpg"
+        "id": 301391,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-15.jpg"
       },
       {
-        "id": 292725,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-49.jpg"
+        "id": 301392,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-16.jpg"
       },
       {
-        "id": 292726,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-50.jpg"
+        "id": 301393,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-17.jpg"
       },
       {
-        "id": 292727,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-51.jpg"
+        "id": 301394,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-18.jpg"
       },
       {
-        "id": 292728,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-52.jpg"
+        "id": 301395,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-19.jpg"
       },
       {
-        "id": 292729,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-53.jpg"
+        "id": 301396,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-20.jpg"
       },
       {
-        "id": 292730,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-54.jpg"
+        "id": 301397,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-21.jpg"
       },
       {
-        "id": 292731,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-55.jpg"
+        "id": 301398,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-22.jpg"
       },
       {
-        "id": 292732,
-        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-56.jpg"
+        "id": 301399,
+        "URL": "https://www.freetour.com/images/tours/65623/discover-lyons-history-must-sees-with-a-lyonnais-23.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.98,
-    "reviewsNumber": 42
+    "rating": 4.96,
+    "reviewsNumber": 43
   },
   {
     "id": 65977,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Heart of Nice Free Tour",
       "es": "Visita gratuita al corazón de Niza",
@@ -14580,11 +14580,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 3
+    "reviewsNumber": 5
   },
   {
     "id": 66012,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Reliable Airport Transfer Service in Paris",
       "es": "Servicio fiable de traslado al aeropuerto de París",
@@ -14656,7 +14656,7 @@
   },
   {
     "id": 66016,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Wonders of Versailles",
       "es": "Explore las Maravillas de Versalles",
@@ -14738,7 +14738,7 @@
   },
   {
     "id": 66019,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Giverny: Monet's House and Gardens",
       "es": "Giverny: Casa y Jardines de Monet",
@@ -14816,7 +14816,7 @@
   },
   {
     "id": 66020,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Reims and Epernay: The Champagne Region",
       "es": "Reims y Epernay: La Región de Champaña",
@@ -14898,7 +14898,7 @@
   },
   {
     "id": 66025,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Loire Valley",
       "es": "Recorrido por el Valle del Loira",
@@ -14970,7 +14970,7 @@
   },
   {
     "id": 66121,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Journey Through the French Revolution",
       "es": "Un viaje a través de la Revolución Francesa",
@@ -15126,7 +15126,7 @@
   },
   {
     "id": 66167,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour Paris Classical and Monumental on the Seine River",
       "es": "Free Tour París Clásico y Monumental por el Río Sena",
@@ -15269,7 +15269,7 @@
   },
   {
     "id": 67020,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour in Strasbourg",
       "es": "Visita libre en Estrasburgo",
@@ -15425,7 +15425,7 @@
   },
   {
     "id": 67410,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Paris Notre-Dame Cathedral",
       "es": "App Audioguía: Catedral de Notre-Dame de París",
@@ -15563,7 +15563,7 @@
   },
   {
     "id": 67413,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Carcassonne Medieval Town City Walk",
       "es": "Audioguía App: Paseo por la Ciudad Medieval de Carcasona",
@@ -15703,12 +15703,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 3.9,
-    "reviewsNumber": 3
+    "rating": 4.35,
+    "reviewsNumber": 4
   },
   {
     "id": 67837,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 10:32:13",
     "title": {
       "en": "Discover Lille's Hidden Secrets",
       "es": "Descubra los secretos ocultos de Lille",
@@ -15908,14 +15908,14 @@
   },
   {
     "id": 68050,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Best of Lyon with a Local!",
-      "es": "Lo mejor de Lyon con un lugareño ",
-      "pt": "O melhor de Lyon com um local! ",
-      "de": "Das Beste von Lyon mit einem Einheimischen! ",
-      "fr": "Le meilleur de Lyon avec un local ! ",
-      "it": "Il meglio di Lione con un locale! "
+      "es": "Lo mejor de Lyon con un lugareño",
+      "pt": "O melhor de Lyon com um local!",
+      "de": "Das Beste von Lyon mit einem Einheimischen!",
+      "fr": "Le meilleur de Lyon avec un local !",
+      "it": "Il meglio di Lione con un locale!"
     },
     "brief": {
       "de": "Entdecken Sie mit uns den Charme des Croix-Rousse Hill! Erkunden Sie die lebendige Geschichte, den kreativen Geist und die versteckten Schätze, ohne zu klettern. Entdecken Sie die Geschichten, die Lyon geprägt haben, bei diesem unvergesslichen Erlebnis.",
@@ -16026,56 +16026,56 @@
         "googlePlaceId": "ChIJl0oHqSTr9EcRy-xvaSTb0dg"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-45.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-41.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 292709,
+        "id": 301377,
+        "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-41.jpg"
+      },
+      {
+        "id": 301378,
+        "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-42.jpg"
+      },
+      {
+        "id": 301380,
+        "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-44.jpg"
+      },
+      {
+        "id": 301381,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-45.jpg"
       },
       {
-        "id": 292710,
+        "id": 301382,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-46.jpg"
       },
       {
-        "id": 292711,
+        "id": 301383,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-47.jpg"
       },
       {
-        "id": 292712,
+        "id": 301384,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-48.jpg"
       },
       {
-        "id": 292713,
+        "id": 301385,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-49.jpg"
       },
       {
-        "id": 292714,
+        "id": 301386,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-50.jpg"
       },
       {
-        "id": 292715,
+        "id": 301387,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-51.jpg"
       },
       {
-        "id": 292716,
+        "id": 301388,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-52.jpg"
       },
       {
-        "id": 292717,
+        "id": 301408,
         "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-53.jpg"
-      },
-      {
-        "id": 292718,
-        "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-54.jpg"
-      },
-      {
-        "id": 292719,
-        "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-55.jpg"
-      },
-      {
-        "id": 292720,
-        "URL": "https://www.freetour.com/images/tours/68050/explore-croix-rousse-hill-effortlessly-56.jpg"
       }
     ],
     "videoURL": null,
@@ -16084,7 +16084,7 @@
   },
   {
     "id": 68135,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Official Bordeaux Free Tour With a Glass of Wine",
       "es": "Visita oficial gratuita de Burdeos con una copa de vino",
@@ -16199,11 +16199,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 26
+    "reviewsNumber": 27
   },
   {
     "id": 68540,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Aix-en-Provence with a Local Expert",
       "es": "Explore Aix-en-Provence con un Experto Local",
@@ -16291,7 +16291,7 @@
   },
   {
     "id": 68978,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A must-see tour of Nantes with official guide",
       "es": "Tour Imprescindible por Nantes con guía oficial",
@@ -16408,7 +16408,7 @@
   },
   {
     "id": 69552,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Flavors of the World and Hidden Charms of Marseille",
       "es": "Sabores del mundo y encantos ocultos de Marsella",
@@ -16516,7 +16516,7 @@
   },
   {
     "id": 69745,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Paris Free Tour: Splendor and Memory",
       "es": "París Free Tour: Esplendor y Memoria",
@@ -16624,11 +16624,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 11
+    "reviewsNumber": 12
   },
   {
     "id": 70379,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Hidden Gems of Ile de la Cité and Notre-Dame",
       "es": "Joyas Ocultas de la Isla de la Cité y Notre-Dame",
@@ -16757,11 +16757,11 @@
     ],
     "videoURL": null,
     "rating": 4.9399999999999995,
-    "reviewsNumber": 137
+    "reviewsNumber": 139
   },
   {
     "id": 70912,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of Montmartre",
       "es": "Free Tour a Montmartre",
@@ -16873,7 +16873,7 @@
   },
   {
     "id": 71485,
-    "updatedAt": "2025-12-01 09:05:01",
+    "updatedAt": "2025-12-11 08:05:01",
     "title": {
       "en": "Soul of Lyon Free Tour: Culture, History & Secrets with a Lyon-born",
       "es": "Tour gratuito del Alma de Lyon: Cultura, historia y secretos con un lionés",
@@ -17009,12 +17009,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.83,
-    "reviewsNumber": 25
+    "rating": 4.84,
+    "reviewsNumber": 26
   },
   {
     "id": 71976,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Places of Repression and Resistance in Lyon tour",
       "es": "Lugares de represión y resistencia en Lyon tour",
@@ -17110,7 +17110,7 @@
   },
   {
     "id": 72019,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Eiffel Tower Paris Private Photoshoot Tour",
       "es": "Sesión de Fotos Privada en la Torre Eiffel de París",
@@ -17242,7 +17242,7 @@
   },
   {
     "id": 72369,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Mystery Tour - Who Stole the Gutenberg Press?",
       "es": "Visita misteriosa - ¿Quién robó la imprenta de Gutenberg?",
@@ -17330,7 +17330,7 @@
   },
   {
     "id": 72572,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Lyon Essentials Free Tour: History, Stories & Sights",
       "es": "Lyon Essentials Recorrido gratuito: Historia, relatos y monumentos",
@@ -17433,19 +17433,19 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.87,
-    "reviewsNumber": 12
+    "rating": 4.88,
+    "reviewsNumber": 13
   },
   {
     "id": 72802,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
-      "en": "Discover Marseille with a Local Guide Tour",
-      "es": "Descubra Marsella con un guía local",
-      "pt": "Descobrir Marselha com um guia local",
-      "de": "Entdecken Sie Marseille mit einem lokalen Reiseführer",
-      "fr": "Découvrir Marseille avec un guide local",
-      "it": "Scoprite Marsiglia con una guida locale"
+      "en": "Discover Marseille with a Local Guide Free Tour",
+      "es": "Descubra Marsella con un guía local Visita gratuita",
+      "pt": "Descobrir Marselha com um guia local Free Tour",
+      "de": "Entdecken Sie Marseille mit einem lokalen Führer Kostenlose Tour",
+      "fr": "Découvrir Marseille avec un guide local Visite libre",
+      "it": "Scoprire Marsiglia con una guida locale Tour gratuito"
     },
     "brief": {
       "de": "Entdecken Sie die älteste Stadt Frankreichs und begeben Sie sich auf eine Reise durch die Zeit! Entdecken Sie die reiche Geschichte Marseilles, von den griechischen Ursprüngen bis hin zur pulsierenden modernen Kultur. Das sollten Sie nicht verpassen!",
@@ -17556,7 +17556,7 @@
   },
   {
     "id": 73270,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Lille: History and Hidden Secrets to Discover",
       "es": "Lille: Historia y Secretos Escondidos por Descubrir",
@@ -17680,7 +17680,7 @@
   },
   {
     "id": 73715,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Aix en Provence Bar Crawl",
       "es": "Recorrido por los Bares de Aix en Provence",
@@ -17756,7 +17756,7 @@
   },
   {
     "id": 74496,
-    "updatedAt": "2025-12-01 19:15:07",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Paris in Revolt: French Revolution Free Tour",
       "es": "París en Revuelta: La Revolución Francesa",
@@ -17891,7 +17891,7 @@
   },
   {
     "id": 75619,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour of Saint Malo",
       "es": "Free Tour a pie por Saint Malo",
@@ -17995,7 +17995,7 @@
   },
   {
     "id": 75624,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free visit: Chateau de Blois and the Renaissance",
       "es": "Visita libre: el castillo de Blois y el Renacimiento",
@@ -18157,7 +18157,7 @@
   },
   {
     "id": 76113,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of the Lyon Museum of Fine Arts",
       "es": "Visita Guiada por el Museo de Bellas Artes de Lyon",
@@ -18247,7 +18247,7 @@
   },
   {
     "id": 76659,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Biarritz Highlights: Discover the City’s Charm",
       "es": "Lo más Destacado de Biarritz: Descubre el Encanto de la Ciudad",
@@ -18323,7 +18323,7 @@
   },
   {
     "id": 76667,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "St. Jean de Luz City Tour",
       "es": "Visita de San Juan de Luz",
@@ -18420,7 +18420,7 @@
   },
   {
     "id": 76669,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Bayonne City Tour",
       "es": "Descubra la Ciudad de Bayona",
@@ -18535,7 +18535,7 @@
   },
   {
     "id": 76749,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of the Highlights of Nantes",
       "es": "Free Tour por lo más Destacado de Nantes",
@@ -18625,12 +18625,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.42,
-    "reviewsNumber": 10
+    "rating": 4.47,
+    "reviewsNumber": 11
   },
   {
     "id": 76921,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore Colmar: The Fairytale Village",
       "es": "Explorar Colmar: El Pueblo de Cuento de Hadas",
@@ -18792,7 +18792,7 @@
   },
   {
     "id": 77008,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of the Old Town and the History of Ajaccio",
       "es": "Visita gratuita del casco antiguo y de la historia de Ajaccio",
@@ -18922,7 +18922,7 @@
   },
   {
     "id": 77024,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the Historical Tour of Marseille",
       "es": "Descubra el Recorrido Histórico de Marsella",
@@ -19027,7 +19027,7 @@
   },
   {
     "id": 77305,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Literary Tour of Paris: Writers and Cafes",
       "es": "Free Tour Literario por París: Escritores y Cafés",
@@ -19112,7 +19112,7 @@
   },
   {
     "id": 77748,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Montmartre in Depth: Art, History & Bohemian Life",
       "es": "Montmartre a Fondo: Arte, Historia y Vida Bohemia",
@@ -19241,12 +19241,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 5,
-    "reviewsNumber": 16
+    "rating": 4.8100000000000005,
+    "reviewsNumber": 20
   },
   {
     "id": 77944,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Secrets of the Loire River on a Boat Trip",
       "es": "Descubre los Secretos del Río Loira en un Paseo en Barco",
@@ -19332,7 +19332,7 @@
   },
   {
     "id": 78558,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of the Old City of Le Mans",
       "es": "Free Tour por la Antigua Ciudad de Le Mans",
@@ -19414,7 +19414,7 @@
   },
   {
     "id": 78753,
-    "updatedAt": "2025-12-01 17:55:25",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour Colmar: Stories and Legends",
       "es": "Free Tour Colmar: Historias y Leyendas",
@@ -19543,12 +19543,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.77,
-    "reviewsNumber": 39
+    "rating": 4.8,
+    "reviewsNumber": 44
   },
   {
     "id": 79634,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Pere-Lachaise Cemetery, Paris",
       "es": "Aplicación Audioguía: Cementerio Pere-Lachaise, París",
@@ -19697,7 +19697,7 @@
   },
   {
     "id": 79663,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Avignon City Walk",
       "es": "Aplicación de Audioguía: Paseo por la Ciudad de Aviñón",
@@ -19844,11 +19844,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 1
+    "reviewsNumber": 2
   },
   {
     "id": 79664,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Colmar, Old Town City Walk",
       "es": "Aplicación de Audioguía: Colmar, Paseo por el Casco Antiguo",
@@ -20009,7 +20009,7 @@
   },
   {
     "id": 79666,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Orsay Museum, Paris",
       "es": "App Audioguía: Museo de Orsay, París",
@@ -20142,7 +20142,7 @@
   },
   {
     "id": 79709,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Nice Old Town Free Tour: Eight Centuries of Carnival of History",
       "es": "Recorrido gratuito por el casco antiguo de Niza: Ocho siglos de Carnaval de la Historia",
@@ -20268,7 +20268,7 @@
   },
   {
     "id": 79866,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Beautiful & Artistic Montmartre Paris Free Tour",
       "es": "Recorrido gratuito por el bello y artístico Montmartre de París",
@@ -20438,7 +20438,7 @@
   },
   {
     "id": 79897,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Cannes: Guided Walking Tour",
       "es": "Descubra Cannes: Visita Guiada a pie",
@@ -20534,7 +20534,7 @@
   },
   {
     "id": 80289,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Flamboyant and Secret Avignon Free Tour",
       "es": "Flamante y secreta visita gratuita de Aviñón",
@@ -20662,7 +20662,7 @@
   },
   {
     "id": 80457,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Bordeaux Walking Tour",
       "es": "Recorrido Privado a pie por Burdeos",
@@ -20756,7 +20756,7 @@
   },
   {
     "id": 80481,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "How to Kill a King: The Story of Louis XVI Losing His Head",
       "es": "Cómo Matar a un Rey: La Historia de Luis XVI Perdiendo la Cabeza",
@@ -20850,7 +20850,7 @@
   },
   {
     "id": 80703,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of Lille",
       "es": "Visita gratuita de Lille",
@@ -21024,7 +21024,7 @@
   },
   {
     "id": 80720,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Historical and Cultural Tour of Bayonne Old Town",
       "es": "Visita Histórica y Cultural del Casco Antiguo de Bayona",
@@ -21096,7 +21096,7 @@
   },
   {
     "id": 80956,
-    "updatedAt": "2025-12-01 21:48:02",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Rude Bastards Free Tour of Paris",
       "es": "Free Tour de París con los Rude Bastards",
@@ -21114,12 +21114,12 @@
       "pt": "Junte-se ao Rude Bastards Free Tour e descubra Paris com humor ousado e sem filtros! Explore locais emblemáticos como Notre Dame e o Louvre enquanto se ri das histórias não contadas da cidade."
     },
     "description": {
-      "de": "Paris: die Stadt der Liebe, der Lichter und einer ganzen Menge historischer Dramen. Wenn Sie auf der Suche nach einer Tour sind, die die Vergangenheit beschönigt, ist dies nicht die richtige Wahl. Aber wenn Sie Lust auf einen politisch unkorrekten, humorvollen Spaziergang durch das Herz von Paris haben, sind Sie bei der Rude Bastards Tour genau richtig.\r\n\r\nGeschichte besteht nicht nur aus Daten und Fakten; sie ist voller Skandale, Intrigen und Absurditäten. Unsere Fremdenführer scheuen sich nicht vor den unschönen Dingen, sondern haben Spaß daran. Freuen Sie sich auf eine ebenso aufschlussreiche wie unterhaltsame Tour mit einer gesunden Portion Respektlosigkeit. Wir starten im historischen Viertel Saint-Germain-des-Prés und laufen zur Kathedrale Notre Dame.\r\n\r\nWir überqueren die romantische Seine und erreichen die Île de la Cité. Schließlich geht es hinauf zum Louvre-Museum, wo unser Fremdenführer unhöflich auf den Eiffelturm zeigt und Sie auffordert, Ihren eigenen Weg zu finden. Alles in allem versprechen wir Ihnen ein Erlebnis, das Sie verwirrt, empört und zum Lachen bringt, bis Ihnen die Rippen wehtun.\r\n\r\nWorauf warten Sie also noch?",
-      "en": "Paris: the city of love, lights, and a whole lot of historical drama. If you’re looking for a tour that sugarcoats the past, this ain’t it. But if you’re up for a politically incorrect, humor-laden stroll through the heart of Paris, welcome to the Rude Bastards Tour.\r\n\r\nHistory isn’t just dates and facts; it’s full of scandal, intrigue, and absurdity. Our guides don’t shy away from the messy bits; they revel in them. Expect a tour that’s as enlightening as it is entertaining, with a healthy dose of irreverence. Starting from the historic neighborhood of Saint-Germain-des-Prés, we will walk to the Notre Dame Cathedral.\r\n\r\nWe will cross the romantic Seine into the Île de la Cité. Finally, we will go up to the Louvre Museum, where our guide will rudely point to the Eiffel Tower and tell you to find your own way. All in all, we promise an experience to leave you confused, scandalized, and laughing till your ribs hurt.\r\n\r\nSo what are you waiting for?",
-      "es": "París: la ciudad del amor, las luces y un montón de drama histórico. Si lo que busca es una visita guiada que le endulce el pasado, ésta no es la suya. Pero si le apetece un paseo políticamente incorrecto y cargado de humor por el corazón de París, bienvenido al Rude Bastards Tour.\r\n\r\nLa historia no es sólo fechas y hechos; está llena de escándalos, intrigas y absurdos. Nuestros guías no rehúyen las partes turbias, sino que se deleitan con ellas. Le espera una visita tan instructiva como entretenida, con una buena dosis de irreverencia. Partiendo del histórico barrio de Saint-Germain-des-Prés, caminaremos hasta la catedral de Notre Dame.\r\n\r\nCruzaremos el romántico Sena hasta la Île de la Cité. Por último, subiremos al Museo del Louvre, donde nuestro guía señalará bruscamente la Torre Eiffel y le dirá que encuentre su propio camino. En definitiva, le prometemos una experiencia que le dejará confundido, escandalizado y riéndose hasta que le duelan las costillas.\r\n\r\n¿A qué espera?",
-      "fr": "Paris : la ville de l'amour, des lumières et de tout un tas de drames historiques. Si vous cherchez une visite qui enjolive le passé, ce n'est pas celle-là. Mais si vous êtes prêt à faire une promenade politiquement incorrecte et pleine d'humour au cœur de Paris, bienvenue au Rude Bastards Tour.\r\n\r\nL'histoire ne se résume pas à des dates et à des faits ; elle est pleine de scandales, d'intrigues et d'absurdités. Nos guides n'hésitent pas à aborder les aspects désagréables de l'histoire, ils s'en délectent. Attendez-vous à une visite aussi instructive que divertissante, avec une bonne dose d'irrévérence. En partant du quartier historique de Saint-Germain-des-Prés, nous marcherons jusqu'à la cathédrale Notre-Dame.\r\n\r\nNous traverserons la Seine romantique pour rejoindre l'Île de la Cité. Enfin, nous irons jusqu'au musée du Louvre, où notre guide vous indiquera grossièrement la Tour Eiffel et vous dira de trouver votre propre chemin. Au final, nous vous promettons une expérience qui vous laissera perplexe, scandalisé et riant à gorge déployée.\r\n\r\nAlors, qu'attendez-vous ?",
-      "it": "Parigi: la città dell'amore, delle luci e di un sacco di drammi storici. Se siete alla ricerca di un tour che indori il passato, non è questo il caso. Ma se siete pronti per una passeggiata politicamente scorretta e carica di umorismo nel cuore di Parigi, benvenuti al Rude Bastards Tour.\r\n\r\nLa storia non è solo date e fatti; è piena di scandali, intrighi e assurdità. Le nostre guide non si tirano indietro di fronte alle parti più scomode, anzi, ci si divertono. Aspettatevi un tour tanto illuminante quanto divertente, con una sana dose di irriverenza. Partendo dal quartiere storico di Saint-Germain-des-Prés, cammineremo fino alla Cattedrale di Notre Dame.\r\n\r\nAttraverseremo la romantica Senna fino all'Île de la Cité. Infine, saliremo al Museo del Louvre, dove la nostra guida vi indicherà sgarbatamente la Torre Eiffel e vi dirà di trovare la vostra strada. In definitiva, vi promettiamo un'esperienza che vi lascerà confusi, scandalizzati e ridenti fino al dolore alle costole.\r\n\r\nAllora, cosa state aspettando?",
-      "pt": "Paris: a cidade do amor, das luzes e de muito drama histórico. Se está à procura de uma visita guiada que envolva o passado, esta não é a melhor opção. Mas se está disposto a um passeio politicamente incorreto e cheio de humor pelo coração de Paris, seja bem-vindo ao Rude Bastards Tour.\r\n\r\nA história não é só datas e factos; está cheia de escândalos, intrigas e absurdos. Os nossos guias não se esquivam às partes mais confusas; divertem-se com elas. Espere um passeio tão esclarecedor quanto divertido, com uma dose saudável de irreverência. Partindo do bairro histórico de Saint-Germain-des-Prés, caminharemos até à Catedral de Notre Dame.\r\n\r\nAtravessaremos o romântico Sena em direção à Île de la Cité. Finalmente, subiremos ao Museu do Louvre, onde o nosso guia apontará rudemente para a Torre Eiffel e dir-lhe-á para encontrar o seu próprio caminho. Em suma, prometemos uma experiência que o deixará confuso, escandalizado e a rir até lhe doerem as costelas.\r\n\r\nEntão, de que está à espera?"
+      "de": "Paris: die Stadt der Liebe, der Lichter und einer ganzen Menge historischer Dramen. Wenn Sie auf der Suche nach einer Tour sind, die die Vergangenheit beschönigt, ist dies nicht die richtige Wahl. Aber wenn Sie Lust auf einen politisch unkorrekten, humorvollen Spaziergang durch das Herz von Paris haben, sind Sie bei der Rude Bastards Tour genau richtig.\r\n\r\nGeschichte besteht nicht nur aus Daten und Fakten; sie ist voller Skandale, Intrigen und Absurditäten. Unsere Fremdenführer scheuen sich nicht vor den unschönen Dingen, sondern haben Spaß daran. Erwarten Sie eine ebenso aufschlussreiche wie unterhaltsame Tour mit einer gesunden Portion Respektlosigkeit. Wir starten im historischen Viertel Saint-Germain-des-Prés und laufen zur Kathedrale Notre Dame.\r\n\r\nWir überqueren die romantische Seine und erreichen die Île de la Cité. Schließlich geht es hinauf zum Louvre-Museum, wo unser Fremdenführer unhöflich auf den Eiffelturm zeigt und Sie auffordert, Ihren eigenen Weg zu finden. Alles in allem versprechen wir Ihnen ein Erlebnis, das Sie verwirrt, empört und zum Lachen bringt, bis Ihnen die Rippen wehtun.\r\n\r\nWorauf warten Sie also noch?\r\n\r\n***BITTE BEACHTEN**** \"Bitte buchen Sie mindestens 1 Stunde im Voraus, da wir es unmöglich in weniger als 1 Stunde zum Treffpunkt schaffen können\".",
+      "en": "Paris: the city of love, lights, and a whole lot of historical drama. If you’re looking for a tour that sugarcoats the past, this ain’t it. But if you’re up for a politically incorrect, humor-laden stroll through the heart of Paris, welcome to the Rude Bastards Tour.\r\n\r\nHistory isn’t just dates and facts; it’s full of scandal, intrigue, and absurdity. Our guides don’t shy away from the messy bits; they revel in them. Expect a tour that’s as enlightening as it is entertaining, with a healthy dose of irreverence. Starting from the historic neighborhood of Saint-Germain-des-Prés, we will walk to the Notre Dame Cathedral.\r\n\r\nWe will cross the romantic Seine into the Île de la Cité. Finally, we will go up to the Louvre Museum, where our guide will rudely point to the Eiffel Tower and tell you to find your own way. All in all, we promise an experience to leave you confused, scandalized, and laughing till your ribs hurt.\r\n\r\nSo what are you waiting for?\r\n\r\n***PLEASE NOTE****  \"Be sure to book with at least 1 hour in advance, since we can't possibly make it to the meeting point in less than 1 hour\".",
+      "es": "París: la ciudad del amor, las luces y un montón de drama histórico. Si lo que busca es una visita que le endulce el pasado, ésta no es la suya. Pero si le apetece un paseo políticamente incorrecto y cargado de humor por el corazón de París, bienvenido al Rude Bastards Tour.\r\n\r\nLa historia no es sólo fechas y hechos; está llena de escándalos, intrigas y absurdos. Nuestros guías no rehúyen las partes turbias, sino que se deleitan con ellas. Le espera una visita tan instructiva como entretenida, con una buena dosis de irreverencia. Partiendo del histórico barrio de Saint-Germain-des-Prés, caminaremos hasta la catedral de Notre Dame.\r\n\r\nCruzaremos el romántico Sena hasta la Île de la Cité. Por último, subiremos al Museo del Louvre, donde nuestro guía señalará bruscamente la Torre Eiffel y le dirá que encuentre su propio camino. En definitiva, le prometemos una experiencia que le dejará confundido, escandalizado y riéndose hasta que le duelan las costillas.\r\n\r\n¿A qué espera?\r\n\r\n***POR FAVOR TENGA EN CUENTA**** \"Asegúrese de reservar con al menos 1 hora de antelación, ya que es imposible que lleguemos al punto de encuentro en menos de 1 hora\".",
+      "fr": "Paris : la ville de l'amour, des lumières et de tout un tas de drames historiques. Si vous cherchez une visite qui enjolive le passé, ce n'est pas celle-là. Mais si vous êtes prêt à faire une promenade politiquement incorrecte et pleine d'humour au cœur de Paris, bienvenue au Rude Bastards Tour.\r\n\r\nL'histoire ne se résume pas à des dates et à des faits ; elle est pleine de scandales, d'intrigues et d'absurdités. Nos guides n'hésitent pas à aborder les aspects désagréables de l'histoire, ils s'en délectent. Attendez-vous à une visite aussi instructive que divertissante, avec une bonne dose d'irrévérence. En partant du quartier historique de Saint-Germain-des-Prés, nous marcherons jusqu'à la cathédrale Notre-Dame.\r\n\r\nNous traverserons la Seine romantique pour rejoindre l'Île de la Cité. Enfin, nous irons jusqu'au musée du Louvre, où notre guide vous indiquera grossièrement la Tour Eiffel et vous dira de trouver votre propre chemin. Au final, nous vous promettons une expérience qui vous laissera perplexe, scandalisé et rieur jusqu'à en avoir mal aux côtes.\r\n\r\nAlors, qu'attendez-vous ?\r\n\r\n*nOTEZ BIEN**** \"Assurez-vous de réserver au moins 1 heure à l'avance, car nous ne pouvons pas nous rendre au point de rencontre en moins d'une heure\".",
+      "it": "Parigi: la città dell'amore, delle luci e di un sacco di drammi storici. Se siete alla ricerca di un tour che indori il passato, non è questo il caso. Ma se siete pronti per una passeggiata politicamente scorretta e carica di umorismo nel cuore di Parigi, benvenuti al Rude Bastards Tour.\r\n\r\nLa storia non è solo date e fatti; è piena di scandali, intrighi e assurdità. Le nostre guide non si tirano indietro di fronte alle parti più scomode, anzi, ci si divertono. Aspettatevi un tour tanto illuminante quanto divertente, con una sana dose di irriverenza. Partendo dal quartiere storico di Saint-Germain-des-Prés, cammineremo fino alla Cattedrale di Notre Dame.\r\n\r\nAttraverseremo la romantica Senna fino all'Île de la Cité. Infine, saliremo al Museo del Louvre, dove la nostra guida vi indicherà sgarbatamente la Torre Eiffel e vi dirà di trovare la vostra strada. In definitiva, vi promettiamo un'esperienza che vi lascerà confusi, scandalizzati e ridenti fino al dolore alle costole.\r\n\r\nAllora, cosa state aspettando?\r\n\r\n***Si prega di notare**** \"Assicuratevi di prenotare con almeno 1 ora di anticipo, poiché non è possibile raggiungere il punto di incontro in meno di 1 ora\".",
+      "pt": "Paris: a cidade do amor, das luzes e de muito drama histórico. Se está à procura de uma visita guiada que envolva o passado, esta não é a melhor opção. Mas se está disposto a um passeio politicamente incorreto e cheio de humor pelo coração de Paris, seja bem-vindo ao Rude Bastards Tour.\r\n\r\nA história não é só datas e factos; está cheia de escândalos, intrigas e absurdos. Os nossos guias não se esquivam às partes mais confusas; divertem-se com elas. Espere um passeio tão esclarecedor quanto divertido, com uma dose saudável de irreverência. Partindo do bairro histórico de Saint-Germain-des-Prés, caminharemos até à Catedral de Notre Dame.\r\n\r\nAtravessaremos o romântico Sena em direção à Île de la Cité. Finalmente, subiremos ao Museu do Louvre, onde o nosso guia apontará rudemente para a Torre Eiffel e dir-lhe-á para encontrar o seu próprio caminho. Em suma, prometemos uma experiência que o deixará confuso, escandalizado e a rir até lhe doerem as costelas.\r\n\r\nEntão, de que está à espera?\r\n\r\n***PLEASE NOTE**** \"Não se esqueça de reservar com pelo menos 1 hora de antecedência, uma vez que não é possível chegar ao ponto de encontro em menos de 1 hora\"."
     },
     "providerTitle": "Can You Handle It Tours",
     "providerPhone": null,
@@ -21187,12 +21187,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.95,
-    "reviewsNumber": 8
+    "rating": 4.96,
+    "reviewsNumber": 9
   },
   {
     "id": 81154,
-    "updatedAt": "2025-12-01 23:07:01",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Essential Free Tour of Bordeaux",
       "es": "Free Tour Esencial por Burdeos",
@@ -21321,12 +21321,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.8,
-    "reviewsNumber": 15
+    "rating": 4.77,
+    "reviewsNumber": 21
   },
   {
     "id": 81366,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Complete Free Tour of Lille",
       "es": "Free Tour Completo por Lille",
@@ -21458,7 +21458,7 @@
   },
   {
     "id": 81499,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 07:51:06",
     "title": {
       "en": "Magnificent Montmartre Free Tour",
       "es": "Magnífico Montmartre Free Tour",
@@ -21628,8 +21628,8 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9,
-    "reviewsNumber": 8
+    "rating": 4.91,
+    "reviewsNumber": 9
   },
   {
     "id": 81504,
@@ -21767,7 +21767,7 @@
   },
   {
     "id": 81749,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Explore the Latin Quarter of Paris",
       "es": "Explorar el Barrio Latino de París",
@@ -21883,7 +21883,7 @@
   },
   {
     "id": 81750,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Place de la Concorde: Heart of the French Revolution",
       "es": "Plaza de la Concordia: Corazón de la Revolución Francesa",
@@ -21975,7 +21975,7 @@
   },
   {
     "id": 81990,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Welcome to Marseille: Guided Walking Tour",
       "es": "Bienvenido a Marsella: Visita Guiada a pie",
@@ -22261,7 +22261,7 @@
   },
   {
     "id": 82094,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Lyon City Walk",
       "es": "Aplicación de Audioguía: Paseo por la Ciudad de Lyon",
@@ -22413,12 +22413,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 4.67,
+    "reviewsNumber": 3
   },
   {
     "id": 82095,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Marseille City Walk",
       "es": "App Audioguía: Paseo por la ciudad de Marsella",
@@ -22573,7 +22573,7 @@
   },
   {
     "id": 82099,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Saint-Malo City Walk",
       "es": "App Audioguía: Paseo por la Ciudad de Saint-Malo",
@@ -22722,7 +22722,7 @@
   },
   {
     "id": 82189,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Montmartre Untold: Legends, Art & Sunset Views",
       "es": "Montmartre Untold: Leyendas, Arte y Puestas de Sol",
@@ -22862,7 +22862,7 @@
   },
   {
     "id": 82191,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Nice at Golden Hour: Sunset Tour",
       "es": "Niza en la Hora Dorada: Recorrido al Atardecer",
@@ -22990,7 +22990,7 @@
   },
   {
     "id": 83163,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of Cannes",
       "es": "Visita gratuita a Cannes",
@@ -23208,7 +23208,7 @@
   },
   {
     "id": 83182,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour in Angers",
       "es": "Free Tour en Angers",
@@ -23248,7 +23248,7 @@
       "value": 0,
       "currency": "EUR"
     },
-    "length": "1:30",
+    "length": "1:15",
     "meetingPoint": {
       "title": "Office de Tourisme - Destination Angers",
       "coordinates": "47.46929,-0.557781",
@@ -23303,12 +23303,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 4.33,
+    "reviewsNumber": 3
   },
   {
     "id": 83205,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Strasbourg Ultimate Art Tour",
       "es": "Estrasburgo Ultimate Art Tour",
@@ -23475,7 +23475,7 @@
   },
   {
     "id": 84817,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Basque tour of Biarritz",
       "es": "Visita vasca de Biarritz",
@@ -23512,7 +23512,7 @@
       "it": "https://www.freetour.com/it/biarritz/basque-tour-of-biarritz?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 22,
+      "value": 21,
       "currency": "EUR"
     },
     "length": "1:30",
@@ -23573,7 +23573,7 @@
   },
   {
     "id": 85116,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Paris Center: History & Art from Pont Neuf to the Tuileries",
       "es": "Centro de París: Historia y Arte del Puente Nuevo a las Tullerías",
@@ -23729,7 +23729,7 @@
   },
   {
     "id": 85432,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Perfume Museum & Opera Quarter Tour",
       "es": "Museo del Perfume y Barrio de la Ópera",
@@ -23870,7 +23870,7 @@
   },
   {
     "id": 85526,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Discover the Mysteries of Rouen",
       "es": "Tour Descubra los misterios de Ruán",
@@ -23974,7 +23974,7 @@
   },
   {
     "id": 85564,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Marseille: Special for Cruisers",
       "es": "Free Tour Marseille: Especial Cruceristas",
@@ -24103,7 +24103,7 @@
   },
   {
     "id": 86303,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Highlights and Hidden Gems of Lyon Free Tour",
       "es": "Lo más destacado y lo más oculto de Lyon Visita gratuita",
@@ -24227,11 +24227,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=rRjJPATWDoc&embeds_referring_euri=https%3A%2F%2Fwww.freetourlyon.com%2F",
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 86581,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Nîmes and its Secrets Free Tour",
       "es": "Descubre Nimes y Sus Secretos Free Tour",
@@ -24407,11 +24407,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 86628,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Nice City Walk",
       "es": "App Audioguía: Niza City Walk",
@@ -24620,7 +24620,7 @@
   },
   {
     "id": 86629,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Mont Saint-Michel (no ticket)",
       "es": "App Audioguía: Mont Saint-Michel (sin entrada)",
@@ -24766,7 +24766,7 @@
   },
   {
     "id": 86676,
-    "updatedAt": "2025-12-01 15:15:09",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Strasbourg City Walk",
       "es": "App Audioguía: Estrasburgo City Walk",
@@ -24981,6 +24981,524 @@
       {
         "id": 298830,
         "URL": "https://www.freetour.com/images/tours/86676/audio-guide-app-strasbourg-city-walk-16.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 71104,
+    "updatedAt": "2025-12-11 03:32:38",
+    "title": {
+      "en": "Secret Passages & Hidden Gems of Paris Free Tour",
+      "es": "Pasajes secretos y joyas ocultas de París Visita gratuita",
+      "pt": "Passagens secretas e jóias escondidas de Paris Free Tour",
+      "de": "Geheime Passagen und verborgene Juwelen von Paris Kostenlose Tour",
+      "fr": "Visite gratuite des passages secrets et des joyaux cachés de Paris",
+      "it": "Passaggi segreti e gemme nascoste di Parigi Tour gratuito"
+    },
+    "brief": {
+      "de": "Entdecken Sie die verborgenen Passagen von Paris: Eine Reise durch die Zeit! Begleiten Sie mich auf einem magischen Spaziergang durch die geheimen Gänge von Paris, wo die Geschichte zum Leben erwacht! Machen Sie eine Zeitreise in die Vergangenheit und erkunden Sie die schönsten versteckten Winkel der Stadt.",
+      "en": "Discover Paris’ Hidden Passages: A Journey Through Time! Join me on a magical walk through Paris’s secret passages, where history comes to life! Step back in time as we explore the city's most enchanting hidden corners.",
+      "es": "Descubra los pasajes ocultos de París: Un viaje en el tiempo Acompáñeme en un paseo mágico por los pasadizos secretos de París, ¡donde la historia cobra vida! Retroceda en el tiempo mientras exploramos los rincones ocultos más encantadores de la ciudad.",
+      "fr": "Découvrez les passages cachés de Paris : Un voyage dans le temps ! Rejoignez-moi pour une promenade magique dans les passages secrets de Paris, où l'histoire prend vie ! Remontez le temps en explorant les coins cachés les plus enchanteurs de la ville.",
+      "it": "Scoprite i passaggi nascosti di Parigi: Un viaggio nel tempo! Unitevi a me in una magica passeggiata attraverso i passaggi segreti di Parigi, dove la storia prende vita! Tornate indietro nel tempo esplorando gli angoli più incantevoli e nascosti della città.",
+      "pt": "Descobrir as passagens escondidas de Paris: Uma viagem no tempo! Junte-se a mim num passeio mágico pelas passagens secretas de Paris, onde a história ganha vida! Recue no tempo enquanto exploramos os cantos escondidos mais encantadores da cidade."
+    },
+    "description": {
+      "de": "Entdecken Sie eine verborgene Seite von Paris: Kunst, Geschichte und geheime Passagen\r\n\r\nWussten Sie, dass es in Paris wunderschöne, versteckte Passagen mit Glasdächern gibt, die bis in die 1800er Jahre zurückreichen? Diese ruhigen, überdachten Gänge waren einst belebte Einkaufsstraßen und sind heute friedliche, charmante Orte voller Geschichte und Überraschungen.\r\n\r\nSpazieren Sie durch die Passage des Panoramas, die älteste von allen, oder durch die schönen Passagen Jouffroy und Verdeau. Jede von ihnen hat ihre eigene Geschichte und ihr eigenes Flair.\r\n\r\n Was Sie hier finden werden:\r\n\r\nAlte Buchläden mit seltenen Funden und schönen Einbänden\r\n\r\nKleine Kunstgalerien und kreative Geschäfte für Kunstliebhaber\r\n\r\nVintage-Läden, gemütliche Cafés und einzigartige Boutiquen\r\n\r\nIn den Wänden versteckte Geschichten aus dem Pariser Leben des 19\r\n\r\nAtemberaubende Orte für Fotos und ruhige Momente abseits der Menschenmassen\r\n\r\nDieser Spaziergang ist ideal, wenn Sie Kunst und Geschichte lieben oder einfach nur eine geheime, lokale Seite von Paris kennenlernen möchten. Es ist eine wunderbare Art, die Stadt auf eine langsamere, bedeutungsvollere Art zu erleben.\r\n\r\nSind Sie bereit, die Schönheit des versteckten Paris zu entdecken?",
+      "en": "Discover a Hidden Side of Paris: Art, History & Secret Passages\r\n\r\nDid you know Paris has beautiful, hidden passages with glass roofs that go back to the 1800s? These quiet, covered walkways were once busy shopping streets and now they’re peaceful, charming spots full of history and surprises.\r\n\r\nWalk through places like Passage des Panoramas, the oldest of them all, or the lovely Passage Jouffroy and Passage Verdeau. Each one has its own story and special feel.\r\n\r\n What you’ll find:\r\n\r\nOld bookshops filled with rare finds and beautiful covers\r\n\r\nSmall art galleries and creative shops perfect for art lovers\r\n\r\nVintage stores, cozy cafés, and unique boutiques\r\n\r\nStories from 19th-century Paris life, hidden in the walls\r\n\r\nStunning spots for photos and quiet moments away from crowds\r\n\r\nThis walk is perfect if you love art, history, or just want to see a more secret, local side of Paris. It’s a beautiful way to experience the city in a slower, more meaningful way.\r\n\r\nAre you ready to explore the beauty of hidden Paris?",
+      "es": "Descubra el lado oculto de París: Arte, historia y pasadizos secretos\r\n\r\n¿Sabía que París tiene preciosos pasajes ocultos con techos de cristal que se remontan al siglo XIX? Estos tranquilos pasajes cubiertos fueron en su día concurridas calles comerciales y ahora son tranquilos y encantadores rincones llenos de historia y sorpresas.\r\n\r\nPasee por lugares como el Passage des Panoramas, el más antiguo de todos, o los encantadores Passage Jouffroy y Passage Verdeau. Cada uno tiene su propia historia y un ambiente especial.\r\n\r\n Lo que encontrará:\r\n\r\nLibrerías de viejo llenas de rarezas y bonitas portadas\r\n\r\nPequeñas galerías de arte y tiendas creativas perfectas para los amantes del arte\r\n\r\nTiendas vintage, acogedores cafés y boutiques únicas\r\n\r\nHistorias de la vida parisina del siglo XIX, escondidas en las paredes\r\n\r\nImpresionantes rincones para fotos y momentos de tranquilidad lejos de las multitudes\r\n\r\nEste paseo es perfecto si le gusta el arte, la historia o simplemente quiere ver un lado más secreto y local de París. Es una forma preciosa de conocer la ciudad de un modo más pausado y significativo.\r\n\r\n¿Está listo para explorar la belleza del París oculto?",
+      "fr": "Découvrez la face cachée de Paris : Art, histoire et passages secrets\r\n\r\nSaviez-vous que Paris possède de magnifiques passages cachés avec des toits en verre qui remontent aux années 1800 ? Ces passages tranquilles et couverts étaient autrefois des rues commerçantes très fréquentées. Aujourd'hui, ce sont des endroits paisibles et charmants, pleins d'histoire et de surprises.\r\n\r\nPromenez-vous dans des endroits comme le Passage des Panoramas, le plus ancien de tous, ou les charmants Passage Jouffroy et Passage Verdeau. Chacun d'entre eux a sa propre histoire et une ambiance particulière.\r\n\r\n Ce que vous y trouverez :\r\n\r\nDe vieilles librairies remplies de trouvailles rares et de belles couvertures\r\n\r\nDes petites galeries d'art et des boutiques créatives parfaites pour les amateurs d'art\r\n\r\nDes magasins vintage, des cafés accueillants et des boutiques uniques\r\n\r\nDes histoires de la vie parisienne du XIXe siècle, cachées dans les murs\r\n\r\nDes endroits magnifiques pour prendre des photos et passer des moments tranquilles à l'écart de la foule\r\n\r\nCette promenade est idéale si vous aimez l'art, l'histoire ou si vous souhaitez simplement découvrir un aspect plus secret et local de Paris. C'est une belle façon de découvrir la ville d'une manière plus lente et plus significative.\r\n\r\nÊtes-vous prêt à explorer la beauté du Paris caché ?",
+      "it": "Scoprite il lato nascosto di Parigi: Arte, storia e passaggi segreti\r\n\r\nSapevate che a Parigi ci sono bellissimi passaggi nascosti con tetti di vetro che risalgono al 1800? Questi tranquilli passaggi coperti erano un tempo strade commerciali affollate e ora sono luoghi tranquilli e affascinanti, pieni di storia e di sorprese.\r\n\r\nPasseggiate in luoghi come il Passage des Panoramas, il più antico di tutti, o i deliziosi Passage Jouffroy e Passage Verdeau. Ognuno di essi ha una propria storia e un'atmosfera particolare.\r\n\r\n Cosa troverete:\r\n\r\nVecchie librerie piene di reperti rari e belle copertine\r\n\r\nPiccole gallerie d'arte e negozi creativi perfetti per gli amanti dell'arte\r\n\r\nNegozi vintage, caffè accoglienti e boutique esclusive\r\n\r\nStorie di vita parigina del XIX secolo, nascoste nei muri\r\n\r\nLuoghi meravigliosi per foto e momenti di tranquillità lontano dalla folla\r\n\r\nQuesta passeggiata è perfetta se amate l'arte, la storia o semplicemente volete vedere un lato più segreto e locale di Parigi. È un modo bellissimo per vivere la città in modo più lento e significativo.\r\n\r\nSiete pronti a esplorare la bellezza della Parigi nascosta?",
+      "pt": "Descubra um lado oculto de Paris: Arte, história e passagens secretas\r\n\r\nSabia que Paris tem belas passagens escondidas com tectos de vidro que remontam ao século XIX? Estas calmas passagens cobertas foram outrora ruas comerciais movimentadas e agora são locais tranquilos e encantadores, cheios de história e surpresas.\r\n\r\nPasseie por sítios como a Passage des Panoramas, a mais antiga de todas, ou as encantadoras Passage Jouffroy e Passage Verdeau. Cada uma tem a sua própria história e um toque especial.\r\n\r\n O que vai encontrar:\r\n\r\nLivrarias antigas cheias de achados raros e belas capas\r\n\r\nPequenas galerias de arte e lojas criativas perfeitas para os amantes da arte\r\n\r\nLojas vintage, cafés acolhedores e boutiques únicas\r\n\r\nHistórias da vida parisiense do século XIX, escondidas nas paredes\r\n\r\nLocais deslumbrantes para fotografias e momentos de tranquilidade longe das multidões\r\n\r\nEste passeio é perfeito para quem gosta de arte, história ou apenas quer ver um lado mais secreto e local de Paris. É uma bela maneira de conhecer a cidade de uma forma mais lenta e significativa.\r\n\r\nEstá pronto para explorar a beleza de Paris escondida?"
+    },
+    "providerTitle": "Guide Me Paris",
+    "providerPhone": "+33745614287",
+    "URL": "https://www.freetour.com/paris/free-tour-of-paris-hidden-passages-galleries?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/paris/free-tour-of-paris-hidden-passages-galleries?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/paris/free-tour-of-paris-hidden-passages-galleries?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/paris/free-tour-of-paris-hidden-passages-galleries?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/paris/free-tour-of-paris-hidden-passages-galleries?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/paris/free-tour-of-paris-hidden-passages-galleries?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/paris/free-tour-of-paris-hidden-passages-galleries?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:30",
+    "meetingPoint": {
+      "title": "at the exit of the metro station - Louvre Rivoli ",
+      "coordinates": "48.8606578,2.3409679",
+      "googlePlaceId": "ChIJifTG5yFu5kcRdnisbwxnAx4"
+    },
+    "cityId": 1417,
+    "countryId": 50,
+    "includes": [
+      "Passage Verdeau",
+      "Passage Jouffroy",
+      "Passage des Panoramas",
+      "Palais-Royal Garden",
+      "Galerie Vivienne",
+      "Galerie Colbert"
+    ],
+    "POIs": [
+      {
+        "id": 29809,
+        "title": "Passage Verdeau",
+        "googlePlaceId": "ChIJGXmP7z5u5kcRPBo0dxT7y-M"
+      },
+      {
+        "id": 15245,
+        "title": "Passage Jouffroy",
+        "googlePlaceId": "ChIJk5YNhD5u5kcRMxlC5_PUIuU"
+      },
+      {
+        "id": 15247,
+        "title": "Passage des Panoramas",
+        "googlePlaceId": "ChIJM_82Pjxu5kcRe4g8VvgAGQI"
+      },
+      {
+        "id": 14590,
+        "title": "Palais-Royal Garden",
+        "googlePlaceId": "ChIJ5bx0qiVu5kcRs_dMpI5ttiY"
+      },
+      {
+        "id": 10452,
+        "title": "Galerie Vivienne",
+        "googlePlaceId": "ChIJuwjIqyRu5kcRP4GCzHGeUSk"
+      },
+      {
+        "id": 15249,
+        "title": "Galerie Colbert",
+        "googlePlaceId": "ChIJ79wqUztu5kcRA23MX1W9i1I"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/71104/free-tour-of-paris-hidden-passages-galleries-03.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 294035,
+        "URL": "https://www.freetour.com/images/tours/71104/free-tour-of-paris-hidden-passages-galleries-03.jpg"
+      },
+      {
+        "id": 294034,
+        "URL": "https://www.freetour.com/images/tours/71104/free-tour-of-paris-hidden-passages-galleries-02.jpg"
+      },
+      {
+        "id": 286078,
+        "URL": "https://www.freetour.com/images/tours/71104/free-tour-of-paris-hidden-passages-galleries-01.jpg"
+      },
+      {
+        "id": 248488,
+        "URL": "https://www.freetour.com/images/tours/71104/-02.jpg"
+      },
+      {
+        "id": 248489,
+        "URL": "https://www.freetour.com/images/tours/71104/-03.jpg"
+      },
+      {
+        "id": 248492,
+        "URL": "https://www.freetour.com/images/tours/71104/-06.jpg"
+      },
+      {
+        "id": 250322,
+        "URL": "https://www.freetour.com/images/tours/71104/hidden-passages-galleries-of-paris-01.jpg"
+      },
+      {
+        "id": 250323,
+        "URL": "https://www.freetour.com/images/tours/71104/hidden-passages-galleries-of-paris-02.jpg"
+      },
+      {
+        "id": 250324,
+        "URL": "https://www.freetour.com/images/tours/71104/hidden-passages-galleries-of-paris-03.jpg"
+      },
+      {
+        "id": 250326,
+        "URL": "https://www.freetour.com/images/tours/71104/hidden-passages-galleries-of-paris-05.jpg"
+      },
+      {
+        "id": 250327,
+        "URL": "https://www.freetour.com/images/tours/71104/hidden-passages-galleries-of-paris-06.jpg"
+      },
+      {
+        "id": 248490,
+        "URL": "https://www.freetour.com/images/tours/71104/-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.97,
+    "reviewsNumber": 35
+  },
+  {
+    "id": 73658,
+    "updatedAt": "2025-12-11 00:04:34",
+    "title": {
+      "en": "Drunken Bull: Pub Crawl in Paris",
+      "es": "Toro Borracho: Pub Crawl en París",
+      "pt": "Touro bêbado: Pub Crawl em Paris",
+      "de": "Betrunkener Stier: Kneipentour in Paris",
+      "fr": "Taureau ivre : Tournée des bars à Paris",
+      "it": "Toro ubriaco: Pub Crawl a Parigi"
+    },
+    "brief": {
+      "de": "Erleben Sie mit uns eine unvergessliche Nacht in Paris! Entdecken Sie das pulsierende Nachtleben der Stadt mit Besuchen in lebhaften Bars und einem Club und genießen Sie dabei Happy-Hour-Angebote und kostenlose Shots. Lernen Sie neue Leute kennen und feiern Sie wie ein echter Pariser!",
+      "en": "Join us for an unforgettable night out in Paris! Discover the city’s vibrant nightlife with visits to lively bars and a club, and enjoy happy hour deals and free shots along the way. Meet new people and party like a true Parisian!",
+      "es": "Únase a nosotros para pasar una noche inolvidable en París Descubra la vibrante vida nocturna de la ciudad visitando animados bares y una discoteca, y disfrute de ofertas de happy hour y chupitos gratis por el camino. Conozca gente nueva y diviértase como un auténtico parisino",
+      "fr": "Rejoignez-nous pour une soirée inoubliable à Paris ! Découvrez la vie nocturne trépidante de la ville en visitant des bars animés et un club, et profitez des offres happy hour et des shots gratuits en cours de route. Rencontrez de nouvelles personnes et faites la fête comme un vrai Parisien !",
+      "it": "Unitevi a noi per una notte indimenticabile a Parigi! Scoprite la vivace vita notturna della città con visite a vivaci bar e club, e godete di offerte happy hour e shot gratuiti lungo il percorso. Incontrate nuove persone e fate festa come un vero parigino!",
+      "pt": "Junte-se a nós para uma noite inesquecível em Paris! Descubra a vibrante vida nocturna da cidade com visitas a bares animados e a uma discoteca, e desfrute de ofertas de happy hour e shots grátis pelo caminho. Conheça novas pessoas e divirta-se como um verdadeiro parisiense!"
+    },
+    "description": {
+      "de": "Treffen Sie sich mit Ihrem Reiseleiter und Ihrer Gruppe im Stadtzentrum. Kommen Sie in der ersten Bar an, stellen Sie sich den anderen Kneipengängern vor und trinken Sie einen Shot, um das Eis zu brechen. Profitieren Sie von Rabatten auf weitere Getränke. Spielen Sie ein paar Trinkspiele mit Ihren neuen Freunden oder unterhalten Sie sich einfach und lernen Sie sich gegenseitig kennen.\r\n\r\nSchlendern Sie zu 3 bis 4 weiteren Bars und erkunden Sie dabei die trendigen Viertel von Paris. Setzen Sie das Kennenlernen der Gruppe mit weiteren Spielen fort. Nach dem Besuch der dritten Bar gehen Sie in einen Nachtclub und umgehen die langen Warteschlangen mit dem Skip-the-line-Eingang. Verbringen Sie den Rest des Abends mit Tanzen und Spaß haben.\r\n\r\nHier sind unsere Top-Aktivitäten während der Tour:\r\n\r\n- Wir besuchen 3 bis 4 Bars und einen Club.\r\n- Die Shots sind beim Kauf des ersten Getränks in jeder Bar kostenlos.\r\n- In den Bars gibt es eine Happy Hour.\r\n- Freier Eintritt in den Club.",
+      "en": "Begin by meeting your guide and group in the city center. Arrive at the first bar, introduce yourself to your fellow pub crawlers, and down a shot to break the ice. Take advantage of discounts on more drinks. Play some drinking games with your new friends, or simply chat and get to know each other.\r\n\r\nStroll over to 3 to 4 other bars, exploring Paris' trendy neighborhoods as you go. Continue getting to know the group with more games. After visiting your third bar, go to a nightclub, breezing past long lines with skip-the-line entry. Spend the rest of the night dancing and having fun.\r\n\r\nHere are our top activities during the tour:\r\n\r\n- We do 3 to 4 bars, plus a club.\r\n- The shots are free with the first drink purchased in each place.\r\n- Get happy hour at the bars.\r\n- Free entrance to the club.",
+      "es": "Reúnase con su guía y su grupo en el centro de la ciudad. Llegue al primer bar, preséntese a sus compañeros y tómese un chupito para romper el hielo. Aproveche los descuentos en más bebidas. Juegue a algún juego de beber con sus nuevos amigos, o simplemente charle y conózcase.\r\n\r\nPasee por otros 3 ó 4 bares y explore los barrios de moda de París. Siga conociendo al grupo con más juegos. Después de visitar el tercer bar, vaya a una discoteca, evitando las largas colas gracias a la entrada sin colas. Pase el resto de la noche bailando y divirtiéndose.\r\n\r\nEstas son nuestras principales actividades durante la excursión:\r\n\r\n- Vamos a 3 ó 4 bares, más una discoteca.\r\n- Los chupitos son gratis con la primera bebida comprada en cada local.\r\n- Disfruta de la hora feliz en los bares.\r\n- Entrada gratuita al club.",
+      "fr": "Commencez par rencontrer votre guide et votre groupe dans le centre de la ville. Arrivez au premier bar, présentez-vous à vos compagnons de route et prenez un verre pour briser la glace. Profitez des réductions sur d'autres boissons. Jouez à des jeux d'alcool avec vos nouveaux amis ou discutez simplement pour faire connaissance.\r\n\r\nPromenez-vous dans 3 ou 4 autres bars, en explorant les quartiers branchés de Paris. Continuez à faire connaissance avec le groupe en jouant à d'autres jeux. Après avoir visité votre troisième bar, allez dans une boîte de nuit, en évitant les longues files d'attente grâce à l'entrée \"skip-the-line\". Passez le reste de la nuit à danser et à vous amuser.\r\n\r\nVoici nos activités préférées pendant la visite :\r\n\r\n- Nous visitons 3 ou 4 bars, plus une boîte de nuit.\r\n- Les shots sont gratuits avec la première boisson achetée dans chaque endroit.\r\n- L'heure de l'apéritif est offerte dans les bars.\r\n- Entrée gratuite dans le club.",
+      "it": "Iniziate incontrando la vostra guida e il vostro gruppo nel centro della città. Arrivate al primo bar, presentatevi ai vostri compagni di pub e bevete un bicchierino per rompere il ghiaccio. Approfittate degli sconti su altri drink. Fate qualche gioco di bevute con i vostri nuovi amici o semplicemente chiacchierate per conoscervi meglio.\r\n\r\nPasseggiate in altri 3 o 4 bar, esplorando i quartieri alla moda di Parigi. Continuate a conoscere il gruppo con altri giochi. Dopo aver visitato il terzo bar, andate in un locale notturno, superando le lunghe file con l'ingresso \"skip-the-line\". Trascorrete il resto della serata ballando e divertendovi.\r\n\r\nEcco le nostre attività principali durante il tour:\r\n\r\n- Facciamo 3 o 4 bar, più una discoteca.\r\n- Gli shot sono gratuiti con il primo drink acquistato in ogni locale.\r\n- Prendiamo l'happy hour nei bar.\r\n- Ingresso gratuito in discoteca.",
+      "pt": "Comece por se encontrar com o seu guia e o seu grupo no centro da cidade. Chegue ao primeiro bar, apresente-se aos seus companheiros de pub crawler e beba um shot para quebrar o gelo. Aproveite os descontos em mais bebidas. Jogue alguns jogos de bebida com os seus novos amigos, ou simplesmente converse e conheça-se melhor.\r\n\r\nPasseie por mais 3 ou 4 bares, explorando os bairros da moda de Paris à medida que avança. Continue a conhecer o grupo com mais jogos. Depois de visitar o terceiro bar, vá a um clube noturno, ultrapassando as longas filas com a entrada sem filas. Passe o resto da noite a dançar e a divertir-se.\r\n\r\nAqui estão as nossas principais actividades durante a excursão:\r\n\r\n- Vamos a 3 ou 4 bares, mais uma discoteca.\r\n- Os shots são gratuitos com a primeira bebida comprada em cada local.\r\n- Obter happy hour nos bares.\r\n- Entrada gratuita na discoteca."
+    },
+    "providerTitle": "Mori Tours ",
+    "providerPhone": "+33666049662",
+    "URL": "https://www.freetour.com/paris/drunken-bull-pub-crawl?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/paris/drunken-bull-pub-crawl?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/paris/drunken-bull-pub-crawl?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/paris/drunken-bull-pub-crawl?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/paris/drunken-bull-pub-crawl?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/paris/drunken-bull-pub-crawl?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/paris/drunken-bull-pub-crawl?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 15,
+      "currency": "EUR"
+    },
+    "length": "4:00",
+    "meetingPoint": {
+      "title": "McBrides Pub",
+      "coordinates": "48.8608391,2.3488748",
+      "googlePlaceId": "ChIJQ_QDrxhu5kcRJzNxLLEOSfU"
+    },
+    "cityId": 1417,
+    "countryId": 50,
+    "includes": [
+      "McBrides Irish Pub",
+      "Free shots",
+      "Entrance to the club",
+      "4 different venues",
+      "Drink deals"
+    ],
+    "POIs": [
+      {
+        "id": 30728,
+        "title": "McBrides Irish Pub",
+        "googlePlaceId": "ChIJtXZUyh5u5kcRnGJqrOnyif0"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/73658/drunken-bull-pub-crawl-04.jpg",
+    "categoryId": 7,
+    "images": [
+      {
+        "id": 256957,
+        "URL": "https://www.freetour.com/images/tours/73658/drunken-bull-pub-crawl-04.jpg"
+      },
+      {
+        "id": 256956,
+        "URL": "https://www.freetour.com/images/tours/73658/drunken-bull-pub-crawl-03.jpg"
+      },
+      {
+        "id": 256954,
+        "URL": "https://www.freetour.com/images/tours/73658/drunken-bull-pub-crawl-01.jpg"
+      },
+      {
+        "id": 256955,
+        "URL": "https://www.freetour.com/images/tours/73658/drunken-bull-pub-crawl-02.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 5,
+    "reviewsNumber": 8
+  },
+  {
+    "id": 86700,
+    "updatedAt": "2025-12-11 14:30:06",
+    "title": {
+      "en": "Free Tour Eiffel Tower ",
+      "es": "Free Tour Torre Eiffel ",
+      "pt": "Visita gratuita à Torre Eiffel ",
+      "de": "Kostenlose Besichtigung des Eiffelturms ",
+      "fr": "Visite gratuite de la Tour Eiffel ",
+      "it": "Tour gratuito della Torre Eiffel "
+    },
+    "brief": {
+      "de": "Erkunden Sie die berühmtesten Sehenswürdigkeiten von Paris in einer einzigen kostenlosen Tour. Spazieren Sie durch die eleganten Alleen der Belle Époque und bewundern Sie Wahrzeichen wie den majestätischen Eiffelturm, das Wahrzeichen der Stadt des Lichts.",
+      "en": "Explore the most iconic spots of Paris in a single free tour. Walk through elegant avenues of the Belle Époque and admire landmarks like the majestic Eiffel Tower, symbol of the City of Light.",
+      "es": "Explore the most iconic spots of Paris in a single free tour. Walk through elegant avenues of the Belle Époque and admire landmarks like the majestic Eiffel Tower, symbol of the City of Light.",
+      "fr": "Explorez les lieux les plus emblématiques de Paris en une seule visite gratuite. Promenez-vous dans les élégantes avenues de la Belle Époque et admirez des monuments tels que la majestueuse Tour Eiffel, symbole de la Ville Lumière.",
+      "it": "Esplorate i luoghi più iconici di Parigi in un unico tour gratuito. Passeggiate tra gli eleganti viali della Belle Époque e ammirate punti di riferimento come la maestosa Torre Eiffel, simbolo della Città della Luce.",
+      "pt": "Explore os locais mais emblemáticos de Paris numa única excursão gratuita. Passeie pelas elegantes avenidas da Belle Époque e admire marcos como a majestosa Torre Eiffel, símbolo da Cidade Luz."
+    },
+    "description": {
+      "de": "Wir treffen uns an den Stufen des Petit Palais, von wo aus wir eine Reise durch die Geschichte und Kunst von Paris beginnen. Wir werden den Grand Palais und den Petit Palais bewundern, die für die Weltausstellung von 1900 gebaut wurden. Wir überqueren die elegante Brücke Alexandre III mit ihrem goldenen Pegasus und den Skulpturen der Belle Époque, bis wir Les Invalides erreichen, den von Ludwig XIV. gegründeten Komplex, in dem Napoleon unter seiner berühmten goldenen Kuppel ruht.\r\n\r\nWeiter geht es zum Viertel Gros-Caillou, einer authentischen Ecke der Stadt, wo wir die Kirche Saint-Pierre du Gros Caillou und den malerischen Mars-Brunnen entdecken. Von den Straßen aus hat man einen einzigartigen Blick auf den Eiffelturm, der immer am Horizont zu sehen ist.\r\n\r\nDer Spaziergang geht weiter über den Champ de Mars, den großen Garten am Fuße des eisernen Riesen und Symbol für den innovativen Geist von Paris. Wir gehen am imposanten Eiffelturm entlang, überqueren die Pont d'Iéna und erreichen den Trocadéro, wo wir nach 2 Stunden und 30 Minuten mit einem der spektakulärsten Panoramablicke auf die Stadt enden.",
+      "en": "We will meet at the steps of the Petit Palais, from where we will begin a journey through the history and art of Paris. We will admire the Grand Palais and the Petit Palais, built for the Universal Exhibition of 1900. We will cross the elegant Alexander III Bridge, with its golden pegasus and sculptures of the Belle Époque, until we reach Les Invalides, a complex founded by Louis XIV and the resting place of Napoleon under its famous golden dome.\r\n\r\nWe will continue through the Gros-Caillou district, an authentic corner of the city, where we will discover the church of Saint-Pierre du Gros Caillou and the picturesque Fountain of Mars. Its streets will give us unique views of the Eiffel Tower, always present on the horizon.\r\n\r\nThe walk will continue along the Champ de Mars, the great garden at the foot of the iron giant and symbol of the innovative spirit of Paris. We will walk next to the imposing Eiffel Tower, cross the Pont d'Iéna and arrive at the Trocadéro, where we will finish after 2 hours and 30 minutes with one of the most spectacular panoramic views of the city.",
+      "es": "Nos encontraremos junto a las escaleras del Petit Palais, desde donde iniciaremos un viaje por la historia y el arte de París. Admiraremos el Grand Palais y el Petit Palais, construidos para la Exposición Universal de 1900. Cruzaremos el elegante Puente Alejandro III, con sus pegasos dorados y esculturas de la Belle Époque, hasta llegar a Les Invalides, complejo fundado por Luis XIV y lugar donde descansa Napoleón bajo su famosa cúpula dorada.\r\n\r\nContinuaremos por el barrio del Gros-Caillou, un rincón auténtico de la ciudad, donde descubriremos la iglesia de Saint-Pierre du Gros Caillou y la pintoresca Fuente de Mars. Sus calles nos regalarán vistas únicas de la Torre Eiffel, presente siempre en el horizonte.\r\n\r\nEl paseo seguirá por el Campo de Marte, el gran jardín a los pies del gigante de hierro y símbolo del espíritu innovador de París. Caminaremos junto a la imponente Torre Eiffel, cruzaremos el Puente de Iéna y llegaremos al Trocadéro, donde terminaremos tras 2 horas y 30 minutos con una de las panorámicas más espectaculares de la ciudad.",
+      "fr": "Nous nous retrouverons sur les marches du Petit Palais, d'où nous commencerons un voyage à travers l'histoire et l'art de Paris. Nous admirerons le Grand Palais et le Petit Palais, construits pour l'Exposition universelle de 1900. Nous traverserons l'élégant pont Alexandre III, avec son pégase doré et ses sculptures de la Belle Époque, jusqu'aux Invalides, le complexe fondé par Louis XIV et le lieu de repos de Napoléon sous son célèbre dôme doré.\r\n\r\nNous continuerons vers le quartier du Gros-Caillou, un coin authentique de la ville, où nous découvrirons l'église Saint-Pierre du Gros-Caillou et la pittoresque fontaine de Mars. Ses rues offrent des vues uniques sur la Tour Eiffel, toujours présente à l'horizon.\r\n\r\nLa promenade se poursuivra sur le Champ de Mars, le grand jardin au pied du géant de fer et symbole de l'esprit novateur de Paris. Nous longerons l'imposante Tour Eiffel, traverserons le Pont d'Iéna et arriverons au Trocadéro, où nous terminerons après 2 heures et 30 minutes avec l'une des vues panoramiques les plus spectaculaires de la ville.",
+      "it": "Ci incontreremo alla scalinata del Petit Palais, da dove inizieremo un viaggio attraverso la storia e l'arte di Parigi. Ammireremo il Grand Palais e il Petit Palais, costruiti per l'Esposizione Universale del 1900. Attraverseremo l'elegante Ponte Alexandre III, con il suo pegaso dorato e le sculture della Belle Époque, fino a raggiungere Les Invalides, il complesso fondato da Luigi XIV e luogo di riposo di Napoleone sotto la sua famosa cupola dorata.\r\n\r\nProseguiremo verso il quartiere Gros-Caillou, un angolo autentico della città, dove scopriremo la chiesa di Saint-Pierre du Gros Caillou e la pittoresca Fontana di Marte. Le sue strade offrono una vista unica sulla Torre Eiffel, sempre presente all'orizzonte.\r\n\r\nLa passeggiata proseguirà lungo il Campo di Marte, il grande giardino ai piedi del gigante di ferro e simbolo dello spirito innovativo di Parigi. Cammineremo accanto all'imponente Torre Eiffel, attraverseremo il Pont d'Iéna e arriveremo al Trocadéro, dove termineremo dopo 2 ore e 30 minuti con una delle viste panoramiche più spettacolari della città.",
+      "pt": "Encontrar-nos-emos na escadaria do Petit Palais, de onde iniciaremos uma viagem pela história e pela arte de Paris. Admiraremos o Grand Palais e o Petit Palais, construídos para a Exposição Universal de 1900. Atravessaremos a elegante Ponte Alexandre III, com o seu pégaso dourado e esculturas da Belle Époque, até chegarmos a Les Invalides, o complexo fundado por Luís XIV e local de repouso de Napoleão sob a sua famosa cúpula dourada.\r\n\r\nContinuaremos até ao bairro de Gros-Caillou, um autêntico recanto da cidade, onde descobriremos a igreja de Saint-Pierre du Gros Caillou e a pitoresca Fonte de Marte. As suas ruas oferecem vistas únicas da Torre Eiffel, sempre presente no horizonte.\r\n\r\nO passeio continuará ao longo do Champ de Mars, o grande jardim ao pé do gigante de ferro e símbolo do espírito inovador de Paris. Caminharemos ao lado da imponente Torre Eiffel, atravessaremos a Pont d'Iéna e chegaremos ao Trocadéro, onde terminaremos após 2 horas e 30 minutos com uma das mais espectaculares vistas panorâmicas da cidade."
+    },
+    "providerTitle": "Paseando por Europa S.L",
+    "providerPhone": "+34621027592",
+    "URL": "https://www.freetour.com/paris/free-tour-eiffel-tower-in-paris?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/paris/free-tour-eiffel-tower-in-paris?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/paris/free-tour-eiffel-tower-in-paris?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/paris/free-tour-eiffel-tower-in-paris?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/paris/free-tour-eiffel-tower-in-paris?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/paris/free-tour-eiffel-tower-in-paris?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/paris/free-tour-eiffel-tower-in-paris?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Junto a las escaleras del Petit Palais, en la Avenida Winston Churchill.",
+      "coordinates": "48.86604010981443,2.3141922373873802",
+      "googlePlaceId": "ChIJc8zx1tpv5kcR4XnN_LMREjQ"
+    },
+    "cityId": 1417,
+    "countryId": 50,
+    "includes": [
+      "Grand Palais",
+      "Rue Cler",
+      "Champ de Mars",
+      "Eiffel Tower",
+      "Trocadéro Gardens",
+      "Petit Palais",
+      "Pont Alexandre III",
+      "Les Invalides",
+      "Pont d'Iéna",
+      "Guía oficial en español",
+      "Free tour a pie"
+    ],
+    "POIs": [
+      {
+        "id": 488,
+        "title": "Grand Palais",
+        "googlePlaceId": "ChIJ0dzuSNBv5kcRa6BHUVdFm0k"
+      },
+      {
+        "id": 34929,
+        "title": "Rue Cler",
+        "googlePlaceId": "ChIJ4fgNTQBv5kcROH8eqyBz0pE"
+      },
+      {
+        "id": 2708,
+        "title": "Champ de Mars",
+        "googlePlaceId": "ChIJB0gcnCBw5kcRHoIAPcTEApc"
+      },
+      {
+        "id": 6825,
+        "title": "Eiffel Tower",
+        "googlePlaceId": "ChIJLU7jZClu5kcR4PcOOO6p3I0"
+      },
+      {
+        "id": 8104,
+        "title": "Trocadéro Gardens",
+        "googlePlaceId": "ChIJoxY3R-Nv5kcRWsRDGBoNIOk"
+      },
+      {
+        "id": 9650,
+        "title": "Petit Palais",
+        "googlePlaceId": "ChIJSUOPztFv5kcRnEbSPYG-9fM"
+      },
+      {
+        "id": 10359,
+        "title": "Pont Alexandre III",
+        "googlePlaceId": "ChIJufChV9Bv5kcRT02XBr8yAOs"
+      },
+      {
+        "id": 10528,
+        "title": "Les Invalides",
+        "googlePlaceId": "ChIJUzCPuddv5kcRasGAnEUUWkU"
+      },
+      {
+        "id": 10985,
+        "title": "Pont d'Iéna",
+        "googlePlaceId": "ChIJW_ZDreNv5kcRrPft1wAszOY"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86700/-05.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 298948,
+        "URL": "https://www.freetour.com/images/tours/86700/-05.jpg"
+      },
+      {
+        "id": 298950,
+        "URL": "https://www.freetour.com/images/tours/86700/-07.jpg"
+      },
+      {
+        "id": 298947,
+        "URL": "https://www.freetour.com/images/tours/86700/-04.jpg"
+      },
+      {
+        "id": 298944,
+        "URL": "https://www.freetour.com/images/tours/86700/-01.jpg"
+      },
+      {
+        "id": 298946,
+        "URL": "https://www.freetour.com/images/tours/86700/-03.jpg"
+      },
+      {
+        "id": 298949,
+        "URL": "https://www.freetour.com/images/tours/86700/-06.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 86701,
+    "updatedAt": "2025-12-11 14:30:06",
+    "title": {
+      "en": "Free Tour Arc de Triomphe",
+      "es": "Free Tour Arco del Triunfo",
+      "pt": "Visita gratuita ao Arco do Triunfo",
+      "de": "Kostenlose Besichtigung des Arc de Triomphe",
+      "fr": "Visite libre de l'Arc de Triomphe",
+      "it": "Tour gratuito dell'Arco di Trionfo"
+    },
+    "brief": {
+      "de": "Hier ist eine Version mit weniger als 250 Zeichen:\r\n\r\nSpazieren Sie auf den Spuren von Kaisern, Künstlern und aristokratischen Persönlichkeiten durch das vornehme Paris. Ein einzigartiger Spaziergang, der Eleganz, Geschichte und Glamour offenbart und vor dem ikonischen Arc de Triomphe gipfelt.",
+      "en": "Here's a version under 250 characters:\r\n\r\nWalk through the most refined Paris following in the footsteps of emperors, artists and aristocratic figures. A unique walk that reveals elegance, history and glamour, culminating in front of the iconic Arc de Triomphe.",
+      "es": "Here’s a version under 250 characters:\r\n\r\nRecorre el París más refinado siguiendo las huellas de emperadores, artistas y figuras aristocráticas. Un paseo único que revela elegancia, historia y glamur, culminando frente al emblemático Arco del Triunfo.",
+      "fr": "Voici une version de moins de 250 caractères :\r\n\r\nMarchez dans le Paris le plus raffiné sur les traces des empereurs, des artistes et des personnalités aristocratiques. Une promenade unique qui révèle l'élégance, l'histoire et le glamour, avec pour point d'orgue l'emblématique Arc de Triomphe.",
+      "it": "Ecco una versione inferiore ai 250 caratteri:\r\n\r\nPasseggiate nella Parigi più raffinata sulle orme di imperatori, artisti e personaggi aristocratici. Una passeggiata unica che rivela eleganza, storia e glamour e che culmina davanti all'iconico Arco di Trionfo.",
+      "pt": "Aqui está uma versão com menos de 250 caracteres:\r\n\r\nPercorra a Paris mais requintada seguindo os passos de imperadores, artistas e figuras aristocráticas. Um passeio único que revela elegância, história e glamour, culminando em frente ao icónico Arco do Triunfo."
+    },
+    "description": {
+      "de": "Eine Tour durch Paris bedeutet, in die Geschichte, die Kunst und die Eleganz einzutauchen, und nur wenige Orte spiegeln dies besser wider als die Gegend um den Arc de Triomphe. Auf dieser kostenlosen Tour werden wir ein Paris entdecken, in dem Haute Couture, bedeutende Denkmäler, europäische Königshäuser und mythische Kabaretts nebeneinander existieren.\r\n\r\nWir beginnen auf den Champs Elysées, einem einstigen Sumpfgebiet, das heute eine der prestigeträchtigsten Prachtstraßen der Welt ist. Hier sehen wir das Maison Louis Vuitton und den Werdegang seines Gründers. Weiter geht es zum Hotel Prince de Galles, das mit der britischen Königsfamilie verbunden ist, und zum berühmten Kabarett Crazy Horse, das mit dem Moulin Rouge konkurriert und für seinen raffinierten Stil bekannt ist.\r\n\r\nWeiter geht es zur Alma-Brücke, die an den Unfall erinnert, bei dem Lady Di ums Leben kam, und zur Flamme der Freiheit, die eine spontane Hommage an die Prinzessin darstellt. Anschließend besuchen wir das Museum Yves Saint Laurent und schlendern die Avenue Marceau entlang, wo die Kirche Saint Pierre de Chaillot und die Galerie Bourbon stehen.\r\n\r\nDie Tour endet unter dem Triumphbogen, der von Napoleon zur Feier seiner Siege errichtet wurde. Wir entschlüsseln die Bedeutung seiner Skulpturen und die Geschichte des Grabes des Unbekannten Soldaten, dessen ewige Flamme jeden Tag erneuert wird.",
+      "en": "To travel through Paris is to delve into history, art and elegance, and few places reflect this better than the surroundings of the Arc de Triomphe. In this free tour we will discover a Paris where haute couture, key monuments, European royalty and mythical cabarets coexist.\r\n\r\nWe will start in the Champs Elysées, once a marshy area and today one of the most prestigious avenues in the world. Here we will visit the Maison Louis Vuitton and the trajectory of its founder. We will continue to the Prince de Galles Hotel, linked to the British royal family, and the famous cabaret Crazy Horse, rival of the Moulin Rouge and famous for its refined style.\r\n\r\nWe will continue to the Alma Bridge, remembered for the accident that killed Lady Di, and we will see the Flame of Liberty, a spontaneous tribute to the princess. Then we will visit the Yves Saint Laurent Museum and stroll along the Avenue Marceau, where stand the church of Saint Pierre de Chaillot and the Galerie Bourbon.\r\n\r\nThe tour ends under the Arc de Triomphe, erected by Napoleon to celebrate his victories. We will decipher the meaning of its sculptures and the history of the Tomb of the Unknown Soldier, whose eternal flame is renewed every day.",
+      "es": "Recorrer París es adentrarse en historia, arte y elegancia, y pocos lugares lo reflejan mejor que el entorno del Arco del Triunfo. En este free tour descubriremos un París donde conviven la alta costura, monumentos clave, la realeza europea y cabarets míticos.\r\n\r\nComenzaremos en los Campos Elíseos, antaño zona pantanosa y hoy una de las avenidas más prestigiosas del mundo. Aquí conoceremos la Maison Louis Vuitton y la trayectoria de su fundador. Seguiremos hacia el Hotel Prince de Galles, ligado a la familia real británica, y al célebre cabaret Crazy Horse, rival del Moulin Rouge y famoso por su estilo refinado.\r\n\r\nContinuaremos hasta el Puente del Alma, recordado por el accidente que acabó con la vida de Lady Di, y veremos la Llama de la Libertad, convertida en homenaje espontáneo a la princesa. Después visitaremos el Museo Yves Saint Laurent y pasearemos por la Avenida Marceau, donde se alzan la iglesia de Saint Pierre de Chaillot y la Galerie Bourbon.\r\n\r\nEl recorrido culmina bajo el Arco del Triunfo, erigido por Napoleón para celebrar sus victorias. Descifraremos el significado de sus esculturas y la historia de la Tumba del Soldado Desconocido, cuya llama eterna se renueva cada día.",
+      "fr": "Visiter Paris, c'est plonger dans l'histoire, l'art et l'élégance, et peu d'endroits le reflètent mieux qu'autour de l'Arc de Triomphe. Au cours de cette visite gratuite, nous découvrirons un Paris où se côtoient haute couture, monuments incontournables, royauté européenne et cabarets mythiques.\r\n\r\nNous commencerons par les Champs-Élysées, autrefois marécageux et aujourd'hui l'une des avenues les plus prestigieuses du monde. Nous y verrons la Maison Louis Vuitton et la carrière de son fondateur. Nous continuerons vers l'hôtel Prince de Galles, lié à la famille royale britannique, et le célèbre cabaret Crazy Horse, rival du Moulin Rouge et célèbre pour son style raffiné.\r\n\r\nNous continuerons vers le pont de l'Alma, dont on se souvient de l'accident qui a coûté la vie à Lady Di, et nous verrons la Flamme de la Liberté, un hommage spontané à la princesse. Nous visiterons ensuite le musée Yves Saint Laurent et flânerons sur l'avenue Marceau, où se trouvent l'église Saint Pierre de Chaillot et la Galerie Bourbon.\r\n\r\nLa visite se termine sous l'Arc de Triomphe, érigé par Napoléon pour célébrer ses victoires. Nous décrypterons la signification de ses sculptures et l'histoire de la tombe du Soldat inconnu, dont la flamme éternelle est renouvelée chaque jour.",
+      "it": "Visitare Parigi significa immergersi nella storia, nell'arte e nell'eleganza, e pochi luoghi riflettono questo aspetto meglio dell'Arco di Trionfo. In questo tour gratuito scopriremo una Parigi in cui convivono l'alta moda, i monumenti più importanti, i reali europei e i mitici cabaret.\r\n\r\nInizieremo dagli Champs Elysées, un tempo zona paludosa e oggi uno dei viali più prestigiosi del mondo. Qui vedremo la Maison Louis Vuitton e la carriera del suo fondatore. Proseguiremo verso l'Hotel Prince de Galles, legato alla famiglia reale britannica, e il famoso cabaret Crazy Horse, rivale del Moulin Rouge e famoso per il suo stile raffinato.\r\n\r\nProseguiremo verso il Ponte dell'Alma, ricordato per l'incidente che uccise Lady Di, e vedremo la Fiamma della Libertà, un omaggio spontaneo alla principessa. Visiteremo poi il Museo Yves Saint Laurent e passeggeremo lungo l'Avenue Marceau, dove si trovano la chiesa di Saint Pierre de Chaillot e la Galerie Bourbon.\r\n\r\nIl tour si conclude sotto l'Arco di Trionfo, eretto da Napoleone per celebrare le sue vittorie. Decifreremo il significato delle sue sculture e la storia della Tomba del Milite Ignoto, la cui fiamma eterna si rinnova ogni giorno.",
+      "pt": "Passear por Paris é mergulhar na história, na arte e na elegância, e poucos lugares reflectem isto melhor do que à volta do Arco do Triunfo. Nesta visita gratuita, descobriremos uma Paris onde coexistem a alta costura, os monumentos mais importantes, a realeza europeia e os cabarés míticos.\r\n\r\nComeçaremos nos Campos Elísios, outrora uma zona pantanosa e atualmente uma das avenidas mais prestigiadas do mundo. Aqui veremos a Maison Louis Vuitton e a carreira do seu fundador. Continuaremos para o Hotel Prince de Galles, ligado à família real britânica, e para o famoso cabaré Crazy Horse, rival do Moulin Rouge e famoso pelo seu estilo refinado.\r\n\r\nContinuamos até à Ponte Alma, recordada pelo acidente que matou Lady Di, e vemos a Chama da Liberdade, uma homenagem espontânea à princesa. Em seguida, visitaremos o Museu Yves Saint Laurent e passearemos pela Avenue Marceau, onde se encontram a igreja de Saint Pierre de Chaillot e a Galerie Bourbon.\r\n\r\nA visita termina sob o Arco do Triunfo, erigido por Napoleão para celebrar as suas vitórias. Decifraremos o significado das suas esculturas e a história do Túmulo do Soldado Desconhecido, cuja chama eterna se renova todos os dias."
+    },
+    "providerTitle": "Paseando por Europa S.L",
+    "providerPhone": "+34621027592",
+    "URL": "https://www.freetour.com/paris/free-tour-arc-de-triomphe-in-paris?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/paris/free-tour-arc-de-triomphe-in-paris?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/paris/free-tour-arc-de-triomphe-in-paris?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/paris/free-tour-arc-de-triomphe-in-paris?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/paris/free-tour-arc-de-triomphe-in-paris?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/paris/free-tour-arc-de-triomphe-in-paris?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/paris/free-tour-arc-de-triomphe-in-paris?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Frente a la Louis Vuitton Maison de Campos Elíseos, junto a la salida de metro George V.",
+      "coordinates": "48.87173628543711,2.3005804482602565",
+      "googlePlaceId": "ChIJzbddL8Jv5kcRSxvM72EgJ90"
+    },
+    "cityId": 1417,
+    "countryId": 50,
+    "includes": [
+      "La Galerie Bourbon",
+      "Louis Vuitton",
+      "Pont de l'Alma",
+      "Arc de Triomphe",
+      "Musée Yves Saint Laurent",
+      "Prince de Galles, a Luxury Collection Hotel, Paris",
+      "Flame of Liberty",
+      "Crazy Horse Paris",
+      "Saint Pierre de Chaillot Catholic Church",
+      "Guía oficial en español",
+      "Free tour a pie"
+    ],
+    "POIs": [
+      {
+        "id": 34931,
+        "title": "La Galerie Bourbon",
+        "googlePlaceId": "ChIJ_4vyXOlv5kcR91SpdaC2LoA"
+      },
+      {
+        "id": 4039,
+        "title": "Louis Vuitton",
+        "googlePlaceId": "ChIJEQErpdxv5kcRagyvD2Mqpf0"
+      },
+      {
+        "id": 4836,
+        "title": "Pont de l'Alma",
+        "googlePlaceId": "ChIJgRQPv91v5kcRK17A41jUT6o"
+      },
+      {
+        "id": 6093,
+        "title": "Arc de Triomphe",
+        "googlePlaceId": "ChIJjx37cOxv5kcRPWQuEW5ntdk"
+      },
+      {
+        "id": 6179,
+        "title": "Musée Yves Saint Laurent",
+        "googlePlaceId": "ChIJk_iTk-dv5kcRzO3YkFQL2cg"
+      },
+      {
+        "id": 6921,
+        "title": "Prince de Galles, a Luxury Collection Hotel, Paris",
+        "googlePlaceId": "ChIJlYY5g8Jv5kcRVoYjIDFpq7w"
+      },
+      {
+        "id": 8939,
+        "title": "Flame of Liberty",
+        "googlePlaceId": "ChIJqyQphd1v5kcRVfvCNyBjPdc"
+      },
+      {
+        "id": 34930,
+        "title": "Crazy Horse Paris",
+        "googlePlaceId": "ChIJR-gUQN1v5kcRD2CrR0acr4c"
+      },
+      {
+        "id": 12073,
+        "title": "Saint Pierre de Chaillot Catholic Church",
+        "googlePlaceId": "ChIJyXuNDOhv5kcRqmmb1TDfR1k"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/86701/-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 298952,
+        "URL": "https://www.freetour.com/images/tours/86701/-02.jpg"
+      },
+      {
+        "id": 298958,
+        "URL": "https://www.freetour.com/images/tours/86701/-08.jpg"
+      },
+      {
+        "id": 298951,
+        "URL": "https://www.freetour.com/images/tours/86701/-01.jpg"
+      },
+      {
+        "id": 298953,
+        "URL": "https://www.freetour.com/images/tours/86701/-03.jpg"
+      },
+      {
+        "id": 298954,
+        "URL": "https://www.freetour.com/images/tours/86701/-04.jpg"
+      },
+      {
+        "id": 298955,
+        "URL": "https://www.freetour.com/images/tours/86701/-05.jpg"
       }
     ],
     "videoURL": null,

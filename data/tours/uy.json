@@ -1,7 +1,7 @@
 [
   {
     "id": 1452,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour Ciudad Vieja de Montevideo",
       "es": "Free Tour Ciudad Vieja de Montevideo",
@@ -163,11 +163,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 815
+    "reviewsNumber": 820
   },
   {
     "id": 6585,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Montevideo Shopping Tour",
       "es": "Montevideo Shopping Tour",
@@ -256,7 +256,7 @@
   },
   {
     "id": 7133,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Montevideo Private Tour",
       "es": "Montevideo Tour Privado",
@@ -359,7 +359,7 @@
   },
   {
     "id": 34507,
-    "updatedAt": "2025-12-01 18:00:14",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "We Walk Free Tour Punta del Este",
       "es": "Caminamos Gratis Tour Punta del Este ",
@@ -527,12 +527,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.82,
-    "reviewsNumber": 67
+    "rating": 4.83,
+    "reviewsNumber": 69
   },
   {
     "id": 43384,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Montevideo: Historical & Diverse Free Tour",
       "es": "Montevideo: Histórico y Diverso Free Tour",
@@ -742,7 +742,7 @@
   },
   {
     "id": 45377,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Free Tour - Historical Fray Bentos",
       "es": "Free Tour - Fray Bentos Historico",
@@ -833,7 +833,7 @@
   },
   {
     "id": 58833,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Historic District of Colonia Del Sacramento",
       "es": "Tour por el Barrio Histórico de Colonia Del Sacramento",
@@ -923,7 +923,7 @@
   },
   {
     "id": 65195,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "La Paloma: Uruguay Surf and Nature",
       "es": "La Paloma: Uruguay Surf y Naturaleza",
@@ -1022,7 +1022,7 @@
   },
   {
     "id": 83469,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Montevideo: History, Sand and Beach",
       "es": "Montevideo: Historia, Arena y Playa",

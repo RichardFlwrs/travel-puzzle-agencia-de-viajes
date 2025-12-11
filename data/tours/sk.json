@@ -1,7 +1,7 @@
 [
   {
     "id": 1018,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour on Boat to Devin Castle",
       "es": "Excursión en barco al castillo de Devin",
@@ -103,7 +103,7 @@
   },
   {
     "id": 1020,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Honey Wine Evening",
       "es": "Tarde de vino con miel",
@@ -197,7 +197,7 @@
   },
   {
     "id": 1021,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Soviet Pub Crawl",
       "es": "Pub soviético",
@@ -294,7 +294,7 @@
   },
   {
     "id": 1022,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Traditional Tour of Bratislava",
       "es": "Visita tradicional de Bratislava",
@@ -387,7 +387,7 @@
   },
   {
     "id": 1023,
-    "updatedAt": "2025-12-01 01:00:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wine Tasting in Bratislava",
       "es": "Cata de vinos en Bratislava",
@@ -475,7 +475,7 @@
   },
   {
     "id": 1025,
-    "updatedAt": "2025-12-01 01:00:57",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bratislava City Tour: Where the Hell is Bratislava?",
       "es": "Visita a Bratislava: ¿Dónde diablos está Bratislava?",
@@ -583,7 +583,7 @@
   },
   {
     "id": 1936,
-    "updatedAt": "2025-12-01 15:27:51",
+    "updatedAt": "2025-12-11 13:14:20",
     "title": {
       "en": "Bratislava Free City & Castle Tour: History, Food, Culture",
       "es": "Bratislava Free City &amp; Castle Tour: Historia, gastronomía y cultura",
@@ -689,11 +689,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 1503
+    "reviewsNumber": 1510
   },
   {
     "id": 4720,
-    "updatedAt": "2025-12-01 12:24:46",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Bratislava Free Tour: World War 2 and Communism",
       "es": "Bratislava Free Tour: Segunda Guerra Mundial y Comunismo",
@@ -792,12 +792,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.85,
-    "reviewsNumber": 236
+    "rating": 4.83,
+    "reviewsNumber": 237
   },
   {
     "id": 4778,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Spooky Legends of Bratislava Free Tour",
       "es": "Spooky Legends of Bratislava Free Tour",
@@ -873,7 +873,7 @@
   },
   {
     "id": 24804,
-    "updatedAt": "2025-12-01 18:56:24",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Bratislava with tasting of typical drinks",
       "es": "Free Tour imprescindible Bratislava con Degustación de bebida típica",
@@ -1018,11 +1018,11 @@
     ],
     "videoURL": null,
     "rating": 4.8,
-    "reviewsNumber": 356
+    "reviewsNumber": 360
   },
   {
     "id": 24837,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Bratislava Official and complete Free tour",
       "es": "Bratislava Oficial y al completo Free tour",
@@ -1146,11 +1146,11 @@
     ],
     "videoURL": null,
     "rating": 4.89,
-    "reviewsNumber": 291
+    "reviewsNumber": 292
   },
   {
     "id": 31683,
-    "updatedAt": "2025-12-01 15:59:03",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "Free Tour Bratislava Historic Center & Castle with Bonus",
       "es": "Visita gratuita al centro histórico y castillo de Bratislava con bonificación",
@@ -1260,7 +1260,7 @@
   },
   {
     "id": 33499,
-    "updatedAt": "2025-12-01 16:11:04",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "Bratislava Tour by Night with Traditional Beers & Drinks",
       "es": "Bratislava de Noche con Cerveza y Bebidas Tradicionales",
@@ -1350,7 +1350,7 @@
   },
   {
     "id": 36050,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Old Town & Blue Church Free Tour of Bratislava",
       "es": "Visita gratuita del casco antiguo y la Iglesia Azul de Bratislava",
@@ -1452,7 +1452,7 @@
   },
   {
     "id": 40337,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Bratislava City & Castle Free Tour: Essential Introduction",
       "es": "Visita gratuita de la ciudad y el castillo de Bratislava: Introducción esencial",
@@ -1593,11 +1593,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 107
+    "reviewsNumber": 108
   },
   {
     "id": 42929,
-    "updatedAt": "2025-12-01 20:36:23",
+    "updatedAt": "2025-12-11 14:22:47",
     "title": {
       "en": "Free Tour Old Town and Castle of Bratislava with locals",
       "es": "Free Tour Casco Antiguo y Castillo de Bratislava con locales",
@@ -1725,11 +1725,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 326
+    "reviewsNumber": 332
   },
   {
     "id": 47663,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Majolica Manufactory Tour in Modra",
       "es": "Visita a la fábrica de mayólica de Modra",
@@ -1831,7 +1831,7 @@
   },
   {
     "id": 47664,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wine Safari Tour in Bratislava",
       "es": "Safari del vino en Bratislava",
@@ -1923,7 +1923,7 @@
   },
   {
     "id": 47690,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Beer Factory with Tasting",
       "es": "Visita a la fábrica de cerveza con degustación",
@@ -2016,7 +2016,7 @@
   },
   {
     "id": 47694,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Castle, Cave & Classy Honey Wine Tasting",
       "es": "Castillo, cueva y cata de vinos con miel de abeja",
@@ -2109,7 +2109,7 @@
   },
   {
     "id": 47697,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Slovakia & Holocaust Tour",
       "es": "Eslovaquia y el Holocausto",
@@ -2210,7 +2210,7 @@
   },
   {
     "id": 47698,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Traditional Slovak Feast",
       "es": "Fiesta tradicional eslovaca",
@@ -2300,7 +2300,7 @@
   },
   {
     "id": 47705,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rafting from Hainburg to Bratislava",
       "es": "Rafting de Hainburg a Bratislava",
@@ -2380,7 +2380,7 @@
   },
   {
     "id": 47706,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Treasures of the Bratislava Region",
       "es": "Los tesoros de la región de Bratislava",
@@ -2482,7 +2482,7 @@
   },
   {
     "id": 47709,
-    "updatedAt": "2025-12-01 15:15:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Christmas Market Food Tour",
       "es": "Ruta gastronómica por el mercado de Navidad",
@@ -2571,7 +2571,7 @@
   },
   {
     "id": 47740,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bratislava Danube River Evening Cruise with Dinner",
       "es": "Bratislava Crucero nocturno por el Danubio con cena",
@@ -2665,7 +2665,7 @@
   },
   {
     "id": 48222,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Unknown Legends of Bratislava",
       "es": "Free Tour Leyendas Desconocidas de Bratislava",
@@ -2787,7 +2787,7 @@
   },
   {
     "id": 60087,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Complete Free Walking Tour in Bratislava",
       "es": "Visita Completa y Gratuita a pie por Bratislava",
@@ -2914,7 +2914,7 @@
   },
   {
     "id": 61717,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Walking Tour of the Historical City Centre",
       "es": "Visita Gratuita a Pie por el Centro Histórico de la Ciudad",
@@ -3022,7 +3022,7 @@
   },
   {
     "id": 61718,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Most Interesting Legends of Kosice",
       "es": "Las Leyendas más Interesantes de Kosice",
@@ -3114,7 +3114,7 @@
   },
   {
     "id": 68668,
-    "updatedAt": "2025-12-01 16:11:04",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "Mysteries of Slovakia: A Spooky Bratislava Walk",
       "es": "Misterios de Eslovaquia: Un Espeluznante Paseo por Bratislava",
@@ -3189,12 +3189,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.57,
-    "reviewsNumber": 6
+    "rating": 4.2,
+    "reviewsNumber": 7
   },
   {
     "id": 68669,
-    "updatedAt": "2025-12-01 15:29:11",
+    "updatedAt": "2025-12-11 10:26:05",
     "title": {
       "en": "Central Castle Bratislava Free Tour",
       "es": "Visita gratuita al Castillo Central de Bratislava",

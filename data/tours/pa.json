@@ -1,7 +1,7 @@
 [
   {
     "id": 4334,
-    "updatedAt": "2025-12-01 01:02:23",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour of San Blas Islands",
       "es": "Excursión de un día a las Islas San Blas",
@@ -101,7 +101,7 @@
   },
   {
     "id": 6978,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "San Blas Islands Day Trip",
       "es": "Excursión de un Día a las Islas de San Blas",
@@ -179,7 +179,7 @@
   },
   {
     "id": 7320,
-    "updatedAt": "2025-12-01 01:03:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Panama Two Ancient Cities Tour",
       "es": "Tour de Dos Ciudades Antiguas de Panamá",
@@ -273,7 +273,7 @@
   },
   {
     "id": 30914,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip: Adventures Embera Drua",
       "es": "Tour de un Día: Aventuras Emberá Drua",
@@ -397,7 +397,7 @@
   },
   {
     "id": 31728,
-    "updatedAt": "2025-12-01 13:53:02",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Panama's Old Town Free Tour",
       "es": "Visita gratuita al Casco Antiguo de Panamá",
@@ -528,12 +528,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.88,
-    "reviewsNumber": 154
+    "rating": 4.87,
+    "reviewsNumber": 156
   },
   {
     "id": 36403,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour and Panama Canal",
       "es": "Visita de la ciudad y Canal de Panamá",
@@ -668,7 +668,7 @@
   },
   {
     "id": 40318,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Walking Tour of Panama City",
       "es": "Recorrido a pie por la Ciudad de Panamá",
@@ -773,12 +773,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.34,
-    "reviewsNumber": 7
+    "rating": 4.42,
+    "reviewsNumber": 8
   },
   {
     "id": 40357,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Bike Tour in Panama City & Old Town",
       "es": "Recorrido en bicicleta por la Ciudad de Panamá y el Casco Antiguo",
@@ -923,12 +923,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.85,
-    "reviewsNumber": 60
+    "rating": 4.84,
+    "reviewsNumber": 65
   },
   {
     "id": 42214,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour & Monkeys Island",
       "es": "Visita de la Ciudad e Isla de los Monos",
@@ -1019,7 +1019,7 @@
   },
   {
     "id": 52413,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enjoy the Beauties of the Caribbean Sea",
       "es": "Disfruta de las Bellezas del Mar Caribe",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 58082,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Panama City Tour - Present & Past Fusion",
       "es": "Panamá City Tour - Fusión Presente y Pasado",
@@ -1206,7 +1206,7 @@
   },
   {
     "id": 58181,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour Through Penonomé",
       "es": "Free Walking Tour A través de Penonomé",
@@ -1304,14 +1304,14 @@
   },
   {
     "id": 63824,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 08:38:01",
     "title": {
-      "en": "Birdwatching and History at the Colonial District",
-      "es": "Observación de aves e historia en el Distrito Colonial",
-      "pt": "Observação de aves e história no Distrito Colonial",
-      "de": "Vogelbeobachtung und Geschichte im Kolonialviertel",
-      "fr": "Observation des oiseaux et histoire au Colonial District",
-      "it": "Birdwatching e storia al Colonial District"
+      "en": "Birdwatching at the Colonial District",
+      "es": "Observación de aves en el Distrito Colonial",
+      "pt": "Observação de aves no Bairro Colonial",
+      "de": "Vogelbeobachtung im Kolonialviertel",
+      "fr": "Observation des oiseaux dans le quartier colonial",
+      "it": "Birdwatching al Colonial District"
     },
     "brief": {
       "de": "Erleben Sie mit uns eine Nacht voller Geschichte und Spaß in Panamas pulsierendem Casco Antiguo! Entdecken Sie das reiche Erbe und das lebhafte Nachtleben des Viertels mit einem lokalen Führer. Erkunden Sie die historischen Straßen und spüren Sie die Energie dieser UNESCO-Weltkulturerbestätte!",
@@ -1535,7 +1535,7 @@
   },
   {
     "id": 66102,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Night Tour of Bars and Theaters of Panama's Yesteryear",
       "es": "Free Tour Nocturno de Bares y Teatros del Ayer de Panamá",
@@ -1615,12 +1615,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.6,
-    "reviewsNumber": 31
+    "rating": 4.61,
+    "reviewsNumber": 32
   },
   {
     "id": 66140,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Discover the Hidden History in the Necropolis",
       "es": "Descubre la Historia Oculta en la Necrópolis",
@@ -1715,7 +1715,7 @@
   },
   {
     "id": 66631,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Embera Village Experience",
       "es": "Descubra la Experiencia del Pueblo Embera",
@@ -1788,7 +1788,7 @@
   },
   {
     "id": 68155,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Amaizing experience in my childhood neighborhood Panamá",
       "es": "Una experiencia asombrosa en el barrio de mi infancia, Panamá",
@@ -1909,7 +1909,7 @@
   },
   {
     "id": 68558,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Eco-tour to Cerro Ancon: An Ecological and Feminist Journey",
       "es": "Eco-tour al Cerro Ancón: Un Viaje Ecológico y Feminista",
@@ -1996,7 +1996,7 @@
   },
   {
     "id": 68650,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "History and Flavors of El Chorrillo Free Tour",
       "es": "Historia y Sabores de El Chorrillo Free Tour",
@@ -2085,7 +2085,7 @@
   },
   {
     "id": 68855,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Panamá City Heritage Walking Tour",
       "es": "Recorrido a pie por el Patrimonio de la Ciudad de Panamá",
@@ -2175,7 +2175,7 @@
   },
   {
     "id": 72436,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Through Modern Panama City",
       "es": "Recorrido por la moderna Ciudad de Panamá",
@@ -2290,7 +2290,7 @@
   },
   {
     "id": 76300,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Choco Geisha Panama Tour",
       "es": "Choco Geisha Panamá Tour",
@@ -2368,7 +2368,7 @@
   },
   {
     "id": 81296,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 14:18:03",
     "title": {
       "en": "Free Tour of the Old Town of Panama: Colonial Tour",
       "es": "Free Tour por el Casco Antiguo de Panama: Recorrido Colonial",
@@ -2546,12 +2546,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.71,
-    "reviewsNumber": 26
+    "rating": 4.75,
+    "reviewsNumber": 32
   },
   {
     "id": 81363,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Old Town of Panama Under the Stars: Night Tour",
       "es": "Casco Antiguo de Panamá Bajo las Estrellas: Visita nocturna",
@@ -2668,12 +2668,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 4.73,
+    "reviewsNumber": 3
   },
   {
     "id": 81748,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Panama Free Tour of San Felipe Casco Antiguo",
       "es": "Panamá Free Tour de San Felipe Casco Antiguo",
@@ -2794,12 +2794,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.96,
-    "reviewsNumber": 5
+    "rating": 4.92,
+    "reviewsNumber": 10
   },
   {
     "id": 85814,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Memerreando Gastro Tour Flavors of Panama",
       "es": "Gastro Tour Memerreando Sabores de Panamá",
@@ -2897,7 +2897,7 @@
   },
   {
     "id": 86106,
-    "updatedAt": "2025-12-01 22:02:03",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Historical & Cultural Free Tour of Old Town Panama City",
       "es": "Recorrido histórico y cultural gratuito por el Casco Antiguo de Panamá",
@@ -2985,40 +2985,44 @@
         "googlePlaceId": "ChIJTyjLJzWvrI8RPwtHe-1_5ro"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-06.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-02.jpg",
     "categoryId": 10,
     "images": [
       {
-        "id": 300045,
+        "id": 300755,
+        "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-02.jpg"
+      },
+      {
+        "id": 300756,
+        "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-03.jpg"
+      },
+      {
+        "id": 300757,
+        "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-04.jpg"
+      },
+      {
+        "id": 300758,
+        "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-05.jpg"
+      },
+      {
+        "id": 300759,
         "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-06.jpg"
       },
       {
-        "id": 300046,
+        "id": 300760,
         "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-07.jpg"
       },
       {
-        "id": 300047,
+        "id": 300761,
         "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-08.jpg"
       },
       {
-        "id": 300048,
+        "id": 300762,
         "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-09.jpg"
-      },
-      {
-        "id": 300054,
-        "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-11.jpg"
-      },
-      {
-        "id": 300055,
-        "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-12.jpg"
-      },
-      {
-        "id": 300056,
-        "URL": "https://www.freetour.com/images/tours/86106/historical-cultural-free-tour-panama-city-13.jpg"
       }
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 1
+    "reviewsNumber": 2
   }
 ]

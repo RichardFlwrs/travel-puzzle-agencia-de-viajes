@@ -1,7 +1,7 @@
 [
   {
     "id": 40259,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Local Experience Waterfall",
       "es": "Experiencia Local de Cataratas",
@@ -81,7 +81,7 @@
   },
   {
     "id": 51695,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour: Drake Bay",
       "es": "Free Tour: Bahía Drake",
@@ -182,7 +182,7 @@
   },
   {
     "id": 54358,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wildlife Tour",
       "es": "Tour de Vida Silvestre",
@@ -260,7 +260,7 @@
   },
   {
     "id": 54472,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Historic San José",
       "es": "San José Histórico",
@@ -357,7 +357,7 @@
   },
   {
     "id": 61873,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Jaco Beach Waterfall Tour",
       "es": "Tour a las Cataratas Playa Jaco",
@@ -465,7 +465,7 @@
   },
   {
     "id": 65282,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour in San José City",
       "es": "Free Tour in San José City",
@@ -726,7 +726,7 @@
   },
   {
     "id": 79595,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Uvita: Nature Walk at Marino Ballena National Park",
       "es": "Uvita: Paseo por la Naturaleza en el Parque Nacional Marino Ballena",
@@ -839,7 +839,7 @@
   },
   {
     "id": 80061,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Explore the Fauna of Manuel Antonio",
       "es": "Explora la Fauna de Manuel Antonio",
@@ -943,7 +943,7 @@
   },
   {
     "id": 83668,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Manuel Antonio on Foot",
       "es": "Descubra Manuel Antonio a pie",
@@ -1035,7 +1035,7 @@
   },
   {
     "id": 83742,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Manuel Antonio National Park Free Tour",
       "es": "Excursión gratuita al Parque Nacional Manuel Antonio",
@@ -1140,5 +1140,131 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
+  },
+  {
+    "id": 2044,
+    "updatedAt": "2025-12-11 03:32:32",
+    "title": {
+      "en": "San José Free Walking Tour",
+      "es": "Recorrido gratuito a pie por San José",
+      "pt": "Passeio pedestre gratuito em San José",
+      "de": "San José Free Walking Tour",
+      "fr": "Visite à pied gratuite de San José",
+      "it": "Tour a piedi gratuito di San José"
+    },
+    "brief": {
+      "de": "Nehmen Sie an einem 3-stündigen kostenlosen Rundgang teil, bei dem Sie die wichtigsten Sehenswürdigkeiten von San José besichtigen und Einheimische treffen. Sprechen Sie über Geschichte, Politik, Kunst und interessante Fakten über unsere Stadt.",
+      "en": "Join a 3-hour free walking tour visiting the top attractions of San José and meeting locals. Talk about history, politics, art and fun facts about our city.",
+      "es": "Únase a un recorrido gratuito a pie de 3 horas en el que visitará las principales atracciones de San José y conocerá a los habitantes de la ciudad. Hable de historia, política, arte y datos curiosos sobre nuestra ciudad.",
+      "fr": "Participez à une visite à pied gratuite de 3 heures pour découvrir les principales attractions de San José et rencontrer des habitants. Parlez de l'histoire, de la politique, de l'art et de faits amusants sur notre ville.",
+      "it": "Partecipate a un tour a piedi gratuito di 3 ore visitando le principali attrazioni di San José e incontrando la gente del posto. Parliamo di storia, politica, arte e fatti divertenti sulla nostra città.",
+      "pt": "Participe num passeio a pé gratuito de 3 horas, visitando as principais atracções de São José e conhecendo os habitantes locais. Fale sobre história, política, arte e factos divertidos sobre a nossa cidade."
+    },
+    "description": {
+      "de": "Ein 2,5-stündiger Spaziergang mit lokalen Führern. Wir werden unsere Sichtweise über unsere Stadt teilen. Vom belebten Stadtzentrum bis zum schicken Viertel. All die Geschichte, echte Fakten und lustige Geschichten von unseren lokalen Führern.\r\nEinige Orte, die wir besuchen, sind: National Theater, High School for Ladies, China Town, Democracy Plaza, National Museum, National Park, um nur einige zu nennen.",
+      "en": "A 2.5-hour walk with local guides. We will share our point of view about our city. From the busy downtown to the fancy neighborhood. All the history, real facts and fun stories by our local guides.\r\nSome places we visit are: National Theater, High school for ladies, China Town, Democracy Plaza, National Museum, National Park just to mention some.",
+      "es": "Un paseo de 2,5 horas con guías locales. Compartiremos nuestro punto de vista sobre nuestra ciudad. Desde el ajetreado centro hasta el elegante barrio. Toda la historia, datos reales e historias divertidas de la mano de nuestros guías locales.\r\nAlgunos lugares que visitaremos son: Teatro Nacional, Instituto femenino, China Town, Plaza de la Democracia, Museo Nacional, Parque Nacional, por mencionar sólo algunos.",
+      "fr": "Une promenade de 2,5 heures avec des guides locaux. Nous partagerons notre point de vue sur notre ville. Du centre-ville animé aux quartiers chics. L'histoire, les faits réels et les anecdotes amusantes sont racontés par nos guides locaux.\r\nLes lieux que nous visiterons sont les suivants : Le théâtre national, le lycée pour femmes, China Town, Democracy Plaza, le musée national, le parc national, pour n'en citer que quelques-uns.",
+      "it": "Una passeggiata di 2,5 ore con guide locali. Condivideremo il nostro punto di vista sulla città. Dall'affollato centro città ai quartieri più eleganti. Tutte le storie, i fatti reali e i racconti divertenti delle nostre guide locali.\r\nAlcuni luoghi che visiteremo sono: Teatro Nazionale, Liceo femminile, China Town, Democracy Plaza, Museo Nazionale, Parco Nazionale, solo per citarne alcuni.",
+      "pt": "Um passeio de 2,5 horas com guias locais. Partilharemos o nosso ponto de vista sobre a nossa cidade. Desde o centro movimentado até ao bairro mais chique. Toda a história, factos reais e histórias divertidas pelos nossos guias locais.\r\nAlguns lugares que visitamos são: Teatro Nacional, Escola Secundária para senhoras, China Town, Praça da Democracia, Museu Nacional, Parque Nacional, só para mencionar alguns."
+    },
+    "providerTitle": "San José Free Walking Tour",
+    "providerPhone": null,
+    "URL": "https://www.freetour.com/san-jose/san-jose-free-walking-tour?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/san-jose/san-jose-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/san-jose/san-jose-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/san-jose/san-jose-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/san-jose/san-jose-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/san-jose/san-jose-free-walking-tour?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/san-jose/san-jose-free-walking-tour?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "In front of Delta Hotel Marriott Aurola ",
+      "coordinates": "9.9361377,-84.0759028",
+      "googlePlaceId": "ChIJqXsh1WDjoI8RZxQy3P29xQQ"
+    },
+    "cityId": 973,
+    "countryId": 32,
+    "includes": [
+      "National Theater of Costa Rica",
+      "Morazán Park",
+      "Plaza de la Cultura",
+      "Museo nacional",
+      "Legislative Assembly of Costa Rica",
+      "Parque Nacional",
+      "Barrio Chino",
+      "MADC"
+    ],
+    "POIs": [
+      {
+        "id": 5590,
+        "title": "National Theater of Costa Rica",
+        "googlePlaceId": "ChIJIeF41GbjoI8RXG6rf0PeWuI"
+      },
+      {
+        "id": 9506,
+        "title": "Morazán Park",
+        "googlePlaceId": "ChIJsa1Q11zjoI8RQPE0EpOW2kg"
+      },
+      {
+        "id": 231,
+        "title": "Plaza de la Cultura",
+        "googlePlaceId": "ChIJ-2oJLWHjoI8RA-iAi8mEyH0"
+      },
+      {
+        "id": 2132,
+        "title": "Museo nacional",
+        "googlePlaceId": "ChIJ9656RbjjoI8RnLlJwOg6B7c"
+      },
+      {
+        "id": 7865,
+        "title": "Legislative Assembly of Costa Rica",
+        "googlePlaceId": "ChIJo6hGZGPjoI8RFL53fIrXfR4"
+      },
+      {
+        "id": 250,
+        "title": "Parque Nacional",
+        "googlePlaceId": "ChIJ-5N2QGPjoI8R0wFckaud9fg"
+      },
+      {
+        "id": 11516,
+        "title": "Barrio Chino",
+        "googlePlaceId": "ChIJx9ogBWbjoI8RXqPGHt8qUNo"
+      },
+      {
+        "id": 4022,
+        "title": "MADC",
+        "googlePlaceId": "ChIJEezjq2PjoI8RxLKEOwAekMs"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/2044/san-jose-free-walking-tour-28.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 74035,
+        "URL": "https://www.freetour.com/images/tours/2044/san-jose-free-walking-tour-28.jpg"
+      },
+      {
+        "id": 74036,
+        "URL": "https://www.freetour.com/images/tours/2044/san-jose-free-walking-tour-29.jpg"
+      },
+      {
+        "id": 74033,
+        "URL": "https://www.freetour.com/images/tours/2044/san-jose-free-walking-tour-26.jpg"
+      },
+      {
+        "id": 74034,
+        "URL": "https://www.freetour.com/images/tours/2044/san-jose-free-walking-tour-27.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.83,
+    "reviewsNumber": 625
   }
 ]

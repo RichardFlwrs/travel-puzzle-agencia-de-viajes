@@ -1,7 +1,7 @@
 [
   {
     "id": 6551,
-    "updatedAt": "2025-12-01 21:08:02",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Antigua Guatemala Orientation Walking Tour",
       "es": "Paseo de orientación por Antigua Guatemala",
@@ -128,11 +128,11 @@
     ],
     "videoURL": null,
     "rating": 4.9,
-    "reviewsNumber": 412
+    "reviewsNumber": 413
   },
   {
     "id": 7950,
-    "updatedAt": "2025-12-01 13:02:35",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Authentic Street Food Tour in Antigua",
       "es": "Auténtica comida callejera en Antigua",
@@ -231,7 +231,7 @@
   },
   {
     "id": 29809,
-    "updatedAt": "2025-12-01 01:06:10",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Antigua in Guatemala",
       "es": "Visita a Antigua en Guatemala",
@@ -346,7 +346,7 @@
   },
   {
     "id": 35312,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Shore excursion from Quetzal Port to Antigua",
       "es": "Excursión en tierra desde Puerto Quetzal a Antigua",
@@ -470,7 +470,7 @@
   },
   {
     "id": 36681,
-    "updatedAt": "2025-12-01 17:18:02",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Antigua Guatemala, Orientation Free Tour",
       "es": "Antigua Guatemala, Free Tour de Orientación",
@@ -568,7 +568,7 @@
   },
   {
     "id": 37192,
-    "updatedAt": "2025-12-01 13:02:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Orientation Tour of Antigua Guatemala City",
       "es": "Tour Privado de Orientación por la Ciudad de Antigua Guatemala",
@@ -700,14 +700,14 @@
   },
   {
     "id": 47499,
-    "updatedAt": "2025-12-01 19:29:03",
+    "updatedAt": "2025-12-11 14:31:54",
     "title": {
-      "en": "Free Tour of Antigua: History, Culture and Tradition",
-      "es": "Free Tour por Antigua: Historia, Cultura y Tradicion",
-      "pt": "Antigua Free Tour: História, Cultura e Tradição",
-      "de": "Antigua Free Tour: Geschichte, Kultur und Tradition",
-      "fr": "Antigua Free Tour : Histoire, culture et tradition",
-      "it": "Tour gratuito di Antigua: storia, cultura e tradizione"
+      "en": "Essential Antigua Guatemala Free Tour",
+      "es": "Esencial Antigua Guatemala Free Tour",
+      "pt": "Visita guiada gratuita à Antigua Guatemala",
+      "de": "Essential Antigua Guatemala Kostenlose Tour",
+      "fr": "Visite gratuite de l'essentiel d'Antigua Guatemala",
+      "it": "Tour gratuito essenziale di Antigua Guatemala"
     },
     "brief": {
       "de": "Entdecken Sie das Beste von Antigua Guatemala auf unserer spannenden, kostenlosen Stadtführung. Erkunden Sie die wichtigsten historischen Stätten und lernen Sie auf dieser unvergesslichen Tour die lokale Kultur kennen. ",
@@ -830,7 +830,7 @@
   },
   {
     "id": 49028,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Indian Nose Morning Hike",
       "es": "Caminata Matutina por Indian Nose",
@@ -914,7 +914,7 @@
   },
   {
     "id": 49752,
-    "updatedAt": "2025-12-01 01:09:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Antigua Street Food Tour",
       "es": "Tour de Comida Callejera por Antigua",
@@ -996,7 +996,7 @@
   },
   {
     "id": 51248,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Artisan Coffee Tour",
       "es": "Tour Artesanal de Café",
@@ -1096,7 +1096,7 @@
   },
   {
     "id": 51251,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Antigua: Walking and Discovering History",
       "es": "Explora Antigua: Caminando y Descubriendo la Historia",
@@ -1193,7 +1193,7 @@
   },
   {
     "id": 51252,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Traditional Guatemalan Cooking Class",
       "es": "Clase de Cocina Tradicional Guatemalteca",
@@ -1282,7 +1282,7 @@
   },
   {
     "id": 59911,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Walk Through Antigua Guatemala",
       "es": "Un paseo por Antigua Guatemala",
@@ -1354,7 +1354,7 @@
   },
   {
     "id": 60977,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour of Antigua",
       "es": "Free Tour por Antigua",
@@ -1483,7 +1483,7 @@
   },
   {
     "id": 64174,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Rich Tzutujil Culture at Lake Atitlá",
       "es": "Explora la rica cultura tzutujil en el lago de Atitlá",
@@ -1560,7 +1560,7 @@
   },
   {
     "id": 68910,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunrise Adventure at Indian Nose Tour",
       "es": "Aventura al amanecer en Indian Nose Tour",
@@ -1645,7 +1645,7 @@
   },
   {
     "id": 71440,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Historical Treasures of Antigua Guatemala Tour",
       "es": "Tesoros históricos de Antigua Guatemala",
@@ -1762,7 +1762,7 @@
   },
   {
     "id": 71542,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guatemala Airport Transfer to Antigua",
       "es": "Traslado del Aeropuerto de Guatemala a Antigua",
@@ -1850,7 +1850,7 @@
   },
   {
     "id": 73165,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of the Colonial City of Antigua",
       "es": "Free Tour por la Ciudad Colonial de Antigua",
@@ -2010,7 +2010,7 @@
   },
   {
     "id": 73345,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Guatemala City's Hidden Gems",
       "es": "Recorrido por las joyas ocultas de Ciudad de Guatemala",
@@ -2126,12 +2126,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.89,
-    "reviewsNumber": 7
+    "rating": 4.9,
+    "reviewsNumber": 8
   },
   {
     "id": 74652,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Antigua Guatemala Free Tour",
       "es": "Antigua Guatemala Free Tour",
@@ -2247,7 +2247,7 @@
   },
   {
     "id": 76156,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guatemala City Walking Tour",
       "es": "Recorrido a pie por la Ciudad de Guatemala",
@@ -2362,7 +2362,7 @@
   },
   {
     "id": 76905,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour of Antigua Guatemala City",
       "es": "Free Tour por la Ciudad de Antigua Guatemala",
@@ -2481,12 +2481,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.8,
-    "reviewsNumber": 6
+    "rating": 4.85,
+    "reviewsNumber": 8
   },
   {
     "id": 78959,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Chucherías Chapinas: Free Gastronomic Tour",
       "es": "Chucherías Chapinas: Free Tour Gastronómico",
@@ -2654,14 +2654,14 @@
   },
   {
     "id": 79280,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
-      "en": "Free Tour of Antigua Markets and Chicken Bus",
-      "es": "Free Tour de Antigua Mercados y Chicken Bus",
-      "pt": "Visita gratuita aos mercados de Antígua e ao Chicken Bus",
-      "de": "Kostenlose Tour durch Antigua Märkte und Chicken Bus",
-      "fr": "Visite gratuite des marchés d'Antigua et du bus à poulets",
-      "it": "Tour gratuito dei mercati di Antigua e del Chicken Bus"
+      "en": "Free Tour of Antigua: Markets and Chicken Bus",
+      "es": "Free Tour de Antigua: Mercados y Chicken Bus",
+      "pt": "Visita gratuita a Antígua: Mercados e Autocarro de Frango",
+      "de": "Kostenlose Tour durch Antigua: Märkte und Chicken Bus",
+      "fr": "Visite gratuite d'Antigua : marchés et bus à poulets",
+      "it": "Tour gratuito di Antigua: mercati e Chicken Bus"
     },
     "brief": {
       "de": "Entdecken Sie die pulsierende Seele Antiguas auf einer sensorischen Tour vom Zentralplatz zum Markt. Geschmäcker, Farben, Aromen, Heilpflanzen und Chicken Bus verbinden Sie mit der lebendigen Kultur und dem beliebten Handel - ein einzigartiges Erlebnis!",
@@ -2672,12 +2672,12 @@
       "pt": "Explore a alma vibrante de Antígua num passeio sensorial desde a Praça Central até ao Mercado. Sabores, cores, aromas, plantas medicinais e o Chicken Bus ligam-no à cultura viva e ao comércio popular - uma experiência única!"
     },
     "description": {
-      "de": "Entdecken Sie das pulsierende Herz von Antigua Guatemala auf einer sinnlichen Tour, die Sie mit der Essenz der lebendigen Kultur verbindet. Wir beginnen an der Compañía de Jesús und gehen zum farbenfrohen lokalen Markt, wo sich Geschichte, Tradition und das tägliche Leben vermischen. Während des Rundgangs werden wir die Welt des volkstümlichen Handels, die Produktionsdynamik, das lokale Obst und Gemüse und die uralte Verwendung von Heilpflanzen auf dem städtischen Markt erkunden. \r\n\r\nDiese Tour zeigt nicht nur den Markt, sondern auch die Prozesse der Transkulturation, des kreativen Recyclings und des lokalen Einfallsreichtums, der sich in Kleidung, Gastronomie und Transportwesen ausdrückt. Als Teil des Erlebnisses werden Sie die Gelegenheit haben, die alte Stadt \"Old Town\" durch einen echten Chicken Bus kennen zu lernen. \r\n\r\nLassen Sie sich von den Aromen, Farben und Texturen des Marktes umhüllen und tauchen Sie ein in eine lehrreiche, sensorische und kulturelle Erfahrung. Diese Tour ist ideal für alle, die das authentische Antigua kennenlernen möchten, denn sie bietet einen tiefen Einblick in die Menschen, ihr Wissen und ihre tägliche Wirtschaft. Wir erwarten Sie, um die Seele des Marktes wie nie zuvor zu erleben!",
-      "en": "Discover the beating heart of Antigua Guatemala on a sensory tour that connects you with the essence of its living culture. Starting at the Compañía de Jesús, we walk to the colorful local market, where history, tradition and daily life intertwine. Throughout the tour, we will explore the world of popular commerce, productive dynamics, local fruits and vegetables, and the ancestral use of medicinal plants in the municipal market. \r\n\r\nThis tour not only shows the market, but also reveals the processes of transculturation, creative recycling and local ingenuity expressed in clothing, gastronomy and transportation. As part of the experience, you will have the opportunity to get to know the old city \"Ciudad Vieja\" through a real Chicken Bus. \r\n\r\nLet yourself be enveloped by the aromas, colors and textures of the market, and immerse yourself in an educational, sensory and cultural experience. Perfect for those who want to know the most authentic Antigua, this tour offers a close look at its people, their knowledge and their daily economy. We are waiting for you to experience the soul of the market like never before!",
-      "es": "Descubre el corazón palpitante de Antigua Guatemala en un recorrido sensorial que te conecta con la esencia de su cultura viva. Iniciamos en la Compañía de Jesús, caminamos hacia el coloridos mercado local, donde se entrelazan historia, tradición y vida cotidiana. A lo largo del recorrido, exploraremos el mundo del comercio popular, las dinámicas productivas, las frutas y verduras locales, y el uso ancestral de plantas medicinales en el mercado municipal. \r\n\r\nEste tour no solo muestra el mercado, sino que también revela los procesos de transculturación, reciclaje creativo y el ingenio local expresado en vestimenta, gastronomía y transporte. Como parte de la experiencia, tendrás la oportunidad de conocer la antigua ciudad \"Ciudad Vieja\" a través de un verdadero Chicken Bus. \r\n\r\nDéjate envolver por los aromas, colores y texturas del mercado, y sumérgete en una experiencia educativa, sensorial y cultural. Perfecto para quienes desean conocer la Antigua más auténtica, este recorrido ofrece una mirada cercana a su gente, sus saberes y su economía cotidiana. ¡Te esperamos para vivir el alma del mercado como nunca antes!",
-      "fr": "Découvrez le cœur battant d'Antigua Guatemala lors d'une visite sensorielle qui vous mettra en contact avec l'essence de sa culture vivante. En commençant par la Compañía de Jesús, nous marcherons jusqu'au marché local coloré, où l'histoire, la tradition et la vie quotidienne s'entremêlent. Tout au long de la visite, nous explorerons le monde du commerce populaire, la dynamique productive, les fruits et légumes locaux et l'utilisation ancestrale des plantes médicinales sur le marché municipal. \r\n\r\nCette visite ne se limite pas au marché, elle révèle également les processus de transculturation, de recyclage créatif et d'ingéniosité locale qui s'expriment dans l'habillement, la gastronomie et les transports. Dans le cadre de cette expérience, vous aurez l'occasion de découvrir la vieille ville \"Ciudad Vieja\" à bord d'un véritable bus à poulets. \r\n\r\nLaissez-vous envelopper par les arômes, les couleurs et les textures du marché et plongez dans une expérience éducative, sensorielle et culturelle. Parfaite pour ceux qui veulent connaître l'Antigua la plus authentique, cette visite permet d'observer de près ses habitants, leurs connaissances et leur économie quotidienne. Nous vous attendons pour vous faire découvrir l'âme du marché comme jamais auparavant !",
-      "it": "Scoprite il cuore pulsante di Antigua Guatemala con un tour sensoriale che vi mette in contatto con l'essenza della sua cultura viva. Partendo dalla Compañía de Jesús, cammineremo fino al colorato mercato locale, dove storia, tradizione e vita quotidiana si intrecciano. Durante il tour, esploreremo il mondo del commercio popolare, le dinamiche produttive, la frutta e la verdura locali e l'uso ancestrale delle piante medicinali nel mercato municipale. \r\n\r\nQuesto tour non si limita a mostrare il mercato, ma rivela anche i processi di transculturazione, il riciclo creativo e l'ingegno locale espresso nell'abbigliamento, nella gastronomia e nei trasporti. Come parte dell'esperienza, avrete l'opportunità di conoscere la città vecchia \"Ciudad Vieja\" attraverso un vero Chicken Bus. \r\n\r\nLasciatevi avvolgere dagli aromi, dai colori e dalle consistenze del mercato e immergetevi in un'esperienza educativa, sensoriale e culturale. Perfetto per chi vuole conoscere l'Antigua più autentica, questo tour offre uno sguardo ravvicinato alla sua gente, alle sue conoscenze e alla sua economia quotidiana. Vi aspettiamo per vivere l'anima del mercato come mai prima d'ora!",
-      "pt": "Descubra o coração pulsante de Antigua Guatemala num passeio sensorial que o liga à essência da sua cultura viva. Começando na Compañía de Jesús, caminhamos até ao colorido mercado local, onde a história, a tradição e a vida quotidiana se entrelaçam. Ao longo do percurso, vamos explorar o mundo do comércio popular, as dinâmicas produtivas, as frutas e legumes locais e o uso ancestral de plantas medicinais no mercado municipal. \r\n\r\nEste passeio não só dá a conhecer o mercado, como também revela os processos de transculturação, reciclagem criativa e engenho local expressos no vestuário, gastronomia e transportes. Como parte da experiência, terá a oportunidade de conhecer a cidade velha \"Ciudad Vieja\" através de um autêntico Chicken Bus. \r\n\r\nDeixe-se envolver pelos aromas, cores e texturas do mercado, e mergulhe numa experiência educativa, sensorial e cultural. Perfeito para aqueles que querem conhecer a Antígua mais autêntica, este passeio oferece um olhar de perto sobre as suas gentes, os seus conhecimentos e a sua economia quotidiana. Esperamos por si para experimentar a alma do mercado como nunca antes!"
+      "de": "Wenn Sie etwas anderes als die traditionellen Touren entdecken und erleben möchten, bringt Sie diese sinnliche Tour mit der Essenz der lebendigen Kultur in Verbindung. Wir spazieren zum farbenfrohen lokalen Markt, wo sich Geschichte, Tradition und das tägliche Leben vermischen. Auf dem Weg dorthin werden wir die Welt des volkstümlichen Handels, die Dynamik der Produktion, das lokale Obst und Gemüse und die uralte Verwendung von Heilpflanzen auf dem städtischen Markt erkunden. \r\n\r\nDiese Tour zeigt nicht nur den Markt, sondern auch die Prozesse der Transkulturation, des kreativen Recyclings und des lokalen Einfallsreichtums, der sich in Kleidung, Gastronomie und Transportwesen ausdrückt. Als Teil des Erlebnisses werden Sie die Gelegenheit haben, die alte Stadt \"Old Town\" durch einen echten Hühnerbus kennenzulernen. \r\n\r\nLassen Sie sich von den Aromen, Farben und Texturen des Marktes umhüllen und tauchen Sie ein in eine lehrreiche, sensorische und kulturelle Erfahrung. Diese Tour ist ideal für alle, die das authentische Antigua kennenlernen möchten, denn sie bietet einen tiefen Einblick in die Menschen, ihr Wissen und ihre tägliche Wirtschaft. Wir erwarten Sie, um die Seele des Marktes wie nie zuvor zu erleben!",
+      "en": "If you want to discover and experience something different from the traditional tours, this sensory tour connects you with the essence of its living culture. We walk to the colorful local market, where history, tradition and daily life are intertwined. Throughout the tour, we will explore the world of popular commerce, productive dynamics, local fruits and vegetables, and the ancestral use of medicinal plants in the municipal market. \r\n\r\nThis tour not only shows the market, but also reveals the processes of transculturation, creative recycling and local ingenuity expressed in clothing, gastronomy and transportation. As part of the experience, you will have the opportunity to get to know the old city \"Ciudad Vieja\" through a real Chicken Bus. \r\n\r\nLet yourself be enveloped by the aromas, colors and textures of the market, and immerse yourself in an educational, sensory and cultural experience. Perfect for those who want to know the most authentic Antigua, this tour offers a close look at its people, their knowledge and their daily economy. We are waiting for you to experience the soul of the market like never before!",
+      "es": "Si deseas descubrir y experimentar algo distinto a los recorridos tradicionales, este tour sensorial que te conecta con la esencia de su cultura viva. Caminamos hacia el colorido mercado local, donde se entrelazan historia, tradición y vida cotidiana. A lo largo del recorrido, exploraremos el mundo del comercio popular, las dinámicas productivas, las frutas y verduras locales, y el uso ancestral de plantas medicinales en el mercado municipal. \r\n\r\nEste tour no solo muestra el mercado, sino que también revela los procesos de transculturación, reciclaje creativo y el ingenio local expresado en vestimenta, gastronomía y transporte. Como parte de la experiencia, tendrás la oportunidad de conocer la antigua ciudad \"Ciudad Vieja\" a través de un verdadero Chicken Bus. \r\n\r\nDéjate envolver por los aromas, colores y texturas del mercado, y sumérgete en una experiencia educativa, sensorial y cultural. Perfecto para quienes desean conocer la Antigua más auténtica, este recorrido ofrece una mirada cercana a su gente, sus saberes y su economía cotidiana. ¡Te esperamos para vivir el alma del mercado como nunca antes!",
+      "fr": "Si vous souhaitez découvrir et vivre une expérience différente des circuits traditionnels, cette visite sensorielle vous permet d'entrer en contact avec l'essence même de sa culture vivante. Nous marcherons vers le marché local coloré, où l'histoire, la tradition et la vie quotidienne s'entremêlent. En chemin, nous découvrirons le monde du commerce populaire, la dynamique de la production, les fruits et légumes locaux et l'utilisation ancestrale des plantes médicinales sur le marché municipal. \r\n\r\nCette visite ne se limite pas au marché, elle révèle également les processus de transculturation, de recyclage créatif et d'ingéniosité locale qui s'expriment dans l'habillement, la gastronomie et les transports. Dans le cadre de cette expérience, vous aurez l'occasion de découvrir la vieille ville \"Ciudad Vieja\" à bord d'un véritable bus à poulets. \r\n\r\nLaissez-vous envelopper par les arômes, les couleurs et les textures du marché et plongez dans une expérience éducative, sensorielle et culturelle. Parfaite pour ceux qui veulent connaître l'Antigua la plus authentique, cette visite permet d'observer de près ses habitants, leurs connaissances et leur économie quotidienne. Nous vous attendons pour vous faire découvrir l'âme du marché comme jamais auparavant !",
+      "it": "Se volete scoprire e sperimentare qualcosa di diverso dai tour tradizionali, questo tour sensoriale vi mette in contatto con l'essenza della sua cultura vivente. Cammineremo verso il colorato mercato locale, dove storia, tradizione e vita quotidiana si intrecciano. Lungo il percorso, esploreremo il mondo del commercio popolare, le dinamiche della produzione, la frutta e la verdura locali e l'uso ancestrale delle piante medicinali nel mercato municipale. \r\n\r\nQuesto tour non si limita a mostrare il mercato, ma rivela anche i processi di transculturazione, il riciclo creativo e l'ingegno locale espresso nell'abbigliamento, nella gastronomia e nei trasporti. Come parte dell'esperienza, avrete l'opportunità di conoscere la città vecchia \"Ciudad Vieja\" attraverso un vero Chicken Bus. \r\n\r\nLasciatevi avvolgere dagli aromi, dai colori e dalle consistenze del mercato e immergetevi in un'esperienza educativa, sensoriale e culturale. Perfetto per chi vuole conoscere l'Antigua più autentica, questo tour offre uno sguardo ravvicinato alla sua gente, alle sue conoscenze e alla sua economia quotidiana. Vi aspettiamo per vivere l'anima del mercato come mai prima d'ora!",
+      "pt": "Se quiser descobrir e experimentar algo diferente dos passeios tradicionais, este passeio sensorial liga-o à essência da sua cultura viva. Caminhamos em direção ao colorido mercado local, onde a história, a tradição e a vida quotidiana se entrelaçam. Pelo caminho, exploramos o mundo do comércio popular, a dinâmica da produção, as frutas e legumes locais e o uso ancestral de plantas medicinais no mercado municipal. \r\n\r\nEste passeio não só dá a conhecer o mercado, como também revela os processos de transculturação, reciclagem criativa e engenho local expressos no vestuário, gastronomia e transportes. Como parte da experiência, terá a oportunidade de conhecer a cidade velha \"Ciudad Vieja\" através de um autêntico Chicken Bus. \r\n\r\nDeixe-se envolver pelos aromas, cores e texturas do mercado, e mergulhe numa experiência educativa, sensorial e cultural. Perfeito para aqueles que querem conhecer a Antígua mais autêntica, este passeio oferece um olhar de perto sobre as suas gentes, os seus conhecimentos e a sua economia quotidiana. Esperamos por si para experimentar a alma do mercado como nunca antes!"
     },
     "providerTitle": "Jose Luis Leal",
     "providerPhone": "+50244574098",
@@ -2797,12 +2797,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 5,
-    "reviewsNumber": 7
+    "rating": 4.5600000000000005,
+    "reviewsNumber": 9
   },
   {
     "id": 82556,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Authentic Guatemalan Lunch Market Tour",
       "es": "Auténtico Almuerzo Guatemalteco en el Mercado",
@@ -2914,7 +2914,7 @@
   },
   {
     "id": 83005,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Artisans and Traditional Villages Near Antigua",
       "es": "Artesanos y Pueblos Tradicionales Cerca de Antigua",

@@ -6,8 +6,10 @@ import type { TourWithRelations } from './repositories/tour-repository';
  * Note: Translations should already be filtered by language in the query
  */
 export function transformDBTourToUITour(dbTour: TourWithRelations, language: string = 'en'): Tour {
-  // Get the first translation (should only be one for the requested language)
-  const translation = dbTour.translations[0];
+  // Find the translation for the requested language, fallback to first available or English
+  const translation = dbTour.translations.find(t => t.language === language) 
+    || dbTour.translations.find(t => t.language === 'en') 
+    || dbTour.translations[0];
   
   // Extract city name from JSON translations object
   const cityTranslations = dbTour.city.translations as Record<string, string> | null;

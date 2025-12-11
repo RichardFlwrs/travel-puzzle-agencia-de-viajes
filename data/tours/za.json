@@ -1,7 +1,7 @@
 [
   {
     "id": 38405,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Joburg Art Gallery Hopping With Thabo",
       "es": "De galería en galería con Thabo",
@@ -184,7 +184,7 @@
   },
   {
     "id": 49976,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Kliptown Informal Settlement Walking Tour",
       "es": "Visita a pie al asentamiento informal de Kliptown",
@@ -271,7 +271,7 @@
   },
   {
     "id": 50777,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Johannesburg Inner City Safety Free Tour & Arts",
       "es": "Johannesburgo Inner City Safety Free Tour &amp; Arts",
@@ -403,7 +403,7 @@
   },
   {
     "id": 51092,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "History of Soweto Free Tour",
       "es": "Historia de Soweto Free Tour",
@@ -515,7 +515,7 @@
   },
   {
     "id": 51399,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Soweto's Social and Entrepreneurial Spirit Tour: Part 2",
       "es": "Gira por el Espíritu Social y Empresarial de Soweto: Parte 2",
@@ -605,7 +605,7 @@
   },
   {
     "id": 54405,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "7 Hours Tour in Johannesburg, Soweto & Apartheid Museum",
       "es": "excursión de 7 horas por Johannesburgo, Soweto y el Museo del Apartheid",
@@ -728,7 +728,7 @@
   },
   {
     "id": 59040,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Maboneng Street Art Free Tour",
       "es": "Visita gratuita al arte callejero de Maboneng",
@@ -826,7 +826,7 @@
   },
   {
     "id": 59041,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Soweto Heritage Free Tour of Soweto",
       "es": "Patrimonio de Soweto Recorrido gratuito por Soweto",
@@ -946,7 +946,7 @@
   },
   {
     "id": 59113,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Cycle Around Johannesburg City Centre Free Tour",
       "es": "Recorrido gratuito en bicicleta por el centro de Johannesburgo",
@@ -1029,7 +1029,7 @@
   },
   {
     "id": 60442,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Durban Harbour",
       "es": "Paseo por el Puerto de Durban",
@@ -1107,7 +1107,7 @@
   },
   {
     "id": 60568,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "MyCiTi Bus Experience",
       "es": "Experiencia MyCiTi Bus",
@@ -1214,7 +1214,7 @@
   },
   {
     "id": 61743,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Soweto History & Lifestyle Tour",
       "es": "Historia y Estilo de Vida de Soweto",
@@ -1331,7 +1331,7 @@
   },
   {
     "id": 65526,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Explore Historic Cape Town: Free Tour",
       "es": "Explore la histórica Ciudad del Cabo: Visita gratuita",
@@ -1442,12 +1442,12 @@
       }
     ],
     "videoURL": null,
-    "rating": null,
-    "reviewsNumber": 2
+    "rating": 4.8,
+    "reviewsNumber": 3
   },
   {
     "id": 66440,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Professional Photoshoot in Vibrant Johannesburg Places",
       "es": "Sesión de Fotos Profesional en Lugares Vibrantes de Johannesburgo",
@@ -1556,7 +1556,7 @@
   },
   {
     "id": 66633,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Hidden Gems Of Soweto",
       "es": "Las Joyas Ocultas de Soweto",
@@ -1678,7 +1678,7 @@
   },
   {
     "id": 68183,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Cape Town's Hidden Gems with a Local",
       "es": "Las Joyas Ocultas de Ciudad del Cabo con un Lugareño",
@@ -1792,7 +1792,7 @@
   },
   {
     "id": 72660,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Walking Tour of Cape Town",
       "es": "Free Tour a pie por Ciudad del Cabo",
@@ -1918,7 +1918,7 @@
   },
   {
     "id": 74841,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exploring the Cape Peninsula",
       "es": "Explorando la Península del Cabo",
@@ -2007,7 +2007,7 @@
   },
   {
     "id": 75051,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salt River Urban Art Tour",
       "es": "Recorrido de Arte Urbano por el Río Salado",
@@ -2083,7 +2083,7 @@
   },
   {
     "id": 75054,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Art Tour of Cape Town",
       "es": "Tour de Arte Callejero por Ciudad del Cabo",
@@ -2179,11 +2179,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 0
+    "reviewsNumber": 1
   },
   {
     "id": 76992,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pilanesberg National Park Big 5 Day Tour from Johannesburg",
       "es": "Excursión de un día a los 5 Grandes del Parque Nacional de Pilanesberg desde Johannesburgo",
@@ -2327,7 +2327,7 @@
   },
   {
     "id": 76993,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lesedi Cultural Village Private Tour from Johannesburg",
       "es": "Excursión privada a la aldea cultural de Lesedi desde Johannesburgo",
@@ -2364,7 +2364,7 @@
       "it": "https://www.freetour.com/it/johannesburg/lesedi-cultural-village-private-tour?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 130,
+      "value": 110,
       "currency": "EUR"
     },
     "length": "5:00",
@@ -2454,7 +2454,7 @@
   },
   {
     "id": 77254,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Table Mountain Hiking Tour",
       "es": "Excursión de Senderismo por la Montaña de la Mesa",
@@ -2550,7 +2550,7 @@
   },
   {
     "id": 79386,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Constitution Hill and Soweto Full-Day Guided Tour",
       "es": "Visita Guiada de un día a Constitution Hill y Soweto",
@@ -2724,7 +2724,7 @@
   },
   {
     "id": 79868,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Soul of Johannesburg & Soweto",
       "es": "Explora el Alma de Johannesburgo y Soweto",
@@ -2816,7 +2816,7 @@
   },
   {
     "id": 81292,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Visit Pretoria and Lesedi Cultural Village",
       "es": "Visita Pretoria y el Pueblo Cultural Lesedi",
@@ -2914,7 +2914,7 @@
   },
   {
     "id": 82092,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Cape Town Walk",
       "es": "App Audioguía: Paseo por Ciudad del Cabo",
@@ -3059,7 +3059,7 @@
   },
   {
     "id": 84160,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Johannesburg and Soweto Culture Tour",
       "es": "Visita cultural a Johannesburgo y Soweto",
@@ -3165,7 +3165,7 @@
   },
   {
     "id": 84815,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Cape Peninsula",
       "es": "Recorrido por la Península del Cabo",
@@ -3261,5 +3261,95 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
+  },
+  {
+    "id": 72538,
+    "updatedAt": "2025-12-11 03:32:38",
+    "title": {
+      "en": "Explore Vibrant Downtown & Bo-Kaap Cape Town Free Tour",
+      "es": "Explore el vibrante centro de Ciudad del Cabo y Bo-Kaap Free Tour",
+      "pt": "Explore o vibrante centro da cidade e a excursão gratuita a Bo-Kaap na Cidade do Cabo",
+      "de": "Entdecken Sie das pulsierende Stadtzentrum und Bo-Kaap Kapstadt Free Tour",
+      "fr": "Visite gratuite du centre-ville animé et de Bo-Kaap Cape Town",
+      "it": "Esplorate il vivace centro e il Bo-Kaap di Città del Capo con un tour gratuito"
+    },
+    "brief": {
+      "de": "Erkunden Sie Kapstadts Geschichte, Kultur und Sehenswürdigkeiten! Spazieren Sie durch Instagram-taugliche Straßen, sehen Sie die farbenfrohen Häuser von Bo-Kaap und genießen Sie atemberaubende Ausblicke, während Sie die Vergangenheit und Gegenwart der Stadt entdecken. Verpassen Sie es nicht!",
+      "en": "Explore Cape Town’s history, culture, and sights! Walk Instagram-worthy streets, see Bo-Kaap’s colorful houses, and enjoy stunning views while uncovering the city’s past and present. Don't miss it!",
+      "es": "Explore la historia, la cultura y los lugares de interés de Ciudad del Cabo Pasea por calles dignas de Instagram, contempla las coloridas casas de Bo-Kaap y disfruta de impresionantes vistas mientras descubres el pasado y el presente de la ciudad. ¡No se lo pierda!",
+      "fr": "Explorez l'histoire, la culture et les sites touristiques du Cap ! Marchez dans des rues dignes d'Instagram, admirez les maisons colorées de Bo-Kaap et profitez de vues imprenables tout en découvrant le passé et le présent de la ville. À ne pas manquer !",
+      "it": "Esplorate la storia, la cultura e le attrazioni di Città del Capo! Percorrete strade degne di Instagram, ammirate le case colorate di Bo-Kaap e ammirate panorami mozzafiato mentre scoprite il passato e il presente della città. Da non perdere!",
+      "pt": "Explore a história, a cultura e os pontos turísticos da Cidade do Cabo! Caminhe por ruas dignas de Instagram, veja as casas coloridas de Bo-Kaap e desfrute de vistas deslumbrantes enquanto descobre o passado e o presente da cidade. Não perca!"
+    },
+    "description": {
+      "de": "Auf unserer Tour erkunden wir die geologische Geschichte, die unsere Stadt geformt hat, und erforschen dabei sowohl natürliche Formationen als auch menschliche Einflüsse. Wir entdecken den Lebensstil, die Kultur und die faszinierenden Geschichten der ersten Bewohner des Kaps, der Khoikhoi, und verfolgen ihre Geschichte bis zu den verschiedenen Gemeinschaften, die heute hier leben.\r\n\r\nGenießen Sie mit mir die Gerüche der Gewürze aus dem Osten, die sich mit ihrer Art zu kochen in Südafrika vermischten. \r\nWir werden die Architektur der Vergangenheit und der Gegenwart bewundern und gleichzeitig die Aromen der einzigartigen Küche Kapstadts genießen. Begleiten Sie uns, wenn wir nichts unversucht lassen, atemberaubende Ausblicke zu genießen und unvergessliche Momente in der Mother City einzufangen.\r\n\r\nSchlendern Sie durch Instagram-taugliche Straßen, bewundern Sie beeindruckende Kunstwerke im Stadtzentrum und bestaunen Sie die bunten Häuser von Bo-Kaap!",
+      "en": "Our tour delves into the geological history that shaped our city, exploring both natural formations and human impact. We’ll uncover the lifestyles, cultures, and fascinating stories of the first inhabitants of the Cape, the Khoikhoi, tracing their history to the diverse communities living here today.\r\n\r\nJoin me as we enjoy the smells of spices from the East came with their way of cooking Wich started to blend in South Africa. \r\nWe’ll admire the architecture of the past and present while also experiencing the flavours of Cape Town’s unique cuisine. Join us as we leave no stone unturned, taking in breathtaking views and capturing unforgettable moments of the Mother City.\r\n\r\nLet’s stroll through Instagram-worthy streets, admire stunning artwork in the city center, and marvel at the colorful houses of Bo-Kaap!",
+      "es": "Nuestro recorrido se adentra en la historia geológica que dio forma a nuestra ciudad, explorando tanto las formaciones naturales como el impacto humano. Descubriremos los estilos de vida, las culturas y las fascinantes historias de los primeros habitantes del Cabo, los khoikhoi, trazando su historia hasta las diversas comunidades que viven aquí hoy.\r\n\r\nAcompáñeme mientras disfrutamos de los olores de las especias de Oriente que llegaron con su forma de cocinar Wich empezó a mezclarse en Sudáfrica. \r\nAdmiraremos la arquitectura del pasado y del presente mientras experimentamos los sabores de la cocina única de Ciudad del Cabo. Acompáñenos mientras no dejamos piedra sin remover, disfrutando de impresionantes vistas y capturando momentos inolvidables de la Ciudad Madre.\r\n\r\n¡Vamos a pasear por calles dignas de Instagram, admirar impresionantes obras de arte en el centro de la ciudad, y maravillarse con las coloridas casas de Bo-Kaap!",
+      "fr": "Notre visite se penche sur l'histoire géologique qui a façonné notre ville, en explorant à la fois les formations naturelles et l'impact de l'homme. Nous découvrirons les modes de vie, les cultures et les histoires fascinantes des premiers habitants du Cap, les Khoikhoi, en retraçant leur histoire jusqu'aux diverses communautés qui vivent ici aujourd'hui.\r\n\r\nRejoignez-moi pour savourer les odeurs des épices venues d'Orient avec leur façon de cuisiner, qui ont commencé à se mélanger en Afrique du Sud. \r\nNous admirerons l'architecture d'hier et d'aujourd'hui tout en goûtant aux saveurs de la cuisine unique du Cap. Rejoignez-nous pour ne rien laisser au hasard, admirer des vues à couper le souffle et capturer des moments inoubliables de la ville mère.\r\n\r\nFlânons dans des rues dignes d'Instagram, admirons de superbes œuvres d'art dans le centre-ville et émerveillons-nous devant les maisons colorées de Bo-Kaap !",
+      "it": "Il nostro tour si addentra nella storia geologica che ha plasmato la nostra città, esplorando sia le formazioni naturali che l'impatto umano. Scopriremo gli stili di vita, le culture e le storie affascinanti dei primi abitanti del Capo, i Khoikhoi, ripercorrendo la loro storia fino alle diverse comunità che vivono qui oggi.\r\n\r\nUnisciti a me mentre assaporiamo gli odori delle spezie provenienti dall'Oriente che, insieme al loro modo di cucinare, hanno iniziato a mescolarsi in Sudafrica. \r\nAmmireremo l'architettura del passato e del presente e sperimenteremo i sapori della cucina unica di Città del Capo. Unisciti a noi mentre non lasciamo nulla di intentato, ammirando panorami mozzafiato e catturando momenti indimenticabili della Città Madre.\r\n\r\nPasseggiamo per strade degne di Instagram, ammiriamo splendide opere d'arte nel centro della città e ci stupiamo delle case colorate di Bo-Kaap!",
+      "pt": "O nosso passeio mergulha na história geológica que moldou a nossa cidade, explorando tanto as formações naturais como o impacto humano. Vamos descobrir os estilos de vida, as culturas e as histórias fascinantes dos primeiros habitantes do Cabo, os Khoikhoi, traçando a sua história até às diversas comunidades que aqui vivem atualmente.\r\n\r\nJunte-se a mim enquanto desfrutamos dos cheiros das especiarias do Oriente que vieram com a sua forma de cozinhar e que começaram a misturar-se na África do Sul. \r\nAdmiraremos a arquitetura do passado e do presente, enquanto experimentamos os sabores da cozinha única da Cidade do Cabo. Junte-se a nós enquanto não deixamos nenhuma pedra por virar, desfrutando de vistas deslumbrantes e capturando momentos inesquecíveis da Cidade Mãe.\r\n\r\nVamos passear por ruas dignas de Instagram, admirar obras de arte deslumbrantes no centro da cidade e maravilharmo-nos com as casas coloridas de Bo-Kaap!"
+    },
+    "providerTitle": "Arnold",
+    "providerPhone": "+27786683509",
+    "URL": "https://www.freetour.com/cape-town/explore-vibrant-downtown-bo-kaap?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/cape-town/explore-vibrant-downtown-bo-kaap?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/cape-town/explore-vibrant-downtown-bo-kaap?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/cape-town/explore-vibrant-downtown-bo-kaap?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/cape-town/explore-vibrant-downtown-bo-kaap?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/cape-town/explore-vibrant-downtown-bo-kaap?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/cape-town/explore-vibrant-downtown-bo-kaap?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "Cafe Santé 15 Short Market Street",
+      "coordinates": "-33.92292,18.42073",
+      "googlePlaceId": "ChIJO7IY-WNnzB0RlOIFGBy96qQ"
+    },
+    "cityId": 3736,
+    "countryId": 144,
+    "includes": [
+      "Cafe Sante (Bar - Restaurant)",
+      "Iziko Bo-Kaap Museum"
+    ],
+    "POIs": [
+      {
+        "id": 30231,
+        "title": "Cafe Sante (Bar - Restaurant)",
+        "googlePlaceId": "ChIJG0qKbGRnzB0RcJUY_4k-wYQ"
+      },
+      {
+        "id": 6027,
+        "title": "Iziko Bo-Kaap Museum",
+        "googlePlaceId": "ChIJjSQp42VnzB0R6WYFH3MPXjk"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/72538/explore-vibrant-downtown-bo-kaap-01.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 252803,
+        "URL": "https://www.freetour.com/images/tours/72538/explore-vibrant-downtown-bo-kaap-01.jpg"
+      },
+      {
+        "id": 252701,
+        "URL": "https://www.freetour.com/images/tours/72538/-08.jpg"
+      },
+      {
+        "id": 252695,
+        "URL": "https://www.freetour.com/images/tours/72538/-02.jpg"
+      },
+      {
+        "id": 252697,
+        "URL": "https://www.freetour.com/images/tours/72538/-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.91,
+    "reviewsNumber": 27
   }
 ]

@@ -76,22 +76,73 @@ export function ToursPageClient({
         return pag;
     });
 
+    // Sync UI filters and pagination from URL when language changes (to keep UI state in sync)
+    // This ensures the filter panel and pagination show correct values even after language change
+    useEffect(() => {
+        // Skip on initial mount (handled by useState initializer)
+        if (isInitialMount.current) {
+            return;
+        }
+        
+        const { filters: urlFilters, pagination: urlPagination } = parseUrlParams();
+        
+        // Always sync from URL when language changes to ensure filters and pagination are preserved
+        // The URL is the source of truth
+        setUiFilters(prev => {
+            // Only update if values actually differ to avoid unnecessary re-renders
+            if (
+                urlFilters.countryId !== prev.countryId ||
+                urlFilters.cityId !== prev.cityId ||
+                urlFilters.minPrice !== prev.minPrice ||
+                urlFilters.maxPrice !== prev.maxPrice ||
+                urlFilters.search !== prev.search
+            ) {
+                previousFiltersRef.current = urlFilters;
+                return urlFilters;
+            }
+            return prev;
+        });
+        
+        setPagination(prev => {
+            // Only update if page actually differs to avoid unnecessary re-renders
+            if (urlPagination.page !== prev.page) {
+                previousPaginationRef.current = urlPagination;
+                return urlPagination;
+            }
+            return prev;
+        });
+    }, [language, parseUrlParams]); // Re-sync when language changes to preserve filters and pagination
+
     // Convert UI filters to repository filters
+    // Always read critical filters from URL as source of truth to prevent losing them on language change
+    // This ensures filters are preserved even when language changes and component re-renders
+    const urlCityId = searchParams.get('cityId') ? parseInt(searchParams.get('cityId')!, 10) : undefined;
+    const urlCountryId = searchParams.get('countryId') ? parseInt(searchParams.get('countryId')!, 10) : 99;
+    const urlMinPrice = searchParams.get('minPrice') ? parseFloat(searchParams.get('minPrice')!) : undefined;
+    const urlMaxPrice = searchParams.get('maxPrice') ? parseFloat(searchParams.get('maxPrice')!) : undefined;
+    
     const repositoryFilters: RepositoryTourFilters = {
         language,
-        countryId: uiFilters.countryId,
-        cityId: uiFilters.cityId,
-        minPrice: uiFilters.minPrice,
-        maxPrice: uiFilters.maxPrice,
+        // Use URL values as source of truth, fallback to uiFilters for state consistency
+        countryId: urlCountryId ?? uiFilters.countryId,
+        cityId: urlCityId ?? uiFilters.cityId,
+        minPrice: urlMinPrice ?? uiFilters.minPrice,
+        maxPrice: urlMaxPrice ?? uiFilters.maxPrice,
     };
 
+    // Read page from URL as source of truth (same approach as filters)
+    const urlPage = searchParams.get('page') ? parseInt(searchParams.get('page')!, 10) : 1;
+    const urlSearch = searchParams.get('search') || undefined;
+    
     // Build pagination with search if provided
+    // Use URL values as source of truth, fallback to state for consistency
     const paginationWithSearch: PaginationParams = {
-        ...pagination,
-        ...(uiFilters.search && {
-            searchValue: uiFilters.search,
+        page: urlPage ?? pagination.page ?? 1,
+        limit: pagination.limit ?? 20,
+        ...(urlSearch ?? uiFilters.search ? {
+            searchValue: urlSearch ?? uiFilters.search,
             searchBy: ['title', 'brief', 'description'],
-        }),
+        } : {}),
     };
 
     // Check if we should use initial data
@@ -177,6 +228,9 @@ export function ToursPageClient({
     // Track if we're updating from URL (to prevent loops)
     const isUpdatingFromUrl = useRef(false);
     const isInitialMount = useRef(true);
+    const previousUrlParams = useRef<string>('');
+    const previousFiltersRef = useRef<UITourFilters>(uiFilters);
+    const previousPaginationRef = useRef<PaginationParams>(pagination);
 
     // Sync URL when filters or pagination change (but not on initial mount or when updating from URL)
     useEffect(() => {
@@ -186,36 +240,117 @@ export function ToursPageClient({
             if (!searchParams.get('countryId')) {
                 updateUrlParams(uiFilters, pagination);
             }
+            // Store initial URL params and state
+            previousUrlParams.current = searchParams.toString();
+            previousFiltersRef.current = uiFilters;
+            previousPaginationRef.current = pagination;
             return;
         }
+        
+        // Don't update URL if we're currently syncing from URL changes
         if (isUpdatingFromUrl.current) {
             return;
         }
-        updateUrlParams(uiFilters, pagination);
-    }, [uiFilters, pagination, updateUrlParams, searchParams]);
+        
+        // Only update URL if filters or pagination actually changed
+        const filtersChanged = 
+            previousFiltersRef.current.countryId !== uiFilters.countryId ||
+            previousFiltersRef.current.cityId !== uiFilters.cityId ||
+            previousFiltersRef.current.minPrice !== uiFilters.minPrice ||
+            previousFiltersRef.current.maxPrice !== uiFilters.maxPrice ||
+            previousFiltersRef.current.search !== uiFilters.search;
+        
+        const paginationChanged = previousPaginationRef.current.page !== pagination.page;
+
+        if (filtersChanged || paginationChanged) {
+            previousFiltersRef.current = uiFilters;
+            previousPaginationRef.current = pagination;
+            
+            // Build the expected URL params string to track what we're setting
+            const params = new URLSearchParams();
+            if (uiFilters.countryId !== undefined) {
+                params.set('countryId', uiFilters.countryId.toString());
+            }
+            if (uiFilters.cityId) params.set('cityId', uiFilters.cityId.toString());
+            if (uiFilters.minPrice !== undefined) params.set('minPrice', uiFilters.minPrice.toString());
+            if (uiFilters.maxPrice !== undefined) params.set('maxPrice', uiFilters.maxPrice.toString());
+            if (uiFilters.search) params.set('search', uiFilters.search);
+            if (pagination.page && pagination.page > 1) {
+                params.set('page', pagination.page.toString());
+            }
+            const expectedUrlParams = params.toString();
+            
+            // Update the URL ref to track what we expect the URL to be
+            previousUrlParams.current = expectedUrlParams;
+            
+            updateUrlParams(uiFilters, pagination);
+        }
+    }, [uiFilters, pagination, updateUrlParams]);
 
     // Update state when URL params change (e.g., browser back/forward)
     useEffect(() => {
+        const currentUrlParams = searchParams.toString();
+        
+        // Skip if URL hasn't actually changed (prevents unnecessary re-runs)
+        if (currentUrlParams === previousUrlParams.current) {
+            return;
+        }
+        
+        // Don't process if we're currently updating from state (to prevent loops)
+        if (isUpdatingFromUrl.current) {
+            // We're in the middle of a state update, skip this URL change
+            return;
+        }
+        
         const { filters: urlFilters, pagination: urlPagination } = parseUrlParams();
         
-        // Only update if URL params actually changed to avoid unnecessary re-renders
-        const filtersChanged = 
-            urlFilters.countryId !== uiFilters.countryId ||
-            urlFilters.cityId !== uiFilters.cityId ||
-            urlFilters.minPrice !== uiFilters.minPrice ||
-            urlFilters.maxPrice !== uiFilters.maxPrice ||
-            urlFilters.search !== uiFilters.search;
+        // Helper function to compare values (handles undefined/null)
+        const valuesEqual = (a: any, b: any): boolean => {
+            if (a === undefined && b === undefined) return true;
+            if (a === undefined || b === undefined) return false;
+            return a === b;
+        };
         
-        const paginationChanged = urlPagination.page !== pagination.page;
+        // Check if URL params match current state (meaning state caused the URL change)
+        const urlMatchesState = 
+            valuesEqual(urlFilters.countryId, previousFiltersRef.current.countryId) &&
+            valuesEqual(urlFilters.cityId, previousFiltersRef.current.cityId) &&
+            valuesEqual(urlFilters.minPrice, previousFiltersRef.current.minPrice) &&
+            valuesEqual(urlFilters.maxPrice, previousFiltersRef.current.maxPrice) &&
+            valuesEqual(urlFilters.search, previousFiltersRef.current.search) &&
+            urlPagination.page === previousPaginationRef.current.page;
+        
+        // If URL matches current state, this was our update, so just update the ref and skip
+        if (urlMatchesState) {
+            previousUrlParams.current = currentUrlParams;
+            return;
+        }
+        
+        // URL doesn't match state, so this is a user action (browser navigation)
+        // Update the ref to track current URL
+        previousUrlParams.current = currentUrlParams;
+        
+        // Compare with current state using refs to avoid stale closures
+        const filtersChanged = 
+            !valuesEqual(urlFilters.countryId, previousFiltersRef.current.countryId) ||
+            !valuesEqual(urlFilters.cityId, previousFiltersRef.current.cityId) ||
+            !valuesEqual(urlFilters.minPrice, previousFiltersRef.current.minPrice) ||
+            !valuesEqual(urlFilters.maxPrice, previousFiltersRef.current.maxPrice) ||
+            !valuesEqual(urlFilters.search, previousFiltersRef.current.search);
+        
+        const paginationChanged = urlPagination.page !== previousPaginationRef.current.page;
 
         if (filtersChanged || paginationChanged) {
             isUpdatingFromUrl.current = true;
             setUiFilters(urlFilters);
             setPagination(urlPagination);
-            // Reset flag after state update
-            setTimeout(() => {
+            // Update refs immediately
+            previousFiltersRef.current = urlFilters;
+            previousPaginationRef.current = urlPagination;
+            // Reset flag after state update completes
+            requestAnimationFrame(() => {
                 isUpdatingFromUrl.current = false;
-            }, 0);
+            });
         }
     }, [searchParams, parseUrlParams]);
 

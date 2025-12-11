@@ -1,7 +1,7 @@
 [
   {
     "id": 378,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Walking Tour: Old City & Getsemaní",
       "es": "Free Tour pie: Ciudad Vieja y Getsemaní",
@@ -133,11 +133,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=YlzJ8PFiis",
     "rating": 4.75,
-    "reviewsNumber": 505
+    "reviewsNumber": 508
   },
   {
     "id": 500,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Walking Tour Bogota",
       "es": "Free Tour a Pie por Bogotá",
@@ -393,11 +393,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=e8dXR7GW1KM",
     "rating": 4.84,
-    "reviewsNumber": 797
+    "reviewsNumber": 802
   },
   {
     "id": 845,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Walking Tour Cartagena",
       "es": "Free Tour a Pie por Cartagena",
@@ -532,7 +532,7 @@
   },
   {
     "id": 1762,
-    "updatedAt": "2025-12-01 01:01:24",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bogota Layover City Tour",
       "es": "Tour de Escala por la Ciudad de Bogotá",
@@ -659,7 +659,7 @@
   },
   {
     "id": 1763,
-    "updatedAt": "2025-12-01 01:01:24",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salt Cathedral and Lagoon of Guatavitá Trip in Bogota",
       "es": "Viaje a la Catedral de Sal y Laguna de Guatavitá en Bogotá",
@@ -758,7 +758,7 @@
   },
   {
     "id": 1814,
-    "updatedAt": "2025-12-01 01:01:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "El Peñol and Guatape Private Tour",
       "es": "El Peñol y Guatape Tour Privado",
@@ -855,7 +855,7 @@
   },
   {
     "id": 1933,
-    "updatedAt": "2025-12-01 01:01:30",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coffee Tour in Fusagasugá from Bogotá",
       "es": "Tour de Café en Fusagasugá desde Bogotá",
@@ -962,7 +962,7 @@
   },
   {
     "id": 1934,
-    "updatedAt": "2025-12-01 01:01:30",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to the Salt Cathedral of Zipaquirá from Bogotá ",
       "es": "Excursión a la Catedral de Sal de Zipaquirá desde Bogotá ",
@@ -1063,7 +1063,7 @@
   },
   {
     "id": 1935,
-    "updatedAt": "2025-12-01 01:01:31",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Lake Guatavitá from Bogotá",
       "es": "Tour Privado a la Laguna de Guatavita desde Bogotá",
@@ -1160,7 +1160,7 @@
   },
   {
     "id": 1949,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ciudad Bolivar - Colorful Graffiti Tour ",
       "es": "Ciudad Bolívar - Colorido Tour de Graffiti ",
@@ -1285,7 +1285,7 @@
   },
   {
     "id": 2699,
-    "updatedAt": "2025-12-01 01:01:44",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Medellin Tour: Guatape, La Piedra & Lunch ",
       "es": "Medellín Tour: Guatape, La Piedra y Almuerzo ",
@@ -1371,7 +1371,7 @@
   },
   {
     "id": 2890,
-    "updatedAt": "2025-12-01 11:50:27",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Food Tour of Bogota",
       "es": "Tour gastronómico gratuito por Bogotá",
@@ -1582,7 +1582,7 @@
   },
   {
     "id": 3642,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour City of Bogotá",
       "es": "Free Tour Ciudad de Bogotá",
@@ -1716,7 +1716,7 @@
   },
   {
     "id": 4132,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Medellín Free Tour: City of Contrasts",
       "es": "Medellín Free Tour: Ciudad de contrastes",
@@ -1944,7 +1944,7 @@
   },
   {
     "id": 4358,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour Comuna 13 Medellín (Graffiti Tour)",
       "es": "Free Tour Comuna 13 Medellín (Graffiti Tour)",
@@ -1962,12 +1962,12 @@
       "pt": "Passeie pela vibrante Comuna 13 de Medellín neste fascinante passeio gratuito pelas ruas, histórias, história e expressões artísticas dos nossos habitantes. "
     },
     "description": {
-      "de": "Willkommen in unserer Comuna 13 in Medellin. Ein Ort, der aufgrund seiner Lage zum gefährlichsten Sektor der Welt geworden ist. Geben Sie uns die Gelegenheit, Ihnen zu erzählen, was in diesem Gebiet wirklich passiert ist und warum sich in der Comuna 13 illegale Gruppen gebildet haben, die der Grund für den bewaffneten Konflikt an dem gefährlichsten Ort der Welt waren.\r\n\r\nWir werden über die 24 Militäroperationen in der Comuna 13 sprechen, die 1998 begannen und 2002 endeten; im Rahmen der Geschichte werden wir über die beiden größten Operationen sprechen, die Operation Marshal und die Operation Orion, und dann werden wir über den sozialen Wandel sprechen.\r\n\r\nDie Comuna 13 von Medellín ist einer der meistbesuchten Orte in Kolumbien.\r\n\r\nBegleiten Sie uns auf diesem interessanten Rundgang durch die Comuna 13 und genießen Sie eine der besten Rolltreppen der Welt, die es gibt. Sobald wir uns im Tourismussektor befinden, werden wir einen wunderbaren Spaziergang machen. Wir werden viele schöne Dinge sehen, wie Graffiti-Wandmalereien, bunte Häuser im Inneren, Kunstgalerien, Museen und natürlich 2 spektakuläre Aussichtspunkte, um fast ganz Medellín zu sehen.\r\n\r\nWir werden auch 5 Stopps auf dieser geführten Tour machen, um über die Geschichte und aktuelle Ereignisse im Zusammenhang mit Medellin und seinen schönen Orten zu sprechen.",
-      "en": "Welcome to our Comuna 13 in Medellin. A place that, due to its location, had become the most dangerous sector in the world. Give us the opportunity to tell you what really happened in this area, and why illegal groups were established in Comuna 13, which was the reason for the armed conflict in the most dangerous place in the world.\r\n\r\nWe will talk about the 24 military operations in Comuna 13, which began in 1998 and ended in 2002; within the story, we will talk about the two largest operations, Operation Marshal and Operation Orion, and then we will talk about social transformation.\r\n\r\nThe Comuna 13 of Medellín is one of the most visited places in Colombia.\r\n\r\nJoin us on this interesting tour and experience of Comuna 13, and enjoy one of the best escalators in the world for its properties. As soon as we are in the tourism sector, we will have a wonderful walking tour. We will see many beautiful things such as graffiti murals, colorful houses inside, art galleries, museums, and of course 2 spectacular viewpoints to see almost all of Medellín.\r\n\r\nWe will also make 5 stops on this guided tour to talk about the history and current events related to Medellin and its beautiful places.",
-      "es": "Bienvenidos a nuestra Comuna 13 en Medellín. Un lugar que, por su ubicación, se había convertido en el sector más peligroso del mundo. Denos la oportunidad de contarle lo que realmente sucedió en esta zona, y por qué se establecieron grupos ilegales en la Comuna 13, que fue la razón del conflicto armado en el lugar más peligroso del mundo.\r\n\r\nHablaremos de las 24 operaciones militares en la Comuna 13, que comenzaron en 1998 y terminaron en 2002; dentro del relato, hablaremos de las dos operaciones más grandes, la Operación Mariscal y la Operación Orión, y luego hablaremos de la transformación social.\r\n\r\nLa Comuna 13 de Medellín es uno de los lugares más visitados de Colombia.\r\n\r\nAcompáñanos en este interesante recorrido y experiencia por la Comuna 13, y disfruta de una de las mejores escaleras mecánicas del mundo por sus propiedades. En cuanto estemos en el sector turístico, haremos un maravilloso recorrido a pie. Veremos muchas cosas hermosas como murales de graffiti, casas coloridas por dentro, galerías de arte, museos, y por supuesto 2 miradores espectaculares para ver casi todo Medellín.\r\n\r\nTambién haremos 5 paradas en este tour guiado para hablar sobre la historia y la actualidad relacionada con Medellín y sus hermosos lugares.",
-      "fr": "Bienvenue dans notre Comuna 13 à Medellin. Un endroit qui, en raison de sa situation, est devenu le secteur le plus dangereux du monde. Donnez-nous l'occasion de vous raconter ce qui s'est réellement passé dans cette zone, et pourquoi des groupes illégaux se sont établis dans la Comuna 13, ce qui a été à l'origine du conflit armé dans l'endroit le plus dangereux du monde.\r\n\r\nNous parlerons des 24 opérations militaires dans la Comuna 13, qui ont commencé en 1998 et se sont terminées en 2002 ; dans ce récit, nous parlerons des deux opérations les plus importantes, l'opération Marshal et l'opération Orion, puis nous aborderons la question de la transformation sociale.\r\n\r\nLa Comuna 13 de Medellín est l'un des endroits les plus visités de Colombie.\r\n\r\nRejoignez-nous pour cette intéressante visite et expérience de la Comuna 13, et profitez de l'un des meilleurs escaliers mécaniques au monde pour ses propriétés. Dès que nous serons dans le secteur du tourisme, nous ferons une merveilleuse visite à pied. Nous verrons beaucoup de belles choses telles que des graffitis muraux, des maisons colorées à l'intérieur, des galeries d'art, des musées, et bien sûr deux points de vue spectaculaires pour voir presque toute la ville de Medellín.\r\n\r\nNous ferons également 5 arrêts au cours de cette visite guidée pour parler de l'histoire et des événements actuels liés à Medellin et à ses beaux endroits.",
-      "it": "Benvenuti nella Comuna 13 di Medellin. Un luogo che, per la sua posizione, è diventato il settore più pericoloso del mondo. Ci permettiamo di raccontarvi cosa è successo realmente in questa zona e perché nella Comuna 13 si sono insediati gruppi illegali, che sono stati la causa del conflitto armato nel luogo più pericoloso del mondo.\r\n\r\nParleremo delle 24 operazioni militari nella Comuna 13, iniziate nel 1998 e terminate nel 2002; all'interno della storia, parleremo delle due operazioni più importanti, l'Operazione Marshal e l'Operazione Orion, e poi parleremo della trasformazione sociale.\r\n\r\nLa Comuna 13 di Medellín è uno dei luoghi più visitati della Colombia.\r\n\r\nUnitevi a noi in questo interessante tour ed esperienza della Comuna 13, e godetevi una delle migliori scale mobili del mondo per le sue proprietà. Appena entrati nel settore turistico, faremo un meraviglioso tour a piedi. Vedremo molte cose belle come graffiti murali, case colorate all'interno, gallerie d'arte, musei e, naturalmente, 2 punti panoramici spettacolari per vedere quasi tutta Medellín.\r\n\r\nDurante questa visita guidata faremo anche 5 soste per parlare della storia e degli eventi attuali legati a Medellin e ai suoi bellissimi luoghi.",
-      "pt": "Bem-vindo à nossa Comuna 13 em Medellín. Um lugar que, devido à sua localização, se tornou o sector mais perigoso do mundo. Damos-lhe a oportunidade de lhe contar o que realmente aconteceu nesta zona e por que razão se estabeleceram grupos ilegais na Comuna 13, que foi a razão do conflito armado no local mais perigoso do mundo.\r\n\r\nVamos falar sobre as 24 operações militares na Comuna 13, que começaram em 1998 e terminaram em 2002; dentro da história, vamos falar sobre as duas maiores operações, a Operação Marshal e a Operação Orion, e depois vamos falar sobre a transformação social.\r\n\r\nA Comuna 13 de Medellín é um dos locais mais visitados da Colômbia.\r\n\r\nJunte-se a nós neste interessante passeio e experiência da Comuna 13, e desfrute de uma das melhores escadas rolantes do mundo pelas suas propriedades. Assim que estivermos no sector do turismo, teremos um maravilhoso passeio a pé. Veremos muitas coisas bonitas, como murais de graffiti, casas coloridas no interior, galerias de arte, museus e, claro, 2 miradouros espectaculares para ver quase toda a cidade de Medellín.\r\n\r\nTambém faremos 5 paragens nesta visita guiada para falar sobre a história e os eventos actuais relacionados com Medellín e os seus belos lugares."
+      "de": "Willkommen in unserer Comuna 13 in Medellin. Ein Ort, der aufgrund seiner Lage zum gefährlichsten Sektor der Welt geworden ist. Wir werden Ihnen erzählen, was in diesem Gebiet wirklich passiert ist und warum sich in der Comuna 13 illegale Gruppen gebildet haben, die der Grund für den bewaffneten Konflikt am gefährlichsten Ort der Welt waren.\r\n\r\nWir werden über die 24 Militäroperationen in der Comuna 13 sprechen, die 1998 begannen und 2002 endeten; im Rahmen der Geschichte werden wir über die zwei größten Operationen sprechen, die Operation Marshal und die Operation Orion, und dann werden wir über den sozialen Wandel sprechen.\r\n\r\nDie Comuna 13 von Medellín ist einer der meistbesuchten Orte in Kolumbien.\r\n\r\nBegleiten Sie uns auf diesem interessanten Rundgang durch die Comuna 13 und genießen Sie eine der besten Rolltreppen der Welt, die es gibt. Sobald wir uns im Tourismussektor befinden, werden wir einen wunderbaren Rundgang machen. Wir werden viele schöne Dinge sehen, wie Graffiti-Wandmalereien, bunte Häuser im Inneren, Kunstgalerien, Museen und natürlich 2 spektakuläre Aussichtspunkte, von denen man fast ganz Medellín sehen kann.\r\n\r\nWir werden auch 5 Stopps auf dieser geführten Tour machen, um über die Geschichte und aktuelle Ereignisse im Zusammenhang mit Medellin und seinen schönen Orten zu sprechen.",
+      "en": "Welcome to our Comuna 13 in Medellin. A place that, due to its location, had become the most dangerous sector in the world. Allow us to tell you what really happened in this area, and why illegal groups were established in Comuna 13, which was the reason for the armed conflict in the most dangerous place in the world.\r\n\r\nWe will talk about the 24 military operations in Comuna 13, which began in 1998 and ended in 2002; within the story, we will talk about the two largest operations, Operation Marshal and Operation Orion, and then we will talk about social transformation.\r\n\r\nThe Comuna 13 of Medellín is one of the most visited places in Colombia.\r\n\r\nJoin us on this interesting tour and experience of Comuna 13, and enjoy one of the best escalators in the world for its properties. As soon as we are in the tourism sector, we will have a wonderful walking tour. We will see many beautiful things, such as graffiti murals, colorful houses inside, art galleries, museums, and of course, 2 spectacular viewpoints to see almost all of Medellín.\r\n\r\nWe will also make 5 stops on this guided tour to talk about the history and current events related to Medellin and its beautiful places.",
+      "es": "Bienvenidos a nuestra Comuna 13 en Medellín. Un lugar que, por su ubicación, se había convertido en el sector más peligroso del mundo. Permítanos contarle lo que realmente sucedió en esta zona, y por qué se establecieron grupos ilegales en la Comuna 13, que fue la razón del conflicto armado en el lugar más peligroso del mundo.\r\n\r\nHablaremos de las 24 operaciones militares en la Comuna 13, que comenzaron en 1998 y terminaron en 2002; dentro del relato, hablaremos de las dos operaciones más grandes, la Operación Mariscal y la Operación Orión, y luego hablaremos de la transformación social.\r\n\r\nLa Comuna 13 de Medellín es uno de los lugares más visitados de Colombia.\r\n\r\nAcompáñanos en este interesante recorrido y experiencia por la Comuna 13, y disfruta de una de las mejores escaleras mecánicas del mundo por sus propiedades. En cuanto estemos en el sector turístico, haremos un maravilloso recorrido a pie. Veremos muchas cosas hermosas, como murales de graffiti, casas coloridas por dentro, galerías de arte, museos, y por supuesto, 2 miradores espectaculares para ver casi todo Medellín.\r\n\r\nTambién haremos 5 paradas en esta visita guiada para hablar sobre la historia y los acontecimientos actuales relacionados con Medellín y sus hermosos lugares.",
+      "fr": "Bienvenue dans notre Comuna 13 à Medellin. Un endroit qui, en raison de sa situation, est devenu le secteur le plus dangereux du monde. Permettez-nous de vous raconter ce qui s'est réellement passé dans cette zone, et pourquoi des groupes illégaux se sont établis dans la Comuna 13, ce qui a été à l'origine du conflit armé dans l'endroit le plus dangereux du monde.\r\n\r\nNous parlerons des 24 opérations militaires dans la Comuna 13, qui ont commencé en 1998 et se sont terminées en 2002 ; dans ce récit, nous parlerons des deux opérations les plus importantes, l'opération Marshal et l'opération Orion, puis nous aborderons la question de la transformation sociale.\r\n\r\nLa Comuna 13 de Medellín est l'un des endroits les plus visités de Colombie.\r\n\r\nRejoignez-nous pour cette intéressante visite et expérience de la Comuna 13, et profitez de l'un des meilleurs escaliers mécaniques au monde pour ses propriétés. Dès que nous serons dans le secteur du tourisme, nous ferons une merveilleuse visite à pied. Nous verrons beaucoup de belles choses, comme des graffitis muraux, des maisons colorées à l'intérieur, des galeries d'art, des musées, et bien sûr, deux points de vue spectaculaires pour voir presque toute la ville de Medellín.\r\n\r\nNous ferons également 5 arrêts au cours de cette visite guidée pour parler de l'histoire et des événements actuels liés à Medellin et à ses beaux endroits.",
+      "it": "Benvenuti nella Comuna 13 di Medellin. Un luogo che, per la sua posizione, è diventato il settore più pericoloso del mondo. Vi raccontiamo cosa è successo realmente in questa zona e perché nella Comuna 13 si sono insediati gruppi illegali, che sono stati la causa del conflitto armato nel luogo più pericoloso del mondo.\r\n\r\nParleremo delle 24 operazioni militari nella Comuna 13, iniziate nel 1998 e terminate nel 2002; all'interno della storia, parleremo delle due operazioni più importanti, l'Operazione Marshal e l'Operazione Orion, e poi parleremo della trasformazione sociale.\r\n\r\nLa Comuna 13 di Medellín è uno dei luoghi più visitati della Colombia.\r\n\r\nUnitevi a noi in questo interessante tour ed esperienza della Comuna 13, e godetevi una delle migliori scale mobili del mondo per le sue proprietà. Appena entrati nel settore turistico, faremo un meraviglioso tour a piedi. Vedremo molte cose belle, come graffiti murali, case colorate all'interno, gallerie d'arte, musei e, naturalmente, 2 punti panoramici spettacolari per vedere quasi tutta Medellín.\r\n\r\nDurante questa visita guidata faremo anche 5 soste per parlare della storia e degli eventi attuali legati a Medellin e ai suoi bellissimi luoghi.",
+      "pt": "Bem-vindo à nossa Comuna 13 em Medellín. Um lugar que, devido à sua localização, se tornou o sector mais perigoso do mundo. Permita-nos que lhe contemos o que realmente aconteceu nesta zona e por que razão se estabeleceram grupos ilegais na Comuna 13, que foi a razão do conflito armado no local mais perigoso do mundo.\r\n\r\nVamos falar sobre as 24 operações militares na Comuna 13, que começaram em 1998 e terminaram em 2002; dentro da história, vamos falar sobre as duas maiores operações, a Operação Marshal e a Operação Orion, e depois vamos falar sobre a transformação social.\r\n\r\nA Comuna 13 de Medellín é um dos locais mais visitados da Colômbia.\r\n\r\nJunte-se a nós neste interessante passeio e experiência da Comuna 13, e desfrute de uma das melhores escadas rolantes do mundo pelas suas propriedades. Assim que estivermos no sector do turismo, teremos um maravilhoso passeio a pé. Veremos muitas coisas bonitas, como murais de graffiti, casas coloridas no interior, galerias de arte, museus e, claro, 2 miradouros espectaculares para ver quase toda a cidade de Medellín.\r\n\r\nTambém faremos 5 paragens nesta visita guiada para falar sobre a história e os eventos actuais relacionados com Medellín e os seus belos lugares."
     },
     "providerTitle": "World Lion Tour",
     "providerPhone": "+573007776568",
@@ -2127,11 +2127,11 @@
     ],
     "videoURL": "https://youtu.be/9zBiY5Azi-M",
     "rating": 4.65,
-    "reviewsNumber": 598
+    "reviewsNumber": 602
   },
   {
     "id": 4703,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Top Bogotá History Free Tour: La Candelaria Experience",
       "es": "Top Bogotá Historia Free Tour: La Candelaria",
@@ -2320,12 +2320,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=BpgXL_Z2e2o",
-    "rating": 4.8100000000000005,
-    "reviewsNumber": 501
+    "rating": 4.82,
+    "reviewsNumber": 503
   },
   {
     "id": 4794,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guide in Medellín, Santa Fe de Antioquía, Guatapé and Río Claro",
       "es": "Guía en Medellín, Santa Fe de Antioquía, Guatapé y Río Claro",
@@ -2400,7 +2400,7 @@
   },
   {
     "id": 5032,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Medellín: Love at First Sight, History of Its Social Transformation",
       "es": "Medellín: Amor a Primera Vista, Historia de Su Transformación Social",
@@ -2552,7 +2552,7 @@
   },
   {
     "id": 5088,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Colombian Conflict Tour: War, Drug Trafficking & Peace",
       "es": "Tour gratuito sobre el conflicto colombiano: Guerra, narcotráfico y paz",
@@ -2715,7 +2715,7 @@
   },
   {
     "id": 5135,
-    "updatedAt": "2025-12-01 01:02:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipaquirá and Andres Carne de Res in Chía",
       "es": "Zipaquirá y Andres Carne de Res en Chía",
@@ -2822,7 +2822,7 @@
   },
   {
     "id": 5136,
-    "updatedAt": "2025-12-01 01:02:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipaquirá and Mina de Sal de Nemocón Private Tour all Inclusive",
       "es": "Zipaquirá y Mina de Sal de Nemocón Tour Privado todo Incluido",
@@ -2917,7 +2917,7 @@
   },
   {
     "id": 5138,
-    "updatedAt": "2025-12-01 01:02:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salto del Tequendama and Coffee Farm Tour",
       "es": "Salto del Tequendama y visita al cafetal",
@@ -3011,7 +3011,7 @@
   },
   {
     "id": 5142,
-    "updatedAt": "2025-12-01 01:02:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Bogotá: Tour to the Waterfall of La Chorrera",
       "es": "Desde Bogotá: Tour a la Cascada de La Chorrera",
@@ -3099,7 +3099,7 @@
   },
   {
     "id": 5144,
-    "updatedAt": "2025-12-01 01:02:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bogota's Historic Center & Monserrate in One Day",
       "es": "Centro histórico de Bogotá y Monserrate en un día",
@@ -3235,7 +3235,7 @@
   },
   {
     "id": 5147,
-    "updatedAt": "2025-12-01 01:02:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Villa de Leyva and Cathedral of Salt Tour",
       "es": "Tour Villa de Leyva y Catedral de Sal",
@@ -3349,7 +3349,7 @@
   },
   {
     "id": 5157,
-    "updatedAt": "2025-12-01 01:02:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Half Day Trip to the Salt Mine of Nemocón",
       "es": "Excursión de Medio Día a la Mina de Sal de Nemocón",
@@ -3448,7 +3448,7 @@
   },
   {
     "id": 5158,
-    "updatedAt": "2025-12-01 01:02:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Tatacoa Desert Tour from Bogota",
       "es": "Excursión al desierto de la Tatacoa desde Bogotá",
@@ -3537,7 +3537,7 @@
   },
   {
     "id": 5169,
-    "updatedAt": "2025-12-01 01:02:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chingaza National Park Day Trip & Hiking Tour",
       "es": "Excursión de un Día al Parque Nacional Chingaza",
@@ -3630,7 +3630,7 @@
   },
   {
     "id": 5171,
-    "updatedAt": "2025-12-01 01:02:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Transfer Aeropuerto El Dorado Bogotá",
       "es": "Traslado Aeropuerto El Dorado Bogotá",
@@ -3721,7 +3721,7 @@
   },
   {
     "id": 5172,
-    "updatedAt": "2025-12-01 01:02:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Villa de Leyva Day Tour",
       "es": "Villa de Leyva Tour",
@@ -3939,7 +3939,7 @@
   },
   {
     "id": 6001,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Comuna 13: Graffiti & Culture Free Tour",
       "es": "Comuna 13: Graffiti y Cultura Free Tour",
@@ -4051,11 +4051,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=F3wR38__F8E",
     "rating": 4.89,
-    "reviewsNumber": 107
+    "reviewsNumber": 109
   },
   {
     "id": 6511,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Trip to Guatapé",
       "es": "Excursión de un día a Guatapé",
@@ -4145,7 +4145,7 @@
   },
   {
     "id": 7328,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Medellin: Historic Downtown",
       "es": "Tour Gratis Medellín: Centro Histórico",
@@ -4311,7 +4311,7 @@
   },
   {
     "id": 7474,
-    "updatedAt": "2025-12-01 01:03:41",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipaquira Salt Cathedral Group Tour - Tour From 1 Pax",
       "es": "Tour en Grupo a la Catedral de Sal de Zipaquirá - Tour Desde 1 Pax",
@@ -4422,7 +4422,7 @@
   },
   {
     "id": 7995,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Cartagena’s Walled City Group Tour",
       "es": "Visita gratuita en grupo a la ciudad amurallada de Cartagena",
@@ -4641,11 +4641,11 @@
     ],
     "videoURL": null,
     "rating": 4.59,
-    "reviewsNumber": 558
+    "reviewsNumber": 559
   },
   {
     "id": 11513,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "The First Getsemaní Tour: Art & Resistance",
       "es": "La Primera Gira Getsemaní: Arte y resistencia",
@@ -4825,7 +4825,7 @@
   },
   {
     "id": 12153,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to the Salt Mines in Nemocon and Andrés Carne De Res",
       "es": "Tour a la Mina de Sal en Nemocon y Andrés Carne De Res",
@@ -4935,7 +4935,7 @@
   },
   {
     "id": 13583,
-    "updatedAt": "2025-12-01 01:04:10",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Food and Music Experience at the Andrés Carne de Res Restaurant",
       "es": "Experiencia de Comida y Música en el Restaurante Andrés Carne de Res",
@@ -5016,7 +5016,7 @@
   },
   {
     "id": 15184,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour Medellín Private, With Transportation.",
       "es": "City Tour Medellín Privado, Con Transporte.",
@@ -5053,7 +5053,7 @@
       "it": "https://www.freetour.com/it/medellin/city-tour-medellin-centro-historico-y-comercial?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 45,
+      "value": 50,
       "currency": "EUR"
     },
     "length": "4:00",
@@ -5153,7 +5153,7 @@
   },
   {
     "id": 15213,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pablo Escobar Tour Medellin",
       "es": "Pablo Escobar Tour Medellín",
@@ -5260,7 +5260,7 @@
   },
   {
     "id": 15563,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipaquirá Salt Cathedral Tour: An Architectural Wonder",
       "es": "Catedral de sal de Zipaquirá: Una maravilla arquitectónica.",
@@ -5411,7 +5411,7 @@
   },
   {
     "id": 15566,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Villa de Leyva Tour: Culture and Amazement",
       "es": "Villa de Leyva Tour: Cultura y Asombro",
@@ -5552,7 +5552,7 @@
   },
   {
     "id": 15667,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Valledupar Calle Grande Cultural Walk",
       "es": "Caminata por la Calle Grande de Valledupar",
@@ -5642,7 +5642,7 @@
   },
   {
     "id": 16089,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coffee Experience: Tradition and Essence",
       "es": "Experiencia cafetera: Tradición y esencia",
@@ -5783,7 +5783,7 @@
   },
   {
     "id": 16283,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Adventure Tour Around Villa de Leyva",
       "es": "Tour de Aventura por Villa de Leyva",
@@ -5944,7 +5944,7 @@
   },
   {
     "id": 16291,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour to the Tatacoa Desert from Bogotá",
       "es": "Tour Privado al Desierto de la Tatacoa desde Bogotá",
@@ -6091,7 +6091,7 @@
   },
   {
     "id": 16364,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Historic Center of Medellín",
       "es": "Tour por el Centro Histórico de Medellín",
@@ -6237,7 +6237,7 @@
   },
   {
     "id": 16783,
-    "updatedAt": "2025-12-01 01:04:25",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "La Candelaria, Monserrate and Museums Bogotá City Tour",
       "es": "La Candelaria, Monserrate y Museos Bogotá City Tour",
@@ -6459,7 +6459,7 @@
   },
   {
     "id": 16831,
-    "updatedAt": "2025-12-01 01:04:25",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hike Tour to the Chorrera de Choachí Waterfall",
       "es": "Caminata a la Cascada Chorrera de Choachí",
@@ -6567,7 +6567,7 @@
   },
   {
     "id": 16837,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coffee Farm Hacienda La Coloma Daytrip",
       "es": "Finca de café Hacienda La Coloma Excursión de un día",
@@ -6668,7 +6668,7 @@
   },
   {
     "id": 16840,
-    "updatedAt": "2025-12-01 01:04:25",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salt Cathedral of Zipaquirá and Village and Lake Guatavita Day Trip",
       "es": "Tour de un Día: Catedral de Sal de Zipaquirá, Pueblo y Lago Guatavita",
@@ -6781,7 +6781,7 @@
   },
   {
     "id": 16841,
-    "updatedAt": "2025-12-01 01:04:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Village and Lake Guatavita Day Trip from Bogotá",
       "es": "Excursión de un Día al Pueblo y al Lago Guatavita desde Bogotá",
@@ -6869,7 +6869,7 @@
   },
   {
     "id": 16883,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salt Cathedral of Zipaquirá Daytrip",
       "es": "Excursión de un día a la Catedral de Sal de Zipaquirá",
@@ -6969,7 +6969,7 @@
   },
   {
     "id": 16884,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Horseback Riding from Guadalupe to Monserrate",
       "es": "Cabalgata desde Guadalupe a Monserrate",
@@ -7084,7 +7084,7 @@
   },
   {
     "id": 16885,
-    "updatedAt": "2025-12-01 01:04:26",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sumapaz Moorlands Hike Tour in Bogota",
       "es": "Excursión a los páramos de Sumapaz en Bogotá",
@@ -7224,7 +7224,7 @@
   },
   {
     "id": 17904,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exploring a Colonial and Republican City",
       "es": "Explorando una Ciudad Colonial y Republicana",
@@ -7297,7 +7297,7 @@
   },
   {
     "id": 18370,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipa-Nemocón Tour: Underground Fascination",
       "es": "Zipa-Nemocón Tour: Fascinación Subterránea",
@@ -7460,7 +7460,7 @@
   },
   {
     "id": 18747,
-    "updatedAt": "2025-12-01 01:04:33",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Get to Know Private Medellin City Tour",
       "es": "Conozca Medellín en Privado",
@@ -7568,7 +7568,7 @@
   },
   {
     "id": 18934,
-    "updatedAt": "2025-12-01 01:04:34",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Arvi Park Tour",
       "es": "Tour por Parque Arvi",
@@ -7685,7 +7685,7 @@
   },
   {
     "id": 18935,
-    "updatedAt": "2025-12-01 01:04:34",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Fantastic Guatape ",
       "es": "Tour de Guatape Fantástico ",
@@ -7785,7 +7785,7 @@
   },
   {
     "id": 18937,
-    "updatedAt": "2025-12-01 01:04:34",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City & Graffiti Commune 13 Tour",
       "es": "City &amp; Graffiti Commune 13 Tour",
@@ -7908,7 +7908,7 @@
   },
   {
     "id": 19057,
-    "updatedAt": "2025-12-01 01:04:35",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Departure Transfer: Hotel to Bogotá Airport",
       "es": "Traslado de Salida Privado: Hotel al Aeropuerto de Bogotá",
@@ -7993,7 +7993,7 @@
   },
   {
     "id": 19058,
-    "updatedAt": "2025-12-01 01:04:35",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Arrival Transfer: Bogotá Airport to Hotel",
       "es": "Traslado Privado de Llegada: Aeropuerto de Bogotá al Hotel",
@@ -8076,7 +8076,7 @@
   },
   {
     "id": 19095,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Andrés Carne de Res: Cover & Welcome Drink Expreience",
       "es": "Andrés Carne de Res: Experiencia Cover & Bebida de Bienvenida",
@@ -8197,7 +8197,7 @@
   },
   {
     "id": 19649,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Walking Tour Through Kalamari and Getsemaní in Cartagena",
       "es": "Paseo privado por Kalamari y Getsemaní en Cartagena",
@@ -8287,7 +8287,7 @@
   },
   {
     "id": 19663,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Getsemani Private Walking Tour",
       "es": "Paseo privado por Getsemani",
@@ -8381,7 +8381,7 @@
   },
   {
     "id": 20132,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Trekking Sabaneta: El Romeral",
       "es": "Senderismo Sabaneta: El Romeral",
@@ -8468,7 +8468,7 @@
   },
   {
     "id": 20366,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Walled City Cartagena Free Walking Tour",
       "es": "Visita guiada gratuita a pie por la ciudad amurallada de Cartagena",
@@ -8590,7 +8590,7 @@
   },
   {
     "id": 20585,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Monserrate Tour Bogota",
       "es": "Tour Gratis Monserrate Bogotá",
@@ -8731,7 +8731,7 @@
   },
   {
     "id": 21016,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour: Capital Heart",
       "es": "Tour de la Ciudad: Corazón de la Capital",
@@ -8864,7 +8864,7 @@
   },
   {
     "id": 21968,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Nuevos Aires of Medellin: Tramway and Cablecar",
       "es": "Free Tour Nuevos Aires de Medellín: Tranvía y Teleférico",
@@ -9012,7 +9012,7 @@
   },
   {
     "id": 21970,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Foodie Tour: Flavors in the Eternal Spring City",
       "es": "Recorrido gastronómico gratuito: Sabores en la Ciudad Eterna de la Primavera",
@@ -9147,7 +9147,7 @@
   },
   {
     "id": 22473,
-    "updatedAt": "2025-12-01 01:05:05",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salt Cathedral Zipaquira - Group Tour and Daily Departure",
       "es": "Catedral de Sal Zipaquirá - Tour Grupal con Salida Diaria",
@@ -9244,7 +9244,7 @@
   },
   {
     "id": 22487,
-    "updatedAt": "2025-12-01 01:05:05",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coffee Farm - Group Tour and Daily Departure",
       "es": "Finca de Café - Tour Grupal con Salida Diaria",
@@ -9346,7 +9346,7 @@
   },
   {
     "id": 22488,
-    "updatedAt": "2025-12-01 01:05:06",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Panoramic Bus Bogota - Hop On Hop Off Experiences",
       "es": "Bus Panorámico Bogotá - Experiencias Hop On Hop Off",
@@ -9515,7 +9515,7 @@
   },
   {
     "id": 22489,
-    "updatedAt": "2025-12-01 01:05:06",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guatavita and Salt Cathedral Group Tour - from 1Pax Everyday",
       "es": "Guatavita y Catedral de Sal Tour en Grupo - desde 1Pax Todos los dias",
@@ -9632,7 +9632,7 @@
   },
   {
     "id": 22661,
-    "updatedAt": "2025-12-01 01:05:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salt Cathedral, Jaime Duque and Zipaquirá Theme Park Tour",
       "es": "Tour a la Catedral de Sal y al Parque Temático Jaime Duque y Zipaquirá",
@@ -9738,7 +9738,7 @@
   },
   {
     "id": 22667,
-    "updatedAt": "2025-12-01 01:05:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipaquirá Tour and City Tour Bogota",
       "es": "Zipaquirá Tour y City Tour Bogotá",
@@ -9875,7 +9875,7 @@
   },
   {
     "id": 22690,
-    "updatedAt": "2025-12-01 01:05:07",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to the Salt Mine in Nemocón and Jaime Duque",
       "es": "Tour a la Mina de Sal en Nemocón y Jaime Duque",
@@ -9981,7 +9981,7 @@
   },
   {
     "id": 22691,
-    "updatedAt": "2025-12-01 01:05:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guatavita Lagoon Tour and City Tour in Bogotá",
       "es": "Tour a la Laguna de Guatavita y City Tour en Bogotá",
@@ -10107,7 +10107,7 @@
   },
   {
     "id": 22692,
-    "updatedAt": "2025-12-01 01:05:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Guatavita Lagoon and Jaime Duque Park",
       "es": "Tour a la Laguna de Guatavita y al Parque Jaime Duque",
@@ -10206,7 +10206,7 @@
   },
   {
     "id": 22693,
-    "updatedAt": "2025-12-01 01:05:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "City Tour in Bogotá and \"Andrés Carne de Res\" Restaurant",
       "es": "City Tour en Bogotá y visita a Andrés Carne de Res",
@@ -10338,7 +10338,7 @@
   },
   {
     "id": 22700,
-    "updatedAt": "2025-12-01 01:05:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Transportation Airport-Hotel or Place of Accommodation in Medellín",
       "es": "Transporte Aeropuerto-Hotel o Lugar de Alojamiento en Medellín",
@@ -10429,7 +10429,7 @@
   },
   {
     "id": 27839,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Candelaria Ghost Tour",
       "es": "Fantasmas de Las Candelaria",
@@ -10524,7 +10524,7 @@
   },
   {
     "id": 28564,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "The Great Poblado Free Tour: from Provenza to Manila",
       "es": "El Gran Poblado Free Tour: de Provenza a Manila",
@@ -10728,7 +10728,7 @@
   },
   {
     "id": 30958,
-    "updatedAt": "2025-12-01 01:06:14",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Gastronomy: Street Food Tour in Cartagena",
       "es": "Gastronomía: Comida callejera en Cartagena",
@@ -10904,7 +10904,7 @@
   },
   {
     "id": 32867,
-    "updatedAt": "2025-12-01 04:03:16",
+    "updatedAt": "2025-12-11 11:37:59",
     "title": {
       "en": "Free Tour Historic Center & Getsemani",
       "es": "Tour Gratis Centro Histórico y Getsemani",
@@ -11106,11 +11106,11 @@
     ],
     "videoURL": null,
     "rating": 4.87,
-    "reviewsNumber": 1226
+    "reviewsNumber": 1245
   },
   {
     "id": 33839,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Mural Art & Gethsemane",
       "es": "Free Tour Arte Mural & Getsemaní",
@@ -11253,7 +11253,7 @@
   },
   {
     "id": 35950,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Historic Downtown Tour Medellin",
       "es": "Recorrido gratuito por el centro histórico de Medellín",
@@ -11515,11 +11515,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 176
+    "reviewsNumber": 177
   },
   {
     "id": 36244,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena Private Cultural Tour for Cruises",
       "es": "Cartagena Tour Cultural Privado para Cruceros",
@@ -11616,7 +11616,7 @@
   },
   {
     "id": 36659,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Palenque Cultural Tour",
       "es": "Tour Cultural de Palenque",
@@ -11721,7 +11721,7 @@
   },
   {
     "id": 38255,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Essential Walking Tour: A Pearl in the Caribbean",
       "es": "Recorrido a pie esencial: Una perla en el Caribe",
@@ -11868,11 +11868,11 @@
     ],
     "videoURL": null,
     "rating": 4.96,
-    "reviewsNumber": 92
+    "reviewsNumber": 93
   },
   {
     "id": 38803,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Cali Culture & History  Free WalkingTour",
       "es": "Cali Cultural e Histórico Free Walking Tour",
@@ -12062,11 +12062,11 @@
     ],
     "videoURL": null,
     "rating": 4.85,
-    "reviewsNumber": 54
+    "reviewsNumber": 55
   },
   {
     "id": 39618,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bogota: Cultural Tour with Electric Scooter",
       "es": "Bogotá: Tour Cultural con Scooter Eléctrico",
@@ -12264,7 +12264,7 @@
   },
   {
     "id": 40829,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Other Gaitanista Look Free Tour Bogota",
       "es": "La Otra Mirada Gaitanista Free Tour Bogota",
@@ -12425,7 +12425,7 @@
   },
   {
     "id": 42149,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Violence & Post-Conflict  Medellín Tour",
       "es": "Tour por la violencia y el posconflicto en Medellín",
@@ -12731,7 +12731,7 @@
   },
   {
     "id": 42521,
-    "updatedAt": "2025-12-01 16:38:23",
+    "updatedAt": "2025-12-11 05:19:52",
     "title": {
       "en": "Comuna 13 Free Tour: Discover the Transformation",
       "es": "Comuna 13 Free Tour: Descubre la Transformación",
@@ -12947,11 +12947,11 @@
     ],
     "videoURL": null,
     "rating": 4.93,
-    "reviewsNumber": 949
+    "reviewsNumber": 957
   },
   {
     "id": 42846,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour: Gabriel García Márquez Magical Realism Tour",
       "es": "Free Tour: Gabriel García Márquez Realismo Mágico Tour",
@@ -13132,11 +13132,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 50
+    "reviewsNumber": 51
   },
   {
     "id": 42851,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Great Cartagena Tour Walled City & Getsemani",
       "es": "Gran Tour Cartagena Gratis Ciudad Amurallada y Getsemaní",
@@ -13337,7 +13337,7 @@
   },
   {
     "id": 43344,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Alameda Market Food Tour",
       "es": "Recorrido gastronómico gratuito por el mercado de Alameda",
@@ -13480,7 +13480,7 @@
   },
   {
     "id": 43530,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Guatapé from Medellín and Piedra del Peñol",
       "es": "Tour Guatapé desde Medellín y Piedra del Peñol",
@@ -13591,7 +13591,7 @@
   },
   {
     "id": 45858,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guatapé and El Peñon One Day Tour",
       "es": "Tour a Guatapé y el Peñon en un Día",
@@ -13793,7 +13793,7 @@
   },
   {
     "id": 46036,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coffee Experience Close to Salento - Coffee Region",
       "es": "Experiencia cafetera cerca de Salento - Región Cafetera",
@@ -13889,7 +13889,7 @@
   },
   {
     "id": 46559,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Food, Bars, & Rooftops in Poblado with a Local",
       "es": "Comida callejera, bares y azoteas en Poblado con un lugareño",
@@ -14008,7 +14008,7 @@
   },
   {
     "id": 46562,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Comuna 13 History & Graffiti Tour with Cable Car",
       "es": "Comuna 13 Historia y Graffiti Tour con Teleférico",
@@ -14211,7 +14211,7 @@
   },
   {
     "id": 46714,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena Local Pub Crawl in Getsemani",
       "es": "Cartagena Local Pub Crawl en Getsemani",
@@ -14361,7 +14361,7 @@
   },
   {
     "id": 47267,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour of Comuna 13 of Medellin",
       "es": "Free Tour por la Comuna 13 de Medellin",
@@ -14556,11 +14556,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=OyUyHV-XKBY",
     "rating": 4.85,
-    "reviewsNumber": 126
+    "reviewsNumber": 132
   },
   {
     "id": 47369,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena Bike Adventure with Lunch At Bazurto Market",
       "es": "Aventura en bicicleta por Cartagena con almuerzo en el mercado de Bazurto",
@@ -14700,7 +14700,7 @@
   },
   {
     "id": 47371,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exciting Scooter Tour of Walled City and Getsemani",
       "es": "Emocionante recorrido en scooter por la Ciudad Amurallada y Getsemani",
@@ -14795,7 +14795,7 @@
   },
   {
     "id": 47406,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Shared Tour to the Salt Cathedral of Zipaquira &amp; Its Main Squares",
       "es": "Shared Tour to the Salt Cathedral of Zipaquira & Its Main Squares",
@@ -14885,7 +14885,7 @@
   },
   {
     "id": 47529,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "The Famous Free Tour of Downtown Medellín",
       "es": "El famoso recorrido gratuito por el centro de Medellín",
@@ -15072,12 +15072,12 @@
       }
     ],
     "videoURL": "https://www.youtube.com/watch?v=XFvNeGFShT4",
-    "rating": 4.89,
-    "reviewsNumber": 85
+    "rating": 4.9,
+    "reviewsNumber": 86
   },
   {
     "id": 47539,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Food Tasting & Full City Tour of Cartagena",
       "es": "Degustación de comida callejera y visita completa de Cartagena",
@@ -15221,7 +15221,7 @@
   },
   {
     "id": 48074,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Artistic & Bohemian Night Medellin",
       "es": "Medellín Nocturno Artístico y Bohemio",
@@ -15339,7 +15339,7 @@
   },
   {
     "id": 48739,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fun Tour Guide: Walks Through the Walls &amp; History",
       "es": "Fun Tour Guide: Walks Through the Walls & History",
@@ -15468,7 +15468,7 @@
   },
   {
     "id": 48870,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Enjoy Bogota Like a Local",
       "es": "Disfruta Bogota Como un Local",
@@ -15547,7 +15547,7 @@
   },
   {
     "id": 49212,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Salsa Tour in Cali",
       "es": "Salsa Tour in Cali",
@@ -15646,7 +15646,7 @@
   },
   {
     "id": 49240,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Medellín Free Tour: A City Full of Life",
       "es": "Medellín Free Tour: Ciudad Llena de Vida",
@@ -15782,7 +15782,7 @@
   },
   {
     "id": 50637,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Native Route in San Andres",
       "es": "Ruta Nativa en San Andrés",
@@ -15865,7 +15865,7 @@
   },
   {
     "id": 50921,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Gastronomic Tour of Bogota ",
       "es": "Tour Gastronomíco por Bogota ",
@@ -15984,7 +15984,7 @@
   },
   {
     "id": 51275,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chiva Party - Get to know Cartagena Dancing on Board a Bus",
       "es": "Chiva Party - Conoce Cartagena Bailando a Bordo de un Bus",
@@ -16130,7 +16130,7 @@
   },
   {
     "id": 51277,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Playa Blanca Tour with Snorkeling and Raccoon Sightings",
       "es": "Tour a Playa Blanca con Snorkel y Avistamiento de Mapaches",
@@ -16279,7 +16279,7 @@
   },
   {
     "id": 51525,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Walking Tour City of Coffee Growers & Fishermen",
       "es": "Visita a pie Ciudad de Cafeteros y Pescadores",
@@ -16398,7 +16398,7 @@
   },
   {
     "id": 51682,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Masjid Cartagena Community",
       "es": "Comunidad Masjid Cartagena",
@@ -16479,7 +16479,7 @@
   },
   {
     "id": 51934,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Emerald Experience Private Tour in Cartagena",
       "es": "Experiencia Esmeralda Tour Privado en Cartagena",
@@ -16607,7 +16607,7 @@
   },
   {
     "id": 51936,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena City Tour Private",
       "es": "Cartagena City Tour Privado",
@@ -16721,7 +16721,7 @@
   },
   {
     "id": 52385,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Personalized Tour of Medellín & Antioquia",
       "es": "Tour personalizado por Medellín y Antioquia",
@@ -16808,7 +16808,7 @@
   },
   {
     "id": 52608,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exclusive Medellín City Tour with Private Transportation",
       "es": "Tour exclusivo por la ciudad de Medellín con transporte privado",
@@ -16912,7 +16912,7 @@
   },
   {
     "id": 53429,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Day Tour to Tierra Bomba",
       "es": "Excursión de un día a Tierra Bomba",
@@ -17055,7 +17055,7 @@
   },
   {
     "id": 53565,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Discover Cali: Salsa and Graffiti",
       "es": "Descubre Cali: Salsa y Grafiti",
@@ -17247,7 +17247,7 @@
   },
   {
     "id": 53825,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour in Bogota - Guatavita",
       "es": "Tour en Bogotá - Guatavita",
@@ -17370,7 +17370,7 @@
   },
   {
     "id": 53832,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Bogota Tour: From a Shout to Independence Day",
       "es": "Bogota Tour: Desde un Grito Hasta la Independencia",
@@ -17474,7 +17474,7 @@
   },
   {
     "id": 54005,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Around Memory Places",
       "es": "En torno a los lugares de la memoria",
@@ -17553,7 +17553,7 @@
   },
   {
     "id": 54081,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Barranquilla City Tour",
       "es": "City Tour por Barranquilla",
@@ -17637,7 +17637,7 @@
   },
   {
     "id": 54256,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Get to Know Cali & Learn Spanish",
       "es": "Conozca Cali y aprenda español",
@@ -17718,7 +17718,7 @@
   },
   {
     "id": 54352,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Candelaria Free Tour in Bogota",
       "es": "Candelaria Free Tour en Bogotá",
@@ -17844,7 +17844,7 @@
   },
   {
     "id": 54353,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Historical and Heritage Tour of Cali",
       "es": "Free Tour Histórico y Patrimonial por Cali",
@@ -17936,7 +17936,7 @@
   },
   {
     "id": 54380,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Monserrate, Gold Museum &amp; Candelaria",
       "es": "Monserrate, Gold Museum & Candelaria",
@@ -17973,7 +17973,7 @@
       "it": "https://www.freetour.com/it/bogota/tour-monserrate-museo-del-oro-plaza-de-bolivar?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 65,
+      "value": 50,
       "currency": "EUR"
     },
     "length": "4:00",
@@ -18036,7 +18036,7 @@
   },
   {
     "id": 54690,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "1 Day Tour Baru Playa Blanca + National Birdwatching",
       "es": "Tour de 1 Día Barú Playa Blanca + Avario Nacional",
@@ -18150,7 +18150,7 @@
   },
   {
     "id": 55060,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour: La Candelaria neighborhood, Monserrate, Gold Museum and Botero Museum",
       "es": "Tour: Barrio la Candelaria, Monserrate, Museo del Oro y Museo Botero",
@@ -18276,7 +18276,7 @@
   },
   {
     "id": 55730,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bogota: Coffee Tasting Experience Tour with Exotic Varieties",
       "es": "Bogotá: Tour de Cata de Café con Variedades Exóticas",
@@ -18443,7 +18443,7 @@
   },
   {
     "id": 55733,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bogota: Coffee Tour in Silvania - Coffee Farm",
       "es": "Bogotá: Tour del Café en Silvania - Finca Cafetera",
@@ -18530,7 +18530,7 @@
   },
   {
     "id": 55812,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bogota: Coffee Tasting, Roasting, Filtration & Espresso Tour",
       "es": "Bogotá: Degustación de Café, Tostado, Filtrado y Tour de Espresso",
@@ -18645,7 +18645,7 @@
   },
   {
     "id": 56322,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Historic Center of Bogota",
       "es": "Tour por el Centro Histórico de Bogotá",
@@ -18757,7 +18757,7 @@
   },
   {
     "id": 56679,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour Laureles: The Coolest Neighborhood in the World",
       "es": "Free Tour Laureles: El Barrio Más Cool",
@@ -18853,7 +18853,7 @@
   },
   {
     "id": 57919,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cultural Bike Tour in Cali",
       "es": "Cultural Bike Tour in Cali",
@@ -18951,7 +18951,7 @@
   },
   {
     "id": 58000,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Acacia Real Tour: Exploring Colombian Caribbean Literature",
       "es": "Tour Acacia Real: Explorando la Literatura del Caribe Colombiano",
@@ -19031,7 +19031,7 @@
   },
   {
     "id": 58001,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour El Prado: A Journey through Time",
       "es": "Free Tour El Prado: Un Viaje en el Tiempo",
@@ -19131,7 +19131,7 @@
   },
   {
     "id": 58045,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Free Tour: Among Murals, Monuments & the History of Armenia",
       "es": "Free Tour: Entre Murales, Monumentos y la Historia de Armenia",
@@ -19259,7 +19259,7 @@
   },
   {
     "id": 58108,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Contact with Nature in the Middle of the City",
       "es": "Contacto con la Naturaleza en Medio de la Ciudad",
@@ -19375,7 +19375,7 @@
   },
   {
     "id": 58177,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ancestral Journey - Kogui Village",
       "es": "Travesía Ancestral - Pueblo Kogui",
@@ -19512,7 +19512,7 @@
   },
   {
     "id": 58634,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Taganga Native Trail Free Tour",
       "es": "Sendero Nativo de Taganga Free Tour",
@@ -19618,7 +19618,7 @@
   },
   {
     "id": 58905,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Medellín with Guide",
       "es": "Descubre Medellín con guía",
@@ -19724,7 +19724,7 @@
   },
   {
     "id": 59493,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Del Rosario Islands and Playa Blanca",
       "es": "Tour a las Islas Del Rosario y Playa Blanca",
@@ -19849,7 +19849,7 @@
   },
   {
     "id": 59494,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena Bay Tour with Sunset Boat Ride ",
       "es": "Tour Bahia de Cartagena con Bote al Atardecer ",
@@ -19977,7 +19977,7 @@
   },
   {
     "id": 59496,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cartagena by Van",
       "es": "Descubre Cartagena en Van",
@@ -20128,7 +20128,7 @@
   },
   {
     "id": 59962,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Food Tour: Taste Medellin Like a Local",
       "es": "Tour gastronómico: Saborea Medellín como un lugareño",
@@ -20261,7 +20261,7 @@
   },
   {
     "id": 60118,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Essential Fruit Experience",
       "es": "Experiencia Esencial de Frutas",
@@ -20368,7 +20368,7 @@
   },
   {
     "id": 60192,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Beach Day at Margarita's Beachclub",
       "es": "Día de Playa en Margarita's Beachclub",
@@ -20486,7 +20486,7 @@
   },
   {
     "id": 60199,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Perfect Day in Palmarito: Beach, Swimming Pool and Kayaking",
       "es": "Día Perfecto en Palmarito: Playa, Piscina y Kayak",
@@ -20592,7 +20592,7 @@
   },
   {
     "id": 60374,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunset Boat Tour in Cartagena",
       "es": "Paseo en barco al Atardecer en Cartagena",
@@ -20711,7 +20711,7 @@
   },
   {
     "id": 60576,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Colombian Empanadas Classes From Zero in Medellin",
       "es": "Clases de Empanadas Colombianas Desde Cero en Medellin",
@@ -20800,7 +20800,7 @@
   },
   {
     "id": 61005,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guatavita: Culture, Fun and Nature",
       "es": "Guatavita: Cultura Diversión y Naturaleza",
@@ -20893,7 +20893,7 @@
   },
   {
     "id": 61953,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Zipaquira & Guatavita Lake Top Sites Tour with PickUp from Bogota",
       "es": "Zipaquirá y Lago Guatavita - Recogida en Bogotá",
@@ -21070,7 +21070,7 @@
   },
   {
     "id": 62760,
-    "updatedAt": "2025-12-01 23:17:02",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Explore Comuna 13: Art, Culture, and Transformation",
       "es": "Explora la Comuna 13: Arte, Cultura y Transformación",
@@ -21141,6 +21141,14 @@
         "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-13-art-culture-and-transformation-graffiti-tour-02.jpg"
       },
       {
+        "id": 300049,
+        "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-thirteen-art-culture-transformation-01.jpg"
+      },
+      {
+        "id": 300061,
+        "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-thirteen-art-culture-transformation-04.jpg"
+      },
+      {
         "id": 218828,
         "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-13-art-culture-and-transformation-graffiti-tour-01.jpg"
       },
@@ -21149,25 +21157,17 @@
         "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-thirteen-art-culture-transformation-02.jpg"
       },
       {
-        "id": 300049,
-        "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-thirteen-art-culture-transformation-01.jpg"
-      },
-      {
         "id": 300050,
         "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-thirteen-art-culture-transformation-03.jpg"
-      },
-      {
-        "id": 300061,
-        "URL": "https://www.freetour.com/images/tours/62760/explore-comuna-thirteen-art-culture-transformation-04.jpg"
       }
     ],
     "videoURL": null,
     "rating": 4.8,
-    "reviewsNumber": 46
+    "reviewsNumber": 47
   },
   {
     "id": 63036,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: San Felipe de Barajas Castle",
       "es": "Free Tour: Castillo San Felipe de Barajas",
@@ -21299,12 +21299,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.64,
-    "reviewsNumber": 39
+    "rating": 4.65,
+    "reviewsNumber": 40
   },
   {
     "id": 63610,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mystical Guatavita Lagoon and El Dorado Legend Tour",
       "es": "Mística Laguna de Guatavita y Tour de la Leyenda de El Dorado",
@@ -21392,7 +21392,7 @@
   },
   {
     "id": 63778,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour from Leticia to the Rainforest",
       "es": "Tour de Leticia a la Selva",
@@ -21471,7 +21471,7 @@
   },
   {
     "id": 64904,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Medellin, Antioquia Highlights Tour",
       "es": "Tour por los Lugares Destacados de Medellín, Antioquia",
@@ -21575,7 +21575,7 @@
   },
   {
     "id": 65039,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Discover the Magic of Comuna 13: Free Tour Medellín",
       "es": "Descubre la Magia de la Comuna 13:  Free Tour Medellín",
@@ -21664,7 +21664,7 @@
   },
   {
     "id": 65335,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Free Tour: Cultural and Historical Pasto",
       "es": "Free Tour: Pasto Cultural e Histórico",
@@ -21897,7 +21897,7 @@
   },
   {
     "id": 65506,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Local and Nature Tourism in Santiago de Cali",
       "es": "Turismo Local y de Naturaleza en Santiago de Cali",
@@ -22011,7 +22011,7 @@
   },
   {
     "id": 65519,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover the Magic of the Cocha Lagoon",
       "es": "Descubre la Magia de la Laguna de la Cocha",
@@ -22219,7 +22219,7 @@
   },
   {
     "id": 65624,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Art and History in Bogotá s Downtown",
       "es": "Arte e Historia en el Centro de Bogotá",
@@ -22318,7 +22318,7 @@
   },
   {
     "id": 66513,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Medellín City Tour",
       "es": "Recorrido por la Ciudad de Medellín",
@@ -22507,7 +22507,7 @@
   },
   {
     "id": 66613,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Heart of San Juan de Pasto",
       "es": "Descubra el Corazón de San Juan de Pasto",
@@ -22587,7 +22587,7 @@
   },
   {
     "id": 66706,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exclusive Tour of Cartagena",
       "es": "Tour Exclusivo por Cartagena",
@@ -22679,7 +22679,7 @@
   },
   {
     "id": 67069,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Discover Gethsemani: Art, Bohemia and Graffiti",
       "es": "Descubre Getsemaní: Arte, Bohemia y Grafiti",
@@ -22819,7 +22819,7 @@
   },
   {
     "id": 67073,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "The Cartagena of García Márquez",
       "es": "La Cartagena de García Márquez",
@@ -22957,7 +22957,7 @@
   },
   {
     "id": 67403,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Baru: A Natural Paradise in Cartagena",
       "es": "Barú: Un paraíso Natural en Cartagena",
@@ -23040,7 +23040,7 @@
   },
   {
     "id": 67427,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Bogota in a Unique Way",
       "es": "Descubre Bogotá de una Forma Única",
@@ -23155,7 +23155,7 @@
   },
   {
     "id": 67660,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Explore the Enchantments of Walled Cartagena",
       "es": "Explora los Encantos de la Cartagena Amurallada",
@@ -23281,7 +23281,7 @@
   },
   {
     "id": 67698,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Cartagena Free Tour: la Fantástica",
       "es": "Cartagena Free Tour: la Fantástica",
@@ -23433,7 +23433,7 @@
   },
   {
     "id": 67857,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Hiking Armenia: Chorros de San Rafael Calarcá, Quindío",
       "es": "Senderismo Armenia: Chorros de San Rafael Calarcá, Quindío",
@@ -23528,7 +23528,7 @@
   },
   {
     "id": 68124,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Historical Tour of Monserrate and Muiscas of Bogota",
       "es": "Recorrido histórico gratuito por Monserrate y Muiscas de Bogotá",
@@ -23627,7 +23627,7 @@
   },
   {
     "id": 68207,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Urban Art in Comuna 13",
       "es": "Descubre el Arte Urbano en la Comuna 13",
@@ -23780,7 +23780,7 @@
   },
   {
     "id": 68282,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Nighttime Gastronomic Experience in Medellín",
       "es": "Experiencia Gastronómica Nocturna en Medellín",
@@ -23929,7 +23929,7 @@
   },
   {
     "id": 68546,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Colonial Giron Colonial and its Traditional Food",
       "es": "Descubre Girón Colonial y su Comida Tradicional",
@@ -24034,7 +24034,7 @@
   },
   {
     "id": 68616,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Bogota on Two Wheels",
       "es": "Explora Bogotá Sobre dos Ruedas",
@@ -24219,7 +24219,7 @@
   },
   {
     "id": 68874,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Manrique Comuna 3 Medellin",
       "es": "Tour Manrique Comuna 3 Medellin",
@@ -24328,7 +24328,7 @@
   },
   {
     "id": 69264,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "JardinTrails: Arrieros Adventure Tour",
       "es": "Senderos del Jardín: Tour de Aventura Arrieros",
@@ -24418,7 +24418,7 @@
   },
   {
     "id": 70156,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Chicala Waterfalls Tour",
       "es": "Tour a las Cascadas Chicala",
@@ -24495,7 +24495,7 @@
   },
   {
     "id": 70159,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hike to the Highest Waterfall in Tolima",
       "es": "Caminata a la Cascada más Alta del Tolima",
@@ -24586,7 +24586,7 @@
   },
   {
     "id": 70344,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Impressive La Plata Waterfall",
       "es": "Descubre la Impresionante Cascada La Plata",
@@ -24673,7 +24673,7 @@
   },
   {
     "id": 70350,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Chicalá Waterfalls",
       "es": "Explora las Cascadas de Chicalá",
@@ -24769,7 +24769,7 @@
   },
   {
     "id": 71121,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena on Two Wheels: Beyond the City Walls",
       "es": "Cartagena en Dos Ruedas: Más Allá de las Murallas",
@@ -24917,7 +24917,7 @@
   },
   {
     "id": 71192,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Bucaramanga: Hidden Stories from the Past",
       "es": "Bucaramanga: Historias Ocultas del Pasado",
@@ -25023,7 +25023,7 @@
   },
   {
     "id": 71796,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Magical Tour of Villa de Leyva",
       "es": "Recorrido Mágico por Villa de Leyva",
@@ -25117,7 +25117,7 @@
   },
   {
     "id": 73089,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cartagena's Night Magic",
       "es": "Descubre la Magia Nocturna de Cartagena",
@@ -25205,7 +25205,7 @@
   },
   {
     "id": 73199,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Cartagena: History & Culture Walk",
       "es": "Descubre Cartagena: Paseo por la Historia y la Cultura",
@@ -25292,7 +25292,7 @@
   },
   {
     "id": 73310,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Explore Medellín on a Free Bike Tour",
       "es": "Explora Medellín en un Free Tour en Bicicleta",
@@ -25398,7 +25398,7 @@
   },
   {
     "id": 73479,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Code Medellin: Rescuing Change",
       "es": "Código Medellín: Rescatando el Cambio",
@@ -25478,7 +25478,7 @@
   },
   {
     "id": 74630,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore La Catedral, Pablo Escobar's Hideout",
       "es": "Explora La Catedral, el Refugio de Pablo Escobar",
@@ -25636,7 +25636,7 @@
   },
   {
     "id": 74990,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Snorkeling and Adventure in the Rosario Archipelago",
       "es": "Snorkel y Aventura en el Archipiélago del Rosario",
@@ -25749,7 +25749,7 @@
   },
   {
     "id": 75876,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Trails, Coffee and Nature at its Maximum Splendor",
       "es": "Senderos, Café y Naturaleza en su Máximo Esplendor",
@@ -25898,7 +25898,7 @@
   },
   {
     "id": 75944,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Free Biking Tour of Cartagena: History, Culture & Bay Views",
       "es": "Ruta gratuita en bicicleta por Cartagena: historia, cultura y vistas a la bahía",
@@ -26097,7 +26097,7 @@
   },
   {
     "id": 76043,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "La Candelaria and Gold Museum Walking Tour",
       "es": "Paseo por La Candelaria y el Museo del Oro",
@@ -26246,7 +26246,7 @@
   },
   {
     "id": 76489,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Essential Cartagena: Free Tour of Getsemaní",
       "es": "Cartagena Esencial: Free Tour por Getsemaní",
@@ -26402,7 +26402,7 @@
   },
   {
     "id": 77020,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena: A Street Flavor Tour",
       "es": "Cartagena: Un Viaje de Sabor Callejero",
@@ -26537,7 +26537,7 @@
   },
   {
     "id": 77970,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Cartagena with Rum and Cigars",
       "es": "Explora Cartagena con Ron y Puros",
@@ -26745,7 +26745,7 @@
   },
   {
     "id": 78061,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Salt Cathedral to Andres Carne de Res",
       "es": "De la Catedral de Sal a Andrés Carne de Res",
@@ -26878,7 +26878,7 @@
   },
   {
     "id": 78528,
-    "updatedAt": "2025-12-01 18:18:02",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Cigars & Coffee Tour of Cartagena: History and Tasting",
       "es": "Tour gratuito de puros y café por Cartagena: historia y degustación",
@@ -26971,9 +26971,13 @@
         "googlePlaceId": "ChIJQfL19J8v9o4RW5RXdwEWHkk"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/78528/local-cartagena-culture-color-tour-07.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/78528/local-cartagena-culture-color-tour-01.jpg",
     "categoryId": 12,
     "images": [
+      {
+        "id": 296588,
+        "URL": "https://www.freetour.com/images/tours/78528/local-cartagena-culture-color-tour-01.jpg"
+      },
       {
         "id": 289649,
         "URL": "https://www.freetour.com/images/tours/78528/local-cartagena-culture-color-tour-07.jpg"
@@ -27023,10 +27027,6 @@
         "URL": "https://www.freetour.com/images/tours/78528/local-cartagena-culture-color-tour-13.jpg"
       },
       {
-        "id": 296588,
-        "URL": "https://www.freetour.com/images/tours/78528/local-cartagena-culture-color-tour-01.jpg"
-      },
-      {
         "id": 296589,
         "URL": "https://www.freetour.com/images/tours/78528/local-cartagena-culture-color-tour-09.jpg"
       },
@@ -27045,7 +27045,7 @@
   },
   {
     "id": 78580,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free tour of the Historic Center and the San Diego Neighborhood",
       "es": "Recorrido gratuito por el Centro Histórico y el Barrio de San Diego",
@@ -27146,9 +27146,13 @@
         "googlePlaceId": "ChIJsfwXWHUv9o4R-yrFJEjioNs"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/78580/walking-tour-getsemani-graffiti-03.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/78580/walking-tour-getsemani-graffiti-12.jpg",
     "categoryId": 12,
     "images": [
+      {
+        "id": 297816,
+        "URL": "https://www.freetour.com/images/tours/78580/walking-tour-getsemani-graffiti-12.jpg"
+      },
       {
         "id": 297807,
         "URL": "https://www.freetour.com/images/tours/78580/walking-tour-getsemani-graffiti-03.jpg"
@@ -27184,10 +27188,6 @@
       {
         "id": 297815,
         "URL": "https://www.freetour.com/images/tours/78580/walking-tour-getsemani-graffiti-11.jpg"
-      },
-      {
-        "id": 297816,
-        "URL": "https://www.freetour.com/images/tours/78580/walking-tour-getsemani-graffiti-12.jpg"
       },
       {
         "id": 297817,
@@ -27236,7 +27236,7 @@
   },
   {
     "id": 78669,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking tour of Historic and Walled Cartagena",
       "es": "Tour a pie por la Cartagena Histórica y Amurallada",
@@ -27369,7 +27369,7 @@
   },
   {
     "id": 78681,
-    "updatedAt": "2025-12-01 15:42:03",
+    "updatedAt": "2025-12-11 12:25:03",
     "title": {
       "en": "Magical Cartagena Free Tour of the Historic Center and Getsemaní",
       "es": "Cartagena Mágica Tour Gratis por el Centro Histórico y Getsemaní",
@@ -27495,6 +27495,18 @@
         "URL": "https://www.freetour.com/images/tours/78681/tour-de-bicicleta-por-cartagena-de-indias-04.jpg"
       },
       {
+        "id": 300961,
+        "URL": "https://www.freetour.com/images/tours/78681/magical-cartagena-free-tour-of-the-historic-center-and-getseman---01.jpg"
+      },
+      {
+        "id": 292821,
+        "URL": "https://www.freetour.com/images/tours/78681/tour-de-bicicleta-por-cartagena-de-indias-27.jpg"
+      },
+      {
+        "id": 292820,
+        "URL": "https://www.freetour.com/images/tours/78681/tour-de-bicicleta-por-cartagena-de-indias-26.jpg"
+      },
+      {
         "id": 277772,
         "URL": "https://www.freetour.com/images/tours/78681/tour-de-bicicleta-por-cartagena-de-indias-05.jpg"
       },
@@ -27565,27 +27577,15 @@
       {
         "id": 286848,
         "URL": "https://www.freetour.com/images/tours/78681/tour-de-bicicleta-por-cartagena-de-indias-24.jpg"
-      },
-      {
-        "id": 292820,
-        "URL": "https://www.freetour.com/images/tours/78681/tour-de-bicicleta-por-cartagena-de-indias-26.jpg"
-      },
-      {
-        "id": 292821,
-        "URL": "https://www.freetour.com/images/tours/78681/tour-de-bicicleta-por-cartagena-de-indias-27.jpg"
-      },
-      {
-        "id": 299577,
-        "URL": "https://www.freetour.com/images/tours/78681/magical-cartagena-free-tour-of-the-historic-center-and-getseman---01.jpg"
       }
     ],
     "videoURL": null,
-    "rating": 4.91,
-    "reviewsNumber": 32
+    "rating": 4.73,
+    "reviewsNumber": 42
   },
   {
     "id": 78776,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Getsemaní; Gentrification, Resistance and Resilience",
       "es": "Getsemaní; Gentrificación, Resistencia y Resiliencia",
@@ -27622,7 +27622,7 @@
       "it": "https://www.freetour.com/it/cartagena/getsemani-gentrificacion-resistencia-resiliencia?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 0,
+      "value": 15,
       "currency": "EUR"
     },
     "length": "1:30",
@@ -27634,7 +27634,8 @@
     "cityId": 898,
     "countryId": 30,
     "includes": [
-      "Plaza de la Trinidad"
+      "Plaza de la Trinidad",
+      "Hidratación"
     ],
     "POIs": [
       {
@@ -27705,7 +27706,7 @@
   },
   {
     "id": 78829,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hike to the Enchanted Lagoon – Wild Medellín Adventure",
       "es": "Caminata a la Laguna Encantada - Aventura Salvaje en Medellín",
@@ -27796,7 +27797,7 @@
   },
   {
     "id": 78951,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pride Afloat: LGBTQ+ Party Boat Experience",
       "es": "Orgullo a flote: Fiesta en barco LGBTQ",
@@ -27906,7 +27907,7 @@
   },
   {
     "id": 79371,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Transfer from Rafael de Núñez Airport to Bocagrande and More",
       "es": "Traslado desde Aeropuerto Rafael de Núñez a Bocagrande y Más",
@@ -28018,7 +28019,7 @@
   },
   {
     "id": 80441,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Historical, Cultural and Gastronomic Experience in Cartagena",
       "es": "Experiencia Histórica, Cultural y Gastronómica en Cartagena",
@@ -28143,7 +28144,7 @@
   },
   {
     "id": 80665,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cartagena Street Food Tour",
       "es": "Recorrido Gastronómico Callejero por Cartagena",
@@ -28274,7 +28275,7 @@
   },
   {
     "id": 80795,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cali Salsa Experience: Learn Authentic Salsa Calena",
       "es": "Cali Salsa Experience: Aprende Autentica Salsa Caleña",
@@ -28350,7 +28351,7 @@
   },
   {
     "id": 81020,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Visit San Basilio de Palenque with Local Native Guide",
       "es": "Visita San Basilio de Palenque con Guía Local Nativo",
@@ -28455,7 +28456,7 @@
   },
   {
     "id": 81558,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Natural Connection: Yoga, Hiking and Waterfall",
       "es": "Conexión Natural: Yoga, Senderismo y Cascada",
@@ -28575,7 +28576,7 @@
   },
   {
     "id": 81881,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of the Mysteries and Legends of Santa Marta",
       "es": "Recorrido gratuito por los misterios y leyendas de Santa Marta",
@@ -28749,7 +28750,7 @@
   },
   {
     "id": 81887,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coffee Tasting: From the Origin to the Cup",
       "es": "Cata de Café: Del Origen a la Taza",
@@ -28838,7 +28839,7 @@
   },
   {
     "id": 81911,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Savannah on the Tourist Train",
       "es": "Descubre la Sabana en el Tren Turístico",
@@ -29089,7 +29090,7 @@
   },
   {
     "id": 81958,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Real Cartagena: to the Heart of the Bazurto Market",
       "es": "Tour de la Verdadera Cartagena: al Corazón del Mercado de Bazurto",
@@ -29208,7 +29209,7 @@
   },
   {
     "id": 81976,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Minca Sierra Nevada: Coffee, Cocoa and Waterfalls Tour",
       "es": "Minca Sierra Nevada: Tour de Café, Cacao y Cascadas",
@@ -29320,7 +29321,7 @@
   },
   {
     "id": 82104,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Turbaco, Cartagena's Ancestral Secret",
       "es": "Turbaco, el Secreto Ancestral de Cartagena",
@@ -29417,7 +29418,7 @@
   },
   {
     "id": 82385,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Food Tour in Cartagena: Street Food with a Local",
       "es": "Food Tour en Cartagena: Comida Callejera con un Local",
@@ -29510,12 +29511,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.4,
-    "reviewsNumber": 5
+    "rating": 4.5,
+    "reviewsNumber": 6
   },
   {
     "id": 82478,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Soul of Bocachica",
       "es": "Descubre el Alma de Bocachica",
@@ -29605,7 +29606,7 @@
   },
   {
     "id": 83008,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Palenque, a Piece of Africa in Colombia",
       "es": "Descubre Palenque, un Pedazo de África en Colombia",
@@ -29711,7 +29712,7 @@
   },
   {
     "id": 83587,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour Bucaramanga",
       "es": "Free Tour Bucaramanga",
@@ -29857,7 +29858,7 @@
   },
   {
     "id": 83638,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Plaza de Mercado and Downtown Bucaramanga",
       "es": "Free Tour Plaza de Mercado y Centro Bucaramanga",
@@ -29967,7 +29968,7 @@
   },
   {
     "id": 83651,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Girón Park in Bucaramanga",
       "es": "Free Tour Parque de Girón en Bucaramanga",
@@ -30079,7 +30080,7 @@
   },
   {
     "id": 83678,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Cartagena Diversa Inmersiva: Colors and Company Tour",
       "es": "Cartagena Diversa Inmersiva: Tour de Colores y Compañía",
@@ -30211,7 +30212,7 @@
   },
   {
     "id": 83739,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Tasting and Storytelling: Tour of the Secret Elixirs of Cartagena",
       "es": "Cata y Cuento: Tour de los Elixires Secretos de Cartagena",
@@ -30327,14 +30328,14 @@
   },
   {
     "id": 84018,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
-      "en": "Street Food Tour - The Taste of La Heroica",
-      "es": "Street Food Tour - El Sabor de La Heroica",
-      "pt": "Tour de comida de rua - O sabor de La Heroica",
-      "de": "Street Food Tour - Der Geschmack von La Heroica",
-      "fr": "Street Food Tour - Le goût de La Heroica",
-      "it": "Tour del cibo di strada - Il gusto dell'Eroica"
+      "en": "Street Food Tou: The Taste of Heroic Cartagena",
+      "es": "Street Food Tou: El Sabor de La Heroica Cartagena",
+      "pt": "Street Food Tou: O sabor da Cartagena heróica",
+      "de": "Street Food Tou: Ein Geschmack des heroischen Cartagena",
+      "fr": "Street Food Tou : Le goût de l'héroïque Carthagène",
+      "it": "Street Food Tou: un assaggio della Cartagena eroica"
     },
     "brief": {
       "de": "erleben Sie eine Explosion von Geschmack und Kultur bei unserer gastronomischen Tour durch das historische Zentrum von Cartagena! Jeder Bissen ist eine Geschichte, jede Straße ein Fest der Tradition, der Farben und der karibischen Freude.",
@@ -30353,7 +30354,7 @@
       "pt": "Embarque numa experiência sensorial única com a nossa excursão gastronómica de comida de rua em Cartagena, onde a história, a cultura e os sabores das Caraíbas colombianas se fundem numa viagem inesquecível.\r\n\r\nCaminhe pelas ruas de pedra do Centro Histórico, Património Mundial, enquanto descobre como a mistura de influências africanas, indígenas e espanholas deu origem a uma gastronomia cheia de cor, ritmo e sabor.\r\n\r\nProve as iguarias locais como as arepas de huevo, carimañolas, patacones, sumos naturais e doces do famoso Portal de los Dulces, tudo acompanhado de histórias e curiosidades que só os locais conhecem.\r\n\r\nSinta a atmosfera vibrante da cidade murada: o som do facão quebrando um coco fresco, a música que sai das varandas coloniais e os aromas irresistíveis que enchem o ar.\r\n\r\nMais do que uma degustação, este passeio é uma homenagem à identidade de Cartagena, uma festa para os sentidos e um convite para saborear a vida ao ritmo das Caraíbas."
     },
     "providerTitle": "Viviana Moreno Bustamante",
-    "providerPhone": "+573002443860",
+    "providerPhone": "+573205324192",
     "URL": "https://www.freetour.com/cartagena/street-food-tour-el-sabor-de-la-heroica?referralID=elOi919SrKG94LbT",
     "URLs": {
       "en": "https://www.freetour.com/cartagena/street-food-tour-el-sabor-de-la-heroica?referralID=elOi919SrKG94LbT",
@@ -30377,6 +30378,8 @@
     "countryId": 30,
     "includes": [
       "Restaurante Donde Magola",
+      "Plazoleta del Joe Arroyo",
+      "PORTAL DE LOS DULCES",
       "Recorrido guiado ",
       "Fritos tipicos (Pagos por el cliente)",
       "Coctel de marisco (Pago por el cliente))",
@@ -30389,6 +30392,16 @@
         "id": 20052,
         "title": "Restaurante Donde Magola",
         "googlePlaceId": "ChIJA-0HqZ4v9o4RxdNQ5dqlSJ8"
+      },
+      {
+        "id": 35054,
+        "title": "Plazoleta del Joe Arroyo",
+        "googlePlaceId": "ChIJeeaqVREv9o4RPADcjSqcS2g"
+      },
+      {
+        "id": 5396,
+        "title": "PORTAL DE LOS DULCES",
+        "googlePlaceId": "ChIJi00l558v9o4RLFqJf-rjwB0"
       }
     ],
     "titleImageURL": "https://www.freetour.com/images/tours/84018/-01.jpg",
@@ -30441,7 +30454,7 @@
   },
   {
     "id": 84465,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour: Open Canvas and Bohemian Heart",
       "es": "Free Walking Tour: Lienzo Abierto y Corazón Bohemio",
@@ -30467,7 +30480,7 @@
       "pt": "Conheça a história e a essência do bairro mais vibrante de Cartagena com este passeio a pé por Getsemaní, um percurso cheio de cor, cultura e memória.\r\n\r\nPartiremos do emblemático Portal de los Dulces, sob a Torre do Relógio, atravessaremos o Camellón de los Mártires e o Parque Centenário, onde conheceremos os primeiros capítulos da independência de Cartagena.\r\n\r\nEntre em Getsemaní, um antigo subúrbio que deixou de ser o lar de escravos e pescadores para se tornar um símbolo de liberdade e o bairro mais boémio da cidade. Passeie pelas suas ruas cheias de arte, como a Calle de la Sierpe, San Juan e Espiritu Santo, onde os graffitis contam histórias de resistência e orgulho popular.\r\n\r\nAprecie as fachadas coloniais de cores vivas, as varandas floridas e a atmosfera local que mistura música, sabor e tradição.\r\n\r\nO passeio termina na Plaza de la Trinidad, o coração de Getsemaní, onde se pode experimentar a sua energia única: música de rua, comida local e uma atmosfera festiva que encanta os viajantes de todo o mundo."
     },
     "providerTitle": "Viviana Moreno Bustamante",
-    "providerPhone": "+573002443860",
+    "providerPhone": "+573205324192",
     "URL": "https://www.freetour.com/cartagena/walking-tour-open-canvas-and-bohemian-heart?referralID=elOi919SrKG94LbT",
     "URLs": {
       "en": "https://www.freetour.com/cartagena/walking-tour-open-canvas-and-bohemian-heart?referralID=elOi919SrKG94LbT",
@@ -30575,6 +30588,293 @@
       {
         "id": 291552,
         "URL": "https://www.freetour.com/images/tours/84465/-344-12.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": null,
+    "reviewsNumber": 0
+  },
+  {
+    "id": 57777,
+    "updatedAt": "2025-12-11 08:37:03",
+    "title": {
+      "en": "Comuna 13 Free Tour: Guided by Locals ",
+      "es": "Comuna 13 Free Tour: Guiado por Locales ",
+      "pt": "Comuna 13 Free Tour: Guiado por habitantes locais ",
+      "de": "Comuna 13 Kostenlose Tour: Geführt von Einheimischen ",
+      "fr": "Visite libre de la Comuna 13 : guidée par des locaux ",
+      "it": "Visita libera della Comuna 13: guida della gente del posto "
+    },
+    "brief": {
+      "de": "erkunden Sie die Comuna 13 auf dieser pulsierenden kostenlosen Tour! Entdecken Sie die urbane Kunst, Galerien, Tanz, Freestyle und Aussichtspunkte mit einzigartigem Blick auf Medellín. Erleben Sie die lokale Kultur in jeder Ecke mit ihren eigenen Schöpfern.",
+      "en": "explore Comuna 13 on this vibrant Free Tour! Discover its urban art, galleries, dance, freestyle and viewpoints with unique views of Medellín. Experience the local culture in every corner with its own creators.",
+      "es": "¡Explora la Comuna 13 en este Free Tour vibrante! Descubre su arte urbano, galerías, danza, freestyle y miradores con vistas únicas de Medellín. Vive la cultura local en cada rincón junto a sus propios creadores.",
+      "fr": "explorez la Comuna 13 lors de cette vibrante visite gratuite ! Découvrez son art urbain, ses galeries, sa danse, son style libre et ses points de vue avec des vues uniques sur Medellín. Faites l'expérience de la culture locale dans chaque coin avec ses propres créateurs.",
+      "it": "esplorate la Comuna 13 in questo vivace tour gratuito! Scoprite l'arte urbana, le gallerie, la danza, il freestyle e i punti panoramici con viste uniche su Medellín. Scoprite la cultura locale in ogni angolo con i suoi creatori.",
+      "pt": "explore a Comuna 13 neste vibrante Free Tour! Descubra a sua arte urbana, galerias, dança, freestyle e miradouros com vistas únicas de Medellín. Experimente a cultura local em cada canto com os seus próprios criadores."
+    },
+    "description": {
+      "de": "Die Tour beginnt im Viertel Indecencia 1, wo wir über die Geschichte der Vergangenheit und den Wandel der Comuna 13 sprechen werden, in der Nähe dieses Ortes werden wir die erste Breakdance-Show sehen, dann werden wir durch die Straßen der Comuna 13 gehen und über die Bedeutung einiger Graffiti sprechen.\r\n\r\nDann fahren wir mit den Rolltreppen zur ersten Galerie der künstlerischen Ursprünge hinauf, weiter mit den Rolltreppen zur Café-Bar \"Aroma de Barrio\" des Künstlers Chota 13, dann weiter mit den Rolltreppen zum ersten Aussichtspunkt. \r\n\r\nDann geht es weiter zum nächsten Aussichtspunkt, von dem aus man 80 Prozent von Medellín überblicken kann, dann beginnt der Abstieg, aber wir nehmen einige Abkürzungen innerhalb des Viertels, bis zum Treffpunkt, wo wir die Tour beenden.",
+      "en": "The tour starts in the neighborhood Indecencia 1, where we will talk about the history of the past and transformation of the commune 13, near this place we will see the first break dance show, then we will walk through the streets of the commune 13 talking about the meanings of some graffiti.\r\n\r\nThen we will go up the escalators to the first gallery of art origins, we will continue on the escalators to the coffee bar \"Aroma de Barrio\" of the artist Chota 13, then we will continue on the escalators to the first viewpoint. \r\n\r\nThen we will go to the next viewpoint where we can enjoy the view of 80 percent of Medellin, then we will start descending, but we will take some shortcuts inside the neighborhood, until the meeting point where we will finish the tour.",
+      "es": "El recorrido inicia en el barrio Indecencia 1, donde hablaremos sobre la historia del pasado y transformación de la comuna 13, cerca de este lugar veremos el primer espectáculo de break dance, luego caminaremos por las calles de la comuna 13 hablando de los significados de algunos grafitis.\r\n\r\nLuego subiremos por las escaleras mecánicas hasta la primera galería de orígenes del arte, continuaremos en las escaleras mecánicas hasta el café bar “Aroma de Barrio” del artista Chota 13, luego continuaremos en las escaleras mecánicas hasta el primer mirado. \r\n\r\nLuego nos dirigiremos al siguiente mirador donde podremos disfrutar de la vista del 80 por ciento de Medellín, luego comenzaremos a descender, pero vamos tomando algunos atajos dentro del barrio, hasta el punto de encuentro donde finalizaremos el recorrido.",
+      "fr": "La visite commence dans le quartier Indecencia 1, où nous parlerons de l'histoire du passé et de la transformation de la comuna 13, près de cet endroit nous verrons le premier spectacle de break dance, puis nous nous promènerons dans les rues de la comuna 13 en parlant de la signification de certains graffitis.\r\n\r\nNous monterons ensuite les escalators jusqu'à la première galerie des origines de l'art, nous continuerons sur les escalators jusqu'au café-bar \"Aroma de Barrio\" de l'artiste Chota 13, puis nous continuerons sur les escalators jusqu'au premier mirador. \r\n\r\nEnsuite, nous nous rendrons au point de vue suivant, d'où nous pourrons admirer 80 % de la ville de Medellín. Nous commencerons ensuite à descendre, mais nous prendrons quelques raccourcis à l'intérieur du quartier, jusqu'au point de rencontre, où nous terminerons la visite.",
+      "it": "Il tour inizia nel quartiere Indecencia 1, dove parleremo della storia del passato e delle trasformazioni della comuna 13, vicino a questo luogo assisteremo al primo spettacolo di break dance, poi cammineremo per le strade della comuna 13 parlando del significato di alcuni graffiti.\r\n\r\nPoi saliremo le scale mobili fino alla prima galleria di origini artistiche, proseguiremo sulle scale mobili fino al bar caffetteria \"Aroma de Barrio\" dell'artista Chota 13, poi continueremo sulle scale mobili fino al primo belvedere. \r\n\r\nPoi andremo al punto panoramico successivo da cui si può godere della vista dell'80% di Medellín, quindi inizieremo a scendere, ma prenderemo alcune scorciatoie all'interno del quartiere, fino al punto d'incontro dove concluderemo il tour.",
+      "pt": "O passeio começa no bairro Indecencia 1, onde falaremos sobre a história do passado e da transformação da comuna 13, perto deste lugar veremos o primeiro espetáculo de break dance, depois caminharemos pelas ruas da comuna 13 falando sobre os significados de alguns graffiti.\r\n\r\nDepois, subiremos as escadas rolantes até à primeira galeria de origens artísticas, continuaremos nas escadas rolantes até ao café-bar \"Aroma de Barrio\" do artista Chota 13, depois continuaremos nas escadas rolantes até ao primeiro miradouro. \r\n\r\nDepois iremos para o próximo miradouro onde podemos apreciar a vista de 80% de Medellín, depois começaremos a descer, mas iremos por alguns atalhos dentro do bairro, até ao ponto de encontro onde terminaremos o passeio."
+    },
+    "providerTitle": "Medellín History Tour",
+    "providerPhone": "+573233122149",
+    "URL": "https://www.freetour.com/medellin/comuna-trece-free-tour-de-grafitis?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/medellin/comuna-trece-free-tour-de-grafitis?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/medellin/comuna-trece-free-tour-de-grafitis?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/medellin/comuna-trece-free-tour-de-grafitis?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/medellin/comuna-trece-free-tour-de-grafitis?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/medellin/comuna-trece-free-tour-de-grafitis?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/medellin/comuna-trece-free-tour-de-grafitis?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "3:00",
+    "meetingPoint": {
+      "title": "Calle 38a #108-74",
+      "coordinates": "6.2509455,-75.62137700000001",
+      "googlePlaceId": "ChIJrbVtP9UrRI4RnMKK6J6cGX0"
+    },
+    "cityId": 910,
+    "countryId": 30,
+    "includes": [
+      "Barrio san javier",
+      "SAG TOUR MEDELLIN"
+    ],
+    "POIs": [
+      {
+        "id": 30739,
+        "title": "Barrio san javier",
+        "googlePlaceId": "ChIJgYPyRP8pRI4RWIGKSnicYVQ"
+      },
+      {
+        "id": 30796,
+        "title": "SAG TOUR MEDELLIN",
+        "googlePlaceId": "ChIJpcU_Nt8rRI4R-2dVJuXEjwk"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/57777/comuna-13-graffiti-tour-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 199869,
+        "URL": "https://www.freetour.com/images/tours/57777/comuna-13-graffiti-tour-02.jpg"
+      },
+      {
+        "id": 199870,
+        "URL": "https://www.freetour.com/images/tours/57777/comuna-13-graffiti-tour-03.jpg"
+      },
+      {
+        "id": 199874,
+        "URL": "https://www.freetour.com/images/tours/57777/comuna-13-graffiti-tour-07.jpg"
+      },
+      {
+        "id": 199875,
+        "URL": "https://www.freetour.com/images/tours/57777/comuna-13-graffiti-tour-08.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.93,
+    "reviewsNumber": 14
+  },
+  {
+    "id": 75021,
+    "updatedAt": "2025-12-11 08:26:03",
+    "title": {
+      "en": "Free Tour Comuna 13 with Locals and Snacks",
+      "es": "Free Tour Comuna 13 con Locales y Snacks",
+      "pt": "Visita gratuita à Comuna 13 com habitantes locais e petiscos",
+      "de": "Kostenlose Tour Comuna 13 mit Einheimischen und Snacks",
+      "fr": "Visite gratuite de la Comuna 13 avec des habitants et des snacks",
+      "it": "Tour gratuito della Comuna 13 con gente del posto e spuntini"
+    },
+    "brief": {
+      "de": "Kommen Sie zu uns und entdecken Sie die Essenz der Comuna 13, einem Ort voller Kunst, Geschichte und einzigartiger Energie. Erleben Sie ein unvergessliches Erlebnis zwischen Wandmalereien, Musik und dem authentischen Leben in Medellín.",
+      "en": "Join us and discover the essence of Comuna 13, a place full of art, history and unique energy. Live an unforgettable experience among murals, music and the authentic life of Medellín.",
+      "es": "Únete y descubre la esencia de la Comuna 13, un lugar lleno de arte, historia y energía única. Vive una experiencia inolvidable entre murales, música y la auténtica vida de Medellín.",
+      "fr": "Rejoignez-nous et découvrez l'essence de la Comuna 13, un lieu plein d'art, d'histoire et d'énergie unique. Vivez une expérience inoubliable au milieu des peintures murales, de la musique et de la vie authentique de Medellín.",
+      "it": "Unitevi a noi e scoprite l'essenza della Comuna 13, un luogo ricco di arte, storia ed energia unica. Vivete un'esperienza indimenticabile tra murales, musica e la vita autentica di Medellín.",
+      "pt": "Junte-se a nós e descubra a essência da Comuna 13, um lugar cheio de arte, história e energia única. Viva uma experiência inesquecível entre murais, música e a vida autêntica de Medellín."
+    },
+    "description": {
+      "de": "Begleiten Sie uns, um das berühmte COMUNA 13 kennenzulernen, Erinnerungen zu schaffen durch seine urbane Kunst, seine Geschichte und alles aus der Hand eines Einheimischen, der Teil unseres Wahnsinns ist und in die Eingeweide dieses Sektors eindringt.\r\n\r\nWir werden den einzigen Ort mit einer Rolltreppe im Freien in Kolumbien besuchen. Wir werden das Viertel mit den meisten Graffitis in Medellín besuchen. Wir besuchen die besten Orte, um Fotos zu machen und authentische Erinnerungen zu schaffen.\r\n\r\nWir werden Aussichtspunkte besuchen, von denen aus Sie die besten Fotos mit Blick auf die Stadt Medellín machen können. Und das Beste an all dem von einem Einheimischen, der in COMUNA 13 geboren und aufgewachsen ist und dessen faszinierende Geschichte überlebt hat.",
+      "en": "Join us to get to know the famous COMUNA 13 creating memories through its urban art, its history and all from the hand of a local, being part of our madness and walking in the bowels of this sector.\r\n\r\nWe will visit the only place with an outdoor escalator service in Colombia. We will visit the neighborhood with the most outdoor graffiti in Medellín. We will visit the best places to take pictures and create authentic memories.\r\n\r\nWe will visit viewpoints where you will be able to take the best pictures with the view of the city of Medellin. And the best part all this from the hand of a local born and raised in COMUNA 13 survivor of its fascinating history.",
+      "es": "Súmate a conocer la famosa COMUNA 13 creando recuerdos a través de su arte urbano, su historia y todo de la mano de un lugareño, haciendo parte de nuestra locura y caminando en las entrañas de este sector.\r\n\r\nVisitaremos el único lugar con un servicio de escaleras eléctricas al aire libre en Colombia. Visitaremos el barrio con más grafitis al aire libre en Medellín. Visitaremos los mejores lugares para tomarte fotos y crear auténticos recuerdos.\r\n\r\nVisitaremos miradores donde podrás tomarte las mejores fotos con la vista de la ciudad de Medellín Y la mejor parte todo esto de la mano de un lugareño nacido y crecido en la COMUNA 13 sobreviviente de su fascinante historia.",
+      "fr": "Rejoignez-nous pour connaître la célèbre COMUNA 13 et créer des souvenirs à travers son art urbain, son histoire et tout cela de la main d'un local, en faisant partie de notre folie et en marchant dans les entrailles de ce secteur.\r\n\r\nNous visiterons le seul endroit de Colombie où l'on trouve un service d'escaliers roulants extérieurs. Nous visiterons le quartier où l'on trouve le plus de graffitis en plein air à Medellín. Nous visiterons les meilleurs endroits pour prendre des photos et créer des souvenirs authentiques.\r\n\r\nNous visiterons des points de vue où vous pourrez prendre les meilleures photos avec la vue sur la ville de Medellín. Et le meilleur de tout cela de la part d'un local né et élevé à COMUNA 13 et un survivant de son histoire fascinante.",
+      "it": "Unisciti a noi per conoscere il famoso COMUNA 13 e creare ricordi attraverso la sua arte urbana, la sua storia e il tutto dalla mano di un locale, facendo parte della nostra follia e camminando nelle viscere di questo settore.\r\n\r\nVisiteremo l'unico luogo con un servizio di scale mobili all'aperto in Colombia. Visiteremo il quartiere con il maggior numero di graffiti all'aperto di Medellín. Visiteremo i luoghi migliori per scattare foto e creare ricordi autentici.\r\n\r\nVisiteremo i punti panoramici dove potrete scattare le migliori foto con la vista della città di Medellín. E la parte migliore di tutto questo è rappresentata da una persona nata e cresciuta a COMUNA 13 e sopravvissuta alla sua affascinante storia.",
+      "pt": "Junte-se a nós para conhecer a famosa COMUNA 13 criando memórias através da sua arte urbana, da sua história e tudo pela mão de um local, fazendo parte da nossa loucura e caminhando nas entranhas deste sector.\r\n\r\nVisitaremos o único lugar com um serviço de escadas rolantes ao ar livre na Colômbia. Visitaremos o bairro com mais graffitis ao ar livre de Medellín. Visitaremos os melhores sítios para tirar fotografias e criar memórias autênticas.\r\n\r\nVisitaremos os miradouros onde poderá tirar as melhores fotografias com vista para a cidade de Medellín. E o melhor de tudo isto, por um local nascido e criado em COMUNA 13 e sobrevivente da sua fascinante história."
+    },
+    "providerTitle": "Veronica Sanchez",
+    "providerPhone": "+573042092630",
+    "URL": "https://www.freetour.com/medellin/explora-los-colores-de-la-comuna-trece?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/medellin/explora-los-colores-de-la-comuna-trece?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/medellin/explora-los-colores-de-la-comuna-trece?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/medellin/explora-los-colores-de-la-comuna-trece?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/medellin/explora-los-colores-de-la-comuna-trece?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/medellin/explora-los-colores-de-la-comuna-trece?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/medellin/explora-los-colores-de-la-comuna-trece?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:30",
+    "meetingPoint": {
+      "title": "Calle 38a #108-74",
+      "coordinates": "6.2509455,-75.62137700000001",
+      "googlePlaceId": "ChIJrbVtP9UrRI4RnMKK6J6cGX0"
+    },
+    "cityId": 910,
+    "countryId": 30,
+    "includes": null,
+    "POIs": null,
+    "titleImageURL": "https://www.freetour.com/images/tours/75021/-02.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 260062,
+        "URL": "https://www.freetour.com/images/tours/75021/-02.jpg"
+      },
+      {
+        "id": 260063,
+        "URL": "https://www.freetour.com/images/tours/75021/-03.jpg"
+      },
+      {
+        "id": 260064,
+        "URL": "https://www.freetour.com/images/tours/75021/-04.jpg"
+      },
+      {
+        "id": 260065,
+        "URL": "https://www.freetour.com/images/tours/75021/-05.jpg"
+      },
+      {
+        "id": 260066,
+        "URL": "https://www.freetour.com/images/tours/75021/-06.jpg"
+      },
+      {
+        "id": 260067,
+        "URL": "https://www.freetour.com/images/tours/75021/-07.jpg"
+      },
+      {
+        "id": 260068,
+        "URL": "https://www.freetour.com/images/tours/75021/-08.jpg"
+      },
+      {
+        "id": 260069,
+        "URL": "https://www.freetour.com/images/tours/75021/-09.jpg"
+      },
+      {
+        "id": 260070,
+        "URL": "https://www.freetour.com/images/tours/75021/-10.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 32
+  },
+  {
+    "id": 82859,
+    "updatedAt": "2025-12-11 03:32:40",
+    "title": {
+      "en": "Enjoy the flavors and colors of the Colombian Caribbean Coast",
+      "es": "Disfruta los sabores y colores de la Costa Caribe Colombiana",
+      "pt": "Aprecie os sabores e as cores da costa das Caraíbas colombianas",
+      "de": "Genießen Sie die Aromen und Farben der kolumbianischen Karibikküste",
+      "fr": "Savourez les saveurs et les couleurs de la côte caraïbe colombienne",
+      "it": "Godetevi i sapori e i colori della costa caraibica colombiana"
+    },
+    "brief": {
+      "de": "Unsere Tour führt Sie über die Touristenrestaurants hinaus, um die wahren Aromen Cartagenas in den authentischen Picadas und an den Straßenständen zu entdecken: die wahre Seele der lokalen Küche.",
+      "en": "Our tour takes you beyond the tourist restaurants to discover the true flavors of Cartagena in its authentic picadas and street food stalls: the true soul of the local cuisine.",
+      "es": "Nuestro recorrido te lleva más allá de los restaurantes turísticos para descubrir los verdaderos sabores de Cartagena en sus auténticas picadas y puestos de comida callejera: la verdadera alma de la cocina local.",
+      "fr": "Notre circuit vous emmène au-delà des restaurants touristiques pour découvrir les véritables saveurs de Carthagène dans ses authentiques picadas et ses stands de cuisine de rue : la véritable âme de la cuisine locale.",
+      "it": "Il nostro tour vi porta oltre i ristoranti turistici per scoprire i veri sapori di Cartagena nelle sue autentiche picadas e bancarelle di cibo di strada: la vera anima della cucina locale.",
+      "pt": "O nosso passeio leva-o para além dos restaurantes turísticos para descobrir os verdadeiros sabores de Cartagena nas suas autênticas picadas e bancas de comida de rua: a verdadeira alma da cozinha local."
+    },
+    "description": {
+      "de": "machen Sie sich bereit für eine unvergessliche kulinarische Reise durch die bunten Kopfsteinpflasterstraßen im Herzen von Cartagena! Diese gastronomische Tour lädt Sie ein, die authentischen Aromen der kolumbianischen Karibik zu entdecken und zu genießen. Sie werden von lokalen Experten geführt, die Sie durch eine Reise voller Geschichte, Kultur und vor allem viel Geschmack führen.\r\n\r\nwas erwartet Sie? Eine Fusion von Aromen und Traditionen: Tauchen Sie ein in den Reichtum der karibischen Küche, eine lebendige Mischung aus einheimischen, afrikanischen, spanischen und arabischen Einflüssen. Sie werden alles probieren, von den berühmtesten Gerichten der Region bis hin zu versteckten kulinarischen Perlen, die nur Einheimische kennen.\r\n\r\nHidden Gems Tour: Geben Sie sich nicht mit dem Herkömmlichen zufrieden. Unsere Tour führt Sie jenseits der touristischen Restaurants zu den authentischen \"picadas\" und Straßenständen, die die wahre Seele der Gastronomie Cartagenas sind.\r\n\r\nGeschichten mit Geschmack: Während Sie jeden Bissen genießen, erzählen Ihnen unsere Führer die faszinierenden Geschichten hinter jedem Gericht.",
+      "en": "get ready for an unforgettable culinary journey through the colorful cobblestone streets of the heart of Cartagena! This gastronomic tour invites you to discover and delight in the authentic flavors of the Colombian Caribbean, guided by local experts who will guide you through a journey full of history, culture and, above all, lots of flavor.\r\n\r\nwhat awaits you? A Fusion of Flavors and Traditions: Immerse yourself in the richness of Caribbean cuisine, a vibrant mix of indigenous, African, Spanish and Arabic influences. You'll taste everything from the region's most emblematic dishes to hidden culinary gems that only locals know about.\r\n\r\nHidden Gems Tour: Don't settle for the conventional. Our tour will take you beyond the tourist restaurants to explore the authentic \"picadas\" and street food stalls that are the true soul of Cartagena's gastronomy.\r\n\r\nStories with Flavor: As you savor each bite, our guides will tell you the fascinating stories behind each dish.",
+      "es": "¡Prepárate para un viaje culinario inolvidable por las calles empedradas y coloridas del corazón de Cartagena! Este tour gastronómico te invita a descubrir y deleitarte con los auténticos sabores del Caribe colombiano, de la mano de expertos locales que te guiarán a través de un recorrido lleno de historia, cultura y, sobre todo, mucho sabor.\r\n\r\n¿Qué te espera? Una Fusión de Sabores y Tradiciones: Sumérgete en la riqueza de la cocina caribeña, una mezcla vibrante de influencias indígenas, africanas, españolas y árabes. Probarás desde los platos más emblemáticos de la región hasta joyas culinarias escondidas que solo los locales conocen.\r\n\r\nRecorrido por Joyas Ocultas: No te conformes con lo convencional. Nuestro tour te llevará más allá de los restaurantes turísticos para explorar las auténticas \"picadas\" y puestos de comida callejera que son la verdadera alma de la gastronomía cartagenera.\r\n\r\nHistorias con Sabor: Mientras degustas cada bocado, nuestros guías te contarán las fascinantes historias detrás de cada plato.",
+      "fr": "préparez-vous à un voyage culinaire inoubliable dans les rues pavées et colorées du cœur de Carthagène ! Cette visite gastronomique vous invite à découvrir et à vous délecter des saveurs authentiques des Caraïbes colombiennes, sous la houlette d'experts locaux qui vous guideront à travers un voyage plein d'histoire, de culture et, surtout, de saveurs.\r\n\r\nqu'est-ce qui vous attend ? Une fusion de saveurs et de traditions : Plongez dans la richesse de la cuisine caribéenne, un mélange vibrant d'influences indigènes, africaines, espagnoles et arabes. Vous goûterez à tout, des plats les plus emblématiques de la région aux joyaux culinaires cachés que seuls les habitants connaissent.\r\n\r\nVisite des joyaux cachés : ne vous contentez pas de ce qui est conventionnel. Notre visite vous emmènera au-delà des restaurants touristiques pour explorer les authentiques \"picadas\" et les étals de nourriture de rue qui sont la véritable âme de la gastronomie de Carthagène.\r\n\r\nHistoires et saveurs : tout en savourant chaque bouchée, nos guides vous raconteront les histoires fascinantes qui se cachent derrière chaque plat.",
+      "it": "preparatevi a un indimenticabile viaggio culinario tra le colorate strade acciottolate del cuore di Cartagena! Questo tour gastronomico vi invita a scoprire e a deliziarvi con i sapori autentici dei Caraibi colombiani, guidati da esperti locali che vi condurranno in un viaggio ricco di storia, cultura e, soprattutto, di tanto gusto.\r\n\r\ncosa vi aspetta? Una fusione di sapori e tradizioni: Immergetevi nella ricchezza della cucina caraibica, un mix vibrante di influenze indigene, africane, spagnole e arabe. Assaggerete tutto, dai piatti più iconici della regione alle gemme culinarie nascoste che solo i locali conoscono.\r\n\r\nTour delle gemme nascoste: non accontentatevi del convenzionale. Il nostro tour vi porterà oltre i ristoranti turistici per esplorare le autentiche \"picadas\" e le bancarelle di cibo di strada che sono la vera anima della gastronomia di Cartagena.\r\n\r\nStorie con sapore: mentre assaporate ogni boccone, le nostre guide vi racconteranno le affascinanti storie che si celano dietro ogni piatto.",
+      "pt": "prepare-se para uma viagem culinária inesquecível pelas coloridas ruas de paralelepípedos do coração de Cartagena! Este passeio gastronómico convida-o a descobrir e a deliciar-se com os sabores autênticos das Caraíbas colombianas, guiado por especialistas locais que o guiarão numa viagem cheia de história, cultura e, acima de tudo, muito sabor.\r\n\r\no que é que o espera? Uma fusão de sabores e tradições: Mergulhe na riqueza da cozinha caribenha, uma mistura vibrante de influências indígenas, africanas, espanholas e árabes. Irá provar tudo, desde os pratos mais emblemáticos da região a jóias culinárias escondidas que só os habitantes locais conhecem.\r\n\r\nExcursão às jóias escondidas: Não se contente com o convencional. Nossa excursão o levará além dos restaurantes turísticos para explorar as autênticas \"picadas\" e barracas de comida de rua que são a verdadeira alma da gastronomia de Cartagena.\r\n\r\nHistórias com sabor: Enquanto você saboreia cada mordida, nossos guias lhe contarão as fascinantes histórias por trás de cada prato."
+    },
+    "providerTitle": "Viviana Moreno Bustamante",
+    "providerPhone": "+573002443860",
+    "URL": "https://www.freetour.com/cartagena/free-tour-flavors-colors-colombian-caribbean-coast?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/cartagena/free-tour-flavors-colors-colombian-caribbean-coast?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/cartagena/free-tour-flavors-colors-colombian-caribbean-coast?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/cartagena/free-tour-flavors-colors-colombian-caribbean-coast?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/cartagena/free-tour-flavors-colors-colombian-caribbean-coast?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/cartagena/free-tour-flavors-colors-colombian-caribbean-coast?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/cartagena/free-tour-flavors-colors-colombian-caribbean-coast?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "2:00",
+    "meetingPoint": {
+      "title": "baluarte de san pedro martir",
+      "coordinates": "10.4268463,-75.5448071",
+      "googlePlaceId": "ChIJhVntgp4v9o4ROho8DT2GE1E"
+    },
+    "cityId": 898,
+    "countryId": 30,
+    "includes": [
+      "Restaurante Donde Magola",
+      "Plazoleta del Joe Arroyo",
+      "PORTAL DE LOS DULCES",
+      "Recorrido guiado "
+    ],
+    "POIs": [
+      {
+        "id": 20052,
+        "title": "Restaurante Donde Magola",
+        "googlePlaceId": "ChIJA-0HqZ4v9o4RxdNQ5dqlSJ8"
+      },
+      {
+        "id": 35054,
+        "title": "Plazoleta del Joe Arroyo",
+        "googlePlaceId": "ChIJeeaqVREv9o4RPADcjSqcS2g"
+      },
+      {
+        "id": 5396,
+        "title": "PORTAL DE LOS DULCES",
+        "googlePlaceId": "ChIJi00l558v9o4RLFqJf-rjwB0"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/82859/-01.jpg",
+    "categoryId": 5,
+    "images": [
+      {
+        "id": 286086,
+        "URL": "https://www.freetour.com/images/tours/82859/-01.jpg"
+      },
+      {
+        "id": 286087,
+        "URL": "https://www.freetour.com/images/tours/82859/-02.jpg"
+      },
+      {
+        "id": 286088,
+        "URL": "https://www.freetour.com/images/tours/82859/-03.jpg"
+      },
+      {
+        "id": 286089,
+        "URL": "https://www.freetour.com/images/tours/82859/-04.jpg"
+      },
+      {
+        "id": 286090,
+        "URL": "https://www.freetour.com/images/tours/82859/-05.jpg"
       }
     ],
     "videoURL": null,

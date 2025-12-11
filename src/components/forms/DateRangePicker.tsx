@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from 'react';
 import { ChevronDownIcon } from '@/assets/svg/ChevronDownIcon';
 import { Button } from '../ui/Button';
 import { Input } from '../ui/Input';
+import { useLanguage } from '@/lib/language-context';
 
 export interface DateRangePickerProps {
     placeholder?: string;
@@ -17,7 +18,7 @@ export interface DateRangePickerProps {
 }
 
 export function DateRangePicker({
-    placeholder = 'Select date range',
+    placeholder,
     startDate: controlledStartDate,
     endDate: controlledEndDate,
     onDateRangeChange,
@@ -26,10 +27,13 @@ export function DateRangePicker({
     dropdownClassName = '',
     inputClassName = '',
 }: DateRangePickerProps) {
+    const { t } = useLanguage();
     const [isOpen, setIsOpen] = useState(false);
     const [startDate, setStartDate] = useState<string>(controlledStartDate || '');
     const [endDate, setEndDate] = useState<string>(controlledEndDate || '');
     const dropdownRef = useRef<HTMLDivElement>(null);
+    
+    const defaultPlaceholder = t('form.dateRangePicker.placeholder', 'Select date range');
 
     // Sync with controlled values
     useEffect(() => {
@@ -87,14 +91,15 @@ export function DateRangePicker({
     };
 
     const formatDateRange = () => {
+        const displayPlaceholder = placeholder || defaultPlaceholder;
         if (!startDate && !endDate) {
-            return placeholder;
+            return displayPlaceholder;
         }
         if (startDate && !endDate) {
-            return `From ${formatDisplayDate(startDate)}`;
+            return `${t('form.dateRangePicker.from', 'From')} ${formatDisplayDate(startDate)}`;
         }
         if (!startDate && endDate) {
-            return `Until ${formatDisplayDate(endDate)}`;
+            return `${t('form.dateRangePicker.until', 'Until')} ${formatDisplayDate(endDate)}`;
         }
         return `${formatDisplayDate(startDate)} - ${formatDisplayDate(endDate)}`;
     };
@@ -128,7 +133,7 @@ export function DateRangePicker({
                     <div className="space-y-4">
                         <div>
                             <label className="block text-sm font-medium text-(--tp-text-primary) mb-2">
-                                Start Date
+                                {t('form.dateRangePicker.startDate', 'Start Date')}
                             </label>
                             <Input
                                 type="date"
@@ -140,7 +145,7 @@ export function DateRangePicker({
                         </div>
                         <div>
                             <label className="block text-sm font-medium text-(--tp-text-primary) mb-2">
-                                End Date
+                                {t('form.dateRangePicker.endDate', 'End Date')}
                             </label>
                             <Input
                                 type="date"
@@ -162,7 +167,7 @@ export function DateRangePicker({
                                 }}
                                 className="text-sm"
                             >
-                                Clear
+                                {t('form.dateRangePicker.clear', 'Clear')}
                             </Button>
                             <Button
                                 variant="primary"
@@ -170,7 +175,7 @@ export function DateRangePicker({
                                 onClick={() => setIsOpen(false)}
                                 className="text-sm"
                             >
-                                Done
+                                {t('form.dateRangePicker.done', 'Done')}
                             </Button>
                         </div>
                     </div>

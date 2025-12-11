@@ -12,8 +12,7 @@ export interface TourFilters {
 
 /**
  * Paginate JSON tours array with filtering and sorting
- * Currently only supports countryCode filtering (via file selection)
- * Other filters (city, price, category) are ignored for now
+ * Supports filtering by: countryId (via file selection), cityId, minPrice, maxPrice, categoryId
  */
 export function paginateJsonTours(
   tours: TourAPI[],
@@ -28,8 +27,24 @@ export function paginateJsonTours(
   // Start with all tours
   let filteredTours = [...tours];
 
-  // Apply filters (only countryCode is supported via file selection)
-  // City, price, and category filters are ignored for now as per requirements
+  // Apply filters
+  // City filter
+  if (filters.cityId !== undefined) {
+    filteredTours = filteredTours.filter(tour => tour.cityId === filters.cityId);
+  }
+
+  // Price range filters
+  if (filters.minPrice !== undefined) {
+    filteredTours = filteredTours.filter(tour => tour.price.value >= filters.minPrice!);
+  }
+  if (filters.maxPrice !== undefined) {
+    filteredTours = filteredTours.filter(tour => tour.price.value <= filters.maxPrice!);
+  }
+
+  // Category filter
+  if (filters.categoryId !== undefined) {
+    filteredTours = filteredTours.filter(tour => tour.categoryId === filters.categoryId);
+  }
 
   // Apply sorting
   if (pagination.sortBy) {

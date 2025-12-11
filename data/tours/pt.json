@@ -1,7 +1,7 @@
 [
   {
     "id": 620,
-    "updatedAt": "2025-12-01 01:00:38",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Essential Tour",
       "es": "Tour Imprescindible de Lisboa",
@@ -121,7 +121,7 @@
   },
   {
     "id": 621,
-    "updatedAt": "2025-12-01 01:00:38",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Gastronomy Tour",
       "es": "Lisboa Tour Gastronómico",
@@ -228,7 +228,7 @@
   },
   {
     "id": 622,
-    "updatedAt": "2025-12-01 01:00:38",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Old Lisbon Tour",
       "es": "Tour de la Antigua Lisboa",
@@ -325,7 +325,7 @@
   },
   {
     "id": 623,
-    "updatedAt": "2025-12-01 01:00:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Fado Tour",
       "es": "Lisbon Fado Tour",
@@ -491,7 +491,7 @@
   },
   {
     "id": 624,
-    "updatedAt": "2025-12-01 01:00:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Wine Tour",
       "es": "Tour de Vinos por Lisboa",
@@ -561,7 +561,7 @@
   },
   {
     "id": 625,
-    "updatedAt": "2025-12-01 01:00:39",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Welcome to Lisboa Tour",
       "es": "Bienvenido a Lisboa Tour",
@@ -667,7 +667,7 @@
   },
   {
     "id": 944,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Braga Free Tour",
       "es": "Braga Tour Gratis",
@@ -814,11 +814,11 @@
     ],
     "videoURL": null,
     "rating": 4.75,
-    "reviewsNumber": 1373
+    "reviewsNumber": 1377
   },
   {
     "id": 1100,
-    "updatedAt": "2025-12-01 17:06:04",
+    "updatedAt": "2025-12-11 08:31:33",
     "title": {
       "en": "Downtown & Bairro Alto Free Tour: History versus Modern Facts",
       "es": "Recorrido gratuito por el centro y Bairro Alto: La historia frente a los hechos modernos",
@@ -1021,11 +1021,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=16YoSzAibg8",
     "rating": 4.87,
-    "reviewsNumber": 1294
+    "reviewsNumber": 1298
   },
   {
     "id": 1225,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Bairro Alto and Lisbon Center Free Tour",
       "es": "Bairro Alto y Centro de Lisboa Free Tour",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 1226,
-    "updatedAt": "2025-12-01 01:01:08",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Belem in Lisbon",
       "es": "Visita guiada de Belem en Lisboa",
@@ -1293,7 +1293,7 @@
   },
   {
     "id": 1228,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A True Taste of Lisbon: Enjoy Portuguese Tapas, Wine & Surprise Drink",
       "es": "El verdadero sabor de Lisboa: Disfrute de Tapas Portuguesas, Vino y Bebida Sorpresa",
@@ -1371,7 +1371,7 @@
   },
   {
     "id": 1837,
-    "updatedAt": "2025-12-01 01:01:27",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sintra and Cascais Private Day Trip",
       "es": "Excursión privada de un día a Sintra y Cascais",
@@ -1549,7 +1549,7 @@
   },
   {
     "id": 1961,
-    "updatedAt": "2025-12-01 01:01:31",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sintra, Cascais & Estoril Day Trip from Lisbon",
       "es": "Excursión de un día a Sintra, Cascais y Estoril desde Lisboa",
@@ -1654,7 +1654,7 @@
   },
   {
     "id": 1962,
-    "updatedAt": "2025-12-01 01:01:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fatima, Nazare, Batalha & Óbidos Day Trip from Lisbon",
       "es": "Fátima, Nazare, Batalha y Óbidos: excursión de un día desde Lisboa",
@@ -1757,7 +1757,7 @@
   },
   {
     "id": 1963,
-    "updatedAt": "2025-12-01 01:01:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Best of Lisbon Walking Tour",
       "es": "Visita guiada a Lisboa",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": 1964,
-    "updatedAt": "2025-12-01 01:01:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Food & Wine Walking Tour",
       "es": "Free Tour de Comida y Vino de Lisboa",
@@ -1970,7 +1970,7 @@
   },
   {
     "id": 2415,
-    "updatedAt": "2025-12-01 20:06:26",
+    "updatedAt": "2025-12-11 08:32:06",
     "title": {
       "en": "Alfama and Mouraria Free Tour: History versus Modern Facts",
       "es": "Free Tour por Alfama y Mouraria: Historia versus Actualidad",
@@ -2200,11 +2200,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=16YoSzAibg8",
     "rating": 4.82,
-    "reviewsNumber": 3521
+    "reviewsNumber": 3525
   },
   {
     "id": 2594,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Alfama & Mouraria Free Tour: The Oldest Neighborhoods in Lisbon",
       "es": "Alfama y Mouraria Free Tour: Los barrios más antiguos de Lisboa",
@@ -2385,7 +2385,7 @@
   },
   {
     "id": 2796,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Kickstart Street Art Tour",
       "es": "Lisboa Kickstart Street Art Tour",
@@ -2548,7 +2548,7 @@
   },
   {
     "id": 3522,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Essential Free Tour of Lisbon",
       "es": "Free Tour Lisboa Imprescindible",
@@ -2671,11 +2671,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 654
+    "reviewsNumber": 657
   },
   {
     "id": 3687,
-    "updatedAt": "2025-12-01 01:02:11",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour to Belem on a Boat",
       "es": "Tour a Belem en Barco",
@@ -2779,7 +2779,7 @@
   },
   {
     "id": 3963,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Fado Musical Experience with Portuguese Appetizers",
       "es": "Experiencia musical de fado de Lisboa con aperitivos portugueses",
@@ -2871,7 +2871,7 @@
   },
   {
     "id": 4144,
-    "updatedAt": "2025-12-01 01:02:20",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Art Walking Tour in Lisbon",
       "es": "Recorrido a pie por el arte callejero de Lisboa",
@@ -2987,7 +2987,7 @@
   },
   {
     "id": 4599,
-    "updatedAt": "2025-12-01 10:31:03",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "The Essential Free Tour of Porto",
       "es": "La visita gratuita imprescindible de Oporto",
@@ -3090,11 +3090,11 @@
     ],
     "videoURL": null,
     "rating": 4.85,
-    "reviewsNumber": 1570
+    "reviewsNumber": 1582
   },
   {
     "id": 4784,
-    "updatedAt": "2025-12-01 01:02:35",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sunset Lisbon Boat Party",
       "es": "Fiesta en barco al atardecer en Lisboa",
@@ -3191,7 +3191,7 @@
   },
   {
     "id": 4787,
-    "updatedAt": "2025-12-01 22:02:42",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour in Oporto",
       "es": "Free Tour de Oporto",
@@ -3326,11 +3326,11 @@
     ],
     "videoURL": null,
     "rating": 4.77,
-    "reviewsNumber": 4508
+    "reviewsNumber": 4517
   },
   {
     "id": 5052,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Faro Free Walking Tours by Locals",
       "es": "Recorridos gratuitos a pie por Faro",
@@ -3508,11 +3508,11 @@
     ],
     "videoURL": null,
     "rating": 4.9,
-    "reviewsNumber": 807
+    "reviewsNumber": 808
   },
   {
     "id": 5376,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Walking Tour in Porto",
       "es": "Paseo gratuito por Oporto",
@@ -3680,7 +3680,7 @@
   },
   {
     "id": 5429,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Wine Tour in Porto with Visit to a Cellar",
       "es": "Ruta del vino en Oporto con visita a una bodega",
@@ -3794,7 +3794,7 @@
   },
   {
     "id": 5667,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Belém Free Tour: The Birthplace of the Discoveries",
       "es": "Belém Free Tour: Cuna de los Descubrimientos",
@@ -3978,7 +3978,7 @@
   },
   {
     "id": 5716,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour Lisbon Bohemia; Heyday in the 20th Century",
       "es": "Free Tour Lisboa Bohemia; Apogeo en Pleno s.XX",
@@ -4116,7 +4116,7 @@
   },
   {
     "id": 5746,
-    "updatedAt": "2025-12-01 09:30:02",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour Lisbon: Essential History & Fun Facts with Free Tastings",
       "es": "Free Tour Lisboa: Historia esencial y datos curiosos con degustaciones gratuitas",
@@ -4291,11 +4291,11 @@
     ],
     "videoURL": null,
     "rating": 4.9,
-    "reviewsNumber": 4255
+    "reviewsNumber": 4279
   },
   {
     "id": 5799,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Pinhão",
       "es": "Tour a pie por Pinhão",
@@ -4381,7 +4381,7 @@
   },
   {
     "id": 6228,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Premium Pubcrawl: 1 Hour Open Bar, Shot & VIP Club Entry",
       "es": "Lisbon Premium Pubcrawl: 1 hora de barra libre, chupito y entrada al club VIP",
@@ -4479,7 +4479,7 @@
   },
   {
     "id": 6304,
-    "updatedAt": "2025-12-01 16:33:36",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Unmissable Lisbon Free Tour",
       "es": "Visita gratuita imperdible de Lisboa",
@@ -4660,11 +4660,11 @@
     ],
     "videoURL": null,
     "rating": 4.83,
-    "reviewsNumber": 832
+    "reviewsNumber": 838
   },
   {
     "id": 6305,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Free Tour of Lisbon's Old Town: Alfama",
       "es": "Visita gratuita al casco antiguo de Lisboa: Alfama",
@@ -4762,11 +4762,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 273
+    "reviewsNumber": 276
   },
   {
     "id": 6841,
-    "updatedAt": "2025-12-01 01:03:23",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "NYE Lisbon: New Year's Eve Pub Crawl",
       "es": "Nochevieja Lisboa: Nochevieja en Lisboa",
@@ -4879,7 +4879,7 @@
   },
   {
     "id": 7198,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Lisbon Downtown Not to be missed",
       "es": "Free Tour Lisboa Centro Imperdible",
@@ -5056,7 +5056,7 @@
   },
   {
     "id": 7558,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Coimbra at Night",
       "es": "Free Tour Coimbra de Noche",
@@ -5227,11 +5227,11 @@
     ],
     "videoURL": null,
     "rating": 4.73,
-    "reviewsNumber": 176
+    "reviewsNumber": 177
   },
   {
     "id": 8006,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "An Irish Guide’s Porto Adventure",
       "es": "Aventura en Oporto según un Guía Irlandés",
@@ -5361,11 +5361,11 @@
     ],
     "videoURL": null,
     "rating": 4.91,
-    "reviewsNumber": 395
+    "reviewsNumber": 397
   },
   {
     "id": 8239,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "The Original Cascais Free Tour",
       "es": "El original free tour de Cascais",
@@ -5486,7 +5486,7 @@
   },
   {
     "id": 9678,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "The Essential Free Tour of Sintra",
       "es": "La visita gratuita imprescindible de Sintra",
@@ -5626,12 +5626,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.77,
-    "reviewsNumber": 446
+    "rating": 4.78,
+    "reviewsNumber": 448
   },
   {
     "id": 13300,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Early Morning Lisbon Free Tour",
       "es": "Por la mañana temprano Lisboa Free Tour",
@@ -5769,7 +5769,7 @@
   },
   {
     "id": 16753,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Essential Braga",
       "es": "Free Tour Braga Esencial",
@@ -5908,7 +5908,7 @@
   },
   {
     "id": 17247,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Original Lisbon Free Tour",
       "es": "Lisboa Original Free Tour",
@@ -6044,7 +6044,7 @@
   },
   {
     "id": 18865,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour in Aveiro",
       "es": "Visita libre en Aveiro",
@@ -6142,11 +6142,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 158
+    "reviewsNumber": 160
   },
   {
     "id": 19002,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 12:41:02",
     "title": {
       "en": "Brodie's Free Tour of Lagos",
       "es": "Visita gratuita de Brodie a Lagos",
@@ -6302,7 +6302,7 @@
   },
   {
     "id": 19155,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Lisbon Walking Tour: Historic Strolls of the Old Town",
       "es": "Lisboa Walking Tour: Paseos históricos por la Ciudad Vieja",
@@ -6398,7 +6398,7 @@
   },
   {
     "id": 19370,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Moliceiro Boat Tour",
       "es": "Paseo en barco por Moliceiro",
@@ -6495,7 +6495,7 @@
   },
   {
     "id": 19971,
-    "updatedAt": "2025-12-01 16:07:03",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Guimarães",
       "es": "Visita gratuita a Guimarães",
@@ -6650,11 +6650,11 @@
     ],
     "videoURL": null,
     "rating": 4.5600000000000005,
-    "reviewsNumber": 579
+    "reviewsNumber": 581
   },
   {
     "id": 20346,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "The Essential Free Tour of Guimaraes",
       "es": "La visita gratuita imprescindible de Guimaraes",
@@ -6796,11 +6796,11 @@
     ],
     "videoURL": null,
     "rating": 4.79,
-    "reviewsNumber": 132
+    "reviewsNumber": 133
   },
   {
     "id": 20804,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Lisbon: Baixa & Chiado",
       "es": "Visita gratuita a Lisboa: Baixa y Chiado",
@@ -6917,12 +6917,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.8,
-    "reviewsNumber": 64
+    "rating": 4.79,
+    "reviewsNumber": 66
   },
   {
     "id": 21211,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bom Jesus Tour in the City of Braga",
       "es": "Excursión Bom Jesus en la Ciudad de Braga",
@@ -7024,7 +7024,7 @@
   },
   {
     "id": 21293,
-    "updatedAt": "2025-12-01 01:04:52",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Madeira - Best of the West Tour",
       "es": "Madeira - Lo Mejor del Oeste Tour",
@@ -7132,7 +7132,7 @@
   },
   {
     "id": 21297,
-    "updatedAt": "2025-12-01 01:04:52",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Madeira - Best of the East Tour",
       "es": "Madeira - Lo Mejor del Este Tour",
@@ -7248,7 +7248,7 @@
   },
   {
     "id": 21301,
-    "updatedAt": "2025-12-01 01:04:53",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Madeira Peaks Walking Tour",
       "es": "Tour a Pie por los Picos de Madeira",
@@ -7384,7 +7384,7 @@
   },
   {
     "id": 22061,
-    "updatedAt": "2025-12-01 01:05:01",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Non-Alcoholic Pubcrawl: 1 Hour Open Bar (Soft Drinks/Mocktails)",
       "es": "Pubcrawl sin alcohol: 1 hora de barra libre (refrescos/mócteles)",
@@ -7479,7 +7479,7 @@
   },
   {
     "id": 22403,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Best of Porto Free Tour",
       "es": "Lo Mejor de Oporto Free Tour",
@@ -7641,11 +7641,11 @@
     ],
     "videoURL": null,
     "rating": 4.77,
-    "reviewsNumber": 612
+    "reviewsNumber": 613
   },
   {
     "id": 23453,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Exciting Free Walking Tour in Alfama District",
       "es": "Emocionante recorrido gratuito a pie por el barrio de Alfama",
@@ -7784,11 +7784,11 @@
     ],
     "videoURL": null,
     "rating": 4.46,
-    "reviewsNumber": 253
+    "reviewsNumber": 254
   },
   {
     "id": 23650,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Harry Potter in Porto Free Tour",
       "es": "Free Tour Harry Potter en Oporto",
@@ -7901,7 +7901,7 @@
   },
   {
     "id": 23860,
-    "updatedAt": "2025-12-01 01:05:17",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Lisbon Pubcrawl",
       "es": "El Pubcrawl de Lisboa",
@@ -8022,7 +8022,7 @@
   },
   {
     "id": 24151,
-    "updatedAt": "2025-12-01 17:31:13",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Essential Evora Free Tour",
       "es": "Excursión gratuita Essential Evora",
@@ -8124,11 +8124,11 @@
     ],
     "videoURL": null,
     "rating": 4.72,
-    "reviewsNumber": 150
+    "reviewsNumber": 152
   },
   {
     "id": 25267,
-    "updatedAt": "2025-12-01 01:05:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Street Art Tour & Workshop",
       "es": "Lisboa Street Art Tour &amp; Workshop",
@@ -8232,7 +8232,7 @@
   },
   {
     "id": 25268,
-    "updatedAt": "2025-12-01 01:05:47",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Street Art Tour",
       "es": "Lisboa Street Art Tour",
@@ -8347,7 +8347,7 @@
   },
   {
     "id": 25370,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Tour of the Other Side of Coimbra",
       "es": "Visita a la otra cara de Coimbra",
@@ -8491,7 +8491,7 @@
   },
   {
     "id": 25974,
-    "updatedAt": "2025-12-01 01:05:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Northwest Enchanted Terraces Tour",
       "es": "Recorrido por las Terrazas Encantadas del Noroeste",
@@ -8623,7 +8623,7 @@
   },
   {
     "id": 25979,
-    "updatedAt": "2025-12-01 01:05:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "East Madeira Peaks Tour",
       "es": "Excursión a los Picos del Este de Madeira",
@@ -8737,7 +8737,7 @@
   },
   {
     "id": 25981,
-    "updatedAt": "2025-12-01 01:05:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "NorthWest Landscapes, UNESCO & Volcanic Pools 4x4 Experience",
       "es": "Paisajes del Noroeste, UNESCO y Pozas Volcánicas Experiencia 4x4",
@@ -8865,7 +8865,7 @@
   },
   {
     "id": 25983,
-    "updatedAt": "2025-12-01 01:05:48",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Santana &amp; Picos 4x4 Tour",
       "es": "Santana y Picos 4x4",
@@ -8992,7 +8992,7 @@
   },
   {
     "id": 26115,
-    "updatedAt": "2025-12-01 01:05:49",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Madeira Island Tour: Scents & Flavours",
       "es": "Vuelta a la isla de Madeira: Aromas y Sabores",
@@ -9106,7 +9106,7 @@
   },
   {
     "id": 26116,
-    "updatedAt": "2025-12-01 01:05:49",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Santana Wonders and Northeast 4x4 tour",
       "es": "Maravillas de Santana y recorrido en 4x4 por el noreste",
@@ -9224,7 +9224,7 @@
   },
   {
     "id": 26117,
-    "updatedAt": "2025-12-01 01:05:49",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Southwest Madeira Island Tour: Craters of Fire",
       "es": "Excursión al Sudoeste de la Isla de Madeira: Cráteres de Fuego",
@@ -9320,7 +9320,7 @@
   },
   {
     "id": 26118,
-    "updatedAt": "2025-12-01 01:05:50",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "The Best of Southwest 4x4 Experience",
       "es": "La mejor experiencia 4x4 del suroeste",
@@ -9429,7 +9429,7 @@
   },
   {
     "id": 26852,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto Old Town: Self-Guided Exploration Game",
       "es": "Casco antiguo de Oporto: Juego de exploración autoguiada",
@@ -9521,7 +9521,7 @@
   },
   {
     "id": 26853,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "7 Wonders of Lisbon's Alfama: Self-Guided Exploration Game",
       "es": "7 Maravillas de la Alfama de Lisboa: Juego de exploración autoguiada",
@@ -9639,7 +9639,7 @@
   },
   {
     "id": 27434,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour of Aveiro",
       "es": "Visita gratuita a Aveiro",
@@ -9943,7 +9943,7 @@
   },
   {
     "id": 27435,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour in Costa Nova",
       "es": "Tour Privado en Costa Nova",
@@ -10097,7 +10097,7 @@
   },
   {
     "id": 29379,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Essential Free Tour of Sintra",
       "es": "Free Tour Imprescindible por Sintra",
@@ -10226,7 +10226,7 @@
   },
   {
     "id": 29674,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Braga Guided Tour",
       "es": "Visita guiada a Braga",
@@ -10346,7 +10346,7 @@
   },
   {
     "id": 30258,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Lisbon: Alfama, Castle, Roman Theater",
       "es": "Free Tour Lisboa: Alfama, Castillo, Teatro Romano",
@@ -10466,7 +10466,7 @@
   },
   {
     "id": 31530,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:33",
     "title": {
       "en": "Free Tour Aveiro by Night",
       "es": "Free Tour Aveiro de Noche",
@@ -10806,7 +10806,7 @@
   },
   {
     "id": 32483,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Elvas Premium Private Tour",
       "es": "Visita Guiada Privada Premium a Elvas",
@@ -10911,7 +10911,7 @@
   },
   {
     "id": 33478,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Panoramic Moliceiro Boat in Aveiro",
       "es": "Barco panorámico Moliceiro en Aveiro",
@@ -11029,7 +11029,7 @@
   },
   {
     "id": 34124,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Dark Porto Free Tour: Mysteries, Legends & Crimes",
       "es": "Dark Porto Free Tour: Misterios, leyendas y crímenes",
@@ -11129,11 +11129,11 @@
     ],
     "videoURL": null,
     "rating": 4.74,
-    "reviewsNumber": 483
+    "reviewsNumber": 484
   },
   {
     "id": 34453,
-    "updatedAt": "2025-12-01 03:32:40",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Discover Coimbra with a Border Collie",
       "es": "Descubre Coimbra con un Border Collie",
@@ -11288,7 +11288,7 @@
   },
   {
     "id": 34629,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Porto Free Tour: History, Culture, Local Life",
       "es": "Free Tour Oporto: Historia, Cultura, Vida Local",
@@ -11411,7 +11411,7 @@
   },
   {
     "id": 34960,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour Paiva Walkways and 516 Arouca Bridge",
       "es": "Recorrido Pasarelas Paiva y Puente Arouca 516",
@@ -11630,7 +11630,7 @@
   },
   {
     "id": 36073,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour of Leiria",
       "es": "Free Walking Tour of Leiria",
@@ -11904,7 +11904,7 @@
   },
   {
     "id": 37380,
-    "updatedAt": "2025-12-01 01:07:13",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto PubCrawl: Drinks, Games & VIP entry",
       "es": "PubCrawl de Oporto: Bebidas, juegos y entrada VIP",
@@ -12008,7 +12008,7 @@
   },
   {
     "id": 37648,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Complete Free Walking Tour of Guimarães",
       "es": "Free Tour Completo a Pie de Guimarães",
@@ -12123,7 +12123,7 @@
   },
   {
     "id": 38096,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto History and Beach on EBIKE",
       "es": "Historia y playa de Oporto en EBIKE",
@@ -12304,7 +12304,7 @@
   },
   {
     "id": 38150,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Walk Lisbon Like a Local: Bairro Alto & Downtown Experience",
       "es": "Pasee por Lisboa como un lisboeta: Bairro Alto &amp; Downtown Experience",
@@ -12455,7 +12455,7 @@
   },
   {
     "id": 39679,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mindful Hike Algarve by el Sol - Lifestyle",
       "es": "Mindful Hike Algarve por el Sol - Estilo de vida",
@@ -12531,7 +12531,7 @@
   },
   {
     "id": 39736,
-    "updatedAt": "2025-12-01 01:07:25",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Total Lisbon Experience: Small-Group Walking Tour",
       "es": "Experiencia Lisboa Total: Paseo en grupo reducido",
@@ -12655,7 +12655,7 @@
   },
   {
     "id": 40114,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Legendary Lisbon Pubcrawl: 1 Hour Open Bar, Shot & VIP Club Entry",
       "es": "Legendary Lisbon Pubcrawl: 1 hora de barra libre, chupito y entrada al club VIP",
@@ -12783,7 +12783,7 @@
   },
   {
     "id": 40926,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Aveiro All-in-One City Center Free Tour",
       "es": "Aveiro All-in-One City Center Tour Gratuito",
@@ -12926,7 +12926,7 @@
   },
   {
     "id": 40997,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Alfama District Free Tour: Beautiful City ",
       "es": "Tour Gratis por el Barrio de Alfama: Ciudad Bonita ",
@@ -13069,12 +13069,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.85,
-    "reviewsNumber": 116
+    "rating": 4.8100000000000005,
+    "reviewsNumber": 118
   },
   {
     "id": 41787,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pink Street Pubcrawl in Lisbon",
       "es": "Pubcrawl en la calle Rosa de Lisboa",
@@ -13186,7 +13186,7 @@
   },
   {
     "id": 41969,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Around Alfama & Mouraria",
       "es": "Free Tour por Alfama y Mouraria",
@@ -13316,7 +13316,7 @@
   },
   {
     "id": 42377,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Guarda – Free Tour: Exploring the Timeless Stories of its Giants",
       "es": "Guarda - Recorrido gratuito: Explorando las historias intemporales de sus gigantes",
@@ -13467,7 +13467,7 @@
   },
   {
     "id": 42415,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "Free Tour Oporto a Must-See",
       "es": "Free Tour Oporto Imprescindible",
@@ -13606,12 +13606,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.6,
-    "reviewsNumber": 286
+    "rating": 4.59,
+    "reviewsNumber": 287
   },
   {
     "id": 42416,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "Porto Free Tour by Night",
       "es": "Free Tour Oporto Nocturno",
@@ -13835,7 +13835,7 @@
   },
   {
     "id": 42839,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour: Unforgettable Lisbon Center",
       "es": "Free Tour: El inolvidable Centro de Lisboa",
@@ -14007,7 +14007,7 @@
   },
   {
     "id": 42860,
-    "updatedAt": "2025-12-01 08:27:31",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour of the Old City: Ribeira de Porto",
       "es": "Free Tour de la Ciudad Vieja: Ribeira de Oporto",
@@ -14153,7 +14153,7 @@
   },
   {
     "id": 43004,
-    "updatedAt": "2025-12-01 12:18:06",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour of Ribeira and Douro River of Oporto",
       "es": "Free Tour de Ribeira y Río Duero de Porto",
@@ -14283,7 +14283,7 @@
   },
   {
     "id": 43179,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Vila Nova de Gaia in Oporto",
       "es": "Free Tour Vila Nova de Gaia en Porto",
@@ -14414,7 +14414,7 @@
   },
   {
     "id": 43263,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Villa do Conde Free Tour",
       "es": "Visita libre a la Villa do Conde",
@@ -14502,7 +14502,7 @@
   },
   {
     "id": 43383,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Cultural Journey Through Lisbon's Historic Center",
       "es": "Un viaje cultural por el centro histórico de Lisboa",
@@ -14640,7 +14640,7 @@
   },
   {
     "id": 43735,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Free Tour Coimbra: Dream & Tradition",
       "es": "Free Tour por Coimbra: Sueño y Tradición",
@@ -14747,7 +14747,7 @@
   },
   {
     "id": 43996,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Tour Lagos History, Stories, Tales, with a Local",
       "es": "Recorrido gratuito Lagos Historia, historias, cuentos, con un lugareño",
@@ -14867,11 +14867,11 @@
     ],
     "videoURL": null,
     "rating": 4.9399999999999995,
-    "reviewsNumber": 124
+    "reviewsNumber": 127
   },
   {
     "id": 44361,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bolhão Market in Porto Guided Food Tour",
       "es": "Mercado de Bolhão en Oporto Visita gastronómica guiada",
@@ -14983,7 +14983,7 @@
   },
   {
     "id": 44582,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Lisbon Downtown & Alfama  - Free Tour",
       "es": "Lisboa Centro y Alfama - Free Tour",
@@ -15109,7 +15109,7 @@
   },
   {
     "id": 44679,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Porto Personal free tour - No mic",
       "es": "Oporto Visita personalizada gratuita - Sin micro",
@@ -15206,11 +15206,11 @@
     ],
     "videoURL": null,
     "rating": 4.64,
-    "reviewsNumber": 139
+    "reviewsNumber": 140
   },
   {
     "id": 44814,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "Private Tour of Oporto",
       "es": "Tour Privado por Oporto",
@@ -15374,7 +15374,7 @@
   },
   {
     "id": 45066,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Serra da Estrela Tour in Guarda: the Mondego Walkways",
       "es": "Recorrido por la Serra da Estrela en Guarda: las Pasarelas del Mondego",
@@ -15522,7 +15522,7 @@
   },
   {
     "id": 45210,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:05",
     "title": {
       "en": "Complete Private Tour of Porto",
       "es": "Visita privada completa de Oporto",
@@ -15720,7 +15720,7 @@
   },
   {
     "id": 45714,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "See Lisbon Through the Eyes of a Local Free Tour",
       "es": "Lisboa a través de los ojos de un lisboeta Visita gratuita",
@@ -15854,7 +15854,7 @@
   },
   {
     "id": 45889,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Sintra Free Tour - The Portuguese Fairytale",
       "es": "Sintra Free Tour - El cuento de hadas portugués",
@@ -16036,7 +16036,7 @@
   },
   {
     "id": 46330,
-    "updatedAt": "2025-12-01 17:35:13",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Lisbon Free Tour: Walled City, Alfama & Old Town",
       "es": "Lisboa Free Tour: Ciudad Amurallada, Alfama y Casco Antiguo",
@@ -16239,12 +16239,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9399999999999995,
-    "reviewsNumber": 38
+    "rating": 4.92,
+    "reviewsNumber": 41
   },
   {
     "id": 46742,
-    "updatedAt": "2025-12-01 07:58:51",
+    "updatedAt": "2025-12-11 08:31:54",
     "title": {
       "en": "Belém Free Walking Tour: History Versus Modern Facts",
       "es": "Belém Free Walking Tour: La historia frente a los hechos modernos",
@@ -16423,11 +16423,11 @@
     ],
     "videoURL": "https://www.youtube.com/watch?v=16YoSzAibg8",
     "rating": 4.91,
-    "reviewsNumber": 97
+    "reviewsNumber": 98
   },
   {
     "id": 48043,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Lisbon Free: Downtown with a History Expert",
       "es": "Descubrir Lisboa Gratis: El centro de la ciudad con un experto en historia",
@@ -16579,7 +16579,7 @@
   },
   {
     "id": 48677,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Ponta Delgada A Must: History and Enchantment",
       "es": "Ponta Delgada Imprescindible: Historia y Encanto",
@@ -16711,7 +16711,7 @@
   },
   {
     "id": 48805,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Highlights, History & Traditions: Free Tour with a Certified Guide",
       "es": "Lo más destacado, Historia y Tradiciones: Visita gratuita con un guía titulado",
@@ -16862,7 +16862,7 @@
   },
   {
     "id": 48842,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Romantic Porto: Self-Guided Exploration Game",
       "es": "Oporto Romántico: Juego de exploración autoguiada",
@@ -17016,7 +17016,7 @@
   },
   {
     "id": 49104,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Porto Passeio: A Tale of Tiles, Towers, & Tastes",
       "es": "Porto Passeio: Una Historia de Baldosas, Torres y Sabores",
@@ -17144,7 +17144,7 @@
   },
   {
     "id": 49393,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto's Wild Beauty: A Captivating Photo Safari Adventure",
       "es": "La belleza salvaje de Oporto: Una cautivadora aventura de safari fotográfico",
@@ -17236,7 +17236,7 @@
   },
   {
     "id": 49522,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Porto History and Culture Free Tour",
       "es": "Visita gratuita a la historia y la cultura de Oporto",
@@ -17359,12 +17359,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.72,
-    "reviewsNumber": 190
+    "rating": 4.74,
+    "reviewsNumber": 193
   },
   {
     "id": 49523,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Porto Culture Tour & Inside Visits",
       "es": "Oporto Culture Tour &amp; Inside Visits",
@@ -17473,7 +17473,7 @@
   },
   {
     "id": 49524,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "From Porto to Gaia: History & Views Tour",
       "es": "De Oporto a Gaia: Recorrido Histórico y Paisajístico",
@@ -17604,7 +17604,7 @@
   },
   {
     "id": 50070,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto Walking Tour: You Cannot Miss it",
       "es": "Paseo por Oporto: No se lo puede perder",
@@ -17739,7 +17739,7 @@
   },
   {
     "id": 50071,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of the Two Banks of the Douro in Porto",
       "es": "Recorrido por las dos orillas del Duero en Oporto",
@@ -17884,7 +17884,7 @@
   },
   {
     "id": 50072,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking Tour of the Douro River for Small-Groups",
       "es": "Recorrido a pie por el Duero para grupos reducidos",
@@ -18013,7 +18013,7 @@
   },
   {
     "id": 50725,
-    "updatedAt": "2025-12-01 01:09:54",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Rabacal 25 Fountains Walking Tour",
       "es": "Paseo por las 25 Fuentes del Rabacal",
@@ -18137,7 +18137,7 @@
   },
   {
     "id": 50911,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover & Feel Sintra's Wonderland - Small Group Tour",
       "es": "Descubra y sienta el País de las Maravillas de Sintra - Excursión en grupo reducido",
@@ -18238,7 +18238,7 @@
   },
   {
     "id": 50913,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "From Lisbon: Shared Tour to Fátima, Batalha, Óbidos, Nazaré",
       "es": "Desde Lisboa: Excursión compartida a Fátima, Batalha, Óbidos, Nazaré",
@@ -18339,7 +18339,7 @@
   },
   {
     "id": 50915,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon: 3 Hours Sightseeing Tour by Electric Car",
       "es": "Lisboa: 3 horas en coche eléctrico",
@@ -18477,7 +18477,7 @@
   },
   {
     "id": 50946,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "SuperFast Private Tour of Sintra with Pena Palace",
       "es": "Excursión privada superrápida a Sintra con el Palacio de la Pena",
@@ -18564,7 +18564,7 @@
   },
   {
     "id": 51133,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sintra Hidden Gems Tour & Unique Beach",
       "es": "Sintra Gemas Escondidas &amp; Playa Única",
@@ -18654,7 +18654,7 @@
   },
   {
     "id": 51157,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking Tour to Jurassic Dinosaur Trail at Cabo Espichel",
       "es": "Senderismo al Sendero Jurásico de los Dinosaurios en Cabo Espichel",
@@ -18757,14 +18757,14 @@
   },
   {
     "id": 51318,
-    "updatedAt": "2025-12-01 01:10:04",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Street Art Lovers Short Walk Tour of Lisbon",
+      "en": "Street Art Lovers Short Tour of Lisbon",
       "es": "Lisboa para los amantes del arte callejero",
-      "pt": "Tour a pé de Lisboa para amantes de arte de rua",
-      "de": "Street Art Lovers Short Walk Tour durch Lissabon",
-      "fr": "Visite à pied de Lisbonne pour les amateurs d'art de rue",
-      "it": "Tour a piedi di Lisbona per gli amanti dell'arte di strada"
+      "pt": "Tour de Lisboa para amantes de arte de rua",
+      "de": "Kurztour für Straßenkunstliebhaber durch Lissabon",
+      "fr": "Visite guidée de Lisbonne pour les amateurs d'art de rue",
+      "it": "Tour breve di Lisbona per gli amanti della street art"
     },
     "brief": {
       "de": "Nehmen Sie an einem alternativen Spaziergang durch die schöne Stadt Lissabon teil, ausgehend vom höchstgelegenen Viertel der Stadt, der Graça, vorbei an den schönsten Straßenkunstwerken durch ein Flickenteppich von Straßen und bunten Gassen.\r\n",
@@ -18775,12 +18775,12 @@
       "pt": "Junte-se a um passeio a pé alternativo na encantadora cidade de Lisboa a partir do bairro mais alto da cidade, chamado Graça, passando pelas mais excelentes obras de arte de rua através de uma manta de retalhos de ruas e becos coloridos.\r\n"
     },
     "description": {
-      "de": "Während dieser kreativen Erfahrung werden Sie die Arbeit vieler (inter)nationaler Straßenkünstler kennenlernen, die ihre Spuren an den Wänden Lissabons hinterlassen haben, wobei der Schwerpunkt auf dem Stadtteil Graça liegt. Die Interventionen in unserem Stadtbild können uns viel über Kultur, aber auch über politische, wirtschaftliche und soziale Fragen lehren. Dieses neue Bewusstsein möchten wir Ihnen mit auf den Weg geben. Genießen Sie diesen kulturellen Dialog, der auf dem Edutainment-Prinzip basiert, d. h. Spaß haben und dabei etwas Neues lernen. \r\n\r\nErkunden Sie eines der schönsten und kreativsten Stadtviertel anhand seiner Straßenkunst\r\n\r\n\" Ein Führer\r\n\" Zwei Stunden (wir versuchen es!)\r\n\" Und viele weitere Straßenkunstwerke und Geschichten, die Sie teilen können!\r\n\r\nGanz gleich, ob Sie Lissabon zum ersten Mal entdecken oder ob Sie diese lebendige Stadt auf künstlerische und unterhaltsame Weise erkunden wollen, sei es als Straßenkunst-Jäger, -Liebhaber oder -Williger... oder ob Sie einfach nur neugierig auf die Tricks der Straßen sind : )\r\n\r\nHinweis: Deine Teilnahme trägt zum Erhalt der Szene bei: Ein Teil dieses Erlebnisses unterstützt direkt aufstrebende Künstler, die Teil unseres Straßenkunstkollektivs yesyoucan. Spray und hilft dabei, neue Projekte zu finanzieren und Raum für Kreativität in Lissabon zu erhalten.",
-      "en": "During this creative experience, you will encounter the work of many (inter)national street artists who left their traces on the walls of Lisbon, focussed on the neigbourhood of Graça. The interventions in our urban landscape have a lot to teach us about culture as much as about political, economic, and social issues. It’s this new awareness we want you to take back with you. Enjoy and participate in this cultural dialogue based on the edutainment principle, which means having fun while learning something new. \r\n\r\nExplore one of the most beautiful & creative neighbourhoods by its street art\r\n\r\n» One guide\r\n» Two hours (we try !)\r\n» Ánd many more street art pieces and stories to share !\r\n\r\nNo matter if you are discovering Lisbon for the first time or if you want to dig into this vivid city through an artistic and fun way, may it be as a street art hunter, -lover, or -wanna-be... or you are just curious about the tricks of the streets : )\r\n\r\nNote: Your participation contributes to sustaining the scene: part of this experience directly supports emerging artists, part of our street art collective yesyoucan. Spray, helping to fund new projects and preserve space for creativity in Lisbon.",
-      "es": "Durante esta experiencia creativa, se encontrará con la obra de muchos artistas callejeros (inter)nacionales que dejaron sus huellas en los muros de Lisboa, centrados en el barrio de Graça. Las intervenciones en nuestro paisaje urbano tienen mucho que enseñarnos tanto sobre cultura como sobre cuestiones políticas, económicas y sociales. Es esta nueva conciencia la que queremos que se lleve con usted. Disfrute y participe en este diálogo cultural basado en el principio del edutenimiento, que significa divertirse mientras se aprende algo nuevo. \r\n\r\nExplore uno de los barrios más bellos y creativos por su arte callejero\r\n\r\n\" Un guía\r\n\" Dos horas (¡lo intentamos!)\r\n\" ¡Y muchas más obras de arte callejero e historias para compartir!\r\n\r\nNo importa si usted está descubriendo Lisboa por primera vez o si desea profundizar en esta vívida ciudad a través de una forma artística y divertida, ya sea como un cazador de arte callejero, -amante, o -querer-ser ... o simplemente eres curioso acerca de los trucos de las calles : )\r\n\r\nNota: Tu participación contribuye a sostener la escena: parte de esta experiencia apoya directamente a artistas emergentes, parte de nuestro colectivo de arte callejero yesyoucan. Spray, ayudando a financiar nuevos proyectos y a preservar el espacio para la creatividad en Lisboa.",
-      "fr": "Au cours de cette expérience créative, vous découvrirez le travail de nombreux artistes de rue (inter)nationaux qui ont laissé leurs traces sur les murs de Lisbonne, en particulier dans le quartier de Graça. Les interventions dans notre paysage urbain ont beaucoup à nous apprendre sur la culture ainsi que sur les questions politiques, économiques et sociales. C'est cette nouvelle conscience que nous voulons que vous rameniez avec vous. Appréciez et participez à ce dialogue culturel basé sur le principe de l'edutainment, qui consiste à s'amuser tout en apprenant quelque chose de nouveau. \r\n\r\nExplorez l'un des quartiers les plus beaux et les plus créatifs grâce à son art de la rue\r\n\r\n\" Un guide\r\n\" Deux heures (nous essayons !)\r\n\" Et bien d'autres œuvres d'art de rue et histoires à partager !\r\n\r\nQue vous découvriez Lisbonne pour la première fois ou que vous souhaitiez vous plonger dans cette ville vivante d'une manière artistique et amusante, que ce soit en tant que chasseur d'art de rue, amateur, ou que vous soyez simplement curieux de connaître les astuces de la rue : )\r\n\r\nNote : Votre participation contribue à soutenir la scène : une partie de cette expérience soutient directement les artistes émergents, qui font partie de notre collectif d'art de rue yesyoucan. Spray, ce qui permet de financer de nouveaux projets et de préserver l'espace de créativité à Lisbonne.",
-      "it": "Durante questa esperienza creativa, incontrerete il lavoro di molti street artist (inter)nazionali che hanno lasciato le loro tracce sui muri di Lisbona, concentrandosi sul quartiere di Graça. Gli interventi nel nostro paesaggio urbano hanno molto da insegnarci sia sulla cultura che sulle questioni politiche, economiche e sociali. È questa nuova consapevolezza che vogliamo che portiate con voi. Godetevi e partecipate a questo dialogo culturale basato sul principio dell'edutainment, che significa divertirsi imparando qualcosa di nuovo. \r\n\r\nEsplorate uno dei quartieri più belli e creativi grazie alla sua arte di strada\r\n\r\n\" Una guida\r\n\" Due ore (ci proviamo!)\r\n\" E molte altre opere d'arte di strada e storie da condividere!\r\n\r\nNon importa se state scoprendo Lisbona per la prima volta o se volete scavare in questa vivace città attraverso un modo artistico e divertente, sia che siate cacciatori di arte di strada, amanti o aspiranti tali... o semplicemente curiosi dei trucchi delle strade : )\r\n\r\nNota: la vostra partecipazione contribuisce a sostenere la scena: parte di questa esperienza sostiene direttamente gli artisti emergenti, parte del nostro collettivo di street art yesyoucan. Spray, contribuendo a finanziare nuovi progetti e a preservare lo spazio per la creatività a Lisbona.",
-      "pt": "Durante esta experiência criativa, irá encontrar o trabalho de muitos artistas de rua (inter)nacionais que deixaram as suas marcas nas paredes de Lisboa, com enfoque no bairro da Graça. As intervenções na nossa paisagem urbana têm muito a ensinar-nos tanto sobre cultura como sobre questões políticas, económicas e sociais. É esta nova consciência que queremos que leve consigo. Aproveite e participe neste diálogo cultural baseado no princípio do edutainment, que significa divertir-se enquanto aprende algo novo. \r\n\r\nExplore um dos bairros mais bonitos e criativos através da sua arte de rua\r\n\r\n\" Um guia\r\n\" Duas horas (tentamos!)\r\n\" E muitas mais peças de street art e histórias para partilhar !\r\n\r\nNão importa se está a descobrir Lisboa pela primeira vez ou se quer mergulhar nesta cidade vívida através de uma forma artística e divertida, seja como um caçador de arte de rua, amante, ou quer ser... ou se está apenas curioso sobre os truques das ruas : )\r\n\r\nNota: A sua participação contribui para a manutenção da cena: parte desta experiência apoia diretamente artistas emergentes, parte do nosso coletivo de arte de rua yesyoucan. Spray, ajudando a financiar novos projectos e a preservar o espaço para a criatividade em Lisboa."
+      "de": "Während dieser kreativen Erfahrung werden Sie die Arbeit vieler (inter)nationaler Straßenkünstler kennenlernen, die ihre Spuren an den Wänden Lissabons hinterlassen haben, wobei der Schwerpunkt auf dem Stadtteil Graça liegt. Die Interventionen in unserem Stadtbild können uns viel über Kultur, aber auch über politische, wirtschaftliche und soziale Fragen lehren. Dieses neue Bewusstsein möchten wir Ihnen mit auf den Weg geben. Genießen Sie diesen kulturellen Dialog, der auf dem Edutainment-Prinzip basiert, d. h. Spaß haben und dabei etwas Neues lernen.\r\n\r\nErkunden Sie eines der schönsten und kreativsten Stadtviertel anhand seiner Straßenkunst\r\n\" Ein Führer\r\n\" +/- 2 Stunden\r\n\" Und viele weitere Straßenkunstwerke und Geschichten zum Mitmachen!\r\n\" Spaziergang in kleinen Gruppen\r\n\" Ihre Teilnahme trägt zum Erhalt der Szene bei: Ein Teil dieses Erlebnisses unterstützt direkt aufstrebende Künstler, die Teil unseres Straßenkunstkollektivs yesyoucan. Spray und hilft, neue Projekte zu finanzieren und den Raum für Kreativität in Lissabon zu erhalten.\r\n\r\nGanz gleich, ob Sie Lissabon zum ersten Mal entdecken oder ob Sie diese lebendige Stadt auf künstlerische und unterhaltsame Weise erkunden wollen, sei es als Straßenkunstjäger, -liebhaber oder -williger... oder ob Sie einfach nur neugierig auf die Tricks der Straßen sind.",
+      "en": "During this creative experience, you will encounter the work of many (inter)national street artists who left their traces on the walls of Lisbon, focussed on the neigbourhood of Graça. The interventions in our urban landscape have a lot to teach us about culture as much as about political, economic, and social issues. It’s this new awareness we want you to take back with you. Enjoy and participate in this cultural dialogue based on the edutainment principle, which means having fun while learning something new.\r\n\r\nExplore one of the most beautiful & creative neighbourhoods by its street art\r\n» One guide\r\n» +/- 2 hours\r\n» Ánd many more street art pieces and stories to share !\r\n» Walk in small groups\r\n» Your participation contributes to sustaining the scene: part of this experience directly supports emerging artists, part of our street art collective yesyoucan. Spray, helping to fund new projects and preserve space for creativity in Lisbon.\r\n\r\nNo matter if you are discovering Lisbon for the first time or if you want to dig into this vivid city through an artistic and fun way, may it be as a street art hunter, -lover, or -wanna-be... or you are just curious about the tricks of the streets.",
+      "es": "Durante esta experiencia creativa, se encontrará con la obra de muchos artistas callejeros (inter)nacionales que dejaron sus huellas en los muros de Lisboa, centrados en el barrio de Graça. Las intervenciones en nuestro paisaje urbano tienen mucho que enseñarnos tanto sobre cultura como sobre cuestiones políticas, económicas y sociales. Es esta nueva conciencia la que queremos que se lleve con usted. Disfrute y participe en este diálogo cultural basado en el principio del edutenimiento, que significa divertirse mientras se aprende algo nuevo.\r\n\r\nExplore uno de los barrios más bellos y creativos por su arte callejero\r\n\" Un guía\r\n\" +/- 2 horas\r\n\" Y muchas más obras de arte callejero e historias que compartir\r\n\" Paseo en pequeños grupos\r\n\" Su participación contribuye a sostener la escena: parte de esta experiencia apoya directamente a artistas emergentes, parte de nuestro colectivo de arte callejero yesyoucan. Spray, ayudando a financiar nuevos proyectos y preservar el espacio para la creatividad en Lisboa.\r\n\r\nNo importa si estás descubriendo Lisboa por primera vez o si quieres profundizar en esta vívida ciudad a través de una forma artística y divertida, ya sea como cazador de arte callejero, -amante, o -querer-ser... o simplemente tienes curiosidad por los trucos de las calles.",
+      "fr": "Au cours de cette expérience créative, vous découvrirez le travail de nombreux artistes de rue (inter)nationaux qui ont laissé leurs traces sur les murs de Lisbonne, en particulier dans le quartier de Graça. Les interventions dans notre paysage urbain ont beaucoup à nous apprendre sur la culture ainsi que sur les questions politiques, économiques et sociales. C'est cette nouvelle conscience que nous voulons que vous rameniez avec vous. Appréciez et participez à ce dialogue culturel basé sur le principe de l'edutainment, qui consiste à s'amuser tout en apprenant quelque chose de nouveau.\r\n\r\nExplorez l'un des quartiers les plus beaux et les plus créatifs grâce à son art de la rue\r\n\" Un guide\r\n\" +/- 2 heures\r\n\" Et bien d'autres œuvres d'art de rue et histoires à partager !\r\n\" Promenade en petits groupes\r\n\" Votre participation contribue à soutenir la scène : une partie de cette expérience soutient directement les artistes émergents, qui font partie de notre collectif d'art de rue yesyoucan. Spray, aidant ainsi à financer de nouveaux projets et à préserver l'espace de créativité à Lisbonne.\r\n\r\nQue vous découvriez Lisbonne pour la première fois ou que vous souhaitiez vous plonger dans cette ville vivante d'une manière artistique et amusante, que ce soit en tant que chasseur d'art de rue, d'amateur ou d'aspirant... ou que vous soyez simplement curieux de connaître les astuces de la rue.",
+      "it": "Durante questa esperienza creativa, incontrerete il lavoro di molti street artist (inter)nazionali che hanno lasciato le loro tracce sui muri di Lisbona, concentrandosi sul quartiere di Graça. Gli interventi nel nostro paesaggio urbano hanno molto da insegnarci sia sulla cultura che sulle questioni politiche, economiche e sociali. È questa nuova consapevolezza che vogliamo che portiate con voi. Godetevi e partecipate a questo dialogo culturale basato sul principio dell'edutainment, che significa divertirsi imparando qualcosa di nuovo.\r\n\r\nEsplorate uno dei quartieri più belli e creativi grazie alla sua arte di strada\r\n\" Una guida\r\n\" +/- 2 ore\r\n\" E molte altre opere d'arte di strada e storie da condividere!\r\n\" Passeggiata in piccoli gruppi\r\n\" La vostra partecipazione contribuisce a sostenere la scena: parte di questa esperienza sostiene direttamente gli artisti emergenti, parte del nostro collettivo di street art yesyoucan. Spray, contribuendo a finanziare nuovi progetti e a preservare lo spazio per la creatività a Lisbona.\r\n\r\nNon importa se state scoprendo Lisbona per la prima volta o se volete scavare in questa vivace città attraverso un modo artistico e divertente, sia che siate cacciatori di arte di strada, amanti o aspiranti tali... o semplicemente curiosi dei trucchi delle strade.",
+      "pt": "Durante esta experiência criativa, irá encontrar o trabalho de muitos artistas de rua (inter)nacionais que deixaram as suas marcas nas paredes de Lisboa, com enfoque no bairro da Graça. As intervenções na nossa paisagem urbana têm muito a ensinar-nos tanto sobre cultura como sobre questões políticas, económicas e sociais. É esta nova consciência que queremos que leve consigo. Aproveite e participe neste diálogo cultural baseado no princípio do edutainment, que significa divertir-se enquanto aprende algo novo.\r\n\r\nExplore um dos bairros mais bonitos e criativos através da sua arte de rua\r\n\" Um guia\r\n\" +/- 2 horas\r\n\" E muitas mais obras de arte de rua e histórias para partilhar!\r\n\" Passeio em pequenos grupos\r\n\" A sua participação contribui para a manutenção da cena: parte desta experiência apoia diretamente artistas emergentes, parte do nosso coletivo de street art yesyoucan. Spray, ajudando a financiar novos projectos e a preservar o espaço para a criatividade em Lisboa.\r\n\r\nNão importa se está a descobrir Lisboa pela primeira vez ou se quer mergulhar nesta cidade vívida através de uma forma artística e divertida, seja como um caçador de arte de rua, amante, ou quer ser... ou se está apenas curioso sobre os truques das ruas."
     },
     "providerTitle": "Lisbon Street Art Tours",
     "providerPhone": "00351936825383",
@@ -18906,7 +18906,7 @@
   },
   {
     "id": 51462,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Hiking in the 'Mini Tibet' of Portugal",
       "es": "Senderismo en el \"Mini Tíbet\" de Portugal",
@@ -18994,7 +18994,7 @@
   },
   {
     "id": 51464,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sistelo & Vez River Trekking",
       "es": "Trekking por los ríos Sistelo y Vez",
@@ -19085,7 +19085,7 @@
   },
   {
     "id": 51652,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Afternoon & Night Tour in Braga",
       "es": "Tarde y noche en Braga",
@@ -19186,7 +19186,7 @@
   },
   {
     "id": 51787,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Fafe",
       "es": "Visita guiada a Fafe",
@@ -19308,7 +19308,7 @@
   },
   {
     "id": 51985,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Thematic Tour - The Tiles Architecture",
       "es": "Visita temática - La arquitectura de los azulejos",
@@ -19400,7 +19400,7 @@
   },
   {
     "id": 53036,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 14:30:06",
     "title": {
       "en": "Free Tour Lisbon A Must",
       "es": "Free Tour Lisboa Imprescindible",
@@ -19537,12 +19537,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.8,
-    "reviewsNumber": 116
+    "rating": 4.77,
+    "reviewsNumber": 120
   },
   {
     "id": 53039,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 14:30:06",
     "title": {
       "en": "Lisbon Night Free Tour",
       "es": "Free Tour Nocturno por Lisboa",
@@ -19666,7 +19666,7 @@
   },
   {
     "id": 53121,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Porto Fundamental Free Tour",
       "es": "Free Tour Fundamental de Oporto",
@@ -19797,11 +19797,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 146
+    "reviewsNumber": 148
   },
   {
     "id": 53140,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto Experience: History, Culture and Tastings",
       "es": "La experiencia de Oporto: Historia, cultura y degustaciones",
@@ -19944,7 +19944,7 @@
   },
   {
     "id": 53213,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Transfer from Faro to Albufeira",
       "es": "Traslado de Faro a Albufeira",
@@ -20016,7 +20016,7 @@
   },
   {
     "id": 53343,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free tour through the old town of Porto",
       "es": "Visita libre por el centro histórico de Oporto",
@@ -20134,7 +20134,7 @@
   },
   {
     "id": 54713,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Aveiro Bike Tour",
       "es": "Tour en Bicicleta por Aveiro",
@@ -20371,7 +20371,7 @@
   },
   {
     "id": 54960,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Vila do Conde Free Tour",
       "es": "Vila do Conde Free Tour",
@@ -20446,7 +20446,7 @@
   },
   {
     "id": 56247,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Lisbon Free Tour: Stories of its Heroes",
       "es": "Lisboa Free Tour: Historias de sus héroes",
@@ -20565,11 +20565,11 @@
     ],
     "videoURL": null,
     "rating": 4.95,
-    "reviewsNumber": 443
+    "reviewsNumber": 446
   },
   {
     "id": 56344,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:06",
     "title": {
       "en": "Three-Hour Private Tour of Lisbon",
       "es": "Tour Privado por Lisboa de Tres Horas",
@@ -20721,7 +20721,7 @@
   },
   {
     "id": 56347,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 14:30:06",
     "title": {
       "en": "Six-Hour Private Tour of Lisbon",
       "es": "Tour Privado por Lisboa de Seis Horas",
@@ -20841,7 +20841,7 @@
   },
   {
     "id": 56718,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Belém Neighborhood: An Ode to the Portuguese Adventurous Spirit",
       "es": "Barrio de Belém: Una oda al espíritu aventurero portugués",
@@ -20939,7 +20939,7 @@
   },
   {
     "id": 57312,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Experience Lisbon's Delicious Gastronomy Way Beyond the Codfish",
       "es": "Gastronomía lisboeta más allá del bacalao",
@@ -21195,11 +21195,11 @@
     ],
     "videoURL": null,
     "rating": 4.95,
-    "reviewsNumber": 108
+    "reviewsNumber": 109
   },
   {
     "id": 58499,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Braga A Must",
       "es": "Free Tour Braga Imprescindible",
@@ -21311,7 +21311,7 @@
   },
   {
     "id": 58523,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sintra Private Half-Day Guided Tour with Pena Palace Tickets Included",
       "es": "Sintra Visita guiada privada de medio día con entradas al Palacio de la Pena incluidas",
@@ -21554,7 +21554,7 @@
   },
   {
     "id": 58526,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fátima, Nazaré and Óbidos Full-Day Guided Tour ",
       "es": "Fátima, Nazaré y Óbidos - Visita guiada de día completo ",
@@ -21805,7 +21805,7 @@
   },
   {
     "id": 58626,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Coimbra Downtown Free Tour with a Certified Guide",
       "es": "Visita gratuita del centro de Coimbra con un guía titulado",
@@ -21913,7 +21913,7 @@
   },
   {
     "id": 58777,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour of Coimbra's Jewish Heritage",
       "es": "Recorrido por el Patrimonio Judío de Coímbra",
@@ -22059,7 +22059,7 @@
   },
   {
     "id": 58955,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sintra, Pena Palace, Regaleira, Cabo da Roca & Cascais Guided Day Trip",
       "es": "Sintra, Palacio de Pena, Regaleira, Cabo da Roca y Cascais - Excursión guiada de un día",
@@ -22359,7 +22359,7 @@
   },
   {
     "id": 58956,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon: Arrábida & Sesimbra Wine Tasting, Nature and Beaches Day Trip ",
       "es": "Lisboa: Excursión de un día a Arrábida y Sesimbra para catar vinos, naturaleza y playas ",
@@ -22605,7 +22605,7 @@
   },
   {
     "id": 59097,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 12:29:13",
     "title": {
       "en": "Funchal Essentials Free Tour",
       "es": "Funchal Essentials Free Tour",
@@ -22704,12 +22704,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.76,
-    "reviewsNumber": 83
+    "rating": 4.78,
+    "reviewsNumber": 89
   },
   {
     "id": 59198,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Walking Tour Through Seixal",
       "es": "Recorrido a pie por Seixal",
@@ -22807,7 +22807,7 @@
   },
   {
     "id": 59594,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon City Tour by Car",
       "es": "Lisboa City Tour en Coche",
@@ -22909,7 +22909,7 @@
   },
   {
     "id": 60336,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "UNESCO Geopark Volcano Watching & Cloud Forest in Sao Roque do Pico",
       "es": "Geoparque UNESCO de observación de volcanes y bosque nuboso en Sao Roque do Pico",
@@ -23014,7 +23014,7 @@
   },
   {
     "id": 60338,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "UNESCO Heritage Lava Delta Vineyards Free Tour of Sao Roque do Pico",
       "es": "Visita gratuita a los viñedos del Delta de Lava de Sao Roque do Pico, Patrimonio de la UNESCO",
@@ -23129,7 +23129,7 @@
   },
   {
     "id": 60342,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Rural Lands at Prainha of Sao Roque do Pico Free Tour",
       "es": "Tierras Rurales en la Prainha de Sao Roque do Pico Free Tour",
@@ -23326,7 +23326,7 @@
   },
   {
     "id": 60361,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Art & Crafts Free Tour at Santo Amaro of Sao Roque do Pico",
       "es": "Visita gratuita de Arte y Artesanía en Santo Amaro de Sao Roque do Pico",
@@ -23462,7 +23462,7 @@
   },
   {
     "id": 60441,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Guimarães Free Tour: History and Legends",
       "es": "Guimarães Free Tour: Historia y Leyendas",
@@ -23638,7 +23638,7 @@
   },
   {
     "id": 60673,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Cultural Journey Through Belém District",
       "es": "Viaje Cultural por el Distrito de Belém",
@@ -23728,7 +23728,7 @@
   },
   {
     "id": 60837,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore & Fall in Love with Porto",
       "es": "Explore y Enamórese de Oporto",
@@ -23837,7 +23837,7 @@
   },
   {
     "id": 61418,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Introduction to Porto with an Expat",
       "es": "Introducción a Oporto con un Expatriado",
@@ -23925,7 +23925,7 @@
   },
   {
     "id": 61422,
-    "updatedAt": "2025-12-01 01:14:34",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Fátima Private Tour",
       "es": "Fátima Tour Privado",
@@ -24081,7 +24081,7 @@
   },
   {
     "id": 61423,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon All City Private Tour",
       "es": "Recorrido Privado por Toda la Ciudad de Lisboa",
@@ -24261,7 +24261,7 @@
   },
   {
     "id": 61424,
-    "updatedAt": "2025-12-01 01:14:34",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Exclusive Lisbon to Cascais & Sintra Tour",
       "es": "Excursión exclusiva de Lisboa a Cascais y Sintra",
@@ -24435,7 +24435,7 @@
   },
   {
     "id": 61426,
-    "updatedAt": "2025-12-01 01:14:35",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Evora & Cork Factory Visit Private Tour",
       "es": "Visita Privada a Évora y a la Fábrica de Corcho",
@@ -24625,7 +24625,7 @@
   },
   {
     "id": 61535,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Coimbra Free Tour: A Journey Through Time",
       "es": "Coímbra Free Tour: Un Viaje a Través del Tiempo",
@@ -24743,12 +24743,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.96,
-    "reviewsNumber": 42
+    "rating": 4.95,
+    "reviewsNumber": 45
   },
   {
     "id": 62423,
-    "updatedAt": "2025-12-01 12:00:14",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Funchal Old Town Free Tour",
       "es": "Visita Gratuita del Casco Antiguo de Funchal",
@@ -24858,11 +24858,11 @@
     ],
     "videoURL": null,
     "rating": 4.88,
-    "reviewsNumber": 53
+    "reviewsNumber": 55
   },
   {
     "id": 62645,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free tour of Elvas",
       "es": "Visita gratuita a Elvas",
@@ -24957,7 +24957,7 @@
   },
   {
     "id": 63266,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Old Town TukTuk Tour",
       "es": "Recorrido en Tuk-Tuk por el Casco Antiguo de Lisboa",
@@ -25098,7 +25098,7 @@
   },
   {
     "id": 63301,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of Porto",
       "es": "Free Tour a Oporto",
@@ -25212,11 +25212,11 @@
     ],
     "videoURL": null,
     "rating": 5,
-    "reviewsNumber": 19
+    "reviewsNumber": 20
   },
   {
     "id": 64023,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Guimaraes History & Culture Free Tour",
       "es": "Guimaraes Historia y Cultura Free Tour",
@@ -25339,7 +25339,7 @@
   },
   {
     "id": 64117,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Discover Lisbon Free Tour",
       "es": "Descubra Lisboa Free Tour",
@@ -25538,12 +25538,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.83,
-    "reviewsNumber": 35
+    "rating": 4.84,
+    "reviewsNumber": 36
   },
   {
     "id": 64229,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Explore the Historic Streets of Portimao",
       "es": "Explore las Calles Históricas de Portimao",
@@ -25644,12 +25644,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.79,
-    "reviewsNumber": 21
+    "rating": 4.8,
+    "reviewsNumber": 22
   },
   {
     "id": 64258,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour of Belém Neighborhood",
       "es": "Free Tour por el Barrio de Belém",
@@ -25763,7 +25763,7 @@
   },
   {
     "id": 64729,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto: Walking Tour with Polaroid Photo & Local Guide",
       "es": "Oporto: Recorrido a pie con Fotos Polaroid y Guía Local",
@@ -25859,7 +25859,7 @@
   },
   {
     "id": 64912,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Lisbon From the Heart Free Tour With a Native",
       "es": "Lisboa desde el corazón Tour gratuito con un nativo",
@@ -25997,7 +25997,7 @@
   },
   {
     "id": 66122,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour: The Carnation Revolution in Lisbon",
       "es": "Free Tour: La Revolución de los Claveles en Lisboa",
@@ -26109,7 +26109,7 @@
   },
   {
     "id": 66405,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Peniche, The Kingdom's Key: An Island Attacked Pirates",
       "es": "Peniche, La Llave del Reino: Una Isla Atacada Piratas",
@@ -26209,7 +26209,7 @@
   },
   {
     "id": 66873,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore the Templar Heritage of Tomar Castle & Convent",
       "es": "Explore el Patrimonio Templario del Castillo y Convento de Tomar",
@@ -26483,7 +26483,7 @@
   },
   {
     "id": 66876,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Tomar Free Walking Tour",
       "es": "Free Tour a pie por Tomar",
@@ -26751,7 +26751,7 @@
   },
   {
     "id": 67339,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Amarante: The Charming Tamega Princess Experience",
       "es": "Amarante: La Encantadora Experiencia de la Princesa Tamega",
@@ -26830,12 +26830,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.95,
-    "reviewsNumber": 17
+    "rating": 4.96,
+    "reviewsNumber": 18
   },
   {
     "id": 68191,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Medieval Gems of Portugal Day Tour from Lisbon",
       "es": "Excursión de un Día a las Joyas Medievales de Portugal desde Lisboa",
@@ -26962,7 +26962,7 @@
   },
   {
     "id": 68373,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Azorean Mysteries and Legends Tour",
       "es": "Tour Misterios y Leyendas de las Azores",
@@ -27086,7 +27086,7 @@
   },
   {
     "id": 68614,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Porto de Mós: A Journey Through Time",
       "es": "Descubra Porto de Mós: Un Viaje en el Tiempo",
@@ -27178,7 +27178,7 @@
   },
   {
     "id": 69020,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour Around Caldas da Rainha",
       "es": "Free Tour por Caldas da Rainha",
@@ -27274,7 +27274,7 @@
   },
   {
     "id": 69158,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Free Tour Around Évora: The History of the City",
       "es": "Free Tour por Évora: La Historia de la Ciudad",
@@ -27382,7 +27382,7 @@
   },
   {
     "id": 69409,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Charm of Torres Novas",
       "es": "Descubre el Encanto de Torres Novas",
@@ -27496,7 +27496,7 @@
   },
   {
     "id": 69770,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Douro Valley Wine Tour with Tasting and Lunch",
       "es": "Ruta del Vino por el Valle del Duero con Degustación y Almuerzo",
@@ -27593,7 +27593,7 @@
   },
   {
     "id": 69810,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Braga & Guimaraes Full-Day Tour with Lunch & Wine",
       "es": "Excursión de un día a Braga y Guimaraes con Almuerzo y Vino",
@@ -27716,7 +27716,7 @@
   },
   {
     "id": 70223,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Aveiro’s Stories, Canals and Azulejos",
       "es": "Historias, Canales y Azulejos de Aveiro",
@@ -27878,7 +27878,7 @@
   },
   {
     "id": 70479,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Food Tour: Taste Lisbon Like a Local",
       "es": "Tour gastronómico: Saborea Lisboa como un lisboeta",
@@ -28045,7 +28045,7 @@
   },
   {
     "id": 70683,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ponta Delgada Canyoning Adventure",
       "es": "Aventura deBarranquismo en Ponta Delgada",
@@ -28141,7 +28141,7 @@
   },
   {
     "id": 70739,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coasteering Adventure in Caloura",
       "es": "Aventura de Coasteering en Caloura",
@@ -28262,7 +28262,7 @@
   },
   {
     "id": 70742,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Sete Cidades E-Bike Adventure",
       "es": "Sete Cidades E-Bike Aventura",
@@ -28500,7 +28500,7 @@
   },
   {
     "id": 70931,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Indispensable Free Tour with The Guide of Coimbra",
       "es": "Free Tour Imprescindible con El Guía de Coimbra",
@@ -28682,11 +28682,11 @@
     ],
     "videoURL": null,
     "rating": 4.98,
-    "reviewsNumber": 85
+    "reviewsNumber": 89
   },
   {
     "id": 71026,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover the Beauty of Portugal's Douro Valley",
       "es": "Descubra la Belleza del Valle del Duero en Portugal",
@@ -28797,7 +28797,7 @@
   },
   {
     "id": 71246,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Discover Evora on a Free Walking Tour",
       "es": "Descubra Évora en un Free Tour a pie",
@@ -28897,7 +28897,7 @@
   },
   {
     "id": 71762,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Walking Tour of Historic Silves",
       "es": "Free Tour a pie por el Casco Histórico de Silves",
@@ -29025,7 +29025,7 @@
   },
   {
     "id": 72047,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Aveiro Highlights Walking Tour and Moliceiro Ride",
       "es": "Aveiro Highlights Paseo a pie y Moliceiro Ride",
@@ -29125,7 +29125,7 @@
   },
   {
     "id": 72392,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Guided Tour of Porto Cathedral",
       "es": "Visita Guiada a la Catedral de Oporto",
@@ -29250,7 +29250,7 @@
   },
   {
     "id": 72415,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto Episcopal Palace: Guided Tour",
       "es": "Palacio Episcopal de Oporto: Visita Guiada",
@@ -29343,7 +29343,7 @@
   },
   {
     "id": 72434,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Beautiful Story of Porto Tour",
       "es": "Tour de la Bella Historia de Oporto",
@@ -29484,7 +29484,7 @@
   },
   {
     "id": 72768,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Canyoning Adventure at Salto do Cabrito Azores",
       "es": "Aventura de Barranquismo en el Salto do Cabrito, Azores",
@@ -29604,7 +29604,7 @@
   },
   {
     "id": 72773,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Canyoning Adventure in Ribeira dos Caldeiroes",
       "es": "Aventura de Barranquismo en Ribeira dos Caldeiroes",
@@ -29696,7 +29696,7 @@
   },
   {
     "id": 72985,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Walking Tour in Descent of the Salient Points Of Coimbra",
       "es": "Recorrido gratuito a pie por los lugares más destacados de Coimbra",
@@ -29834,7 +29834,7 @@
   },
   {
     "id": 73524,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour the Wonders of Cascais",
       "es": "Recorre las Maravillas de Cascais",
@@ -29910,7 +29910,7 @@
   },
   {
     "id": 73890,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Lisbon: Half-Day Private Walking Tour",
       "es": "Descubra Lisboa: Visita Privada a pie de medio día",
@@ -30032,7 +30032,7 @@
   },
   {
     "id": 74026,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Baixa and Alfama Lisbon Free Tour",
       "es": "Baixa y Alfama Lisboa Free Tour",
@@ -30128,7 +30128,7 @@
   },
   {
     "id": 74110,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Aveiro: A Must-do",
       "es": "Free Tour por el Aveiro Imprescindible",
@@ -30249,7 +30249,7 @@
   },
   {
     "id": 74157,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Tour in Aveiro: A Journey Through Time",
       "es": "Tour Gratis en Aveiro: Un Viaje en el Tiempo",
@@ -30377,11 +30377,11 @@
     ],
     "videoURL": null,
     "rating": 4.97,
-    "reviewsNumber": 20
+    "reviewsNumber": 21
   },
   {
     "id": 74314,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Canyoning Adventure in Sao Miguel Azor",
       "es": "Aventura de Barranquismo en Sao Miguel Azor",
@@ -30458,7 +30458,7 @@
   },
   {
     "id": 74316,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Canyoning Salto do Cabrito in Sao Miguel Azores",
       "es": "Barranquismo Salto do Cabrito en Sao Miguel Azores",
@@ -30553,7 +30553,7 @@
   },
   {
     "id": 74450,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Nightlife & Pub Crawl",
       "es": "Vida Nocturna y Ruta de Bares en Lisboa",
@@ -30666,7 +30666,7 @@
   },
   {
     "id": 74839,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto Day Trip: Arouca Bridge & Paiva Walkways",
       "es": "Excursión de un Día a Oporto: Puente de Arouca y Pasarelas de Paiva",
@@ -30779,7 +30779,7 @@
   },
   {
     "id": 75419,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Explore the Secrets of Funchal",
       "es": "Explore los Secretos de Funchal",
@@ -30894,7 +30894,7 @@
   },
   {
     "id": 77092,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "A Taste of Lisbon: Wine Tasting Experience",
       "es": "El Sabor de Lisboa: Experiencia de Cata de Vinos",
@@ -30987,7 +30987,7 @@
   },
   {
     "id": 78203,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Setúbal Unusual Free Tour: Unmissable and Unique",
       "es": "Free Tour Setúbal Insólito: Imprescindible y Único",
@@ -31131,7 +31131,7 @@
   },
   {
     "id": 78379,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon & Belém Free Tour & Portuguese Pastry",
       "es": "Lisboa &amp; Belém Free Tour &amp; Pastelería Portuguesa ",
@@ -31431,7 +31431,7 @@
   },
   {
     "id": 78382,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lisbon Adventure and Culture Tour & Portuguese Pastry",
       "es": "Lisboa Aventura y Cultura &amp; Pastelería Portuguesa ",
@@ -31723,7 +31723,7 @@
   },
   {
     "id": 78483,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour of Elvas",
       "es": "Free Tour a pie por Elvas",
@@ -31814,7 +31814,7 @@
   },
   {
     "id": 78786,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Coimbra History and Culture Free Tour",
       "es": "Free Tour a la Historia y la Cultura de Coimbra",
@@ -31949,11 +31949,11 @@
     ],
     "videoURL": null,
     "rating": 4.92,
-    "reviewsNumber": 66
+    "reviewsNumber": 69
   },
   {
     "id": 78926,
-    "updatedAt": "2025-12-01 01:22:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of the Templars of Tomar",
       "es": "Visita Privada a los Templarios de Tomar",
@@ -32082,7 +32082,7 @@
   },
   {
     "id": 78929,
-    "updatedAt": "2025-12-01 01:22:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of Lisbon: Arrábida, Setúbal & Tile Factory Visit",
       "es": "Tour Privado de Lisboa: Arrábida, Setúbal y Visita a la Fábrica de Azulejos",
@@ -32224,7 +32224,7 @@
   },
   {
     "id": 78931,
-    "updatedAt": "2025-12-01 01:22:02",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Nazaré Obidos Coastline Private Tour",
       "es": "Tour Privado por la Costa de Nazaré Obidos",
@@ -32337,7 +32337,7 @@
   },
   {
     "id": 78995,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Sea, Salt & Stories: Free Tour Around Costa da Caparica",
       "es": "Mar, sal e historias: Recorrido gratuito por la Costa da Caparica",
@@ -32437,7 +32437,7 @@
   },
   {
     "id": 79140,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Easy Lisbon Walk: Stories, Delights & Hidden Corners",
       "es": "Paseo por Lisboa: Historias, Delicias y Rincones Ocultos",
@@ -32547,7 +32547,7 @@
   },
   {
     "id": 79321,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour Hidden Alfama: History, Mysteries and Legends",
       "es": "Free Tour Alfama Oculta: Historia, Misterios y Leyendas",
@@ -32670,12 +32670,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9,
-    "reviewsNumber": 21
+    "rating": 4.92,
+    "reviewsNumber": 24
   },
   {
     "id": 79345,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Tile by Tile: Architectural Tour with an Expert",
       "es": "Azulejo a Azulejo: Visita Arquitectónica con un Experto",
@@ -32806,12 +32806,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.92,
-    "reviewsNumber": 21
+    "rating": 4.93,
+    "reviewsNumber": 23
   },
   {
     "id": 79356,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Porto Bites & Banter in Bolhão Market Free Tour",
       "es": "Oporto Bites &amp; Banter en el Mercado de Bolhão Free Tour",
@@ -32987,11 +32987,11 @@
     ],
     "videoURL": null,
     "rating": 4.98,
-    "reviewsNumber": 17
+    "reviewsNumber": 18
   },
   {
     "id": 79662,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Obidos City Walk",
       "es": "Aplicación de Audioguía: Paseo por la Ciudad de Óbidos",
@@ -33140,7 +33140,7 @@
   },
   {
     "id": 79965,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coimbra Through Two Perspectives",
       "es": "Coimbra a través de dos Perspectivas",
@@ -33253,7 +33253,7 @@
   },
   {
     "id": 79984,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto Pub Crawl: Free Shots, Drinks, Games & VIP Entries",
       "es": "Pub Crawl de Oporto: Chupitos, bebidas, juegos y entradas VIP gratis",
@@ -33358,7 +33358,7 @@
   },
   {
     "id": 80044,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Guided Tour of Guimaraes - The Cradle of Portugal",
       "es": "Visita Guiada a Guimaraes - La Cuna de Portugal",
@@ -33476,7 +33476,7 @@
   },
   {
     "id": 80178,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Coimbra: Guided Tour with a Local Student",
       "es": "Coimbra: Visita guiada con un estudiante local",
@@ -33664,7 +33664,7 @@
   },
   {
     "id": 80213,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Tour of the Miradouros: Alfama and Graca between Sky and Stone",
       "es": "Recorrido por los Miradouros: Alfama y Graca entre el cielo y la piedra",
@@ -33782,7 +33782,7 @@
   },
   {
     "id": 80215,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Baixa-Chiado Tour: In the Footsteps of Pessoa",
       "es": "Recorrido Baixa-Chiado: Tras las Huellas de Pessoa",
@@ -33894,7 +33894,7 @@
   },
   {
     "id": 80597,
-    "updatedAt": "2025-12-01 19:55:42",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Amazing Lisbon Free Tour",
       "es": "Sorprendente Lisboa Free Tour",
@@ -34017,12 +34017,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.97,
-    "reviewsNumber": 16
+    "rating": 4.98,
+    "reviewsNumber": 17
   },
   {
     "id": 80650,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Porto’s Flavors & Stories: A Gastronomic Journey",
       "es": "Sabores e Historias de Oporto: Un Viaje Gastronómico",
@@ -34167,7 +34167,7 @@
   },
   {
     "id": 80669,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Authentic Porto Fado: A Cultural & Musical Evening",
       "es": "Auténtico Fado de Oporto: Una Velada Cultural y Musical",
@@ -34253,7 +34253,7 @@
   },
   {
     "id": 80828,
-    "updatedAt": "2025-12-01 16:27:43",
+    "updatedAt": "2025-12-11 10:17:49",
     "title": {
       "en": "Free Tour Get to know Porto on foot: The Best Views of the City",
       "es": "Free Tour Conoce Porto Caminando: Las Mejores Vistas de la Ciudad",
@@ -34456,11 +34456,11 @@
     ],
     "videoURL": null,
     "rating": 4.99,
-    "reviewsNumber": 38
+    "reviewsNumber": 46
   },
   {
     "id": 80971,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Free Tour of the Historic Center of Evora",
       "es": "Free Tour por el Centro Histórico Evora",
@@ -34560,7 +34560,7 @@
   },
   {
     "id": 81469,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Faro Free Tour with a Local: The Must-Do Experience",
       "es": "Faro Free Tour con un local: La experiencia imprescindible",
@@ -34685,12 +34685,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.97,
-    "reviewsNumber": 7
+    "rating": 4.95,
+    "reviewsNumber": 12
   },
   {
     "id": 82068,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Bairrada Tour, Food and Wine",
       "es": "Bairrada Tour, Gastronomía y Vino",
@@ -34770,7 +34770,7 @@
   },
   {
     "id": 82220,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Ponta Delgada: Azores Wines & Cheese Pairing Experience",
       "es": "Ponta Delgada: Maridaje de Vinos y Quesos de las Azores",
@@ -34872,7 +34872,7 @@
   },
   {
     "id": 82418,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Braga History and Culture Tour",
       "es": "Visita Histórica y Cultural de Braga",
@@ -34998,7 +34998,7 @@
   },
   {
     "id": 82707,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Porto Off the Beaten Path",
       "es": "Explora Oporto fuera de los caminos trillados",
@@ -35114,7 +35114,7 @@
   },
   {
     "id": 82755,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Historic Port: Stroll through the heart of the city",
       "es": "Puerto histórico: pasee por el corazón de la ciudad",
@@ -35256,7 +35256,7 @@
   },
   {
     "id": 83519,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 12:58:14",
     "title": {
       "en": "Free Tour of Belém: Monuments, Gardens and History",
       "es": "Free Tour por Belém: Monumentos, Jardines e Historias",
@@ -35397,12 +35397,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.83,
-    "reviewsNumber": 6
+    "rating": 4.86,
+    "reviewsNumber": 7
   },
   {
     "id": 83618,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Alfama Walking Tour",
       "es": "Paseo por Alfama",
@@ -35477,12 +35477,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 5,
-    "reviewsNumber": 6
+    "rating": 4.9399999999999995,
+    "reviewsNumber": 10
   },
   {
     "id": 84010,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour: The Soul of Gaia Port Wine Heritage ",
       "es": "Visita gratuita: El alma del patrimonio del vino de Oporto de Gaia ",
@@ -35652,7 +35652,7 @@
   },
   {
     "id": 84451,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Belem Borough Free Walking Tour",
       "es": "Paseo gratuito por el barrio de Belém",
@@ -35724,7 +35724,7 @@
   },
   {
     "id": 84637,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Baixa & Chiado Free Walking Tour Lisbon",
       "es": "Baixa &amp; Chiado Free Walking Tour Lisboa",
@@ -35842,7 +35842,7 @@
   },
   {
     "id": 85202,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Walking Tour: Best of Chiado & Bairro Alto",
       "es": "Visita a pie gratuita: Lo mejor de Chiado y Bairro Alto",
@@ -35914,11 +35914,11 @@
     ],
     "videoURL": null,
     "rating": null,
-    "reviewsNumber": 1
+    "reviewsNumber": 2
   },
   {
     "id": 85748,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Street Art Photo Tour Lisbon",
       "es": "Street Art Photo Tour Lisboa",
@@ -36025,7 +36025,7 @@
   },
   {
     "id": 85897,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking tour and cruise on the Douro River in Porto",
       "es": "Visita a pie y crucero por el río Duero en Oporto",
@@ -36228,7 +36228,7 @@
   },
   {
     "id": 85900,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Walking tour of the Historic Port",
       "es": "Paseo por el puerto histórico",
@@ -36385,7 +36385,7 @@
   },
   {
     "id": 85928,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Douro River Cruise Ticket Tour",
       "es": "Crucero por el Duero",
@@ -36486,7 +36486,7 @@
   },
   {
     "id": 85938,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour: Gold Ticket Livraria Lello &amp; Douro River Cruise",
       "es": "Excursión: Gold Ticket Livraria Lello &amp; Crucero por el Duero",
@@ -36617,7 +36617,7 @@
   },
   {
     "id": 85948,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Vinho Verde Route - Private Tour with Visit to Two Wineries and Lunch",
       "es": "Ruta del Vino Verde - Tour Privado con Visita a Dos Bodegas y Almuerzo",
@@ -36815,7 +36815,7 @@
   },
   {
     "id": 85965,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private tour of Bairrada with a visit to two wineries with tastings",
       "es": "Tour privado de Bairrada con visita a dos bodegas con degustación",
@@ -36966,7 +36966,7 @@
   },
   {
     "id": 85977,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour of the Douro Valley with Lunch, two Wineries and Cruise",
       "es": "Tour privado del Valle del Duero con almuerzo, dos bodegas y crucero",
@@ -37138,7 +37138,7 @@
   },
   {
     "id": 85978,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Workshop Tour: Pastel de Nata",
       "es": "Visita taller: Pastel de Nata",
@@ -37318,7 +37318,7 @@
   },
   {
     "id": 86012,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tour Porto: Sightseeing Ticket Bus Hop On",
       "es": "Tour Oporto: Billete turístico Bus Hop On",
@@ -37401,7 +37401,7 @@
   },
   {
     "id": 86016,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Lisbon Free Walking Tour: Downtown & Bairro Alto",
       "es": "Lisboa Free Walking Tour: Centro y Bairro Alto",
@@ -37513,28 +37513,40 @@
         "googlePlaceId": "ChIJYQgAN4AzGQ0RoeNtM3J56xs"
       }
     ],
-    "titleImageURL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-01.jpg",
+    "titleImageURL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-15.jpg",
     "categoryId": 12,
     "images": [
       {
-        "id": 296319,
+        "id": 300862,
+        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-15.jpg"
+      },
+      {
+        "id": 300864,
+        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-17.jpg"
+      },
+      {
+        "id": 300856,
         "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-01.jpg"
       },
       {
-        "id": 296325,
-        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-07.jpg"
+        "id": 300855,
+        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-13.jpg"
       },
       {
-        "id": 296326,
-        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-08.jpg"
+        "id": 300863,
+        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-16.jpg"
       },
       {
-        "id": 296328,
-        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-10.jpg"
-      },
-      {
-        "id": 296330,
+        "id": 300860,
         "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-12.jpg"
+      },
+      {
+        "id": 300861,
+        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-14.jpg"
+      },
+      {
+        "id": 300865,
+        "URL": "https://www.freetour.com/images/tours/86016/lisbon-free-walking-tour-downtown-bairro-alto-18.jpg"
       }
     ],
     "videoURL": null,
@@ -37543,7 +37555,7 @@
   },
   {
     "id": 86019,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Tuk Tuk Tour Through Porto ",
       "es": "Paseo en Tuk Tuk por Oporto ",
@@ -37669,7 +37681,7 @@
   },
   {
     "id": 86059,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Tour: Scenic Helicopter Flight",
       "es": "Excursión privada: Vuelo panorámico en helicóptero",
@@ -37761,7 +37773,7 @@
   },
   {
     "id": 86063,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Typical Lunch at the Market Tour: Visit to the Canning Factory",
       "es": "Almuerzo típico en el Mercado Tour: Visita a la Fábrica de Conservas",
@@ -37896,7 +37908,7 @@
   },
   {
     "id": 86617,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Belém District, Lisbon",
       "es": "App Audioguía: Barrio de Belém, Lisboa",
@@ -38129,7 +38141,7 @@
   },
   {
     "id": 86618,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Lisbon City Tour",
       "es": "App Audioguía: Lisboa City Tour",
@@ -38364,7 +38376,7 @@
   },
   {
     "id": 86630,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Audio Guide App: Porto City Walk",
       "es": "App Audioguía: Oporto City Walk",
@@ -38594,5 +38606,163 @@
     "videoURL": null,
     "rating": null,
     "reviewsNumber": 0
+  },
+  {
+    "id": 82912,
+    "updatedAt": "2025-12-11 03:32:39",
+    "title": {
+      "en": "Coimbra's History & Secrets Free Tour with a Local Student",
+      "es": "Historia y secretos de Coimbra Visita gratuita con un estudiante local",
+      "pt": "História e Segredos de Coimbra: visita guiada gratuita com um estudante local",
+      "de": "Coimbras Geschichte und Geheimnisse Kostenlose Tour mit einem einheimischen Studenten",
+      "fr": "Visite gratuite de l'histoire et des secrets de Coimbra avec un étudiant local",
+      "it": "Storia e segreti di Coimbra Tour gratuito con uno studente locale"
+    },
+    "brief": {
+      "de": "Entdecken Sie das echte Coimbra mit Eduardo, einem UC-Studenten. Gehen Sie über die Denkmäler hinaus und entdecken Sie die lebendigen Geschichten und Traditionen der ältesten Universität Europas. Als Geschenk erhalten Sie einen persönlichen 30-seitigen Reiseführer, um Ihren Aufenthalt zu optimieren!",
+      "en": "Unlock real Coimbra with Eduardo, a UC student. Go beyond the monuments and discover the living stories and traditions of Europe's oldest university. As my gift, receive a personalized 30-page guide to maximize your stay!",
+      "es": "Descubra la verdadera Coimbra con Eduardo, un estudiante de la UC. Vaya más allá de los monumentos y descubra las historias y tradiciones vivas de la universidad más antigua de Europa. Como regalo, ¡reciba una guía personalizada de 30 páginas para aprovechar al máximo su estancia!",
+      "fr": "Découvrez le vrai Coimbra avec Eduardo, un étudiant de l'Université de Californie. Allez au-delà des monuments et découvrez les histoires et les traditions vivantes de la plus ancienne université d'Europe. En cadeau, recevez un guide personnalisé de 30 pages pour optimiser votre séjour !",
+      "it": "Scoprite la vera Coimbra con Eduardo, uno studente dell'UC. Andate oltre i monumenti e scoprite le storie e le tradizioni della più antica università d'Europa. Come regalo, riceverete una guida personalizzata di 30 pagine per ottimizzare il vostro soggiorno!",
+      "pt": "Desvende a verdadeira Coimbra com o Eduardo, um estudante da UC. Para além dos monumentos, descubra as histórias e tradições vivas da universidade mais antiga da Europa. Como meu presente, recebe um guia personalizado de 30 páginas para maximizar a tua estadia!"
+    },
+    "description": {
+      "de": "Hallo! Ich bin Eduardo und freue mich sehr, dass Sie hier sind.\r\n\r\nAls Student der Internationalen Beziehungen an der Universität von Coimbra sehe ich Geschichte als eine lebendige, atmende Geschichte. Ich möchte dir nicht nur Denkmäler zeigen, sondern dir helfen zu verstehen, was Coimbra wirklich ist - die Stadt, die Portugals Könige ausbildete und noch immer Studenten und Dichter aus der ganzen Welt inspiriert.\r\n\r\nAuf unserer gemeinsamen Reise werden wir die Schichten dieser alten Hauptstadt aufdecken:\r\n- Erkunden Sie die ikonische Universität, einschließlich der beeindruckenden Joanina-Bibliothek, und hören Sie sich die kuriosen studentischen Traditionen an, die diese alten Steine zum Leben erwecken.\r\n- Betreten Sie eine mächtige Kirche aus dem 12. Jahrhundert und entdecken Sie ihre Rolle bei der Gestaltung der Nation.\r\n- Jahrhundert und entdecken Sie, welche Rolle sie für das Land gespielt hat.\r\n- Erfahren Sie nicht nur die Daten, sondern auch die Geschichten, die Symbolik, die Dramen und die Leidenschaften, die Coimbra ausmachen.\r\n\r\nGeschenke:\r\nIm Anschluss an die Tour erhalten Sie meinen persönlich erstellten 30-seitigen Reiseführer für Coimbra mit meinen besten Tipps, wo Sie das beste Mittagessen, den perfekten Kaffee, einen lebhaften Abend oder Orte für sportliche Aktivitäten finden. \r\n\r\nSind Sie bereit, über den Reiseführer hinauszugehen und das wahre Coimbra zu entdecken?",
+      "en": "Hello! I'm Eduardo, and I'm so glad you're here.\r\n\r\nAs an International Relations student at the University of Coimbra, I see history as a living, breathing story. I don't just want to show you monuments; I want to help you understand what Coimbra truly is - the city that educated Portugal's kings and continues to inspire students and poets from around the world.\r\n\r\nOn our journey together, we'll uncover the layers of this Ancient Capital:\r\n- Explore the iconic University, including the stunning Joanina Library, and hear the curious student traditions that bring these old stones to life.\r\n- Step inside a powerful 12th-century church and discover its role in shaping the nation.\r\n- Walk through history as we connect the dots between the city's most famous historical buildings.\r\n- Learn not just the dates, but the stories, the symbolism, the dramas, and the passions that define Coimbra.\r\n\r\nGifts:\r\nAs my gift to you, after the tour, you'll receive my personally crafted 30-page guide to Coimbra, filled with my top tips for where to find the best lunch, a perfect coffee, a lively night out, or places for physical activities. \r\n\r\nReady to go beyond the guidebook and discover the real Coimbra?",
+      "es": "¡Hola! Soy Eduardo y me alegro mucho de que estés aquí.\r\n\r\nComo estudiante de Relaciones Internacionales en la Universidad de Coimbra, veo la historia como un relato vivo, que respira. No quiero limitarme a enseñarte monumentos; quiero ayudarte a entender lo que Coimbra es realmente: la ciudad que educó a los reyes de Portugal y sigue inspirando a estudiantes y poetas de todo el mundo.\r\n\r\nEn nuestro viaje juntos, descubriremos las capas de esta antigua capital:\r\n- Explore la emblemática Universidad, incluida la impresionante Biblioteca Joanina, y escuche las curiosas tradiciones estudiantiles que dan vida a estas viejas piedras.\r\n- Entre en una poderosa iglesia del siglo XII y descubra su papel en la formación de la nación.\r\n- Camine a través de la historia mientras unimos los puntos entre los edificios históricos más famosos de la ciudad.\r\n- Conozca no sólo las fechas, sino las historias, el simbolismo, los dramas y las pasiones que definen Coimbra.\r\n\r\nRegalos:\r\nComo regalo, después de la visita, recibirá mi guía personal de Coimbra, de 30 páginas, llena de mis mejores consejos sobre dónde encontrar el mejor almuerzo, un café perfecto, una noche animada o lugares para realizar actividades físicas. \r\n\r\n¿Listo para ir más allá de la guía y descubrir la verdadera Coimbra?",
+      "fr": "Bonjour ! Je m'appelle Eduardo et je suis ravi que vous soyez ici.\r\n\r\nEn tant qu'étudiant en relations internationales à l'université de Coimbra, je considère l'histoire comme un récit vivant. Je ne veux pas seulement vous montrer des monuments ; je veux vous aider à comprendre ce qu'est vraiment Coimbra - la ville qui a éduqué les rois du Portugal et qui continue d'inspirer les étudiants et les poètes du monde entier.\r\n\r\nAu cours de notre voyage, nous découvrirons les différentes facettes de cette ancienne capitale :\r\n- Explorez l'emblématique université, y compris l'étonnante bibliothèque Joanina, et écoutez les curieuses traditions étudiantes qui donnent vie à ces vieilles pierres.\r\n- Entrez dans une puissante église du XIIe siècle et découvrez le rôle qu'elle a joué dans la formation de la nation.\r\n- Traversez l'histoire en reliant les bâtiments historiques les plus célèbres de la ville.\r\n- Apprenez non seulement les dates, mais aussi les histoires, le symbolisme, les drames et les passions qui définissent Coimbra.\r\n\r\nCadeaux :\r\nEn guise de cadeau, après la visite, vous recevrez mon guide personnel de 30 pages sur Coimbra, rempli de mes meilleurs conseils pour trouver le meilleur déjeuner, un café parfait, une soirée animée ou des endroits pour pratiquer des activités physiques. \r\n\r\nPrêt à aller au-delà du guide et à découvrir le vrai Coimbra ?",
+      "it": "Ciao! Sono Eduardo e sono felice che siate qui.\r\n\r\nCome studente di Relazioni Internazionali all'Università di Coimbra, vedo la storia come un racconto vivo e pulsante. Non voglio solo mostrarvi i monumenti; voglio aiutarvi a capire che cos'è veramente Coimbra, la città che ha educato i re del Portogallo e che continua a ispirare studenti e poeti di tutto il mondo.\r\n\r\nNel nostro viaggio insieme, scopriremo gli strati di questa antica capitale:\r\n- Esploreremo l'iconica Università, compresa la splendida Biblioteca Joanina, e ascolteremo le curiose tradizioni studentesche che danno vita a queste antiche pietre.\r\n- Entrate in una potente chiesa del XII secolo e scoprite il suo ruolo nella formazione della nazione.\r\n- Passeggiate nella storia mentre colleghiamo i punti tra gli edifici storici più famosi della città.\r\n- Imparate non solo le date, ma anche le storie, il simbolismo, i drammi e le passioni che caratterizzano Coimbra.\r\n\r\nRegali:\r\nCome mio regalo, dopo il tour, riceverete la mia guida di Coimbra di 30 pagine, realizzata personalmente, con i miei migliori consigli su dove trovare il miglior pranzo, un caffè perfetto, una serata vivace o luoghi per fare attività fisica. \r\n\r\nSiete pronti ad andare oltre la guida e a scoprire la vera Coimbra?",
+      "pt": "Olá! Chamo-me Eduardo e estou muito contente por estarem aqui.\r\n\r\nComo estudante de Relações Internacionais na Universidade de Coimbra, vejo a história como uma história viva e que respira. Não quero apenas mostrar-vos monumentos; quero ajudar-vos a compreender o que Coimbra é verdadeiramente - a cidade que educou os reis de Portugal e continua a inspirar estudantes e poetas de todo o mundo.\r\n\r\nNa nossa viagem juntos, vamos descobrir as camadas desta antiga capital:\r\n- Explorar a icónica Universidade, incluindo a deslumbrante Biblioteca Joanina, e ouvir as curiosas tradições estudantis que dão vida a estas velhas pedras.\r\n- Entre numa poderosa igreja do século XII e descubra o seu papel na formação da nação.\r\n- Passeie pela história enquanto ligamos os pontos entre os edifícios históricos mais famosos da cidade.\r\n- Conheça não só as datas, mas as histórias, o simbolismo, os dramas e as paixões que definem Coimbra.\r\n\r\nPrendas:\r\nComo oferta, após a visita, receberá o meu guia de Coimbra de 30 páginas, elaborado por mim, com as minhas melhores dicas sobre onde encontrar o melhor almoço, um café perfeito, uma noite animada ou locais para actividades físicas. \r\n\r\nPronto para ir para além do guia e descobrir a verdadeira Coimbra?"
+    },
+    "providerTitle": "Eduardo Teixeira",
+    "providerPhone": "+5547997871462",
+    "URL": "https://www.freetour.com/coimbra/coimbras-history-secrets-with-a-local-student?referralID=elOi919SrKG94LbT",
+    "URLs": {
+      "en": "https://www.freetour.com/coimbra/coimbras-history-secrets-with-a-local-student?referralID=elOi919SrKG94LbT",
+      "es": "https://www.freetour.com/es/coimbra/coimbras-history-secrets-with-a-local-student?referralID=elOi919SrKG94LbT",
+      "pt": "https://www.freetour.com/pt/coimbra/coimbras-history-secrets-with-a-local-student?referralID=elOi919SrKG94LbT",
+      "de": "https://www.freetour.com/de/coimbra/coimbras-history-secrets-with-a-local-student?referralID=elOi919SrKG94LbT",
+      "fr": "https://www.freetour.com/fr/coimbra/coimbras-history-secrets-with-a-local-student?referralID=elOi919SrKG94LbT",
+      "it": "https://www.freetour.com/it/coimbra/coimbras-history-secrets-with-a-local-student?referralID=elOi919SrKG94LbT"
+    },
+    "price": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "length": "1:30",
+    "meetingPoint": {
+      "title": "Coimbra Town Hall",
+      "coordinates": "40.2112437,-8.428937",
+      "googlePlaceId": "ChIJbf_Wzgf5Ig0Rm4DPfuzCVHk"
+    },
+    "cityId": 3383,
+    "countryId": 125,
+    "includes": [
+      "Barbican Gate",
+      "COIMBRA TOWN HALL",
+      "Largo da Portagem",
+      "Biblioteca Joanina",
+      "University of Coimbra",
+      "Sé Velha - Coimbra",
+      "New Cathedral",
+      "Dom Dinis"
+    ],
+    "POIs": [
+      {
+        "id": 1385,
+        "title": "Barbican Gate",
+        "googlePlaceId": "ChIJ5-cYmwj5Ig0RnEU_V3c9mJk"
+      },
+      {
+        "id": 29160,
+        "title": "COIMBRA TOWN HALL",
+        "googlePlaceId": "ChIJ7z-sWQ_5Ig0Rteb6nL_bkB0"
+      },
+      {
+        "id": 3144,
+        "title": "Largo da Portagem",
+        "googlePlaceId": "ChIJC5DC2Qf5Ig0RPf_f29DYLjI"
+      },
+      {
+        "id": 19745,
+        "title": "Biblioteca Joanina",
+        "googlePlaceId": "ChIJI07yBaf5Ig0Re5djdGDEF2E"
+      },
+      {
+        "id": 6591,
+        "title": "University of Coimbra",
+        "googlePlaceId": "ChIJL0Attwn5Ig0RcmoX7OZpSSw"
+      },
+      {
+        "id": 6723,
+        "title": "Sé Velha - Coimbra",
+        "googlePlaceId": "ChIJLbDdArmIb0ARSNRyd_fRzAw"
+      },
+      {
+        "id": 7768,
+        "title": "New Cathedral",
+        "googlePlaceId": "ChIJO_7x3wv5Ig0R_jqMn_3Vr8g"
+      },
+      {
+        "id": 8525,
+        "title": "Dom Dinis",
+        "googlePlaceId": "ChIJPYvCOgr5Ig0RyRmElbPUWuY"
+      }
+    ],
+    "titleImageURL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-11.jpg",
+    "categoryId": 12,
+    "images": [
+      {
+        "id": 288063,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-11.jpg"
+      },
+      {
+        "id": 288035,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-03.jpg"
+      },
+      {
+        "id": 288058,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-06.jpg"
+      },
+      {
+        "id": 288059,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-07.jpg"
+      },
+      {
+        "id": 288066,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-14.jpg"
+      },
+      {
+        "id": 288060,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-08.jpg"
+      },
+      {
+        "id": 288067,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-15.jpg"
+      },
+      {
+        "id": 288069,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-17.jpg"
+      },
+      {
+        "id": 288070,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-18.jpg"
+      },
+      {
+        "id": 288064,
+        "URL": "https://www.freetour.com/images/tours/82912/multilingual-tour-guide-on-coimbras-beauties-12.jpg"
+      },
+      {
+        "id": 288564,
+        "URL": "https://www.freetour.com/images/tours/82912/coimbras-history-secrets-with-a-local-student-03.jpg"
+      },
+      {
+        "id": 288565,
+        "URL": "https://www.freetour.com/images/tours/82912/coimbras-history-secrets-with-a-local-student-04.jpg"
+      }
+    ],
+    "videoURL": null,
+    "rating": 4.43,
+    "reviewsNumber": 6
   }
 ]

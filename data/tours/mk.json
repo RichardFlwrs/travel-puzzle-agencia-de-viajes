@@ -1,7 +1,7 @@
 [
   {
     "id": 833,
-    "updatedAt": "2025-12-01 03:32:38",
+    "updatedAt": "2025-12-11 14:02:20",
     "title": {
       "en": "Free Skopje Walking Tours",
       "es": "Free Tour a Pie por Skopje",
@@ -170,11 +170,11 @@
     ],
     "videoURL": null,
     "rating": 4.91,
-    "reviewsNumber": 390
+    "reviewsNumber": 393
   },
   {
     "id": 971,
-    "updatedAt": "2025-12-01 01:00:52",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Explore Kosovo: Group Tour to Pristina and Prizren from Skopje",
       "es": "Explora Kosovo: Viaje en grupo a Pristina y Prizren desde Skopje",
@@ -359,7 +359,7 @@
   },
   {
     "id": 972,
-    "updatedAt": "2025-12-01 01:00:52",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Half Day Group Tour from Skopje to Matka Canyon and Millennium Cross",
       "es": "Excursión en grupo de medio día desde Skopje al cañón de Matka y la Cruz del Milenio",
@@ -486,12 +486,12 @@
       }
     ],
     "videoURL": "https://youtu.be/rAQM8Ovf7A0?si=WMRwDVBUm6x_7uUW",
-    "rating": 4.48,
-    "reviewsNumber": 5
+    "rating": 4.57,
+    "reviewsNumber": 6
   },
   {
     "id": 4344,
-    "updatedAt": "2025-12-01 03:32:39",
+    "updatedAt": "2025-12-11 03:32:32",
     "title": {
       "en": "Walking in Skopje: Free Tour",
       "es": "Paseando por Skopje: Visita gratuita",
@@ -613,11 +613,11 @@
     ],
     "videoURL": "https://m.youtube.com/watch?v=qwTEW3Mg9bA",
     "rating": 4.95,
-    "reviewsNumber": 467
+    "reviewsNumber": 469
   },
   {
     "id": 6064,
-    "updatedAt": "2025-12-01 01:03:04",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skopje Day Tour from Sofia (Bulgaria)",
       "es": "Excursión de un día a Skopje desde Sofía (Bulgaria)",
@@ -726,7 +726,7 @@
   },
   {
     "id": 7639,
-    "updatedAt": "2025-12-01 01:03:42",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Lake Ohrid in a Day: Tour to the UNESCO City from Skopje",
       "es": "Lago Ohrid en un día: Excursión a la ciudad de la UNESCO desde Skopje",
@@ -865,7 +865,7 @@
   },
   {
     "id": 38545,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Pristina Kosovo From Skopje",
       "es": "Pristina Kosovo Desde Skopje",
@@ -975,7 +975,7 @@
   },
   {
     "id": 38556,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Skopje Day Free Tour",
       "es": "Día libre en Skopje",
@@ -1108,12 +1108,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.75,
-    "reviewsNumber": 69
+    "rating": 4.76,
+    "reviewsNumber": 70
   },
   {
     "id": 54124,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Matka Canyon Private Daily Tour",
       "es": "Excursión privada diaria al Cañón del Matka",
@@ -1215,7 +1215,7 @@
   },
   {
     "id": 55224,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Shutka: The Roma Capital of the World",
       "es": "Shutka: La capital mundial de los gitanos",
@@ -1327,7 +1327,7 @@
   },
   {
     "id": 55226,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skopje: Walking Tour of the Old Town",
       "es": "Skopje: Visita a pie del casco antiguo",
@@ -1468,7 +1468,7 @@
   },
   {
     "id": 55227,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Canyon Matka: The Place Where all the Births Begin",
       "es": "Cañón Matka: El lugar donde comienzan todos los nacimientos",
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 55387,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Mavrovo, Galicnik & Jovan Bigorski Monastery from Skopje",
       "es": "Monasterio de Mavrovo, Galicnik y Jovan Bigorski desde Skopje",
@@ -1750,7 +1750,7 @@
   },
   {
     "id": 55482,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skopje Tasting: The 5 Tastes of Skopje in the Old Town",
       "es": "Degustación de Skopje: Los 5 sabores de Skopje en el casco antiguo",
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 59724,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skopje Architecture: Cycling Safari Through Time",
       "es": "Arquitectura de Skopje: Safari en Bicicleta a Través del Tiempo",
@@ -1998,7 +1998,7 @@
   },
   {
     "id": 59726,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skopje: An Experience from the Mountains",
       "es": "Skopje: Una Experiencia desde las Montañas",
@@ -2145,7 +2145,7 @@
   },
   {
     "id": 60004,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Discover Skopje by Bike",
       "es": "Descubre Skopje en Bicicleta",
@@ -2278,7 +2278,7 @@
   },
   {
     "id": 60719,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Explore Bitola - Gems & Cultural Highlight Tour",
       "es": "Explore Bitola - Gemas y Atracciones Culturales",
@@ -2420,7 +2420,7 @@
   },
   {
     "id": 61021,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Unforgettable Ohrid: A Local's Favorite Spots Free Tour",
       "es": "Inolvidable Ohrid: Recorrido gratuito por los lugares favoritos de los lugareños",
@@ -2564,7 +2564,7 @@
   },
   {
     "id": 62699,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Discover Ohrid: Journey Through Treasures & Culture",
       "es": "Descubra Ohrid: Viaje a través de Tesoros y Cultura",
@@ -2720,7 +2720,7 @@
   },
   {
     "id": 71743,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Skopje Bike Tour",
       "es": "Free Tour en Bicicleta por Skopje",
@@ -2897,7 +2897,7 @@
   },
   {
     "id": 73893,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Skopje Tour: Matka Canyon, St. Panteleimon Church & Millennium Cross",
       "es": "Excursión a Skopje: Cañón de Matka, Iglesia de San Panteleimón y Cruz del Milenio",
@@ -3060,7 +3060,7 @@
   },
   {
     "id": 73897,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Private Transport from and to the Airport",
       "es": "Transporte Privado desde y hasta el Aeropuerto",
@@ -3141,7 +3141,7 @@
   },
   {
     "id": 76369,
-    "updatedAt": "2025-12-01 03:32:45",
+    "updatedAt": "2025-12-11 03:32:38",
     "title": {
       "en": "Free Walking Tour with Aleksandra",
       "es": "Visita guiada gratuita con Aleksandra",
@@ -3159,12 +3159,12 @@
       "pt": "Junte-se a Aleksandra, uma historiadora de arte e arqueóloga, para descobrir a rica história de Skopje! Explore ruínas antigas, histórias ocultas e arquitetura deslumbrante do passado ao presente nesta envolvente e informativa excursão a pé."
     },
     "description": {
-      "de": "Auf meinem Rundgang finden Sie viele Informationen, die von den ältesten Spuren des Lebens in Skopje bis in die Gegenwart reichen, gefüllt mit faszinierenden Details über Archäologie, alte Architektur und Geschichte, verpackt in sehr interessante Geschichten.\r\n\r\nWir beginnen vor dem Alten Bahnhof (Museum der Stadt Skopje) und besuchen ihn:\r\nStraße Mazedonien\r\nDas Gedenkhaus von Mutter Teresa\r\nSkopjes Paläste\r\nPlatz Mazedonien\r\nSteinerne Brücke\r\nKirche des Heiligen Großmärtyrers Dimitrij\r\nDaut Pascha Hamam\r\nAlter Basar\r\nKapan-an/Suli-an\r\nGebäudegruppe - Islamisches Trio\r\nMustafa-Pascha-Moschee \r\nFestung Kale\r\nKirche der Heiligen Erlösung \r\n\r\nBegleiten Sie mich auf einen kostenlosen Rundgang durch Skopje! Ich zeige Ihnen die besten Plätze in unserer Stadt.",
-      "en": "On my tour, you will find plenty of information spanning from the oldest traces of life in Skopje to the present day, filled with fascinating details about archaeology, old architecture, and history, all wrapped in very interesting stories.\r\n\r\nWe'll start in front of the Old Railway Station (Museum of the City of Skopje) and we'll visit:\r\nStreet Macedonia\r\nThe Memorial House of Mother Teresa\r\nSkopje’s Palaces\r\nSquare Macedonia\r\nStone Bridge\r\nChurch of the Holy Great Martyr Dimitrij\r\nDaut Pasha Hamam\r\nOld Bazaar\r\nKapan-an/Suli-an\r\nGroup of buildings – Islamic trio\r\nMustafa Pasha Mosque \r\nFortress Kale\r\nChurch of Holy Salvation \r\n\r\nCome join me on a fun Free Walking Tour of Skopje! I'll show you all the best places in our city.",
-      "es": "En mi recorrido, encontrará mucha información que abarca desde los vestigios más antiguos de la vida en Skopje hasta la actualidad, llena de detalles fascinantes sobre arqueología, arquitectura antigua e historia, todo ello envuelto en historias muy interesantes.\r\n\r\nComenzaremos frente a la Antigua Estación de Ferrocarril (Museo de la Ciudad de Skopje) y visitaremos:\r\nCalle Macedonia\r\nLa Casa Memorial de la Madre Teresa\r\nPalacios de Skopje\r\nPlaza Macedonia\r\nPuente de Piedra\r\nIglesia del Santo Gran Mártir Dimitrij\r\nHamam de Daut Pasha\r\nAntiguo Bazar\r\nKapan-an/Suli-an\r\nGrupo de edificios - trío islámico\r\nMezquita de Mustafa Pasha \r\nFortaleza Kale\r\nIglesia de la Santa Salvación \r\n\r\nAcompáñeme en un divertido recorrido a pie gratuito por Skopje Te enseñaré los mejores lugares de nuestra ciudad.",
-      "fr": "Au cours de ma visite, vous trouverez de nombreuses informations allant des plus anciennes traces de vie à Skopje jusqu'à aujourd'hui, ainsi que des détails fascinants sur l'archéologie, l'architecture ancienne et l'histoire, le tout enveloppé dans des histoires très intéressantes.\r\n\r\nNous commencerons devant l'ancienne gare (musée de la ville de Skopje) et nous visiterons :\r\nLa rue Macédoine\r\nLa maison commémorative de Mère Teresa\r\nLes palais de Skopje\r\nPlace Macedonia\r\nPont de pierre\r\nÉglise du Grand Martyr Dimitrij\r\nHamam de Daut Pasha\r\nVieux bazar\r\nKapan-an/Suli-an\r\nEnsemble de bâtiments - trio islamique\r\nMosquée Mustafa Pasha \r\nForteresse de Kale\r\nÉglise du Saint-Salut \r\n\r\nRejoignez-moi pour une visite à pied gratuite et amusante de Skopje ! Je vous montrerai tous les meilleurs endroits de notre ville.",
-      "it": "Durante il mio tour, troverete molte informazioni che spaziano dalle tracce più antiche della vita a Skopje fino ai giorni nostri, piene di dettagli affascinanti sull'archeologia, l'architettura antica e la storia, il tutto avvolto in storie molto interessanti.\r\n\r\nInizieremo di fronte alla Vecchia Stazione Ferroviaria (Museo della Città di Skopje) e visiteremo:\r\nVia Macedonia\r\nLa Casa della Memoria di Madre Teresa\r\nPalazzi di Skopje\r\nPiazza Macedonia\r\nPonte di pietra\r\nChiesa del Santo Grande Martire Dimitrij\r\nHamam di Daut Pasha\r\nVecchio bazar\r\nKapan-an/Suli-an\r\nGruppo di edifici - trio islamico\r\nMoschea di Mustafa Pasha \r\nFortezza Kale\r\nChiesa della Santa Salvezza \r\n\r\nUnitevi a me in un divertente tour a piedi gratuito di Skopje! Vi mostrerò tutti i luoghi più belli della nostra città.",
-      "pt": "Na minha visita, encontrará muita informação desde os vestígios mais antigos da vida em Skopje até aos dias de hoje, repleta de pormenores fascinantes sobre arqueologia, arquitetura antiga e história, tudo envolto em histórias muito interessantes.\r\n\r\nComeçaremos em frente à Antiga Estação Ferroviária (Museu da Cidade de Skopje) e visitaremos:\r\nRua Macedónia\r\nA Casa Memorial de Madre Teresa\r\nPalácios de Skopje\r\nPraça Macedónia\r\nPonte de pedra\r\nIgreja do Santo Grande Mártir Dimitrij\r\nHamam de Daut Pasha\r\nBazar antigo\r\nKapan-an/Suli-an\r\nConjunto de edifícios - trio islâmico\r\nMesquita de Mustafa Pasha \r\nFortaleza de Kale\r\nIgreja da Santa Salvação \r\n\r\nJunte-se a mim numa divertida excursão a pé gratuita por Skopje! Vou mostrar-lhe os melhores locais da nossa cidade."
+      "de": "Auf meiner Tour finden Sie viele Informationen, die von den ältesten Spuren des Lebens in Skopje bis in die Gegenwart reichen, mit faszinierenden Details über Archäologie, alte Architektur und Geschichte, alles verpackt in sehr interessante Geschichten.\r\n\r\nWir beginnen vor dem Alten Bahnhof (Museum der Stadt Skopje) und besuchen ihn:\r\nStraße Mazedonien\r\nDas Gedenkhaus von Mutter Teresa\r\nDie Paläste von Skopje\r\nPlatz Mazedonien\r\nSteinerne Brücke\r\nKirche des Heiligen Großmärtyrers Dimitrij\r\nDaut Pascha Hamam\r\nAlter Basar\r\nKapan-an/Suli-an\r\nGebäudegruppe - Islamisches Trio\r\nMustafa-Pascha-Moschee \r\nKirche der Heiligen Erlösung \r\n\r\nBegleiten Sie mich auf einen kostenlosen Rundgang durch Skopje! Ich zeige Ihnen die besten Plätze in unserer Stadt.\r\n\r\nWichtiger Hinweis: Bitte reservieren Sie einen Platz, bevor Sie an der Tour teilnehmen. Nur so kann sichergestellt werden, dass die Tour auch stattfindet.",
+      "en": "On my tour, you will find plenty of information spanning from the oldest traces of life in Skopje to the present day, filled with fascinating details about archaeology, old architecture, and history, all wrapped in very interesting stories.\r\n\r\nWe'll start in front of the Old Railway Station (Museum of the City of Skopje), and we'll visit:\r\nStreet Macedonia\r\nThe Memorial House of Mother Teresa\r\nSkopje’s Palaces\r\nSquare Macedonia\r\nStone Bridge\r\nChurch of the Holy Great Martyr Dimitrij\r\nDaut Pasha Hamam\r\nOld Bazaar\r\nKapan-an/Suli-an\r\nGroup of buildings – Islamic trio\r\nMustafa Pasha Mosque \r\nChurch of Holy Salvation \r\n\r\nCome join me on a fun Free Walking Tour of Skopje! I'll show you all the best places in our city.\r\n\r\nImportant note:  Please make a reservation before joining the tour. This is the only way to ensure that the tour will take place.",
+      "es": "En mi recorrido, encontrará mucha información que abarca desde los vestigios más antiguos de la vida en Skopje hasta la actualidad, llena de detalles fascinantes sobre arqueología, arquitectura antigua e historia, todo ello envuelto en historias muy interesantes.\r\n\r\nComenzaremos frente a la Antigua Estación de Ferrocarril (Museo de la Ciudad de Skopje), y visitaremos:\r\nCalle Macedonia\r\nLa Casa Memorial de la Madre Teresa\r\nPalacios de Skopje\r\nPlaza Macedonia\r\nPuente de Piedra\r\nIglesia del Santo Gran Mártir Dimitrij\r\nHamam de Daut Pasha\r\nAntiguo Bazar\r\nKapan-an/Suli-an\r\nGrupo de edificios - trío islámico\r\nMezquita de Mustafa Pasha \r\nIglesia de la Santa Salvación \r\n\r\nAcompáñeme en un divertido recorrido gratuito a pie por Skopje Le mostraré los mejores lugares de nuestra ciudad.\r\n\r\nNota importante: Por favor, haga una reserva antes de unirse a la gira. Esta es la única manera de asegurarse de que el tour se llevará a cabo.",
+      "fr": "Au cours de ma visite, vous trouverez de nombreuses informations allant des plus anciennes traces de vie à Skopje jusqu'à aujourd'hui, ainsi que des détails fascinants sur l'archéologie, l'architecture ancienne et l'histoire, le tout enveloppé dans des histoires très intéressantes.\r\n\r\nNous commencerons devant l'ancienne gare (musée de la ville de Skopje), et nous visiterons :\r\nLa rue Macédoine\r\nLa maison commémorative de Mère Teresa\r\nLes palais de Skopje\r\nPlace Macédoine\r\nPont de pierre\r\nÉglise du Grand Martyr Dimitrij\r\nHamam de Daut Pasha\r\nVieux bazar\r\nKapan-an/Suli-an\r\nEnsemble de bâtiments - trio islamique\r\nMosquée Mustafa Pasha \r\nÉglise du Saint-Salut \r\n\r\nRejoignez-moi pour une visite à pied gratuite et amusante de Skopje ! Je vous montrerai tous les meilleurs endroits de notre ville.\r\n\r\nNote importante : Veuillez réserver avant de participer à la visite. C'est le seul moyen de s'assurer que la visite aura bien lieu.",
+      "it": "Durante il mio tour, troverete molte informazioni che spaziano dalle tracce più antiche della vita a Skopje fino ai giorni nostri, con dettagli affascinanti sull'archeologia, l'architettura antica e la storia, il tutto avvolto in storie molto interessanti.\r\n\r\nInizieremo di fronte alla Vecchia Stazione Ferroviaria (Museo della Città di Skopje) e visiteremo:\r\nVia Macedonia\r\nLa Casa della Memoria di Madre Teresa\r\nPalazzi di Skopje\r\nPiazza Macedonia\r\nPonte di pietra\r\nChiesa del Santo Grande Martire Dimitrij\r\nHamam di Daut Pasha\r\nVecchio bazar\r\nKapan-an/Suli-an\r\nGruppo di edifici - trio islamico\r\nMoschea di Mustafa Pasha \r\nChiesa della Santa Salvezza \r\n\r\nUnitevi a me in un divertente tour a piedi gratuito di Skopje! Vi mostrerò tutti i luoghi più belli della nostra città.\r\n\r\nNota importante: si prega di prenotare prima di partecipare al tour. Questo è l'unico modo per assicurarsi che il tour abbia luogo.",
+      "pt": "Na minha visita, encontrará muita informação desde os vestígios mais antigos da vida em Skopje até aos dias de hoje, repleta de pormenores fascinantes sobre arqueologia, arquitetura antiga e história, tudo envolto em histórias muito interessantes.\r\n\r\nComeçaremos em frente à Antiga Estação Ferroviária (Museu da Cidade de Skopje), e visitaremos:\r\nRua Macedónia\r\nA Casa Memorial de Madre Teresa\r\nPalácios de Skopje\r\nPraça Macedónia\r\nPonte de pedra\r\nIgreja do Santo Grande Mártir Dimitrij\r\nHamam de Daut Pasha\r\nBazar antigo\r\nKapan-an/Suli-an\r\nConjunto de edifícios - trio islâmico\r\nMesquita Mustafa Pasha \r\nIgreja da Santa Salvação \r\n\r\nJunte-se a mim numa divertida excursão a pé gratuita por Skopje! Vou mostrar-lhe os melhores locais da nossa cidade.\r\n\r\nNota importante: Por favor, faça uma reserva antes de participar na excursão. Esta é a única forma de garantir a realização da excursão."
     },
     "providerTitle": "Aleksandra",
     "providerPhone": "+38975547500",
@@ -3291,7 +3291,7 @@
   },
   {
     "id": 76988,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Discover Skopje - Stone by Stone, Story by Story",
       "es": "Descubra Skopje - Piedra a piedra, Historia a Historia",
@@ -3441,7 +3441,7 @@
   },
   {
     "id": 80988,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Explore Ohrid, and why it is called the Balkan’s Jerusalem",
       "es": "Descubra Ohrid, la Jerusalén de los Balcanes",
@@ -3532,19 +3532,19 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.9399999999999995,
-    "reviewsNumber": 7
+    "rating": 4.95,
+    "reviewsNumber": 8
   },
   {
     "id": 83594,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
-      "en": "Taste Skopje: A Local’s Favorite Bites Free Tour",
-      "es": "Saborea Skopje: Los bocados favoritos de los locales Visita gratuita",
-      "pt": "Saboreie Skopje: Excursão gratuita aos petiscos favoritos de um local",
-      "de": "Schmecken Sie Skopje: Die Lieblingsspeisen der Einheimischen Kostenlose Tour",
-      "fr": "Le goût de Skopje : Visite gratuite des bouchées préférées d'un local",
-      "it": "Assaggia Skopje: I bocconi preferiti da un locale Tour gratuito"
+      "en": "Eat Like a Local: The Skopje Essentials",
+      "es": "Comer como un lugareño: Lo esencial de Skopje",
+      "pt": "Comer como um local: O essencial de Skopje",
+      "de": "Essen wie ein Einheimischer: Die Skopje Essentials",
+      "fr": "Manger comme un local : Les incontournables de Skopje",
+      "it": "Mangiare come un locale: Gli elementi essenziali di Skopje"
     },
     "brief": {
       "de": "Nehmen Sie an dieser kostenlosen kulinarischen Tour in Skopje teil! Entdecken Sie die lokalen Aromen in versteckten Cafés, probieren Sie kultige Kebabs, genießen Sie traditionelle Süßigkeiten und erkunden Sie die beliebteste Bäckerei der Stadt mit einem lokalen Führer.",
@@ -3555,12 +3555,12 @@
       "pt": "Junte-se a esta excursão gastronómica gratuita em Skopje! Descubra os sabores locais em cafés escondidos, prove kebabs emblemáticos, delicie-se com doces tradicionais e explore a padaria favorita da cidade à noite com um guia local."
     },
     "description": {
-      "de": "Skopje hat einen Rhythmus, den die meisten Besucher vermissen, versteckt in den alltäglichen Orten, an denen sich die Einheimischen treffen. Ich führe Sie an Orte, die kein Tourist je zu sehen plant - es sei denn zufällig, aber dennoch sehr zentral.\r\n\r\nDiese kulinarische Tour zu Fuß beinhaltet Kostproben an drei kultigen Orten, die mich überlebt haben (und ich bin nicht mehr so jung). Wir treffen uns an der Hauptkirche, wo ich vor unserem kulinarischen Abenteuer ein wenig über die Geschichte der Stadt erzähle.\r\n\r\nWir beginnen mit einem Bummel über den lebhaften Bauernmarkt, wo die Stände mit frischen Produkten überquellen und die Luft von einheimischen Gesprächen erfüllt ist. In einer kleinen, versteckten Bäckerei probieren wir den Burek, den viele als den besten der Stadt bezeichnen. Von dort aus geht es weiter in das Bohème-Viertel, das für seine Kafanas und die entspannte Atmosphäre bekannt ist, die die Einheimischen lieben. Hier gibt es traditionelle Kebapchinya, über Kohle gegrillt, rauchig und unvergesslich. Zum Abschluss besuchen wir den ältesten Boza- und Süßwarenladen der Stadt, wo die Rezepte seit Generationen weitergegeben werden.\r\n\r\nDies ist keine Checkliste von Sehenswürdigkeiten, sondern ein Vorgeschmack auf das tägliche Leben in Skopje, das Ihnen das Gefühl gibt, dass die Stadt Sie in ein Geheimnis einweiht. Kommen Sie als Tourist, gehen Sie als Freund!\r\n\r\nP.S. Bringen Sie einen guten Appetit mit, Sie werden ihn brauchen!",
-      "en": "Skopje has a rhythm most visitors miss, hidden in the everyday places where locals gather. I’ll take you to spots no tourist ever plans to see - unless by accident, yet still very central.\r\n\r\nThis walking food tour includes tastings at three iconic places that have outlived me (and I’m not that young anymore). We’ll meet at the main church, where I’ll share a bit of history before our culinary adventure.\r\n\r\nWe’ll start with a stroll through a lively farmer’s market, where stalls overflow with fresh produce and the air buzzes with local chatter. Hidden inside is a small bakery where we’ll try what many call the best burek in town. From there, we’ll head into the bohemian quarter, known for its kafanas and laid-back atmosphere that locals love. We’ll stop for traditional kebapchinya grilled over coal, smoky and unforgettable. To finish, we’ll visit the city’s oldest shop for boza and sweets, where recipes have been passed down for generations.\r\n\r\nThis isn’t a checklist of landmarks, but a taste of Skopje’s daily life, the side that makes you feel like the city let you in on a secret. Come as a tourist, leave as a friend!\r\n\r\nP.S. Bring an appetite, you’ll need it!",
-      "es": "Skopje tiene un ritmo que la mayoría de los visitantes pasan por alto, oculto en los lugares cotidianos donde se reúnen los lugareños. Le llevaré a lugares que ningún turista planea ver, a menos que sea por accidente, pero muy céntricos.\r\n\r\nEsta ruta gastronómica a pie incluye degustaciones en tres lugares emblemáticos que me han sobrevivido (y ya no soy tan joven). Nos reuniremos en la iglesia principal, donde compartiré un poco de historia antes de nuestra aventura culinaria.\r\n\r\nComenzaremos con un paseo por un animado mercado agrícola, donde los puestos rebosan de productos frescos y el aire bulle con la charla local. Oculta en su interior hay una pequeña panadería donde probaremos lo que muchos llaman el mejor burek de la ciudad. Desde allí, nos adentraremos en el barrio bohemio, conocido por sus kafanas y el ambiente relajado que adoran los lugareños. Haremos una parada para degustar la tradicional kebapchinya asada al carbón, ahumada e inolvidable. Para terminar, visitaremos la tienda de boza y dulces más antigua de la ciudad, donde las recetas se han transmitido de generación en generación.\r\n\r\nNo se trata de una lista de lugares emblemáticos, sino de una muestra de la vida cotidiana de Skopje, esa que le hará sentir que la ciudad le ha contado un secreto. Venga como turista y váyase como amigo\r\n\r\nP.D. ¡Traiga apetito, lo necesitará!",
-      "fr": "Skopje a un rythme qui échappe à la plupart des visiteurs, caché dans les lieux quotidiens où les habitants se réunissent. Je vous emmènerai dans des endroits qu'aucun touriste ne prévoit jamais de voir, sauf par accident, tout en restant très centraux.\r\n\r\nCette visite gastronomique à pied comprend des dégustations dans trois lieux emblématiques qui m'ont survécu (et je ne suis plus très jeune). Nous nous retrouverons à l'église principale, où je vous parlerai un peu d'histoire avant notre aventure culinaire.\r\n\r\nNous commencerons par une promenade dans un marché fermier animé, où les étals débordent de produits frais et où l'air bourdonne de conversations locales. À l'intérieur se cache une petite boulangerie où nous goûterons ce que beaucoup appellent le meilleur burek de la ville. De là, nous nous dirigerons vers le quartier bohème, connu pour ses kafanas et son atmosphère décontractée que les habitants adorent. Nous nous arrêterons pour déguster une kebapchinya traditionnelle grillée au charbon, fumante et inoubliable. Pour finir, nous visiterons la plus ancienne boutique de boza et de sucreries de la ville, où les recettes sont transmises de génération en génération.\r\n\r\nIl ne s'agit pas d'une liste de points d'intérêt, mais d'un aperçu de la vie quotidienne à Skopje, le côté qui vous donne l'impression que la ville vous a confié un secret. Venez en touriste, repartez en ami !\r\n\r\nP.S. Apportez de l'appétit, vous en aurez besoin !",
-      "it": "Skopje ha un ritmo che alla maggior parte dei visitatori sfugge, nascosto nei luoghi di ritrovo quotidiani della gente del posto. Vi porterò in luoghi che nessun turista ha mai programmato di vedere, se non per caso, ma sempre molto centrali.\r\n\r\nQuesto tour gastronomico a piedi include degustazioni in tre luoghi iconici che mi hanno superato (e non sono più così giovane). Ci incontreremo nella chiesa principale, dove condividerò un po' di storia prima della nostra avventura culinaria.\r\n\r\nInizieremo con una passeggiata in un vivace mercato contadino, dove le bancarelle traboccano di prodotti freschi e l'aria ronza di chiacchiere locali. All'interno si nasconde una piccola panetteria dove assaggeremo quello che molti definiscono il miglior burek della città. Da lì ci dirigeremo verso il quartiere bohémien, noto per le sue kafane e l'atmosfera rilassata che i locali amano. Ci fermeremo a mangiare la tradizionale kebapchinya grigliata sul carbone, affumicata e indimenticabile. Per finire, visiteremo il più antico negozio di boza e dolci della città, dove le ricette si tramandano da generazioni.\r\n\r\nNon si tratta di una lista di punti di riferimento, ma di un assaggio della vita quotidiana di Skopje, quella che vi farà sentire come se la città vi avesse svelato un segreto. Venite come turisti, andate via come amici!\r\n\r\nP.S. Portate con voi l'appetito, ne avrete bisogno!",
-      "pt": "Skopje tem um ritmo que passa despercebido à maioria dos visitantes, escondido nos locais quotidianos onde os habitantes locais se reúnem. Vou levá-lo a locais que nenhum turista planeia ver - a não ser por acidente, mas ainda assim muito centrais.\r\n\r\nEste passeio gastronómico a pé inclui degustações em três locais emblemáticos que sobreviveram a mim (e já não sou assim tão jovem). Encontrar-nos-emos na igreja principal, onde partilharei um pouco da história antes da nossa aventura culinária.\r\n\r\nComeçaremos com um passeio por um animado mercado de agricultores, onde as bancas transbordam de produtos frescos e o ar fervilha com as conversas locais. Escondida lá dentro está uma pequena padaria onde provaremos o que muitos chamam o melhor burek da cidade. A partir daí, dirigimo-nos para o bairro boémio, conhecido pelas suas kafanas e pelo ambiente descontraído que os habitantes locais adoram. Paramos para comer a tradicional kebapchinya grelhada no carvão, fumegante e inesquecível. Para terminar, visitaremos a loja de boza e doces mais antiga da cidade, onde as receitas são passadas de geração em geração.\r\n\r\nNão se trata de uma lista de pontos de referência, mas de uma amostra da vida quotidiana de Skopje, o lado que nos faz sentir como se a cidade nos tivesse revelado um segredo. Vem como turista, sai como amigo!\r\n\r\nP.S. Traz o apetite, vais precisar dele!"
+      "de": "Entdecken Sie die Seite von Skopje, die es nicht auf die Postkarten schafft. Bei diesem Erlebnis geht es um die Geschmäcker, die unser tägliches Leben bestimmen und die an Orten zu finden sind, die den Test der Zeit bestanden haben. Damit es nicht zu intim wird, ist die Tour auf 6 Gäste begrenzt.\r\n\r\nDies ist eine kulinarische Reise durch vier kultige Einrichtungen. Jede von ihnen ist älter als ich, und ich bin nicht mehr ganz jung! Wir treffen uns in der St.-Clemens-Kathedrale, wo ich ein wenig in die Geschichte einführe, bevor wir uns dem Essen widmen.\r\n\r\nWir beginnen mit dem Ritual des Morgenkaffees in einem der ältesten Cafés von Skopje. Dann tauchen wir in das pulsierende Chaos des Bauernmarktes ein und machen uns auf die Suche nach dem perfekten, flockigen Burek, der in einer kleinen Bäckerei versteckt ist.\r\n\r\nVon dort aus setzen wir uns zum traditionellen Kebapchinja und genießen diese typischen Fleischröllchen auf lokale Art mit warmem Brot, frischen Zwiebeln und einem Hauch von scharfem Pfeffer. Es ist eine rauchige, einfache und unvergessliche Mahlzeit.\r\n\r\nZum Abschluss kehren wir in der ältesten Konditorei der Stadt ein, um Boza und Süßigkeiten zu genießen. Es ist ein nostalgischer Familienbetrieb, in dem die Rezepte seit Generationen unverändert geblieben sind.\r\n\r\nDies ist keine Checkliste von Sehenswürdigkeiten. Es ist eine Kostprobe der Seele von Skopje. Kommen Sie als Tourist und gehen Sie als Freund.\r\n\r\nP.S. Bringen Sie einen Appetit mit. Ganz im Ernst!",
+      "en": "Discover the side of Skopje that doesn't make it onto the postcards. This experience is about the flavors that define our daily life found in venues that have stood the test of time. To keep it intimate, the tour is limited to 6 guests.\r\n\r\nThis is a culinary journey through four iconic institutions. Each one is older than I am, and I am not exactly young anymore! We will meet at the St. Clement Cathedral where I will set the scene with a bit of history before we dive into the food.\r\n\r\nWe begin with the ritual of morning coffee at one of Skopje’s oldest cafés. Then we immerse ourselves in the vibrant chaos of the farmer’s market to hunt down the perfect, flaky burek hidden inside a tiny bakery.\r\n\r\nFrom there we sit down for traditional kebapchinja, enjoying these signature meat rolls the local way with warm bread, fresh onions, and a touch of spicy pepper. It is a smoky, simple, and unforgettable meal.\r\n\r\nWe finish at the city’s oldest confectionery for boza and sweets. It is a nostalgic family-run spot where recipes haven’t changed in generations.\r\n\r\nThis isn’t a checklist of landmarks. It is a taste of Skopje’s soul. Come as a tourist, leave as a friend.\r\n\r\nP.S. Bring an appetite. Seriously!",
+      "es": "Descubra el lado de Skopje que no aparece en las postales. Esta experiencia trata de los sabores que definen nuestra vida cotidiana y que se encuentran en lugares que han resistido el paso del tiempo. Para mantener la intimidad, la visita está limitada a 6 personas.\r\n\r\nSe trata de un viaje culinario a través de cuatro instituciones emblemáticas. Cada uno de ellos es más antiguo que yo, ¡y ya no soy precisamente joven! Nos reuniremos en la Catedral de San Clemente, donde les contaré un poco de historia antes de sumergirnos en la comida.\r\n\r\nComenzaremos con el ritual del café matutino en una de las cafeterías más antiguas de Skopje. A continuación, nos sumergimos en el vibrante caos del mercado agrícola para buscar el burek perfecto y hojaldrado escondido en el interior de una pequeña panadería.\r\n\r\nDesde allí nos sentamos a degustar el tradicional kebapchinja, disfrutando de estos característicos rollos de carne a la manera local, con pan caliente, cebollas frescas y un toque de pimienta picante. Es una comida humeante, sencilla e inolvidable.\r\n\r\nTerminamos en la confitería más antigua de la ciudad para degustar boza y dulces. Es un nostálgico lugar familiar donde las recetas no han cambiado en generaciones.\r\n\r\nEsto no es una lista de lugares emblemáticos. Es una muestra del alma de Skopje. Venga como turista y váyase como amigo.\r\n\r\nP.D. Traiga apetito. En serio",
+      "fr": "Découvrez le côté de Skopje qui ne figure pas sur les cartes postales. Cette expérience porte sur les saveurs qui définissent notre vie quotidienne et que l'on trouve dans des lieux qui ont résisté à l'épreuve du temps. Pour préserver l'intimité, la visite est limitée à 6 personnes.\r\n\r\nIl s'agit d'un voyage culinaire à travers quatre établissements emblématiques. Chacun d'entre eux est plus vieux que moi, et je ne suis plus tout à fait jeune ! Nous nous retrouverons à la cathédrale Saint-Clément, où je planterai le décor avec un peu d'histoire avant de nous plonger dans la cuisine.\r\n\r\nNous commencerons par le rituel du café matinal dans l'un des plus anciens cafés de Skopje. Ensuite, nous nous immergeons dans le chaos vibrant du marché fermier pour dénicher le parfait burek feuilleté caché dans une minuscule boulangerie.\r\n\r\nEnsuite, nous nous asseyons pour déguster la traditionnelle kebapchinja, ces petits pains à la viande typiques de la région, avec du pain chaud, des oignons frais et une touche de piment. C'est un repas fumé, simple et inoubliable.\r\n\r\nNous terminons par la plus ancienne confiserie de la ville pour une boza et des sucreries. C'est un endroit familial et nostalgique où les recettes n'ont pas changé depuis des générations.\r\n\r\nIl ne s'agit pas d'une liste de points de repère. C'est un aperçu de l'âme de Skopje. Venez en touriste, repartez en ami.\r\n\r\nP.S. Apportez de l'appétit. Sérieusement !",
+      "it": "Scoprite il lato di Skopje che non compare nelle cartoline. Questa esperienza riguarda i sapori che definiscono la nostra vita quotidiana e che si trovano in locali che hanno superato la prova del tempo. Per mantenere l'intimità, il tour è limitato a 6 persone.\r\n\r\nSi tratta di un viaggio culinario attraverso quattro istituzioni iconiche. Ognuna di esse è più vecchia di me, e io non sono più tanto giovane! Ci incontreremo alla Cattedrale di San Clemente dove preparerò la scena con un po' di storia prima di immergerci nel cibo.\r\n\r\nInizieremo con il rito del caffè mattutino in uno dei più antichi caffè di Skopje. Poi ci immergiamo nel vivace caos del mercato contadino per andare a caccia del burek perfetto e sfogliato nascosto in una minuscola panetteria.\r\n\r\nDa lì ci sediamo per la tradizionale kebapchinja, gustando questi caratteristici involtini di carne alla maniera locale con pane caldo, cipolle fresche e un tocco di pepe piccante. È un pasto affumicato, semplice e indimenticabile.\r\n\r\nConcludiamo con la pasticceria più antica della città per gustare boza e dolci. È un luogo nostalgico a conduzione familiare dove le ricette non sono cambiate da generazioni.\r\n\r\nNon si tratta di una lista di punti di riferimento. È un assaggio dell'anima di Skopje. Venite come turisti, andate via come amici.\r\n\r\nP.S. Portate con voi l'appetito. Davvero!",
+      "pt": "Descubra o lado de Skopje que não aparece nos postais. Esta experiência é sobre os sabores que definem a nossa vida quotidiana, encontrados em locais que resistiram ao teste do tempo. Para manter a intimidade, a visita é limitada a 6 pessoas.\r\n\r\nEsta é uma viagem culinária através de quatro instituições icónicas. Cada uma delas é mais velha do que eu, e eu já não sou exatamente jovem! Encontrar-nos-emos na Catedral de S. Clemente, onde prepararei o cenário com um pouco de história antes de mergulharmos na comida.\r\n\r\nComeçamos com o ritual do café matinal num dos cafés mais antigos de Skopje. Depois, mergulhamos no caos vibrante do mercado dos agricultores para caçar o burek perfeito e escamoso escondido numa pequena padaria.\r\n\r\nA partir daí, sentamo-nos para comer o tradicional kebapchinja, saboreando estes rolos de carne típicos da região com pão quente, cebolas frescas e um toque de pimenta picante. É uma refeição fumada, simples e inesquecível.\r\n\r\nTerminamos na confeitaria mais antiga da cidade para comer boza e doces. É um local nostálgico e familiar onde as receitas não mudam há gerações.\r\n\r\nEsta não é uma lista de pontos de referência. É uma amostra da alma de Skopje. Venha como turista, saia como amigo.\r\n\r\nP.S. Tragam o apetite. A sério!"
     },
     "providerTitle": "Damian",
     "providerPhone": "+38971325293",
@@ -3574,10 +3574,10 @@
       "it": "https://www.freetour.com/it/skopje/skopje-free-food-tour-eat-like-a-local?referralID=elOi919SrKG94LbT"
     },
     "price": {
-      "value": 0,
+      "value": 35,
       "currency": "EUR"
     },
-    "length": "1:30",
+    "length": "2:00",
     "meetingPoint": {
       "title": "Archbishop Cathedral „St. Clement of Ohrid”",
       "coordinates": "41.9985237,21.4264284",
@@ -3586,13 +3586,11 @@
     "cityId": 2838,
     "countryId": 90,
     "includes": [
-      "Food",
-      "Some More Food",
-      "Bohemian Street Stroll",
+      "Kickstart with a Coffee",
+      "Local Breakfast Selection",
+      "Traditional Lunch Bite",
       "Legendary Confectionery Shop",
-      "Debar Maalo Neighborhood",
       "Farmer's Market Visit",
-      "Top Café & Bar Picks",
       "Restaurant Recommendations",
       "Largest Orthodox Cathedral ",
       "Some History",
@@ -3600,7 +3598,7 @@
     ],
     "POIs": null,
     "titleImageURL": "https://www.freetour.com/images/tours/83594/skopje-free-food-tour-eat-like-a-local-11.jpg",
-    "categoryId": 12,
+    "categoryId": 5,
     "images": [
       {
         "id": 289663,
@@ -3629,6 +3627,10 @@
       {
         "id": 289669,
         "URL": "https://www.freetour.com/images/tours/83594/skopje-free-food-tour-eat-like-a-local-17.jpg"
+      },
+      {
+        "id": 300545,
+        "URL": "https://www.freetour.com/images/tours/83594/skopje-free-food-tour-eat-like-a-local-01.jpg"
       }
     ],
     "videoURL": null,
@@ -3637,7 +3639,7 @@
   },
   {
     "id": 85373,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Free Tour of Tetovo",
       "es": "Visita gratuita a Tetovo",

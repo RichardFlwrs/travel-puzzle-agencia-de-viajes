@@ -1,7 +1,7 @@
 [
   {
     "id": 5594,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Stavanger City Tour",
       "es": "Tour por la Ciudad de Stavanger",
@@ -121,7 +121,7 @@
   },
   {
     "id": 42366,
-    "updatedAt": "2025-12-01 03:32:41",
+    "updatedAt": "2025-12-11 03:32:34",
     "title": {
       "en": "Walking Tour Around Bergen",
       "es": "Recorrido a pie por Bergen",
@@ -192,12 +192,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.87,
-    "reviewsNumber": 17
+    "rating": 4.88,
+    "reviewsNumber": 18
   },
   {
     "id": 51046,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free Walking Tour Bergen",
       "es": "Visita guiada gratuita a pie por Bergen",
@@ -296,11 +296,11 @@
     ],
     "videoURL": null,
     "rating": 4.73,
-    "reviewsNumber": 116
+    "reviewsNumber": 118
   },
   {
     "id": 51636,
-    "updatedAt": "2025-12-01 03:32:42",
+    "updatedAt": "2025-12-11 03:32:35",
     "title": {
       "en": "Free City Walking Tour in Oslo",
       "es": "Visita gratuita a pie por Oslo",
@@ -512,11 +512,11 @@
     ],
     "videoURL": null,
     "rating": 4.87,
-    "reviewsNumber": 109
+    "reviewsNumber": 110
   },
   {
     "id": 51944,
-    "updatedAt": "2025-12-01 20:06:23",
+    "updatedAt": "2025-12-11 11:07:37",
     "title": {
       "en": "Free Walking Tour Oslo",
       "es": "Visita gratuita a pie por Oslo",
@@ -647,11 +647,11 @@
     ],
     "videoURL": null,
     "rating": 4.8100000000000005,
-    "reviewsNumber": 303
+    "reviewsNumber": 311
   },
   {
     "id": 60830,
-    "updatedAt": "2025-12-01 21:33:02",
+    "updatedAt": "2025-12-11 03:32:36",
     "title": {
       "en": "Walking Tour of Historic Oslo",
       "es": "Visita a pie por el Oslo Histórico",
@@ -797,11 +797,11 @@
     ],
     "videoURL": null,
     "rating": 4.7,
-    "reviewsNumber": 50
+    "reviewsNumber": 51
   },
   {
     "id": 65145,
-    "updatedAt": "2025-12-01 03:32:43",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Oslo History, Art & Secrets Tour",
       "es": "Historia, arte y secretos de Oslo",
@@ -903,12 +903,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 4.67,
-    "reviewsNumber": 107
+    "rating": 4.68,
+    "reviewsNumber": 108
   },
   {
     "id": 65845,
-    "updatedAt": "2025-12-01 15:26:07",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Oslo Christmas Freetour",
       "es": "Recorrido navideño por Oslo",
@@ -999,12 +999,12 @@
       }
     ],
     "videoURL": null,
-    "rating": 3.69,
-    "reviewsNumber": 13
+    "rating": 3.79,
+    "reviewsNumber": 14
   },
   {
     "id": 69041,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Oslo Free Tour: Local History and Culture",
       "es": "Oslo Free Tour: Historia y Cultura Local",
@@ -1204,7 +1204,7 @@
   },
   {
     "id": 69435,
-    "updatedAt": "2025-12-01 03:32:44",
+    "updatedAt": "2025-12-11 03:32:37",
     "title": {
       "en": "Explore the Essentials of Stavanger and its Curiosities",
       "es": "Explora lo Esencial de Stavanger y sus Curiosidades",
@@ -1462,7 +1462,7 @@
   },
   {
     "id": 77219,
-    "updatedAt": "2025-12-01 00:04:32",
+    "updatedAt": "2025-12-11 00:04:34",
     "title": {
       "en": "Flavors of Oslo Experience",
       "es": "Sabores de Oslo",
@@ -1536,7 +1536,7 @@
   },
   {
     "id": 82021,
-    "updatedAt": "2025-12-01 03:32:46",
+    "updatedAt": "2025-12-11 03:32:39",
     "title": {
       "en": "Oslo Viking Heritage Free Tour: Walk with Our Vikings",
       "es": "Visita gratuita al Patrimonio Vikingo de Oslo: Camine con nuestros vikingos",
@@ -1684,7 +1684,7 @@
   },
   {
     "id": 83832,
-    "updatedAt": "2025-12-01 03:32:47",
+    "updatedAt": "2025-12-11 03:32:40",
     "title": {
       "en": "Oslo Seasonal Tour: Autumn Colors at Golden Hour",
       "es": "Visita Estacional a Oslo: Colores de otoño en la hora dorada",
