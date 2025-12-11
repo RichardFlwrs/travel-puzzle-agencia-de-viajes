@@ -361,9 +361,10 @@ export function ToursPageClient({
         const paginationChanged = urlPagination.page !== previousPaginationRef.current.page;
 
         if (filtersChanged || paginationChanged) {
-            // Check if country changed (most significant change)
+            // Check if country or search changed (most significant changes)
             const countryChanged = urlFilters.countryId !== previousFiltersRef.current.countryId;
-            if (countryChanged) {
+            const searchChanged = urlFilters.search !== previousFiltersRef.current.search;
+            if (countryChanged || searchChanged) {
                 setIsFiltersChanging(true);
             }
             
@@ -389,7 +390,12 @@ export function ToursPageClient({
         const countryChanged = newFilters.countryId !== undefined && 
                                newFilters.countryId !== uiFilters.countryId;
         
-        if (countryChanged) {
+        // Check if search is changing
+        const searchChanged = newFilters.search !== undefined && 
+                              newFilters.search !== uiFilters.search;
+        
+        // Show loading for significant filter changes (country or search)
+        if (countryChanged || searchChanged) {
             setIsFiltersChanging(true);
             // Clear any existing timeout
             if (filtersChangingTimeoutRef.current) {

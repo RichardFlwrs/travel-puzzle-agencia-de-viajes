@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useLanguage } from '@/lib/language-context';
 import { TourFilters } from '@/lib/utils/tour-search';
 import { Input } from '@/components/ui/Input';
@@ -25,10 +25,40 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
   citiesProgress = 0,
 }) => {
   const { t } = useLanguage();
+  
+  // Local state for search input with debouncing
+  const [searchValue, setSearchValue] = useState(filters.search || '');
+  const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
+  // Sync local search value with filters prop
+  useEffect(() => {
+    setSearchValue(filters.search || '');
+  }, [filters.search]);
+
+  // Debounced search handler
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    onFilterChange({ search: e.target.value });
+    const value = e.target.value;
+    setSearchValue(value);
+    
+    // Clear existing timeout
+    if (searchTimeoutRef.current) {
+      clearTimeout(searchTimeoutRef.current);
+    }
+    
+    // Debounce: wait 500ms after user stops typing before applying filter
+    searchTimeoutRef.current = setTimeout(() => {
+      onFilterChange({ search: value });
+    }, 500);
   };
+
+  // Cleanup timeout on unmount
+  useEffect(() => {
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current);
+      }
+    };
+  }, []);
 
   const handleCountryChange = (country: { id: number; name: string; count?: number } | null) => {
     onFilterChange({
@@ -79,7 +109,7 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
           <Input
             type="text"
             placeholder={t('tours.filters.searchPlaceholder')}
-            value={filters.search || ''}
+            value={searchValue}
             onChange={handleSearchChange}
           />
         </div>

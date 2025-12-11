@@ -27,13 +27,14 @@ export function paginateJsonTours(
   // Start with all tours
   let filteredTours = [...tours];
 
-  // Apply filters
-  // City filter
+  // Apply filters in order of selectivity (most selective first for performance)
+  
+  // City filter (very selective - apply first)
   if (filters.cityId !== undefined) {
     filteredTours = filteredTours.filter(tour => tour.cityId === filters.cityId);
   }
 
-  // Price range filters
+  // Price range filters (selective - apply early)
   if (filters.minPrice !== undefined) {
     filteredTours = filteredTours.filter(tour => tour.price.value >= filters.minPrice!);
   }
@@ -41,9 +42,33 @@ export function paginateJsonTours(
     filteredTours = filteredTours.filter(tour => tour.price.value <= filters.maxPrice!);
   }
 
-  // Category filter
+  // Category filter (selective - apply early)
   if (filters.categoryId !== undefined) {
     filteredTours = filteredTours.filter(tour => tour.categoryId === filters.categoryId);
+  }
+
+  // Text search filter (less selective but important - apply after other filters for performance)
+  if (pagination.searchValue && pagination.searchValue.trim()) {
+    const searchLower = pagination.searchValue.toLowerCase().trim();
+    const searchTerms = searchLower.split(/\s+/).filter(term => term.length > 0); // Split into words
+    
+    // Get language from filters or default to 'en'
+    const language = filters.language || 'en';
+    
+    filteredTours = filteredTours.filter(tour => {
+      // Get searchable text fields
+      const title = (tour.title[language as keyof typeof tour.title] || tour.title.en || '').toLowerCase();
+      const brief = (tour.brief?.[language as keyof typeof tour.brief] || tour.brief?.en || '').toLowerCase();
+      const description = (tour.description?.[language as keyof typeof tour.description] || tour.description?.en || '').toLowerCase();
+      const destination = (tour.meetingPoint?.title || '').toLowerCase();
+      
+      // Combine all searchable text
+      const searchableText = `${title} ${brief} ${description} ${destination}`;
+      
+      // Check if all search terms are present (AND logic - all words must match)
+      // This provides more relevant results than OR logic
+      return searchTerms.every(term => searchableText.includes(term));
+    });
   }
 
   // Apply sorting
