@@ -7,9 +7,9 @@ import type { TourWithRelations } from './repositories/tour-repository';
  */
 export function transformDBTourToUITour(dbTour: TourWithRelations, language: string = 'en'): Tour {
   // Find the translation for the requested language, fallback to first available or English
-  const translation = dbTour.translations.find(t => t.language === language) 
-    || dbTour.translations.find(t => t.language === 'en') 
-    || dbTour.translations[0];
+  const translation = dbTour.translations?.find((t: { language: string }) => t.language === language) 
+    || dbTour.translations?.find((t: { language: string }) => t.language === 'en') 
+    || dbTour.translations?.[0];
   
   // Extract city name from JSON translations object
   const cityTranslations = dbTour.city.translations as Record<string, string> | null;
