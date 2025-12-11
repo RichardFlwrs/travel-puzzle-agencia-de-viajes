@@ -1,5 +1,6 @@
 'use client';
 
+import React from 'react';
 import { useQuery, useMutation, useQueryClient, keepPreviousData } from '@tanstack/react-query';
 import {
   fetchTours,
@@ -117,14 +118,47 @@ export function useCities(countryId?: number, language: string = 'en') {
 
 /**
  * Hook to fetch cities from FreeTour API by country
+ * Returns progress state for UI feedback (simulated during loading)
  */
 export function useCitiesFromAPI(countryId: number | undefined, language: string = 'en') {
-  return useQuery({
+  const [progress, setProgress] = React.useState(0);
+
+  const query = useQuery({
     queryKey: tourKeys.citiesFromAPI(countryId, language),
-    queryFn: () => fetchCitiesFromAPI(countryId!, language),
+    queryFn: async () => {
+      // Reset progress when starting
+      setProgress(0);
+      
+      // Simulate progress during fetch (since server actions can't provide real-time progress)
+      const progressInterval = setInterval(() => {
+        setProgress(prev => {
+          if (prev >= 90) return prev; // Don't go to 100% until complete
+          // Increment progress with decreasing speed (ease-out effect)
+          return Math.min(90, prev + Math.random() * 15);
+        });
+      }, 200);
+
+      try {
+        const result = await fetchCitiesFromAPI(countryId!, language);
+        clearInterval(progressInterval);
+        setProgress(100);
+        // Reset progress after a brief moment
+        setTimeout(() => setProgress(0), 300);
+        return result;
+      } catch (error) {
+        clearInterval(progressInterval);
+        setProgress(0);
+        throw error;
+      }
+    },
     enabled: !!countryId && countryId > 0, // Only fetch when country is selected
     staleTime: 30 * 60 * 1000, // 30 minutes
   });
+
+  return {
+    ...query,
+    progress: query.isLoading ? progress : 0,
+  };
 }
 
 /**

@@ -7,6 +7,7 @@ import { Navbar } from '@/components/layout/Navbar';
 import { TourCard } from '@/components/tours/TourCard';
 import { TourFiltersPanel } from '@/components/tours/TourFiltersPanel';
 import { TourGridSkeleton } from '@/components/tours/TourGridSkeleton';
+import { ProgressBar } from '@/components/ui/ProgressBar';
 import { useTours, useCitiesFromAPI } from '@/lib/queries/tours';
 import { transformDBToursToUITours, transformCountryForFilter } from '@/lib/db/tour-transformer';
 import type { TourFilters as RepositoryTourFilters } from '@/lib/db/repositories/tour-repository';
@@ -26,6 +27,7 @@ interface ToursPageClientProps {
         syncStatus: string;
     };
     initialLanguage: SupportedLanguage;
+    initialCitiesData?: Array<{ id: number; name: string }>;
 }
 
 export function ToursPageClient({
@@ -33,6 +35,7 @@ export function ToursPageClient({
     initialCountriesData,
     initialMetadata,
     initialLanguage,
+    initialCitiesData,
 }: ToursPageClientProps) {
     const { t, language } = useLanguage();
     const router = useRouter();
@@ -175,7 +178,7 @@ export function ToursPageClient({
     // Fetch tours with filters and pagination
     // Only pass initialData if query key matches (no filters, page 1, same language)
     // This prevents React Query from using stale initialData when filters change
-    const { data: toursData, isLoading: isLoadingTours } = useTours(
+    const { data: toursData, isLoading: isLoadingTours, isFetching: isFetchingTours } = useTours(
         repositoryFilters,
         paginationWithSearch,
         {
@@ -187,7 +190,19 @@ export function ToursPageClient({
     const currentToursData = toursData;
 
     // Fetch cities for filters (only when country is selected)
-    const { data: citiesData, isLoading: isLoadingCities } = useCitiesFromAPI(uiFilters.countryId, language);
+    // Use preloaded cities if available (Mexico, countryId=99, same language)
+    const shouldUsePreloadedCities = 
+        initialCitiesData && 
+        initialCitiesData.length > 0 &&
+        uiFilters.countryId === 99 && 
+        language === initialLanguage;
+    
+    // Fetch cities (will use React Query cache if available)
+    // For Mexico with preloaded data, React Query will use cached data or fetch in background
+    const { data: citiesData, isLoading: isLoadingCities, progress: citiesProgress } = useCitiesFromAPI(
+        uiFilters.countryId,
+        language
+    );
 
     // Transform data for UI
     const tours = currentToursData?.data
@@ -196,7 +211,12 @@ export function ToursPageClient({
     const countries = initialCountriesData.map(country =>
         transformCountryForFilter(country, language)
     );
-    const cities = citiesData || []; // API already returns in correct format
+    // Use preloaded cities immediately if available and conditions match
+    // This provides instant city list for Mexico on initial load
+    // Once React Query fetches, it will update with fresh data
+    const cities = shouldUsePreloadedCities && !citiesData
+        ? initialCitiesData 
+        : (citiesData || initialCitiesData || []); // Prefer fetched data, fallback to preloaded
 
     // Update URL params when filters or pagination change
     const updateUrlParams = useCallback(
@@ -341,6 +361,12 @@ export function ToursPageClient({
         const paginationChanged = urlPagination.page !== previousPaginationRef.current.page;
 
         if (filtersChanged || paginationChanged) {
+            // Check if country changed (most significant change)
+            const countryChanged = urlFilters.countryId !== previousFiltersRef.current.countryId;
+            if (countryChanged) {
+                setIsFiltersChanging(true);
+            }
+            
             isUpdatingFromUrl.current = true;
             setUiFilters(urlFilters);
             setPagination(urlPagination);
@@ -354,11 +380,42 @@ export function ToursPageClient({
         }
     }, [searchParams, parseUrlParams]);
 
+    // Track when filters are changing to show loading immediately
+    const [isFiltersChanging, setIsFiltersChanging] = useState(false);
+    const filtersChangingTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+
     const handleFilterChange = (newFilters: Partial<UITourFilters>) => {
+        // Check if country is changing (most significant filter change)
+        const countryChanged = newFilters.countryId !== undefined && 
+                               newFilters.countryId !== uiFilters.countryId;
+        
+        if (countryChanged) {
+            setIsFiltersChanging(true);
+            // Clear any existing timeout
+            if (filtersChangingTimeoutRef.current) {
+                clearTimeout(filtersChangingTimeoutRef.current);
+            }
+        }
+        
         setUiFilters(prev => ({ ...prev, ...newFilters }));
         // Reset to page 1 when filters change
         setPagination(prev => ({ ...prev, page: 1 }));
     };
+
+    // Clear filters changing state when data is loaded
+    useEffect(() => {
+        if (!isFetchingTours && !isLoadingTours && isFiltersChanging) {
+            // Small delay to ensure smooth transition
+            filtersChangingTimeoutRef.current = setTimeout(() => {
+                setIsFiltersChanging(false);
+            }, 300);
+        }
+        return () => {
+            if (filtersChangingTimeoutRef.current) {
+                clearTimeout(filtersChangingTimeoutRef.current);
+            }
+        };
+    }, [isFetchingTours, isLoadingTours, isFiltersChanging]);
 
     const handlePaginationChange = (newPage: number) => {
         setPagination(prev => ({ ...prev, page: newPage }));
@@ -391,12 +448,23 @@ export function ToursPageClient({
                             countries={countries}
                             cities={cities}
                             isLoadingCities={isLoadingCities}
+                            citiesProgress={citiesProgress}
                         />
                     </div>
 
                     {/* Tours Grid */}
                     <div className="lg:col-span-3">
-                        {isLoadingTours ? (
+                        {/* Show loading indicator when filters are changing or data is fetching */}
+                        {(isFetchingTours || isLoadingTours || isFiltersChanging) && (
+                            <div className="mb-4">
+                                <ProgressBar
+                                    progress={isFiltersChanging ? 50 : isFetchingTours ? 75 : 90}
+                                    isLoading={true}
+                                    showPercentage={false}
+                                />
+                            </div>
+                        )}
+                        {(isLoadingTours || isFiltersChanging) ? (
                             <TourGridSkeleton count={6} />
                         ) : tours.length === 0 ? (
                             <div className="text-center py-12">

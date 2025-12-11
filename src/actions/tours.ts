@@ -84,9 +84,12 @@ export async function fetchCities(countryId?: number, language: string = 'en') {
 
 /**
  * Fetch cities directly from FreeTour API
+ * Note: Progress tracking is not available in server actions.
+ * For progress tracking, use the API route instead.
  */
 export async function fetchCitiesFromAPI(countryId: number, language: string = 'en') {
   try {
+    // Server actions can't pass callbacks, so we call without progress callback
     const response = await freeTourClient.fetchCities(countryId);
     
     // Transform to simple format with current language

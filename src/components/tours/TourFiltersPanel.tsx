@@ -5,6 +5,7 @@ import { Input } from '@/components/ui/Input';
 import { Button } from '@/components/ui/Button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/Card';
 import { SearchDropdown } from '@/components/forms/SearchDropdown';
+import { ProgressBar } from '@/components/ui/ProgressBar';
 
 interface TourFiltersPanelProps {
   filters: TourFilters;
@@ -12,6 +13,7 @@ interface TourFiltersPanelProps {
   countries: Array<{ id: number; name: string; count?: number }>;
   cities: Array<{ id: number; name: string }>;
   isLoadingCities?: boolean;
+  citiesProgress?: number;
 }
 
 export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
@@ -20,6 +22,7 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
   countries,
   cities,
   isLoadingCities = false,
+  citiesProgress = 0,
 }) => {
   const { t } = useLanguage();
 
@@ -137,6 +140,15 @@ export const TourFiltersPanel: React.FC<TourFiltersPanelProps> = ({
               </option>
             ))}
           </select>
+          {isLoadingCities && (
+            <div className="mt-2">
+              <ProgressBar
+                progress={citiesProgress}
+                isLoading={isLoadingCities}
+                showPercentage={false}
+              />
+            </div>
+          )}
         </div>
 
         {/* Price Range */}

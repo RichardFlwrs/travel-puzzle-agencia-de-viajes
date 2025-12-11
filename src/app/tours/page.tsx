@@ -1,5 +1,5 @@
 import { ToursPageClient } from '@/components/tours/ToursPageClient';
-import { fetchTours, fetchCountries, fetchToursMetadata } from '@/actions/tours';
+import { fetchTours, fetchCountries, fetchToursMetadata, fetchCitiesFromAPI } from '@/actions/tours';
 import { getPreferredLanguage } from '@/lib/utils/cookies';
 import type { TourFilters } from '@/lib/db/repositories/tour-repository';
 import type { PaginationParams } from '@/lib/db/pagination';
@@ -57,13 +57,20 @@ export default async function ToursPage({ searchParams }: ToursPageProps) {
   };
 
   // Fetch initial data in parallel
-  const [toursData, countriesData, metadata] = await Promise.all([
+  // Preload cities for Mexico (countryId=99) since it's the default country
+  const [toursData, countriesData, metadata, citiesData] = await Promise.all([
     // Fetch tours with filters from URL params (or defaults)
     fetchTours(filters, pagination),
     // Fetch countries for filters
     fetchCountries(language),
     // Fetch metadata
     fetchToursMetadata(),
+    // Preload cities for Mexico (countryId=99) to improve UX
+    fetchCitiesFromAPI(99, language).catch(error => {
+      // If cities fetch fails, return empty array (non-blocking)
+      console.error('Failed to preload cities for Mexico:', error);
+      return [];
+    }),
   ]);
 
   // Format lastUpdated date on server to avoid hydration mismatch
@@ -92,6 +99,7 @@ export default async function ToursPage({ searchParams }: ToursPageProps) {
         lastUpdatedFormatted: formattedLastUpdated,
       }}
       initialLanguage={language}
+      initialCitiesData={citiesData}
     />
   );
 }

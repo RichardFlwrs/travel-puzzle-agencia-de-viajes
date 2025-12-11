@@ -264,7 +264,10 @@ export class FreeTourClient {
     return response.json();
   }
 
-  async fetchCities(countryId: number): Promise<FreeTourCitiesResponse> {
+  async fetchCities(
+    countryId: number,
+    onProgress?: (progress: number) => void
+  ): Promise<FreeTourCitiesResponse> {
     await this.ensureAuthenticated();
 
     if (!this.accessToken) {
@@ -282,6 +285,42 @@ export class FreeTourClient {
       throw new Error(`FreeTour cities fetch failed: ${response.statusText}`);
     }
 
+    // Track progress if callback provided and Content-Length is available
+    const contentLength = response.headers.get('Content-Length');
+    if (onProgress && contentLength && response.body) {
+      const total = parseInt(contentLength, 10);
+      let loaded = 0;
+
+      const reader = response.body.getReader();
+      const chunks: Uint8Array[] = [];
+
+      while (true) {
+        const { done, value } = await reader.read();
+        
+        if (done) break;
+        
+        chunks.push(value);
+        loaded += value.length;
+        
+        // Calculate and report progress
+        const progress = Math.min(100, Math.round((loaded / total) * 100));
+        onProgress(progress);
+      }
+
+      // Reconstruct the response body
+      const allChunks = new Uint8Array(loaded);
+      let position = 0;
+      for (const chunk of chunks) {
+        allChunks.set(chunk, position);
+        position += chunk.length;
+      }
+
+      // Parse the complete response
+      const text = new TextDecoder().decode(allChunks);
+      return JSON.parse(text);
+    }
+
+    // Fallback to standard json() if no progress tracking
     return response.json();
   }
 
