@@ -6,7 +6,7 @@ interface FreeTourAuthResponse {
     token: {
       accessToken: string;
       tokenType: string;
-      expiresAt: string;
+      expiresAt: string;  
     };
     user: {
       email: string;
@@ -484,6 +484,75 @@ export class FreeTourClient {
 
     if (!response.ok) {
       throw new Error(`FreeTour booking fetch failed: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+
+  async createBooking(bookingData: {
+    eventId: number;
+    adults: number;
+    children: number;
+    price: number;
+    customer: {
+      email: string;
+      firstName: string;
+      lastName: string;
+      phone?: string;
+    };
+  }) {
+    await this.ensureAuthenticated();
+
+    if (!this.accessToken) {
+      throw new Error('FreeTour authentication failed: No access token available');
+    }
+
+    // Headers completos para evitar bloqueos por WAF o validaciones estrictas
+    // Siguiendo las mejores prácticas de integración (referencia: Hellotickets)
+    const headers: HeadersInit = {
+      'Authorization': `Bearer ${this.accessToken}`,
+      'Content-Type': 'application/json',
+      'Accept': 'application/json',
+      'User-Agent': 'TravelPuzzle-Integration/1.0',
+      'Accept-Language': 'en-US,en;q=0.9',
+    };
+
+    console.log('[FreeTourClient] Creating booking with data:', JSON.stringify(bookingData, null, 2));
+    console.log('[FreeTourClient] Request URL:', `${this.baseURL}/booking`);
+    console.log('[FreeTourClient] Headers (masked):', {
+      ...headers,
+      'Authorization': 'Bearer ***MASKED***',
+    });
+
+    const response = await fetch(`${this.baseURL}/booking`, {
+      method: 'POST',
+      headers,
+      body: JSON.stringify(bookingData),
+    });
+
+    // Log response headers for debugging (especialmente útil para diagnosticar 403)
+    console.log('[FreeTourClient] Response status:', response.status, response.statusText);
+    console.log('[FreeTourClient] Response headers:', Object.fromEntries(response.headers.entries()));
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error('[FreeTourClient] Booking error response:', errorText);
+      console.error('[FreeTourClient] Response headers on error:', Object.fromEntries(response.headers.entries()));
+      
+      // Intentar parsear el error como JSON si es posible
+      let errorDetails;
+      try {
+        errorDetails = JSON.parse(errorText);
+      } catch {
+        errorDetails = errorText;
+      }
+
+      const error = new Error(
+        `FreeTour booking creation failed: ${response.status} ${response.statusText} - ${JSON.stringify(errorDetails)}`
+      );
+      (error as any).status = response.status;
+      (error as any).responseHeaders = Object.fromEntries(response.headers.entries());
+      throw error;
     }
 
     return response.json();
